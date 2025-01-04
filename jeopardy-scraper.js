@@ -1,16 +1,199 @@
 const axios = require("axios");
 const cheerio = require("cheerio");
 const fs = require("fs");
+const path = require("path");
 
-// game numbers
-// 1-9083
+//------------------------------------------------------------------------------
+//------------------------------------------------------------------------------
+function convertValueToInteger(valueString) {
+  const value = parseInt(valueString.replace(/[$,D: ]/g, "")) || 0;
+  return value;
+}
 
+//------------------------------------------------------------------------------
+//------------------------------------------------------------------------------
+function modifyResponses(responses, runningScores) {
+  if (!responses || responses.length < 2) return responses;
+
+  const modifiedResponses = [];
+
+  // Process pairs of responses (0,1), (2,3), and (4,5)
+  for (let i = 0; i < responses.length; i += 2) {
+    if (i + 1 < responses.length) {
+      // Add value from the second entry to the first entry
+      const firstEntry = {...responses[i]};
+      firstEntry.value = convertValueToInteger(responses[i + 1].response);
+
+      // Add finalScore based on running score and whether answer was correct
+      const lastRunningScore = runningScores[firstEntry.contestant] || 0;
+      if (firstEntry.isCorrect) {
+        firstEntry.finalScore = lastRunningScore + firstEntry.value;
+      } else if (firstEntry.isIncorrect) {
+        firstEntry.finalScore = lastRunningScore - firstEntry.value;
+      } else {
+        firstEntry.finalScore = lastRunningScore;
+      }
+
+      modifiedResponses.push(firstEntry);
+    } else {
+      // If there's an unpaired entry, keep it as is
+      modifiedResponses.push(responses[i]);
+    }
+  }
+
+  return modifiedResponses;
+}
+
+//------------------------------------------------------------------------------
+//------------------------------------------------------------------------------
+function modifyGame(gameData) {
+  try {
+    // Initialize running scores for each contestant
+    const runningScores = {};
+    if (gameData.finalScores) {
+      gameData.finalScores.forEach((score) => {
+        runningScores[score.player] = 0;
+      });
+    }
+
+    // Process Jeopardy round
+    if (gameData.rounds.jeopardy && gameData.rounds.jeopardy.clues) {
+      // Sort clues by orderNumber
+      gameData.rounds.jeopardy.clues.sort(
+        (a, b) => (a.orderNumber || Infinity) - (b.orderNumber || Infinity)
+      );
+
+      gameData.rounds.jeopardy.clues.forEach((clue) => {
+        // Convert value to integer
+        if (clue.value) {
+          clue.value = convertValueToInteger(clue.value);
+        }
+
+        if (clue.correctContestants && clue.correctContestants.length > 0) {
+          // Add points for correct answers
+          clue.correctContestants.forEach((contestant) => {
+            if (runningScores.hasOwnProperty(contestant)) {
+              runningScores[contestant] += clue.value;
+            }
+          });
+          // clue.correctContestants.shift(); // Remove first item
+        }
+        if (clue.incorrectContestants && clue.incorrectContestants.length > 0) {
+          // Subtract points for incorrect answers
+          clue.incorrectContestants.forEach((contestant) => {
+            if (
+              contestant !== "Triple Stumper" &&
+              runningScores.hasOwnProperty(contestant)
+            ) {
+              runningScores[contestant] -= clue.value;
+            }
+          });
+          // Remove first item and "Triple Stumper"
+          // clue.incorrectContestants.shift();
+          clue.incorrectContestants = clue.incorrectContestants.filter(
+            (contestant) => contestant !== "Triple Stumper"
+          );
+        }
+
+        // Add running scores to the clue
+        clue.runningScores = Object.entries(runningScores).map(
+          ([player, score]) => ({
+            player,
+            score,
+          })
+        );
+      });
+    }
+
+    // Process Double Jeopardy round
+    if (
+      gameData.rounds.doubleJeopardy &&
+      gameData.rounds.doubleJeopardy.clues
+    ) {
+      // Sort clues by orderNumber
+      gameData.rounds.doubleJeopardy.clues.sort(
+        (a, b) => (a.orderNumber || Infinity) - (b.orderNumber || Infinity)
+      );
+
+      gameData.rounds.doubleJeopardy.clues.forEach((clue) => {
+        // Convert value to integer
+        if (clue.value) {
+          clue.value = convertValueToInteger(clue.value);
+        }
+
+        if (clue.correctContestants && clue.correctContestants.length > 0) {
+          // Add points for correct answers
+          clue.correctContestants.forEach((contestant) => {
+            if (runningScores.hasOwnProperty(contestant)) {
+              runningScores[contestant] += clue.value;
+            }
+          });
+          clue.correctContestants.shift(); // Remove first item
+        }
+        if (clue.incorrectContestants && clue.incorrectContestants.length > 0) {
+          // Subtract points for incorrect answers
+          clue.incorrectContestants.forEach((contestant) => {
+            if (
+              contestant !== "Triple Stumper" &&
+              runningScores.hasOwnProperty(contestant)
+            ) {
+              runningScores[contestant] -= clue.value;
+            }
+          });
+          // Remove first item and "Triple Stumper"
+          clue.incorrectContestants.shift();
+          clue.incorrectContestants = clue.incorrectContestants.filter(
+            (contestant) => contestant !== "Triple Stumper"
+          );
+        }
+
+        // Add running scores to the clue
+        clue.runningScores = Object.entries(runningScores).map(
+          ([player, score]) => ({
+            player,
+            score,
+          })
+        );
+      });
+    }
+
+    // Modify Final Jeopardy responses
+    if (
+      gameData.rounds.finalJeopardy &&
+      gameData.rounds.finalJeopardy.responses
+    ) {
+      gameData.rounds.finalJeopardy.responses = modifyResponses(
+        gameData.rounds.finalJeopardy.responses,
+        runningScores
+      );
+    }
+
+    // Truncate finalScores to three items
+    if (gameData.finalScores && gameData.finalScores.length > 3) {
+      gameData.finalScores = gameData.finalScores.slice(0, 3);
+    }
+
+    // Update contestants array with names from finalScores
+    if (gameData.finalScores && gameData.finalScores.length > 0) {
+      gameData.contestants = gameData.finalScores.map((score) => score.player);
+    }
+  } catch (error) {
+    console.error("Error modifying game:", error);
+    throw error;
+  }
+}
+
+
+//------------------------------------------------------------------------------
+//------------------------------------------------------------------------------
 function parseGameDate(dateString) {
   // Input format: "Monday, September 9, 2024"
   const date = new Date(dateString);
   return date.toISOString().split("T")[0]; // Returns YYYY-MM-DD
 }
 
+//------------------------------------------------------------------------------
+//------------------------------------------------------------------------------
 async function scrapeJeopardyGame(gameId) {
   try {
     // Add a user agent to avoid being blocked
@@ -63,8 +246,11 @@ async function scrapeJeopardyGame(gameId) {
     // Extract Coryat scores
     gameData.coryatScores = parseScoreTable($, "Coryat scores:");
 
+    // Fix up some things
+    modifyGame(gameData);
+
     // Save to JSON file using the formatted date
-    const filename = `games.orig/j-${formattedDate}-${showNumber}-${gameId}.json`;
+    const filename = `games/j-${formattedDate}-${showNumber}-${gameId}.json`;
     fs.writeFileSync(filename, JSON.stringify(gameData, null, 2));
     console.log(`Game data saved to ${filename}`);
 
@@ -78,12 +264,16 @@ async function scrapeJeopardyGame(gameId) {
   }
 }
 
+//------------------------------------------------------------------------------
 // Helper function to add delay between requests
+//------------------------------------------------------------------------------
 function delay(ms) {
   return new Promise((resolve) => setTimeout(resolve, ms));
 }
 
+//------------------------------------------------------------------------------
 // Helper function to parse responses
+//------------------------------------------------------------------------------
 function parseResponses($, elem) {
   const responseText =
     $(elem).find('.clue_text[style="display:none;"]').html() || "";
@@ -108,7 +298,9 @@ function parseResponses($, elem) {
   };
 }
 
+//------------------------------------------------------------------------------
 // Helper function to parse a round's categories and clues
+//------------------------------------------------------------------------------
 function parseRound($, roundSelector) {
   const categories = [];
   const clues = [];
@@ -177,7 +369,9 @@ function parseRound($, roundSelector) {
   return result;
 }
 
+//------------------------------------------------------------------------------
 // Helper function to parse Final Jeopardy
+//------------------------------------------------------------------------------
 function parseFinalJeopardy($) {
   const category = $("#final_jeopardy_round .category_name").text();
   const clue = $("#clue_FJ").text();
@@ -209,7 +403,9 @@ function parseFinalJeopardy($) {
   };
 }
 
+//------------------------------------------------------------------------------
 // Helper function to parse score tables
+//------------------------------------------------------------------------------
 function parseScoreTable($, tableTitle) {
   const players = [];
   // Find the text node containing our title, then navigate to the score table
@@ -229,7 +425,9 @@ function parseScoreTable($, tableTitle) {
   return players;
 }
 
+//------------------------------------------------------------------------------
 // Run the scraper for multiple games
+//------------------------------------------------------------------------------
 async function scrapeGames(gameIds) {
   const results = [];
 
@@ -256,7 +454,9 @@ async function scrapeGames(gameIds) {
   return results;
 }
 
-// Array of game IDs to scrape 1 to 9083
+//------------------------------------------------------------------------------
+// Array of game IDs to scrape 1 to 9086
+//------------------------------------------------------------------------------
 const ranges = [
   [9001, 9086], // 0
   [8501, 9000], // 1
@@ -278,6 +478,8 @@ const ranges = [
   [1, 500], // 17
 ];
 
+//------------------------------------------------------------------------------
+//------------------------------------------------------------------------------
 let iRanges = 0;
 
 const firstGameId = ranges[iRanges][0];
@@ -289,7 +491,8 @@ let gameIds = Array.from(
 console.log(`Scraping games ${firstGameId} to ${lastGameId}`);
 // gameIds = [8501, 8502];
 
-// Start scraping
+//------------------------------------------------------------------------------
+//------------------------------------------------------------------------------
 scrapeGames(gameIds)
   .then((results) => {
     console.log("\nScraping complete!");
