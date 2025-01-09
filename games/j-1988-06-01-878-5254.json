@@ -1,0 +1,1690 @@
+{
+  "gameId": 5254,
+  "showNumber": "878",
+  "title": "Show #878 - Wednesday, June 1, 1988",
+  "date": "1988-06-01",
+  "comments": "",
+  "contestants": [
+    "Jack",
+    "Bob",
+    "Pam"
+  ],
+  "rounds": {
+    "jeopardy": {
+      "categories": [
+        "AMERICAN MUSIC",
+        "ANIMALS",
+        "ROYAL ANNES",
+        "THE MOVIES",
+        "FITNESS",
+        "NUMBER, PLEASE"
+      ],
+      "clues": [
+        {
+          "category": "THE MOVIES",
+          "value": 300,
+          "clue": "In \"Love & Death\", Woody Allen plotted to assassinate this emperor",
+          "answer": "Napoleon",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [
+            "Jack"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jack",
+              "score": 300
+            },
+            {
+              "player": "Bob",
+              "score": 0
+            },
+            {
+              "player": "Pam",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "THE MOVIES",
+          "value": 400,
+          "clue": "This actress' daughter Tisha Sterling played her as a young woman in \"The Whales of August\"",
+          "answer": "Ann Sothern",
+          "isDailyDouble": false,
+          "orderNumber": 2,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Jack",
+              "score": 300
+            },
+            {
+              "player": "Bob",
+              "score": 0
+            },
+            {
+              "player": "Pam",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "THE MOVIES",
+          "value": 500,
+          "clue": "Marlene Dietrich's 1st American film, named for the north African country where it was set",
+          "answer": "Morocco",
+          "isDailyDouble": false,
+          "orderNumber": 3,
+          "correctContestants": [
+            "Bob"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jack",
+              "score": 300
+            },
+            {
+              "player": "Bob",
+              "score": 500
+            },
+            {
+              "player": "Pam",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "ROYAL ANNES",
+          "value": 100,
+          "clue": "Anne of Brittany married 2 kings of this country, Charles VIII & Louis XII",
+          "answer": "France",
+          "isDailyDouble": false,
+          "orderNumber": 4,
+          "correctContestants": [
+            "Pam"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jack",
+              "score": 300
+            },
+            {
+              "player": "Bob",
+              "score": 500
+            },
+            {
+              "player": "Pam",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "category": "FITNESS",
+          "value": 100,
+          "clue": "FOF says that in the U.S. they are: height 5'9\", weight 162 lbs., chest 39\", waist 32\" & hips 38\"",
+          "answer": "typical men's measurements",
+          "isDailyDouble": false,
+          "orderNumber": 5,
+          "correctContestants": [
+            "Pam"
+          ],
+          "incorrectContestants": [
+            "Bob"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jack",
+              "score": 300
+            },
+            {
+              "player": "Bob",
+              "score": 400
+            },
+            {
+              "player": "Pam",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "FITNESS",
+          "value": 200,
+          "clue": "In race walking, no running is allowed, & one foot must always be judged as doing this",
+          "answer": "touching the ground",
+          "isDailyDouble": false,
+          "orderNumber": 6,
+          "correctContestants": [
+            "Jack"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jack",
+              "score": 500
+            },
+            {
+              "player": "Bob",
+              "score": 400
+            },
+            {
+              "player": "Pam",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "THE MOVIES",
+          "value": 200,
+          "clue": "In this comedy based on a 1933 German film, Julie Andrews played a woman playing a man playing a woman",
+          "answer": "Victor Victoria",
+          "isDailyDouble": false,
+          "orderNumber": 7,
+          "correctContestants": [
+            "Pam"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jack",
+              "score": 500
+            },
+            {
+              "player": "Bob",
+              "score": 400
+            },
+            {
+              "player": "Pam",
+              "score": 400
+            }
+          ]
+        },
+        {
+          "category": "ROYAL ANNES",
+          "value": 200,
+          "clue": "Reportedly, the ghosts of Elizabeth I & this woman, her mother, both haunt Windsor Castle",
+          "answer": "Anne Boleyn",
+          "isDailyDouble": false,
+          "orderNumber": 8,
+          "correctContestants": [
+            "Pam"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jack",
+              "score": 500
+            },
+            {
+              "player": "Bob",
+              "score": 400
+            },
+            {
+              "player": "Pam",
+              "score": 600
+            }
+          ]
+        },
+        {
+          "category": "ROYAL ANNES",
+          "value": 300,
+          "clue": "Familial relationship of England's Queen Anne to the queen who preceded her, Mary II",
+          "answer": "younger sister",
+          "isDailyDouble": false,
+          "orderNumber": 9,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Jack",
+              "score": 500
+            },
+            {
+              "player": "Bob",
+              "score": 400
+            },
+            {
+              "player": "Pam",
+              "score": 600
+            }
+          ]
+        },
+        {
+          "category": "ANIMALS",
+          "value": 100,
+          "clue": "The Bismarck flying fox, this type of mammal, has a 5 1/2 foot wingspan",
+          "answer": "bat",
+          "isDailyDouble": false,
+          "orderNumber": 10,
+          "correctContestants": [
+            "Bob"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jack",
+              "score": 500
+            },
+            {
+              "player": "Bob",
+              "score": 500
+            },
+            {
+              "player": "Pam",
+              "score": 600
+            }
+          ]
+        },
+        {
+          "category": "ANIMALS",
+          "value": 200,
+          "clue": "Of king, queen or soldier, type of termite that has been known to live 50 years",
+          "answer": "queen",
+          "isDailyDouble": false,
+          "orderNumber": 11,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Jack",
+              "score": 500
+            },
+            {
+              "player": "Bob",
+              "score": 500
+            },
+            {
+              "player": "Pam",
+              "score": 600
+            }
+          ]
+        },
+        {
+          "category": "ANIMALS",
+          "value": 300,
+          "clue": "Every year Arctic terns fly over 11,000 miles south to winter on this continent",
+          "answer": "Antarctica",
+          "isDailyDouble": false,
+          "orderNumber": 12,
+          "correctContestants": [
+            "Bob"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jack",
+              "score": 500
+            },
+            {
+              "player": "Bob",
+              "score": 800
+            },
+            {
+              "player": "Pam",
+              "score": 600
+            }
+          ]
+        },
+        {
+          "category": "ANIMALS",
+          "value": 400,
+          "clue": "Blue, lilac & seal are 3 of the official color points of this cat breed",
+          "answer": "Siamese",
+          "isDailyDouble": false,
+          "orderNumber": 13,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Jack",
+              "score": 500
+            },
+            {
+              "player": "Bob",
+              "score": 800
+            },
+            {
+              "player": "Pam",
+              "score": 600
+            }
+          ]
+        },
+        {
+          "category": "ANIMALS",
+          "value": 500,
+          "clue": "The male of this Arctic aquatic mammal has a single spiral tusk",
+          "answer": "narwhal",
+          "isDailyDouble": false,
+          "orderNumber": 14,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Jack",
+              "score": 500
+            },
+            {
+              "player": "Bob",
+              "score": 800
+            },
+            {
+              "player": "Pam",
+              "score": 600
+            }
+          ]
+        },
+        {
+          "category": "NUMBER, PLEASE",
+          "value": 100,
+          "clue": "Number of dollars in a \"C-note\"",
+          "answer": "100",
+          "isDailyDouble": false,
+          "orderNumber": 15,
+          "correctContestants": [
+            "Bob"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jack",
+              "score": 500
+            },
+            {
+              "player": "Bob",
+              "score": 900
+            },
+            {
+              "player": "Pam",
+              "score": 600
+            }
+          ]
+        },
+        {
+          "category": "NUMBER, PLEASE",
+          "value": 200,
+          "clue": "Referring to the keyboard, this number is a slang term for a piano",
+          "answer": "88",
+          "isDailyDouble": false,
+          "orderNumber": 16,
+          "correctContestants": [
+            "Pam"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jack",
+              "score": 500
+            },
+            {
+              "player": "Bob",
+              "score": 900
+            },
+            {
+              "player": "Pam",
+              "score": 800
+            }
+          ]
+        },
+        {
+          "category": "FITNESS",
+          "value": 300,
+          "clue": "In 1986, the AMA reported this activity does not wear out joints but increases bone density",
+          "answer": "jogging (running)",
+          "isDailyDouble": false,
+          "orderNumber": 17,
+          "correctContestants": [
+            "Bob"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jack",
+              "score": 500
+            },
+            {
+              "player": "Bob",
+              "score": 1200
+            },
+            {
+              "player": "Pam",
+              "score": 800
+            }
+          ]
+        },
+        {
+          "category": "NUMBER, PLEASE",
+          "value": 300,
+          "clue": "At a baseball game, \"Take Me Out to the Ballgame\" is traditionally played during this inning",
+          "answer": "7th",
+          "isDailyDouble": false,
+          "orderNumber": 18,
+          "correctContestants": [
+            "Bob"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jack",
+              "score": 500
+            },
+            {
+              "player": "Bob",
+              "score": 1500
+            },
+            {
+              "player": "Pam",
+              "score": 800
+            }
+          ]
+        },
+        {
+          "category": "NUMBER, PLEASE",
+          "value": 400,
+          "clue": "In classical mythology, the number of Furies",
+          "answer": "3",
+          "isDailyDouble": false,
+          "orderNumber": 19,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Jack",
+            "Bob"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Jack",
+              "score": 100
+            },
+            {
+              "player": "Bob",
+              "score": 1100
+            },
+            {
+              "player": "Pam",
+              "score": 800
+            }
+          ]
+        },
+        {
+          "category": "NUMBER, PLEASE",
+          "value": 500,
+          "clue": "Number of syllables in a traditional haiku poem",
+          "answer": "17",
+          "isDailyDouble": false,
+          "orderNumber": 20,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Jack",
+              "score": 100
+            },
+            {
+              "player": "Bob",
+              "score": 1100
+            },
+            {
+              "player": "Pam",
+              "score": 800
+            }
+          ]
+        },
+        {
+          "category": "THE MOVIES",
+          "value": 100,
+          "clue": "In \"Desire Under the Elms\", Sophia Loren married Burl Ives but lusted after this \"Psycho' star",
+          "answer": "Anthony Perkins",
+          "isDailyDouble": false,
+          "orderNumber": 21,
+          "correctContestants": [
+            "Pam"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jack",
+              "score": 100
+            },
+            {
+              "player": "Bob",
+              "score": 1100
+            },
+            {
+              "player": "Pam",
+              "score": 900
+            }
+          ]
+        },
+        {
+          "category": "ROYAL ANNES",
+          "value": 300,
+          "clue": "She's the royal mother of Peter & Zara Phillips",
+          "answer": "Princess Anne",
+          "isDailyDouble": true,
+          "orderNumber": 22,
+          "correctContestants": [
+            "Pam"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jack",
+              "score": 100
+            },
+            {
+              "player": "Bob",
+              "score": 1100
+            },
+            {
+              "player": "Pam",
+              "score": 1200
+            }
+          ]
+        },
+        {
+          "category": "ROYAL ANNES",
+          "value": 500,
+          "clue": "This wife of Henry VIII was the daughter of a German duke",
+          "answer": "Anne of Cleves",
+          "isDailyDouble": false,
+          "orderNumber": 23,
+          "correctContestants": [
+            "Pam"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jack",
+              "score": 100
+            },
+            {
+              "player": "Bob",
+              "score": 1100
+            },
+            {
+              "player": "Pam",
+              "score": 1700
+            }
+          ]
+        },
+        {
+          "category": "FITNESS",
+          "value": 400,
+          "clue": "This winter sport which uses more muscles than any other is considered the ultimate aerobic activity",
+          "answer": "cross-country skiing",
+          "isDailyDouble": false,
+          "orderNumber": 24,
+          "correctContestants": [
+            "Jack"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jack",
+              "score": 500
+            },
+            {
+              "player": "Bob",
+              "score": 1100
+            },
+            {
+              "player": "Pam",
+              "score": 1700
+            }
+          ]
+        },
+        {
+          "category": "AMERICAN MUSIC",
+          "value": 100,
+          "clue": "Its 2nd verse begins, \"My native country, thee, land of the noble free\"",
+          "answer": "\"My Country 'Tis of Thee\" (\"America\")",
+          "isDailyDouble": false,
+          "orderNumber": 25,
+          "correctContestants": [
+            "Jack"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jack",
+              "score": 600
+            },
+            {
+              "player": "Bob",
+              "score": 1100
+            },
+            {
+              "player": "Pam",
+              "score": 1700
+            }
+          ]
+        },
+        {
+          "category": "AMERICAN MUSIC",
+          "value": 500,
+          "clue": "In the chorus of \"The Battle Hymn of the Republic\", this single word of praise is sung 6 times",
+          "answer": "glory",
+          "isDailyDouble": false,
+          "orderNumber": 26,
+          "correctContestants": [
+            "Pam"
+          ],
+          "incorrectContestants": [
+            "Bob"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jack",
+              "score": 600
+            },
+            {
+              "player": "Bob",
+              "score": 600
+            },
+            {
+              "player": "Pam",
+              "score": 2200
+            }
+          ]
+        },
+        {
+          "category": "AMERICAN MUSIC",
+          "value": 200,
+          "clue": "In the song \"Dixie\", \"In Dixie Land I'll take my stand to\" do these 2 things",
+          "answer": "live and die in Dixie",
+          "isDailyDouble": false,
+          "orderNumber": 27,
+          "correctContestants": [
+            "Jack"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jack",
+              "score": 800
+            },
+            {
+              "player": "Bob",
+              "score": 600
+            },
+            {
+              "player": "Pam",
+              "score": 2200
+            }
+          ]
+        },
+        {
+          "category": "AMERICAN MUSIC",
+          "value": 400,
+          "clue": "Even today, Southerners despise this song because it glorifies Sherman's march to the sea",
+          "answer": "\"Marching Through Georgia\"",
+          "isDailyDouble": false,
+          "orderNumber": 28,
+          "correctContestants": [
+            "Pam"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jack",
+              "score": 800
+            },
+            {
+              "player": "Bob",
+              "score": 600
+            },
+            {
+              "player": "Pam",
+              "score": 2600
+            }
+          ]
+        },
+        {
+          "category": "AMERICAN MUSIC",
+          "value": 300,
+          "clue": "\"The Yanks are coming, the Yanks are coming\" in this George M. Cohan song",
+          "answer": "\"Over There\"",
+          "isDailyDouble": false,
+          "orderNumber": 29,
+          "correctContestants": [
+            "Jack"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jack",
+              "score": 1100
+            },
+            {
+              "player": "Bob",
+              "score": 600
+            },
+            {
+              "player": "Pam",
+              "score": 2600
+            }
+          ]
+        },
+        {
+          "category": "FITNESS",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jack",
+              "score": 1100
+            },
+            {
+              "player": "Bob",
+              "score": 600
+            },
+            {
+              "player": "Pam",
+              "score": 2600
+            }
+          ]
+        }
+      ],
+      "firstBreakScores": [
+        {
+          "player": "Jack",
+          "score": 500
+        },
+        {
+          "player": "Bob",
+          "score": 800
+        },
+        {
+          "player": "Pam",
+          "score": 600
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "Jack",
+          "score": 1100
+        },
+        {
+          "player": "Bob",
+          "score": 600
+        },
+        {
+          "player": "Pam",
+          "score": 2600
+        }
+      ]
+    },
+    "doubleJeopardy": {
+      "categories": [
+        "THE UNIVERSE",
+        "THE 1950s",
+        "THE TEXAS RANGERS",
+        "CELEBRITY AUTHORS",
+        "STARTS WITH \"C\"",
+        "PRESIDENTIAL RESTING PLACES"
+      ],
+      "clues": [
+        {
+          "category": "THE UNIVERSE",
+          "value": 200,
+          "clue": "Approximately 18 billion years ago",
+          "answer": "when was the universe formed",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jack",
+              "score": 1100
+            },
+            {
+              "player": "Bob",
+              "score": 600
+            },
+            {
+              "player": "Pam",
+              "score": 2800
+            }
+          ]
+        },
+        {
+          "category": "THE 1950s",
+          "value": 200,
+          "clue": "On January 29, 1958, Japanese warships visited this harbor, but this time on a ceremonial visit",
+          "answer": "Pearl Harbor",
+          "isDailyDouble": false,
+          "orderNumber": 2,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jack",
+              "score": 1100
+            },
+            {
+              "player": "Bob",
+              "score": 800
+            },
+            {
+              "player": "Pam",
+              "score": 2800
+            }
+          ]
+        },
+        {
+          "category": "THE UNIVERSE",
+          "value": 400,
+          "clue": "For the Earth, Vega, Thuban & Polaris all have been, & will in turn become again this star",
+          "answer": "the North Star",
+          "isDailyDouble": false,
+          "orderNumber": 3,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jack",
+              "score": 1500
+            },
+            {
+              "player": "Bob",
+              "score": 800
+            },
+            {
+              "player": "Pam",
+              "score": 2800
+            }
+          ]
+        },
+        {
+          "category": "CELEBRITY AUTHORS",
+          "value": 200,
+          "clue": "\"Pretty Baby\" whose book for coeds, \"On Your Own\", has a section called \"B's Are OK Too!\"",
+          "answer": "Brooke Shields",
+          "isDailyDouble": false,
+          "orderNumber": 4,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jack",
+              "score": 1500
+            },
+            {
+              "player": "Bob",
+              "score": 800
+            },
+            {
+              "player": "Pam",
+              "score": 3000
+            }
+          ]
+        },
+        {
+          "category": "STARTS WITH \"C\"",
+          "value": 200,
+          "clue": "The 10th sign of the zodiac",
+          "answer": "Capricorn",
+          "isDailyDouble": false,
+          "orderNumber": 5,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jack",
+              "score": 1500
+            },
+            {
+              "player": "Bob",
+              "score": 1000
+            },
+            {
+              "player": "Pam",
+              "score": 3000
+            }
+          ]
+        },
+        {
+          "category": "THE UNIVERSE",
+          "value": 600,
+          "clue": "One of its moons, Titan, is larger than Mercury & has an atmosphere",
+          "answer": "Saturn",
+          "isDailyDouble": false,
+          "orderNumber": 6,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jack",
+              "score": 900
+            },
+            {
+              "player": "Bob",
+              "score": 1600
+            },
+            {
+              "player": "Pam",
+              "score": 3000
+            }
+          ]
+        },
+        {
+          "category": "THE UNIVERSE",
+          "value": 800,
+          "clue": "The word for this celestial body comes from the Greek word for \"wanderer\"",
+          "answer": "planet",
+          "isDailyDouble": false,
+          "orderNumber": 7,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Jack",
+              "score": 900
+            },
+            {
+              "player": "Bob",
+              "score": 800
+            },
+            {
+              "player": "Pam",
+              "score": 3000
+            }
+          ]
+        },
+        {
+          "category": "THE UNIVERSE",
+          "value": 1000,
+          "clue": "High energy electromagnetic radiation; who knows their effect on man-in-the-moon marigolds?",
+          "answer": "gamma rays",
+          "isDailyDouble": false,
+          "orderNumber": 8,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jack",
+              "score": 1900
+            },
+            {
+              "player": "Bob",
+              "score": 800
+            },
+            {
+              "player": "Pam",
+              "score": 3000
+            }
+          ]
+        },
+        {
+          "category": "CELEBRITY AUTHORS",
+          "value": 400,
+          "clue": "In \"Detour\", her daughter Cheryl Crane wrote about the killing of Johnny Stompanato",
+          "answer": "Lana Turner",
+          "isDailyDouble": false,
+          "orderNumber": 9,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jack",
+              "score": 1900
+            },
+            {
+              "player": "Bob",
+              "score": 800
+            },
+            {
+              "player": "Pam",
+              "score": 3400
+            }
+          ]
+        },
+        {
+          "category": "STARTS WITH \"C\"",
+          "value": 400,
+          "clue": "An acrobat who specializes in unnatural body postures",
+          "answer": "contortionist",
+          "isDailyDouble": false,
+          "orderNumber": 10,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jack",
+              "score": 1900
+            },
+            {
+              "player": "Bob",
+              "score": 800
+            },
+            {
+              "player": "Pam",
+              "score": 3800
+            }
+          ]
+        },
+        {
+          "category": "STARTS WITH \"C\"",
+          "value": 600,
+          "clue": "In England, the title held by an earl's wife",
+          "answer": "countess",
+          "isDailyDouble": false,
+          "orderNumber": 11,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jack",
+              "score": 1900
+            },
+            {
+              "player": "Bob",
+              "score": 800
+            },
+            {
+              "player": "Pam",
+              "score": 4400
+            }
+          ]
+        },
+        {
+          "category": "STARTS WITH \"C\"",
+          "value": 800,
+          "clue": "The art of writing or deciphering secret codes",
+          "answer": "cryptography (cryptology)",
+          "isDailyDouble": false,
+          "orderNumber": 12,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jack",
+              "score": 2700
+            },
+            {
+              "player": "Bob",
+              "score": 800
+            },
+            {
+              "player": "Pam",
+              "score": 4400
+            }
+          ]
+        },
+        {
+          "category": "PRESIDENTIAL RESTING PLACES",
+          "value": 200,
+          "clue": "Though Wm. H. Harrison, Taylor, Lincoln & Wilson all died in this city, only Wilson was entombed there",
+          "answer": "Washington, DC",
+          "isDailyDouble": false,
+          "orderNumber": 13,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jack",
+              "score": 2900
+            },
+            {
+              "player": "Bob",
+              "score": 800
+            },
+            {
+              "player": "Pam",
+              "score": 4400
+            }
+          ]
+        },
+        {
+          "category": "PRESIDENTIAL RESTING PLACES",
+          "value": 400,
+          "clue": "It's the largest city in which a president's remains rest",
+          "answer": "New York City",
+          "isDailyDouble": false,
+          "orderNumber": 14,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jack",
+              "score": 3300
+            },
+            {
+              "player": "Bob",
+              "score": 800
+            },
+            {
+              "player": "Pam",
+              "score": 4400
+            }
+          ]
+        },
+        {
+          "category": "PRESIDENTIAL RESTING PLACES",
+          "value": 600,
+          "clue": "While Garfield is buried in Cleveland, Cleveland is buried in this New Jersey college town",
+          "answer": "Princeton",
+          "isDailyDouble": false,
+          "orderNumber": 15,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jack",
+              "score": 3900
+            },
+            {
+              "player": "Bob",
+              "score": 800
+            },
+            {
+              "player": "Pam",
+              "score": 4400
+            }
+          ]
+        },
+        {
+          "category": "PRESIDENTIAL RESTING PLACES",
+          "value": 800,
+          "clue": "If you know his nickname was the \"Kinderhook Fox\", you'll know he was buried in Kinderhook, NY",
+          "answer": "Martin Van Buren",
+          "isDailyDouble": false,
+          "orderNumber": 16,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jack",
+              "score": 4700
+            },
+            {
+              "player": "Bob",
+              "score": 800
+            },
+            {
+              "player": "Pam",
+              "score": 4400
+            }
+          ]
+        },
+        {
+          "category": "PRESIDENTIAL RESTING PLACES",
+          "value": 1000,
+          "clue": "He died in San Francisco on August 2, 1923 & was buried in Marion, Ohio",
+          "answer": "Warren G. Harding",
+          "isDailyDouble": false,
+          "orderNumber": 17,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jack",
+              "score": 5700
+            },
+            {
+              "player": "Bob",
+              "score": 800
+            },
+            {
+              "player": "Pam",
+              "score": 4400
+            }
+          ]
+        },
+        {
+          "category": "CELEBRITY AUTHORS",
+          "value": 600,
+          "clue": "This blonde's biography was called \"Living With the Kennedys\"",
+          "answer": "Joan Kennedy",
+          "isDailyDouble": false,
+          "orderNumber": 18,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jack",
+              "score": 5700
+            },
+            {
+              "player": "Bob",
+              "score": 800
+            },
+            {
+              "player": "Pam",
+              "score": 5000
+            }
+          ]
+        },
+        {
+          "category": "CELEBRITY AUTHORS",
+          "value": 1000,
+          "clue": "Mystery novelist who turned to non-fiction with a 1986 biography of Bess Truman",
+          "answer": "Margaret Truman",
+          "isDailyDouble": true,
+          "orderNumber": 19,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jack",
+              "score": 5700
+            },
+            {
+              "player": "Bob",
+              "score": 800
+            },
+            {
+              "player": "Pam",
+              "score": 4000
+            }
+          ]
+        },
+        {
+          "category": "THE TEXAS RANGERS",
+          "value": 200,
+          "clue": "It was the Rangers' use of this man's new firearm that made it famous in the Old West",
+          "answer": "(Samuel) Colt",
+          "isDailyDouble": false,
+          "orderNumber": 20,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jack",
+              "score": 5700
+            },
+            {
+              "player": "Bob",
+              "score": 600
+            },
+            {
+              "player": "Pam",
+              "score": 4200
+            }
+          ]
+        },
+        {
+          "category": "THE TEXAS RANGERS",
+          "value": 400,
+          "clue": "These emblems in the shape of a circled star were originally carved out of Mexican silver pesos",
+          "answer": "their badge",
+          "isDailyDouble": false,
+          "orderNumber": 21,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jack",
+              "score": 6100
+            },
+            {
+              "player": "Bob",
+              "score": 600
+            },
+            {
+              "player": "Pam",
+              "score": 4200
+            }
+          ]
+        },
+        {
+          "category": "CELEBRITY AUTHORS",
+          "value": 1000,
+          "clue": "\"If your children have never hated you, you've failed as a parent\", she said in \"This 'N That\"",
+          "answer": "Bette Davis",
+          "isDailyDouble": false,
+          "orderNumber": 22,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jack",
+              "score": 7100
+            },
+            {
+              "player": "Bob",
+              "score": 600
+            },
+            {
+              "player": "Pam",
+              "score": 4200
+            }
+          ]
+        },
+        {
+          "category": "STARTS WITH \"C\"",
+          "value": 1000,
+          "clue": "Architectural term for having battlements",
+          "answer": "crenulated",
+          "isDailyDouble": false,
+          "orderNumber": 23,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Jack",
+              "score": 7100
+            },
+            {
+              "player": "Bob",
+              "score": 600
+            },
+            {
+              "player": "Pam",
+              "score": 4200
+            }
+          ]
+        },
+        {
+          "category": "THE 1950s",
+          "value": 400,
+          "clue": "In May 1955, this wife of the U.S. vice-president won a \"Mother-of-the-Year\" award",
+          "answer": "Pat Nixon",
+          "isDailyDouble": false,
+          "orderNumber": 24,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jack",
+              "score": 7100
+            },
+            {
+              "player": "Bob",
+              "score": 1000
+            },
+            {
+              "player": "Pam",
+              "score": 4200
+            }
+          ]
+        },
+        {
+          "category": "THE 1950s",
+          "value": 1000,
+          "clue": "On Feb., 25, 1954, General Naguib resigned as this country's president; on Feb. 27 he was back in the post",
+          "answer": "Egypt",
+          "isDailyDouble": false,
+          "orderNumber": 25,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jack",
+              "score": 7100
+            },
+            {
+              "player": "Bob",
+              "score": 2000
+            },
+            {
+              "player": "Pam",
+              "score": 4200
+            }
+          ]
+        },
+        {
+          "category": "THE TEXAS RANGERS",
+          "value": 1000,
+          "clue": "The headquarters of the Rangers is in this city named after the man who formed the 1st group",
+          "answer": "Austin",
+          "isDailyDouble": false,
+          "orderNumber": 26,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Jack",
+              "score": 7100
+            },
+            {
+              "player": "Bob",
+              "score": 2000
+            },
+            {
+              "player": "Pam",
+              "score": 3200
+            }
+          ]
+        },
+        {
+          "category": "THE TEXAS RANGERS",
+          "value": 800,
+          "clue": "Ex-Ranger Frank Hamer is remembered as the man who tracked & killed this bank-robbing couple",
+          "answer": "Bonnie & Clyde",
+          "isDailyDouble": false,
+          "orderNumber": 27,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jack",
+              "score": 7900
+            },
+            {
+              "player": "Bob",
+              "score": 2000
+            },
+            {
+              "player": "Pam",
+              "score": 3200
+            }
+          ]
+        },
+        {
+          "category": "THE 1950s",
+          "value": 600,
+          "clue": "On Dec. 16, 1950, at age 22, she married Charles Black & announced her retirement from films",
+          "answer": "Shirley Temple",
+          "isDailyDouble": false,
+          "orderNumber": 28,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jack",
+              "score": 7900
+            },
+            {
+              "player": "Bob",
+              "score": 2600
+            },
+            {
+              "player": "Pam",
+              "score": 3200
+            }
+          ]
+        },
+        {
+          "category": "THE 1950s",
+          "value": 1500,
+          "clue": "This singer had the last No. 1 hit of the '50s with the following:",
+          "answer": "Frankie Avalon",
+          "isDailyDouble": true,
+          "orderNumber": 29,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jack",
+              "score": 7900
+            },
+            {
+              "player": "Bob",
+              "score": 1100
+            },
+            {
+              "player": "Pam",
+              "score": 3200
+            }
+          ]
+        },
+        {
+          "category": "THE TEXAS RANGERS",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jack",
+              "score": 7900
+            },
+            {
+              "player": "Bob",
+              "score": 1100
+            },
+            {
+              "player": "Pam",
+              "score": 3200
+            }
+          ]
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "Jack",
+          "score": 7900
+        },
+        {
+          "player": "Bob",
+          "score": 1100
+        },
+        {
+          "player": "Pam",
+          "score": 3200
+        }
+      ]
+    },
+    "finalJeopardy": {
+      "category": "BRIDGES",
+      "clue": "The longest bridge over the Mississippi crosses the river at this major city",
+      "answer": "New Orleans",
+      "responses": [
+        {
+          "contestant": "Bob",
+          "response": "What is St. Louis?",
+          "isCorrect": false,
+          "isIncorrect": true,
+          "value": 1099,
+          "finalScore": 1
+        },
+        {
+          "contestant": "Pam",
+          "response": "What is St. Louis?",
+          "isCorrect": false,
+          "isIncorrect": true,
+          "value": 3200,
+          "finalScore": 0
+        },
+        {
+          "contestant": "Jack",
+          "response": "What is New Orleans?",
+          "isCorrect": true,
+          "isIncorrect": false,
+          "value": 1499,
+          "finalScore": 9399
+        }
+      ]
+    }
+  },
+  "finalScores": [
+    {
+      "player": "Jack",
+      "score": "$9,399"
+    },
+    {
+      "player": "Bob",
+      "score": "$1"
+    },
+    {
+      "player": "Pam",
+      "score": "$0"
+    }
+  ],
+  "coryatScores": [
+    {
+      "player": "Jack",
+      "score": 7900
+    },
+    {
+      "player": "Bob",
+      "score": 2600
+    },
+    {
+      "player": "Pam",
+      "score": 4300
+    }
+  ]
+}

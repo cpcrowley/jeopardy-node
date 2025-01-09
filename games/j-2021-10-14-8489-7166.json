@@ -1,0 +1,1698 @@
+{
+  "gameId": 7166,
+  "showNumber": "8489",
+  "title": "Show #8489 - Thursday, October 14, 2021",
+  "date": "2021-10-14",
+  "comments": "Jonathan Fisher game 4.",
+  "contestants": [
+    "Jonathan",
+    "Aline",
+    "Ray"
+  ],
+  "rounds": {
+    "jeopardy": {
+      "categories": [
+        "THE 16th CENTURY",
+        "VOTING USA",
+        "MY FIRST NAME IS A TV SHOW TITLE",
+        "CONTAINERS",
+        "OLD SLANG",
+        "THIS IS NPR"
+      ],
+      "clues": [
+        {
+          "category": "MY FIRST NAME IS A TV SHOW TITLE",
+          "value": 600,
+          "clue": "Mr. Berkman, a hit man who becomes Mr. Block, an actor",
+          "answer": "Barry",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [
+            "Jonathan"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jonathan",
+              "score": 600
+            },
+            {
+              "player": "Aline",
+              "score": 0
+            },
+            {
+              "player": "Ray",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "MY FIRST NAME IS A TV SHOW TITLE",
+          "value": 1000,
+          "clue": "Ms. Findlay, Edith Bunker's cousin",
+          "answer": "Maude",
+          "isDailyDouble": false,
+          "orderNumber": 2,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Aline",
+            "Ray"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Jonathan",
+              "score": 600
+            },
+            {
+              "player": "Aline",
+              "score": -1000
+            },
+            {
+              "player": "Ray",
+              "score": -1000
+            }
+          ]
+        },
+        {
+          "category": "MY FIRST NAME IS A TV SHOW TITLE",
+          "value": 800,
+          "clue": "Mr. Read, an 8-year-old aardvark",
+          "answer": "Arthur",
+          "isDailyDouble": false,
+          "orderNumber": 3,
+          "correctContestants": [
+            "Jonathan"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jonathan",
+              "score": 1400
+            },
+            {
+              "player": "Aline",
+              "score": -1000
+            },
+            {
+              "player": "Ray",
+              "score": -1000
+            }
+          ]
+        },
+        {
+          "category": "MY FIRST NAME IS A TV SHOW TITLE",
+          "value": 400,
+          "clue": "Mr. Payne, played by the funny Mr. Lawrence",
+          "answer": "Martin",
+          "isDailyDouble": false,
+          "orderNumber": 4,
+          "correctContestants": [
+            "Jonathan"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jonathan",
+              "score": 1800
+            },
+            {
+              "player": "Aline",
+              "score": -1000
+            },
+            {
+              "player": "Ray",
+              "score": -1000
+            }
+          ]
+        },
+        {
+          "category": "MY FIRST NAME IS A TV SHOW TITLE",
+          "value": 200,
+          "clue": "Dr. Crane, on the radio",
+          "answer": "Frasier",
+          "isDailyDouble": false,
+          "orderNumber": 5,
+          "correctContestants": [
+            "Jonathan"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jonathan",
+              "score": 2000
+            },
+            {
+              "player": "Aline",
+              "score": -1000
+            },
+            {
+              "player": "Ray",
+              "score": -1000
+            }
+          ]
+        },
+        {
+          "category": "THIS IS NPR",
+          "value": 200,
+          "clue": "NPR teamed up with \"Frontline\" to report on how this industry failed to protect workers from black lung & \"deadly dust\"",
+          "answer": "the coal industry",
+          "isDailyDouble": false,
+          "orderNumber": 6,
+          "correctContestants": [
+            "Ray"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jonathan",
+              "score": 2000
+            },
+            {
+              "player": "Aline",
+              "score": -1000
+            },
+            {
+              "player": "Ray",
+              "score": -800
+            }
+          ]
+        },
+        {
+          "category": "THIS IS NPR",
+          "value": 400,
+          "clue": "Audie Cornish & Ailsa Chang are among the hosts of this afternoon news program",
+          "answer": "All Things Considered",
+          "isDailyDouble": false,
+          "orderNumber": 7,
+          "correctContestants": [
+            "Ray"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jonathan",
+              "score": 2000
+            },
+            {
+              "player": "Aline",
+              "score": -1000
+            },
+            {
+              "player": "Ray",
+              "score": -400
+            }
+          ]
+        },
+        {
+          "category": "THIS IS NPR",
+          "value": 600,
+          "clue": "NPR's Planet Money reported $875 buys 2.5 million of these automated annoyances, maybe to sell you on renewing an auto warranty",
+          "answer": "robocalls",
+          "isDailyDouble": false,
+          "orderNumber": 8,
+          "correctContestants": [
+            "Aline"
+          ],
+          "incorrectContestants": [
+            "Ray"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jonathan",
+              "score": 2000
+            },
+            {
+              "player": "Aline",
+              "score": -400
+            },
+            {
+              "player": "Ray",
+              "score": -1000
+            }
+          ]
+        },
+        {
+          "category": "THE 16th CENTURY",
+          "value": 1000,
+          "clue": "The day that Henry VIII married Catherine Howard, July 28, 1540, this chief advisor to the king was executed",
+          "answer": "(Thomas) Cromwell",
+          "isDailyDouble": false,
+          "orderNumber": 9,
+          "correctContestants": [
+            "Jonathan"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jonathan",
+              "score": 3000
+            },
+            {
+              "player": "Aline",
+              "score": -400
+            },
+            {
+              "player": "Ray",
+              "score": -1000
+            }
+          ]
+        },
+        {
+          "category": "THIS IS NPR",
+          "value": 800,
+          "clue": "Hold on, hold on... no, we won't reveal the name of this NPR weekly quiz show that debuted in 1998 with Carl Kasell as its judge",
+          "answer": "Wait Wait... Don't Tell Me!",
+          "isDailyDouble": false,
+          "orderNumber": 10,
+          "correctContestants": [
+            "Jonathan"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jonathan",
+              "score": 3800
+            },
+            {
+              "player": "Aline",
+              "score": -400
+            },
+            {
+              "player": "Ray",
+              "score": -1000
+            }
+          ]
+        },
+        {
+          "category": "THIS IS NPR",
+          "value": 1000,
+          "clue": "In April 2021 NPR's Fresh Air remembered this Apollo 11 hero who had just passed; he had called his solo Moon orbit \"completely serene\"",
+          "answer": "Collins",
+          "isDailyDouble": false,
+          "orderNumber": 11,
+          "correctContestants": [
+            "Ray"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jonathan",
+              "score": 3800
+            },
+            {
+              "player": "Aline",
+              "score": -400
+            },
+            {
+              "player": "Ray",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "THE 16th CENTURY",
+          "value": 1000,
+          "clue": "In the 1540s he wrote, \"Finally, we shall place the Sun himself at the center of the universe\"",
+          "answer": "Copernicus",
+          "isDailyDouble": true,
+          "orderNumber": 12,
+          "correctContestants": [
+            "Ray"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jonathan",
+              "score": 3800
+            },
+            {
+              "player": "Aline",
+              "score": -400
+            },
+            {
+              "player": "Ray",
+              "score": 1000
+            }
+          ]
+        },
+        {
+          "category": "VOTING USA",
+          "value": 800,
+          "clue": "Bringing Sunday churchgoers to cast their votes after services is rhymingly called these \"to the polls\"",
+          "answer": "souls",
+          "isDailyDouble": false,
+          "orderNumber": 13,
+          "correctContestants": [
+            "Ray"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jonathan",
+              "score": 3800
+            },
+            {
+              "player": "Aline",
+              "score": -400
+            },
+            {
+              "player": "Ray",
+              "score": 1800
+            }
+          ]
+        },
+        {
+          "category": "VOTING USA",
+          "value": 1000,
+          "clue": "Saying it was no longer needed, in 2013 the Supreme Court struck down Section 4 of this law & its federal oversight",
+          "answer": "the Voting Rights Act",
+          "isDailyDouble": false,
+          "orderNumber": 14,
+          "correctContestants": [
+            "Jonathan"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jonathan",
+              "score": 4800
+            },
+            {
+              "player": "Aline",
+              "score": -400
+            },
+            {
+              "player": "Ray",
+              "score": 1800
+            }
+          ]
+        },
+        {
+          "category": "CONTAINERS",
+          "value": 200,
+          "clue": "As one word, it's a small, flat trunk found in barracks; as 2, it's a shoe retailer",
+          "answer": "footlocker (Foot Locker)",
+          "isDailyDouble": false,
+          "orderNumber": 15,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Jonathan",
+              "score": 4800
+            },
+            {
+              "player": "Aline",
+              "score": -400
+            },
+            {
+              "player": "Ray",
+              "score": 1800
+            }
+          ]
+        },
+        {
+          "category": "CONTAINERS",
+          "value": 400,
+          "clue": "The history of this jar dates to a patent filed on Nov. 30, 1858 for \"improvement in screw-neck bottles\"",
+          "answer": "a Mason jar",
+          "isDailyDouble": false,
+          "orderNumber": 16,
+          "correctContestants": [
+            "Ray"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jonathan",
+              "score": 4800
+            },
+            {
+              "player": "Aline",
+              "score": -400
+            },
+            {
+              "player": "Ray",
+              "score": 2200
+            }
+          ]
+        },
+        {
+          "category": "CONTAINERS",
+          "value": 600,
+          "clue": "In chemistry, types of these containers include Florence, Schlenk & Erlenmeyer",
+          "answer": "flasks",
+          "isDailyDouble": false,
+          "orderNumber": 17,
+          "correctContestants": [
+            "Jonathan"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jonathan",
+              "score": 5400
+            },
+            {
+              "player": "Aline",
+              "score": -400
+            },
+            {
+              "player": "Ray",
+              "score": 2200
+            }
+          ]
+        },
+        {
+          "category": "CONTAINERS",
+          "value": 800,
+          "clue": "In 1954 neuroscientist John C. Lilly designed this tank to explore results of cutting off all external stimuli",
+          "answer": "a sensory deprivation tank",
+          "isDailyDouble": false,
+          "orderNumber": 18,
+          "correctContestants": [
+            "Ray"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jonathan",
+              "score": 5400
+            },
+            {
+              "player": "Aline",
+              "score": -400
+            },
+            {
+              "player": "Ray",
+              "score": 3000
+            }
+          ]
+        },
+        {
+          "category": "CONTAINERS",
+          "value": 1000,
+          "clue": "The OED says this is a 2-word \"box in which a young woman... collects articles... in the event of her marriage\"",
+          "answer": "a hope chest",
+          "isDailyDouble": false,
+          "orderNumber": 19,
+          "correctContestants": [
+            "Jonathan"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jonathan",
+              "score": 6400
+            },
+            {
+              "player": "Aline",
+              "score": -400
+            },
+            {
+              "player": "Ray",
+              "score": 3000
+            }
+          ]
+        },
+        {
+          "category": "OLD SLANG",
+          "value": 200,
+          "clue": "A young man living alone was \"batching\", from this noun",
+          "answer": "a bachelor",
+          "isDailyDouble": false,
+          "orderNumber": 20,
+          "correctContestants": [
+            "Aline"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jonathan",
+              "score": 6400
+            },
+            {
+              "player": "Aline",
+              "score": -200
+            },
+            {
+              "player": "Ray",
+              "score": 3000
+            }
+          ]
+        },
+        {
+          "category": "OLD SLANG",
+          "value": 1000,
+          "clue": "From a character in popular entertainment, a Peck's this was a man who didn't obey social norms",
+          "answer": "Peck's Bad Boy",
+          "isDailyDouble": false,
+          "orderNumber": 21,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Jonathan",
+              "score": 6400
+            },
+            {
+              "player": "Aline",
+              "score": -200
+            },
+            {
+              "player": "Ray",
+              "score": 3000
+            }
+          ]
+        },
+        {
+          "category": "OLD SLANG",
+          "value": 800,
+          "clue": "A heavy drinker with a red nose was this naval bigwig \"of the red\"",
+          "answer": "an admiral",
+          "isDailyDouble": false,
+          "orderNumber": 22,
+          "correctContestants": [
+            "Ray"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jonathan",
+              "score": 6400
+            },
+            {
+              "player": "Aline",
+              "score": -200
+            },
+            {
+              "player": "Ray",
+              "score": 3800
+            }
+          ]
+        },
+        {
+          "category": "OLD SLANG",
+          "value": 600,
+          "clue": "If someone said you had beetle-crushers, it meant big these body parts",
+          "answer": "feet",
+          "isDailyDouble": false,
+          "orderNumber": 23,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Jonathan"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Jonathan",
+              "score": 5800
+            },
+            {
+              "player": "Aline",
+              "score": -200
+            },
+            {
+              "player": "Ray",
+              "score": 3800
+            }
+          ]
+        },
+        {
+          "category": "OLD SLANG",
+          "value": 400,
+          "clue": "Barnacles & blinkers were these vision aids",
+          "answer": "glasses",
+          "isDailyDouble": false,
+          "orderNumber": 24,
+          "correctContestants": [
+            "Aline"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jonathan",
+              "score": 5800
+            },
+            {
+              "player": "Aline",
+              "score": 200
+            },
+            {
+              "player": "Ray",
+              "score": 3800
+            }
+          ]
+        },
+        {
+          "category": "THE 16th CENTURY",
+          "value": 600,
+          "clue": "Pope Sixtus V promised Philip II one million golden ducats to support this fleet",
+          "answer": "the Spanish Armada",
+          "isDailyDouble": false,
+          "orderNumber": 25,
+          "correctContestants": [
+            "Jonathan"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jonathan",
+              "score": 6400
+            },
+            {
+              "player": "Aline",
+              "score": 200
+            },
+            {
+              "player": "Ray",
+              "score": 3800
+            }
+          ]
+        },
+        {
+          "category": "THE 16th CENTURY",
+          "value": 400,
+          "clue": "Seen here, he became Aztec emperor in 1502",
+          "answer": "Montezuma (II)",
+          "isDailyDouble": false,
+          "orderNumber": 26,
+          "correctContestants": [
+            "Jonathan"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jonathan",
+              "score": 6800
+            },
+            {
+              "player": "Aline",
+              "score": 200
+            },
+            {
+              "player": "Ray",
+              "score": 3800
+            }
+          ]
+        },
+        {
+          "category": "THE 16th CENTURY",
+          "value": 200,
+          "clue": "Neither this Portuguese explorer nor his flagship the Trinidad completed his circumnavigation of the globe",
+          "answer": "Magellan",
+          "isDailyDouble": false,
+          "orderNumber": 27,
+          "correctContestants": [
+            "Ray"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jonathan",
+              "score": 6800
+            },
+            {
+              "player": "Aline",
+              "score": 200
+            },
+            {
+              "player": "Ray",
+              "score": 4000
+            }
+          ]
+        },
+        {
+          "category": "VOTING USA",
+          "value": 600,
+          "clue": "(Here is Dr.Kate Rubins who has spent a total of 300 days in space.) Astronauts are able to vote from the ISS, including me in the 2016 election; my ballot was encrypted & transmitted to a county clerk in this city, where Mission Control is",
+          "answer": "Houston",
+          "isDailyDouble": false,
+          "orderNumber": 28,
+          "correctContestants": [
+            "Jonathan"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jonathan",
+              "score": 7400
+            },
+            {
+              "player": "Aline",
+              "score": 200
+            },
+            {
+              "player": "Ray",
+              "score": 4000
+            }
+          ]
+        },
+        {
+          "category": "VOTING USA",
+          "value": 400,
+          "clue": "Oklahoma is among states to explicitly allow posting a photo of how you voted, commonly known as a \"ballot\" this",
+          "answer": "selfie",
+          "isDailyDouble": false,
+          "orderNumber": 29,
+          "correctContestants": [
+            "Jonathan"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jonathan",
+              "score": 7800
+            },
+            {
+              "player": "Aline",
+              "score": 200
+            },
+            {
+              "player": "Ray",
+              "score": 4000
+            }
+          ]
+        },
+        {
+          "category": "VOTING USA",
+          "value": 200,
+          "clue": "A bit under half the states offer SDR, short for same-day this, often Election Day",
+          "answer": "registration",
+          "isDailyDouble": false,
+          "orderNumber": 30,
+          "correctContestants": [
+            "Ray"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jonathan",
+              "score": 7800
+            },
+            {
+              "player": "Aline",
+              "score": 200
+            },
+            {
+              "player": "Ray",
+              "score": 4200
+            }
+          ]
+        }
+      ],
+      "firstBreakScores": [
+        {
+          "player": "Jonathan",
+          "score": 4800
+        },
+        {
+          "player": "Aline",
+          "score": -400
+        },
+        {
+          "player": "Ray",
+          "score": 1800
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "Jonathan",
+          "score": 7800
+        },
+        {
+          "player": "Aline",
+          "score": 200
+        },
+        {
+          "player": "Ray",
+          "score": 4200
+        }
+      ]
+    },
+    "doubleJeopardy": {
+      "categories": [
+        "TWISTER!",
+        "MURDER, HE WROTE",
+        "VERBS",
+        "SONG OF MYSELF",
+        "GEO TRIOS",
+        "THIS IS N-P-R"
+      ],
+      "clues": [
+        {
+          "category": "SONG OF MYSELF",
+          "value": 2000,
+          "clue": "This 1997 Celine Dion hit was a cover of an Eric Carmen song",
+          "answer": "\"All By Myself\"",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Jonathan",
+              "score": 7800
+            },
+            {
+              "player": "Aline",
+              "score": -1800
+            },
+            {
+              "player": "Ray",
+              "score": 4200
+            }
+          ]
+        },
+        {
+          "category": "SONG OF MYSELF",
+          "value": 1600,
+          "clue": "She & the Blackhearts had a top 10 hit with \"I Hate Myself For Loving You\"",
+          "answer": "Joan Jett",
+          "isDailyDouble": false,
+          "orderNumber": 2,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jonathan",
+              "score": 9400
+            },
+            {
+              "player": "Aline",
+              "score": -1800
+            },
+            {
+              "player": "Ray",
+              "score": 4200
+            }
+          ]
+        },
+        {
+          "category": "MURDER, HE WROTE",
+          "value": 400,
+          "clue": "\"The Case of the Lazy Lover\" by Erle Stanley Gardner finds this defense lawyer dealing with a missing witness, forgery... & murder!",
+          "answer": "Perry Mason",
+          "isDailyDouble": false,
+          "orderNumber": 3,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jonathan",
+              "score": 9800
+            },
+            {
+              "player": "Aline",
+              "score": -1800
+            },
+            {
+              "player": "Ray",
+              "score": 4200
+            }
+          ]
+        },
+        {
+          "category": "MURDER, HE WROTE",
+          "value": 2500,
+          "clue": "In 1902 this novelist killed Sir Charles Baskerville in book form",
+          "answer": "Arthur Conan Doyle",
+          "isDailyDouble": true,
+          "orderNumber": 4,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jonathan",
+              "score": 12300
+            },
+            {
+              "player": "Aline",
+              "score": -1800
+            },
+            {
+              "player": "Ray",
+              "score": 4200
+            }
+          ]
+        },
+        {
+          "category": "MURDER, HE WROTE",
+          "value": 1200,
+          "clue": "A real unsolved & brutal killing in 1947 Los Angeles haunts this \"colorful\" James Ellroy novel",
+          "answer": "The Black Dahlia",
+          "isDailyDouble": false,
+          "orderNumber": 5,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jonathan",
+              "score": 12300
+            },
+            {
+              "player": "Aline",
+              "score": -1800
+            },
+            {
+              "player": "Ray",
+              "score": 5400
+            }
+          ]
+        },
+        {
+          "category": "MURDER, HE WROTE",
+          "value": 1600,
+          "clue": "A body is found on a bridge in 1896 New York in this Caleb Carr novel whose title is an old term for a psychiatrist",
+          "answer": "The Alienist",
+          "isDailyDouble": false,
+          "orderNumber": 6,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jonathan",
+              "score": 13900
+            },
+            {
+              "player": "Aline",
+              "score": -1800
+            },
+            {
+              "player": "Ray",
+              "score": 5400
+            }
+          ]
+        },
+        {
+          "category": "MURDER, HE WROTE",
+          "value": 2000,
+          "clue": "When it comes to hard-boiled murder & Frank Chambers icing a dame's husband, this 1934 James M. Cain novel always delivers",
+          "answer": "The Postman Always Rings Twice",
+          "isDailyDouble": false,
+          "orderNumber": 7,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jonathan",
+              "score": 15900
+            },
+            {
+              "player": "Aline",
+              "score": -1800
+            },
+            {
+              "player": "Ray",
+              "score": 5400
+            }
+          ]
+        },
+        {
+          "category": "THIS IS N-P-R",
+          "value": 400,
+          "clue": "Let's catch a regatta at this Rhode Island city by Narragansett Bay",
+          "answer": "Newport",
+          "isDailyDouble": false,
+          "orderNumber": 8,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jonathan",
+              "score": 16300
+            },
+            {
+              "player": "Aline",
+              "score": -1800
+            },
+            {
+              "player": "Ray",
+              "score": 5400
+            }
+          ]
+        },
+        {
+          "category": "THIS IS N-P-R",
+          "value": 800,
+          "clue": "It can mean \"one who bites or pinches\", as well as \"a small boy\"",
+          "answer": "a nipper",
+          "isDailyDouble": false,
+          "orderNumber": 9,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jonathan",
+              "score": 16300
+            },
+            {
+              "player": "Aline",
+              "score": -1000
+            },
+            {
+              "player": "Ray",
+              "score": 5400
+            }
+          ]
+        },
+        {
+          "category": "THIS IS N-P-R",
+          "value": 2000,
+          "clue": "A DuPont scientist developed this synthetic rubber product in 1930",
+          "answer": "neoprene",
+          "isDailyDouble": false,
+          "orderNumber": 10,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jonathan",
+              "score": 18300
+            },
+            {
+              "player": "Aline",
+              "score": -1000
+            },
+            {
+              "player": "Ray",
+              "score": 5400
+            }
+          ]
+        },
+        {
+          "category": "THIS IS N-P-R",
+          "value": 1600,
+          "clue": "It means not affiliated with a political party",
+          "answer": "non partisan",
+          "isDailyDouble": false,
+          "orderNumber": 11,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jonathan",
+              "score": 18300
+            },
+            {
+              "player": "Aline",
+              "score": 600
+            },
+            {
+              "player": "Ray",
+              "score": 5400
+            }
+          ]
+        },
+        {
+          "category": "GEO TRIOS",
+          "value": 2000,
+          "clue": "Of South Africa's 3 capital cities, this administrative one is part of the municipality of Tshwane",
+          "answer": "Pretoria",
+          "isDailyDouble": false,
+          "orderNumber": 12,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jonathan",
+              "score": 18300
+            },
+            {
+              "player": "Aline",
+              "score": 600
+            },
+            {
+              "player": "Ray",
+              "score": 7400
+            }
+          ]
+        },
+        {
+          "category": "GEO TRIOS",
+          "value": 1600,
+          "clue": "Qutang, Wu & Xiling are the trio of submerged valleys that gave this name to a dam completed in 2006",
+          "answer": "Three Gorges",
+          "isDailyDouble": false,
+          "orderNumber": 13,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jonathan",
+              "score": 19900
+            },
+            {
+              "player": "Aline",
+              "score": 600
+            },
+            {
+              "player": "Ray",
+              "score": 7400
+            }
+          ]
+        },
+        {
+          "category": "THIS IS N-P-R",
+          "value": 1200,
+          "clue": "The Recording Industry Association of America got this file-sharing service shut down in 2001",
+          "answer": "Napster",
+          "isDailyDouble": false,
+          "orderNumber": 14,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jonathan",
+              "score": 21100
+            },
+            {
+              "player": "Aline",
+              "score": 600
+            },
+            {
+              "player": "Ray",
+              "score": 7400
+            }
+          ]
+        },
+        {
+          "category": "SONG OF MYSELF",
+          "value": 1200,
+          "clue": "Seen here, she had a 2016 hit with \"Hands To Myself\"",
+          "answer": "Selena Gomez",
+          "isDailyDouble": false,
+          "orderNumber": 15,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jonathan",
+              "score": 21100
+            },
+            {
+              "player": "Aline",
+              "score": 1800
+            },
+            {
+              "player": "Ray",
+              "score": 7400
+            }
+          ]
+        },
+        {
+          "category": "VERBS",
+          "value": 2000,
+          "clue": "As a verb, this piece of furniture means \"to express indirectly\", as with a threat",
+          "answer": "couch",
+          "isDailyDouble": false,
+          "orderNumber": 16,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Jonathan",
+              "score": 21100
+            },
+            {
+              "player": "Aline",
+              "score": 1800
+            },
+            {
+              "player": "Ray",
+              "score": 7400
+            }
+          ]
+        },
+        {
+          "category": "TWISTER!",
+          "value": 2000,
+          "clue": "April 3, 1974 saw 7 tornadoes from Alabama to Indiana max out at F5 on this scale of storm intensity",
+          "answer": "the Fujita Scale",
+          "isDailyDouble": false,
+          "orderNumber": 17,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Jonathan",
+              "score": 19100
+            },
+            {
+              "player": "Aline",
+              "score": 1800
+            },
+            {
+              "player": "Ray",
+              "score": 7400
+            }
+          ]
+        },
+        {
+          "category": "VERBS",
+          "value": 1600,
+          "clue": "This 6-letter verb means \"to shun\", though it sounds like it means to chomp on something",
+          "answer": "eschew",
+          "isDailyDouble": false,
+          "orderNumber": 18,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Jonathan",
+              "score": 19100
+            },
+            {
+              "player": "Aline",
+              "score": 1800
+            },
+            {
+              "player": "Ray",
+              "score": 7400
+            }
+          ]
+        },
+        {
+          "category": "TWISTER!",
+          "value": 1600,
+          "clue": "It's the alliterative 2-word term for the type of demonic little twister seen here",
+          "answer": "a dust devil",
+          "isDailyDouble": false,
+          "orderNumber": 19,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jonathan",
+              "score": 20700
+            },
+            {
+              "player": "Aline",
+              "score": 1800
+            },
+            {
+              "player": "Ray",
+              "score": 7400
+            }
+          ]
+        },
+        {
+          "category": "SONG OF MYSELF",
+          "value": 800,
+          "clue": "A trip to a Japanese disco inspired this Billy Idol hit about \"the floors of Tokyo\"",
+          "answer": "\"Dancing With Myself\"",
+          "isDailyDouble": false,
+          "orderNumber": 20,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jonathan",
+              "score": 21500
+            },
+            {
+              "player": "Aline",
+              "score": 1800
+            },
+            {
+              "player": "Ray",
+              "score": 7400
+            }
+          ]
+        },
+        {
+          "category": "SONG OF MYSELF",
+          "value": 400,
+          "clue": "The answer is... in 2018 this K-pop band learned the \"Answer: Love Myself\"",
+          "answer": "BTS",
+          "isDailyDouble": false,
+          "orderNumber": 21,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jonathan",
+              "score": 21500
+            },
+            {
+              "player": "Aline",
+              "score": 2200
+            },
+            {
+              "player": "Ray",
+              "score": 7400
+            }
+          ]
+        },
+        {
+          "category": "GEO TRIOS",
+          "value": 2200,
+          "clue": "Brunei, Malaysia & this nation all have territory on the island of Borneo",
+          "answer": "Indonesia",
+          "isDailyDouble": true,
+          "orderNumber": 22,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jonathan",
+              "score": 21500
+            },
+            {
+              "player": "Aline",
+              "score": 4400
+            },
+            {
+              "player": "Ray",
+              "score": 7400
+            }
+          ]
+        },
+        {
+          "category": "VERBS",
+          "value": 1200,
+          "clue": "Disappears, like \"The Lady\" does in a Hitchcock film title",
+          "answer": "Vanishes",
+          "isDailyDouble": false,
+          "orderNumber": 23,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jonathan",
+              "score": 22700
+            },
+            {
+              "player": "Aline",
+              "score": 4400
+            },
+            {
+              "player": "Ray",
+              "score": 7400
+            }
+          ]
+        },
+        {
+          "category": "GEO TRIOS",
+          "value": 800,
+          "clue": "North Carolina's Research Triangle consists of 3 university cities: Durham, Chapel Hill & this home of NC State",
+          "answer": "Raleigh",
+          "isDailyDouble": false,
+          "orderNumber": 24,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Jonathan",
+              "score": 22700
+            },
+            {
+              "player": "Aline",
+              "score": 4400
+            },
+            {
+              "player": "Ray",
+              "score": 7400
+            }
+          ]
+        },
+        {
+          "category": "GEO TRIOS",
+          "value": 400,
+          "clue": "Part of the Soviet Union until 1991, it's the largest of the 3 Baltic nations",
+          "answer": "Lithuania",
+          "isDailyDouble": false,
+          "orderNumber": 25,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jonathan",
+              "score": 22700
+            },
+            {
+              "player": "Aline",
+              "score": 4400
+            },
+            {
+              "player": "Ray",
+              "score": 7800
+            }
+          ]
+        },
+        {
+          "category": "TWISTER!",
+          "value": 1200,
+          "clue": "Tornadoes destroy wind speed instruments, so meteorologists use mobile radar named for this Austrian to get the same effect",
+          "answer": "Doppler",
+          "isDailyDouble": false,
+          "orderNumber": 26,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jonathan",
+              "score": 22700
+            },
+            {
+              "player": "Aline",
+              "score": 4400
+            },
+            {
+              "player": "Ray",
+              "score": 9000
+            }
+          ]
+        },
+        {
+          "category": "TWISTER!",
+          "value": 800,
+          "clue": "The long, narrow strip of the central U.S. plain seen here is known by this 2-word name",
+          "answer": "Tornado Alley",
+          "isDailyDouble": false,
+          "orderNumber": 27,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jonathan",
+              "score": 22700
+            },
+            {
+              "player": "Aline",
+              "score": 4400
+            },
+            {
+              "player": "Ray",
+              "score": 9800
+            }
+          ]
+        },
+        {
+          "category": "TWISTER!",
+          "value": 400,
+          "clue": "Disaster on top of disaster: when one of these hit South Texas in 1967, its thunderstorms spun off more than 100 tornadoes",
+          "answer": "a hurricane",
+          "isDailyDouble": false,
+          "orderNumber": 28,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jonathan",
+              "score": 22700
+            },
+            {
+              "player": "Aline",
+              "score": 4400
+            },
+            {
+              "player": "Ray",
+              "score": 10200
+            }
+          ]
+        },
+        {
+          "category": "VERBS",
+          "value": 800,
+          "clue": "Railway job meaning to skillfully make sure of a certain outcome",
+          "answer": "to engineer",
+          "isDailyDouble": false,
+          "orderNumber": 29,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Jonathan",
+              "score": 22700
+            },
+            {
+              "player": "Aline",
+              "score": 3600
+            },
+            {
+              "player": "Ray",
+              "score": 10200
+            }
+          ]
+        },
+        {
+          "category": "VERBS",
+          "value": 400,
+          "clue": "When followed by \"down\", this clothing accessory means \"to eat quickly\"",
+          "answer": "scarf",
+          "isDailyDouble": false,
+          "orderNumber": 30,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jonathan",
+              "score": 23100
+            },
+            {
+              "player": "Aline",
+              "score": 3600
+            },
+            {
+              "player": "Ray",
+              "score": 10200
+            }
+          ]
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "Jonathan",
+          "score": 23100
+        },
+        {
+          "player": "Aline",
+          "score": 3600
+        },
+        {
+          "player": "Ray",
+          "score": 10200
+        }
+      ]
+    },
+    "finalJeopardy": {
+      "category": "U.S. HISTORY",
+      "clue": "On Sept. 30, 1788 William Maclay & Robert Morris, both of Pennsylvania, were chosen as the first 2 these",
+      "answer": "(U.S.) senators",
+      "responses": [
+        {
+          "contestant": "Aline",
+          "response": "What are delegates to the Constitutional Convention??? :)",
+          "isCorrect": false,
+          "isIncorrect": true,
+          "value": 3600,
+          "finalScore": 0
+        },
+        {
+          "contestant": "Ray",
+          "response": "What are U.S. Senators?",
+          "isCorrect": true,
+          "isIncorrect": false,
+          "value": 10195,
+          "finalScore": 20395
+        },
+        {
+          "contestant": "Jonathan",
+          "response": "What are Senators?",
+          "isCorrect": true,
+          "isIncorrect": false,
+          "value": 900,
+          "finalScore": 24000
+        }
+      ]
+    }
+  },
+  "finalScores": [
+    {
+      "player": "Jonathan",
+      "score": "$24,000"
+    },
+    {
+      "player": "Aline",
+      "score": "$0"
+    },
+    {
+      "player": "Ray",
+      "score": "$20,395"
+    }
+  ],
+  "coryatScores": [
+    {
+      "player": "Jonathan",
+      "score": 21400
+    },
+    {
+      "player": "Aline",
+      "score": 2600
+    },
+    {
+      "player": "Ray",
+      "score": 10000
+    }
+  ]
+}

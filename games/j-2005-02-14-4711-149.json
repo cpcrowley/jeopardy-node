@@ -1,0 +1,1695 @@
+{
+  "gameId": 149,
+  "showNumber": "4711",
+  "title": "Show #4711 - Monday, February 14, 2005",
+  "date": "2005-02-14",
+  "comments": "2005 Ultimate Tournament of Champions Round 1, game 4.",
+  "contestants": [
+    "David",
+    "Alan",
+    "Janet"
+  ],
+  "rounds": {
+    "jeopardy": {
+      "categories": [
+        "NAME THAT AUTHOR",
+        "HALL OF FAMER BY POSITION",
+        "STOCK SYMBOL SHOPPING",
+        "WHAT WOULD YOU LIKE TO DRINK?",
+        "PERHAPS SOME \"TEA\"",
+        "A CUP OF KOFI"
+      ],
+      "clues": [
+        {
+          "category": "NAME THAT AUTHOR",
+          "value": 200,
+          "clue": "Mathew Brady took the photo seen here of this author & West Point dropout",
+          "answer": "Edgar Allan Poe",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [
+            "Alan"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 0
+            },
+            {
+              "player": "Alan",
+              "score": 200
+            },
+            {
+              "player": "Janet",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "WHAT WOULD YOU LIKE TO DRINK?",
+          "value": 200,
+          "clue": "This uncola originally had the name \"Bib-Label Lithiated Lemon-Lime Soda\"",
+          "answer": "7 Up",
+          "isDailyDouble": false,
+          "orderNumber": 2,
+          "correctContestants": [
+            "Alan"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 0
+            },
+            {
+              "player": "Alan",
+              "score": 400
+            },
+            {
+              "player": "Janet",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "WHAT WOULD YOU LIKE TO DRINK?",
+          "value": 400,
+          "clue": "A kir is white wine & creme de cassis; a kir royale is this & creme de cassis",
+          "answer": "champagne",
+          "isDailyDouble": false,
+          "orderNumber": 3,
+          "correctContestants": [
+            "Alan"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 0
+            },
+            {
+              "player": "Alan",
+              "score": 800
+            },
+            {
+              "player": "Janet",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "WHAT WOULD YOU LIKE TO DRINK?",
+          "value": 600,
+          "clue": "It doesn't take breaking a world record to tell us this Irish brew is \"brilliant\"",
+          "answer": "Guinness",
+          "isDailyDouble": false,
+          "orderNumber": 4,
+          "correctContestants": [
+            "Janet"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 0
+            },
+            {
+              "player": "Alan",
+              "score": 800
+            },
+            {
+              "player": "Janet",
+              "score": 600
+            }
+          ]
+        },
+        {
+          "category": "A CUP OF KOFI",
+          "value": 200,
+          "clue": "Kofi Annan is the seventh person to hold this highest U.N. executive position",
+          "answer": "secretary-general",
+          "isDailyDouble": false,
+          "orderNumber": 5,
+          "correctContestants": [
+            "Janet"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 0
+            },
+            {
+              "player": "Alan",
+              "score": 800
+            },
+            {
+              "player": "Janet",
+              "score": 800
+            }
+          ]
+        },
+        {
+          "category": "PERHAPS SOME \"TEA\"",
+          "value": 200,
+          "clue": "What Helen Keller called Anne Sullivan",
+          "answer": "Teacher",
+          "isDailyDouble": false,
+          "orderNumber": 6,
+          "correctContestants": [
+            "Janet"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 0
+            },
+            {
+              "player": "Alan",
+              "score": 800
+            },
+            {
+              "player": "Janet",
+              "score": 1000
+            }
+          ]
+        },
+        {
+          "category": "NAME THAT AUTHOR",
+          "value": 400,
+          "clue": "Pioneering Nebraska novelist seen here in 1915",
+          "answer": "Willa Cather",
+          "isDailyDouble": false,
+          "orderNumber": 7,
+          "correctContestants": [
+            "Alan"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 0
+            },
+            {
+              "player": "Alan",
+              "score": 1200
+            },
+            {
+              "player": "Janet",
+              "score": 1000
+            }
+          ]
+        },
+        {
+          "category": "WHAT WOULD YOU LIKE TO DRINK?",
+          "value": 1200,
+          "clue": "This beverage that can be \"sweet\" or \"hard\" is made from freshly pressed deciduous fruits",
+          "answer": "cider",
+          "isDailyDouble": true,
+          "orderNumber": 8,
+          "correctContestants": [
+            "Alan"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 0
+            },
+            {
+              "player": "Alan",
+              "score": 2400
+            },
+            {
+              "player": "Janet",
+              "score": 1000
+            }
+          ]
+        },
+        {
+          "category": "WHAT WOULD YOU LIKE TO DRINK?",
+          "value": 1000,
+          "clue": "Vodka, peach schnapps, cranberry juice & grapefruit juice make up one version of this \"on the beach\"",
+          "answer": "sex",
+          "isDailyDouble": false,
+          "orderNumber": 9,
+          "correctContestants": [
+            "Janet"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 0
+            },
+            {
+              "player": "Alan",
+              "score": 2400
+            },
+            {
+              "player": "Janet",
+              "score": 2000
+            }
+          ]
+        },
+        {
+          "category": "NAME THAT AUTHOR",
+          "value": 600,
+          "clue": "Called one of the greatest practitioners of the historical novel, he was born in Edinburgh",
+          "answer": "Walter Scott",
+          "isDailyDouble": false,
+          "orderNumber": 10,
+          "correctContestants": [
+            "Alan"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 0
+            },
+            {
+              "player": "Alan",
+              "score": 3000
+            },
+            {
+              "player": "Janet",
+              "score": 2000
+            }
+          ]
+        },
+        {
+          "category": "NAME THAT AUTHOR",
+          "value": 800,
+          "clue": "This British author seen here first \"Bloom\"ed in 1882",
+          "answer": "Virginia Woolf",
+          "isDailyDouble": false,
+          "orderNumber": 11,
+          "correctContestants": [
+            "David"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 800
+            },
+            {
+              "player": "Alan",
+              "score": 3000
+            },
+            {
+              "player": "Janet",
+              "score": 2000
+            }
+          ]
+        },
+        {
+          "category": "NAME THAT AUTHOR",
+          "value": 1000,
+          "clue": "Seen here in 1976, this playwright served prison time for his dissident views",
+          "answer": "(Vaclav) Havel",
+          "isDailyDouble": false,
+          "orderNumber": 12,
+          "correctContestants": [
+            "Alan"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 800
+            },
+            {
+              "player": "Alan",
+              "score": 4000
+            },
+            {
+              "player": "Janet",
+              "score": 2000
+            }
+          ]
+        },
+        {
+          "category": "PERHAPS SOME \"TEA\"",
+          "value": 400,
+          "clue": "Hold hair at ends, comb toward scalp; cracking gum optional",
+          "answer": "tease",
+          "isDailyDouble": false,
+          "orderNumber": 13,
+          "correctContestants": [
+            "Alan"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 800
+            },
+            {
+              "player": "Alan",
+              "score": 4400
+            },
+            {
+              "player": "Janet",
+              "score": 2000
+            }
+          ]
+        },
+        {
+          "category": "PERHAPS SOME \"TEA\"",
+          "value": 600,
+          "clue": "Daniel Tobin headed this union from 1907 to 1952, bringing its membership from 40,000 to more than a million",
+          "answer": "the Teamsters",
+          "isDailyDouble": false,
+          "orderNumber": 14,
+          "correctContestants": [
+            "Alan"
+          ],
+          "incorrectContestants": [
+            "David"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 200
+            },
+            {
+              "player": "Alan",
+              "score": 5000
+            },
+            {
+              "player": "Janet",
+              "score": 2000
+            }
+          ]
+        },
+        {
+          "category": "PERHAPS SOME \"TEA\"",
+          "value": 800,
+          "clue": "It has about 40,000 people & it's right near Hackensack",
+          "answer": "Teaneck",
+          "isDailyDouble": false,
+          "orderNumber": 15,
+          "correctContestants": [
+            "David"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 1000
+            },
+            {
+              "player": "Alan",
+              "score": 5000
+            },
+            {
+              "player": "Janet",
+              "score": 2000
+            }
+          ]
+        },
+        {
+          "category": "PERHAPS SOME \"TEA\"",
+          "value": 1000,
+          "clue": "This great trombonist was part of Louis Armstrong's band from 1947 to 1951",
+          "answer": "Jack Teagarden",
+          "isDailyDouble": false,
+          "orderNumber": 16,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 1000
+            },
+            {
+              "player": "Alan",
+              "score": 5000
+            },
+            {
+              "player": "Janet",
+              "score": 2000
+            }
+          ]
+        },
+        {
+          "category": "A CUP OF KOFI",
+          "value": 400,
+          "clue": "In 1991 Kofi Annan negotiated the release of U.N. workers held in this country during the Persian Gulf War",
+          "answer": "Iraq",
+          "isDailyDouble": false,
+          "orderNumber": 17,
+          "correctContestants": [
+            "Alan"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 1000
+            },
+            {
+              "player": "Alan",
+              "score": 5400
+            },
+            {
+              "player": "Janet",
+              "score": 2000
+            }
+          ]
+        },
+        {
+          "category": "A CUP OF KOFI",
+          "value": 600,
+          "clue": "In June 2000 Kofi Annan was the commencement speaker at this university near Palo Alto, California",
+          "answer": "Stanford",
+          "isDailyDouble": false,
+          "orderNumber": 18,
+          "correctContestants": [
+            "Janet"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 1000
+            },
+            {
+              "player": "Alan",
+              "score": 5400
+            },
+            {
+              "player": "Janet",
+              "score": 2600
+            }
+          ]
+        },
+        {
+          "category": "A CUP OF KOFI",
+          "value": 800,
+          "clue": "Kofi Annan's first job in the U.N. was in 1962 as an administrator & budget officer of this \"organization\"",
+          "answer": "the World Health Organization",
+          "isDailyDouble": false,
+          "orderNumber": 19,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 1000
+            },
+            {
+              "player": "Alan",
+              "score": 5400
+            },
+            {
+              "player": "Janet",
+              "score": 2600
+            }
+          ]
+        },
+        {
+          "category": "A CUP OF KOFI",
+          "value": 1000,
+          "clue": "The first U.N. head from Africa south of the Sahara, Kofi Annan was born in the city of Kumasi in this country in 1938",
+          "answer": "Ghana",
+          "isDailyDouble": false,
+          "orderNumber": 20,
+          "correctContestants": [
+            "David"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 2000
+            },
+            {
+              "player": "Alan",
+              "score": 5400
+            },
+            {
+              "player": "Janet",
+              "score": 2600
+            }
+          ]
+        },
+        {
+          "category": "HALL OF FAMER BY POSITION",
+          "value": 200,
+          "clue": "Joe Namath,Joe Montana",
+          "answer": "quarterback",
+          "isDailyDouble": false,
+          "orderNumber": 21,
+          "correctContestants": [
+            "Alan"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 2000
+            },
+            {
+              "player": "Alan",
+              "score": 5600
+            },
+            {
+              "player": "Janet",
+              "score": 2600
+            }
+          ]
+        },
+        {
+          "category": "STOCK SYMBOL SHOPPING",
+          "value": 200,
+          "clue": "For electronics:RSH",
+          "answer": "RadioShack",
+          "isDailyDouble": false,
+          "orderNumber": 22,
+          "correctContestants": [
+            "Alan"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 2000
+            },
+            {
+              "player": "Alan",
+              "score": 5800
+            },
+            {
+              "player": "Janet",
+              "score": 2600
+            }
+          ]
+        },
+        {
+          "category": "STOCK SYMBOL SHOPPING",
+          "value": 400,
+          "clue": "For kitchenware as well as sheets & towels:BBBY",
+          "answer": "Bed Bath & Beyond",
+          "isDailyDouble": false,
+          "orderNumber": 23,
+          "correctContestants": [
+            "Alan"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 2000
+            },
+            {
+              "player": "Alan",
+              "score": 6200
+            },
+            {
+              "player": "Janet",
+              "score": 2600
+            }
+          ]
+        },
+        {
+          "category": "STOCK SYMBOL SHOPPING",
+          "value": 600,
+          "clue": "For DVDs:BBI",
+          "answer": "Blockbuster",
+          "isDailyDouble": false,
+          "orderNumber": 24,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Alan"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 2000
+            },
+            {
+              "player": "Alan",
+              "score": 5600
+            },
+            {
+              "player": "Janet",
+              "score": 2600
+            }
+          ]
+        },
+        {
+          "category": "STOCK SYMBOL SHOPPING",
+          "value": 800,
+          "clue": "For auto parts:PBY",
+          "answer": "Pep Boys",
+          "isDailyDouble": false,
+          "orderNumber": 25,
+          "correctContestants": [
+            "Alan"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 2000
+            },
+            {
+              "player": "Alan",
+              "score": 6400
+            },
+            {
+              "player": "Janet",
+              "score": 2600
+            }
+          ]
+        },
+        {
+          "category": "STOCK SYMBOL SHOPPING",
+          "value": 1000,
+          "clue": "For fine furniture:ETH",
+          "answer": "Ethan Allen",
+          "isDailyDouble": false,
+          "orderNumber": 26,
+          "correctContestants": [
+            "Janet"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 2000
+            },
+            {
+              "player": "Alan",
+              "score": 6400
+            },
+            {
+              "player": "Janet",
+              "score": 3600
+            }
+          ]
+        },
+        {
+          "category": "HALL OF FAMER BY POSITION",
+          "value": 400,
+          "clue": "Bill Russell,Bill Walton",
+          "answer": "center",
+          "isDailyDouble": false,
+          "orderNumber": 27,
+          "correctContestants": [
+            "Alan"
+          ],
+          "incorrectContestants": [
+            "David"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 1600
+            },
+            {
+              "player": "Alan",
+              "score": 6800
+            },
+            {
+              "player": "Janet",
+              "score": 3600
+            }
+          ]
+        },
+        {
+          "category": "HALL OF FAMER BY POSITION",
+          "value": 600,
+          "clue": "Bob Feller,Bob Lemon,Bob Gibson",
+          "answer": "pitcher",
+          "isDailyDouble": false,
+          "orderNumber": 28,
+          "correctContestants": [
+            "Alan"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 1600
+            },
+            {
+              "player": "Alan",
+              "score": 7400
+            },
+            {
+              "player": "Janet",
+              "score": 3600
+            }
+          ]
+        },
+        {
+          "category": "HALL OF FAMER BY POSITION",
+          "value": 800,
+          "clue": "Jack Lambert,Jack Ham",
+          "answer": "linebacker",
+          "isDailyDouble": false,
+          "orderNumber": 29,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 1600
+            },
+            {
+              "player": "Alan",
+              "score": 7400
+            },
+            {
+              "player": "Janet",
+              "score": 3600
+            }
+          ]
+        },
+        {
+          "category": "HALL OF FAMER BY POSITION",
+          "value": 1000,
+          "clue": "Gump Worsley,Shrimp Worters,Rat Westwick",
+          "answer": "hockey goalie",
+          "isDailyDouble": false,
+          "orderNumber": 30,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 1600
+            },
+            {
+              "player": "Alan",
+              "score": 7400
+            },
+            {
+              "player": "Janet",
+              "score": 3600
+            }
+          ]
+        }
+      ],
+      "firstBreakScores": [
+        {
+          "player": "David",
+          "score": 1000
+        },
+        {
+          "player": "Alan",
+          "score": 5000
+        },
+        {
+          "player": "Janet",
+          "score": 2000
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "David",
+          "score": 1600
+        },
+        {
+          "player": "Alan",
+          "score": 7400
+        },
+        {
+          "player": "Janet",
+          "score": 3600
+        }
+      ]
+    },
+    "doubleJeopardy": {
+      "categories": [
+        "PHILOSOPHY",
+        "MOVIE TAGLINES",
+        "AMERICAN HERSTORY",
+        "COUNTRY DISTINCTIONS",
+        "GEEK LETTER SOCIETIES",
+        "IT'S GREEK TO ME"
+      ],
+      "clues": [
+        {
+          "category": "PHILOSOPHY",
+          "value": 400,
+          "clue": "A 1751 book by David Hume in this area of philosophy argues that altruism is human nature",
+          "answer": "ethics",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 2000
+            },
+            {
+              "player": "Alan",
+              "score": 7400
+            },
+            {
+              "player": "Janet",
+              "score": 3600
+            }
+          ]
+        },
+        {
+          "category": "PHILOSOPHY",
+          "value": 800,
+          "clue": "Nominalism is so called from considering only objects real, & abstractions like \"animal\" & \"circle\" merely these",
+          "answer": "names",
+          "isDailyDouble": false,
+          "orderNumber": 2,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 2000
+            },
+            {
+              "player": "Alan",
+              "score": 8200
+            },
+            {
+              "player": "Janet",
+              "score": 3600
+            }
+          ]
+        },
+        {
+          "category": "MOVIE TAGLINES",
+          "value": 1200,
+          "clue": "2002:\"America was born in the streets\"",
+          "answer": "Gangs of New York (The Gangs of New York accepted)",
+          "isDailyDouble": false,
+          "orderNumber": 3,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 3200
+            },
+            {
+              "player": "Alan",
+              "score": 8200
+            },
+            {
+              "player": "Janet",
+              "score": 3600
+            }
+          ]
+        },
+        {
+          "category": "PHILOSOPHY",
+          "value": 1200,
+          "clue": "Separating mind from matter was a big step for this philosopher who died in 1650",
+          "answer": "Rene Descartes",
+          "isDailyDouble": false,
+          "orderNumber": 4,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 4400
+            },
+            {
+              "player": "Alan",
+              "score": 8200
+            },
+            {
+              "player": "Janet",
+              "score": 3600
+            }
+          ]
+        },
+        {
+          "category": "PHILOSOPHY",
+          "value": 1600,
+          "clue": "This idea that God & the universe are identical was powerfully stated by Spinoza in the 17th century",
+          "answer": "pantheism",
+          "isDailyDouble": false,
+          "orderNumber": 5,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 2800
+            },
+            {
+              "player": "Alan",
+              "score": 8200
+            },
+            {
+              "player": "Janet",
+              "score": 3600
+            }
+          ]
+        },
+        {
+          "category": "PHILOSOPHY",
+          "value": 2000,
+          "clue": "This was a real 4-letter word for Schopenhauer, as it urges us on to pointless desires & death",
+          "answer": "will",
+          "isDailyDouble": false,
+          "orderNumber": 6,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 2800
+            },
+            {
+              "player": "Alan",
+              "score": 8200
+            },
+            {
+              "player": "Janet",
+              "score": 3600
+            }
+          ]
+        },
+        {
+          "category": "IT'S GREEK TO ME",
+          "value": 1600,
+          "clue": "(Cheryl of the Clue Crew stands by a stone wheel in Naxos, Greece.)  Related for the English \"to bear\", \"pherein\" gave us the name of this traditional container to bear oil",
+          "answer": "an amphora",
+          "isDailyDouble": false,
+          "orderNumber": 7,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 4400
+            },
+            {
+              "player": "Alan",
+              "score": 8200
+            },
+            {
+              "player": "Janet",
+              "score": 3600
+            }
+          ]
+        },
+        {
+          "category": "IT'S GREEK TO ME",
+          "value": 2000,
+          "clue": "Meaning \"fighter\" or \"contestant\" (as on \"Jeopardy!\"), it follows \"Samson\" in the title of a Milton work",
+          "answer": "agonistes",
+          "isDailyDouble": false,
+          "orderNumber": 8,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 4400
+            },
+            {
+              "player": "Alan",
+              "score": 10200
+            },
+            {
+              "player": "Janet",
+              "score": 3600
+            }
+          ]
+        },
+        {
+          "category": "MOVIE TAGLINES",
+          "value": 5000,
+          "clue": "1960:\"They trained him to kill for their pleasure... but they trained him a little too well...\"",
+          "answer": "Spartacus",
+          "isDailyDouble": true,
+          "orderNumber": 9,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 4400
+            },
+            {
+              "player": "Alan",
+              "score": 5200
+            },
+            {
+              "player": "Janet",
+              "score": 3600
+            }
+          ]
+        },
+        {
+          "category": "MOVIE TAGLINES",
+          "value": 2000,
+          "clue": "2000:\"Some memories are best forgotten\"",
+          "answer": "Memento",
+          "isDailyDouble": false,
+          "orderNumber": 10,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 4400
+            },
+            {
+              "player": "Alan",
+              "score": 5200
+            },
+            {
+              "player": "Janet",
+              "score": 3600
+            }
+          ]
+        },
+        {
+          "category": "COUNTRY DISTINCTIONS",
+          "value": 400,
+          "clue": "This Western Hemisphere country has the most Spanish speakers of any country in the world",
+          "answer": "Mexico",
+          "isDailyDouble": false,
+          "orderNumber": 11,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 4800
+            },
+            {
+              "player": "Alan",
+              "score": 5200
+            },
+            {
+              "player": "Janet",
+              "score": 3600
+            }
+          ]
+        },
+        {
+          "category": "IT'S GREEK TO ME",
+          "value": 1200,
+          "clue": "To get this word for a place to eat & drink in Greece, add \"A\" to a similar English word",
+          "answer": "taverna",
+          "isDailyDouble": false,
+          "orderNumber": 12,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 6000
+            },
+            {
+              "player": "Alan",
+              "score": 5200
+            },
+            {
+              "player": "Janet",
+              "score": 3600
+            }
+          ]
+        },
+        {
+          "category": "IT'S GREEK TO ME",
+          "value": 800,
+          "clue": "(Cheryl of the Clue Crew stands by a small belfry overlooking the sea at Santorini, Greece.)  Historian Herodotus said the island of Santorini was once called \"Kalliste\" meaning the utmost in this quality",
+          "answer": "beauty",
+          "isDailyDouble": false,
+          "orderNumber": 13,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 6800
+            },
+            {
+              "player": "Alan",
+              "score": 5200
+            },
+            {
+              "player": "Janet",
+              "score": 3600
+            }
+          ]
+        },
+        {
+          "category": "IT'S GREEK TO ME",
+          "value": 400,
+          "clue": "In English it's a figure of speech, like \"a sea of troubles\"; in Greek it refers to moving companies",
+          "answer": "a metaphor",
+          "isDailyDouble": false,
+          "orderNumber": 14,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 7200
+            },
+            {
+              "player": "Alan",
+              "score": 5200
+            },
+            {
+              "player": "Janet",
+              "score": 3600
+            }
+          ]
+        },
+        {
+          "category": "GEEK LETTER SOCIETIES",
+          "value": 400,
+          "clue": "The U.S. Internet Industry Association posts an FBI-esque list of these, like worm netsky.p",
+          "answer": "viruses",
+          "isDailyDouble": false,
+          "orderNumber": 15,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 7200
+            },
+            {
+              "player": "Alan",
+              "score": 5200
+            },
+            {
+              "player": "Janet",
+              "score": 3600
+            }
+          ]
+        },
+        {
+          "category": "COUNTRY DISTINCTIONS",
+          "value": 1200,
+          "clue": "Golden opportunities await in this African country that leads the world in gold production",
+          "answer": "South Africa",
+          "isDailyDouble": false,
+          "orderNumber": 16,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 8400
+            },
+            {
+              "player": "Alan",
+              "score": 5200
+            },
+            {
+              "player": "Janet",
+              "score": 3600
+            }
+          ]
+        },
+        {
+          "category": "COUNTRY DISTINCTIONS",
+          "value": 1600,
+          "clue": "This Asian country has the world's largest armed forces",
+          "answer": "China",
+          "isDailyDouble": false,
+          "orderNumber": 17,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 10000
+            },
+            {
+              "player": "Alan",
+              "score": 3600
+            },
+            {
+              "player": "Janet",
+              "score": 3600
+            }
+          ]
+        },
+        {
+          "category": "COUNTRY DISTINCTIONS",
+          "value": 2000,
+          "clue": "People on this European island nation read more books per person annually than any other",
+          "answer": "Iceland",
+          "isDailyDouble": false,
+          "orderNumber": 18,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 10000
+            },
+            {
+              "player": "Alan",
+              "score": 3600
+            },
+            {
+              "player": "Janet",
+              "score": 3600
+            }
+          ]
+        },
+        {
+          "category": "COUNTRY DISTINCTIONS",
+          "value": 800,
+          "clue": "Holy cow!  There are more head of cattle in this nation than anywhere else",
+          "answer": "India",
+          "isDailyDouble": false,
+          "orderNumber": 19,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 10800
+            },
+            {
+              "player": "Alan",
+              "score": 3600
+            },
+            {
+              "player": "Janet",
+              "score": 3600
+            }
+          ]
+        },
+        {
+          "category": "AMERICAN HERSTORY",
+          "value": 400,
+          "clue": "In March 1879 law school grad Belva Lockwood became the first woman allowed to argue here",
+          "answer": "before the Supreme Court",
+          "isDailyDouble": false,
+          "orderNumber": 20,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 10800
+            },
+            {
+              "player": "Alan",
+              "score": 3600
+            },
+            {
+              "player": "Janet",
+              "score": 4000
+            }
+          ]
+        },
+        {
+          "category": "AMERICAN HERSTORY",
+          "value": 1200,
+          "clue": "As a girl in the 1830s she nursed her brother David through a 2-year illness (came in handy later)",
+          "answer": "Clara Barton",
+          "isDailyDouble": true,
+          "orderNumber": 21,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 10800
+            },
+            {
+              "player": "Alan",
+              "score": 3600
+            },
+            {
+              "player": "Janet",
+              "score": 2800
+            }
+          ]
+        },
+        {
+          "category": "AMERICAN HERSTORY",
+          "value": 1200,
+          "clue": "Before she was the first black woman in Congress, she was the second in the New York State Assembly",
+          "answer": "Shirley Chisholm",
+          "isDailyDouble": false,
+          "orderNumber": 22,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 12000
+            },
+            {
+              "player": "Alan",
+              "score": 3600
+            },
+            {
+              "player": "Janet",
+              "score": 2800
+            }
+          ]
+        },
+        {
+          "category": "AMERICAN HERSTORY",
+          "value": 1600,
+          "clue": "The motto \"semper paratus\" game us this nautical acronym for the WWII Women's Coast Guard Reserve",
+          "answer": "SPAR",
+          "isDailyDouble": false,
+          "orderNumber": 23,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 12000
+            },
+            {
+              "player": "Alan",
+              "score": 3600
+            },
+            {
+              "player": "Janet",
+              "score": 2800
+            }
+          ]
+        },
+        {
+          "category": "AMERICAN HERSTORY",
+          "value": 2000,
+          "clue": "This alliterative-named woman who spied for Stonewall Jackson was not the most ladylike Southern belle",
+          "answer": "Belle Boyd",
+          "isDailyDouble": false,
+          "orderNumber": 24,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 12000
+            },
+            {
+              "player": "Alan",
+              "score": 3600
+            },
+            {
+              "player": "Janet",
+              "score": 2800
+            }
+          ]
+        },
+        {
+          "category": "GEEK LETTER SOCIETIES",
+          "value": 800,
+          "clue": "ACM, the Association for Computing Machinery, dates back to this decade when ENIAC came on line",
+          "answer": "the '40s",
+          "isDailyDouble": false,
+          "orderNumber": 25,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 12800
+            },
+            {
+              "player": "Alan",
+              "score": 2800
+            },
+            {
+              "player": "Janet",
+              "score": 2800
+            }
+          ]
+        },
+        {
+          "category": "GEEK LETTER SOCIETIES",
+          "value": 1200,
+          "clue": "The ICGA website tells us Deep Fritz, this type of program, earned a draw with Vladimir Kramnik",
+          "answer": "chess",
+          "isDailyDouble": false,
+          "orderNumber": 26,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 12800
+            },
+            {
+              "player": "Alan",
+              "score": 4000
+            },
+            {
+              "player": "Janet",
+              "score": 2800
+            }
+          ]
+        },
+        {
+          "category": "GEEK LETTER SOCIETIES",
+          "value": 1600,
+          "clue": "The AAAI, American Association for this, has only human members--we think",
+          "answer": "Artificial Intelligence",
+          "isDailyDouble": false,
+          "orderNumber": 27,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 12800
+            },
+            {
+              "player": "Alan",
+              "score": 5600
+            },
+            {
+              "player": "Janet",
+              "score": 2800
+            }
+          ]
+        },
+        {
+          "category": "GEEK LETTER SOCIETIES",
+          "value": 2000,
+          "clue": "The OSI is the \"Initiative\" to promote this, free access to software code",
+          "answer": "open source",
+          "isDailyDouble": false,
+          "orderNumber": 28,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 12800
+            },
+            {
+              "player": "Alan",
+              "score": 5600
+            },
+            {
+              "player": "Janet",
+              "score": 4800
+            }
+          ]
+        },
+        {
+          "category": "MOVIE TAGLINES",
+          "value": 400,
+          "clue": "1978:\"You'll believe a man can fly\"",
+          "answer": "Superman",
+          "isDailyDouble": false,
+          "orderNumber": 29,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 12800
+            },
+            {
+              "player": "Alan",
+              "score": 6000
+            },
+            {
+              "player": "Janet",
+              "score": 4800
+            }
+          ]
+        },
+        {
+          "category": "MOVIE TAGLINES",
+          "value": 800,
+          "clue": "1977:\"We are not alone\"",
+          "answer": "Close Encounters of the Third Kind",
+          "isDailyDouble": false,
+          "orderNumber": 30,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 12800
+            },
+            {
+              "player": "Alan",
+              "score": 6000
+            },
+            {
+              "player": "Janet",
+              "score": 5600
+            }
+          ]
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "David",
+          "score": 12800
+        },
+        {
+          "player": "Alan",
+          "score": 6000
+        },
+        {
+          "player": "Janet",
+          "score": 5600
+        }
+      ]
+    },
+    "finalJeopardy": {
+      "category": "STATE SYMBOLS",
+      "clue": "In 1993 it became the first state to adopt an official flavor, which, incidentally, comes from its state tree",
+      "answer": "Vermont",
+      "responses": [
+        {
+          "contestant": "Janet",
+          "response": "What is Vermont?",
+          "isCorrect": true,
+          "isIncorrect": false,
+          "value": 400,
+          "finalScore": 6000
+        },
+        {
+          "contestant": "Alan",
+          "response": "What is Vermont",
+          "isCorrect": true,
+          "isIncorrect": false,
+          "value": 6000,
+          "finalScore": 12000
+        },
+        {
+          "contestant": "David",
+          "response": "What is Florida",
+          "isCorrect": false,
+          "isIncorrect": true,
+          "value": 0,
+          "finalScore": 12800
+        }
+      ]
+    }
+  },
+  "finalScores": [
+    {
+      "player": "David",
+      "score": "$12,800"
+    },
+    {
+      "player": "Alan",
+      "score": "$12,000"
+    },
+    {
+      "player": "Janet",
+      "score": "$6,000"
+    }
+  ],
+  "coryatScores": [
+    {
+      "player": "David",
+      "score": 12800
+    },
+    {
+      "player": "Alan",
+      "score": 10600
+    },
+    {
+      "player": "Janet",
+      "score": 6800
+    }
+  ]
+}

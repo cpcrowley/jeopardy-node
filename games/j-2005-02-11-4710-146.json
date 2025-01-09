@@ -1,0 +1,1702 @@
+{
+  "gameId": 146,
+  "showNumber": "4710",
+  "title": "Show #4710 - Friday, February 11, 2005",
+  "date": "2005-02-11",
+  "comments": "2005 Ultimate Tournament of Champions Round 1, game 3.",
+  "contestants": [
+    "Melissa",
+    "Babu",
+    "Arthur"
+  ],
+  "rounds": {
+    "jeopardy": {
+      "categories": [
+        "COMING SOON... HISTORY!",
+        "2004 OSCAR NOMINATIONS",
+        "SECRETARY'S DAY",
+        "20th CENTURY SCIENCE TIDBITS",
+        "STATES' FORMER GOVERNORS",
+        "MODERN QUOTATIONS"
+      ],
+      "clues": [
+        {
+          "category": "SECRETARY'S DAY",
+          "value": 200,
+          "clue": "This female 1932 Olympic hurdles & javelin winner also ran secretarial errands like a champ",
+          "answer": "Didrikson-Zaharias",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [
+            "Melissa"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Melissa",
+              "score": 200
+            },
+            {
+              "player": "Babu",
+              "score": 0
+            },
+            {
+              "player": "Arthur",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "SECRETARY'S DAY",
+          "value": 400,
+          "clue": "This Anglo-Irish satirist's travels as a secretary probably made him feel Lilliputian",
+          "answer": "Jonathan Swift",
+          "isDailyDouble": false,
+          "orderNumber": 2,
+          "correctContestants": [
+            "Arthur"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Melissa",
+              "score": 200
+            },
+            {
+              "player": "Babu",
+              "score": 0
+            },
+            {
+              "player": "Arthur",
+              "score": 400
+            }
+          ]
+        },
+        {
+          "category": "20th CENTURY SCIENCE TIDBITS",
+          "value": 200,
+          "clue": "After Sir James Chadwick's 1932 discovery of this fundamental particle of matter, the world went fission",
+          "answer": "a neutron",
+          "isDailyDouble": false,
+          "orderNumber": 3,
+          "correctContestants": [
+            "Babu"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Melissa",
+              "score": 200
+            },
+            {
+              "player": "Babu",
+              "score": 200
+            },
+            {
+              "player": "Arthur",
+              "score": 400
+            }
+          ]
+        },
+        {
+          "category": "20th CENTURY SCIENCE TIDBITS",
+          "value": 400,
+          "clue": "Meredith Gourdine's work on gas dispersion led to a way of clearing this from airport runways",
+          "answer": "fog",
+          "isDailyDouble": false,
+          "orderNumber": 4,
+          "correctContestants": [
+            "Babu"
+          ],
+          "incorrectContestants": [
+            "Melissa"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Melissa",
+              "score": -200
+            },
+            {
+              "player": "Babu",
+              "score": 600
+            },
+            {
+              "player": "Arthur",
+              "score": 400
+            }
+          ]
+        },
+        {
+          "category": "20th CENTURY SCIENCE TIDBITS",
+          "value": 1000,
+          "clue": "Entomologist Thomas Eisner helped decipher the flash code used by the femmes fatales of these insects",
+          "answer": "fireflies",
+          "isDailyDouble": true,
+          "orderNumber": 5,
+          "correctContestants": [
+            "Babu"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Melissa",
+              "score": -200
+            },
+            {
+              "player": "Babu",
+              "score": 1600
+            },
+            {
+              "player": "Arthur",
+              "score": 400
+            }
+          ]
+        },
+        {
+          "category": "20th CENTURY SCIENCE TIDBITS",
+          "value": 800,
+          "clue": "In the '70s Hans Dehmelt took a color photo of Astrid, a single charged ion of this element, Ba",
+          "answer": "barium",
+          "isDailyDouble": false,
+          "orderNumber": 6,
+          "correctContestants": [
+            "Arthur"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Melissa",
+              "score": -200
+            },
+            {
+              "player": "Babu",
+              "score": 1600
+            },
+            {
+              "player": "Arthur",
+              "score": 1200
+            }
+          ]
+        },
+        {
+          "category": "20th CENTURY SCIENCE TIDBITS",
+          "value": 1000,
+          "clue": "The UNIVAC computer used this format for permanent data storage",
+          "answer": "magnetic tape",
+          "isDailyDouble": false,
+          "orderNumber": 7,
+          "correctContestants": [
+            "Babu"
+          ],
+          "incorrectContestants": [
+            "Arthur"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Melissa",
+              "score": -200
+            },
+            {
+              "player": "Babu",
+              "score": 2600
+            },
+            {
+              "player": "Arthur",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "COMING SOON... HISTORY!",
+          "value": 200,
+          "clue": "1 man, 1 scientific mission... to tame the heavens... In 1752 he would invent the lightning rod... & electrify the world",
+          "answer": "Benjamin Franklin",
+          "isDailyDouble": false,
+          "orderNumber": 8,
+          "correctContestants": [
+            "Babu"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Melissa",
+              "score": -200
+            },
+            {
+              "player": "Babu",
+              "score": 2800
+            },
+            {
+              "player": "Arthur",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "COMING SOON... HISTORY!",
+          "value": 400,
+          "clue": "If you see only 1 19th c. author's final resting place this Xmas, make it this \"Jungle Book\" man's at Westminster Abbey",
+          "answer": "Kipling",
+          "isDailyDouble": false,
+          "orderNumber": 9,
+          "correctContestants": [
+            "Melissa"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Melissa",
+              "score": 200
+            },
+            {
+              "player": "Babu",
+              "score": 2800
+            },
+            {
+              "player": "Arthur",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "COMING SOON... HISTORY!",
+          "value": 600,
+          "clue": "In 1860s England, he would change the rules of pugilism forever... by making them!  This summer, Vin Diesel is...",
+          "answer": "the Marquess of Queensbury",
+          "isDailyDouble": false,
+          "orderNumber": 10,
+          "correctContestants": [
+            "Arthur"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Melissa",
+              "score": 200
+            },
+            {
+              "player": "Babu",
+              "score": 2800
+            },
+            {
+              "player": "Arthur",
+              "score": 800
+            }
+          ]
+        },
+        {
+          "category": "COMING SOON... HISTORY!",
+          "value": 800,
+          "clue": "Nowhere to run, nowhere to hide... Yorktown, Oct. 19, 1781... this gen.'s surrender would end a war... & birth a nation",
+          "answer": "Cornwallis",
+          "isDailyDouble": false,
+          "orderNumber": 11,
+          "correctContestants": [
+            "Babu"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Melissa",
+              "score": 200
+            },
+            {
+              "player": "Babu",
+              "score": 3600
+            },
+            {
+              "player": "Arthur",
+              "score": 800
+            }
+          ]
+        },
+        {
+          "category": "COMING SOON... HISTORY!",
+          "value": 1000,
+          "clue": "In a world that cried out for a... map projection... only this Flemish cartographer would heed the call",
+          "answer": "Mercator",
+          "isDailyDouble": false,
+          "orderNumber": 12,
+          "correctContestants": [
+            "Babu"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Melissa",
+              "score": 200
+            },
+            {
+              "player": "Babu",
+              "score": 4600
+            },
+            {
+              "player": "Arthur",
+              "score": 800
+            }
+          ]
+        },
+        {
+          "category": "STATES' FORMER GOVERNORS",
+          "value": 200,
+          "clue": "Earl Warren & Jerry Brown",
+          "answer": "California",
+          "isDailyDouble": false,
+          "orderNumber": 13,
+          "correctContestants": [
+            "Arthur"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Melissa",
+              "score": 200
+            },
+            {
+              "player": "Babu",
+              "score": 4600
+            },
+            {
+              "player": "Arthur",
+              "score": 1000
+            }
+          ]
+        },
+        {
+          "category": "MODERN QUOTATIONS",
+          "value": 200,
+          "clue": "Bob Hope was quoted as saying this \"is my profession.  I tell jokes to pay my greens fees\"",
+          "answer": "golf",
+          "isDailyDouble": false,
+          "orderNumber": 14,
+          "correctContestants": [
+            "Babu"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Melissa",
+              "score": 200
+            },
+            {
+              "player": "Babu",
+              "score": 4800
+            },
+            {
+              "player": "Arthur",
+              "score": 1000
+            }
+          ]
+        },
+        {
+          "category": "STATES' FORMER GOVERNORS",
+          "value": 400,
+          "clue": "James S. Hogg & Frances R. Lubbock",
+          "answer": "Texas",
+          "isDailyDouble": false,
+          "orderNumber": 15,
+          "correctContestants": [
+            "Babu"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Melissa",
+              "score": 200
+            },
+            {
+              "player": "Babu",
+              "score": 5200
+            },
+            {
+              "player": "Arthur",
+              "score": 1000
+            }
+          ]
+        },
+        {
+          "category": "STATES' FORMER GOVERNORS",
+          "value": 600,
+          "clue": "George W. P. Hunt & Bruce Babbit",
+          "answer": "Arizona",
+          "isDailyDouble": false,
+          "orderNumber": 16,
+          "correctContestants": [
+            "Arthur"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Melissa",
+              "score": 200
+            },
+            {
+              "player": "Babu",
+              "score": 5200
+            },
+            {
+              "player": "Arthur",
+              "score": 1600
+            }
+          ]
+        },
+        {
+          "category": "MODERN QUOTATIONS",
+          "value": 400,
+          "clue": "In 1999, Malaysia's Deputy Prime Minister Badawi warned that \"freedom of\" this \"must have restrictions\"",
+          "answer": "the press",
+          "isDailyDouble": false,
+          "orderNumber": 17,
+          "correctContestants": [
+            "Babu"
+          ],
+          "incorrectContestants": [
+            "Melissa",
+            "Arthur"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Melissa",
+              "score": -200
+            },
+            {
+              "player": "Babu",
+              "score": 5600
+            },
+            {
+              "player": "Arthur",
+              "score": 1200
+            }
+          ]
+        },
+        {
+          "category": "STATES' FORMER GOVERNORS",
+          "value": 800,
+          "clue": "Lurleen Wallace & Guy Hunt",
+          "answer": "Alabama",
+          "isDailyDouble": false,
+          "orderNumber": 18,
+          "correctContestants": [
+            "Babu"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Melissa",
+              "score": -200
+            },
+            {
+              "player": "Babu",
+              "score": 6400
+            },
+            {
+              "player": "Arthur",
+              "score": 1200
+            }
+          ]
+        },
+        {
+          "category": "STATES' FORMER GOVERNORS",
+          "value": 1000,
+          "clue": "Henry Lee & Fitzhugh Lee",
+          "answer": "Virginia",
+          "isDailyDouble": false,
+          "orderNumber": 19,
+          "correctContestants": [
+            "Babu"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Melissa",
+              "score": -200
+            },
+            {
+              "player": "Babu",
+              "score": 7400
+            },
+            {
+              "player": "Arthur",
+              "score": 1200
+            }
+          ]
+        },
+        {
+          "category": "SECRETARY'S DAY",
+          "value": 600,
+          "clue": "In the 1930s this future U. S. president was secretary to former King Ranch foreman Richard Kleberg",
+          "answer": "Lyndon Johnson",
+          "isDailyDouble": false,
+          "orderNumber": 20,
+          "correctContestants": [
+            "Babu"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Melissa",
+              "score": -200
+            },
+            {
+              "player": "Babu",
+              "score": 8000
+            },
+            {
+              "player": "Arthur",
+              "score": 1200
+            }
+          ]
+        },
+        {
+          "category": "SECRETARY'S DAY",
+          "value": 800,
+          "clue": "Pres. Jefferson's secretary, the boss sent him exploring & he later became governor of the Louisiana Territory",
+          "answer": "Meriwether Lewis",
+          "isDailyDouble": false,
+          "orderNumber": 21,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Melissa",
+              "score": -200
+            },
+            {
+              "player": "Babu",
+              "score": 8000
+            },
+            {
+              "player": "Arthur",
+              "score": 1200
+            }
+          ]
+        },
+        {
+          "category": "SECRETARY'S DAY",
+          "value": 1000,
+          "clue": "After working as a secretary, no wonder this Florentine author who died in 1527 was known for his amoral cynicism",
+          "answer": "Machiavelli",
+          "isDailyDouble": false,
+          "orderNumber": 22,
+          "correctContestants": [
+            "Melissa"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Melissa",
+              "score": 800
+            },
+            {
+              "player": "Babu",
+              "score": 8000
+            },
+            {
+              "player": "Arthur",
+              "score": 1200
+            }
+          ]
+        },
+        {
+          "category": "MODERN QUOTATIONS",
+          "value": 600,
+          "clue": "The \"Little Red Book\" of 1964 was filled with \"Quotations from\" this man",
+          "answer": "Mao",
+          "isDailyDouble": false,
+          "orderNumber": 23,
+          "correctContestants": [
+            "Melissa"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Melissa",
+              "score": 1400
+            },
+            {
+              "player": "Babu",
+              "score": 8000
+            },
+            {
+              "player": "Arthur",
+              "score": 1200
+            }
+          ]
+        },
+        {
+          "category": "MODERN QUOTATIONS",
+          "value": 800,
+          "clue": "In 1994, Richard Nixon quipped, \"The American people don't believe anything until they see it\" here",
+          "answer": "on television",
+          "isDailyDouble": false,
+          "orderNumber": 24,
+          "correctContestants": [
+            "Babu"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Melissa",
+              "score": 1400
+            },
+            {
+              "player": "Babu",
+              "score": 8800
+            },
+            {
+              "player": "Arthur",
+              "score": 1200
+            }
+          ]
+        },
+        {
+          "category": "MODERN QUOTATIONS",
+          "value": 1000,
+          "clue": "Deng Xiaoping said in a 1962 speech, \"It doesn't matter whether the cat is black or white, as long as it\" does this",
+          "answer": "catches mice",
+          "isDailyDouble": false,
+          "orderNumber": 25,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Melissa",
+              "score": 1400
+            },
+            {
+              "player": "Babu",
+              "score": 8800
+            },
+            {
+              "player": "Arthur",
+              "score": 1200
+            }
+          ]
+        },
+        {
+          "category": "2004 OSCAR NOMINATIONS",
+          "value": 200,
+          "clue": "This acclaimed film about a trip through wine country got 5 nominations, including Best Picture",
+          "answer": "Sideways",
+          "isDailyDouble": false,
+          "orderNumber": 26,
+          "correctContestants": [
+            "Arthur"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Melissa",
+              "score": 1400
+            },
+            {
+              "player": "Babu",
+              "score": 8800
+            },
+            {
+              "player": "Arthur",
+              "score": 1400
+            }
+          ]
+        },
+        {
+          "category": "2004 OSCAR NOMINATIONS",
+          "value": 1000,
+          "clue": "Johnny Depp received his second Oscar nomination for playing this author in \"Finding Neverland\"",
+          "answer": "J.M. Barrie",
+          "isDailyDouble": false,
+          "orderNumber": 27,
+          "correctContestants": [
+            "Arthur"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Melissa",
+              "score": 1400
+            },
+            {
+              "player": "Babu",
+              "score": 8800
+            },
+            {
+              "player": "Arthur",
+              "score": 2400
+            }
+          ]
+        },
+        {
+          "category": "2004 OSCAR NOMINATIONS",
+          "value": 800,
+          "clue": "Julie Delpy & Ethan Hawke acted in this film, but were nominated for writing its screenplay",
+          "answer": "Before Sunset",
+          "isDailyDouble": false,
+          "orderNumber": 28,
+          "correctContestants": [
+            "Arthur"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Melissa",
+              "score": 1400
+            },
+            {
+              "player": "Babu",
+              "score": 8800
+            },
+            {
+              "player": "Arthur",
+              "score": 3200
+            }
+          ]
+        },
+        {
+          "category": "2004 OSCAR NOMINATIONS",
+          "value": 600,
+          "clue": "Brad Bird was nominated for his original screenplay for this animated hit",
+          "answer": "The Incredibles",
+          "isDailyDouble": false,
+          "orderNumber": 29,
+          "correctContestants": [
+            "Arthur"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Melissa",
+              "score": 1400
+            },
+            {
+              "player": "Babu",
+              "score": 8800
+            },
+            {
+              "player": "Arthur",
+              "score": 3800
+            }
+          ]
+        },
+        {
+          "category": "2004 OSCAR NOMINATIONS",
+          "value": 400,
+          "clue": "Clive Owen & Natalie Portman both received nominations for supporting roles in this drama",
+          "answer": "Closer",
+          "isDailyDouble": false,
+          "orderNumber": 30,
+          "correctContestants": [
+            "Arthur"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Melissa",
+              "score": 1400
+            },
+            {
+              "player": "Babu",
+              "score": 8800
+            },
+            {
+              "player": "Arthur",
+              "score": 4200
+            }
+          ]
+        }
+      ],
+      "firstBreakScores": [
+        {
+          "player": "Melissa",
+          "score": 200
+        },
+        {
+          "player": "Babu",
+          "score": 4800
+        },
+        {
+          "player": "Arthur",
+          "score": 1000
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "Melissa",
+          "score": 1400
+        },
+        {
+          "player": "Babu",
+          "score": 8800
+        },
+        {
+          "player": "Arthur",
+          "score": 4200
+        }
+      ]
+    },
+    "doubleJeopardy": {
+      "categories": [
+        "UNIVERSITY OF CHICAGO ALUMNI",
+        "DEEP VOICES",
+        "NONFICTION",
+        "\"M\"MMM GOOD",
+        "WORLD CAPITALS",
+        "AMERICAN HERITAGE DICTIONARY PREFERRED PLURALS"
+      ],
+      "clues": [
+        {
+          "category": "WORLD CAPITALS",
+          "value": 400,
+          "clue": "This Jamaican seaport was founded in the 1690s & became the capital in 1872",
+          "answer": "Kingston",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Melissa",
+              "score": 1400
+            },
+            {
+              "player": "Babu",
+              "score": 8800
+            },
+            {
+              "player": "Arthur",
+              "score": 4600
+            }
+          ]
+        },
+        {
+          "category": "WORLD CAPITALS",
+          "value": 800,
+          "clue": "NATO is headquartered on Blvd. Leopold III in this European capital",
+          "answer": "Brussels",
+          "isDailyDouble": false,
+          "orderNumber": 2,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Melissa",
+              "score": 1400
+            },
+            {
+              "player": "Babu",
+              "score": 8800
+            },
+            {
+              "player": "Arthur",
+              "score": 5400
+            }
+          ]
+        },
+        {
+          "category": "WORLD CAPITALS",
+          "value": 5400,
+          "clue": "Emperor Menelik II established this city whose name means \"new flower\"",
+          "answer": "Addis Ababa",
+          "isDailyDouble": true,
+          "orderNumber": 3,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Melissa",
+              "score": 1400
+            },
+            {
+              "player": "Babu",
+              "score": 8800
+            },
+            {
+              "player": "Arthur",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "WORLD CAPITALS",
+          "value": 1600,
+          "clue": "Bratislava, on the left bank of the Danube, is the capital of this country",
+          "answer": "Slovakia",
+          "isDailyDouble": false,
+          "orderNumber": 4,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Melissa",
+              "score": 1400
+            },
+            {
+              "player": "Babu",
+              "score": 8800
+            },
+            {
+              "player": "Arthur",
+              "score": 1600
+            }
+          ]
+        },
+        {
+          "category": "WORLD CAPITALS",
+          "value": 2000,
+          "clue": "The Praca Marques de Pombal is at the top of the Avenida da Liberdade, a main street in this city",
+          "answer": "Lisbon",
+          "isDailyDouble": false,
+          "orderNumber": 5,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Melissa",
+              "score": 1400
+            },
+            {
+              "player": "Babu",
+              "score": 8800
+            },
+            {
+              "player": "Arthur",
+              "score": 3600
+            }
+          ]
+        },
+        {
+          "category": "NONFICTION",
+          "value": 400,
+          "clue": "Harvey Karp's \"The Happiest Baby on the Block\" lays out the 5 S's, the first being this tight wrapping, or \"clothes\"",
+          "answer": "swaddling",
+          "isDailyDouble": false,
+          "orderNumber": 6,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Melissa",
+              "score": 1800
+            },
+            {
+              "player": "Babu",
+              "score": 8800
+            },
+            {
+              "player": "Arthur",
+              "score": 3600
+            }
+          ]
+        },
+        {
+          "category": "NONFICTION",
+          "value": 800,
+          "clue": "\"The Apprentice\" winner Bill Rancic changed 1 letter in a Trump phrase to get this title for his book on success",
+          "answer": "You're Hired",
+          "isDailyDouble": false,
+          "orderNumber": 7,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Melissa",
+              "score": 2600
+            },
+            {
+              "player": "Babu",
+              "score": 8800
+            },
+            {
+              "player": "Arthur",
+              "score": 3600
+            }
+          ]
+        },
+        {
+          "category": "NONFICTION",
+          "value": 1200,
+          "clue": "The book \"Alcoholics Anonymous\" is often called within AA by this alliterative name",
+          "answer": "the Big Book",
+          "isDailyDouble": false,
+          "orderNumber": 8,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Melissa",
+              "score": 2600
+            },
+            {
+              "player": "Babu",
+              "score": 8800
+            },
+            {
+              "player": "Arthur",
+              "score": 4800
+            }
+          ]
+        },
+        {
+          "category": "NONFICTION",
+          "value": 1600,
+          "clue": "She has \"Maida\" lot of fans with her books of \"Great Cookies\" & \"Great Chocolate Desserts\"",
+          "answer": "Maida Heatter",
+          "isDailyDouble": false,
+          "orderNumber": 9,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Melissa",
+              "score": 2600
+            },
+            {
+              "player": "Babu",
+              "score": 8800
+            },
+            {
+              "player": "Arthur",
+              "score": 4800
+            }
+          ]
+        },
+        {
+          "category": "NONFICTION",
+          "value": 2000,
+          "clue": "In 1980 lefty scholar Howard Zinn published this type of \"History of the United States\"",
+          "answer": "A People's History",
+          "isDailyDouble": false,
+          "orderNumber": 10,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Melissa",
+              "score": 2600
+            },
+            {
+              "player": "Babu",
+              "score": 8800
+            },
+            {
+              "player": "Arthur",
+              "score": 6800
+            }
+          ]
+        },
+        {
+          "category": "AMERICAN HERITAGE DICTIONARY PREFERRED PLURALS",
+          "value": 400,
+          "clue": "Stimulus",
+          "answer": "stimuli",
+          "isDailyDouble": false,
+          "orderNumber": 11,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Melissa",
+              "score": 2600
+            },
+            {
+              "player": "Babu",
+              "score": 9200
+            },
+            {
+              "player": "Arthur",
+              "score": 6800
+            }
+          ]
+        },
+        {
+          "category": "UNIVERSITY OF CHICAGO ALUMNI",
+          "value": 400,
+          "clue": "This scientist & future partner of Crick enrolled at the U. of C. in 1943 at age 15",
+          "answer": "(James) Watson",
+          "isDailyDouble": false,
+          "orderNumber": 12,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Melissa",
+              "score": 2600
+            },
+            {
+              "player": "Babu",
+              "score": 9200
+            },
+            {
+              "player": "Arthur",
+              "score": 7200
+            }
+          ]
+        },
+        {
+          "category": "AMERICAN HERITAGE DICTIONARY PREFERRED PLURALS",
+          "value": 1200,
+          "clue": "Manservant",
+          "answer": "menservants",
+          "isDailyDouble": false,
+          "orderNumber": 13,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Melissa",
+              "score": 2600
+            },
+            {
+              "player": "Babu",
+              "score": 10400
+            },
+            {
+              "player": "Arthur",
+              "score": 6000
+            }
+          ]
+        },
+        {
+          "category": "UNIVERSITY OF CHICAGO ALUMNI",
+          "value": 800,
+          "clue": "John Paul Stevens went to the U. of C. & later lectured there on this subject",
+          "answer": "law",
+          "isDailyDouble": false,
+          "orderNumber": 14,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Melissa",
+              "score": 2600
+            },
+            {
+              "player": "Babu",
+              "score": 10400
+            },
+            {
+              "player": "Arthur",
+              "score": 6800
+            }
+          ]
+        },
+        {
+          "category": "AMERICAN HERITAGE DICTIONARY PREFERRED PLURALS",
+          "value": 1600,
+          "clue": "Vertex",
+          "answer": "vertices",
+          "isDailyDouble": false,
+          "orderNumber": 15,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Melissa",
+              "score": 2600
+            },
+            {
+              "player": "Babu",
+              "score": 10400
+            },
+            {
+              "player": "Arthur",
+              "score": 8400
+            }
+          ]
+        },
+        {
+          "category": "AMERICAN HERITAGE DICTIONARY PREFERRED PLURALS",
+          "value": 2000,
+          "clue": "Genus",
+          "answer": "genera",
+          "isDailyDouble": false,
+          "orderNumber": 16,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Melissa",
+              "score": 2600
+            },
+            {
+              "player": "Babu",
+              "score": 10400
+            },
+            {
+              "player": "Arthur",
+              "score": 10400
+            }
+          ]
+        },
+        {
+          "category": "UNIVERSITY OF CHICAGO ALUMNI",
+          "value": 1200,
+          "clue": "Chicago South Sider & U. of C. alumna seen here",
+          "answer": "Carol Moseley Braun",
+          "isDailyDouble": false,
+          "orderNumber": 17,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Melissa",
+              "score": 2600
+            },
+            {
+              "player": "Babu",
+              "score": 10400
+            },
+            {
+              "player": "Arthur",
+              "score": 10400
+            }
+          ]
+        },
+        {
+          "category": "UNIVERSITY OF CHICAGO ALUMNI",
+          "value": 1600,
+          "clue": "\"I am an American, Chicago born\" begins \"The Adventures of Augie March\" by this U. of C. alum & professor",
+          "answer": "Saul Bellow",
+          "isDailyDouble": false,
+          "orderNumber": 18,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Melissa",
+              "score": 2600
+            },
+            {
+              "player": "Babu",
+              "score": 10400
+            },
+            {
+              "player": "Arthur",
+              "score": 12000
+            }
+          ]
+        },
+        {
+          "category": "UNIVERSITY OF CHICAGO ALUMNI",
+          "value": 2000,
+          "clue": "(The camera pans down from organ pipes to reveal Sarah of the Clue Crew sitting at the organ console.)  Severn Darden, a student who used to sneak into the Rockefeller Chapel by night to play the organ, became a star of this theater company",
+          "answer": "Second City",
+          "isDailyDouble": false,
+          "orderNumber": 19,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Melissa",
+              "score": 2600
+            },
+            {
+              "player": "Babu",
+              "score": 10400
+            },
+            {
+              "player": "Arthur",
+              "score": 12000
+            }
+          ]
+        },
+        {
+          "category": "AMERICAN HERITAGE DICTIONARY PREFERRED PLURALS",
+          "value": 800,
+          "clue": "Man-of-war",
+          "answer": "men-of-war",
+          "isDailyDouble": false,
+          "orderNumber": 20,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Melissa",
+              "score": 2600
+            },
+            {
+              "player": "Babu",
+              "score": 10400
+            },
+            {
+              "player": "Arthur",
+              "score": 12800
+            }
+          ]
+        },
+        {
+          "category": "DEEP VOICES",
+          "value": 400,
+          "clue": "This artist's career took off after he recorded demos of songs he wrote for someone else to sing\"I'm gonna love you, love you, love you...\"",
+          "answer": "Barry White",
+          "isDailyDouble": false,
+          "orderNumber": 21,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Melissa",
+              "score": 2600
+            },
+            {
+              "player": "Babu",
+              "score": 10800
+            },
+            {
+              "player": "Arthur",
+              "score": 12800
+            }
+          ]
+        },
+        {
+          "category": "DEEP VOICES",
+          "value": 800,
+          "clue": "This Motown group was known for its choreography, harmony & Melvin Franklin singing bass",
+          "answer": "The Temptations",
+          "isDailyDouble": false,
+          "orderNumber": 22,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Melissa",
+              "score": 2600
+            },
+            {
+              "player": "Babu",
+              "score": 10800
+            },
+            {
+              "player": "Arthur",
+              "score": 12800
+            }
+          ]
+        },
+        {
+          "category": "DEEP VOICES",
+          "value": 1200,
+          "clue": "This artist heard here got Grammy nominations in pop, jazz & R&B as well as a children's category\"You'll never find /Another love like mine...\"",
+          "answer": "Lou Rawls",
+          "isDailyDouble": false,
+          "orderNumber": 23,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Melissa",
+              "score": 2600
+            },
+            {
+              "player": "Babu",
+              "score": 12000
+            },
+            {
+              "player": "Arthur",
+              "score": 12800
+            }
+          ]
+        },
+        {
+          "category": "DEEP VOICES",
+          "value": 1600,
+          "clue": "Though Bruce Springsteen sang the more famous version, this gravel-voice singer wrote \"Jersey Girl\"",
+          "answer": "Tom Waits",
+          "isDailyDouble": false,
+          "orderNumber": 24,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Melissa",
+              "score": 2600
+            },
+            {
+              "player": "Babu",
+              "score": 12000
+            },
+            {
+              "player": "Arthur",
+              "score": 12800
+            }
+          ]
+        },
+        {
+          "category": "DEEP VOICES",
+          "value": 2000,
+          "clue": "In 1939, after Constitution Hall refused to allow her to perform, this contralto sang at the Lincoln Memorial",
+          "answer": "Marian Anderson",
+          "isDailyDouble": false,
+          "orderNumber": 25,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Melissa",
+              "score": 2600
+            },
+            {
+              "player": "Babu",
+              "score": 12000
+            },
+            {
+              "player": "Arthur",
+              "score": 12800
+            }
+          ]
+        },
+        {
+          "category": "\"M\"MMM GOOD",
+          "value": 400,
+          "clue": "Not to be confused with the mammal, the dolphinfish is often sold using this Hawaiian name",
+          "answer": "mahi-mahi",
+          "isDailyDouble": false,
+          "orderNumber": 26,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Melissa",
+              "score": 3000
+            },
+            {
+              "player": "Babu",
+              "score": 12000
+            },
+            {
+              "player": "Arthur",
+              "score": 12800
+            }
+          ]
+        },
+        {
+          "category": "\"M\"MMM GOOD",
+          "value": 800,
+          "clue": "This preserve which contains fruit rind borrows its name from the Portuguese word for quince jam",
+          "answer": "marmalade",
+          "isDailyDouble": false,
+          "orderNumber": 27,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Melissa",
+              "score": 3000
+            },
+            {
+              "player": "Babu",
+              "score": 12800
+            },
+            {
+              "player": "Arthur",
+              "score": 12800
+            }
+          ]
+        },
+        {
+          "category": "\"M\"MMM GOOD",
+          "value": 2800,
+          "clue": "(Jimmy of the Clue Crew stands in a vineyard holding a cluster of grapes.)  This grape, an early-ripening alternative to Cabernet, has become popular with California vinters & drinkers",
+          "answer": "Merlot",
+          "isDailyDouble": true,
+          "orderNumber": 28,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Melissa",
+              "score": 3000
+            },
+            {
+              "player": "Babu",
+              "score": 15600
+            },
+            {
+              "player": "Arthur",
+              "score": 12800
+            }
+          ]
+        },
+        {
+          "category": "\"M\"MMM GOOD",
+          "value": 1600,
+          "clue": "This breakfast treat of untoasted cereals & dried fruit was developed as a health food by a Swiss nutritionist",
+          "answer": "muesli",
+          "isDailyDouble": false,
+          "orderNumber": 29,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Melissa",
+              "score": 3000
+            },
+            {
+              "player": "Babu",
+              "score": 17200
+            },
+            {
+              "player": "Arthur",
+              "score": 12800
+            }
+          ]
+        },
+        {
+          "category": "\"M\"MMM GOOD",
+          "value": 2000,
+          "clue": "This popular leafy soul food side dish is an excellent source of vitamins A & C",
+          "answer": "mustard greens",
+          "isDailyDouble": false,
+          "orderNumber": 30,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Melissa",
+              "score": 3000
+            },
+            {
+              "player": "Babu",
+              "score": 17200
+            },
+            {
+              "player": "Arthur",
+              "score": 12800
+            }
+          ]
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "Melissa",
+          "score": 3000
+        },
+        {
+          "player": "Babu",
+          "score": 17200
+        },
+        {
+          "player": "Arthur",
+          "score": 12800
+        }
+      ]
+    },
+    "finalJeopardy": {
+      "category": "1930s MOVIES",
+      "clue": "This film that originally hit the big screen in 1930 was re-released soon after the German invasion of Poland",
+      "answer": "All Quiet on the Western Front",
+      "responses": [
+        {
+          "contestant": "Melissa",
+          "response": "What is War of the Worlds?",
+          "isCorrect": false,
+          "isIncorrect": true,
+          "value": 1800,
+          "finalScore": 1200
+        },
+        {
+          "contestant": "Arthur",
+          "response": "What is All Quiet on Western Front",
+          "isCorrect": false,
+          "isIncorrect": true,
+          "value": 4000,
+          "finalScore": 8800
+        },
+        {
+          "contestant": "Babu",
+          "response": "What is All's Quiet on the Western Front?",
+          "isCorrect": false,
+          "isIncorrect": true,
+          "value": 8500,
+          "finalScore": 8700
+        }
+      ]
+    }
+  },
+  "finalScores": [
+    {
+      "player": "Melissa",
+      "score": "$1,200"
+    },
+    {
+      "player": "Babu",
+      "score": "$8,700"
+    },
+    {
+      "player": "Arthur",
+      "score": "$8,800"
+    }
+  ],
+  "coryatScores": [
+    {
+      "player": "Melissa",
+      "score": 3000
+    },
+    {
+      "player": "Babu",
+      "score": 15200
+    },
+    {
+      "player": "Arthur",
+      "score": 18200
+    }
+  ]
+}

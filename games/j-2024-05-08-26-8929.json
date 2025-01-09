@@ -1,0 +1,1684 @@
+{
+  "gameId": 8929,
+  "showNumber": "26",
+  "title": "Jeopardy! Masters game #26 - Wednesday, May 8, 2024",
+  "date": "2024-05-08",
+  "comments": "2024 Jeopardy! Masters quarterfinal game 6.",
+  "contestants": [
+    "Victoria",
+    "James",
+    "Mattea"
+  ],
+  "rounds": {
+    "jeopardy": {
+      "categories": [
+        "THE COLD WAR",
+        "LETTER PERFECT",
+        "CHANGING IT UP",
+        "THE COLORS OF TELEVISION",
+        "STARTS & ENDS WITH R",
+        "CHEESING IN PUBLIC"
+      ],
+      "clues": [
+        {
+          "category": "THE COLD WAR",
+          "value": 800,
+          "clue": "In 1972 the U.S. & USSR took a first step toward reducing the threat of nuclear war via these \"Talks\"",
+          "answer": "SALT",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [
+            "James"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Victoria",
+              "score": 0
+            },
+            {
+              "player": "James",
+              "score": 800
+            },
+            {
+              "player": "Mattea",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "THE COLD WAR",
+          "value": 600,
+          "clue": "The end of the Cold War was hastened by this 8-letter Russian policy that Mikhail Gorbachev promoted",
+          "answer": "glasnost",
+          "isDailyDouble": false,
+          "orderNumber": 2,
+          "correctContestants": [
+            "James"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Victoria",
+              "score": 0
+            },
+            {
+              "player": "James",
+              "score": 1400
+            },
+            {
+              "player": "Mattea",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "THE COLD WAR",
+          "value": 1000,
+          "clue": "From the late 1940s through the 1980s, the U.S. pursued this \"restrictive\" strategy of curbing Soviet expansion",
+          "answer": "containment",
+          "isDailyDouble": false,
+          "orderNumber": 3,
+          "correctContestants": [
+            "Victoria"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Victoria",
+              "score": 1000
+            },
+            {
+              "player": "James",
+              "score": 1400
+            },
+            {
+              "player": "Mattea",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "CHANGING IT UP",
+          "value": 800,
+          "clue": "Chapter 40 of this novel sails into a play format, beginning with the stage direction \"Midnight, forecastle\"",
+          "answer": "Moby-Dick",
+          "isDailyDouble": false,
+          "orderNumber": 4,
+          "correctContestants": [
+            "James"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Victoria",
+              "score": 1000
+            },
+            {
+              "player": "James",
+              "score": 2200
+            },
+            {
+              "player": "Mattea",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "THE COLD WAR",
+          "value": 400,
+          "clue": "Numeric nickname of the group of imprisoned & blacklisted movie professionals who refused to testify to Congress",
+          "answer": "the \"Hollywood Ten\"",
+          "isDailyDouble": false,
+          "orderNumber": 5,
+          "correctContestants": [
+            "Victoria"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Victoria",
+              "score": 1400
+            },
+            {
+              "player": "James",
+              "score": 2200
+            },
+            {
+              "player": "Mattea",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "CHANGING IT UP",
+          "value": 1000,
+          "clue": "This author's \"White Jazz\" breaks from the hardboiled narrative to feature excerpts from Hush-Hush, a Tinseltown tabloid",
+          "answer": "James Ellroy",
+          "isDailyDouble": false,
+          "orderNumber": 6,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Mattea"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Victoria",
+              "score": 1400
+            },
+            {
+              "player": "James",
+              "score": 2200
+            },
+            {
+              "player": "Mattea",
+              "score": -1000
+            }
+          ]
+        },
+        {
+          "category": "CHANGING IT UP",
+          "value": 600,
+          "clue": "The Guardian says this song switches styles from \"ballad, to operatic excess, to hard-rock, to reflective coda\"",
+          "answer": "\"Bohemian Rhapsody\"",
+          "isDailyDouble": false,
+          "orderNumber": 7,
+          "correctContestants": [
+            "Mattea"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Victoria",
+              "score": 1400
+            },
+            {
+              "player": "James",
+              "score": 2200
+            },
+            {
+              "player": "Mattea",
+              "score": -400
+            }
+          ]
+        },
+        {
+          "category": "THE COLORS OF TELEVISION",
+          "value": 1000,
+          "clue": "Dana Carvey was Clinton \"Jafo\" Wonderlove on this show adapted from a 1983 film about a high-tech police helicopter",
+          "answer": "Blue Thunder",
+          "isDailyDouble": false,
+          "orderNumber": 8,
+          "correctContestants": [
+            "Victoria"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Victoria",
+              "score": 2400
+            },
+            {
+              "player": "James",
+              "score": 2200
+            },
+            {
+              "player": "Mattea",
+              "score": -400
+            }
+          ]
+        },
+        {
+          "category": "CHEESING IN PUBLIC",
+          "value": 600,
+          "clue": "Pope for around 30 days in 1978, he was known as \"The Smiling Pope\" & was the first to choose a double name",
+          "answer": "John Paul I",
+          "isDailyDouble": false,
+          "orderNumber": 9,
+          "correctContestants": [
+            "James"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Victoria",
+              "score": 2400
+            },
+            {
+              "player": "James",
+              "score": 2800
+            },
+            {
+              "player": "Mattea",
+              "score": -400
+            }
+          ]
+        },
+        {
+          "category": "CHEESING IN PUBLIC",
+          "value": 800,
+          "clue": "The smiling subject of \"The Laughing Cavalier\" by this artist is thought to be an unmarried Dutch merchant",
+          "answer": "Hals",
+          "isDailyDouble": false,
+          "orderNumber": 10,
+          "correctContestants": [
+            "James"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Victoria",
+              "score": 2400
+            },
+            {
+              "player": "James",
+              "score": 3600
+            },
+            {
+              "player": "Mattea",
+              "score": -400
+            }
+          ]
+        },
+        {
+          "category": "CHEESING IN PUBLIC",
+          "value": 1000,
+          "clue": "This ancient philosopher who developed atomic theory emphasized cheeriness; many paintings show him cheesing it up",
+          "answer": "Democritus",
+          "isDailyDouble": false,
+          "orderNumber": 11,
+          "correctContestants": [
+            "Victoria"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Victoria",
+              "score": 3400
+            },
+            {
+              "player": "James",
+              "score": 3600
+            },
+            {
+              "player": "Mattea",
+              "score": -400
+            }
+          ]
+        },
+        {
+          "category": "LETTER PERFECT",
+          "value": 800,
+          "clue": "Equivalent to Mr., this letter placed before a man's name is a Burmese title of respect",
+          "answer": "U",
+          "isDailyDouble": false,
+          "orderNumber": 12,
+          "correctContestants": [
+            "Mattea"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Victoria",
+              "score": 3400
+            },
+            {
+              "player": "James",
+              "score": 3600
+            },
+            {
+              "player": "Mattea",
+              "score": 400
+            }
+          ]
+        },
+        {
+          "category": "LETTER PERFECT",
+          "value": 1000,
+          "clue": "Published in 1963, it was Thomas Pynchon's debut novel",
+          "answer": "V",
+          "isDailyDouble": false,
+          "orderNumber": 13,
+          "correctContestants": [
+            "Victoria"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Victoria",
+              "score": 4400
+            },
+            {
+              "player": "James",
+              "score": 3600
+            },
+            {
+              "player": "Mattea",
+              "score": 400
+            }
+          ]
+        },
+        {
+          "category": "STARTS & ENDS WITH R",
+          "value": 800,
+          "clue": "In legal terms & elsewhere, it refers to a reply or response",
+          "answer": "rejoinder",
+          "isDailyDouble": false,
+          "orderNumber": 14,
+          "correctContestants": [
+            "James"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Victoria",
+              "score": 4400
+            },
+            {
+              "player": "James",
+              "score": 4400
+            },
+            {
+              "player": "Mattea",
+              "score": 400
+            }
+          ]
+        },
+        {
+          "category": "STARTS & ENDS WITH R",
+          "value": 600,
+          "clue": "This type of technician might use a CT scan to make images of your body",
+          "answer": "radiographer",
+          "isDailyDouble": false,
+          "orderNumber": 15,
+          "correctContestants": [
+            "James"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Victoria",
+              "score": 4400
+            },
+            {
+              "player": "James",
+              "score": 5000
+            },
+            {
+              "player": "Mattea",
+              "score": 400
+            }
+          ]
+        },
+        {
+          "category": "CHEESING IN PUBLIC",
+          "value": 400,
+          "clue": "Back in the 1840s a British photographer instructed folks to \"say\" these dried fruits so people's mouths wouldn't move much",
+          "answer": "prunes",
+          "isDailyDouble": false,
+          "orderNumber": 16,
+          "correctContestants": [
+            "James"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Victoria",
+              "score": 4400
+            },
+            {
+              "player": "James",
+              "score": 5400
+            },
+            {
+              "player": "Mattea",
+              "score": 400
+            }
+          ]
+        },
+        {
+          "category": "STARTS & ENDS WITH R",
+          "value": 400,
+          "clue": "Something that goes into developing mouths, or a household servant of yore",
+          "answer": "retainer",
+          "isDailyDouble": false,
+          "orderNumber": 17,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Victoria",
+              "score": 4400
+            },
+            {
+              "player": "James",
+              "score": 5400
+            },
+            {
+              "player": "Mattea",
+              "score": 400
+            }
+          ]
+        },
+        {
+          "category": "CHANGING IT UP",
+          "value": 400,
+          "clue": "Here I was thinking the 2nd epilogue of this Tolstoy tome would have more Pierre & Natasha, not a critique of the great man theory",
+          "answer": "War and Peace",
+          "isDailyDouble": false,
+          "orderNumber": 18,
+          "correctContestants": [
+            "James"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Victoria",
+              "score": 4400
+            },
+            {
+              "player": "James",
+              "score": 5800
+            },
+            {
+              "player": "Mattea",
+              "score": 400
+            }
+          ]
+        },
+        {
+          "category": "STARTS & ENDS WITH R",
+          "value": 5800,
+          "clue": "This device allows air to get from a scuba diver's oxygen tanks & into the diver's lungs",
+          "answer": "regulator",
+          "isDailyDouble": true,
+          "orderNumber": 19,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "James"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Victoria",
+              "score": 4400
+            },
+            {
+              "player": "James",
+              "score": 0
+            },
+            {
+              "player": "Mattea",
+              "score": 400
+            }
+          ]
+        },
+        {
+          "category": "THE COLORS OF TELEVISION",
+          "value": 800,
+          "clue": "In 1966 Bruce Lee fought crime as Kato on this series",
+          "answer": "The Green Hornet",
+          "isDailyDouble": false,
+          "orderNumber": 20,
+          "correctContestants": [
+            "James"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Victoria",
+              "score": 4400
+            },
+            {
+              "player": "James",
+              "score": 800
+            },
+            {
+              "player": "Mattea",
+              "score": 400
+            }
+          ]
+        },
+        {
+          "category": "THE COLORS OF TELEVISION",
+          "value": 600,
+          "clue": "The many physicians who have practiced on this drama include Holley Fain & James Pickens Jr. as Drs. Canner & Webber",
+          "answer": "Grey's Anatomy",
+          "isDailyDouble": false,
+          "orderNumber": 21,
+          "correctContestants": [
+            "James"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Victoria",
+              "score": 4400
+            },
+            {
+              "player": "James",
+              "score": 1400
+            },
+            {
+              "player": "Mattea",
+              "score": 400
+            }
+          ]
+        },
+        {
+          "category": "THE COLORS OF TELEVISION",
+          "value": 400,
+          "clue": "Rose, on this show: \"Like we say in St. Olaf: Christmas without fruitcake is like St. Sigmund's Day without the headless boy\"",
+          "answer": "The Golden Girls",
+          "isDailyDouble": false,
+          "orderNumber": 22,
+          "correctContestants": [
+            "Victoria"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Victoria",
+              "score": 4800
+            },
+            {
+              "player": "James",
+              "score": 1400
+            },
+            {
+              "player": "Mattea",
+              "score": 400
+            }
+          ]
+        },
+        {
+          "category": "LETTER PERFECT",
+          "value": 600,
+          "clue": "It's the single-letter stock symbol for U.S. Steel",
+          "answer": "X",
+          "isDailyDouble": false,
+          "orderNumber": 23,
+          "correctContestants": [
+            "Victoria"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Victoria",
+              "score": 5400
+            },
+            {
+              "player": "James",
+              "score": 1400
+            },
+            {
+              "player": "Mattea",
+              "score": 400
+            }
+          ]
+        },
+        {
+          "category": "LETTER PERFECT",
+          "value": 400,
+          "clue": "It's the nickname of the music legend seen here",
+          "answer": "Q (for Quincy Jones)",
+          "isDailyDouble": false,
+          "orderNumber": 24,
+          "correctContestants": [
+            "Mattea"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Victoria",
+              "score": 5400
+            },
+            {
+              "player": "James",
+              "score": 1400
+            },
+            {
+              "player": "Mattea",
+              "score": 800
+            }
+          ]
+        },
+        {
+          "category": "LETTER PERFECT",
+          "value": 200,
+          "clue": "Part of Marriott International, this upscale hotel chain is found in 25 countries & territories",
+          "answer": "W",
+          "isDailyDouble": false,
+          "orderNumber": 25,
+          "correctContestants": [
+            "Mattea"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Victoria",
+              "score": 5400
+            },
+            {
+              "player": "James",
+              "score": 1400
+            },
+            {
+              "player": "Mattea",
+              "score": 1000
+            }
+          ]
+        },
+        {
+          "category": "THE COLD WAR",
+          "value": 200,
+          "clue": "It was the 3-word phrase for drills in which schoolkids crawled under desks to somehow protect themselves from a nuclear blast",
+          "answer": "duck and cover",
+          "isDailyDouble": false,
+          "orderNumber": 26,
+          "correctContestants": [
+            "Victoria"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Victoria",
+              "score": 5600
+            },
+            {
+              "player": "James",
+              "score": 1400
+            },
+            {
+              "player": "Mattea",
+              "score": 1000
+            }
+          ]
+        },
+        {
+          "category": "CHANGING IT UP",
+          "value": 200,
+          "clue": "This FX show with Paper Boi & Earn took a break from the hip-hop world to showcase a mock doc on the making of \"A Goofy Movie\"",
+          "answer": "Atlanta",
+          "isDailyDouble": false,
+          "orderNumber": 27,
+          "correctContestants": [
+            "Mattea"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Victoria",
+              "score": 5600
+            },
+            {
+              "player": "James",
+              "score": 1400
+            },
+            {
+              "player": "Mattea",
+              "score": 1200
+            }
+          ]
+        },
+        {
+          "category": "THE COLORS OF TELEVISION",
+          "value": 200,
+          "clue": "Jennifer Coolidge has a slight problem while staying at this title place: \"Please!  These gays, they're trying to murder me\"",
+          "answer": "the White Lotus",
+          "isDailyDouble": false,
+          "orderNumber": 28,
+          "correctContestants": [
+            "Mattea"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Victoria",
+              "score": 5600
+            },
+            {
+              "player": "James",
+              "score": 1400
+            },
+            {
+              "player": "Mattea",
+              "score": 1400
+            }
+          ]
+        },
+        {
+          "category": "STARTS & ENDS WITH R",
+          "value": 200,
+          "clue": "You might use this stuff to reinforce concrete",
+          "answer": "rebar",
+          "isDailyDouble": false,
+          "orderNumber": 29,
+          "correctContestants": [
+            "Victoria"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Victoria",
+              "score": 5800
+            },
+            {
+              "player": "James",
+              "score": 1400
+            },
+            {
+              "player": "Mattea",
+              "score": 1400
+            }
+          ]
+        },
+        {
+          "category": "CHEESING IN PUBLIC",
+          "value": 200,
+          "clue": "Conrad Veidt, cheesing in \"The Man Who Laughs\", has been called an inspiration for this comic book character",
+          "answer": "the Joker",
+          "isDailyDouble": false,
+          "orderNumber": 30,
+          "correctContestants": [
+            "Victoria"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Victoria",
+              "score": 6000
+            },
+            {
+              "player": "James",
+              "score": 1400
+            },
+            {
+              "player": "Mattea",
+              "score": 1400
+            }
+          ]
+        }
+      ],
+      "firstBreakScores": [],
+      "endOfRoundScores": [
+        {
+          "player": "Victoria",
+          "score": 6000
+        },
+        {
+          "player": "James",
+          "score": 1400
+        },
+        {
+          "player": "Mattea",
+          "score": 1400
+        }
+      ]
+    },
+    "doubleJeopardy": {
+      "categories": [
+        "CLASSICAL IS IN",
+        "THEY DID BAD",
+        "STAR WORDS",
+        "ON THE DIRECTOR'S RÉSUMÉ",
+        "PLACES",
+        "FIND THE GREEK LETTER IN..."
+      ],
+      "clues": [
+        {
+          "category": "ON THE DIRECTOR'S RÉSUMÉ",
+          "value": 2000,
+          "clue": "He spoke the silent language of horror in 1922's \"Nosferatu\"",
+          "answer": "Murnau",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Victoria",
+              "score": 8000
+            },
+            {
+              "player": "James",
+              "score": 1400
+            },
+            {
+              "player": "Mattea",
+              "score": 1400
+            }
+          ]
+        },
+        {
+          "category": "STAR WORDS",
+          "value": 1600,
+          "clue": "Astronomers think stars in the tightly bound groups called these clusters are some of the oldest stars in the universe",
+          "answer": "globular clusters",
+          "isDailyDouble": false,
+          "orderNumber": 2,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Victoria",
+              "score": 9600
+            },
+            {
+              "player": "James",
+              "score": 1400
+            },
+            {
+              "player": "Mattea",
+              "score": 1400
+            }
+          ]
+        },
+        {
+          "category": "STAR WORDS",
+          "value": 2000,
+          "clue": "The stage that makes up most of a star's existence, it's the two-word classification for stars undergoing nuclear fusion",
+          "answer": "the main sequence",
+          "isDailyDouble": false,
+          "orderNumber": 3,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Victoria",
+              "score": 11600
+            },
+            {
+              "player": "James",
+              "score": 1400
+            },
+            {
+              "player": "Mattea",
+              "score": 1400
+            }
+          ]
+        },
+        {
+          "category": "STAR WORDS",
+          "value": 1200,
+          "clue": "This noun is a measure of a size in Earth talk, but in star talk it's a measure of the brightness of a star",
+          "answer": "magnitude",
+          "isDailyDouble": false,
+          "orderNumber": 4,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Victoria",
+              "score": 11600
+            },
+            {
+              "player": "James",
+              "score": 2600
+            },
+            {
+              "player": "Mattea",
+              "score": 1400
+            }
+          ]
+        },
+        {
+          "category": "PLACES",
+          "value": 1200,
+          "clue": "The biggest gap in the Pan-American Highway is this one, a 60-mile stretch of jungle that's treacherous for migrants",
+          "answer": "the Darién Gap",
+          "isDailyDouble": false,
+          "orderNumber": 5,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Victoria",
+              "score": 11600
+            },
+            {
+              "player": "James",
+              "score": 2600
+            },
+            {
+              "player": "Mattea",
+              "score": 2600
+            }
+          ]
+        },
+        {
+          "category": "ON THE DIRECTOR'S RÉSUMÉ",
+          "value": 1600,
+          "clue": "\"Duck, You Sucker!\", starring Rod Steiger & James Coburn & set in revolutionary Mexico, is one of this European's lesser-known works",
+          "answer": "Leone",
+          "isDailyDouble": false,
+          "orderNumber": 6,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Victoria",
+              "score": 13200
+            },
+            {
+              "player": "James",
+              "score": 2600
+            },
+            {
+              "player": "Mattea",
+              "score": 2600
+            }
+          ]
+        },
+        {
+          "category": "THEY DID BAD",
+          "value": 1600,
+          "clue": "This German shepherd of the Bidens' has gained notoriety by biting several Secret Service agents",
+          "answer": "Commander",
+          "isDailyDouble": false,
+          "orderNumber": 7,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Victoria",
+              "score": 13200
+            },
+            {
+              "player": "James",
+              "score": 4200
+            },
+            {
+              "player": "Mattea",
+              "score": 2600
+            }
+          ]
+        },
+        {
+          "category": "PLACES",
+          "value": 1600,
+          "clue": "John van Leeuwen was the first to swim 16-mile Foveaux Strait between New Zealand's South Island & this island further south",
+          "answer": "Stewart Island",
+          "isDailyDouble": false,
+          "orderNumber": 8,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Victoria",
+              "score": 11600
+            },
+            {
+              "player": "James",
+              "score": 4200
+            },
+            {
+              "player": "Mattea",
+              "score": 2600
+            }
+          ]
+        },
+        {
+          "category": "PLACES",
+          "value": 4200,
+          "clue": "This spot in London was once where religious types grew vegetables; looks like an \"N\" got dropped along the way",
+          "answer": "Covent Garden",
+          "isDailyDouble": true,
+          "orderNumber": 9,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Victoria",
+              "score": 11600
+            },
+            {
+              "player": "James",
+              "score": 8400
+            },
+            {
+              "player": "Mattea",
+              "score": 2600
+            }
+          ]
+        },
+        {
+          "category": "CLASSICAL IS IN",
+          "value": 1200,
+          "clue": "Mendelssohn used sections from Psalms & 1 Kings for his oratorio about this biblical prophet",
+          "answer": "Elijah",
+          "isDailyDouble": false,
+          "orderNumber": 10,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Victoria",
+              "score": 12800
+            },
+            {
+              "player": "James",
+              "score": 8400
+            },
+            {
+              "player": "Mattea",
+              "score": 2600
+            }
+          ]
+        },
+        {
+          "category": "CLASSICAL IS IN",
+          "value": 1600,
+          "clue": "At age 19 this virtuoso pianist won a gold medal with a one-act opera based on a poem by his countryman Pushkin",
+          "answer": "Rachmaninoff",
+          "isDailyDouble": false,
+          "orderNumber": 11,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Victoria",
+              "score": 11200
+            },
+            {
+              "player": "James",
+              "score": 10000
+            },
+            {
+              "player": "Mattea",
+              "score": 2600
+            }
+          ]
+        },
+        {
+          "category": "CLASSICAL IS IN",
+          "value": 800,
+          "clue": "His 1875 opera caused quite the stir with depictions of women smoking cigarettes, somewhat taboo at the time",
+          "answer": "Bizet",
+          "isDailyDouble": false,
+          "orderNumber": 12,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Victoria",
+              "score": 12000
+            },
+            {
+              "player": "James",
+              "score": 10000
+            },
+            {
+              "player": "Mattea",
+              "score": 2600
+            }
+          ]
+        },
+        {
+          "category": "THEY DID BAD",
+          "value": 1200,
+          "clue": "Plot E in a military cemetery in France holds 94 men who received this alliterative step from the U.S. Army, then execution",
+          "answer": "dishonorable discharge",
+          "isDailyDouble": false,
+          "orderNumber": 13,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Victoria",
+              "score": 12000
+            },
+            {
+              "player": "James",
+              "score": 11200
+            },
+            {
+              "player": "Mattea",
+              "score": 2600
+            }
+          ]
+        },
+        {
+          "category": "CLASSICAL IS IN",
+          "value": 2000,
+          "clue": "After writing his only opera, \"Duke Bluebeard's Castle\", he served in the Hungarian Soviet Republic's music directorate",
+          "answer": "Bartók",
+          "isDailyDouble": false,
+          "orderNumber": 14,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Victoria",
+              "score": 14000
+            },
+            {
+              "player": "James",
+              "score": 11200
+            },
+            {
+              "player": "Mattea",
+              "score": 2600
+            }
+          ]
+        },
+        {
+          "category": "THEY DID BAD",
+          "value": 14000,
+          "clue": "Though nicknamed for a lethal weapon regulated by Congress in 1934, he doesn't seem to have killed anyone; kidnapped, yes",
+          "answer": "Machine Gun Kelly",
+          "isDailyDouble": true,
+          "orderNumber": 15,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Victoria",
+              "score": 28000
+            },
+            {
+              "player": "James",
+              "score": 11200
+            },
+            {
+              "player": "Mattea",
+              "score": 2600
+            }
+          ]
+        },
+        {
+          "category": "ON THE DIRECTOR'S RÉSUMÉ",
+          "value": 1200,
+          "clue": "\"The Sound Barrier\" is not as famous as some of his later efforts, like \"The Bridge on the River Kwai\"",
+          "answer": "(David) Lean",
+          "isDailyDouble": false,
+          "orderNumber": 16,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Victoria",
+              "score": 28000
+            },
+            {
+              "player": "James",
+              "score": 12400
+            },
+            {
+              "player": "Mattea",
+              "score": 2600
+            }
+          ]
+        },
+        {
+          "category": "FIND THE GREEK LETTER IN...",
+          "value": 2000,
+          "clue": "...the word for a building like the former Tewksbury one in Massachusetts or where excess spending puts you",
+          "answer": "rho (in poorhouse)",
+          "isDailyDouble": false,
+          "orderNumber": 17,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Victoria",
+              "score": 28000
+            },
+            {
+              "player": "James",
+              "score": 12400
+            },
+            {
+              "player": "Mattea",
+              "score": 2600
+            }
+          ]
+        },
+        {
+          "category": "FIND THE GREEK LETTER IN...",
+          "value": 1600,
+          "clue": "...the name of a wise Centaur who mentored Achilles in Greek myth",
+          "answer": "chi (in Chiron)",
+          "isDailyDouble": false,
+          "orderNumber": 18,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Victoria",
+              "score": 28000
+            },
+            {
+              "player": "James",
+              "score": 14000
+            },
+            {
+              "player": "Mattea",
+              "score": 2600
+            }
+          ]
+        },
+        {
+          "category": "FIND THE GREEK LETTER IN...",
+          "value": 1200,
+          "clue": "...another Greek letter; what we're going for is 3 of the 5 letters",
+          "answer": "eta (in theta)",
+          "isDailyDouble": false,
+          "orderNumber": 19,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Victoria",
+              "score": 28000
+            },
+            {
+              "player": "James",
+              "score": 14000
+            },
+            {
+              "player": "Mattea",
+              "score": 3800
+            }
+          ]
+        },
+        {
+          "category": "FIND THE GREEK LETTER IN...",
+          "value": 800,
+          "clue": "...the species of mushrooms that produce a hallucinogenic experience",
+          "answer": "psi (in psilocybin)",
+          "isDailyDouble": false,
+          "orderNumber": 20,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Victoria",
+              "score": 28000
+            },
+            {
+              "player": "James",
+              "score": 14800
+            },
+            {
+              "player": "Mattea",
+              "score": 3800
+            }
+          ]
+        },
+        {
+          "category": "FIND THE GREEK LETTER IN...",
+          "value": 400,
+          "clue": "...a word describing a young woman in a sweet, innocent & sympathetic theatrical role",
+          "answer": "nu (in ingenue)",
+          "isDailyDouble": false,
+          "orderNumber": 21,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Victoria",
+              "score": 28000
+            },
+            {
+              "player": "James",
+              "score": 15200
+            },
+            {
+              "player": "Mattea",
+              "score": 3800
+            }
+          ]
+        },
+        {
+          "category": "PLACES",
+          "value": 2000,
+          "clue": "The world's biggest Buddhist shrine is near this city, once Indonesia's capital & an initial syllable longer than the current capital",
+          "answer": "Yogyakarta",
+          "isDailyDouble": false,
+          "orderNumber": 22,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Victoria",
+              "score": 28000
+            },
+            {
+              "player": "James",
+              "score": 15200
+            },
+            {
+              "player": "Mattea",
+              "score": 5800
+            }
+          ]
+        },
+        {
+          "category": "PLACES",
+          "value": 400,
+          "clue": "The word vilnis meaning \"surge\" gives us the name of the capital of this country",
+          "answer": "Lithuania",
+          "isDailyDouble": false,
+          "orderNumber": 23,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Victoria",
+              "score": 28000
+            },
+            {
+              "player": "James",
+              "score": 15600
+            },
+            {
+              "player": "Mattea",
+              "score": 5800
+            }
+          ]
+        },
+        {
+          "category": "STAR WORDS",
+          "value": 800,
+          "clue": "Most neutron stars we've found are these, named for the way they emit bursts of radiation at regular intervals",
+          "answer": "pulsars",
+          "isDailyDouble": false,
+          "orderNumber": 24,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Victoria",
+              "score": 28800
+            },
+            {
+              "player": "James",
+              "score": 15600
+            },
+            {
+              "player": "Mattea",
+              "score": 5800
+            }
+          ]
+        },
+        {
+          "category": "THEY DID BAD",
+          "value": 2000,
+          "clue": "A book called \"The Wolf of Investing\" offers financial tips from this man convicted of money laundering & securities fraud",
+          "answer": "(Jordan) Belfort",
+          "isDailyDouble": false,
+          "orderNumber": 25,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Victoria",
+              "score": 28800
+            },
+            {
+              "player": "James",
+              "score": 17600
+            },
+            {
+              "player": "Mattea",
+              "score": 5800
+            }
+          ]
+        },
+        {
+          "category": "THEY DID BAD",
+          "value": 400,
+          "clue": "The sentence of deer poacher David Berry Jr. included a monthly viewing of this movie",
+          "answer": "Bambi",
+          "isDailyDouble": false,
+          "orderNumber": 26,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Victoria",
+              "score": 29200
+            },
+            {
+              "player": "James",
+              "score": 17600
+            },
+            {
+              "player": "Mattea",
+              "score": 5800
+            }
+          ]
+        },
+        {
+          "category": "ON THE DIRECTOR'S RÉSUMÉ",
+          "value": 800,
+          "clue": "She starred in 2008's \"Nights and Weekends\", her directorial debut; she's had some bigger hits since",
+          "answer": "Gerwig",
+          "isDailyDouble": false,
+          "orderNumber": 27,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Victoria",
+              "score": 29200
+            },
+            {
+              "player": "James",
+              "score": 17600
+            },
+            {
+              "player": "Mattea",
+              "score": 6600
+            }
+          ]
+        },
+        {
+          "category": "ON THE DIRECTOR'S RÉSUMÉ",
+          "value": 400,
+          "clue": "He gave us the 1979 short \"Last Hustle in Brooklyn\" & the 1994 semi-autobiographical \"Crooklyn\"",
+          "answer": "Spike Lee",
+          "isDailyDouble": false,
+          "orderNumber": 28,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Victoria",
+              "score": 29200
+            },
+            {
+              "player": "James",
+              "score": 17600
+            },
+            {
+              "player": "Mattea",
+              "score": 7000
+            }
+          ]
+        },
+        {
+          "category": "CLASSICAL IS IN",
+          "value": 400,
+          "clue": "Early in life, Richard Strauss completed dozens of these, from the German for \"song\"",
+          "answer": "lieder",
+          "isDailyDouble": false,
+          "orderNumber": 29,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Victoria",
+              "score": 29600
+            },
+            {
+              "player": "James",
+              "score": 17600
+            },
+            {
+              "player": "Mattea",
+              "score": 7000
+            }
+          ]
+        },
+        {
+          "category": "STAR WORDS",
+          "value": 400,
+          "clue": "Sirius B is one of these diminutive-sounding remnants of burned-out stars",
+          "answer": "white dwarfs",
+          "isDailyDouble": false,
+          "orderNumber": 30,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Victoria",
+              "score": 29600
+            },
+            {
+              "player": "James",
+              "score": 17600
+            },
+            {
+              "player": "Mattea",
+              "score": 7000
+            }
+          ]
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "Victoria",
+          "score": 29600
+        },
+        {
+          "player": "James",
+          "score": 17600
+        },
+        {
+          "player": "Mattea",
+          "score": 7000
+        }
+      ]
+    },
+    "finalJeopardy": {
+      "category": "FAMOUS LAST WORDS",
+      "clue": "In 1530 he made his last confession & wished that \"I had served God as diligently as I have done the king\"",
+      "answer": "Cardinal Wolsey",
+      "responses": [
+        {
+          "contestant": "Mattea",
+          "response": "Who is Thomas More?",
+          "isCorrect": false,
+          "isIncorrect": true,
+          "value": 7000,
+          "finalScore": 0
+        },
+        {
+          "contestant": "James",
+          "response": "Who is Thomas More",
+          "isCorrect": false,
+          "isIncorrect": true,
+          "value": 6400,
+          "finalScore": 11200
+        },
+        {
+          "contestant": "Victoria",
+          "response": "Who is More? Hi, Nora! ♥",
+          "isCorrect": false,
+          "isIncorrect": true,
+          "value": 5601,
+          "finalScore": 23999
+        }
+      ]
+    }
+  },
+  "finalScores": [
+    {
+      "player": "Victoria",
+      "score": "23,999"
+    },
+    {
+      "player": "James",
+      "score": "11,200"
+    },
+    {
+      "player": "Mattea",
+      "score": "0"
+    }
+  ],
+  "coryatScores": [
+    {
+      "player": "Victoria",
+      "score": 16400
+    },
+    {
+      "player": "James",
+      "score": 20000
+    },
+    {
+      "player": "Mattea",
+      "score": 7000
+    }
+  ]
+}

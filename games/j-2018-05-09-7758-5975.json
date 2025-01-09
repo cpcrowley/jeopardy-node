@@ -1,0 +1,1687 @@
+{
+  "gameId": 5975,
+  "showNumber": "7758",
+  "title": "Show #7758 - Wednesday, May 9, 2018",
+  "date": "2018-05-09",
+  "comments": "2018 Teachers Tournament quarterfinal game 3.",
+  "contestants": [
+    "Mary Alice",
+    "Scott",
+    "Judy"
+  ],
+  "rounds": {
+    "jeopardy": {
+      "categories": [
+        "IN THE STATE MUSEUM",
+        "PRONOUN TEST",
+        "DON'T GIVE UP THE RELATIONSHIP",
+        "DISNEY FACTS",
+        "VIRUSES",
+        "LET'S KNOT"
+      ],
+      "clues": [
+        {
+          "category": "IN THE STATE MUSEUM",
+          "value": 200,
+          "clue": "A full-size replica of the 1903 Wright flyer",
+          "answer": "North Carolina",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [
+            "Mary Alice"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mary Alice",
+              "score": 200
+            },
+            {
+              "player": "Scott",
+              "score": 0
+            },
+            {
+              "player": "Judy",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "IN THE STATE MUSEUM",
+          "value": 400,
+          "clue": "The 1629 Winthrop Charter",
+          "answer": "Massachusetts",
+          "isDailyDouble": false,
+          "orderNumber": 2,
+          "correctContestants": [
+            "Judy"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mary Alice",
+              "score": 200
+            },
+            {
+              "player": "Scott",
+              "score": 0
+            },
+            {
+              "player": "Judy",
+              "score": 400
+            }
+          ]
+        },
+        {
+          "category": "PRONOUN TEST",
+          "value": 200,
+          "clue": "Let's hear a song of this first-person reflexive pronoun",
+          "answer": "myself",
+          "isDailyDouble": false,
+          "orderNumber": 3,
+          "correctContestants": [
+            "Scott"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mary Alice",
+              "score": 200
+            },
+            {
+              "player": "Scott",
+              "score": 200
+            },
+            {
+              "player": "Judy",
+              "score": 400
+            }
+          ]
+        },
+        {
+          "category": "PRONOUN TEST",
+          "value": 400,
+          "clue": "This indefinite pronoun is a synonym for \"zilch\"",
+          "answer": "nothing",
+          "isDailyDouble": false,
+          "orderNumber": 4,
+          "correctContestants": [
+            "Judy"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mary Alice",
+              "score": 200
+            },
+            {
+              "player": "Scott",
+              "score": 200
+            },
+            {
+              "player": "Judy",
+              "score": 800
+            }
+          ]
+        },
+        {
+          "category": "PRONOUN TEST",
+          "value": 600,
+          "clue": "It can mean \"each\" or \"one or the other\"",
+          "answer": "either",
+          "isDailyDouble": false,
+          "orderNumber": 5,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Mary Alice",
+              "score": 200
+            },
+            {
+              "player": "Scott",
+              "score": 200
+            },
+            {
+              "player": "Judy",
+              "score": 800
+            }
+          ]
+        },
+        {
+          "category": "PRONOUN TEST",
+          "value": 800,
+          "clue": "Thanks for waiting while I finished that call--now I'm all this second-person possessive pronoun",
+          "answer": "yours",
+          "isDailyDouble": false,
+          "orderNumber": 6,
+          "correctContestants": [
+            "Mary Alice"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mary Alice",
+              "score": 1000
+            },
+            {
+              "player": "Scott",
+              "score": 200
+            },
+            {
+              "player": "Judy",
+              "score": 800
+            }
+          ]
+        },
+        {
+          "category": "IN THE STATE MUSEUM",
+          "value": 600,
+          "clue": "Nolan Ryan's Baseball Hall of Fame ring",
+          "answer": "Texas",
+          "isDailyDouble": false,
+          "orderNumber": 7,
+          "correctContestants": [
+            "Mary Alice"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mary Alice",
+              "score": 1600
+            },
+            {
+              "player": "Scott",
+              "score": 200
+            },
+            {
+              "player": "Judy",
+              "score": 800
+            }
+          ]
+        },
+        {
+          "category": "IN THE STATE MUSEUM",
+          "value": 800,
+          "clue": "Napoleon's death mask",
+          "answer": "Louisiana",
+          "isDailyDouble": false,
+          "orderNumber": 8,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Mary Alice",
+              "score": 1600
+            },
+            {
+              "player": "Scott",
+              "score": 200
+            },
+            {
+              "player": "Judy",
+              "score": 800
+            }
+          ]
+        },
+        {
+          "category": "IN THE STATE MUSEUM",
+          "value": 1000,
+          "clue": "Andrew Jackson's leather wallet",
+          "answer": "Tennessee",
+          "isDailyDouble": true,
+          "orderNumber": 9,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Mary Alice"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mary Alice",
+              "score": 600
+            },
+            {
+              "player": "Scott",
+              "score": 200
+            },
+            {
+              "player": "Judy",
+              "score": 800
+            }
+          ]
+        },
+        {
+          "category": "DISNEY FACTS",
+          "value": 200,
+          "clue": "Hippo ballerinas perform a hypnotic \"Dance Of The Hours\" in this 1940 film",
+          "answer": "Fantasia",
+          "isDailyDouble": false,
+          "orderNumber": 10,
+          "correctContestants": [
+            "Mary Alice"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mary Alice",
+              "score": 800
+            },
+            {
+              "player": "Scott",
+              "score": 200
+            },
+            {
+              "player": "Judy",
+              "score": 800
+            }
+          ]
+        },
+        {
+          "category": "DISNEY FACTS",
+          "value": 400,
+          "clue": "When Walt was trying to create Disneyland, he got sizable funding from this TV network Disney now owns",
+          "answer": "ABC",
+          "isDailyDouble": false,
+          "orderNumber": 11,
+          "correctContestants": [
+            "Judy"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mary Alice",
+              "score": 800
+            },
+            {
+              "player": "Scott",
+              "score": 200
+            },
+            {
+              "player": "Judy",
+              "score": 1200
+            }
+          ]
+        },
+        {
+          "category": "DISNEY FACTS",
+          "value": 600,
+          "clue": "Songs from this 1951 Disney adaptation include \"All In The Golden Afternoon\" & \"I'm Late\"",
+          "answer": "Alice in Wonderland",
+          "isDailyDouble": false,
+          "orderNumber": 12,
+          "correctContestants": [
+            "Mary Alice"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mary Alice",
+              "score": 1400
+            },
+            {
+              "player": "Scott",
+              "score": 200
+            },
+            {
+              "player": "Judy",
+              "score": 1200
+            }
+          ]
+        },
+        {
+          "category": "DISNEY FACTS",
+          "value": 800,
+          "clue": "Disney's CEO since 2005, he's brought Pixar, Lucasfilm & Marvel into the Mouse House",
+          "answer": "Robert Iger",
+          "isDailyDouble": false,
+          "orderNumber": 13,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Mary Alice",
+              "score": 1400
+            },
+            {
+              "player": "Scott",
+              "score": 200
+            },
+            {
+              "player": "Judy",
+              "score": 1200
+            }
+          ]
+        },
+        {
+          "category": "DISNEY FACTS",
+          "value": 1000,
+          "clue": "The title animal in this, Disney's first live-action comedy, is a Bratislavian sheepdog",
+          "answer": "The Shaggy Dog",
+          "isDailyDouble": false,
+          "orderNumber": 14,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Judy"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Mary Alice",
+              "score": 1400
+            },
+            {
+              "player": "Scott",
+              "score": 200
+            },
+            {
+              "player": "Judy",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "LET'S KNOT",
+          "value": 200,
+          "clue": "A strong climber's knot called the Flemish bend is AKA the \"figure\" this, which it resembles before it's pulled tight",
+          "answer": "eight",
+          "isDailyDouble": false,
+          "orderNumber": 15,
+          "correctContestants": [
+            "Scott"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mary Alice",
+              "score": 1400
+            },
+            {
+              "player": "Scott",
+              "score": 400
+            },
+            {
+              "player": "Judy",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "LET'S KNOT",
+          "value": 400,
+          "clue": "A knot once used to secure air ships is called this bend, after one of \"Z\" most famous ones",
+          "answer": "a Zeppelin bend",
+          "isDailyDouble": false,
+          "orderNumber": 16,
+          "correctContestants": [
+            "Judy"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mary Alice",
+              "score": 1400
+            },
+            {
+              "player": "Scott",
+              "score": 400
+            },
+            {
+              "player": "Judy",
+              "score": 600
+            }
+          ]
+        },
+        {
+          "category": "LET'S KNOT",
+          "value": 600,
+          "clue": "Buntline & clove are versions of this type of knot, also a word for a period of military service",
+          "answer": "a hitch",
+          "isDailyDouble": false,
+          "orderNumber": 17,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Mary Alice",
+              "score": 1400
+            },
+            {
+              "player": "Scott",
+              "score": 400
+            },
+            {
+              "player": "Judy",
+              "score": 600
+            }
+          ]
+        },
+        {
+          "category": "LET'S KNOT",
+          "value": 800,
+          "clue": "Used to ascend & descend ropes, the Valdotain tresse is used by these professionals, from Latin for \"tree\"",
+          "answer": "arborists",
+          "isDailyDouble": false,
+          "orderNumber": 18,
+          "correctContestants": [
+            "Judy"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mary Alice",
+              "score": 1400
+            },
+            {
+              "player": "Scott",
+              "score": 400
+            },
+            {
+              "player": "Judy",
+              "score": 1400
+            }
+          ]
+        },
+        {
+          "category": "LET'S KNOT",
+          "value": 1000,
+          "clue": "(Sarah of the Clue Crew ties a knot.) The rabbit comes out of the hole, goes around the tree, then back down the hole in a mnemonic for tying this classic knot used in sailing & rescue work",
+          "answer": "bowline",
+          "isDailyDouble": false,
+          "orderNumber": 19,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Mary Alice",
+              "score": 1400
+            },
+            {
+              "player": "Scott",
+              "score": 400
+            },
+            {
+              "player": "Judy",
+              "score": 1400
+            }
+          ]
+        },
+        {
+          "category": "PRONOUN TEST",
+          "value": 1000,
+          "clue": "Let's not argue about whether it's OK to use this 5-letter relative pronoun instead of \"that\" in a restrictive clause",
+          "answer": "which",
+          "isDailyDouble": false,
+          "orderNumber": 20,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Judy"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Mary Alice",
+              "score": 1400
+            },
+            {
+              "player": "Scott",
+              "score": 400
+            },
+            {
+              "player": "Judy",
+              "score": 400
+            }
+          ]
+        },
+        {
+          "category": "DON'T GIVE UP THE RELATIONSHIP",
+          "value": 200,
+          "clue": "Truly the royal we, these 2 celebrated their 70th wedding anniversary on Nov. 20, 2017",
+          "answer": "Queen Elizabeth and Prince Philip",
+          "isDailyDouble": false,
+          "orderNumber": 21,
+          "correctContestants": [
+            "Judy"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mary Alice",
+              "score": 1400
+            },
+            {
+              "player": "Scott",
+              "score": 400
+            },
+            {
+              "player": "Judy",
+              "score": 600
+            }
+          ]
+        },
+        {
+          "category": "DON'T GIVE UP THE RELATIONSHIP",
+          "value": 400,
+          "clue": "On their 25th anniv. Michelle told Barack \"You're still my\" these 2 words (without \"forever\")",
+          "answer": "best friend",
+          "isDailyDouble": false,
+          "orderNumber": 22,
+          "correctContestants": [
+            "Scott"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mary Alice",
+              "score": 1400
+            },
+            {
+              "player": "Scott",
+              "score": 800
+            },
+            {
+              "player": "Judy",
+              "score": 600
+            }
+          ]
+        },
+        {
+          "category": "DON'T GIVE UP THE RELATIONSHIP",
+          "value": 600,
+          "clue": "Maybe this TV Dr. used his 40+-year marriage to Robin to write his book \"Relationship Rescue\"",
+          "answer": "Dr. Phil",
+          "isDailyDouble": false,
+          "orderNumber": 23,
+          "correctContestants": [
+            "Judy"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mary Alice",
+              "score": 1400
+            },
+            {
+              "player": "Scott",
+              "score": 800
+            },
+            {
+              "player": "Judy",
+              "score": 1200
+            }
+          ]
+        },
+        {
+          "category": "DON'T GIVE UP THE RELATIONSHIP",
+          "value": 800,
+          "clue": "Psychology Today:You 2 aren't mind readers--this 13-letter word \"is the most important part of your relationship\"",
+          "answer": "communication",
+          "isDailyDouble": false,
+          "orderNumber": 24,
+          "correctContestants": [
+            "Mary Alice"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mary Alice",
+              "score": 2200
+            },
+            {
+              "player": "Scott",
+              "score": 800
+            },
+            {
+              "player": "Judy",
+              "score": 1200
+            }
+          ]
+        },
+        {
+          "category": "DON'T GIVE UP THE RELATIONSHIP",
+          "value": 1000,
+          "clue": "Lisa Rinna credits keeping things steamy for her marriage to this actor lasting \"150 years in Hollywood math\"",
+          "answer": "Harry Hamlin",
+          "isDailyDouble": false,
+          "orderNumber": 25,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Mary Alice",
+              "score": 2200
+            },
+            {
+              "player": "Scott",
+              "score": 800
+            },
+            {
+              "player": "Judy",
+              "score": 1200
+            }
+          ]
+        },
+        {
+          "category": "VIRUSES",
+          "value": 200,
+          "clue": "To hackers, this way into a house also means a security bypass that can let a virus infect a computer",
+          "answer": "a backdoor",
+          "isDailyDouble": false,
+          "orderNumber": 26,
+          "correctContestants": [
+            "Mary Alice"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mary Alice",
+              "score": 2400
+            },
+            {
+              "player": "Scott",
+              "score": 800
+            },
+            {
+              "player": "Judy",
+              "score": 1200
+            }
+          ]
+        },
+        {
+          "category": "VIRUSES",
+          "value": 400,
+          "clue": "The first example of this -ware that extorts money to unlock your files was sent on disks to HIV researchers in 1989",
+          "answer": "ransomware",
+          "isDailyDouble": false,
+          "orderNumber": 27,
+          "correctContestants": [
+            "Mary Alice"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mary Alice",
+              "score": 2800
+            },
+            {
+              "player": "Scott",
+              "score": 800
+            },
+            {
+              "player": "Judy",
+              "score": 1200
+            }
+          ]
+        },
+        {
+          "category": "VIRUSES",
+          "value": 600,
+          "clue": "The St. Louis encephalitis virus is transmitted in a cycle of bird to this insect to bird",
+          "answer": "mosquito",
+          "isDailyDouble": false,
+          "orderNumber": 28,
+          "correctContestants": [
+            "Scott"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mary Alice",
+              "score": 2800
+            },
+            {
+              "player": "Scott",
+              "score": 1400
+            },
+            {
+              "player": "Judy",
+              "score": 1200
+            }
+          ]
+        },
+        {
+          "category": "VIRUSES",
+          "value": 800,
+          "clue": "This virus that sometimes breaks out on cruise ships is named for Norwalk, Ohio",
+          "answer": "norovirus",
+          "isDailyDouble": false,
+          "orderNumber": 29,
+          "correctContestants": [
+            "Scott"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mary Alice",
+              "score": 2800
+            },
+            {
+              "player": "Scott",
+              "score": 2200
+            },
+            {
+              "player": "Judy",
+              "score": 1200
+            }
+          ]
+        },
+        {
+          "category": "VIRUSES",
+          "value": 1000,
+          "clue": "Stuxnet was created to damage this country's nuclear weapons program by making its centrifuges self-destruct",
+          "answer": "Iran",
+          "isDailyDouble": false,
+          "orderNumber": 30,
+          "correctContestants": [
+            "Scott"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mary Alice",
+              "score": 2800
+            },
+            {
+              "player": "Scott",
+              "score": 3200
+            },
+            {
+              "player": "Judy",
+              "score": 1200
+            }
+          ]
+        }
+      ],
+      "firstBreakScores": [
+        {
+          "player": "Mary Alice",
+          "score": 1400
+        },
+        {
+          "player": "Scott",
+          "score": 400
+        },
+        {
+          "player": "Judy",
+          "score": 200
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "Mary Alice",
+          "score": 2800
+        },
+        {
+          "player": "Scott",
+          "score": 3200
+        },
+        {
+          "player": "Judy",
+          "score": 1200
+        }
+      ]
+    },
+    "doubleJeopardy": {
+      "categories": [
+        "CLASS OF 1918",
+        "PLANET EARTH",
+        "DIFFERS BY A VOWEL",
+        "LITERATURE IN SPANISH",
+        "POLITICAL TERMS",
+        "HI, MOM!"
+      ],
+      "clues": [
+        {
+          "category": "LITERATURE IN SPANISH",
+          "value": 400,
+          "clue": "Guillermo Cabrera Infante's \"Infante's Inferno\" captures this country before the 1959 Communist revolution",
+          "answer": "Cuba",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mary Alice",
+              "score": 2400
+            },
+            {
+              "player": "Scott",
+              "score": 3600
+            },
+            {
+              "player": "Judy",
+              "score": 1200
+            }
+          ]
+        },
+        {
+          "category": "LITERATURE IN SPANISH",
+          "value": 800,
+          "clue": "Not the tower but this place of Babel in a Borges story contains every possible book with every arrangement of letters",
+          "answer": "library",
+          "isDailyDouble": false,
+          "orderNumber": 2,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mary Alice",
+              "score": 2400
+            },
+            {
+              "player": "Scott",
+              "score": 4400
+            },
+            {
+              "player": "Judy",
+              "score": 1200
+            }
+          ]
+        },
+        {
+          "category": "LITERATURE IN SPANISH",
+          "value": 1200,
+          "clue": "1949's \"The Kingdom of This World\", an early work in this style blending naturalism & fantasy, includes a manifesto of it",
+          "answer": "magical realism",
+          "isDailyDouble": false,
+          "orderNumber": 3,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mary Alice",
+              "score": 2400
+            },
+            {
+              "player": "Scott",
+              "score": 5600
+            },
+            {
+              "player": "Judy",
+              "score": 1200
+            }
+          ]
+        },
+        {
+          "category": "LITERATURE IN SPANISH",
+          "value": 1600,
+          "clue": "Circa 1554 \"Lazarillo de Tormes\" originated this genre about a lowborn scamp & his travels & adventures",
+          "answer": "picaresque",
+          "isDailyDouble": false,
+          "orderNumber": 4,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mary Alice",
+              "score": 2400
+            },
+            {
+              "player": "Scott",
+              "score": 7200
+            },
+            {
+              "player": "Judy",
+              "score": 1200
+            }
+          ]
+        },
+        {
+          "category": "LITERATURE IN SPANISH",
+          "value": 500,
+          "clue": "Mario Vargas Llosa based \"The Time of the Hero\" on his harsh treatment in military school in this South American capital",
+          "answer": "Lima",
+          "isDailyDouble": true,
+          "orderNumber": 5,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mary Alice",
+              "score": 2400
+            },
+            {
+              "player": "Scott",
+              "score": 7700
+            },
+            {
+              "player": "Judy",
+              "score": 1200
+            }
+          ]
+        },
+        {
+          "category": "HI, MOM!",
+          "value": 400,
+          "clue": "Georgia May Jagger uses her dad's pout in following her mom, Jerry Hall, into this job--the super type",
+          "answer": "a model",
+          "isDailyDouble": false,
+          "orderNumber": 6,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mary Alice",
+              "score": 2400
+            },
+            {
+              "player": "Scott",
+              "score": 7700
+            },
+            {
+              "player": "Judy",
+              "score": 1600
+            }
+          ]
+        },
+        {
+          "category": "HI, MOM!",
+          "value": 800,
+          "clue": "John Dickerson of this daily CBS A.M. program is the son of Nancy, the first reporter to speak to JFK after his inauguration",
+          "answer": "CBS This Morning",
+          "isDailyDouble": false,
+          "orderNumber": 7,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Mary Alice",
+              "score": 2400
+            },
+            {
+              "player": "Scott",
+              "score": 7700
+            },
+            {
+              "player": "Judy",
+              "score": 1600
+            }
+          ]
+        },
+        {
+          "category": "HI, MOM!",
+          "value": 1200,
+          "clue": "Laura Dern is seen here with her mom, this fellow Oscar-nominated actress",
+          "answer": "Diane Ladd",
+          "isDailyDouble": false,
+          "orderNumber": 8,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Mary Alice",
+              "score": 2400
+            },
+            {
+              "player": "Scott",
+              "score": 7700
+            },
+            {
+              "player": "Judy",
+              "score": 1600
+            }
+          ]
+        },
+        {
+          "category": "HI, MOM!",
+          "value": 1600,
+          "clue": "Mia Farrow's children include this TV & New Yorker journalist",
+          "answer": "Ronan Farrow",
+          "isDailyDouble": false,
+          "orderNumber": 9,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Mary Alice",
+              "score": 2400
+            },
+            {
+              "player": "Scott",
+              "score": 7700
+            },
+            {
+              "player": "Judy",
+              "score": 1600
+            }
+          ]
+        },
+        {
+          "category": "HI, MOM!",
+          "value": 2000,
+          "clue": "Carlene Carter's 10th studio album includes \"Tall Lover Man\" by this woman, Carlene's mom",
+          "answer": "June Carter Cash",
+          "isDailyDouble": false,
+          "orderNumber": 10,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mary Alice",
+              "score": 2400
+            },
+            {
+              "player": "Scott",
+              "score": 9700
+            },
+            {
+              "player": "Judy",
+              "score": -400
+            }
+          ]
+        },
+        {
+          "category": "POLITICAL TERMS",
+          "value": 400,
+          "clue": "To \"toe\" this is to outwardly agree with all the positions of a political organization",
+          "answer": "the line",
+          "isDailyDouble": false,
+          "orderNumber": 11,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mary Alice",
+              "score": 2800
+            },
+            {
+              "player": "Scott",
+              "score": 9700
+            },
+            {
+              "player": "Judy",
+              "score": -400
+            }
+          ]
+        },
+        {
+          "category": "DIFFERS BY A VOWEL",
+          "value": 400,
+          "clue": "The waltz & a dimwit",
+          "answer": "dance and dunce",
+          "isDailyDouble": false,
+          "orderNumber": 12,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mary Alice",
+              "score": 3200
+            },
+            {
+              "player": "Scott",
+              "score": 9700
+            },
+            {
+              "player": "Judy",
+              "score": -800
+            }
+          ]
+        },
+        {
+          "category": "DIFFERS BY A VOWEL",
+          "value": 800,
+          "clue": "A dried fruit & lying flat & facedown",
+          "answer": "prune and prone",
+          "isDailyDouble": false,
+          "orderNumber": 13,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mary Alice",
+              "score": 3200
+            },
+            {
+              "player": "Scott",
+              "score": 9700
+            },
+            {
+              "player": "Judy",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "DIFFERS BY A VOWEL",
+          "value": 1200,
+          "clue": "It's the bedroom style on the left & what the person on the right is hoping for",
+          "answer": "a loft and a lift",
+          "isDailyDouble": false,
+          "orderNumber": 14,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mary Alice",
+              "score": 4400
+            },
+            {
+              "player": "Scott",
+              "score": 9700
+            },
+            {
+              "player": "Judy",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "DIFFERS BY A VOWEL",
+          "value": 1600,
+          "clue": "A litter of pigs & a long, shallow trench made by a plow",
+          "answer": "a furrow and a farrow",
+          "isDailyDouble": false,
+          "orderNumber": 15,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mary Alice",
+              "score": 4400
+            },
+            {
+              "player": "Scott",
+              "score": 9700
+            },
+            {
+              "player": "Judy",
+              "score": 1600
+            }
+          ]
+        },
+        {
+          "category": "DIFFERS BY A VOWEL",
+          "value": 2000,
+          "clue": "Often confused, one word means to cause a change in & the other is the result",
+          "answer": "effect and affect",
+          "isDailyDouble": false,
+          "orderNumber": 16,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mary Alice",
+              "score": 6400
+            },
+            {
+              "player": "Scott",
+              "score": 9700
+            },
+            {
+              "player": "Judy",
+              "score": 1600
+            }
+          ]
+        },
+        {
+          "category": "PLANET EARTH",
+          "value": 400,
+          "clue": "Home to 10% of the world's known species, this rainforest covers 1.2 billion acres, 60% of it in Brazil",
+          "answer": "the Amazon rainforest",
+          "isDailyDouble": false,
+          "orderNumber": 17,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mary Alice",
+              "score": 6800
+            },
+            {
+              "player": "Scott",
+              "score": 9700
+            },
+            {
+              "player": "Judy",
+              "score": 1600
+            }
+          ]
+        },
+        {
+          "category": "PLANET EARTH",
+          "value": 800,
+          "clue": "They're sometimes called grasslands or savannahs, but in \"God Bless America\", they're called these",
+          "answer": "prairies",
+          "isDailyDouble": false,
+          "orderNumber": 18,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mary Alice",
+              "score": 7600
+            },
+            {
+              "player": "Scott",
+              "score": 9700
+            },
+            {
+              "player": "Judy",
+              "score": 1600
+            }
+          ]
+        },
+        {
+          "category": "PLANET EARTH",
+          "value": 1200,
+          "clue": "This field around Earth weakens before the 2 poles reverse, every 300,000 years or so",
+          "answer": "the magnetic field",
+          "isDailyDouble": false,
+          "orderNumber": 19,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mary Alice",
+              "score": 7600
+            },
+            {
+              "player": "Scott",
+              "score": 10900
+            },
+            {
+              "player": "Judy",
+              "score": 1600
+            }
+          ]
+        },
+        {
+          "category": "PLANET EARTH",
+          "value": 1600,
+          "clue": "2-word name for the U.S. region where a high frequency of its namesake vortexes can appear every year",
+          "answer": "Tornado Alley",
+          "isDailyDouble": false,
+          "orderNumber": 20,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mary Alice",
+              "score": 9200
+            },
+            {
+              "player": "Scott",
+              "score": 10900
+            },
+            {
+              "player": "Judy",
+              "score": 1600
+            }
+          ]
+        },
+        {
+          "category": "PLANET EARTH",
+          "value": 2000,
+          "clue": "An annual 1-million-strong migration of these animals crosses the Mara River through a gauntlet of crocs",
+          "answer": "the wildebeest",
+          "isDailyDouble": false,
+          "orderNumber": 21,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Mary Alice",
+              "score": 9200
+            },
+            {
+              "player": "Scott",
+              "score": 10900
+            },
+            {
+              "player": "Judy",
+              "score": 1600
+            }
+          ]
+        },
+        {
+          "category": "CLASS OF 1918",
+          "value": 400,
+          "clue": "After graduating from the Hunan Normal School in 1918, this future leader took a great leap forward to Beijing",
+          "answer": "Mao",
+          "isDailyDouble": false,
+          "orderNumber": 22,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mary Alice",
+              "score": 9200
+            },
+            {
+              "player": "Scott",
+              "score": 11300
+            },
+            {
+              "player": "Judy",
+              "score": 1600
+            }
+          ]
+        },
+        {
+          "category": "CLASS OF 1918",
+          "value": 800,
+          "clue": "In 1918 Margaret Mitchell left this type of school named for bringing society girls' education to completion",
+          "answer": "finishing school",
+          "isDailyDouble": false,
+          "orderNumber": 23,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mary Alice",
+              "score": 10000
+            },
+            {
+              "player": "Scott",
+              "score": 11300
+            },
+            {
+              "player": "Judy",
+              "score": 1600
+            }
+          ]
+        },
+        {
+          "category": "CLASS OF 1918",
+          "value": 1200,
+          "clue": "Witchcraft came after graduation from St. Louis' Central High for Agnes Moorehead, Endora on this sitcom",
+          "answer": "Bewitched",
+          "isDailyDouble": false,
+          "orderNumber": 24,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mary Alice",
+              "score": 10000
+            },
+            {
+              "player": "Scott",
+              "score": 11300
+            },
+            {
+              "player": "Judy",
+              "score": 2800
+            }
+          ]
+        },
+        {
+          "category": "POLITICAL TERMS",
+          "value": 2000,
+          "clue": "Sen. Al Beveridge coined this term in 1912 for political support at the local level \"grown from the soil\" of people's needs",
+          "answer": "grassroots",
+          "isDailyDouble": true,
+          "orderNumber": 25,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mary Alice",
+              "score": 10000
+            },
+            {
+              "player": "Scott",
+              "score": 11300
+            },
+            {
+              "player": "Judy",
+              "score": 4800
+            }
+          ]
+        },
+        {
+          "category": "POLITICAL TERMS",
+          "value": 1200,
+          "clue": "It can mean a wallet, a purse or a type of issue that affects the take-home pay of workers",
+          "answer": "a pocketbook",
+          "isDailyDouble": false,
+          "orderNumber": 26,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mary Alice",
+              "score": 10000
+            },
+            {
+              "player": "Scott",
+              "score": 11300
+            },
+            {
+              "player": "Judy",
+              "score": 6000
+            }
+          ]
+        },
+        {
+          "category": "POLITICAL TERMS",
+          "value": 1600,
+          "clue": "Senate Rule 22 is named for this, the only formal procedure for ending a filibuster",
+          "answer": "cloture",
+          "isDailyDouble": false,
+          "orderNumber": 27,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mary Alice",
+              "score": 10000
+            },
+            {
+              "player": "Scott",
+              "score": 12900
+            },
+            {
+              "player": "Judy",
+              "score": 6000
+            }
+          ]
+        },
+        {
+          "category": "POLITICAL TERMS",
+          "value": 2000,
+          "clue": "A room used in sound recording, this phrase means a group of people who repeat & reinforce each other's beliefs",
+          "answer": "echo chamber",
+          "isDailyDouble": false,
+          "orderNumber": 28,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mary Alice",
+              "score": 10000
+            },
+            {
+              "player": "Scott",
+              "score": 14900
+            },
+            {
+              "player": "Judy",
+              "score": 6000
+            }
+          ]
+        },
+        {
+          "category": "CLASS OF 1918",
+          "value": 1600,
+          "clue": "1918 was a big year for this woman: she graduated from Lanier High in Alabama & met F. Scott Fitzgerald at a dance",
+          "answer": "Zelda Fitzgerald",
+          "isDailyDouble": false,
+          "orderNumber": 29,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mary Alice",
+              "score": 10000
+            },
+            {
+              "player": "Scott",
+              "score": 14900
+            },
+            {
+              "player": "Judy",
+              "score": 7600
+            }
+          ]
+        },
+        {
+          "category": "CLASS OF 1918",
+          "value": 2000,
+          "clue": "This future composer was far from \"The Common Man\" when he graduate from Boys' H.S. in Brooklyn in 1918",
+          "answer": "Aaron Copland",
+          "isDailyDouble": false,
+          "orderNumber": 30,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mary Alice",
+              "score": 12000
+            },
+            {
+              "player": "Scott",
+              "score": 14900
+            },
+            {
+              "player": "Judy",
+              "score": 7600
+            }
+          ]
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "Mary Alice",
+          "score": 12000
+        },
+        {
+          "player": "Scott",
+          "score": 14900
+        },
+        {
+          "player": "Judy",
+          "score": 7600
+        }
+      ]
+    },
+    "finalJeopardy": {
+      "category": "OPERA",
+      "clue": "A 12-minute piece of music from this opera depicts Alpine dawn, a storm & the calm, & ends in a section called a galop",
+      "answer": "William Tell",
+      "responses": [
+        {
+          "contestant": "Judy",
+          "response": "What is William Tell?",
+          "isCorrect": true,
+          "isIncorrect": false,
+          "value": 7600,
+          "finalScore": 15200
+        },
+        {
+          "contestant": "Mary Alice",
+          "response": "What is La W",
+          "isCorrect": false,
+          "isIncorrect": true,
+          "value": 10000,
+          "finalScore": 2000
+        },
+        {
+          "contestant": "Scott",
+          "response": "What is the Magic Flute?",
+          "isCorrect": false,
+          "isIncorrect": true,
+          "value": 500,
+          "finalScore": 14400
+        }
+      ]
+    }
+  },
+  "finalScores": [
+    {
+      "player": "Mary Alice",
+      "score": "$2,000"
+    },
+    {
+      "player": "Scott",
+      "score": "$14,400"
+    },
+    {
+      "player": "Judy",
+      "score": "$15,200"
+    }
+  ],
+  "coryatScores": [
+    {
+      "player": "Mary Alice",
+      "score": 13000
+    },
+    {
+      "player": "Scott",
+      "score": 16400
+    },
+    {
+      "player": "Judy",
+      "score": 6400
+    }
+  ]
+}

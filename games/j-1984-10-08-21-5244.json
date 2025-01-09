@@ -1,0 +1,1685 @@
+{
+  "gameId": 5244,
+  "showNumber": "21",
+  "title": "Show #21 - Monday, October 8, 1984",
+  "date": "1984-10-08",
+  "comments": "First episode to use current Daily Double sound.",
+  "contestants": [
+    "Joel",
+    "Kevin",
+    "Diane"
+  ],
+  "rounds": {
+    "jeopardy": {
+      "categories": [
+        "THE '40S",
+        "BOATS",
+        "BALLET",
+        "\"MARCH\" ON",
+        "JAPAN",
+        "TV TRIVIA"
+      ],
+      "clues": [
+        {
+          "category": "TV TRIVIA",
+          "value": 200,
+          "clue": "David Janssen's private eye with the last name Orwell",
+          "answer": "Harry O",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [
+            "Kevin"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Joel",
+              "score": 0
+            },
+            {
+              "player": "Kevin",
+              "score": 200
+            },
+            {
+              "player": "Diane",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "TV TRIVIA",
+          "value": 300,
+          "clue": "Yancy's fancy pistol",
+          "answer": "derringer",
+          "isDailyDouble": false,
+          "orderNumber": 2,
+          "correctContestants": [
+            "Joel"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Joel",
+              "score": 300
+            },
+            {
+              "player": "Kevin",
+              "score": 200
+            },
+            {
+              "player": "Diane",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "BOATS",
+          "value": 200,
+          "clue": "A small boat used to move big boats",
+          "answer": "tug",
+          "isDailyDouble": false,
+          "orderNumber": 3,
+          "correctContestants": [
+            "Diane"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Joel",
+              "score": 300
+            },
+            {
+              "player": "Kevin",
+              "score": 200
+            },
+            {
+              "player": "Diane",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "BALLET",
+          "value": 100,
+          "clue": "Part of body used to dance on \"pointe\"",
+          "answer": "toe",
+          "isDailyDouble": false,
+          "orderNumber": 4,
+          "correctContestants": [
+            "Kevin"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Joel",
+              "score": 300
+            },
+            {
+              "player": "Kevin",
+              "score": 300
+            },
+            {
+              "player": "Diane",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "TV TRIVIA",
+          "value": 400,
+          "clue": "Cook Graham Kerr was known as this",
+          "answer": "The Galloping Gourmet",
+          "isDailyDouble": false,
+          "orderNumber": 5,
+          "correctContestants": [
+            "Diane"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Joel",
+              "score": 300
+            },
+            {
+              "player": "Kevin",
+              "score": 300
+            },
+            {
+              "player": "Diane",
+              "score": 600
+            }
+          ]
+        },
+        {
+          "category": "BALLET",
+          "value": 200,
+          "clue": "Tchaikovsky's fowl aquatic ballet",
+          "answer": "\"Swan Lake\"",
+          "isDailyDouble": false,
+          "orderNumber": 6,
+          "correctContestants": [
+            "Diane"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Joel",
+              "score": 300
+            },
+            {
+              "player": "Kevin",
+              "score": 300
+            },
+            {
+              "player": "Diane",
+              "score": 800
+            }
+          ]
+        },
+        {
+          "category": "BALLET",
+          "value": 300,
+          "clue": "New York City Ballet's \"Mr. B.\"",
+          "answer": "George Balanchine",
+          "isDailyDouble": false,
+          "orderNumber": 7,
+          "correctContestants": [
+            "Diane"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Joel",
+              "score": 300
+            },
+            {
+              "player": "Kevin",
+              "score": 300
+            },
+            {
+              "player": "Diane",
+              "score": 1100
+            }
+          ]
+        },
+        {
+          "category": "BALLET",
+          "value": 400,
+          "clue": "The arrangement of dance movements",
+          "answer": "choreography",
+          "isDailyDouble": false,
+          "orderNumber": 8,
+          "correctContestants": [
+            "Diane"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Joel",
+              "score": 300
+            },
+            {
+              "player": "Kevin",
+              "score": 300
+            },
+            {
+              "player": "Diane",
+              "score": 1500
+            }
+          ]
+        },
+        {
+          "category": "BALLET",
+          "value": 500,
+          "clue": "Formerly England's Sadler's Wells Ballet",
+          "answer": "the Royal Ballet",
+          "isDailyDouble": false,
+          "orderNumber": 9,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Joel",
+              "score": 300
+            },
+            {
+              "player": "Kevin",
+              "score": 300
+            },
+            {
+              "player": "Diane",
+              "score": 1500
+            }
+          ]
+        },
+        {
+          "category": "TV TRIVIA",
+          "value": 500,
+          "clue": "From the Swahili word for \"doctor\", the show featured a cross-eyed lion",
+          "answer": "Daktari",
+          "isDailyDouble": false,
+          "orderNumber": 10,
+          "correctContestants": [
+            "Diane"
+          ],
+          "incorrectContestants": [
+            "Joel"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Joel",
+              "score": -200
+            },
+            {
+              "player": "Kevin",
+              "score": 300
+            },
+            {
+              "player": "Diane",
+              "score": 2000
+            }
+          ]
+        },
+        {
+          "category": "TV TRIVIA",
+          "value": 100,
+          "clue": "Jim Henson coined this word from a combination of \"marionette\" & \"puppet\"",
+          "answer": "muppet",
+          "isDailyDouble": false,
+          "orderNumber": 11,
+          "correctContestants": [
+            "Joel"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Joel",
+              "score": -100
+            },
+            {
+              "player": "Kevin",
+              "score": 300
+            },
+            {
+              "player": "Diane",
+              "score": 2000
+            }
+          ]
+        },
+        {
+          "category": "BOATS",
+          "value": 300,
+          "clue": "A flat-bottomed boat propelled by a pole, or a 4th down football play",
+          "answer": "punt",
+          "isDailyDouble": false,
+          "orderNumber": 12,
+          "correctContestants": [
+            "Diane"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Joel",
+              "score": -100
+            },
+            {
+              "player": "Kevin",
+              "score": 300
+            },
+            {
+              "player": "Diane",
+              "score": 2300
+            }
+          ]
+        },
+        {
+          "category": "BOATS",
+          "value": 100,
+          "clue": "Venice's taxis",
+          "answer": "gondolas",
+          "isDailyDouble": false,
+          "orderNumber": 13,
+          "correctContestants": [
+            "Diane"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Joel",
+              "score": -100
+            },
+            {
+              "player": "Kevin",
+              "score": 300
+            },
+            {
+              "player": "Diane",
+              "score": 2400
+            }
+          ]
+        },
+        {
+          "category": "\"MARCH\" ON",
+          "value": 100,
+          "clue": "Definitely not Caesar's time of month",
+          "answer": "the ides of March",
+          "isDailyDouble": false,
+          "orderNumber": 14,
+          "correctContestants": [
+            "Joel"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Joel",
+              "score": 0
+            },
+            {
+              "player": "Kevin",
+              "score": 300
+            },
+            {
+              "player": "Diane",
+              "score": 2400
+            }
+          ]
+        },
+        {
+          "category": "JAPAN",
+          "value": 300,
+          "clue": "Known originally for motorcycles, this Japanese company now operates an auto plant in Ohio",
+          "answer": "Honda",
+          "isDailyDouble": false,
+          "orderNumber": 15,
+          "correctContestants": [
+            "Diane"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Joel",
+              "score": 0
+            },
+            {
+              "player": "Kevin",
+              "score": 300
+            },
+            {
+              "player": "Diane",
+              "score": 2700
+            }
+          ]
+        },
+        {
+          "category": "\"MARCH\" ON",
+          "value": 200,
+          "clue": "Founded by F.D.R. in 1938, it works to prevent birth defects",
+          "answer": "the March of Dimes",
+          "isDailyDouble": false,
+          "orderNumber": 16,
+          "correctContestants": [
+            "Diane"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Joel",
+              "score": 0
+            },
+            {
+              "player": "Kevin",
+              "score": 300
+            },
+            {
+              "player": "Diane",
+              "score": 2900
+            }
+          ]
+        },
+        {
+          "category": "\"MARCH\" ON",
+          "value": 300,
+          "clue": "Way of saying \"loony as a spring rabbit\"",
+          "answer": "mad as a March hare",
+          "isDailyDouble": false,
+          "orderNumber": 17,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Kevin"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Joel",
+              "score": 0
+            },
+            {
+              "player": "Kevin",
+              "score": 0
+            },
+            {
+              "player": "Diane",
+              "score": 2900
+            }
+          ]
+        },
+        {
+          "category": "THE '40S",
+          "value": 100,
+          "clue": "In '45, a U.S. bomber crashed into this N.Y. landmark's 79th floor",
+          "answer": "the Empire State Building",
+          "isDailyDouble": false,
+          "orderNumber": 18,
+          "correctContestants": [
+            "Joel"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Joel",
+              "score": 100
+            },
+            {
+              "player": "Kevin",
+              "score": 0
+            },
+            {
+              "player": "Diane",
+              "score": 2900
+            }
+          ]
+        },
+        {
+          "category": "THE '40S",
+          "value": 200,
+          "clue": "Rudy Vallee recorded it in '31 & Sam played it again in Casablanca",
+          "answer": "\"As Time Goes By\"",
+          "isDailyDouble": false,
+          "orderNumber": 19,
+          "correctContestants": [
+            "Diane"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Joel",
+              "score": 100
+            },
+            {
+              "player": "Kevin",
+              "score": 0
+            },
+            {
+              "player": "Diane",
+              "score": 3100
+            }
+          ]
+        },
+        {
+          "category": "THE '40S",
+          "value": 300,
+          "clue": "Body builder Charles Atlas offered to build up the physique of this Indian leader",
+          "answer": "Mahatma Gandhi",
+          "isDailyDouble": false,
+          "orderNumber": 20,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Joel"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Joel",
+              "score": -200
+            },
+            {
+              "player": "Kevin",
+              "score": 0
+            },
+            {
+              "player": "Diane",
+              "score": 3100
+            }
+          ]
+        },
+        {
+          "category": "JAPAN",
+          "value": 100,
+          "clue": "Raw fish dish",
+          "answer": "sushi",
+          "isDailyDouble": false,
+          "orderNumber": 21,
+          "correctContestants": [
+            "Joel"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Joel",
+              "score": -100
+            },
+            {
+              "player": "Kevin",
+              "score": 0
+            },
+            {
+              "player": "Diane",
+              "score": 3100
+            }
+          ]
+        },
+        {
+          "category": "JAPAN",
+          "value": 400,
+          "clue": "The ancient art of paper folding",
+          "answer": "origami",
+          "isDailyDouble": false,
+          "orderNumber": 22,
+          "correctContestants": [
+            "Diane"
+          ],
+          "incorrectContestants": [
+            "Kevin"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Joel",
+              "score": -100
+            },
+            {
+              "player": "Kevin",
+              "score": -400
+            },
+            {
+              "player": "Diane",
+              "score": 3500
+            }
+          ]
+        },
+        {
+          "category": "JAPAN",
+          "value": 500,
+          "clue": "Western name for towering tsunamis, clocked at up to 500 MPH",
+          "answer": "tidal waves",
+          "isDailyDouble": false,
+          "orderNumber": 23,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Joel",
+            "Kevin",
+            "Diane"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Joel",
+              "score": -600
+            },
+            {
+              "player": "Kevin",
+              "score": -900
+            },
+            {
+              "player": "Diane",
+              "score": 3000
+            }
+          ]
+        },
+        {
+          "category": "THE '40S",
+          "value": 400,
+          "clue": "German for \"lightning war\"",
+          "answer": "blitzkrieg",
+          "isDailyDouble": false,
+          "orderNumber": 24,
+          "correctContestants": [
+            "Kevin"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Joel",
+              "score": -600
+            },
+            {
+              "player": "Kevin",
+              "score": -500
+            },
+            {
+              "player": "Diane",
+              "score": 3000
+            }
+          ]
+        },
+        {
+          "category": "JAPAN",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Joel",
+              "score": -600
+            },
+            {
+              "player": "Kevin",
+              "score": -500
+            },
+            {
+              "player": "Diane",
+              "score": 3000
+            }
+          ]
+        },
+        {
+          "category": "BOATS",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Joel",
+              "score": -600
+            },
+            {
+              "player": "Kevin",
+              "score": -500
+            },
+            {
+              "player": "Diane",
+              "score": 3000
+            }
+          ]
+        },
+        {
+          "category": "\"MARCH\" ON",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Joel",
+              "score": -600
+            },
+            {
+              "player": "Kevin",
+              "score": -500
+            },
+            {
+              "player": "Diane",
+              "score": 3000
+            }
+          ]
+        },
+        {
+          "category": "THE '40S",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Joel",
+              "score": -600
+            },
+            {
+              "player": "Kevin",
+              "score": -500
+            },
+            {
+              "player": "Diane",
+              "score": 3000
+            }
+          ]
+        },
+        {
+          "category": "BOATS",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Joel",
+              "score": -600
+            },
+            {
+              "player": "Kevin",
+              "score": -500
+            },
+            {
+              "player": "Diane",
+              "score": 3000
+            }
+          ]
+        },
+        {
+          "category": "\"MARCH\" ON",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Joel",
+              "score": -600
+            },
+            {
+              "player": "Kevin",
+              "score": -500
+            },
+            {
+              "player": "Diane",
+              "score": 3000
+            }
+          ]
+        }
+      ],
+      "firstBreakScores": [
+        {
+          "player": "Joel",
+          "score": 300
+        },
+        {
+          "player": "Kevin",
+          "score": 300
+        },
+        {
+          "player": "Diane",
+          "score": 1500
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "Joel",
+          "score": -600
+        },
+        {
+          "player": "Kevin",
+          "score": -500
+        },
+        {
+          "player": "Diane",
+          "score": 3000
+        }
+      ]
+    },
+    "doubleJeopardy": {
+      "categories": [
+        "COLONIAL AMERICA",
+        "DEMOCRATS",
+        "ANATOMY",
+        "MUSICAL NUMBERS",
+        "RELIGION",
+        "ANY QUESTIONS?"
+      ],
+      "clues": [
+        {
+          "category": "DEMOCRATS",
+          "value": 400,
+          "clue": "Ex-astronaut who's had \"The Right Stuff\" to win 2 Senate terms",
+          "answer": "John Glenn",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Joel",
+              "score": -200
+            },
+            {
+              "player": "Kevin",
+              "score": -500
+            },
+            {
+              "player": "Diane",
+              "score": 3000
+            }
+          ]
+        },
+        {
+          "category": "DEMOCRATS",
+          "value": 600,
+          "clue": "Behatted 3-term N.Y. congresswoman, still active in feminist movement",
+          "answer": "Bella Abzug",
+          "isDailyDouble": false,
+          "orderNumber": 2,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Joel",
+              "score": -200
+            },
+            {
+              "player": "Kevin",
+              "score": -500
+            },
+            {
+              "player": "Diane",
+              "score": 3600
+            }
+          ]
+        },
+        {
+          "category": "MUSICAL NUMBERS",
+          "value": 200,
+          "clue": "These working numbers don't measure up to Dolly Parton",
+          "answer": "\"9 to 5\"",
+          "isDailyDouble": false,
+          "orderNumber": 3,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Joel",
+              "score": -200
+            },
+            {
+              "player": "Kevin",
+              "score": -300
+            },
+            {
+              "player": "Diane",
+              "score": 3600
+            }
+          ]
+        },
+        {
+          "category": "COLONIAL AMERICA",
+          "value": 400,
+          "clue": "Founded by Wm. Penn, it became 2nd largest city in British Empire",
+          "answer": "Philadelphia",
+          "isDailyDouble": false,
+          "orderNumber": 4,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Joel",
+              "score": -600
+            },
+            {
+              "player": "Kevin",
+              "score": 100
+            },
+            {
+              "player": "Diane",
+              "score": 3600
+            }
+          ]
+        },
+        {
+          "category": "COLONIAL AMERICA",
+          "value": 200,
+          "clue": "N.Y.C.'s \"Capital of Black America\", named by Dutch for a city in Holland",
+          "answer": "Harlem",
+          "isDailyDouble": false,
+          "orderNumber": 5,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Joel",
+              "score": -600
+            },
+            {
+              "player": "Kevin",
+              "score": 300
+            },
+            {
+              "player": "Diane",
+              "score": 3600
+            }
+          ]
+        },
+        {
+          "category": "COLONIAL AMERICA",
+          "value": 600,
+          "clue": "Gov. Peter Stuyvesant's Manhattan farm, now the city's skid row",
+          "answer": "the Bowery",
+          "isDailyDouble": false,
+          "orderNumber": 6,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Joel",
+              "score": -1200
+            },
+            {
+              "player": "Kevin",
+              "score": 900
+            },
+            {
+              "player": "Diane",
+              "score": 3600
+            }
+          ]
+        },
+        {
+          "category": "DEMOCRATS",
+          "value": 800,
+          "clue": "For the past 8 years, John D. Rockefeller IV has been gov. of this state",
+          "answer": "West Virginia",
+          "isDailyDouble": false,
+          "orderNumber": 7,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Joel",
+              "score": -400
+            },
+            {
+              "player": "Kevin",
+              "score": 900
+            },
+            {
+              "player": "Diane",
+              "score": 3600
+            }
+          ]
+        },
+        {
+          "category": "DEMOCRATS",
+          "value": 1000,
+          "clue": "Senator who tried for '84 pres. nomination was once sued by Adolf Hitler",
+          "answer": "Alan Cranston",
+          "isDailyDouble": false,
+          "orderNumber": 8,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Joel",
+              "score": -1400
+            },
+            {
+              "player": "Kevin",
+              "score": 900
+            },
+            {
+              "player": "Diane",
+              "score": 3600
+            }
+          ]
+        },
+        {
+          "category": "ANATOMY",
+          "value": 600,
+          "clue": "The sclera; Bunker Hill patriots were ordered not to fire before seeing it",
+          "answer": "the whites of their eyes",
+          "isDailyDouble": false,
+          "orderNumber": 9,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Joel",
+              "score": -800
+            },
+            {
+              "player": "Kevin",
+              "score": 900
+            },
+            {
+              "player": "Diane",
+              "score": 3600
+            }
+          ]
+        },
+        {
+          "category": "ANATOMY",
+          "value": 800,
+          "clue": "Peristalsis lets you do this while standing on your head",
+          "answer": "swallowing",
+          "isDailyDouble": false,
+          "orderNumber": 10,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Kevin"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Joel",
+              "score": -1600
+            },
+            {
+              "player": "Kevin",
+              "score": 100
+            },
+            {
+              "player": "Diane",
+              "score": 3600
+            }
+          ]
+        },
+        {
+          "category": "RELIGION",
+          "value": 600,
+          "clue": "Denomination Reverend Jesse Jackson is minister of",
+          "answer": "Baptist",
+          "isDailyDouble": false,
+          "orderNumber": 11,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Joel",
+              "score": -1000
+            },
+            {
+              "player": "Kevin",
+              "score": 100
+            },
+            {
+              "player": "Diane",
+              "score": 3600
+            }
+          ]
+        },
+        {
+          "category": "RELIGION",
+          "value": 1000,
+          "clue": "Mormons believe they're Amer. Indians; others say they're Japanese or Anglo-Saxons",
+          "answer": "the 10 lost tribes of Israel",
+          "isDailyDouble": true,
+          "orderNumber": 12,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Joel",
+              "score": -2000
+            },
+            {
+              "player": "Kevin",
+              "score": 100
+            },
+            {
+              "player": "Diane",
+              "score": 3600
+            }
+          ]
+        },
+        {
+          "category": "RELIGION",
+          "value": 1000,
+          "clue": "Belief in a deity is not part of its 8-fold path to nirvana",
+          "answer": "Buddhism",
+          "isDailyDouble": false,
+          "orderNumber": 13,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Joel",
+              "score": -3000
+            },
+            {
+              "player": "Kevin",
+              "score": 100
+            },
+            {
+              "player": "Diane",
+              "score": 4600
+            }
+          ]
+        },
+        {
+          "category": "MUSICAL NUMBERS",
+          "value": 400,
+          "clue": "Janis Ian learned the truth at this tender age",
+          "answer": "\"At Seventeen\"",
+          "isDailyDouble": false,
+          "orderNumber": 14,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Joel",
+              "score": -3000
+            },
+            {
+              "player": "Kevin",
+              "score": 100
+            },
+            {
+              "player": "Diane",
+              "score": 5000
+            }
+          ]
+        },
+        {
+          "category": "MUSICAL NUMBERS",
+          "value": 600,
+          "clue": "Hall & Oates played music, not basketball, thus way",
+          "answer": "\"One on One\"",
+          "isDailyDouble": false,
+          "orderNumber": 15,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Joel",
+              "score": -3000
+            },
+            {
+              "player": "Kevin",
+              "score": 700
+            },
+            {
+              "player": "Diane",
+              "score": 5000
+            }
+          ]
+        },
+        {
+          "category": "COLONIAL AMERICA",
+          "value": 800,
+          "clue": "\"Pennsylvania Dutch\" settlers came from there",
+          "answer": "Germany",
+          "isDailyDouble": false,
+          "orderNumber": 16,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Joel",
+              "score": -3000
+            },
+            {
+              "player": "Kevin",
+              "score": 1500
+            },
+            {
+              "player": "Diane",
+              "score": 5000
+            }
+          ]
+        },
+        {
+          "category": "RELIGION",
+          "value": 400,
+          "clue": "Eastern rite of Christianity or oldest branch of Judaism",
+          "answer": "Orthodox",
+          "isDailyDouble": false,
+          "orderNumber": 17,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Joel",
+              "score": -3000
+            },
+            {
+              "player": "Kevin",
+              "score": 1500
+            },
+            {
+              "player": "Diane",
+              "score": 5400
+            }
+          ]
+        },
+        {
+          "category": "MUSICAL NUMBERS",
+          "value": 800,
+          "clue": "Total of \"The Freshmen\" & \"The Preps\"",
+          "answer": "8",
+          "isDailyDouble": false,
+          "orderNumber": 18,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Joel",
+              "score": -3000
+            },
+            {
+              "player": "Kevin",
+              "score": 2300
+            },
+            {
+              "player": "Diane",
+              "score": 5400
+            }
+          ]
+        },
+        {
+          "category": "COLONIAL AMERICA",
+          "value": 1000,
+          "clue": "Slavery was at first banned in this southern colony founded by Oglethorpe",
+          "answer": "Georgia",
+          "isDailyDouble": false,
+          "orderNumber": 19,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Joel",
+              "score": -2000
+            },
+            {
+              "player": "Kevin",
+              "score": 2300
+            },
+            {
+              "player": "Diane",
+              "score": 5400
+            }
+          ]
+        },
+        {
+          "category": "DEMOCRATS",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Joel",
+              "score": -2000
+            },
+            {
+              "player": "Kevin",
+              "score": 2300
+            },
+            {
+              "player": "Diane",
+              "score": 5400
+            }
+          ]
+        },
+        {
+          "category": "ANATOMY",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Joel",
+              "score": -2000
+            },
+            {
+              "player": "Kevin",
+              "score": 2300
+            },
+            {
+              "player": "Diane",
+              "score": 5400
+            }
+          ]
+        },
+        {
+          "category": "RELIGION",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Joel",
+              "score": -2000
+            },
+            {
+              "player": "Kevin",
+              "score": 2300
+            },
+            {
+              "player": "Diane",
+              "score": 5400
+            }
+          ]
+        },
+        {
+          "category": "ANY QUESTIONS?",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Joel",
+              "score": -2000
+            },
+            {
+              "player": "Kevin",
+              "score": 2300
+            },
+            {
+              "player": "Diane",
+              "score": 5400
+            }
+          ]
+        },
+        {
+          "category": "ANATOMY",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Joel",
+              "score": -2000
+            },
+            {
+              "player": "Kevin",
+              "score": 2300
+            },
+            {
+              "player": "Diane",
+              "score": 5400
+            }
+          ]
+        },
+        {
+          "category": "ANY QUESTIONS?",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Joel",
+              "score": -2000
+            },
+            {
+              "player": "Kevin",
+              "score": 2300
+            },
+            {
+              "player": "Diane",
+              "score": 5400
+            }
+          ]
+        },
+        {
+          "category": "ANY QUESTIONS?",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Joel",
+              "score": -2000
+            },
+            {
+              "player": "Kevin",
+              "score": 2300
+            },
+            {
+              "player": "Diane",
+              "score": 5400
+            }
+          ]
+        },
+        {
+          "category": "ANY QUESTIONS?",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Joel",
+              "score": -2000
+            },
+            {
+              "player": "Kevin",
+              "score": 2300
+            },
+            {
+              "player": "Diane",
+              "score": 5400
+            }
+          ]
+        },
+        {
+          "category": "ANATOMY",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Joel",
+              "score": -2000
+            },
+            {
+              "player": "Kevin",
+              "score": 2300
+            },
+            {
+              "player": "Diane",
+              "score": 5400
+            }
+          ]
+        },
+        {
+          "category": "MUSICAL NUMBERS",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Joel",
+              "score": -2000
+            },
+            {
+              "player": "Kevin",
+              "score": 2300
+            },
+            {
+              "player": "Diane",
+              "score": 5400
+            }
+          ]
+        },
+        {
+          "category": "ANY QUESTIONS?",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Joel",
+              "score": -2000
+            },
+            {
+              "player": "Kevin",
+              "score": 2300
+            },
+            {
+              "player": "Diane",
+              "score": 5400
+            }
+          ]
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "Joel",
+          "score": -2000
+        },
+        {
+          "player": "Kevin",
+          "score": 2300
+        },
+        {
+          "player": "Diane",
+          "score": 5400
+        }
+      ]
+    },
+    "finalJeopardy": {
+      "category": "THE ARMED SERVICES",
+      "clue": "The last military branch to be established",
+      "answer": "United States Air Force",
+      "responses": [
+        {
+          "contestant": "Kevin",
+          "response": "What is the Air Force",
+          "isCorrect": true,
+          "isIncorrect": false,
+          "value": 2295,
+          "finalScore": 4595
+        },
+        {
+          "contestant": "Diane",
+          "response": "What is the Air Force?",
+          "isCorrect": true,
+          "isIncorrect": false,
+          "value": 400,
+          "finalScore": 5800
+        }
+      ]
+    }
+  },
+  "finalScores": [
+    {
+      "player": "Joel",
+      "score": "-$2,000"
+    },
+    {
+      "player": "Kevin",
+      "score": "$4,595"
+    },
+    {
+      "player": "Diane",
+      "score": "$5,800"
+    }
+  ],
+  "coryatScores": [
+    {
+      "player": "Joel",
+      "score": -1000
+    },
+    {
+      "player": "Kevin",
+      "score": 2300
+    },
+    {
+      "player": "Diane",
+      "score": 5400
+    }
+  ]
+}

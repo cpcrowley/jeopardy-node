@@ -1,0 +1,1695 @@
+{
+  "gameId": 6202,
+  "showNumber": "7916",
+  "title": "Show #7916 - Monday, January 28, 2019",
+  "date": "2019-01-28",
+  "comments": "",
+  "contestants": [
+    "Steve-O",
+    "Jill",
+    "Saurabh"
+  ],
+  "rounds": {
+    "jeopardy": {
+      "categories": [
+        "PLANT THE FLAG",
+        "CELEBRITIES: THEY'RE JUST LIKE US!",
+        "NONFICTION",
+        "BLACKJACK",
+        "\"ACE\" SHOWING",
+        "INSURANCE"
+      ],
+      "clues": [
+        {
+          "category": "BLACKJACK",
+          "value": 200,
+          "clue": "Sometimes it's \"on the other foot\", but in blackjack, it's a contraption from which cards are dealt",
+          "answer": "the shoe",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [
+            "Steve-O"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve-O",
+              "score": 200
+            },
+            {
+              "player": "Jill",
+              "score": 0
+            },
+            {
+              "player": "Saurabh",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "BLACKJACK",
+          "value": 400,
+          "clue": "The $5 blackjack tables are a lower-budget option at this double-talk casino opened in 1968 on the Vegas Strip",
+          "answer": "Circus Circus",
+          "isDailyDouble": false,
+          "orderNumber": 2,
+          "correctContestants": [
+            "Jill"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve-O",
+              "score": 200
+            },
+            {
+              "player": "Jill",
+              "score": 400
+            },
+            {
+              "player": "Saurabh",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "BLACKJACK",
+          "value": 600,
+          "clue": "Sure you can buy insurance if the dealer shows an ace on top, or you can do this & lose half your bet, no white flag needed",
+          "answer": "surrender",
+          "isDailyDouble": false,
+          "orderNumber": 3,
+          "correctContestants": [
+            "Jill"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve-O",
+              "score": 200
+            },
+            {
+              "player": "Jill",
+              "score": 1000
+            },
+            {
+              "player": "Saurabh",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "NONFICTION",
+          "value": 200,
+          "clue": "In \"Word by Word\", Kory Stamper tells \"The Secret Life of\" these reference books from Merriam-Webster",
+          "answer": "dictionaries",
+          "isDailyDouble": false,
+          "orderNumber": 4,
+          "correctContestants": [
+            "Steve-O"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve-O",
+              "score": 400
+            },
+            {
+              "player": "Jill",
+              "score": 1000
+            },
+            {
+              "player": "Saurabh",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "BLACKJACK",
+          "value": 800,
+          "clue": "The movie \"21\" told of students at this university who were trained to count cards & took Vegas for millions",
+          "answer": "MIT",
+          "isDailyDouble": false,
+          "orderNumber": 5,
+          "correctContestants": [
+            "Saurabh"
+          ],
+          "incorrectContestants": [
+            "Steve-O"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve-O",
+              "score": -400
+            },
+            {
+              "player": "Jill",
+              "score": 1000
+            },
+            {
+              "player": "Saurabh",
+              "score": 800
+            }
+          ]
+        },
+        {
+          "category": "PLANT THE FLAG",
+          "value": 200,
+          "clue": "On Guatemala's flag, victory is symbolized by a wreath of this",
+          "answer": "a laurel wreath",
+          "isDailyDouble": false,
+          "orderNumber": 6,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Steve-O",
+              "score": -400
+            },
+            {
+              "player": "Jill",
+              "score": 1000
+            },
+            {
+              "player": "Saurabh",
+              "score": 800
+            }
+          ]
+        },
+        {
+          "category": "CELEBRITIES: THEY'RE JUST LIKE US!",
+          "value": 200,
+          "clue": "Ah, date night! In 2011 Justin Bieber rented this L.A. Lakers home arena to screen \"Titanic\" for Selena Gomez; that was easy!",
+          "answer": "the Staples Center",
+          "isDailyDouble": false,
+          "orderNumber": 7,
+          "correctContestants": [
+            "Steve-O"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve-O",
+              "score": -200
+            },
+            {
+              "player": "Jill",
+              "score": 1000
+            },
+            {
+              "player": "Saurabh",
+              "score": 800
+            }
+          ]
+        },
+        {
+          "category": "BLACKJACK",
+          "value": 1000,
+          "clue": "Aces can be used as one or an 11, but when you're using an ace as an 11, your total is deemed this \"comfy\" adjective",
+          "answer": "soft",
+          "isDailyDouble": false,
+          "orderNumber": 8,
+          "correctContestants": [
+            "Steve-O"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve-O",
+              "score": 800
+            },
+            {
+              "player": "Jill",
+              "score": 1000
+            },
+            {
+              "player": "Saurabh",
+              "score": 800
+            }
+          ]
+        },
+        {
+          "category": "NONFICTION",
+          "value": 400,
+          "clue": "As CEO, Howard Schultz wrote \"Onward\" about this coffee behemoth",
+          "answer": "Starbucks",
+          "isDailyDouble": false,
+          "orderNumber": 9,
+          "correctContestants": [
+            "Steve-O"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve-O",
+              "score": 1200
+            },
+            {
+              "player": "Jill",
+              "score": 1000
+            },
+            {
+              "player": "Saurabh",
+              "score": 800
+            }
+          ]
+        },
+        {
+          "category": "NONFICTION",
+          "value": 600,
+          "clue": "\"The Gatekeepers\" examines how the men with this title, like Rahm Emanuel & Dick Cheney, define every presidency",
+          "answer": "chief of staff",
+          "isDailyDouble": false,
+          "orderNumber": 10,
+          "correctContestants": [
+            "Saurabh"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve-O",
+              "score": 1200
+            },
+            {
+              "player": "Jill",
+              "score": 1000
+            },
+            {
+              "player": "Saurabh",
+              "score": 1400
+            }
+          ]
+        },
+        {
+          "category": "NONFICTION",
+          "value": 800,
+          "clue": "This hashtag is the title of a memoir by David & Lauren Hogg, students at Marjory Stoneman Douglas High School",
+          "answer": "#NeverAgain",
+          "isDailyDouble": false,
+          "orderNumber": 11,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Steve-O",
+              "score": 1200
+            },
+            {
+              "player": "Jill",
+              "score": 1000
+            },
+            {
+              "player": "Saurabh",
+              "score": 1400
+            }
+          ]
+        },
+        {
+          "category": "\"ACE\" SHOWING",
+          "value": 200,
+          "clue": "It's the elegant item seen here",
+          "answer": "a place card",
+          "isDailyDouble": false,
+          "orderNumber": 12,
+          "correctContestants": [
+            "Steve-O"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve-O",
+              "score": 1400
+            },
+            {
+              "player": "Jill",
+              "score": 1000
+            },
+            {
+              "player": "Saurabh",
+              "score": 1400
+            }
+          ]
+        },
+        {
+          "category": "\"ACE\" SHOWING",
+          "value": 400,
+          "clue": "If you make a mistake on a computer, this key is key",
+          "answer": "backspace",
+          "isDailyDouble": false,
+          "orderNumber": 13,
+          "correctContestants": [
+            "Steve-O"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve-O",
+              "score": 1800
+            },
+            {
+              "player": "Jill",
+              "score": 1000
+            },
+            {
+              "player": "Saurabh",
+              "score": 1400
+            }
+          ]
+        },
+        {
+          "category": "\"ACE\" SHOWING",
+          "value": 600,
+          "clue": "There's a spud in the name of this classic American contest",
+          "answer": "a potato sack race",
+          "isDailyDouble": false,
+          "orderNumber": 14,
+          "correctContestants": [
+            "Saurabh"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve-O",
+              "score": 1800
+            },
+            {
+              "player": "Jill",
+              "score": 1000
+            },
+            {
+              "player": "Saurabh",
+              "score": 2000
+            }
+          ]
+        },
+        {
+          "category": "\"ACE\" SHOWING",
+          "value": 800,
+          "clue": "Science-y term for a turtle's top",
+          "answer": "a carapace",
+          "isDailyDouble": false,
+          "orderNumber": 15,
+          "correctContestants": [
+            "Steve-O"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve-O",
+              "score": 2600
+            },
+            {
+              "player": "Jill",
+              "score": 1000
+            },
+            {
+              "player": "Saurabh",
+              "score": 2000
+            }
+          ]
+        },
+        {
+          "category": "\"ACE\" SHOWING",
+          "value": 1000,
+          "clue": "This longtime co-star of \"That '70s Show\" played a different kind of '70s guy in \"BlacKkKlansman\"",
+          "answer": "Topher Grace",
+          "isDailyDouble": false,
+          "orderNumber": 16,
+          "correctContestants": [
+            "Saurabh"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve-O",
+              "score": 2600
+            },
+            {
+              "player": "Jill",
+              "score": 1000
+            },
+            {
+              "player": "Saurabh",
+              "score": 3000
+            }
+          ]
+        },
+        {
+          "category": "INSURANCE",
+          "value": 200,
+          "clue": "A comprehensive 1914 house policy from Lloyd's guarded against riots, airships & damage caused by these women",
+          "answer": "suffragettes",
+          "isDailyDouble": false,
+          "orderNumber": 17,
+          "correctContestants": [
+            "Jill"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve-O",
+              "score": 2600
+            },
+            {
+              "player": "Jill",
+              "score": 1200
+            },
+            {
+              "player": "Saurabh",
+              "score": 3000
+            }
+          ]
+        },
+        {
+          "category": "INSURANCE",
+          "value": 1200,
+          "clue": "A life insurance clause paying twice the face value of the policy for an accidental death is called this, also a film title",
+          "answer": "double indemnity",
+          "isDailyDouble": true,
+          "orderNumber": 18,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Jill"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve-O",
+              "score": 2600
+            },
+            {
+              "player": "Jill",
+              "score": 0
+            },
+            {
+              "player": "Saurabh",
+              "score": 3000
+            }
+          ]
+        },
+        {
+          "category": "INSURANCE",
+          "value": 600,
+          "clue": "If an oops has you coming up minus a few fingers, check your policy for accidental death & this other \"D\"",
+          "answer": "dismemberment",
+          "isDailyDouble": false,
+          "orderNumber": 19,
+          "correctContestants": [
+            "Jill"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve-O",
+              "score": 2600
+            },
+            {
+              "player": "Jill",
+              "score": 600
+            },
+            {
+              "player": "Saurabh",
+              "score": 3000
+            }
+          ]
+        },
+        {
+          "category": "INSURANCE",
+          "value": 800,
+          "clue": "The main job of this \"act\"ion hero is to assess risk that's used to calculate premiums",
+          "answer": "an actuary",
+          "isDailyDouble": false,
+          "orderNumber": 20,
+          "correctContestants": [
+            "Jill"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve-O",
+              "score": 2600
+            },
+            {
+              "player": "Jill",
+              "score": 1400
+            },
+            {
+              "player": "Saurabh",
+              "score": 3000
+            }
+          ]
+        },
+        {
+          "category": "INSURANCE",
+          "value": 1000,
+          "clue": "This federal agency administers the National Flood Insurance Program",
+          "answer": "FEMA",
+          "isDailyDouble": false,
+          "orderNumber": 21,
+          "correctContestants": [
+            "Jill"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve-O",
+              "score": 2600
+            },
+            {
+              "player": "Jill",
+              "score": 2400
+            },
+            {
+              "player": "Saurabh",
+              "score": 3000
+            }
+          ]
+        },
+        {
+          "category": "NONFICTION",
+          "value": 1000,
+          "clue": "\"Seabiscuit\", a colossal bestseller, was her first book",
+          "answer": "Laura Hillenbrand",
+          "isDailyDouble": false,
+          "orderNumber": 22,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Steve-O",
+              "score": 2600
+            },
+            {
+              "player": "Jill",
+              "score": 2400
+            },
+            {
+              "player": "Saurabh",
+              "score": 3000
+            }
+          ]
+        },
+        {
+          "category": "PLANT THE FLAG",
+          "value": 400,
+          "clue": "Fiji's flag shows a coconut palm & a bunch of these fruits",
+          "answer": "bananas",
+          "isDailyDouble": false,
+          "orderNumber": 23,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Saurabh"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Steve-O",
+              "score": 2600
+            },
+            {
+              "player": "Jill",
+              "score": 2400
+            },
+            {
+              "player": "Saurabh",
+              "score": 2600
+            }
+          ]
+        },
+        {
+          "category": "PLANT THE FLAG",
+          "value": 600,
+          "clue": "One of these flowers beams over the flag of Kansas",
+          "answer": "sunflowers",
+          "isDailyDouble": false,
+          "orderNumber": 24,
+          "correctContestants": [
+            "Jill"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve-O",
+              "score": 2600
+            },
+            {
+              "player": "Jill",
+              "score": 3000
+            },
+            {
+              "player": "Saurabh",
+              "score": 2600
+            }
+          ]
+        },
+        {
+          "category": "PLANT THE FLAG",
+          "value": 800,
+          "clue": "You won't find one of these on France's flag, but you'll find 4 on Quebec's",
+          "answer": "a fleur-de-lis",
+          "isDailyDouble": false,
+          "orderNumber": 25,
+          "correctContestants": [
+            "Steve-O"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve-O",
+              "score": 3400
+            },
+            {
+              "player": "Jill",
+              "score": 3000
+            },
+            {
+              "player": "Saurabh",
+              "score": 2600
+            }
+          ]
+        },
+        {
+          "category": "PLANT THE FLAG",
+          "value": 1000,
+          "clue": "A white one of these aquatic flowers floats on the flag of Macau",
+          "answer": "a lotus",
+          "isDailyDouble": false,
+          "orderNumber": 26,
+          "correctContestants": [
+            "Jill"
+          ],
+          "incorrectContestants": [
+            "Saurabh"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve-O",
+              "score": 3400
+            },
+            {
+              "player": "Jill",
+              "score": 4000
+            },
+            {
+              "player": "Saurabh",
+              "score": 1600
+            }
+          ]
+        },
+        {
+          "category": "CELEBRITIES: THEY'RE JUST LIKE US!",
+          "value": 400,
+          "clue": "With a reported $2 million a month in spending--$30,000 on wine alone--Mr. Depp might return to play Capt. Jack in this film series",
+          "answer": "Pirates of the Caribbean",
+          "isDailyDouble": false,
+          "orderNumber": 27,
+          "correctContestants": [
+            "Jill"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve-O",
+              "score": 3400
+            },
+            {
+              "player": "Jill",
+              "score": 4400
+            },
+            {
+              "player": "Saurabh",
+              "score": 1600
+            }
+          ]
+        },
+        {
+          "category": "CELEBRITIES: THEY'RE JUST LIKE US!",
+          "value": 600,
+          "clue": "If you were a heavyweight champ like him & made $400 million in 20 years, you'd buy Bengal tigers & a $2 mil. bathtub, too!",
+          "answer": "Mike Tyson",
+          "isDailyDouble": false,
+          "orderNumber": 28,
+          "correctContestants": [
+            "Steve-O"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve-O",
+              "score": 4000
+            },
+            {
+              "player": "Jill",
+              "score": 4400
+            },
+            {
+              "player": "Saurabh",
+              "score": 1600
+            }
+          ]
+        },
+        {
+          "category": "CELEBRITIES: THEY'RE JUST LIKE US!",
+          "value": 800,
+          "clue": "\"Mercy, Mercy, Me!\" This late Motown singer did an album called \"Here, My Dear\" to pay for his divorce",
+          "answer": "Marvin Gaye",
+          "isDailyDouble": false,
+          "orderNumber": 29,
+          "correctContestants": [
+            "Saurabh"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve-O",
+              "score": 4000
+            },
+            {
+              "player": "Jill",
+              "score": 4400
+            },
+            {
+              "player": "Saurabh",
+              "score": 2400
+            }
+          ]
+        },
+        {
+          "category": "CELEBRITIES: THEY'RE JUST LIKE US!",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve-O",
+              "score": 4000
+            },
+            {
+              "player": "Jill",
+              "score": 4400
+            },
+            {
+              "player": "Saurabh",
+              "score": 2400
+            }
+          ]
+        }
+      ],
+      "firstBreakScores": [
+        {
+          "player": "Steve-O",
+          "score": 2600
+        },
+        {
+          "player": "Jill",
+          "score": 1000
+        },
+        {
+          "player": "Saurabh",
+          "score": 2000
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "Steve-O",
+          "score": 4000
+        },
+        {
+          "player": "Jill",
+          "score": 4400
+        },
+        {
+          "player": "Saurabh",
+          "score": 2400
+        }
+      ]
+    },
+    "doubleJeopardy": {
+      "categories": [
+        "GODS & GODDESSES",
+        "THE TV BIZ",
+        "GEOGRAPH\"E\"",
+        "AWARD ETYMOLOGY",
+        "WORLD LEADERS OF 2018",
+        "OXYMORONS"
+      ],
+      "clues": [
+        {
+          "category": "GEOGRAPH\"E\"",
+          "value": 400,
+          "clue": "For La Paz, Bolivia, it's over 11,900 feet, tops for any capital city in the world",
+          "answer": "the elevation",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve-O",
+              "score": 4400
+            },
+            {
+              "player": "Jill",
+              "score": 4400
+            },
+            {
+              "player": "Saurabh",
+              "score": 2400
+            }
+          ]
+        },
+        {
+          "category": "GODS & GODDESSES",
+          "value": 800,
+          "clue": "This Egyptian goddess was called \"the female Ra\"",
+          "answer": "Isis",
+          "isDailyDouble": false,
+          "orderNumber": 2,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve-O",
+              "score": 4400
+            },
+            {
+              "player": "Jill",
+              "score": 5200
+            },
+            {
+              "player": "Saurabh",
+              "score": 2400
+            }
+          ]
+        },
+        {
+          "category": "GODS & GODDESSES",
+          "value": 1200,
+          "clue": "Dagda, a god of these people of Iron Age Ireland, had a handy magic cauldron called Undry that could feed the planet",
+          "answer": "the Celts",
+          "isDailyDouble": false,
+          "orderNumber": 3,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve-O",
+              "score": 5600
+            },
+            {
+              "player": "Jill",
+              "score": 5200
+            },
+            {
+              "player": "Saurabh",
+              "score": 2400
+            }
+          ]
+        },
+        {
+          "category": "GODS & GODDESSES",
+          "value": 3000,
+          "clue": "One of Rome's oldest temples was the one of this chief god on the Capitoline Hill",
+          "answer": "Jupiter",
+          "isDailyDouble": true,
+          "orderNumber": 4,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve-O",
+              "score": 8600
+            },
+            {
+              "player": "Jill",
+              "score": 5200
+            },
+            {
+              "player": "Saurabh",
+              "score": 2400
+            }
+          ]
+        },
+        {
+          "category": "GODS & GODDESSES",
+          "value": 2000,
+          "clue": "The Aztecs revered this feathered serpent god as the patron of priests, but his Q rating has gone down since then",
+          "answer": "Quetzalcoatl",
+          "isDailyDouble": false,
+          "orderNumber": 5,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve-O",
+              "score": 10600
+            },
+            {
+              "player": "Jill",
+              "score": 5200
+            },
+            {
+              "player": "Saurabh",
+              "score": 2400
+            }
+          ]
+        },
+        {
+          "category": "GEOGRAPH\"E\"",
+          "value": 4000,
+          "clue": "(Jimmy of the Clue Crew shows a coastal body of water on the monitor.) Seen here is an example of this, a partly enclosed coastal body of water where river water mixes with sea water",
+          "answer": "an estuary",
+          "isDailyDouble": true,
+          "orderNumber": 6,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve-O",
+              "score": 14600
+            },
+            {
+              "player": "Jill",
+              "score": 5200
+            },
+            {
+              "player": "Saurabh",
+              "score": 2400
+            }
+          ]
+        },
+        {
+          "category": "GEOGRAPH\"E\"",
+          "value": 1200,
+          "clue": "Found on the North Saskatchewan River, this petroleum & meatpacking city was established as a fort in 1795",
+          "answer": "Edmonton",
+          "isDailyDouble": false,
+          "orderNumber": 7,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve-O",
+              "score": 14600
+            },
+            {
+              "player": "Jill",
+              "score": 6400
+            },
+            {
+              "player": "Saurabh",
+              "score": 2400
+            }
+          ]
+        },
+        {
+          "category": "GEOGRAPH\"E\"",
+          "value": 1600,
+          "clue": "Kaliningrad is one of these territories for Russia, part of the nation, but not directly attached to it",
+          "answer": "an exclave",
+          "isDailyDouble": false,
+          "orderNumber": 8,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve-O",
+              "score": 14600
+            },
+            {
+              "player": "Jill",
+              "score": 8000
+            },
+            {
+              "player": "Saurabh",
+              "score": 2400
+            }
+          ]
+        },
+        {
+          "category": "GEOGRAPH\"E\"",
+          "value": 2000,
+          "clue": "This seaport about 25 miles north of Seattle is home to aircraft & technology industries, like Boeing",
+          "answer": "Everett",
+          "isDailyDouble": false,
+          "orderNumber": 9,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve-O",
+              "score": 14600
+            },
+            {
+              "player": "Jill",
+              "score": 10000
+            },
+            {
+              "player": "Saurabh",
+              "score": 2400
+            }
+          ]
+        },
+        {
+          "category": "AWARD ETYMOLOGY",
+          "value": 400,
+          "clue": "The Razzie Awards for bad movies are short for \"Golden\" these",
+          "answer": "raspberries",
+          "isDailyDouble": false,
+          "orderNumber": 10,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve-O",
+              "score": 14600
+            },
+            {
+              "player": "Jill",
+              "score": 10400
+            },
+            {
+              "player": "Saurabh",
+              "score": 2400
+            }
+          ]
+        },
+        {
+          "category": "AWARD ETYMOLOGY",
+          "value": 800,
+          "clue": "The \"OB\" in the Obie Theater Awards is short for these 2 words",
+          "answer": "off Broadway",
+          "isDailyDouble": false,
+          "orderNumber": 11,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve-O",
+              "score": 14600
+            },
+            {
+              "player": "Jill",
+              "score": 11200
+            },
+            {
+              "player": "Saurabh",
+              "score": 2400
+            }
+          ]
+        },
+        {
+          "category": "AWARD ETYMOLOGY",
+          "value": 1200,
+          "clue": "The Tony Award is short for this first name of actress-producer Perry",
+          "answer": "Antoinette",
+          "isDailyDouble": false,
+          "orderNumber": 12,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve-O",
+              "score": 14600
+            },
+            {
+              "player": "Jill",
+              "score": 12400
+            },
+            {
+              "player": "Saurabh",
+              "score": 2400
+            }
+          ]
+        },
+        {
+          "category": "AWARD ETYMOLOGY",
+          "value": 1600,
+          "clue": "This 18th century publisher of books & of Lilliputian, a magazine for kids, has his name on a children's book medal",
+          "answer": "John Newbery",
+          "isDailyDouble": false,
+          "orderNumber": 13,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Steve-O",
+              "score": 13000
+            },
+            {
+              "player": "Jill",
+              "score": 12400
+            },
+            {
+              "player": "Saurabh",
+              "score": 2400
+            }
+          ]
+        },
+        {
+          "category": "AWARD ETYMOLOGY",
+          "value": 2000,
+          "clue": "These advertising awards were named for the muse of history",
+          "answer": "Clios",
+          "isDailyDouble": false,
+          "orderNumber": 14,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve-O",
+              "score": 15000
+            },
+            {
+              "player": "Jill",
+              "score": 12400
+            },
+            {
+              "player": "Saurabh",
+              "score": 2400
+            }
+          ]
+        },
+        {
+          "category": "GODS & GODDESSES",
+          "value": 400,
+          "clue": "Half-man, half-goat, all musician; this Greek fertility god was said to be a son of Hermes",
+          "answer": "Pan",
+          "isDailyDouble": false,
+          "orderNumber": 15,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve-O",
+              "score": 15400
+            },
+            {
+              "player": "Jill",
+              "score": 12400
+            },
+            {
+              "player": "Saurabh",
+              "score": 2400
+            }
+          ]
+        },
+        {
+          "category": "OXYMORONS",
+          "value": 400,
+          "clue": "Jacksonville's minor league baseball team is named this, a classic shellfish oxymoron",
+          "answer": "the Jumbo Shrimp",
+          "isDailyDouble": false,
+          "orderNumber": 16,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve-O",
+              "score": 15800
+            },
+            {
+              "player": "Jill",
+              "score": 12400
+            },
+            {
+              "player": "Saurabh",
+              "score": 2400
+            }
+          ]
+        },
+        {
+          "category": "OXYMORONS",
+          "value": 800,
+          "clue": "Temperature ranging oxymorons include freezer burn & this ointment brand Shaq uses for muscle pain",
+          "answer": "Icy Hot",
+          "isDailyDouble": false,
+          "orderNumber": 17,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve-O",
+              "score": 15800
+            },
+            {
+              "player": "Jill",
+              "score": 13200
+            },
+            {
+              "player": "Saurabh",
+              "score": 2400
+            }
+          ]
+        },
+        {
+          "category": "OXYMORONS",
+          "value": 1200,
+          "clue": "This alliterative phrase precedes \"Charlie Brown\" in the title of a collection of \"Peanuts\" comic strips",
+          "answer": "good grief",
+          "isDailyDouble": false,
+          "orderNumber": 18,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Steve-O",
+              "score": 15800
+            },
+            {
+              "player": "Jill",
+              "score": 13200
+            },
+            {
+              "player": "Saurabh",
+              "score": 2400
+            }
+          ]
+        },
+        {
+          "category": "OXYMORONS",
+          "value": 1600,
+          "clue": "Elmer's makes a \"no-wrinkle\" gooey adhesive called this, 2 very different materials",
+          "answer": "rubber cement",
+          "isDailyDouble": false,
+          "orderNumber": 19,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Steve-O",
+              "score": 14200
+            },
+            {
+              "player": "Jill",
+              "score": 13200
+            },
+            {
+              "player": "Saurabh",
+              "score": 2400
+            }
+          ]
+        },
+        {
+          "category": "OXYMORONS",
+          "value": 2000,
+          "clue": "It was an art style in the 1920s before it was the literary genre of Latin American writers like Jorge Luis Borges",
+          "answer": "magical realism",
+          "isDailyDouble": false,
+          "orderNumber": 20,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve-O",
+              "score": 16200
+            },
+            {
+              "player": "Jill",
+              "score": 13200
+            },
+            {
+              "player": "Saurabh",
+              "score": 2400
+            }
+          ]
+        },
+        {
+          "category": "THE TV BIZ",
+          "value": 400,
+          "clue": "Often caused by a breaking news story, it's the replacement of a previously scheduled TV broadcast",
+          "answer": "pre-emptions",
+          "isDailyDouble": false,
+          "orderNumber": 21,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Steve-O",
+              "score": 16200
+            },
+            {
+              "player": "Jill",
+              "score": 13200
+            },
+            {
+              "player": "Saurabh",
+              "score": 2400
+            }
+          ]
+        },
+        {
+          "category": "THE TV BIZ",
+          "value": 800,
+          "clue": "Sinclair Broadcasting owns about 200 local stations & this sports channel that takes you onto center court",
+          "answer": "the Tennis Channel",
+          "isDailyDouble": false,
+          "orderNumber": 22,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve-O",
+              "score": 17000
+            },
+            {
+              "player": "Jill",
+              "score": 13200
+            },
+            {
+              "player": "Saurabh",
+              "score": 2400
+            }
+          ]
+        },
+        {
+          "category": "THE TV BIZ",
+          "value": 1200,
+          "clue": "Started by NBC & News Corp. to rerun old favorites, this streaming service launched its 1st original scripted show in 2012",
+          "answer": "Hulu",
+          "isDailyDouble": false,
+          "orderNumber": 23,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve-O",
+              "score": 17000
+            },
+            {
+              "player": "Jill",
+              "score": 14400
+            },
+            {
+              "player": "Saurabh",
+              "score": 2400
+            }
+          ]
+        },
+        {
+          "category": "THE TV BIZ",
+          "value": 1600,
+          "clue": "La que nos une, \"The one that unites us\", is the motto of this network claiming 63% of the U.S. Hispanic TV market",
+          "answer": "Univision",
+          "isDailyDouble": false,
+          "orderNumber": 24,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve-O",
+              "score": 17000
+            },
+            {
+              "player": "Jill",
+              "score": 16000
+            },
+            {
+              "player": "Saurabh",
+              "score": 2400
+            }
+          ]
+        },
+        {
+          "category": "THE TV BIZ",
+          "value": 2000,
+          "clue": "A leading mag of the biz, founded in 1931 as Broadcasting, became Broadcasting & this in the '90s & now goes by B&C",
+          "answer": "Broadcasting & Cable",
+          "isDailyDouble": false,
+          "orderNumber": 25,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Steve-O",
+              "score": 17000
+            },
+            {
+              "player": "Jill",
+              "score": 16000
+            },
+            {
+              "player": "Saurabh",
+              "score": 2400
+            }
+          ]
+        },
+        {
+          "category": "WORLD LEADERS OF 2018",
+          "value": 400,
+          "clue": "He wasn't having it when a teen called him \"Manu\", a nickname for Emmanuel, saying call me M. President of the Republic",
+          "answer": "Macron",
+          "isDailyDouble": false,
+          "orderNumber": 26,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve-O",
+              "score": 17400
+            },
+            {
+              "player": "Jill",
+              "score": 16000
+            },
+            {
+              "player": "Saurabh",
+              "score": 2400
+            }
+          ]
+        },
+        {
+          "category": "WORLD LEADERS OF 2018",
+          "value": 800,
+          "clue": "In a 2007 miniseries, this prime minister played Talbot Papineau, one of his nation's first Rhodes Scholars",
+          "answer": "(Justin) Trudeau",
+          "isDailyDouble": false,
+          "orderNumber": 27,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve-O",
+              "score": 17400
+            },
+            {
+              "player": "Jill",
+              "score": 16800
+            },
+            {
+              "player": "Saurabh",
+              "score": 2400
+            }
+          ]
+        },
+        {
+          "category": "WORLD LEADERS OF 2018",
+          "value": 1200,
+          "clue": "Part of the Sandinistas who took power in '79, Daniel Ortega led this country in the '80s & again starting in 2007",
+          "answer": "Nicaragua",
+          "isDailyDouble": false,
+          "orderNumber": 28,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve-O",
+              "score": 17400
+            },
+            {
+              "player": "Jill",
+              "score": 18000
+            },
+            {
+              "player": "Saurabh",
+              "score": 2400
+            }
+          ]
+        },
+        {
+          "category": "WORLD LEADERS OF 2018",
+          "value": 1600,
+          "clue": "It's easy to spot this country's Kolinda Grabar Kitarović at the 2018 World Cup final--she's in her nation's colors",
+          "answer": "Croatia",
+          "isDailyDouble": false,
+          "orderNumber": 29,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve-O",
+              "score": 15800
+            },
+            {
+              "player": "Jill",
+              "score": 18000
+            },
+            {
+              "player": "Saurabh",
+              "score": 4000
+            }
+          ]
+        },
+        {
+          "category": "WORLD LEADERS OF 2018",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve-O",
+              "score": 15800
+            },
+            {
+              "player": "Jill",
+              "score": 18000
+            },
+            {
+              "player": "Saurabh",
+              "score": 4000
+            }
+          ]
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "Steve-O",
+          "score": 15800
+        },
+        {
+          "player": "Jill",
+          "score": 18000
+        },
+        {
+          "player": "Saurabh",
+          "score": 4000
+        }
+      ]
+    },
+    "finalJeopardy": {
+      "category": "19th CENTURY NOVELS",
+      "clue": "Ambrose Bierce, a Civil War veteran, said of this 1895 book, the author \"knows nothing of war, yet he is drenched in blood\"",
+      "answer": "The Red Badge of Courage",
+      "responses": [
+        {
+          "contestant": "Saurabh",
+          "response": "What is The Red Badge of Courage",
+          "isCorrect": true,
+          "isIncorrect": false,
+          "value": 1000,
+          "finalScore": 5000
+        },
+        {
+          "contestant": "Steve-O",
+          "response": "What is the Red Badge of Courage",
+          "isCorrect": true,
+          "isIncorrect": false,
+          "value": 15700,
+          "finalScore": 31500
+        },
+        {
+          "contestant": "Jill",
+          "response": "What is The Red Badge of Courage",
+          "isCorrect": true,
+          "isIncorrect": false,
+          "value": 13601,
+          "finalScore": 31601
+        }
+      ]
+    }
+  },
+  "finalScores": [
+    {
+      "player": "Steve-O",
+      "score": "$31,500"
+    },
+    {
+      "player": "Jill",
+      "score": "$31,601"
+    },
+    {
+      "player": "Saurabh",
+      "score": "$5,000"
+    }
+  ],
+  "coryatScores": [
+    {
+      "player": "Steve-O",
+      "score": 11200
+    },
+    {
+      "player": "Jill",
+      "score": 19200
+    },
+    {
+      "player": "Saurabh",
+      "score": 4000
+    }
+  ]
+}

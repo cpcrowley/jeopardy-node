@@ -1,0 +1,1703 @@
+{
+  "gameId": 2521,
+  "showNumber": "5491",
+  "title": "Show #5491 - Monday, June 23, 2008",
+  "date": "2008-06-23",
+  "comments": "",
+  "contestants": [
+    "Doris",
+    "Sven",
+    "Alyssa"
+  ],
+  "rounds": {
+    "jeopardy": {
+      "categories": [
+        "STATE OF THE UNION",
+        "MOVIE SONGS",
+        "AFRICA'S OFFICIAL LANGUAGES",
+        "WORDS IN CONTESTANT",
+        "CORPORATE",
+        "RATS"
+      ],
+      "clues": [
+        {
+          "category": "MOVIE SONGS",
+          "value": 200,
+          "clue": "\"Hakuna Matata\" was one of 3 tunes nominated for an Oscar from this Disney film",
+          "answer": "The Lion King",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [
+            "Alyssa"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Doris",
+              "score": 0
+            },
+            {
+              "player": "Sven",
+              "score": 0
+            },
+            {
+              "player": "Alyssa",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "MOVIE SONGS",
+          "value": 400,
+          "clue": "\"Let's Do\" this \"Again\"--& again, as we watch \"The Rocky Horror Picture Show\" over & over",
+          "answer": "the Time Warp",
+          "isDailyDouble": false,
+          "orderNumber": 2,
+          "correctContestants": [
+            "Doris"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Doris",
+              "score": 400
+            },
+            {
+              "player": "Sven",
+              "score": 0
+            },
+            {
+              "player": "Alyssa",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "MOVIE SONGS",
+          "value": 600,
+          "clue": "He had a 1994 hit with \"Streets of Philadelphia\", from a Tom Hanks film",
+          "answer": "Bruce Springsteen",
+          "isDailyDouble": false,
+          "orderNumber": 3,
+          "correctContestants": [
+            "Sven"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Doris",
+              "score": 400
+            },
+            {
+              "player": "Sven",
+              "score": 600
+            },
+            {
+              "player": "Alyssa",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "AFRICA'S OFFICIAL LANGUAGES",
+          "value": 200,
+          "clue": "In Benin:this",
+          "answer": "French",
+          "isDailyDouble": false,
+          "orderNumber": 4,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Sven"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Doris",
+              "score": 400
+            },
+            {
+              "player": "Sven",
+              "score": 400
+            },
+            {
+              "player": "Alyssa",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "AFRICA'S OFFICIAL LANGUAGES",
+          "value": 400,
+          "clue": "In Gabon:this",
+          "answer": "French",
+          "isDailyDouble": false,
+          "orderNumber": 5,
+          "correctContestants": [
+            "Sven"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Doris",
+              "score": 400
+            },
+            {
+              "player": "Sven",
+              "score": 800
+            },
+            {
+              "player": "Alyssa",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "AFRICA'S OFFICIAL LANGUAGES",
+          "value": 600,
+          "clue": "In Cameroon:English & this",
+          "answer": "French",
+          "isDailyDouble": false,
+          "orderNumber": 6,
+          "correctContestants": [
+            "Alyssa"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Doris",
+              "score": 400
+            },
+            {
+              "player": "Sven",
+              "score": 800
+            },
+            {
+              "player": "Alyssa",
+              "score": 800
+            }
+          ]
+        },
+        {
+          "category": "AFRICA'S OFFICIAL LANGUAGES",
+          "value": 800,
+          "clue": "In Equatorial Guinea:Spanish & this",
+          "answer": "French",
+          "isDailyDouble": false,
+          "orderNumber": 7,
+          "correctContestants": [
+            "Alyssa"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Doris",
+              "score": 400
+            },
+            {
+              "player": "Sven",
+              "score": 800
+            },
+            {
+              "player": "Alyssa",
+              "score": 1600
+            }
+          ]
+        },
+        {
+          "category": "AFRICA'S OFFICIAL LANGUAGES",
+          "value": 1000,
+          "clue": "In Rwanda:Kinyarwanda, French & this",
+          "answer": "English",
+          "isDailyDouble": false,
+          "orderNumber": 8,
+          "correctContestants": [
+            "Sven"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Doris",
+              "score": 400
+            },
+            {
+              "player": "Sven",
+              "score": 1800
+            },
+            {
+              "player": "Alyssa",
+              "score": 1600
+            }
+          ]
+        },
+        {
+          "category": "STATE OF THE UNION",
+          "value": 200,
+          "clue": "It's the third-largest U.S. state in area",
+          "answer": "California",
+          "isDailyDouble": false,
+          "orderNumber": 9,
+          "correctContestants": [
+            "Sven"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Doris",
+              "score": 400
+            },
+            {
+              "player": "Sven",
+              "score": 2000
+            },
+            {
+              "player": "Alyssa",
+              "score": 1600
+            }
+          ]
+        },
+        {
+          "category": "STATE OF THE UNION",
+          "value": 400,
+          "clue": "Heard weekly since 1925, this state's \"Grand Ole Opry\" program is the longest-running live radio show in the U.S.",
+          "answer": "Tennessee",
+          "isDailyDouble": false,
+          "orderNumber": 10,
+          "correctContestants": [
+            "Sven"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Doris",
+              "score": 400
+            },
+            {
+              "player": "Sven",
+              "score": 2400
+            },
+            {
+              "player": "Alyssa",
+              "score": 1600
+            }
+          ]
+        },
+        {
+          "category": "STATE OF THE UNION",
+          "value": 600,
+          "clue": "As of Jan. 1, 2008, this Pacific Northwest state had the highest statewide minimum wage, $8.07 an hour",
+          "answer": "Washington",
+          "isDailyDouble": false,
+          "orderNumber": 11,
+          "correctContestants": [
+            "Doris"
+          ],
+          "incorrectContestants": [
+            "Alyssa"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Doris",
+              "score": 1000
+            },
+            {
+              "player": "Sven",
+              "score": 2400
+            },
+            {
+              "player": "Alyssa",
+              "score": 1000
+            }
+          ]
+        },
+        {
+          "category": "MOVIE SONGS",
+          "value": 800,
+          "clue": "This classic bluegrass song for banjo & guitar was featured in the film \"Deliverance\"",
+          "answer": "\"Dueling Banjoes\"",
+          "isDailyDouble": false,
+          "orderNumber": 12,
+          "correctContestants": [
+            "Doris"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Doris",
+              "score": 1800
+            },
+            {
+              "player": "Sven",
+              "score": 2400
+            },
+            {
+              "player": "Alyssa",
+              "score": 1000
+            }
+          ]
+        },
+        {
+          "category": "MOVIE SONGS",
+          "value": 1000,
+          "clue": "The Oscar for Best Song of 2007 went to a tune from this film about 2 Dublin musicians",
+          "answer": "Once",
+          "isDailyDouble": false,
+          "orderNumber": 13,
+          "correctContestants": [
+            "Doris"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Doris",
+              "score": 2800
+            },
+            {
+              "player": "Sven",
+              "score": 2400
+            },
+            {
+              "player": "Alyssa",
+              "score": 1000
+            }
+          ]
+        },
+        {
+          "category": "STATE OF THE UNION",
+          "value": 800,
+          "clue": "A river in this state is named for the Rappahannock tribe that John Smith met in 1607",
+          "answer": "Virginia",
+          "isDailyDouble": false,
+          "orderNumber": 14,
+          "correctContestants": [
+            "Alyssa"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Doris",
+              "score": 2800
+            },
+            {
+              "player": "Sven",
+              "score": 2400
+            },
+            {
+              "player": "Alyssa",
+              "score": 1800
+            }
+          ]
+        },
+        {
+          "category": "STATE OF THE UNION",
+          "value": 1000,
+          "clue": "Big Pocono State Park is found in this state",
+          "answer": "Pennsylvania",
+          "isDailyDouble": false,
+          "orderNumber": 15,
+          "correctContestants": [
+            "Sven"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Doris",
+              "score": 2800
+            },
+            {
+              "player": "Sven",
+              "score": 3400
+            },
+            {
+              "player": "Alyssa",
+              "score": 1800
+            }
+          ]
+        },
+        {
+          "category": "RATS",
+          "value": 200,
+          "clue": "With their front teeth perfect for gnawing, rats are members of this mammalian order",
+          "answer": "rodents",
+          "isDailyDouble": false,
+          "orderNumber": 16,
+          "correctContestants": [
+            "Alyssa"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Doris",
+              "score": 2800
+            },
+            {
+              "player": "Sven",
+              "score": 3400
+            },
+            {
+              "player": "Alyssa",
+              "score": 2000
+            }
+          ]
+        },
+        {
+          "category": "RATS",
+          "value": 400,
+          "clue": "The Norway rat, the one typically used in lab experiments, is also known as this \"colorful\" rat",
+          "answer": "a brown rat",
+          "isDailyDouble": false,
+          "orderNumber": 17,
+          "correctContestants": [
+            "Alyssa"
+          ],
+          "incorrectContestants": [
+            "Doris"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Doris",
+              "score": 2400
+            },
+            {
+              "player": "Sven",
+              "score": 3400
+            },
+            {
+              "player": "Alyssa",
+              "score": 2400
+            }
+          ]
+        },
+        {
+          "category": "RATS",
+          "value": 600,
+          "clue": "Like young canines, baby rats are known by this one-syllable term",
+          "answer": "pups",
+          "isDailyDouble": false,
+          "orderNumber": 18,
+          "correctContestants": [
+            "Doris"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Doris",
+              "score": 3000
+            },
+            {
+              "player": "Sven",
+              "score": 3400
+            },
+            {
+              "player": "Alyssa",
+              "score": 2400
+            }
+          ]
+        },
+        {
+          "category": "RATS",
+          "value": 800,
+          "clue": "This nautical & rat metaphor refers to people abandoning a losing side",
+          "answer": "rats fleeing a sinking ship",
+          "isDailyDouble": false,
+          "orderNumber": 19,
+          "correctContestants": [
+            "Doris"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Doris",
+              "score": 3800
+            },
+            {
+              "player": "Sven",
+              "score": 3400
+            },
+            {
+              "player": "Alyssa",
+              "score": 2400
+            }
+          ]
+        },
+        {
+          "category": "RATS",
+          "value": 1000,
+          "clue": "Exposed underground variety of rat seen here",
+          "answer": "a naked mole rat",
+          "isDailyDouble": false,
+          "orderNumber": 20,
+          "correctContestants": [
+            "Alyssa"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Doris",
+              "score": 3800
+            },
+            {
+              "player": "Sven",
+              "score": 3400
+            },
+            {
+              "player": "Alyssa",
+              "score": 3400
+            }
+          ]
+        },
+        {
+          "category": "WORDS IN CONTESTANT",
+          "value": 200,
+          "clue": "Yo, Shakespeare!It's a 14-line poem",
+          "answer": "a sonnet",
+          "isDailyDouble": false,
+          "orderNumber": 21,
+          "correctContestants": [
+            "Alyssa"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Doris",
+              "score": 3800
+            },
+            {
+              "player": "Sven",
+              "score": 3400
+            },
+            {
+              "player": "Alyssa",
+              "score": 3600
+            }
+          ]
+        },
+        {
+          "category": "WORDS IN CONTESTANT",
+          "value": 400,
+          "clue": "A movement upward, perhaps to climb a hill",
+          "answer": "ascent",
+          "isDailyDouble": false,
+          "orderNumber": 22,
+          "correctContestants": [
+            "Sven"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Doris",
+              "score": 3800
+            },
+            {
+              "player": "Sven",
+              "score": 3800
+            },
+            {
+              "player": "Alyssa",
+              "score": 3600
+            }
+          ]
+        },
+        {
+          "category": "WORDS IN CONTESTANT",
+          "value": 600,
+          "clue": "A usually dissenting subdivision of a religious group",
+          "answer": "a sect",
+          "isDailyDouble": false,
+          "orderNumber": 23,
+          "correctContestants": [
+            "Sven"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Doris",
+              "score": 3800
+            },
+            {
+              "player": "Sven",
+              "score": 4400
+            },
+            {
+              "player": "Alyssa",
+              "score": 3600
+            }
+          ]
+        },
+        {
+          "category": "WORDS IN CONTESTANT",
+          "value": 800,
+          "clue": "Atomic number 10, this odorless gaseous element is obtained from fractional distillation of liquid air",
+          "answer": "neon",
+          "isDailyDouble": false,
+          "orderNumber": 24,
+          "correctContestants": [
+            "Sven"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Doris",
+              "score": 3800
+            },
+            {
+              "player": "Sven",
+              "score": 5200
+            },
+            {
+              "player": "Alyssa",
+              "score": 3600
+            }
+          ]
+        },
+        {
+          "category": "WORDS IN CONTESTANT",
+          "value": 1000,
+          "clue": "A political subdivision of Switzerland",
+          "answer": "a canton",
+          "isDailyDouble": false,
+          "orderNumber": 25,
+          "correctContestants": [
+            "Sven"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Doris",
+              "score": 3800
+            },
+            {
+              "player": "Sven",
+              "score": 6200
+            },
+            {
+              "player": "Alyssa",
+              "score": 3600
+            }
+          ]
+        },
+        {
+          "category": "CORPORATE",
+          "value": 100,
+          "clue": "This car-repair chain founded in 1956 shares its name with a king of ancient Phrygia",
+          "answer": "Midas",
+          "isDailyDouble": true,
+          "orderNumber": 26,
+          "correctContestants": [
+            "Sven"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Doris",
+              "score": 3800
+            },
+            {
+              "player": "Sven",
+              "score": 6300
+            },
+            {
+              "player": "Alyssa",
+              "score": 3600
+            }
+          ]
+        },
+        {
+          "category": "CORPORATE",
+          "value": 800,
+          "clue": "Henry Ford called minority stockholders in his corporation these, like the ones that cause dysentery & malaria",
+          "answer": "parasites",
+          "isDailyDouble": false,
+          "orderNumber": 27,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Sven"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Doris",
+              "score": 3800
+            },
+            {
+              "player": "Sven",
+              "score": 5500
+            },
+            {
+              "player": "Alyssa",
+              "score": 3600
+            }
+          ]
+        },
+        {
+          "category": "CORPORATE",
+          "value": 1000,
+          "clue": "The discovery of oil in 1879 at Pico Canyon near Los Angeles was the start of what's now this petroleum corporation, stock symbol CVX",
+          "answer": "Chevron",
+          "isDailyDouble": false,
+          "orderNumber": 28,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Doris",
+              "score": 3800
+            },
+            {
+              "player": "Sven",
+              "score": 5500
+            },
+            {
+              "player": "Alyssa",
+              "score": 3600
+            }
+          ]
+        },
+        {
+          "category": "CORPORATE",
+          "value": 400,
+          "clue": "In 1999 this shoe company named the largest building at its corporate headquarters after soccer great Mia Hamm",
+          "answer": "Nike",
+          "isDailyDouble": false,
+          "orderNumber": 29,
+          "correctContestants": [
+            "Alyssa"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Doris",
+              "score": 3800
+            },
+            {
+              "player": "Sven",
+              "score": 5500
+            },
+            {
+              "player": "Alyssa",
+              "score": 4000
+            }
+          ]
+        },
+        {
+          "category": "CORPORATE",
+          "value": 200,
+          "clue": "The Southland Corporation might say \"Oh, thank heaven\" for this chain of 30,000 convenience stores",
+          "answer": "7-11",
+          "isDailyDouble": false,
+          "orderNumber": 30,
+          "correctContestants": [
+            "Alyssa"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Doris",
+              "score": 3800
+            },
+            {
+              "player": "Sven",
+              "score": 5500
+            },
+            {
+              "player": "Alyssa",
+              "score": 4200
+            }
+          ]
+        }
+      ],
+      "firstBreakScores": [
+        {
+          "player": "Doris",
+          "score": 2800
+        },
+        {
+          "player": "Sven",
+          "score": 3400
+        },
+        {
+          "player": "Alyssa",
+          "score": 1800
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "Doris",
+          "score": 3800
+        },
+        {
+          "player": "Sven",
+          "score": 5500
+        },
+        {
+          "player": "Alyssa",
+          "score": 4200
+        }
+      ]
+    },
+    "doubleJeopardy": {
+      "categories": [
+        "THE BODY HUMAN",
+        "SPORTS STUFF",
+        "AROUND EUROPE",
+        "MINDBENDING MISCELLANY",
+        "THE ARTS",
+        "COUNTRIES WITHOUT THEIR VOWELS"
+      ],
+      "clues": [
+        {
+          "category": "COUNTRIES WITHOUT THEIR VOWELS",
+          "value": 400,
+          "clue": "RQ",
+          "answer": "Iraq",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Doris",
+              "score": 3800
+            },
+            {
+              "player": "Sven",
+              "score": 5900
+            },
+            {
+              "player": "Alyssa",
+              "score": 4200
+            }
+          ]
+        },
+        {
+          "category": "COUNTRIES WITHOUT THEIR VOWELS",
+          "value": 800,
+          "clue": "CB",
+          "answer": "Cuba",
+          "isDailyDouble": false,
+          "orderNumber": 2,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Doris",
+              "score": 4600
+            },
+            {
+              "player": "Sven",
+              "score": 5900
+            },
+            {
+              "player": "Alyssa",
+              "score": 4200
+            }
+          ]
+        },
+        {
+          "category": "COUNTRIES WITHOUT THEIR VOWELS",
+          "value": 1200,
+          "clue": "LGR",
+          "answer": "Algeria",
+          "isDailyDouble": false,
+          "orderNumber": 3,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Doris",
+              "score": 3400
+            },
+            {
+              "player": "Sven",
+              "score": 7100
+            },
+            {
+              "player": "Alyssa",
+              "score": 4200
+            }
+          ]
+        },
+        {
+          "category": "COUNTRIES WITHOUT THEIR VOWELS",
+          "value": 1600,
+          "clue": "TNS",
+          "answer": "Tunisia",
+          "isDailyDouble": false,
+          "orderNumber": 4,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Doris",
+              "score": 3400
+            },
+            {
+              "player": "Sven",
+              "score": 8700
+            },
+            {
+              "player": "Alyssa",
+              "score": 4200
+            }
+          ]
+        },
+        {
+          "category": "COUNTRIES WITHOUT THEIR VOWELS",
+          "value": 2000,
+          "clue": "RMN",
+          "answer": "Romania",
+          "isDailyDouble": false,
+          "orderNumber": 5,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Doris",
+              "score": 5400
+            },
+            {
+              "player": "Sven",
+              "score": 8700
+            },
+            {
+              "player": "Alyssa",
+              "score": 4200
+            }
+          ]
+        },
+        {
+          "category": "THE ARTS",
+          "value": 400,
+          "clue": "\"Maria Stuarda\" by Donizetti (libretto by Bardari) is this type of work",
+          "answer": "opera",
+          "isDailyDouble": false,
+          "orderNumber": 6,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Doris",
+              "score": 5800
+            },
+            {
+              "player": "Sven",
+              "score": 8700
+            },
+            {
+              "player": "Alyssa",
+              "score": 3800
+            }
+          ]
+        },
+        {
+          "category": "THE ARTS",
+          "value": 800,
+          "clue": "If you get the \"pointe\", Darci Kistler found her fame as one of these performers",
+          "answer": "a ballerina",
+          "isDailyDouble": false,
+          "orderNumber": 7,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Doris",
+              "score": 6600
+            },
+            {
+              "player": "Sven",
+              "score": 8700
+            },
+            {
+              "player": "Alyssa",
+              "score": 3800
+            }
+          ]
+        },
+        {
+          "category": "THE ARTS",
+          "value": 1200,
+          "clue": "\"Luncheon of the Boating Party\" was an impressive 1881 work by this Impressionist",
+          "answer": "Renoir",
+          "isDailyDouble": false,
+          "orderNumber": 8,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Doris",
+              "score": 6600
+            },
+            {
+              "player": "Sven",
+              "score": 9900
+            },
+            {
+              "player": "Alyssa",
+              "score": 3800
+            }
+          ]
+        },
+        {
+          "category": "THE ARTS",
+          "value": 1600,
+          "clue": "An architectural style is named for this French fine arts school that dropped architecture in 1968",
+          "answer": "the École des Beaux Arts",
+          "isDailyDouble": false,
+          "orderNumber": 9,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Doris",
+              "score": 5000
+            },
+            {
+              "player": "Sven",
+              "score": 9900
+            },
+            {
+              "player": "Alyssa",
+              "score": 3800
+            }
+          ]
+        },
+        {
+          "category": "THE ARTS",
+          "value": 2000,
+          "clue": "A 1974 movie tells of Benji; a 12th century Japanese scroll illustrates this \"tale\" by Lady Murasaki",
+          "answer": "(The Tale of) Genji",
+          "isDailyDouble": false,
+          "orderNumber": 10,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Doris",
+              "score": 5000
+            },
+            {
+              "player": "Sven",
+              "score": 9900
+            },
+            {
+              "player": "Alyssa",
+              "score": 5800
+            }
+          ]
+        },
+        {
+          "category": "AROUND EUROPE",
+          "value": 400,
+          "clue": "The Hotel Sacher in Vienna was built on the site of the theater where his Ninth Symphony premiered in 1824",
+          "answer": "Beethoven",
+          "isDailyDouble": false,
+          "orderNumber": 11,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Doris",
+              "score": 5400
+            },
+            {
+              "player": "Sven",
+              "score": 9900
+            },
+            {
+              "player": "Alyssa",
+              "score": 5800
+            }
+          ]
+        },
+        {
+          "category": "AROUND EUROPE",
+          "value": 800,
+          "clue": "Every 5 years, this capital city hosts a Frederic Chopin International Piano Competition",
+          "answer": "Warsaw",
+          "isDailyDouble": false,
+          "orderNumber": 12,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Doris",
+              "score": 5400
+            },
+            {
+              "player": "Sven",
+              "score": 9900
+            },
+            {
+              "player": "Alyssa",
+              "score": 6600
+            }
+          ]
+        },
+        {
+          "category": "AROUND EUROPE",
+          "value": 4000,
+          "clue": "Hop aboard the train and you can get a close-up peek at this peak",
+          "answer": "the Matterhorn",
+          "isDailyDouble": true,
+          "orderNumber": 13,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Doris",
+              "score": 5400
+            },
+            {
+              "player": "Sven",
+              "score": 9900
+            },
+            {
+              "player": "Alyssa",
+              "score": 10600
+            }
+          ]
+        },
+        {
+          "category": "AROUND EUROPE",
+          "value": 1600,
+          "clue": "Lisbon's monument to the discoveries was built in 1960 to celebrate the 500th anniversary of this prince's death",
+          "answer": "Henry the Navigator",
+          "isDailyDouble": false,
+          "orderNumber": 14,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Doris",
+              "score": 5400
+            },
+            {
+              "player": "Sven",
+              "score": 11500
+            },
+            {
+              "player": "Alyssa",
+              "score": 10600
+            }
+          ]
+        },
+        {
+          "category": "SPORTS STUFF",
+          "value": 1200,
+          "clue": "This quarterback of broken leg fame: \"Nobody in football should be called a genius. A genius is a guy like Norman Einstein\"",
+          "answer": "(Joe) Theismann",
+          "isDailyDouble": false,
+          "orderNumber": 15,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Doris",
+              "score": 6600
+            },
+            {
+              "player": "Sven",
+              "score": 11500
+            },
+            {
+              "player": "Alyssa",
+              "score": 10600
+            }
+          ]
+        },
+        {
+          "category": "AROUND EUROPE",
+          "value": 2000,
+          "clue": "Amsterdam's name reflects the fact that the city grew up around a dam built on this river",
+          "answer": "the Amstel River",
+          "isDailyDouble": false,
+          "orderNumber": 16,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Doris",
+              "score": 6600
+            },
+            {
+              "player": "Sven",
+              "score": 13500
+            },
+            {
+              "player": "Alyssa",
+              "score": 10600
+            }
+          ]
+        },
+        {
+          "category": "THE BODY HUMAN",
+          "value": 5000,
+          "clue": "(Cheryl of the Clue Crew presents the visual.)  Red eye in photographs is the reflection of the flash off the blood vessels from this posterior part of the eye",
+          "answer": "the retina",
+          "isDailyDouble": true,
+          "orderNumber": 17,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Doris",
+              "score": 6600
+            },
+            {
+              "player": "Sven",
+              "score": 18500
+            },
+            {
+              "player": "Alyssa",
+              "score": 10600
+            }
+          ]
+        },
+        {
+          "category": "THE BODY HUMAN",
+          "value": 1600,
+          "clue": "A common injury to this joint is a tear of the anterior cruciate ligament",
+          "answer": "the knee",
+          "isDailyDouble": false,
+          "orderNumber": 18,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Doris",
+              "score": 6600
+            },
+            {
+              "player": "Sven",
+              "score": 20100
+            },
+            {
+              "player": "Alyssa",
+              "score": 10600
+            }
+          ]
+        },
+        {
+          "category": "THE BODY HUMAN",
+          "value": 2000,
+          "clue": "(Jimmy of the Clue Crew gives a physical demonstration.)  Muscles work in pairs, so you can strengthen one by increasing flexibility in the other; the hamstring curl strengthens the hamstring & allows this muscle at the front of the thigh to elongate",
+          "answer": "the quadriceps",
+          "isDailyDouble": false,
+          "orderNumber": 19,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Doris",
+              "score": 6600
+            },
+            {
+              "player": "Sven",
+              "score": 22100
+            },
+            {
+              "player": "Alyssa",
+              "score": 10600
+            }
+          ]
+        },
+        {
+          "category": "THE BODY HUMAN",
+          "value": 800,
+          "clue": "This bone is located on the thumb side of the forearm",
+          "answer": "the radius",
+          "isDailyDouble": false,
+          "orderNumber": 20,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Doris",
+              "score": 6600
+            },
+            {
+              "player": "Sven",
+              "score": 22900
+            },
+            {
+              "player": "Alyssa",
+              "score": 10600
+            }
+          ]
+        },
+        {
+          "category": "THE BODY HUMAN",
+          "value": 400,
+          "clue": "The hyoid bone supports this organ & provides attachment sites for muscles used in speaking & swallowing",
+          "answer": "the tongue",
+          "isDailyDouble": false,
+          "orderNumber": 21,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Doris",
+              "score": 6600
+            },
+            {
+              "player": "Sven",
+              "score": 23300
+            },
+            {
+              "player": "Alyssa",
+              "score": 10600
+            }
+          ]
+        },
+        {
+          "category": "MINDBENDING MISCELLANY",
+          "value": 400,
+          "clue": "According to Guinness, this present delivered in 1886 was the largest gift ever given",
+          "answer": "the Statue of Liberty",
+          "isDailyDouble": false,
+          "orderNumber": 22,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Doris",
+              "score": 6600
+            },
+            {
+              "player": "Sven",
+              "score": 23700
+            },
+            {
+              "player": "Alyssa",
+              "score": 10600
+            }
+          ]
+        },
+        {
+          "category": "MINDBENDING MISCELLANY",
+          "value": 800,
+          "clue": "Credited with saving the studio, this canine star was Warner Bros.' most successful star of the 1920s",
+          "answer": "Rin Tin Tin",
+          "isDailyDouble": false,
+          "orderNumber": 23,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Doris",
+              "score": 6600
+            },
+            {
+              "player": "Sven",
+              "score": 24500
+            },
+            {
+              "player": "Alyssa",
+              "score": 10600
+            }
+          ]
+        },
+        {
+          "category": "MINDBENDING MISCELLANY",
+          "value": 1200,
+          "clue": "Jim Springer & Jim Lewis, who led similar lives down to their wives' & dogs' names, turned out to be these",
+          "answer": "identical twins",
+          "isDailyDouble": false,
+          "orderNumber": 24,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Doris",
+              "score": 6600
+            },
+            {
+              "player": "Sven",
+              "score": 24500
+            },
+            {
+              "player": "Alyssa",
+              "score": 11800
+            }
+          ]
+        },
+        {
+          "category": "MINDBENDING MISCELLANY",
+          "value": 1600,
+          "clue": "Referring to these 2 Disneyland rides, one designer said, \"I went from sweet little children to dirty old men\"",
+          "answer": "It's A Small World & Pirates of the Caribbean",
+          "isDailyDouble": false,
+          "orderNumber": 25,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Doris",
+              "score": 6600
+            },
+            {
+              "player": "Sven",
+              "score": 24500
+            },
+            {
+              "player": "Alyssa",
+              "score": 11800
+            }
+          ]
+        },
+        {
+          "category": "MINDBENDING MISCELLANY",
+          "value": 2000,
+          "clue": "Involving a color & an animal, it's the second most common pub name found in the U.K. & is found on the U.K. coat of arms",
+          "answer": "red lion",
+          "isDailyDouble": false,
+          "orderNumber": 26,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Alyssa"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Doris",
+              "score": 4600
+            },
+            {
+              "player": "Sven",
+              "score": 24500
+            },
+            {
+              "player": "Alyssa",
+              "score": 9800
+            }
+          ]
+        },
+        {
+          "category": "SPORTS STUFF",
+          "value": 2000,
+          "clue": "(I'm USC athletic director Mike Garrett.)   In 1965 at USC I led the nation in rushing; the year before, this running back played by James Caan in a TV movie achieved the feat",
+          "answer": "(Brian) Piccolo",
+          "isDailyDouble": false,
+          "orderNumber": 27,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Doris",
+              "score": 6600
+            },
+            {
+              "player": "Sven",
+              "score": 24500
+            },
+            {
+              "player": "Alyssa",
+              "score": 9800
+            }
+          ]
+        },
+        {
+          "category": "SPORTS STUFF",
+          "value": 800,
+          "clue": "Bill Simmons' \"Now I Can Die in Peace\" chronicles this team's 2004 World Series win, its first since 1918",
+          "answer": "the Red Sox",
+          "isDailyDouble": false,
+          "orderNumber": 28,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Doris",
+              "score": 7400
+            },
+            {
+              "player": "Sven",
+              "score": 24500
+            },
+            {
+              "player": "Alyssa",
+              "score": 9800
+            }
+          ]
+        },
+        {
+          "category": "SPORTS STUFF",
+          "value": 1600,
+          "clue": "In his HBO biopic, an \"epiphanous experience of pure religiosity\" during a 1971 Ali fight inspires him to be a promoter",
+          "answer": "Don King",
+          "isDailyDouble": false,
+          "orderNumber": 29,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Doris",
+              "score": 9000
+            },
+            {
+              "player": "Sven",
+              "score": 24500
+            },
+            {
+              "player": "Alyssa",
+              "score": 9800
+            }
+          ]
+        },
+        {
+          "category": "SPORTS STUFF",
+          "value": 400,
+          "clue": "Christina Aguilera, to this \"animal\" of a golfer: \"Sorry, I don't know much about you. I don't follow tennis\"",
+          "answer": "Tiger Woods",
+          "isDailyDouble": false,
+          "orderNumber": 30,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Doris",
+              "score": 9000
+            },
+            {
+              "player": "Sven",
+              "score": 24500
+            },
+            {
+              "player": "Alyssa",
+              "score": 10200
+            }
+          ]
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "Doris",
+          "score": 9000
+        },
+        {
+          "player": "Sven",
+          "score": 24500
+        },
+        {
+          "player": "Alyssa",
+          "score": 10200
+        }
+      ]
+    },
+    "finalJeopardy": {
+      "category": "PRESIDENTIAL BIRTHPLACES",
+      "clue": "4 U.S. presidents serving in 3 different centuries have been born in the same county in this state",
+      "answer": "Massachusetts",
+      "responses": [
+        {
+          "contestant": "Doris",
+          "response": "What is Ohio",
+          "isCorrect": false,
+          "isIncorrect": true,
+          "value": 8999,
+          "finalScore": 1
+        },
+        {
+          "contestant": "Alyssa",
+          "response": "What is Virginia?",
+          "isCorrect": false,
+          "isIncorrect": true,
+          "value": 10200,
+          "finalScore": 0
+        },
+        {
+          "contestant": "Sven",
+          "response": "What is Virginia Massachussetts",
+          "isCorrect": true,
+          "isIncorrect": false,
+          "value": 4099,
+          "finalScore": 28599
+        }
+      ]
+    }
+  },
+  "finalScores": [
+    {
+      "player": "Doris",
+      "score": "$1"
+    },
+    {
+      "player": "Sven",
+      "score": "$28,599"
+    },
+    {
+      "player": "Alyssa",
+      "score": "$0"
+    }
+  ],
+  "coryatScores": [
+    {
+      "player": "Doris",
+      "score": 9000
+    },
+    {
+      "player": "Sven",
+      "score": 21200
+    },
+    {
+      "player": "Alyssa",
+      "score": 7400
+    }
+  ]
+}

@@ -1,0 +1,1709 @@
+{
+  "gameId": 1516,
+  "showNumber": "5138",
+  "title": "Show #5138 - Wednesday, January 3, 2007",
+  "date": "2007-01-03",
+  "comments": "",
+  "contestants": [
+    "Julie",
+    "Luann",
+    "Dan"
+  ],
+  "rounds": {
+    "jeopardy": {
+      "categories": [
+        "TECH SUPPORT",
+        "CLASSIC TV SHOWS BY CHARACTER",
+        "YOU, ME & DUE PROCESS",
+        "RUNNING \"HOT\" & \"COLD\"",
+        "WEEKEND IN NEW ENGLAND",
+        "LIVIN' LA VIDA LOBSTER"
+      ],
+      "clues": [
+        {
+          "category": "TECH SUPPORT",
+          "value": 200,
+          "clue": "(Kelly of the Clue Crew holds a piece of computer hardware.)  For better gaming graphics, just add this component that takes binary data & converts it to a picture",
+          "answer": "a graphics card",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [
+            "Julie"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Julie",
+              "score": 200
+            },
+            {
+              "player": "Luann",
+              "score": 0
+            },
+            {
+              "player": "Dan",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "TECH SUPPORT",
+          "value": 400,
+          "clue": "(Cheryl of the Clue Crew stands next to an open computer case.)  If you hear a whir & a clunk & can't get into Windows, this part that stores information on magnetic platters has failed",
+          "answer": "hard drive (or hard disk drive)",
+          "isDailyDouble": false,
+          "orderNumber": 2,
+          "correctContestants": [
+            "Julie"
+          ],
+          "incorrectContestants": [
+            "Luann"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Julie",
+              "score": 600
+            },
+            {
+              "player": "Luann",
+              "score": -400
+            },
+            {
+              "player": "Dan",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "TECH SUPPORT",
+          "value": 600,
+          "clue": "(Jon of the Clue Crew holds up a smaller piece of computer hardware.)  One of the easiest ways to improve your computer's performance is to add more of this type of memory chip",
+          "answer": "RAM (or Random Access Memory)",
+          "isDailyDouble": false,
+          "orderNumber": 3,
+          "correctContestants": [
+            "Dan"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Julie",
+              "score": 600
+            },
+            {
+              "player": "Luann",
+              "score": -400
+            },
+            {
+              "player": "Dan",
+              "score": 600
+            }
+          ]
+        },
+        {
+          "category": "LIVIN' LA VIDA LOBSTER",
+          "value": 200,
+          "clue": "Lovable \"Larry the Lobster\" is the official mascot of this seafood restaurant chain",
+          "answer": "Red Lobster",
+          "isDailyDouble": false,
+          "orderNumber": 4,
+          "correctContestants": [
+            "Luann"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Julie",
+              "score": 600
+            },
+            {
+              "player": "Luann",
+              "score": -200
+            },
+            {
+              "player": "Dan",
+              "score": 600
+            }
+          ]
+        },
+        {
+          "category": "LIVIN' LA VIDA LOBSTER",
+          "value": 400,
+          "clue": "A variety lacking enlarged pincers, this 5-letter \"prickly\" type of lobster is also known as a sea crayfish",
+          "answer": "a spiny lobster",
+          "isDailyDouble": false,
+          "orderNumber": 5,
+          "correctContestants": [
+            "Luann"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Julie",
+              "score": 600
+            },
+            {
+              "player": "Luann",
+              "score": 200
+            },
+            {
+              "player": "Dan",
+              "score": 600
+            }
+          ]
+        },
+        {
+          "category": "LIVIN' LA VIDA LOBSTER",
+          "value": 600,
+          "clue": "One of a lobstering crew is called this man, not because he's grim but for standing in the back of the boat",
+          "answer": "a stern man",
+          "isDailyDouble": false,
+          "orderNumber": 6,
+          "correctContestants": [
+            "Julie"
+          ],
+          "incorrectContestants": [
+            "Luann"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Julie",
+              "score": 1200
+            },
+            {
+              "player": "Luann",
+              "score": -400
+            },
+            {
+              "player": "Dan",
+              "score": 600
+            }
+          ]
+        },
+        {
+          "category": "TECH SUPPORT",
+          "value": 800,
+          "clue": "(Sarah of the Clue Crew points to something in an open computer case.)  It might be cheaper to buy a new computer if this part is fried--it's the main circuit board of your computer",
+          "answer": "the motherboard",
+          "isDailyDouble": false,
+          "orderNumber": 7,
+          "correctContestants": [
+            "Julie"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Julie",
+              "score": 2000
+            },
+            {
+              "player": "Luann",
+              "score": -400
+            },
+            {
+              "player": "Dan",
+              "score": 600
+            }
+          ]
+        },
+        {
+          "category": "TECH SUPPORT",
+          "value": 1000,
+          "clue": "(Jimmy of the Clue Crew inserts a cable into a port on the front of a computer case.)  To hook up a new digital camera, you'll want to use this 3-letter type of port",
+          "answer": "USB",
+          "isDailyDouble": false,
+          "orderNumber": 8,
+          "correctContestants": [
+            "Julie"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Julie",
+              "score": 3000
+            },
+            {
+              "player": "Luann",
+              "score": -400
+            },
+            {
+              "player": "Dan",
+              "score": 600
+            }
+          ]
+        },
+        {
+          "category": "CLASSIC TV SHOWS BY CHARACTER",
+          "value": 200,
+          "clue": "Trixie Norton,Alice Kramden",
+          "answer": "The Honeymooners",
+          "isDailyDouble": false,
+          "orderNumber": 9,
+          "correctContestants": [
+            "Luann"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Julie",
+              "score": 3000
+            },
+            {
+              "player": "Luann",
+              "score": -200
+            },
+            {
+              "player": "Dan",
+              "score": 600
+            }
+          ]
+        },
+        {
+          "category": "CLASSIC TV SHOWS BY CHARACTER",
+          "value": 400,
+          "clue": "Hop Sing,Hoss",
+          "answer": "Bonanza",
+          "isDailyDouble": false,
+          "orderNumber": 10,
+          "correctContestants": [
+            "Julie"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Julie",
+              "score": 3400
+            },
+            {
+              "player": "Luann",
+              "score": -200
+            },
+            {
+              "player": "Dan",
+              "score": 600
+            }
+          ]
+        },
+        {
+          "category": "CLASSIC TV SHOWS BY CHARACTER",
+          "value": 600,
+          "clue": "Elly May,Cousin Pearl",
+          "answer": "The Beverly Hillbillies",
+          "isDailyDouble": false,
+          "orderNumber": 11,
+          "correctContestants": [
+            "Dan"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Julie",
+              "score": 3400
+            },
+            {
+              "player": "Luann",
+              "score": -200
+            },
+            {
+              "player": "Dan",
+              "score": 1200
+            }
+          ]
+        },
+        {
+          "category": "CLASSIC TV SHOWS BY CHARACTER",
+          "value": 800,
+          "clue": "Cinnamon Carter,Jim Phelps",
+          "answer": "Mission: Impossible",
+          "isDailyDouble": false,
+          "orderNumber": 12,
+          "correctContestants": [
+            "Julie"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Julie",
+              "score": 4200
+            },
+            {
+              "player": "Luann",
+              "score": -200
+            },
+            {
+              "player": "Dan",
+              "score": 1200
+            }
+          ]
+        },
+        {
+          "category": "CLASSIC TV SHOWS BY CHARACTER",
+          "value": 1000,
+          "clue": "Gloria Stivic,Irene Lorenzo",
+          "answer": "All in the Family",
+          "isDailyDouble": false,
+          "orderNumber": 13,
+          "correctContestants": [
+            "Luann"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Julie",
+              "score": 4200
+            },
+            {
+              "player": "Luann",
+              "score": 800
+            },
+            {
+              "player": "Dan",
+              "score": 1200
+            }
+          ]
+        },
+        {
+          "category": "WEEKEND IN NEW ENGLAND",
+          "value": 200,
+          "clue": "This Vermont capital's Winooski River offers excellent canoeing & fishing",
+          "answer": "Montpelier",
+          "isDailyDouble": false,
+          "orderNumber": 14,
+          "correctContestants": [
+            "Dan"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Julie",
+              "score": 4200
+            },
+            {
+              "player": "Luann",
+              "score": 800
+            },
+            {
+              "player": "Dan",
+              "score": 1400
+            }
+          ]
+        },
+        {
+          "category": "WEEKEND IN NEW ENGLAND",
+          "value": 400,
+          "clue": "The grave of witchcraft trial Judge John Hathorne is in the Burying Point, this city's oldest cemetery",
+          "answer": "Salem",
+          "isDailyDouble": false,
+          "orderNumber": 15,
+          "correctContestants": [
+            "Dan"
+          ],
+          "incorrectContestants": [
+            "Julie"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Julie",
+              "score": 3800
+            },
+            {
+              "player": "Luann",
+              "score": 800
+            },
+            {
+              "player": "Dan",
+              "score": 1800
+            }
+          ]
+        },
+        {
+          "category": "RUNNING \"HOT\" & \"COLD\"",
+          "value": 200,
+          "clue": "This brand of toy cars roared into the world in 1968",
+          "answer": "Hot Wheels",
+          "isDailyDouble": false,
+          "orderNumber": 16,
+          "correctContestants": [
+            "Julie"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Julie",
+              "score": 4000
+            },
+            {
+              "player": "Luann",
+              "score": 800
+            },
+            {
+              "player": "Dan",
+              "score": 1800
+            }
+          ]
+        },
+        {
+          "category": "RUNNING \"HOT\" & \"COLD\"",
+          "value": 400,
+          "clue": "These very tight short shorts were popular in the early 1970s",
+          "answer": "hot pants",
+          "isDailyDouble": false,
+          "orderNumber": 17,
+          "correctContestants": [
+            "Julie"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Julie",
+              "score": 4400
+            },
+            {
+              "player": "Luann",
+              "score": 800
+            },
+            {
+              "player": "Dan",
+              "score": 1800
+            }
+          ]
+        },
+        {
+          "category": "RUNNING \"HOT\" & \"COLD\"",
+          "value": 600,
+          "clue": "\"Liquid\" expression meaning \"to dampen the enthusiasm of\"",
+          "answer": "to throw cold water on",
+          "isDailyDouble": false,
+          "orderNumber": 18,
+          "correctContestants": [
+            "Julie"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Julie",
+              "score": 5000
+            },
+            {
+              "player": "Luann",
+              "score": 800
+            },
+            {
+              "player": "Dan",
+              "score": 1800
+            }
+          ]
+        },
+        {
+          "category": "RUNNING \"HOT\" & \"COLD\"",
+          "value": 800,
+          "clue": "Alec Leamas is the title character of this novel, John le Carre's first masterpiece",
+          "answer": "The Spy Who Came in from the Cold",
+          "isDailyDouble": false,
+          "orderNumber": 19,
+          "correctContestants": [
+            "Luann"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Julie",
+              "score": 5000
+            },
+            {
+              "player": "Luann",
+              "score": 1600
+            },
+            {
+              "player": "Dan",
+              "score": 1800
+            }
+          ]
+        },
+        {
+          "category": "RUNNING \"HOT\" & \"COLD\"",
+          "value": 1000,
+          "clue": "A nursery rhyme says, \"If your daughters do not like\" these, \"give them to your sons\"",
+          "answer": "hot cross buns",
+          "isDailyDouble": false,
+          "orderNumber": 20,
+          "correctContestants": [
+            "Luann"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Julie",
+              "score": 5000
+            },
+            {
+              "player": "Luann",
+              "score": 2600
+            },
+            {
+              "player": "Dan",
+              "score": 1800
+            }
+          ]
+        },
+        {
+          "category": "LIVIN' LA VIDA LOBSTER",
+          "value": 800,
+          "clue": "Water fleas, shrimp & lobsters are all members of this arthropod class",
+          "answer": "crustaceans",
+          "isDailyDouble": false,
+          "orderNumber": 21,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Luann"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Julie",
+              "score": 5000
+            },
+            {
+              "player": "Luann",
+              "score": 1800
+            },
+            {
+              "player": "Dan",
+              "score": 1800
+            }
+          ]
+        },
+        {
+          "category": "LIVIN' LA VIDA LOBSTER",
+          "value": 1000,
+          "clue": "The outer supporting shell of a lobster is known as one of these protective coverings",
+          "answer": "an exoskeleton",
+          "isDailyDouble": false,
+          "orderNumber": 22,
+          "correctContestants": [
+            "Luann"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Julie",
+              "score": 5000
+            },
+            {
+              "player": "Luann",
+              "score": 2800
+            },
+            {
+              "player": "Dan",
+              "score": 1800
+            }
+          ]
+        },
+        {
+          "category": "WEEKEND IN NEW ENGLAND",
+          "value": 600,
+          "clue": "This state is home to America's oldest standing synagogue, the Touro Synagogue in Newport",
+          "answer": "Rhode Island",
+          "isDailyDouble": false,
+          "orderNumber": 23,
+          "correctContestants": [
+            "Luann"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Julie",
+              "score": 5000
+            },
+            {
+              "player": "Luann",
+              "score": 3400
+            },
+            {
+              "player": "Dan",
+              "score": 1800
+            }
+          ]
+        },
+        {
+          "category": "WEEKEND IN NEW ENGLAND",
+          "value": 800,
+          "clue": "Boston Harbor is the mouth of this river that flows through Cambridge, Massachusetts",
+          "answer": "Charles River",
+          "isDailyDouble": false,
+          "orderNumber": 24,
+          "correctContestants": [
+            "Luann"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Julie",
+              "score": 5000
+            },
+            {
+              "player": "Luann",
+              "score": 4200
+            },
+            {
+              "player": "Dan",
+              "score": 1800
+            }
+          ]
+        },
+        {
+          "category": "WEEKEND IN NEW ENGLAND",
+          "value": 2000,
+          "clue": "This highest peak in New Hampshire's presidential range occasionally can be seen from the Atlantic Ocean",
+          "answer": "Mount Washington",
+          "isDailyDouble": true,
+          "orderNumber": 25,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Luann"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Julie",
+              "score": 5000
+            },
+            {
+              "player": "Luann",
+              "score": 2200
+            },
+            {
+              "player": "Dan",
+              "score": 1800
+            }
+          ]
+        },
+        {
+          "category": "YOU, ME & DUE PROCESS",
+          "value": 200,
+          "clue": "The idea of due process of law dates from this 1215 document",
+          "answer": "the Magna Carta",
+          "isDailyDouble": false,
+          "orderNumber": 26,
+          "correctContestants": [
+            "Luann"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Julie",
+              "score": 5000
+            },
+            {
+              "player": "Luann",
+              "score": 2400
+            },
+            {
+              "player": "Dan",
+              "score": 1800
+            }
+          ]
+        },
+        {
+          "category": "YOU, ME & DUE PROCESS",
+          "value": 400,
+          "clue": "The 2000 Supreme Court decision in this case, him v. him, involved vote-counting guidelines & due process of law",
+          "answer": "Bush v. Gore",
+          "isDailyDouble": false,
+          "orderNumber": 27,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Luann"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Julie",
+              "score": 5000
+            },
+            {
+              "player": "Luann",
+              "score": 2000
+            },
+            {
+              "player": "Dan",
+              "score": 1800
+            }
+          ]
+        },
+        {
+          "category": "YOU, ME & DUE PROCESS",
+          "value": 600,
+          "clue": "In 1970 the Supreme Court held for the first time that due process required proof of guilt \"beyond\" this",
+          "answer": "reasonable doubt",
+          "isDailyDouble": false,
+          "orderNumber": 28,
+          "correctContestants": [
+            "Julie"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Julie",
+              "score": 5600
+            },
+            {
+              "player": "Luann",
+              "score": 2000
+            },
+            {
+              "player": "Dan",
+              "score": 1800
+            }
+          ]
+        },
+        {
+          "category": "YOU, ME & DUE PROCESS",
+          "value": 800,
+          "clue": "\"Due Process of Law\" appears first in this amendment; go ahead, \"take\" it, you won't get in trouble",
+          "answer": "the Fifth Amendment",
+          "isDailyDouble": false,
+          "orderNumber": 29,
+          "correctContestants": [
+            "Luann"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Julie",
+              "score": 5600
+            },
+            {
+              "player": "Luann",
+              "score": 2800
+            },
+            {
+              "player": "Dan",
+              "score": 1800
+            }
+          ]
+        },
+        {
+          "category": "YOU, ME & DUE PROCESS",
+          "value": 1000,
+          "clue": "This man vs. Arizona said confessions obtained without telling suspects of their right to counsel couldn't be used in court",
+          "answer": "Miranda",
+          "isDailyDouble": false,
+          "orderNumber": 30,
+          "correctContestants": [
+            "Dan"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Julie",
+              "score": 5600
+            },
+            {
+              "player": "Luann",
+              "score": 2800
+            },
+            {
+              "player": "Dan",
+              "score": 2800
+            }
+          ]
+        }
+      ],
+      "firstBreakScores": [
+        {
+          "player": "Julie",
+          "score": 3800
+        },
+        {
+          "player": "Luann",
+          "score": 800
+        },
+        {
+          "player": "Dan",
+          "score": 1800
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "Julie",
+          "score": 5600
+        },
+        {
+          "player": "Luann",
+          "score": 2800
+        },
+        {
+          "player": "Dan",
+          "score": 2800
+        }
+      ]
+    },
+    "doubleJeopardy": {
+      "categories": [
+        "JOE BUCK CALLS HISTORY",
+        "WHO'S YOUR DADDY?",
+        "OPERA CHARACTERS",
+        "NATIONAL RHYME TIME",
+        "R.C.",
+        "COLA"
+      ],
+      "clues": [
+        {
+          "category": "COLA",
+          "value": 400,
+          "clue": "Sadly, the \"breakfast drink\", Pepsi A.M., didn't last long, even though it had 25% more of this than regular Pepsi",
+          "answer": "caffeine",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Julie",
+              "score": 5600
+            },
+            {
+              "player": "Luann",
+              "score": 2800
+            },
+            {
+              "player": "Dan",
+              "score": 3200
+            }
+          ]
+        },
+        {
+          "category": "OPERA CHARACTERS",
+          "value": 400,
+          "clue": "There's a hair-raising--oops!--hair-cutting scene in Saint-Saens' opera about Samson & her",
+          "answer": "Delilah",
+          "isDailyDouble": false,
+          "orderNumber": 2,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Julie",
+              "score": 5600
+            },
+            {
+              "player": "Luann",
+              "score": 3200
+            },
+            {
+              "player": "Dan",
+              "score": 3200
+            }
+          ]
+        },
+        {
+          "category": "COLA",
+          "value": 800,
+          "clue": "The Coca-Cola family of brands includes this 5-letter drink that comes in pineapple, grape, strawberry & orange",
+          "answer": "Fanta",
+          "isDailyDouble": false,
+          "orderNumber": 3,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Julie",
+              "score": 5600
+            },
+            {
+              "player": "Luann",
+              "score": 4000
+            },
+            {
+              "player": "Dan",
+              "score": 3200
+            }
+          ]
+        },
+        {
+          "category": "COLA",
+          "value": 1200,
+          "clue": "This \"natural\" brand sells vanilla cola as well as smoothies, juices & E2O energy water",
+          "answer": "Hansen's",
+          "isDailyDouble": false,
+          "orderNumber": 4,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Julie",
+              "score": 5600
+            },
+            {
+              "player": "Luann",
+              "score": 2800
+            },
+            {
+              "player": "Dan",
+              "score": 3200
+            }
+          ]
+        },
+        {
+          "category": "COLA",
+          "value": 1600,
+          "clue": "Now dubbed \"Pure Zero\", this cola brand boasts \"zero calories, zero carbs... & zero sodium\"",
+          "answer": "Diet Rite Cola",
+          "isDailyDouble": false,
+          "orderNumber": 5,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Luann"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Julie",
+              "score": 4000
+            },
+            {
+              "player": "Luann",
+              "score": 1200
+            },
+            {
+              "player": "Dan",
+              "score": 3200
+            }
+          ]
+        },
+        {
+          "category": "COLA",
+          "value": 1000,
+          "clue": "This cola was introduced in 1963 & was named for the fact that drinkers wanted to keep \"checks\" on their weight",
+          "answer": "Tab",
+          "isDailyDouble": true,
+          "orderNumber": 6,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Julie",
+              "score": 4000
+            },
+            {
+              "player": "Luann",
+              "score": 200
+            },
+            {
+              "player": "Dan",
+              "score": 3200
+            }
+          ]
+        },
+        {
+          "category": "WHO'S YOUR DADDY?",
+          "value": 400,
+          "clue": "Emilio Estevez",
+          "answer": "Martin Sheen",
+          "isDailyDouble": false,
+          "orderNumber": 7,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Julie",
+              "score": 4400
+            },
+            {
+              "player": "Luann",
+              "score": -200
+            },
+            {
+              "player": "Dan",
+              "score": 3200
+            }
+          ]
+        },
+        {
+          "category": "OPERA CHARACTERS",
+          "value": 800,
+          "clue": "In an 1893 opera, Peter is the father of these gingerbread-gorgers",
+          "answer": "Hansel & Gretel",
+          "isDailyDouble": false,
+          "orderNumber": 8,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Julie",
+              "score": 4400
+            },
+            {
+              "player": "Luann",
+              "score": 600
+            },
+            {
+              "player": "Dan",
+              "score": 3200
+            }
+          ]
+        },
+        {
+          "category": "WHO'S YOUR DADDY?",
+          "value": 800,
+          "clue": "Oscar winner Anjelica",
+          "answer": "John Huston",
+          "isDailyDouble": false,
+          "orderNumber": 9,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Julie",
+              "score": 4400
+            },
+            {
+              "player": "Luann",
+              "score": 1400
+            },
+            {
+              "player": "Dan",
+              "score": 3200
+            }
+          ]
+        },
+        {
+          "category": "WHO'S YOUR DADDY?",
+          "value": 1200,
+          "clue": "Angelina Jolie",
+          "answer": "Jon Voight",
+          "isDailyDouble": false,
+          "orderNumber": 10,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Julie",
+              "score": 4400
+            },
+            {
+              "player": "Luann",
+              "score": 2600
+            },
+            {
+              "player": "Dan",
+              "score": 3200
+            }
+          ]
+        },
+        {
+          "category": "WHO'S YOUR DADDY?",
+          "value": 1600,
+          "clue": "British fashion designer Stella",
+          "answer": "Paul McCartney",
+          "isDailyDouble": false,
+          "orderNumber": 11,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Julie",
+              "score": 6000
+            },
+            {
+              "player": "Luann",
+              "score": 2600
+            },
+            {
+              "player": "Dan",
+              "score": 3200
+            }
+          ]
+        },
+        {
+          "category": "OPERA CHARACTERS",
+          "value": 1200,
+          "clue": "Joe is a gambler in his early opera \"Blue Monday\"; Sportin' Life is a gambler in his later \"Porgy and Bess\"",
+          "answer": "Gershwin",
+          "isDailyDouble": false,
+          "orderNumber": 12,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Julie",
+              "score": 6000
+            },
+            {
+              "player": "Luann",
+              "score": 2600
+            },
+            {
+              "player": "Dan",
+              "score": 4400
+            }
+          ]
+        },
+        {
+          "category": "OPERA CHARACTERS",
+          "value": 1600,
+          "clue": "Don Jose is a soldier in love with this Bizet bombshell",
+          "answer": "Carmen",
+          "isDailyDouble": false,
+          "orderNumber": 13,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Julie",
+              "score": 6000
+            },
+            {
+              "player": "Luann",
+              "score": 4200
+            },
+            {
+              "player": "Dan",
+              "score": 4400
+            }
+          ]
+        },
+        {
+          "category": "WHO'S YOUR DADDY?",
+          "value": 2000,
+          "clue": "Singer Norah Jones",
+          "answer": "Ravi Shankar",
+          "isDailyDouble": false,
+          "orderNumber": 14,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Julie",
+              "score": 8000
+            },
+            {
+              "player": "Luann",
+              "score": 4200
+            },
+            {
+              "player": "Dan",
+              "score": 4400
+            }
+          ]
+        },
+        {
+          "category": "OPERA CHARACTERS",
+          "value": 2000,
+          "clue": "Busoni's opera about this cruel Chinese princess isn't nearly as famous as Puccini's",
+          "answer": "Turandot",
+          "isDailyDouble": false,
+          "orderNumber": 15,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Julie",
+              "score": 10000
+            },
+            {
+              "player": "Luann",
+              "score": 4200
+            },
+            {
+              "player": "Dan",
+              "score": 2400
+            }
+          ]
+        },
+        {
+          "category": "NATIONAL RHYME TIME",
+          "value": 400,
+          "clue": "Small hand drum for a former Belgian colony of Africa",
+          "answer": "Congo bongo (bongo Congo accepted)",
+          "isDailyDouble": false,
+          "orderNumber": 16,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Dan"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Julie",
+              "score": 10400
+            },
+            {
+              "player": "Luann",
+              "score": 3800
+            },
+            {
+              "player": "Dan",
+              "score": 2000
+            }
+          ]
+        },
+        {
+          "category": "NATIONAL RHYME TIME",
+          "value": 800,
+          "clue": "A jitterbug for Paris or Marseille",
+          "answer": "France dance",
+          "isDailyDouble": false,
+          "orderNumber": 17,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Julie",
+              "score": 11200
+            },
+            {
+              "player": "Luann",
+              "score": 3800
+            },
+            {
+              "player": "Dan",
+              "score": 2000
+            }
+          ]
+        },
+        {
+          "category": "NATIONAL RHYME TIME",
+          "value": 1200,
+          "clue": "Palm tree fruit for a Persian Gulf country",
+          "answer": "Kuwait date (date Kuwait accepted)",
+          "isDailyDouble": false,
+          "orderNumber": 18,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Julie",
+              "score": 12400
+            },
+            {
+              "player": "Luann",
+              "score": 3800
+            },
+            {
+              "player": "Dan",
+              "score": 2000
+            }
+          ]
+        },
+        {
+          "category": "NATIONAL RHYME TIME",
+          "value": 1600,
+          "clue": "One single U.K winter glove",
+          "answer": "Britain mitten",
+          "isDailyDouble": false,
+          "orderNumber": 19,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Julie",
+              "score": 12400
+            },
+            {
+              "player": "Luann",
+              "score": 3800
+            },
+            {
+              "player": "Dan",
+              "score": 3600
+            }
+          ]
+        },
+        {
+          "category": "NATIONAL RHYME TIME",
+          "value": 2000,
+          "clue": "Woolen shoulder wrap for a Himalayan kingdom",
+          "answer": "Nepal shawl",
+          "isDailyDouble": false,
+          "orderNumber": 20,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Julie",
+              "score": 14400
+            },
+            {
+              "player": "Luann",
+              "score": 3800
+            },
+            {
+              "player": "Dan",
+              "score": 3600
+            }
+          ]
+        },
+        {
+          "category": "R.C.",
+          "value": 400,
+          "clue": "She was born in Plains, Georgia on August 18, 1927",
+          "answer": "Rosalynn Carter",
+          "isDailyDouble": false,
+          "orderNumber": 21,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Julie",
+              "score": 14800
+            },
+            {
+              "player": "Luann",
+              "score": 3800
+            },
+            {
+              "player": "Dan",
+              "score": 3600
+            }
+          ]
+        },
+        {
+          "category": "R.C.",
+          "value": 800,
+          "clue": "He created the private detective Philip Marlowe",
+          "answer": "Raymond Chandler",
+          "isDailyDouble": false,
+          "orderNumber": 22,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Julie",
+              "score": 14800
+            },
+            {
+              "player": "Luann",
+              "score": 3000
+            },
+            {
+              "player": "Dan",
+              "score": 3600
+            }
+          ]
+        },
+        {
+          "category": "R.C.",
+          "value": 1200,
+          "clue": "The sea around this author & naturalist was Sheepscot Bay, which her Maine summer home overlooked",
+          "answer": "Rachel Carson",
+          "isDailyDouble": false,
+          "orderNumber": 23,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Julie",
+              "score": 16000
+            },
+            {
+              "player": "Luann",
+              "score": 3000
+            },
+            {
+              "player": "Dan",
+              "score": 3600
+            }
+          ]
+        },
+        {
+          "category": "R.C.",
+          "value": 4000,
+          "clue": "This Texan was LBJ's Attorney General from 1967 to 1969",
+          "answer": "Ramsey Clark",
+          "isDailyDouble": true,
+          "orderNumber": 24,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Julie",
+              "score": 12000
+            },
+            {
+              "player": "Luann",
+              "score": 3000
+            },
+            {
+              "player": "Dan",
+              "score": 3600
+            }
+          ]
+        },
+        {
+          "category": "R.C.",
+          "value": 2000,
+          "clue": "\"Coma\" earned him his reputation as the master of the medical thriller",
+          "answer": "Robin Cook",
+          "isDailyDouble": false,
+          "orderNumber": 25,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Julie",
+              "score": 12000
+            },
+            {
+              "player": "Luann",
+              "score": 5000
+            },
+            {
+              "player": "Dan",
+              "score": 3600
+            }
+          ]
+        },
+        {
+          "category": "JOE BUCK CALLS HISTORY",
+          "value": 400,
+          "clue": "June 17, 1972:There's the throw... & James McCord, Jr. & 4 others are caught stealing at this complex",
+          "answer": "Watergate",
+          "isDailyDouble": false,
+          "orderNumber": 26,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Julie",
+              "score": 12000
+            },
+            {
+              "player": "Luann",
+              "score": 5400
+            },
+            {
+              "player": "Dan",
+              "score": 3600
+            }
+          ]
+        },
+        {
+          "category": "JOE BUCK CALLS HISTORY",
+          "value": 800,
+          "clue": "It's July 3, 1863 & what a great day for a battle; Gen. Pickett's confident but this borough is a tough win on the road",
+          "answer": "Gettysburg",
+          "isDailyDouble": false,
+          "orderNumber": 27,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Julie",
+              "score": 12800
+            },
+            {
+              "player": "Luann",
+              "score": 5400
+            },
+            {
+              "player": "Dan",
+              "score": 3600
+            }
+          ]
+        },
+        {
+          "category": "JOE BUCK CALLS HISTORY",
+          "value": 1200,
+          "clue": "It's 1536 & this woman, not Dr. Quinn, is in Henry VIII's on-deck circle, following Anne Boleyn in the wedding order",
+          "answer": "Jane Seymour",
+          "isDailyDouble": false,
+          "orderNumber": 28,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Julie",
+              "score": 14000
+            },
+            {
+              "player": "Luann",
+              "score": 5400
+            },
+            {
+              "player": "Dan",
+              "score": 3600
+            }
+          ]
+        },
+        {
+          "category": "JOE BUCK CALLS HISTORY",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Julie",
+              "score": 14000
+            },
+            {
+              "player": "Luann",
+              "score": 5400
+            },
+            {
+              "player": "Dan",
+              "score": 3600
+            }
+          ]
+        },
+        {
+          "category": "JOE BUCK CALLS HISTORY",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Julie",
+              "score": 14000
+            },
+            {
+              "player": "Luann",
+              "score": 5400
+            },
+            {
+              "player": "Dan",
+              "score": 3600
+            }
+          ]
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "Julie",
+          "score": 14000
+        },
+        {
+          "player": "Luann",
+          "score": 5400
+        },
+        {
+          "player": "Dan",
+          "score": 3600
+        }
+      ]
+    },
+    "finalJeopardy": {
+      "category": "NOVEL INSPIRATIONS",
+      "clue": "Novel inspired by a vision of a \"pale student of unhallowed arts kneeling beside the thing he had put together\"",
+      "answer": "Frankenstein",
+      "responses": [
+        {
+          "contestant": "Dan",
+          "response": "What is Frankenstein?",
+          "isCorrect": true,
+          "isIncorrect": false,
+          "value": 3599,
+          "finalScore": 7199
+        },
+        {
+          "contestant": "Luann",
+          "response": "What is Frankenstein",
+          "isCorrect": true,
+          "isIncorrect": false,
+          "value": 1801,
+          "finalScore": 7201
+        },
+        {
+          "contestant": "Julie",
+          "response": "What is Frankenstein?",
+          "isCorrect": true,
+          "isIncorrect": false,
+          "value": 3000,
+          "finalScore": 17000
+        }
+      ]
+    }
+  },
+  "finalScores": [
+    {
+      "player": "Julie",
+      "score": "$17,000"
+    },
+    {
+      "player": "Luann",
+      "score": "$7,201"
+    },
+    {
+      "player": "Dan",
+      "score": "$7,199"
+    }
+  ],
+  "coryatScores": [
+    {
+      "player": "Julie",
+      "score": 18000
+    },
+    {
+      "player": "Luann",
+      "score": 8400
+    },
+    {
+      "player": "Dan",
+      "score": 3600
+    }
+  ]
+}

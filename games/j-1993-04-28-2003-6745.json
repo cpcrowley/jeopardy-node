@@ -1,0 +1,1705 @@
+{
+  "gameId": 6745,
+  "showNumber": "2003",
+  "title": "Show #2003 - Wednesday, April 28, 1993",
+  "date": "1993-04-28",
+  "comments": "",
+  "contestants": [
+    "Steve",
+    "Rob",
+    "Pamela"
+  ],
+  "rounds": {
+    "jeopardy": {
+      "categories": [
+        "WORLD CITIES",
+        "NO. 2 HITS",
+        "AMERICAN ORGANIZATIONS",
+        "WOMEN DISCOVERERS",
+        "THE B&O",
+        "WORD ORIGINS"
+      ],
+      "clues": [
+        {
+          "category": "WORLD CITIES",
+          "value": 100,
+          "clue": "An Egyptian pillar called the obelisk of Luxor stands at the Place de la Concorde in this capital",
+          "answer": "Paris",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [
+            "Steve"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve",
+              "score": 100
+            },
+            {
+              "player": "Rob",
+              "score": 0
+            },
+            {
+              "player": "Pamela",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "WORLD CITIES",
+          "value": 200,
+          "clue": "About one-fifth of Austria's population lives in this city",
+          "answer": "Vienna",
+          "isDailyDouble": false,
+          "orderNumber": 2,
+          "correctContestants": [
+            "Rob"
+          ],
+          "incorrectContestants": [
+            "Pamela"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve",
+              "score": 100
+            },
+            {
+              "player": "Rob",
+              "score": 200
+            },
+            {
+              "player": "Pamela",
+              "score": -200
+            }
+          ]
+        },
+        {
+          "category": "WORLD CITIES",
+          "value": 300,
+          "clue": "Kingsford Smith International Airport in this city is Australia's busiest",
+          "answer": "Sydney",
+          "isDailyDouble": false,
+          "orderNumber": 3,
+          "correctContestants": [
+            "Steve"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve",
+              "score": 400
+            },
+            {
+              "player": "Rob",
+              "score": 200
+            },
+            {
+              "player": "Pamela",
+              "score": -200
+            }
+          ]
+        },
+        {
+          "category": "WORLD CITIES",
+          "value": 400,
+          "clue": "This Belgian city has hosted 2 world's fairs, in 1935 & 1958",
+          "answer": "Brussels",
+          "isDailyDouble": false,
+          "orderNumber": 4,
+          "correctContestants": [
+            "Steve"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve",
+              "score": 800
+            },
+            {
+              "player": "Rob",
+              "score": 200
+            },
+            {
+              "player": "Pamela",
+              "score": -200
+            }
+          ]
+        },
+        {
+          "category": "WORLD CITIES",
+          "value": 800,
+          "clue": "In 1982 the Soviet government celebrated the 1500th anniversary of this Ukrainian city",
+          "answer": "Kiev",
+          "isDailyDouble": true,
+          "orderNumber": 5,
+          "correctContestants": [
+            "Steve"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve",
+              "score": 1600
+            },
+            {
+              "player": "Rob",
+              "score": 200
+            },
+            {
+              "player": "Pamela",
+              "score": -200
+            }
+          ]
+        },
+        {
+          "category": "WORD ORIGINS",
+          "value": 100,
+          "clue": "This word for a woman's handbag comes from the Greek for \"leather\", of which they are often made",
+          "answer": "a purse",
+          "isDailyDouble": false,
+          "orderNumber": 6,
+          "correctContestants": [
+            "Rob"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve",
+              "score": 1600
+            },
+            {
+              "player": "Rob",
+              "score": 300
+            },
+            {
+              "player": "Pamela",
+              "score": -200
+            }
+          ]
+        },
+        {
+          "category": "NO. 2 HITS",
+          "value": 100,
+          "clue": "In Carl Perkins' only million seller, he warned us not to \"step on\" these",
+          "answer": "his blue suede shoes",
+          "isDailyDouble": false,
+          "orderNumber": 7,
+          "correctContestants": [
+            "Pamela"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve",
+              "score": 1600
+            },
+            {
+              "player": "Rob",
+              "score": 300
+            },
+            {
+              "player": "Pamela",
+              "score": -100
+            }
+          ]
+        },
+        {
+          "category": "NO. 2 HITS",
+          "value": 200,
+          "clue": "Elton John said \"Goodbye\" to this, \"where the dogs of society howl\"",
+          "answer": "Yellow Brick Road",
+          "isDailyDouble": false,
+          "orderNumber": 8,
+          "correctContestants": [
+            "Rob"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve",
+              "score": 1600
+            },
+            {
+              "player": "Rob",
+              "score": 500
+            },
+            {
+              "player": "Pamela",
+              "score": -100
+            }
+          ]
+        },
+        {
+          "category": "NO. 2 HITS",
+          "value": 300,
+          "clue": "\"When Will I Be Loved\" was a Top 10 hit for this duo in 1960, before Linda Ronstadt's 1975 version",
+          "answer": "The Everly Brothers",
+          "isDailyDouble": false,
+          "orderNumber": 9,
+          "correctContestants": [
+            "Rob"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve",
+              "score": 1600
+            },
+            {
+              "player": "Rob",
+              "score": 800
+            },
+            {
+              "player": "Pamela",
+              "score": -100
+            }
+          ]
+        },
+        {
+          "category": "NO. 2 HITS",
+          "value": 400,
+          "clue": "In a No. 2 Roy Orbison hit, this title is followed by \"...know the way I feel tonight\"",
+          "answer": "\"Only The Lonely\"",
+          "isDailyDouble": false,
+          "orderNumber": 10,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Pamela"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Steve",
+              "score": 1600
+            },
+            {
+              "player": "Rob",
+              "score": 800
+            },
+            {
+              "player": "Pamela",
+              "score": -500
+            }
+          ]
+        },
+        {
+          "category": "NO. 2 HITS",
+          "value": 500,
+          "clue": "In 1975 Barry White reached No. 2 in pop with \"You're The First, The Last\", & this",
+          "answer": "My Everything",
+          "isDailyDouble": false,
+          "orderNumber": 11,
+          "correctContestants": [
+            "Rob"
+          ],
+          "incorrectContestants": [
+            "Steve"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve",
+              "score": 1100
+            },
+            {
+              "player": "Rob",
+              "score": 1300
+            },
+            {
+              "player": "Pamela",
+              "score": -500
+            }
+          ]
+        },
+        {
+          "category": "WOMEN DISCOVERERS",
+          "value": 100,
+          "clue": "The Widow Clicquot discovered a way to get sediment out of this wine & keep the bubbles in",
+          "answer": "champagne",
+          "isDailyDouble": false,
+          "orderNumber": 12,
+          "correctContestants": [
+            "Pamela"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve",
+              "score": 1100
+            },
+            {
+              "player": "Rob",
+              "score": 1300
+            },
+            {
+              "player": "Pamela",
+              "score": -400
+            }
+          ]
+        },
+        {
+          "category": "WOMEN DISCOVERERS",
+          "value": 200,
+          "clue": "This creator of Peter Rabbit was the first to notice a lichen combined algae & fungi",
+          "answer": "Beatrix Potter",
+          "isDailyDouble": false,
+          "orderNumber": 13,
+          "correctContestants": [
+            "Pamela"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve",
+              "score": 1100
+            },
+            {
+              "player": "Rob",
+              "score": 1300
+            },
+            {
+              "player": "Pamela",
+              "score": -200
+            }
+          ]
+        },
+        {
+          "category": "WOMEN DISCOVERERS",
+          "value": 300,
+          "clue": "Elizabeth Pinckney was the first colonial American to discover how to cultivate this blue dye plant",
+          "answer": "indigo",
+          "isDailyDouble": false,
+          "orderNumber": 14,
+          "correctContestants": [
+            "Steve"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve",
+              "score": 1400
+            },
+            {
+              "player": "Rob",
+              "score": 1300
+            },
+            {
+              "player": "Pamela",
+              "score": -200
+            }
+          ]
+        },
+        {
+          "category": "WORD ORIGINS",
+          "value": 200,
+          "clue": "This type of cherry was named for a Chinese farmer in Oregon, not for a famous crooner",
+          "answer": "a bing",
+          "isDailyDouble": false,
+          "orderNumber": 15,
+          "correctContestants": [
+            "Pamela"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve",
+              "score": 1400
+            },
+            {
+              "player": "Rob",
+              "score": 1300
+            },
+            {
+              "player": "Pamela",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "WOMEN DISCOVERERS",
+          "value": 400,
+          "clue": "Grace Hopper invented the first practical compiler for this machine, allowing easier programming",
+          "answer": "a computer",
+          "isDailyDouble": false,
+          "orderNumber": 16,
+          "correctContestants": [
+            "Pamela"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve",
+              "score": 1400
+            },
+            {
+              "player": "Rob",
+              "score": 1300
+            },
+            {
+              "player": "Pamela",
+              "score": 400
+            }
+          ]
+        },
+        {
+          "category": "WOMEN DISCOVERERS",
+          "value": 500,
+          "clue": "Rosalind Franklin was first to deduce the helical structure of this, but didn't share the Nobel Prize",
+          "answer": "DNA",
+          "isDailyDouble": false,
+          "orderNumber": 17,
+          "correctContestants": [
+            "Pamela"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve",
+              "score": 1400
+            },
+            {
+              "player": "Rob",
+              "score": 1300
+            },
+            {
+              "player": "Pamela",
+              "score": 900
+            }
+          ]
+        },
+        {
+          "category": "THE B&O",
+          "value": 100,
+          "clue": "When it began operations in 1830, the power didn't come from steam but was supplied by these",
+          "answer": "horses",
+          "isDailyDouble": false,
+          "orderNumber": 18,
+          "correctContestants": [
+            "Pamela"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve",
+              "score": 1400
+            },
+            {
+              "player": "Rob",
+              "score": 1300
+            },
+            {
+              "player": "Pamela",
+              "score": 1000
+            }
+          ]
+        },
+        {
+          "category": "THE B&O",
+          "value": 200,
+          "clue": "In April 1930 the B&O added this climate-control feature to certain cars; in 1931, to the whole train",
+          "answer": "air conditioning",
+          "isDailyDouble": false,
+          "orderNumber": 19,
+          "correctContestants": [
+            "Rob"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve",
+              "score": 1400
+            },
+            {
+              "player": "Rob",
+              "score": 1500
+            },
+            {
+              "player": "Pamela",
+              "score": 1000
+            }
+          ]
+        },
+        {
+          "category": "THE B&O",
+          "value": 300,
+          "clue": "On this board the B&O is found between Atlantic & Illinois",
+          "answer": "the Monopoly board",
+          "isDailyDouble": false,
+          "orderNumber": 20,
+          "correctContestants": [
+            "Steve"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve",
+              "score": 1700
+            },
+            {
+              "player": "Rob",
+              "score": 1500
+            },
+            {
+              "player": "Pamela",
+              "score": 1000
+            }
+          ]
+        },
+        {
+          "category": "WORD ORIGINS",
+          "value": 300,
+          "clue": "The name of this weasel & its fur comes from Armenius mus, Latin for \"Armenian rat\"",
+          "answer": "an ermine",
+          "isDailyDouble": false,
+          "orderNumber": 21,
+          "correctContestants": [
+            "Pamela"
+          ],
+          "incorrectContestants": [
+            "Rob"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve",
+              "score": 1700
+            },
+            {
+              "player": "Rob",
+              "score": 1200
+            },
+            {
+              "player": "Pamela",
+              "score": 1300
+            }
+          ]
+        },
+        {
+          "category": "AMERICAN ORGANIZATIONS",
+          "value": 100,
+          "clue": "Millions of motorists belong to this travel organization founded in 1902",
+          "answer": "Triple A (the American Automobile Association)",
+          "isDailyDouble": false,
+          "orderNumber": 22,
+          "correctContestants": [
+            "Steve"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve",
+              "score": 1800
+            },
+            {
+              "player": "Rob",
+              "score": 1200
+            },
+            {
+              "player": "Pamela",
+              "score": 1300
+            }
+          ]
+        },
+        {
+          "category": "WORD ORIGINS",
+          "value": 400,
+          "clue": "This wooden cudgel takes its name from a town in southeastern Ireland",
+          "answer": "a shillelagh",
+          "isDailyDouble": false,
+          "orderNumber": 23,
+          "correctContestants": [
+            "Rob"
+          ],
+          "incorrectContestants": [
+            "Pamela"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve",
+              "score": 1800
+            },
+            {
+              "player": "Rob",
+              "score": 1600
+            },
+            {
+              "player": "Pamela",
+              "score": 900
+            }
+          ]
+        },
+        {
+          "category": "WORD ORIGINS",
+          "value": 500,
+          "clue": "From the French for \"something fried\", types include apple, corn & clam",
+          "answer": "a fritter",
+          "isDailyDouble": false,
+          "orderNumber": 24,
+          "correctContestants": [
+            "Pamela"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve",
+              "score": 1800
+            },
+            {
+              "player": "Rob",
+              "score": 1600
+            },
+            {
+              "player": "Pamela",
+              "score": 1400
+            }
+          ]
+        },
+        {
+          "category": "AMERICAN ORGANIZATIONS",
+          "value": 200,
+          "clue": "It was founded in 1866 in N.Y., where its agents can carry guns & arrest an owner for mistreatment",
+          "answer": "the American SPCA",
+          "isDailyDouble": false,
+          "orderNumber": 25,
+          "correctContestants": [
+            "Rob"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve",
+              "score": 1800
+            },
+            {
+              "player": "Rob",
+              "score": 1800
+            },
+            {
+              "player": "Pamela",
+              "score": 1400
+            }
+          ]
+        },
+        {
+          "category": "AMERICAN ORGANIZATIONS",
+          "value": 300,
+          "clue": "It was founded in Saratoga Springs, N.Y. in 1878 to promote the study of jurisprudence",
+          "answer": "the American Bar Association",
+          "isDailyDouble": false,
+          "orderNumber": 26,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Steve",
+              "score": 1800
+            },
+            {
+              "player": "Rob",
+              "score": 1800
+            },
+            {
+              "player": "Pamela",
+              "score": 1400
+            }
+          ]
+        },
+        {
+          "category": "AMERICAN ORGANIZATIONS",
+          "value": 400,
+          "clue": "Abbreviated AIM, it was founded in 1968 to promote the rights of Native Americans",
+          "answer": "the American Indian Movement",
+          "isDailyDouble": false,
+          "orderNumber": 27,
+          "correctContestants": [
+            "Pamela"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve",
+              "score": 1800
+            },
+            {
+              "player": "Rob",
+              "score": 1800
+            },
+            {
+              "player": "Pamela",
+              "score": 1800
+            }
+          ]
+        },
+        {
+          "category": "AMERICAN ORGANIZATIONS",
+          "value": 500,
+          "clue": "It created controversy in 1978 when it supported the Am. Nazi Party's right to march in Skokie, Ill.",
+          "answer": "the ACLU (the American Civil Liberties Union)",
+          "isDailyDouble": false,
+          "orderNumber": 28,
+          "correctContestants": [
+            "Pamela"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve",
+              "score": 1800
+            },
+            {
+              "player": "Rob",
+              "score": 1800
+            },
+            {
+              "player": "Pamela",
+              "score": 2300
+            }
+          ]
+        },
+        {
+          "category": "THE B&O",
+          "value": 400,
+          "clue": "The railroad was founded in 1827 by people trying to compete with this new water route",
+          "answer": "the Erie Canal",
+          "isDailyDouble": false,
+          "orderNumber": 29,
+          "correctContestants": [
+            "Rob"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve",
+              "score": 1800
+            },
+            {
+              "player": "Rob",
+              "score": 2200
+            },
+            {
+              "player": "Pamela",
+              "score": 2300
+            }
+          ]
+        },
+        {
+          "category": "THE B&O",
+          "value": 500,
+          "clue": "In 1963 control of the B&O was taken over by the C&O, this railroad",
+          "answer": "the Chesapeake & Ohio",
+          "isDailyDouble": false,
+          "orderNumber": 30,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Pamela"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Steve",
+              "score": 1800
+            },
+            {
+              "player": "Rob",
+              "score": 2200
+            },
+            {
+              "player": "Pamela",
+              "score": 1800
+            }
+          ]
+        }
+      ],
+      "firstBreakScores": [
+        {
+          "player": "Steve",
+          "score": 1100
+        },
+        {
+          "player": "Rob",
+          "score": 1300
+        },
+        {
+          "player": "Pamela",
+          "score": -200
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "Steve",
+          "score": 1800
+        },
+        {
+          "player": "Rob",
+          "score": 2200
+        },
+        {
+          "player": "Pamela",
+          "score": 1800
+        }
+      ]
+    },
+    "doubleJeopardy": {
+      "categories": [
+        "THE 1950s",
+        "ISLANDS",
+        "U.S. GOVERNMENT & POLITICS",
+        "THEATRE HISTORY",
+        "THE CRUSADES",
+        "\"WILD\" THINGS"
+      ],
+      "clues": [
+        {
+          "category": "THEATRE HISTORY",
+          "value": 200,
+          "clue": "Pompey built the first permanent stone theatre in this city in 55 B.C.",
+          "answer": "Rome",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve",
+              "score": 1800
+            },
+            {
+              "player": "Rob",
+              "score": 2400
+            },
+            {
+              "player": "Pamela",
+              "score": 1800
+            }
+          ]
+        },
+        {
+          "category": "THE 1950s",
+          "value": 200,
+          "clue": "In 1953 Boston baseball fans lost their Braves to this city",
+          "answer": "Milwaukee",
+          "isDailyDouble": false,
+          "orderNumber": 2,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve",
+              "score": 1800
+            },
+            {
+              "player": "Rob",
+              "score": 2600
+            },
+            {
+              "player": "Pamela",
+              "score": 1800
+            }
+          ]
+        },
+        {
+          "category": "THE 1950s",
+          "value": 400,
+          "clue": "This Hank Ketcham comic strip debuted in newspapers in 1951",
+          "answer": "Dennis the Menace",
+          "isDailyDouble": false,
+          "orderNumber": 3,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve",
+              "score": 1800
+            },
+            {
+              "player": "Rob",
+              "score": 3000
+            },
+            {
+              "player": "Pamela",
+              "score": 1800
+            }
+          ]
+        },
+        {
+          "category": "THE 1950s",
+          "value": 600,
+          "clue": "Forced out by Castro, this leader fled Cuba January 1, 1959",
+          "answer": "(Fulgencio) Batista",
+          "isDailyDouble": false,
+          "orderNumber": 4,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve",
+              "score": 2400
+            },
+            {
+              "player": "Rob",
+              "score": 3000
+            },
+            {
+              "player": "Pamela",
+              "score": 1800
+            }
+          ]
+        },
+        {
+          "category": "THEATRE HISTORY",
+          "value": 400,
+          "clue": "In 1947 Elia Kazan became the first to win a Tony Award in this category",
+          "answer": "Director",
+          "isDailyDouble": false,
+          "orderNumber": 5,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve",
+              "score": 2400
+            },
+            {
+              "player": "Rob",
+              "score": 3000
+            },
+            {
+              "player": "Pamela",
+              "score": 2200
+            }
+          ]
+        },
+        {
+          "category": "THE 1950s",
+          "value": 800,
+          "clue": "In 1957 this future astronaut set a transcontinental speed record of 3 hours, 23 minutes, 8.4 seconds",
+          "answer": "John Glenn",
+          "isDailyDouble": false,
+          "orderNumber": 6,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Steve",
+              "score": 2400
+            },
+            {
+              "player": "Rob",
+              "score": 3000
+            },
+            {
+              "player": "Pamela",
+              "score": 2200
+            }
+          ]
+        },
+        {
+          "category": "THEATRE HISTORY",
+          "value": 600,
+          "clue": "The first actress to play the role of Elmire in \"Tartuffe\" was his wife Armande Bejart",
+          "answer": "Moliere",
+          "isDailyDouble": false,
+          "orderNumber": 7,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Steve",
+              "score": 1800
+            },
+            {
+              "player": "Rob",
+              "score": 3000
+            },
+            {
+              "player": "Pamela",
+              "score": 2200
+            }
+          ]
+        },
+        {
+          "category": "\"WILD\" THINGS",
+          "value": 200,
+          "clue": "Before marriage, many a man is said to \"sow\" these",
+          "answer": "wild oats",
+          "isDailyDouble": false,
+          "orderNumber": 8,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve",
+              "score": 1800
+            },
+            {
+              "player": "Rob",
+              "score": 3200
+            },
+            {
+              "player": "Pamela",
+              "score": 2200
+            }
+          ]
+        },
+        {
+          "category": "THE 1950s",
+          "value": 1000,
+          "clue": "In 1956 an auto accident claimed the life of this artist nicknamed \"Jack the Dripper\"",
+          "answer": "Jackson Pollock",
+          "isDailyDouble": false,
+          "orderNumber": 9,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve",
+              "score": 1800
+            },
+            {
+              "player": "Rob",
+              "score": 3200
+            },
+            {
+              "player": "Pamela",
+              "score": 3200
+            }
+          ]
+        },
+        {
+          "category": "\"WILD\" THINGS",
+          "value": 400,
+          "clue": "Popularly served with poultry, its scientific name is Zizania aquatica",
+          "answer": "wild rice",
+          "isDailyDouble": false,
+          "orderNumber": 10,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve",
+              "score": 1800
+            },
+            {
+              "player": "Rob",
+              "score": 3200
+            },
+            {
+              "player": "Pamela",
+              "score": 3600
+            }
+          ]
+        },
+        {
+          "category": "\"WILD\" THINGS",
+          "value": 600,
+          "clue": "The domesticated pig is believed to be descended from this animal",
+          "answer": "the wild boar",
+          "isDailyDouble": false,
+          "orderNumber": 11,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve",
+              "score": 2400
+            },
+            {
+              "player": "Rob",
+              "score": 3200
+            },
+            {
+              "player": "Pamela",
+              "score": 3600
+            }
+          ]
+        },
+        {
+          "category": "THE CRUSADES",
+          "value": 200,
+          "clue": "The word crusade comes from the Latin for this, the emblem of the crusaders",
+          "answer": "the cross",
+          "isDailyDouble": false,
+          "orderNumber": 12,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve",
+              "score": 2400
+            },
+            {
+              "player": "Rob",
+              "score": 3400
+            },
+            {
+              "player": "Pamela",
+              "score": 3600
+            }
+          ]
+        },
+        {
+          "category": "ISLANDS",
+          "value": 200,
+          "clue": "When Columbus arrived at this island in 1492, he called it La Isla Espanola, or \"The Spanish Island\"",
+          "answer": "Hispaniola",
+          "isDailyDouble": false,
+          "orderNumber": 13,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve",
+              "score": 2200
+            },
+            {
+              "player": "Rob",
+              "score": 3600
+            },
+            {
+              "player": "Pamela",
+              "score": 3600
+            }
+          ]
+        },
+        {
+          "category": "ISLANDS",
+          "value": 400,
+          "clue": "Catania, Palermo & Messina are 3 of this island's 9 provinces",
+          "answer": "Sicily",
+          "isDailyDouble": false,
+          "orderNumber": 14,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve",
+              "score": 2600
+            },
+            {
+              "player": "Rob",
+              "score": 3600
+            },
+            {
+              "player": "Pamela",
+              "score": 3600
+            }
+          ]
+        },
+        {
+          "category": "THE CRUSADES",
+          "value": 400,
+          "clue": "This city was closed to Christians in 1071; in 1099 the First Crusade managed to reopen it",
+          "answer": "Jerusalem",
+          "isDailyDouble": false,
+          "orderNumber": 15,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve",
+              "score": 2600
+            },
+            {
+              "player": "Rob",
+              "score": 4000
+            },
+            {
+              "player": "Pamela",
+              "score": 3600
+            }
+          ]
+        },
+        {
+          "category": "ISLANDS",
+          "value": 600,
+          "clue": "The largest town on this island is Godthaab, known as Nuk in the Eskimo language",
+          "answer": "Greenland",
+          "isDailyDouble": false,
+          "orderNumber": 16,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve",
+              "score": 2600
+            },
+            {
+              "player": "Rob",
+              "score": 4000
+            },
+            {
+              "player": "Pamela",
+              "score": 4200
+            }
+          ]
+        },
+        {
+          "category": "THEATRE HISTORY",
+          "value": 800,
+          "clue": "Richard Brome, a servant to this \"Volpone\" playwright, later wrote satirical comedies himself",
+          "answer": "Ben Jonson",
+          "isDailyDouble": false,
+          "orderNumber": 17,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve",
+              "score": 3400
+            },
+            {
+              "player": "Rob",
+              "score": 4000
+            },
+            {
+              "player": "Pamela",
+              "score": 4200
+            }
+          ]
+        },
+        {
+          "category": "THEATRE HISTORY",
+          "value": 1000,
+          "clue": "German playwright who developed his \"Epic Theatre\" style in such plays as \"Mother Courage\"",
+          "answer": "Bertolt Brecht",
+          "isDailyDouble": false,
+          "orderNumber": 18,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve",
+              "score": 4400
+            },
+            {
+              "player": "Rob",
+              "score": 4000
+            },
+            {
+              "player": "Pamela",
+              "score": 4200
+            }
+          ]
+        },
+        {
+          "category": "THE CRUSADES",
+          "value": 600,
+          "clue": "In 1174 Saladin became supreme leader of these 2 countries that reunited in 1958 as the UAR",
+          "answer": "Syria & Egypt",
+          "isDailyDouble": false,
+          "orderNumber": 19,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve",
+              "score": 4400
+            },
+            {
+              "player": "Rob",
+              "score": 4600
+            },
+            {
+              "player": "Pamela",
+              "score": 4200
+            }
+          ]
+        },
+        {
+          "category": "ISLANDS",
+          "value": 800,
+          "clue": "Mount Sarmiento, at 7,550 feet, is the highest point in these islands at the tip of South America",
+          "answer": "Tierra del Fuego",
+          "isDailyDouble": false,
+          "orderNumber": 20,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve",
+              "score": 4400
+            },
+            {
+              "player": "Rob",
+              "score": 5400
+            },
+            {
+              "player": "Pamela",
+              "score": 3400
+            }
+          ]
+        },
+        {
+          "category": "ISLANDS",
+          "value": 600,
+          "clue": "This country's 4 main islands are Chatham, North, South & Stewart",
+          "answer": "New Zealand",
+          "isDailyDouble": true,
+          "orderNumber": 21,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve",
+              "score": 4400
+            },
+            {
+              "player": "Rob",
+              "score": 6000
+            },
+            {
+              "player": "Pamela",
+              "score": 3400
+            }
+          ]
+        },
+        {
+          "category": "\"WILD\" THINGS",
+          "value": 800,
+          "clue": "It was President Truman's 1948 campaign song",
+          "answer": "\"I'm Just Wild About Harry\"",
+          "isDailyDouble": false,
+          "orderNumber": 22,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve",
+              "score": 4400
+            },
+            {
+              "player": "Rob",
+              "score": 6000
+            },
+            {
+              "player": "Pamela",
+              "score": 4200
+            }
+          ]
+        },
+        {
+          "category": "\"WILD\" THINGS",
+          "value": 1000,
+          "clue": "This 1969 western is considered Sam Peckinpah's best work",
+          "answer": "The Wild Bunch",
+          "isDailyDouble": false,
+          "orderNumber": 23,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve",
+              "score": 4400
+            },
+            {
+              "player": "Rob",
+              "score": 7000
+            },
+            {
+              "player": "Pamela",
+              "score": 4200
+            }
+          ]
+        },
+        {
+          "category": "THE CRUSADES",
+          "value": 800,
+          "clue": "The 3rd Crusade was the \"Crusade of Kings\" as Frederick I, Philip II & this king of England answered the call",
+          "answer": "Richard",
+          "isDailyDouble": false,
+          "orderNumber": 24,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve",
+              "score": 5200
+            },
+            {
+              "player": "Rob",
+              "score": 7000
+            },
+            {
+              "player": "Pamela",
+              "score": 4200
+            }
+          ]
+        },
+        {
+          "category": "THE CRUSADES",
+          "value": 1000,
+          "clue": "In the First Crusade, this hermit led one of the largest groups",
+          "answer": "Peter the Hermit (Pierre l'Ermite)",
+          "isDailyDouble": false,
+          "orderNumber": 25,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Steve",
+              "score": 5200
+            },
+            {
+              "player": "Rob",
+              "score": 7000
+            },
+            {
+              "player": "Pamela",
+              "score": 4200
+            }
+          ]
+        },
+        {
+          "category": "U.S. GOVERNMENT & POLITICS",
+          "value": 3000,
+          "clue": "Dale Bumpers was this state's governor from 1971 until 1975, when he entered the U.S Senate",
+          "answer": "Arkansas",
+          "isDailyDouble": true,
+          "orderNumber": 26,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve",
+              "score": 8200
+            },
+            {
+              "player": "Rob",
+              "score": 7000
+            },
+            {
+              "player": "Pamela",
+              "score": 4200
+            }
+          ]
+        },
+        {
+          "category": "U.S. GOVERNMENT & POLITICS",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve",
+              "score": 8200
+            },
+            {
+              "player": "Rob",
+              "score": 7000
+            },
+            {
+              "player": "Pamela",
+              "score": 4200
+            }
+          ]
+        },
+        {
+          "category": "U.S. GOVERNMENT & POLITICS",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve",
+              "score": 8200
+            },
+            {
+              "player": "Rob",
+              "score": 7000
+            },
+            {
+              "player": "Pamela",
+              "score": 4200
+            }
+          ]
+        },
+        {
+          "category": "U.S. GOVERNMENT & POLITICS",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve",
+              "score": 8200
+            },
+            {
+              "player": "Rob",
+              "score": 7000
+            },
+            {
+              "player": "Pamela",
+              "score": 4200
+            }
+          ]
+        },
+        {
+          "category": "U.S. GOVERNMENT & POLITICS",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve",
+              "score": 8200
+            },
+            {
+              "player": "Rob",
+              "score": 7000
+            },
+            {
+              "player": "Pamela",
+              "score": 4200
+            }
+          ]
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "Steve",
+          "score": 8200
+        },
+        {
+          "player": "Rob",
+          "score": 7000
+        },
+        {
+          "player": "Pamela",
+          "score": 4200
+        }
+      ]
+    },
+    "finalJeopardy": {
+      "category": "MODERN NOVELS",
+      "clue": "Chapter VII of this James Michener novel is titled \"Mazurka\"",
+      "answer": "Poland",
+      "responses": [
+        {
+          "contestant": "Pamela",
+          "response": "What is Russia?",
+          "isCorrect": false,
+          "isIncorrect": true,
+          "value": 0,
+          "finalScore": 4200
+        },
+        {
+          "contestant": "Rob",
+          "response": "What is Poland?",
+          "isCorrect": true,
+          "isIncorrect": false,
+          "value": 2000,
+          "finalScore": 9000
+        },
+        {
+          "contestant": "Steve",
+          "response": "What is Poland?",
+          "isCorrect": true,
+          "isIncorrect": false,
+          "value": 5801,
+          "finalScore": 14001
+        }
+      ]
+    }
+  },
+  "finalScores": [
+    {
+      "player": "Steve",
+      "score": "$14,001"
+    },
+    {
+      "player": "Rob",
+      "score": "$9,000"
+    },
+    {
+      "player": "Pamela",
+      "score": "$4,200"
+    }
+  ],
+  "coryatScores": [
+    {
+      "player": "Steve",
+      "score": 5500
+    },
+    {
+      "player": "Rob",
+      "score": 7400
+    },
+    {
+      "player": "Pamela",
+      "score": 4200
+    }
+  ]
+}

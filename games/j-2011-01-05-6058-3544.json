@@ -1,0 +1,1703 @@
+{
+  "gameId": 3544,
+  "showNumber": "6058",
+  "title": "Show #6058 - Wednesday, January 5, 2011",
+  "date": "2011-01-05",
+  "comments": "",
+  "contestants": [
+    "Steve",
+    "Erik",
+    "Melissa"
+  ],
+  "rounds": {
+    "jeopardy": {
+      "categories": [
+        "IT'S TV, IT'S HBO",
+        "THE LAST EMPEROR",
+        "PRESIDENTIAL RHYME TIME",
+        "CONTRARY TO POPULAR BELIEF",
+        "TAKE A LETTER",
+        "\"I\"s IN THE PRIZE"
+      ],
+      "clues": [
+        {
+          "category": "TAKE A LETTER",
+          "value": 200,
+          "clue": "Theodore Roosevelt did not use this personal pronoun once during his 1905 inaugural address",
+          "answer": "I",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [
+            "Erik"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve",
+              "score": 0
+            },
+            {
+              "player": "Erik",
+              "score": 200
+            },
+            {
+              "player": "Melissa",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "THE LAST EMPEROR",
+          "value": 600,
+          "clue": "Maximilian",
+          "answer": "Mexico",
+          "isDailyDouble": false,
+          "orderNumber": 2,
+          "correctContestants": [
+            "Steve"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve",
+              "score": 600
+            },
+            {
+              "player": "Erik",
+              "score": 200
+            },
+            {
+              "player": "Melissa",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "TAKE A LETTER",
+          "value": 400,
+          "clue": "This letter has been used as slang for a $10 bill",
+          "answer": "an X",
+          "isDailyDouble": false,
+          "orderNumber": 3,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Steve",
+            "Melissa"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Steve",
+              "score": 200
+            },
+            {
+              "player": "Erik",
+              "score": 200
+            },
+            {
+              "player": "Melissa",
+              "score": -400
+            }
+          ]
+        },
+        {
+          "category": "THE LAST EMPEROR",
+          "value": 200,
+          "clue": "Napoleon III",
+          "answer": "France",
+          "isDailyDouble": false,
+          "orderNumber": 4,
+          "correctContestants": [
+            "Steve"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve",
+              "score": 400
+            },
+            {
+              "player": "Erik",
+              "score": 200
+            },
+            {
+              "player": "Melissa",
+              "score": -400
+            }
+          ]
+        },
+        {
+          "category": "THE LAST EMPEROR",
+          "value": 400,
+          "clue": "Puyi, aka Xuantong",
+          "answer": "China",
+          "isDailyDouble": false,
+          "orderNumber": 5,
+          "correctContestants": [
+            "Erik"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve",
+              "score": 400
+            },
+            {
+              "player": "Erik",
+              "score": 600
+            },
+            {
+              "player": "Melissa",
+              "score": -400
+            }
+          ]
+        },
+        {
+          "category": "THE LAST EMPEROR",
+          "value": 800,
+          "clue": "Sultan Mehmed VI",
+          "answer": "the Ottoman Empire",
+          "isDailyDouble": false,
+          "orderNumber": 6,
+          "correctContestants": [
+            "Erik"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve",
+              "score": 400
+            },
+            {
+              "player": "Erik",
+              "score": 1400
+            },
+            {
+              "player": "Melissa",
+              "score": -400
+            }
+          ]
+        },
+        {
+          "category": "THE LAST EMPEROR",
+          "value": 1000,
+          "clue": "Constantine XI",
+          "answer": "the Byzantine Empire",
+          "isDailyDouble": false,
+          "orderNumber": 7,
+          "correctContestants": [
+            "Erik"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve",
+              "score": 400
+            },
+            {
+              "player": "Erik",
+              "score": 2400
+            },
+            {
+              "player": "Melissa",
+              "score": -400
+            }
+          ]
+        },
+        {
+          "category": "\"I\"s IN THE PRIZE",
+          "value": 2400,
+          "clue": "Created in 1949, the peace prize bearing this man's name was renamed the Lenin Prize in 1956",
+          "answer": "Joseph Stalin",
+          "isDailyDouble": true,
+          "orderNumber": 8,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Erik"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve",
+              "score": 400
+            },
+            {
+              "player": "Erik",
+              "score": 0
+            },
+            {
+              "player": "Melissa",
+              "score": -400
+            }
+          ]
+        },
+        {
+          "category": "PRESIDENTIAL RHYME TIME",
+          "value": 600,
+          "clue": "Zachary's padded envelopes",
+          "answer": "Taylor's mailers",
+          "isDailyDouble": false,
+          "orderNumber": 9,
+          "correctContestants": [
+            "Erik"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve",
+              "score": 400
+            },
+            {
+              "player": "Erik",
+              "score": 600
+            },
+            {
+              "player": "Melissa",
+              "score": -400
+            }
+          ]
+        },
+        {
+          "category": "PRESIDENTIAL RHYME TIME",
+          "value": 800,
+          "clue": "Herbert's strategic military exercises",
+          "answer": "Hoover's maneuvers",
+          "isDailyDouble": false,
+          "orderNumber": 10,
+          "correctContestants": [
+            "Erik"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve",
+              "score": 400
+            },
+            {
+              "player": "Erik",
+              "score": 1400
+            },
+            {
+              "player": "Melissa",
+              "score": -400
+            }
+          ]
+        },
+        {
+          "category": "PRESIDENTIAL RHYME TIME",
+          "value": 1000,
+          "clue": "James K.'s Ma & Pa",
+          "answer": "Polk's folks",
+          "isDailyDouble": false,
+          "orderNumber": 11,
+          "correctContestants": [
+            "Steve"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve",
+              "score": 1400
+            },
+            {
+              "player": "Erik",
+              "score": 1400
+            },
+            {
+              "player": "Melissa",
+              "score": -400
+            }
+          ]
+        },
+        {
+          "category": "PRESIDENTIAL RHYME TIME",
+          "value": 400,
+          "clue": "George W.'s rumps",
+          "answer": "Bush's tushes",
+          "isDailyDouble": false,
+          "orderNumber": 12,
+          "correctContestants": [
+            "Erik"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve",
+              "score": 1400
+            },
+            {
+              "player": "Erik",
+              "score": 1800
+            },
+            {
+              "player": "Melissa",
+              "score": -400
+            }
+          ]
+        },
+        {
+          "category": "CONTRARY TO POPULAR BELIEF",
+          "value": 600,
+          "clue": "By some measures, the largest organism isn't a blue whale, but a 2,385-acre Oregon mushroom, the \"humongous\" this",
+          "answer": "fungus",
+          "isDailyDouble": false,
+          "orderNumber": 13,
+          "correctContestants": [
+            "Erik"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve",
+              "score": 1400
+            },
+            {
+              "player": "Erik",
+              "score": 2400
+            },
+            {
+              "player": "Melissa",
+              "score": -400
+            }
+          ]
+        },
+        {
+          "category": "CONTRARY TO POPULAR BELIEF",
+          "value": 800,
+          "clue": "Some argue there are 46 states, not 50, as Virginia, Kentucky, Pennsylvania & Massachusetts are all these",
+          "answer": "Commonwealths",
+          "isDailyDouble": false,
+          "orderNumber": 14,
+          "correctContestants": [
+            "Melissa"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve",
+              "score": 1400
+            },
+            {
+              "player": "Erik",
+              "score": 2400
+            },
+            {
+              "player": "Melissa",
+              "score": 400
+            }
+          ]
+        },
+        {
+          "category": "IT'S TV, IT'S HBO",
+          "value": 200,
+          "clue": "Steve Buscemi whoops it up during Prohibition in this 2010 drama",
+          "answer": "Boardwalk Empire",
+          "isDailyDouble": false,
+          "orderNumber": 15,
+          "correctContestants": [
+            "Melissa"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve",
+              "score": 1400
+            },
+            {
+              "player": "Erik",
+              "score": 2400
+            },
+            {
+              "player": "Melissa",
+              "score": 600
+            }
+          ]
+        },
+        {
+          "category": "IT'S TV, IT'S HBO",
+          "value": 400,
+          "clue": "In 2010 this war-based miniseries produced by Spielberg & Hanks got 24 Emmy nominations",
+          "answer": "The Pacific",
+          "isDailyDouble": false,
+          "orderNumber": 16,
+          "correctContestants": [
+            "Melissa"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve",
+              "score": 1400
+            },
+            {
+              "player": "Erik",
+              "score": 2400
+            },
+            {
+              "player": "Melissa",
+              "score": 1000
+            }
+          ]
+        },
+        {
+          "category": "IT'S TV, IT'S HBO",
+          "value": 600,
+          "clue": "This comedy website has come to HBO with Will Ferrell as an executive producer",
+          "answer": "Funny or Die",
+          "isDailyDouble": false,
+          "orderNumber": 17,
+          "correctContestants": [
+            "Melissa"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve",
+              "score": 1400
+            },
+            {
+              "player": "Erik",
+              "score": 2400
+            },
+            {
+              "player": "Melissa",
+              "score": 1600
+            }
+          ]
+        },
+        {
+          "category": "IT'S TV, IT'S HBO",
+          "value": 800,
+          "clue": "In 2007 the Emmy for writing for a drama went to David Chase's \"Made in America\" episode of this show, & then...",
+          "answer": "The Sopranos",
+          "isDailyDouble": false,
+          "orderNumber": 18,
+          "correctContestants": [
+            "Melissa"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve",
+              "score": 1400
+            },
+            {
+              "player": "Erik",
+              "score": 2400
+            },
+            {
+              "player": "Melissa",
+              "score": 2400
+            }
+          ]
+        },
+        {
+          "category": "IT'S TV, IT'S HBO",
+          "value": 1000,
+          "clue": "Mary Lou got a new job in the 1998 finale of this Garry Shandling show--\"Jeopardy!\" contestant coordinator",
+          "answer": "The Larry Sanders Show",
+          "isDailyDouble": false,
+          "orderNumber": 19,
+          "correctContestants": [
+            "Steve"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve",
+              "score": 2400
+            },
+            {
+              "player": "Erik",
+              "score": 2400
+            },
+            {
+              "player": "Melissa",
+              "score": 2400
+            }
+          ]
+        },
+        {
+          "category": "PRESIDENTIAL RHYME TIME",
+          "value": 200,
+          "clue": "Barack's Andean pack animals",
+          "answer": "Obama's llamas",
+          "isDailyDouble": false,
+          "orderNumber": 20,
+          "correctContestants": [
+            "Erik"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve",
+              "score": 2400
+            },
+            {
+              "player": "Erik",
+              "score": 2600
+            },
+            {
+              "player": "Melissa",
+              "score": 2400
+            }
+          ]
+        },
+        {
+          "category": "CONTRARY TO POPULAR BELIEF",
+          "value": 1000,
+          "clue": "Some think America was named for Richard Ameryk, one of Cabot's investors, not for this Italian who died in 1512",
+          "answer": "Amerigo Vespucci",
+          "isDailyDouble": false,
+          "orderNumber": 21,
+          "correctContestants": [
+            "Steve"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve",
+              "score": 3400
+            },
+            {
+              "player": "Erik",
+              "score": 2600
+            },
+            {
+              "player": "Melissa",
+              "score": 2400
+            }
+          ]
+        },
+        {
+          "category": "CONTRARY TO POPULAR BELIEF",
+          "value": 400,
+          "clue": "This \"ground lion\" reptile rarely changes its color for camouflage: it's usually signifying its emotional state",
+          "answer": "chameleon",
+          "isDailyDouble": false,
+          "orderNumber": 22,
+          "correctContestants": [
+            "Erik"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve",
+              "score": 3400
+            },
+            {
+              "player": "Erik",
+              "score": 3000
+            },
+            {
+              "player": "Melissa",
+              "score": 2400
+            }
+          ]
+        },
+        {
+          "category": "CONTRARY TO POPULAR BELIEF",
+          "value": 200,
+          "clue": "When Rome burned in 64 A.D., Nero was 35 miles away & couldn't have played this, as it wasn't invented until the 15th c.",
+          "answer": "a fiddle",
+          "isDailyDouble": false,
+          "orderNumber": 23,
+          "correctContestants": [
+            "Erik"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve",
+              "score": 3400
+            },
+            {
+              "player": "Erik",
+              "score": 3200
+            },
+            {
+              "player": "Melissa",
+              "score": 2400
+            }
+          ]
+        },
+        {
+          "category": "TAKE A LETTER",
+          "value": 600,
+          "clue": "This vowel appears most often in the 2-letter postal abbreviations of the 50 states",
+          "answer": "A",
+          "isDailyDouble": false,
+          "orderNumber": 24,
+          "correctContestants": [
+            "Steve"
+          ],
+          "incorrectContestants": [
+            "Erik"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve",
+              "score": 4000
+            },
+            {
+              "player": "Erik",
+              "score": 2600
+            },
+            {
+              "player": "Melissa",
+              "score": 2400
+            }
+          ]
+        },
+        {
+          "category": "TAKE A LETTER",
+          "value": 800,
+          "clue": "On a compass this letter is found at 270 degrees",
+          "answer": "W",
+          "isDailyDouble": false,
+          "orderNumber": 25,
+          "correctContestants": [
+            "Steve"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve",
+              "score": 4800
+            },
+            {
+              "player": "Erik",
+              "score": 2600
+            },
+            {
+              "player": "Melissa",
+              "score": 2400
+            }
+          ]
+        },
+        {
+          "category": "TAKE A LETTER",
+          "value": 1000,
+          "clue": "An old book says it's pronounced \"by closing the lips... and letting the voice issue by the nose\"",
+          "answer": "M",
+          "isDailyDouble": false,
+          "orderNumber": 26,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Steve"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Steve",
+              "score": 3800
+            },
+            {
+              "player": "Erik",
+              "score": 2600
+            },
+            {
+              "player": "Melissa",
+              "score": 2400
+            }
+          ]
+        },
+        {
+          "category": "\"I\"s IN THE PRIZE",
+          "value": 200,
+          "clue": "The Seattle Times won one in 2010 for its breaking news reporting",
+          "answer": "a Pulitzer",
+          "isDailyDouble": false,
+          "orderNumber": 27,
+          "correctContestants": [
+            "Erik"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve",
+              "score": 3800
+            },
+            {
+              "player": "Erik",
+              "score": 2800
+            },
+            {
+              "player": "Melissa",
+              "score": 2400
+            }
+          ]
+        },
+        {
+          "category": "\"I\"s IN THE PRIZE",
+          "value": 1000,
+          "clue": "The Medal of Honor named for this island was \"designed to pay homage to the immigrant experience\"",
+          "answer": "Ellis Island",
+          "isDailyDouble": false,
+          "orderNumber": 28,
+          "correctContestants": [
+            "Steve"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve",
+              "score": 4800
+            },
+            {
+              "player": "Erik",
+              "score": 2800
+            },
+            {
+              "player": "Melissa",
+              "score": 2400
+            }
+          ]
+        },
+        {
+          "category": "\"I\"s IN THE PRIZE",
+          "value": 800,
+          "clue": "The only Nobel Prize that has 2 names is this \"or medicine\"",
+          "answer": "physiology",
+          "isDailyDouble": false,
+          "orderNumber": 29,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Erik",
+            "Melissa"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Steve",
+              "score": 4800
+            },
+            {
+              "player": "Erik",
+              "score": 2000
+            },
+            {
+              "player": "Melissa",
+              "score": 1600
+            }
+          ]
+        },
+        {
+          "category": "\"I\"s IN THE PRIZE",
+          "value": 600,
+          "clue": "In 1971 Pope Paul VI created a peace prize named for his predecessor, John this number",
+          "answer": "the XXIII",
+          "isDailyDouble": false,
+          "orderNumber": 30,
+          "correctContestants": [
+            "Steve"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve",
+              "score": 5400
+            },
+            {
+              "player": "Erik",
+              "score": 2000
+            },
+            {
+              "player": "Melissa",
+              "score": 1600
+            }
+          ]
+        }
+      ],
+      "firstBreakScores": [
+        {
+          "player": "Steve",
+          "score": 1400
+        },
+        {
+          "player": "Erik",
+          "score": 2400
+        },
+        {
+          "player": "Melissa",
+          "score": 600
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "Steve",
+          "score": 5400
+        },
+        {
+          "player": "Erik",
+          "score": 2000
+        },
+        {
+          "player": "Melissa",
+          "score": 1600
+        }
+      ]
+    },
+    "doubleJeopardy": {
+      "categories": [
+        "IT'S NOT TV, IT'S \"HBO\"",
+        "BROADWAY BILLYS",
+        "ADVENTUROUS WOMEN",
+        "BRITISH ROYAL HOUSE, PLEASE",
+        "LITERARY E-MAIL ADDRESSES",
+        "SUGAR"
+      ],
+      "clues": [
+        {
+          "category": "ADVENTUROUS WOMEN",
+          "value": 800,
+          "clue": "19th c. Congo traveler Mary Kingsley said this large ape is \"the most horrible wild animal I have seen\"",
+          "answer": "a gorilla",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve",
+              "score": 6200
+            },
+            {
+              "player": "Erik",
+              "score": 2000
+            },
+            {
+              "player": "Melissa",
+              "score": 1600
+            }
+          ]
+        },
+        {
+          "category": "ADVENTUROUS WOMEN",
+          "value": 400,
+          "clue": "In 1900 Canada's Geraldine Moodie became the first female photographer working above this \"circle\"",
+          "answer": "the Arctic Circle",
+          "isDailyDouble": false,
+          "orderNumber": 2,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve",
+              "score": 6200
+            },
+            {
+              "player": "Erik",
+              "score": 2000
+            },
+            {
+              "player": "Melissa",
+              "score": 2000
+            }
+          ]
+        },
+        {
+          "category": "ADVENTUROUS WOMEN",
+          "value": 1200,
+          "clue": "In 1906 explorer Fanny B. Workman claimed to have climbed higher than 23,000 feet in these mountains",
+          "answer": "the Himalayans",
+          "isDailyDouble": false,
+          "orderNumber": 3,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve",
+              "score": 6200
+            },
+            {
+              "player": "Erik",
+              "score": 2000
+            },
+            {
+              "player": "Melissa",
+              "score": 3200
+            }
+          ]
+        },
+        {
+          "category": "ADVENTUROUS WOMEN",
+          "value": 1600,
+          "clue": "Around 1901 archaeologist Gertrude Bell excavated many of the ruins of Iraq & later began this city's Natl. Museum",
+          "answer": "Baghdad",
+          "isDailyDouble": false,
+          "orderNumber": 4,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve",
+              "score": 7800
+            },
+            {
+              "player": "Erik",
+              "score": 2000
+            },
+            {
+              "player": "Melissa",
+              "score": 3200
+            }
+          ]
+        },
+        {
+          "category": "ADVENTUROUS WOMEN",
+          "value": 2000,
+          "clue": "In the 1840s Ida Pfeiffer of Austria published an account of her trip along this long river to the Black Sea",
+          "answer": "the Danube",
+          "isDailyDouble": false,
+          "orderNumber": 5,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve",
+              "score": 7800
+            },
+            {
+              "player": "Erik",
+              "score": 0
+            },
+            {
+              "player": "Melissa",
+              "score": 5200
+            }
+          ]
+        },
+        {
+          "category": "LITERARY E-MAIL ADDRESSES",
+          "value": 400,
+          "clue": "hogwarts_headmaster@harrypotter.edu",
+          "answer": "Dumbledore",
+          "isDailyDouble": false,
+          "orderNumber": 6,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve",
+              "score": 7400
+            },
+            {
+              "player": "Erik",
+              "score": 400
+            },
+            {
+              "player": "Melissa",
+              "score": 5200
+            }
+          ]
+        },
+        {
+          "category": "SUGAR",
+          "value": 1600,
+          "clue": "(Sarah of the Clue Crew looks at large bins of raw sugar at the Domino Sugar Refinery in New Orleans, LA.)  Sugar beets can be stored but this plant, grown in Florida & used by Domino Sugar, deteriorates so it has to be quickly turned into raw sugar, then refined",
+          "answer": "sugar cane",
+          "isDailyDouble": false,
+          "orderNumber": 7,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve",
+              "score": 9000
+            },
+            {
+              "player": "Erik",
+              "score": 400
+            },
+            {
+              "player": "Melissa",
+              "score": 5200
+            }
+          ]
+        },
+        {
+          "category": "SUGAR",
+          "value": 1200,
+          "clue": "In golden syrup, a byproduct of refining, some of the sucrose is broken down into these 2 sugars",
+          "answer": "glucose & fructose",
+          "isDailyDouble": false,
+          "orderNumber": 8,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Steve",
+              "score": 9000
+            },
+            {
+              "player": "Erik",
+              "score": 400
+            },
+            {
+              "player": "Melissa",
+              "score": 5200
+            }
+          ]
+        },
+        {
+          "category": "SUGAR",
+          "value": 800,
+          "clue": "(Jimmy of the Clue Crew stands by sugar washing equipment at the Domino Sugar Refinery in New Orleans, LA.)  An early process in refining is washing the syrupy mother liquor from the raw sugar in this type of rotating machine",
+          "answer": "a centrifuge",
+          "isDailyDouble": false,
+          "orderNumber": 9,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Steve",
+              "score": 9000
+            },
+            {
+              "player": "Erik",
+              "score": 400
+            },
+            {
+              "player": "Melissa",
+              "score": 5200
+            }
+          ]
+        },
+        {
+          "category": "SUGAR",
+          "value": 2000,
+          "clue": "(Jimmy of the Clue Crew carries a container in the Domino Sugar Refinery in New Orleans, LA.)  In large factory vacuum pans, the sugar seed is mixed into the mother liquor to initiate the formation of these structures; the surface regularity reflects its internal atomic symmetry",
+          "answer": "crystals",
+          "isDailyDouble": false,
+          "orderNumber": 10,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Steve",
+              "score": 9000
+            },
+            {
+              "player": "Erik",
+              "score": 400
+            },
+            {
+              "player": "Melissa",
+              "score": 5200
+            }
+          ]
+        },
+        {
+          "category": "SUGAR",
+          "value": 400,
+          "clue": "(Jimmy of the Clue Crew holds a container of a viscous brown substance near large equipment inside the Domino Sugar Refinery in New Orleans, LA.)  In the refining process, seven different boiling sessions will force 100 pounds of sugar to yield 1.5 pounds of this sticky substance",
+          "answer": "molasses",
+          "isDailyDouble": false,
+          "orderNumber": 11,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve",
+              "score": 9000
+            },
+            {
+              "player": "Erik",
+              "score": 800
+            },
+            {
+              "player": "Melissa",
+              "score": 5200
+            }
+          ]
+        },
+        {
+          "category": "BRITISH ROYAL HOUSE, PLEASE",
+          "value": 1200,
+          "clue": "In 1940 this company began making Peppermint Patties in Pennsylvania",
+          "answer": "York",
+          "isDailyDouble": false,
+          "orderNumber": 12,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve",
+              "score": 9000
+            },
+            {
+              "player": "Erik",
+              "score": 2000
+            },
+            {
+              "player": "Melissa",
+              "score": 5200
+            }
+          ]
+        },
+        {
+          "category": "BRITISH ROYAL HOUSE, PLEASE",
+          "value": 1600,
+          "clue": "Take a \"G\" away from what you have the next day after too many Pimm's cups the night before to get this royal house",
+          "answer": "Hanover",
+          "isDailyDouble": false,
+          "orderNumber": 13,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve",
+              "score": 10600
+            },
+            {
+              "player": "Erik",
+              "score": 2000
+            },
+            {
+              "player": "Melissa",
+              "score": 5200
+            }
+          ]
+        },
+        {
+          "category": "BRITISH ROYAL HOUSE, PLEASE",
+          "value": 800,
+          "clue": "A type of wide, triangular necktie knot",
+          "answer": "a Windsor",
+          "isDailyDouble": false,
+          "orderNumber": 14,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve",
+              "score": 10600
+            },
+            {
+              "player": "Erik",
+              "score": 2800
+            },
+            {
+              "player": "Melissa",
+              "score": 5200
+            }
+          ]
+        },
+        {
+          "category": "BRITISH ROYAL HOUSE, PLEASE",
+          "value": 2000,
+          "clue": "Confederate general Jeb lent this surname to light tanks known as the M2, M3 & M5",
+          "answer": "Stuart",
+          "isDailyDouble": false,
+          "orderNumber": 15,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve",
+              "score": 12600
+            },
+            {
+              "player": "Erik",
+              "score": 2800
+            },
+            {
+              "player": "Melissa",
+              "score": 5200
+            }
+          ]
+        },
+        {
+          "category": "BRITISH ROYAL HOUSE, PLEASE",
+          "value": 400,
+          "clue": "Surname of the actor who played Elmer Gantry on film",
+          "answer": "Lancaster",
+          "isDailyDouble": false,
+          "orderNumber": 16,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve",
+              "score": 13000
+            },
+            {
+              "player": "Erik",
+              "score": 2800
+            },
+            {
+              "player": "Melissa",
+              "score": 5200
+            }
+          ]
+        },
+        {
+          "category": "LITERARY E-MAIL ADDRESSES",
+          "value": 800,
+          "clue": "aka-smeagol@my-precious.info",
+          "answer": "Gollum",
+          "isDailyDouble": false,
+          "orderNumber": 17,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve",
+              "score": 13800
+            },
+            {
+              "player": "Erik",
+              "score": 2800
+            },
+            {
+              "player": "Melissa",
+              "score": 5200
+            }
+          ]
+        },
+        {
+          "category": "LITERARY E-MAIL ADDRESSES",
+          "value": 2500,
+          "clue": "ageless-wonder@wilde-pictures.com",
+          "answer": "Dorian Gray",
+          "isDailyDouble": true,
+          "orderNumber": 18,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve",
+              "score": 16300
+            },
+            {
+              "player": "Erik",
+              "score": 2800
+            },
+            {
+              "player": "Melissa",
+              "score": 5200
+            }
+          ]
+        },
+        {
+          "category": "LITERARY E-MAIL ADDRESSES",
+          "value": 1600,
+          "clue": "naval-historian-action-guy@clancy.cia.gov",
+          "answer": "Jack Ryan",
+          "isDailyDouble": false,
+          "orderNumber": 19,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve",
+              "score": 16300
+            },
+            {
+              "player": "Erik",
+              "score": 2800
+            },
+            {
+              "player": "Melissa",
+              "score": 6800
+            }
+          ]
+        },
+        {
+          "category": "LITERARY E-MAIL ADDRESSES",
+          "value": 2000,
+          "clue": "diarist@1984ministry-of-truth.gov",
+          "answer": "Winston Smith",
+          "isDailyDouble": false,
+          "orderNumber": 20,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve",
+              "score": 18300
+            },
+            {
+              "player": "Erik",
+              "score": 2800
+            },
+            {
+              "player": "Melissa",
+              "score": 6800
+            }
+          ]
+        },
+        {
+          "category": "BROADWAY BILLYS",
+          "value": 400,
+          "clue": "\"Mr. Saturday Night\" in the movies, in 2004 he starred in a one-man show called \"700 Sundays\"",
+          "answer": "Billy Crystal",
+          "isDailyDouble": false,
+          "orderNumber": 21,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve",
+              "score": 18700
+            },
+            {
+              "player": "Erik",
+              "score": 2800
+            },
+            {
+              "player": "Melissa",
+              "score": 6800
+            }
+          ]
+        },
+        {
+          "category": "BROADWAY BILLYS",
+          "value": 800,
+          "clue": "In 2003 Patrick Swayze did a 2-week stint as lawyer Billy Flynn in this musical",
+          "answer": "Chicago",
+          "isDailyDouble": false,
+          "orderNumber": 22,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve",
+              "score": 18700
+            },
+            {
+              "player": "Erik",
+              "score": 2800
+            },
+            {
+              "player": "Melissa",
+              "score": 7600
+            }
+          ]
+        },
+        {
+          "category": "BROADWAY BILLYS",
+          "value": 1200,
+          "clue": "In 2010 this Broadway dancing title tot was played by Liam Redhead (& 3 other boys, on different nights)",
+          "answer": "Billy Elliot",
+          "isDailyDouble": false,
+          "orderNumber": 23,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve",
+              "score": 19900
+            },
+            {
+              "player": "Erik",
+              "score": 2800
+            },
+            {
+              "player": "Melissa",
+              "score": 7600
+            }
+          ]
+        },
+        {
+          "category": "IT'S NOT TV, IT'S \"HBO\"",
+          "value": 400,
+          "clue": "Would you be mine, could you be mine, won't you be this term from the Old English for \"near dweller\"",
+          "answer": "neighbor",
+          "isDailyDouble": false,
+          "orderNumber": 24,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve",
+              "score": 20300
+            },
+            {
+              "player": "Erik",
+              "score": 2800
+            },
+            {
+              "player": "Melissa",
+              "score": 7600
+            }
+          ]
+        },
+        {
+          "category": "IT'S NOT TV, IT'S \"HBO\"",
+          "value": 800,
+          "clue": "Jim Gallegos' collection of this toy car brand is estimated to be worth $2 million",
+          "answer": "Matchboxes",
+          "isDailyDouble": false,
+          "orderNumber": 25,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve",
+              "score": 21100
+            },
+            {
+              "player": "Erik",
+              "score": 2800
+            },
+            {
+              "player": "Melissa",
+              "score": 7600
+            }
+          ]
+        },
+        {
+          "category": "IT'S NOT TV, IT'S \"HBO\"",
+          "value": 1200,
+          "clue": "If your actions are open to public scrutiny, you're \"living life in\" one of these glass enclosures",
+          "answer": "a fishbowl",
+          "isDailyDouble": false,
+          "orderNumber": 26,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve",
+              "score": 21100
+            },
+            {
+              "player": "Erik",
+              "score": 2800
+            },
+            {
+              "player": "Melissa",
+              "score": 8800
+            }
+          ]
+        },
+        {
+          "category": "BROADWAY BILLYS",
+          "value": 1600,
+          "clue": "\"Movin' Out\", which moved into the Richard Rodgers Theatre in 2002, was based on the songs of this pop star",
+          "answer": "Billy Joel",
+          "isDailyDouble": false,
+          "orderNumber": 27,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve",
+              "score": 22700
+            },
+            {
+              "player": "Erik",
+              "score": 2800
+            },
+            {
+              "player": "Melissa",
+              "score": 8800
+            }
+          ]
+        },
+        {
+          "category": "IT'S NOT TV, IT'S \"HBO\"",
+          "value": 1600,
+          "clue": "Those darn Etruscans were said to use this chicken part to tell their fortune; wasn't so lucky for the chicken",
+          "answer": "the wishbone",
+          "isDailyDouble": false,
+          "orderNumber": 28,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve",
+              "score": 24300
+            },
+            {
+              "player": "Erik",
+              "score": 2800
+            },
+            {
+              "player": "Melissa",
+              "score": 8800
+            }
+          ]
+        },
+        {
+          "category": "IT'S NOT TV, IT'S \"HBO\"",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve",
+              "score": 24300
+            },
+            {
+              "player": "Erik",
+              "score": 2800
+            },
+            {
+              "player": "Melissa",
+              "score": 8800
+            }
+          ]
+        },
+        {
+          "category": "BROADWAY BILLYS",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve",
+              "score": 24300
+            },
+            {
+              "player": "Erik",
+              "score": 2800
+            },
+            {
+              "player": "Melissa",
+              "score": 8800
+            }
+          ]
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "Steve",
+          "score": 24300
+        },
+        {
+          "player": "Erik",
+          "score": 2800
+        },
+        {
+          "player": "Melissa",
+          "score": 8800
+        }
+      ]
+    },
+    "finalJeopardy": {
+      "category": "COUNTRIES",
+      "clue": "By area, it's the world's largest country that's named for a river",
+      "answer": "India",
+      "responses": [
+        {
+          "contestant": "Erik",
+          "response": "What is Democratic Republic of Congo",
+          "isCorrect": false,
+          "isIncorrect": true,
+          "value": 2800,
+          "finalScore": 0
+        },
+        {
+          "contestant": "Melissa",
+          "response": "What is China?",
+          "isCorrect": false,
+          "isIncorrect": true,
+          "value": 2000,
+          "finalScore": 6800
+        },
+        {
+          "contestant": "Steve",
+          "response": "What is Brazil",
+          "isCorrect": false,
+          "isIncorrect": true,
+          "value": 5700,
+          "finalScore": 18600
+        }
+      ]
+    }
+  },
+  "finalScores": [
+    {
+      "player": "Steve",
+      "score": "$18,600"
+    },
+    {
+      "player": "Erik",
+      "score": "$0"
+    },
+    {
+      "player": "Melissa",
+      "score": "$6,800"
+    }
+  ],
+  "coryatScores": [
+    {
+      "player": "Steve",
+      "score": 23000
+    },
+    {
+      "player": "Erik",
+      "score": 5200
+    },
+    {
+      "player": "Melissa",
+      "score": 8800
+    }
+  ]
+}

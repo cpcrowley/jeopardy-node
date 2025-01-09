@@ -1,0 +1,1698 @@
+{
+  "gameId": 8269,
+  "showNumber": "2176",
+  "title": "Show #2176 - Monday, February 7, 1994",
+  "date": "1994-02-07",
+  "comments": "",
+  "contestants": [
+    "Bob",
+    "Dave",
+    "Martha"
+  ],
+  "rounds": {
+    "jeopardy": {
+      "categories": [
+        "ART",
+        "GRAMMAR",
+        "GARDENING",
+        "WORLD CITIES",
+        "CRIME TIME",
+        "GENERAL HOSPITAL"
+      ],
+      "clues": [
+        {
+          "category": "WORLD CITIES",
+          "value": 100,
+          "clue": "Begun more than 400 years ago, Bakken amusement park in this Danish capital is the world's oldest",
+          "answer": "Copenhagen",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [
+            "Martha"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 0
+            },
+            {
+              "player": "Dave",
+              "score": 0
+            },
+            {
+              "player": "Martha",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "category": "WORLD CITIES",
+          "value": 200,
+          "clue": "Public art galleries in this capital include the Tate Gallery & the Wallace Collection",
+          "answer": "London",
+          "isDailyDouble": false,
+          "orderNumber": 2,
+          "correctContestants": [
+            "Bob"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 200
+            },
+            {
+              "player": "Dave",
+              "score": 0
+            },
+            {
+              "player": "Martha",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "category": "WORLD CITIES",
+          "value": 500,
+          "clue": "This city has 6 wards: San Polo, Castello, Santa Croce, Dorsoduro, Cannaregio & San Marco",
+          "answer": "Venice",
+          "isDailyDouble": true,
+          "orderNumber": 3,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Bob"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": -300
+            },
+            {
+              "player": "Dave",
+              "score": 0
+            },
+            {
+              "player": "Martha",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "category": "WORLD CITIES",
+          "value": 400,
+          "clue": "The Gaelic form of this capital's name is Dunedin",
+          "answer": "Edinburgh",
+          "isDailyDouble": false,
+          "orderNumber": 4,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Bob"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": -700
+            },
+            {
+              "player": "Dave",
+              "score": 0
+            },
+            {
+              "player": "Martha",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "category": "WORLD CITIES",
+          "value": 500,
+          "clue": "This southern Alberta city was founded by the Mounties in 1875 as Fort Brisebois",
+          "answer": "Calgary",
+          "isDailyDouble": false,
+          "orderNumber": 5,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Dave"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": -700
+            },
+            {
+              "player": "Dave",
+              "score": -500
+            },
+            {
+              "player": "Martha",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "category": "GRAMMAR",
+          "value": 100,
+          "clue": "It's the comparative form of tall",
+          "answer": "taller",
+          "isDailyDouble": false,
+          "orderNumber": 6,
+          "correctContestants": [
+            "Dave"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": -700
+            },
+            {
+              "player": "Dave",
+              "score": -400
+            },
+            {
+              "player": "Martha",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "category": "GENERAL HOSPITAL",
+          "value": 100,
+          "clue": "In 1981 this actor visited the set to research his \"Tootsie\" role",
+          "answer": "Dustin Hoffman",
+          "isDailyDouble": false,
+          "orderNumber": 7,
+          "correctContestants": [
+            "Bob"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": -600
+            },
+            {
+              "player": "Dave",
+              "score": -400
+            },
+            {
+              "player": "Martha",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "category": "GRAMMAR",
+          "value": 200,
+          "clue": "An exception to this rule goes \"but e after I when the sound is a\"",
+          "answer": "I before E except after C",
+          "isDailyDouble": false,
+          "orderNumber": 8,
+          "correctContestants": [
+            "Dave"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": -600
+            },
+            {
+              "player": "Dave",
+              "score": -200
+            },
+            {
+              "player": "Martha",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "category": "GENERAL HOSPITAL",
+          "value": 200,
+          "clue": "The hospital seen in the opening is the County-USC hospital in this city",
+          "answer": "Los Angeles",
+          "isDailyDouble": false,
+          "orderNumber": 9,
+          "correctContestants": [
+            "Martha"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": -600
+            },
+            {
+              "player": "Dave",
+              "score": -200
+            },
+            {
+              "player": "Martha",
+              "score": 300
+            }
+          ]
+        },
+        {
+          "category": "ART",
+          "value": 100,
+          "clue": "In the 1860s Antoine- Louis Barye created an equestrian statue of this emperor for his birthplace on Corsica",
+          "answer": "Napoleon",
+          "isDailyDouble": false,
+          "orderNumber": 10,
+          "correctContestants": [
+            "Dave"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": -600
+            },
+            {
+              "player": "Dave",
+              "score": -100
+            },
+            {
+              "player": "Martha",
+              "score": 300
+            }
+          ]
+        },
+        {
+          "category": "ART",
+          "value": 200,
+          "clue": "This Arizona desert provides much of the colored sand used in Hopi & Navajo sand paintings",
+          "answer": "the Painted Desert",
+          "isDailyDouble": false,
+          "orderNumber": 11,
+          "correctContestants": [
+            "Bob"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": -400
+            },
+            {
+              "player": "Dave",
+              "score": -100
+            },
+            {
+              "player": "Martha",
+              "score": 300
+            }
+          ]
+        },
+        {
+          "category": "ART",
+          "value": 300,
+          "clue": "Around 1485 Botticelli completed his painting of \"The Birth of\" this goddess",
+          "answer": "Venus",
+          "isDailyDouble": false,
+          "orderNumber": 12,
+          "correctContestants": [
+            "Bob"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": -100
+            },
+            {
+              "player": "Dave",
+              "score": -100
+            },
+            {
+              "player": "Martha",
+              "score": 300
+            }
+          ]
+        },
+        {
+          "category": "ART",
+          "value": 400,
+          "clue": "In the 1930s this Mexican artist was commissioned by Edsel Ford to create a mural on the auto industry",
+          "answer": "Diego Rivera",
+          "isDailyDouble": false,
+          "orderNumber": 13,
+          "correctContestants": [
+            "Martha"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": -100
+            },
+            {
+              "player": "Dave",
+              "score": -100
+            },
+            {
+              "player": "Martha",
+              "score": 700
+            }
+          ]
+        },
+        {
+          "category": "ART",
+          "value": 500,
+          "clue": "A famous work by Rembrandt shows this philosopher \"Contemplating the Bust of Homer\"",
+          "answer": "Aristotle",
+          "isDailyDouble": false,
+          "orderNumber": 14,
+          "correctContestants": [
+            "Bob"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 400
+            },
+            {
+              "player": "Dave",
+              "score": -100
+            },
+            {
+              "player": "Martha",
+              "score": 700
+            }
+          ]
+        },
+        {
+          "category": "CRIME TIME",
+          "value": 100,
+          "clue": "He escaped from jail in early 1930 with help from his new girlfriend, Bonnie Parker",
+          "answer": "Clyde Barrow",
+          "isDailyDouble": false,
+          "orderNumber": 15,
+          "correctContestants": [
+            "Dave"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 400
+            },
+            {
+              "player": "Dave",
+              "score": 0
+            },
+            {
+              "player": "Martha",
+              "score": 700
+            }
+          ]
+        },
+        {
+          "category": "CRIME TIME",
+          "value": 200,
+          "clue": "Type of criminal called a \"dip\"",
+          "answer": "a pickpocket",
+          "isDailyDouble": false,
+          "orderNumber": 16,
+          "correctContestants": [
+            "Bob"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 600
+            },
+            {
+              "player": "Dave",
+              "score": 0
+            },
+            {
+              "player": "Martha",
+              "score": 700
+            }
+          ]
+        },
+        {
+          "category": "CRIME TIME",
+          "value": 300,
+          "clue": "The origin of this 3-letter word for what an escapee is \"on\" is unknown",
+          "answer": "the lam",
+          "isDailyDouble": false,
+          "orderNumber": 17,
+          "correctContestants": [
+            "Bob"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 900
+            },
+            {
+              "player": "Dave",
+              "score": 0
+            },
+            {
+              "player": "Martha",
+              "score": 700
+            }
+          ]
+        },
+        {
+          "category": "CRIME TIME",
+          "value": 400,
+          "clue": "This term for the Mafia means \"our affair\"",
+          "answer": "La Cosa Nostra",
+          "isDailyDouble": false,
+          "orderNumber": 18,
+          "correctContestants": [
+            "Bob"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 1300
+            },
+            {
+              "player": "Dave",
+              "score": 0
+            },
+            {
+              "player": "Martha",
+              "score": 700
+            }
+          ]
+        },
+        {
+          "category": "CRIME TIME",
+          "value": 500,
+          "clue": "He was Public Enemy No. 1 after he escaped from jail March 3, 1934, allegedly with a carved gun",
+          "answer": "John Dillinger",
+          "isDailyDouble": false,
+          "orderNumber": 19,
+          "correctContestants": [
+            "Dave"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 1300
+            },
+            {
+              "player": "Dave",
+              "score": 500
+            },
+            {
+              "player": "Martha",
+              "score": 700
+            }
+          ]
+        },
+        {
+          "category": "GENERAL HOSPITAL",
+          "value": 300,
+          "clue": "She played Jackie Templeton in 1982-83 & went on to star in \"Ghost\" & \"A Few Good Men\"",
+          "answer": "Demi Moore",
+          "isDailyDouble": false,
+          "orderNumber": 20,
+          "correctContestants": [
+            "Dave"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 1300
+            },
+            {
+              "player": "Dave",
+              "score": 800
+            },
+            {
+              "player": "Martha",
+              "score": 700
+            }
+          ]
+        },
+        {
+          "category": "GENERAL HOSPITAL",
+          "value": 400,
+          "clue": "This \"Full House\" star played Blackie Parrish in 1982 & returned in a 1992 cameo playing himself",
+          "answer": "John Stamos",
+          "isDailyDouble": false,
+          "orderNumber": 21,
+          "correctContestants": [
+            "Dave"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 1300
+            },
+            {
+              "player": "Dave",
+              "score": 1200
+            },
+            {
+              "player": "Martha",
+              "score": 700
+            }
+          ]
+        },
+        {
+          "category": "GENERAL HOSPITAL",
+          "value": 500,
+          "clue": "In 1981 this couple was so hot they made the cover of Newsweek & their wedding made People's cover",
+          "answer": "Luke & Laura",
+          "isDailyDouble": false,
+          "orderNumber": 22,
+          "correctContestants": [
+            "Dave"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 1300
+            },
+            {
+              "player": "Dave",
+              "score": 1700
+            },
+            {
+              "player": "Martha",
+              "score": 700
+            }
+          ]
+        },
+        {
+          "category": "GRAMMAR",
+          "value": 300,
+          "clue": "One of the principal uses of this punctuation mark is to set off coordinate clauses",
+          "answer": "the comma",
+          "isDailyDouble": false,
+          "orderNumber": 23,
+          "correctContestants": [
+            "Dave"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 1300
+            },
+            {
+              "player": "Dave",
+              "score": 2000
+            },
+            {
+              "player": "Martha",
+              "score": 700
+            }
+          ]
+        },
+        {
+          "category": "GRAMMAR",
+          "value": 400,
+          "clue": "A modifier located too far from the word it's modifying is called this",
+          "answer": "misplaced",
+          "isDailyDouble": false,
+          "orderNumber": 24,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Bob"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 900
+            },
+            {
+              "player": "Dave",
+              "score": 2000
+            },
+            {
+              "player": "Martha",
+              "score": 700
+            }
+          ]
+        },
+        {
+          "category": "GRAMMAR",
+          "value": 500,
+          "clue": "The antecedent is the word or phrase that this part of speech refers to",
+          "answer": "the pronoun",
+          "isDailyDouble": false,
+          "orderNumber": 25,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 900
+            },
+            {
+              "player": "Dave",
+              "score": 2000
+            },
+            {
+              "player": "Martha",
+              "score": 700
+            }
+          ]
+        },
+        {
+          "category": "GARDENING",
+          "value": 100,
+          "clue": "The honey & bumble types of this insect are excellent pollinators",
+          "answer": "the bee",
+          "isDailyDouble": false,
+          "orderNumber": 26,
+          "correctContestants": [
+            "Bob"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 1000
+            },
+            {
+              "player": "Dave",
+              "score": 2000
+            },
+            {
+              "player": "Martha",
+              "score": 700
+            }
+          ]
+        },
+        {
+          "category": "GARDENING",
+          "value": 200,
+          "clue": "The grandiflora class of this flower group was created by crossing hybrid teas & floribundas",
+          "answer": "roses",
+          "isDailyDouble": false,
+          "orderNumber": 27,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 1000
+            },
+            {
+              "player": "Dave",
+              "score": 2000
+            },
+            {
+              "player": "Martha",
+              "score": 700
+            }
+          ]
+        },
+        {
+          "category": "GARDENING",
+          "value": 300,
+          "clue": "Bordeaux mixture, a fungicide, was first used to treat this plant near Bordeaux, France",
+          "answer": "grapes",
+          "isDailyDouble": false,
+          "orderNumber": 28,
+          "correctContestants": [
+            "Bob"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 1300
+            },
+            {
+              "player": "Dave",
+              "score": 2000
+            },
+            {
+              "player": "Martha",
+              "score": 700
+            }
+          ]
+        },
+        {
+          "category": "GARDENING",
+          "value": 400,
+          "clue": "Agave americana is called this from the mistaken belief that it blooms when it's 100 years old",
+          "answer": "the century plant",
+          "isDailyDouble": false,
+          "orderNumber": 29,
+          "correctContestants": [
+            "Bob"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 1700
+            },
+            {
+              "player": "Dave",
+              "score": 2000
+            },
+            {
+              "player": "Martha",
+              "score": 700
+            }
+          ]
+        },
+        {
+          "category": "GARDENING",
+          "value": 500,
+          "clue": "Bean plants improve the soil because nodules on their roots \"fix\" this element",
+          "answer": "nitrogen",
+          "isDailyDouble": false,
+          "orderNumber": 30,
+          "correctContestants": [
+            "Bob"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 2200
+            },
+            {
+              "player": "Dave",
+              "score": 2000
+            },
+            {
+              "player": "Martha",
+              "score": 700
+            }
+          ]
+        }
+      ],
+      "firstBreakScores": [
+        {
+          "player": "Bob",
+          "score": -400
+        },
+        {
+          "player": "Dave",
+          "score": -100
+        },
+        {
+          "player": "Martha",
+          "score": 300
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "Bob",
+          "score": 2200
+        },
+        {
+          "player": "Dave",
+          "score": 2000
+        },
+        {
+          "player": "Martha",
+          "score": 700
+        }
+      ]
+    },
+    "doubleJeopardy": {
+      "categories": [
+        "THE 17th CENTURY",
+        "WEIGHTS & MEASURES",
+        "SONGS OF THE '70s",
+        "BUSINESS TALK",
+        "HAIL TO THE CHIEF",
+        "SCIENCE FICTION"
+      ],
+      "clues": [
+        {
+          "category": "SONGS OF THE '70s",
+          "value": 200,
+          "clue": "In 1972 this Osmond brother took Paul Anka's former No. 2 hit \"Puppy Love\" to No. 3",
+          "answer": "Donny Osmond",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 2200
+            },
+            {
+              "player": "Dave",
+              "score": 2200
+            },
+            {
+              "player": "Martha",
+              "score": 700
+            }
+          ]
+        },
+        {
+          "category": "SCIENCE FICTION",
+          "value": 400,
+          "clue": "His last novel, 1962's \"Island\", is about a tropical utopia, sort of a \"Brave New World\"",
+          "answer": "Aldous Huxley",
+          "isDailyDouble": false,
+          "orderNumber": 2,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 2200
+            },
+            {
+              "player": "Dave",
+              "score": 2600
+            },
+            {
+              "player": "Martha",
+              "score": 700
+            }
+          ]
+        },
+        {
+          "category": "SCIENCE FICTION",
+          "value": 200,
+          "clue": "Characters from his 1819 novel \"Ivanhoe\" reappear in Simon Hawke's 1984 novel \"The Ivanhoe Gambit\"",
+          "answer": "(Sir Walter) Scott",
+          "isDailyDouble": false,
+          "orderNumber": 3,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 2400
+            },
+            {
+              "player": "Dave",
+              "score": 2600
+            },
+            {
+              "player": "Martha",
+              "score": 700
+            }
+          ]
+        },
+        {
+          "category": "THE 17th CENTURY",
+          "value": 200,
+          "clue": "This authorized translation of the Bible was issued in 1611",
+          "answer": "the King James",
+          "isDailyDouble": false,
+          "orderNumber": 4,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 2600
+            },
+            {
+              "player": "Dave",
+              "score": 2600
+            },
+            {
+              "player": "Martha",
+              "score": 700
+            }
+          ]
+        },
+        {
+          "category": "WEIGHTS & MEASURES",
+          "value": 200,
+          "clue": "This size refers to a bed that are each 39\" wide",
+          "answer": "Twin",
+          "isDailyDouble": false,
+          "orderNumber": 5,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Dave",
+            "Martha"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 2400
+            },
+            {
+              "player": "Dave",
+              "score": 2400
+            },
+            {
+              "player": "Martha",
+              "score": 500
+            }
+          ]
+        },
+        {
+          "category": "THE 17th CENTURY",
+          "value": 400,
+          "clue": "On January 8, 1642, this Italian astronomer died in Arcetri",
+          "answer": "Galileo",
+          "isDailyDouble": false,
+          "orderNumber": 6,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 2400
+            },
+            {
+              "player": "Dave",
+              "score": 2400
+            },
+            {
+              "player": "Martha",
+              "score": 900
+            }
+          ]
+        },
+        {
+          "category": "THE 17th CENTURY",
+          "value": 600,
+          "clue": "In 1652 Jan Van Riebeeck founded this South African port as a supply base for the Dutch East India Company",
+          "answer": "Cape Town",
+          "isDailyDouble": false,
+          "orderNumber": 7,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 3000
+            },
+            {
+              "player": "Dave",
+              "score": 1800
+            },
+            {
+              "player": "Martha",
+              "score": 900
+            }
+          ]
+        },
+        {
+          "category": "THE 17th CENTURY",
+          "value": 800,
+          "clue": "Under the 1699 Treaty of Karlowitz, this country obtained most of Hungary from the Turks",
+          "answer": "Austria",
+          "isDailyDouble": false,
+          "orderNumber": 8,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 3800
+            },
+            {
+              "player": "Dave",
+              "score": 1800
+            },
+            {
+              "player": "Martha",
+              "score": 900
+            }
+          ]
+        },
+        {
+          "category": "THE 17th CENTURY",
+          "value": 1000,
+          "clue": "In 1627 this explorer was named governor of New France in North America",
+          "answer": "Samuel de Champlain",
+          "isDailyDouble": false,
+          "orderNumber": 9,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 3800
+            },
+            {
+              "player": "Dave",
+              "score": 1800
+            },
+            {
+              "player": "Martha",
+              "score": 900
+            }
+          ]
+        },
+        {
+          "category": "WEIGHTS & MEASURES",
+          "value": 400,
+          "clue": "A keel is a measure of this, so carrying 21.2 long tons of it to Newcastle could be a keel haul",
+          "answer": "coal",
+          "isDailyDouble": false,
+          "orderNumber": 10,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 4200
+            },
+            {
+              "player": "Dave",
+              "score": 1800
+            },
+            {
+              "player": "Martha",
+              "score": 900
+            }
+          ]
+        },
+        {
+          "category": "WEIGHTS & MEASURES",
+          "value": 600,
+          "clue": "It's the range of frequencies within which a radio signal can be transmitted",
+          "answer": "the band",
+          "isDailyDouble": false,
+          "orderNumber": 11,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 4800
+            },
+            {
+              "player": "Dave",
+              "score": 1800
+            },
+            {
+              "player": "Martha",
+              "score": 900
+            }
+          ]
+        },
+        {
+          "category": "WEIGHTS & MEASURES",
+          "value": 800,
+          "clue": "In cartography it's 1/60 of a degree",
+          "answer": "a minute",
+          "isDailyDouble": false,
+          "orderNumber": 12,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 5600
+            },
+            {
+              "player": "Dave",
+              "score": 1800
+            },
+            {
+              "player": "Martha",
+              "score": 900
+            }
+          ]
+        },
+        {
+          "category": "WEIGHTS & MEASURES",
+          "value": 2000,
+          "clue": "There are 16 tablespoons in a cup & this many teaspoons",
+          "answer": "48",
+          "isDailyDouble": true,
+          "orderNumber": 13,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 7600
+            },
+            {
+              "player": "Dave",
+              "score": 1800
+            },
+            {
+              "player": "Martha",
+              "score": 900
+            }
+          ]
+        },
+        {
+          "category": "BUSINESS TALK",
+          "value": 200,
+          "clue": "It's the large, inflated final payment on a loan after many smaller payments",
+          "answer": "a balloon payment",
+          "isDailyDouble": false,
+          "orderNumber": 14,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 7600
+            },
+            {
+              "player": "Dave",
+              "score": 2000
+            },
+            {
+              "player": "Martha",
+              "score": 900
+            }
+          ]
+        },
+        {
+          "category": "SONGS OF THE '70s",
+          "value": 400,
+          "clue": "Released in 1977, it was Debby Boone's only Top 40 hit",
+          "answer": "\"You Light Up My Life\"",
+          "isDailyDouble": false,
+          "orderNumber": 15,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 7600
+            },
+            {
+              "player": "Dave",
+              "score": 2400
+            },
+            {
+              "player": "Martha",
+              "score": 900
+            }
+          ]
+        },
+        {
+          "category": "SONGS OF THE '70s",
+          "value": 600,
+          "clue": "\"Gonna Be Alright\" is the subtitle of this 1976 Rod Stewart chart topper",
+          "answer": "\"Tonight's The Night\"",
+          "isDailyDouble": false,
+          "orderNumber": 16,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 7600
+            },
+            {
+              "player": "Dave",
+              "score": 2400
+            },
+            {
+              "player": "Martha",
+              "score": 900
+            }
+          ]
+        },
+        {
+          "category": "SONGS OF THE '70s",
+          "value": 800,
+          "clue": "In 1974 Ringo Starr took this former Johnny Burnette hit to No. 1",
+          "answer": "\"You're Sixteen\"",
+          "isDailyDouble": false,
+          "orderNumber": 17,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 7600
+            },
+            {
+              "player": "Dave",
+              "score": 3200
+            },
+            {
+              "player": "Martha",
+              "score": 900
+            }
+          ]
+        },
+        {
+          "category": "SONGS OF THE '70s",
+          "value": 1000,
+          "clue": "This duo's last Top 10 hit was \"Rock and Roll Heaven\" in 1974",
+          "answer": "The Righteous Brothers",
+          "isDailyDouble": false,
+          "orderNumber": 18,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 7600
+            },
+            {
+              "player": "Dave",
+              "score": 3200
+            },
+            {
+              "player": "Martha",
+              "score": 900
+            }
+          ]
+        },
+        {
+          "category": "SCIENCE FICTION",
+          "value": 600,
+          "clue": "This author's 1896 classic \"The Island of Dr. Moreau\" inspired the 1980 novel \"Moreau's Other Island\"",
+          "answer": "H.G. Wells",
+          "isDailyDouble": false,
+          "orderNumber": 19,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 7600
+            },
+            {
+              "player": "Dave",
+              "score": 3800
+            },
+            {
+              "player": "Martha",
+              "score": 900
+            }
+          ]
+        },
+        {
+          "category": "SCIENCE FICTION",
+          "value": 800,
+          "clue": "A supercomputer runs the world in \"This Perfect Day\" by this \"Rosemary's Baby\" author",
+          "answer": "Ira Levin",
+          "isDailyDouble": false,
+          "orderNumber": 20,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 7600
+            },
+            {
+              "player": "Dave",
+              "score": 3800
+            },
+            {
+              "player": "Martha",
+              "score": 1700
+            }
+          ]
+        },
+        {
+          "category": "SCIENCE FICTION",
+          "value": 1000,
+          "clue": "\"Mutation\" is another medical sci-fi novel by this doctor who also wrote \"Coma\"",
+          "answer": "Robin Cook",
+          "isDailyDouble": false,
+          "orderNumber": 21,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 6600
+            },
+            {
+              "player": "Dave",
+              "score": 4800
+            },
+            {
+              "player": "Martha",
+              "score": 1700
+            }
+          ]
+        },
+        {
+          "category": "HAIL TO THE CHIEF",
+          "value": 200,
+          "clue": "He was called \"Baby\" the first 3 months of his life, until he was named for family friend W.C. Linden",
+          "answer": "Lyndon Johnson",
+          "isDailyDouble": false,
+          "orderNumber": 22,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 6800
+            },
+            {
+              "player": "Dave",
+              "score": 4600
+            },
+            {
+              "player": "Martha",
+              "score": 1700
+            }
+          ]
+        },
+        {
+          "category": "BUSINESS TALK",
+          "value": 400,
+          "clue": "When investing in a mutual fund, you might consider the no-load type, which doesn't charge this",
+          "answer": "startup fee (or commission)",
+          "isDailyDouble": false,
+          "orderNumber": 23,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 6800
+            },
+            {
+              "player": "Dave",
+              "score": 5000
+            },
+            {
+              "player": "Martha",
+              "score": 1700
+            }
+          ]
+        },
+        {
+          "category": "HAIL TO THE CHIEF",
+          "value": 400,
+          "clue": "Shortly before his death in 1885, he was reinstated as a general & put back on the Army payroll",
+          "answer": "Grant",
+          "isDailyDouble": false,
+          "orderNumber": 24,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 6800
+            },
+            {
+              "player": "Dave",
+              "score": 5000
+            },
+            {
+              "player": "Martha",
+              "score": 2100
+            }
+          ]
+        },
+        {
+          "category": "HAIL TO THE CHIEF",
+          "value": 1000,
+          "clue": "In 1840 he used the \"Log Cabin Campaign\" to become president",
+          "answer": "William Henry Harrison",
+          "isDailyDouble": false,
+          "orderNumber": 25,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 6800
+            },
+            {
+              "player": "Dave",
+              "score": 6000
+            },
+            {
+              "player": "Martha",
+              "score": 2100
+            }
+          ]
+        },
+        {
+          "category": "HAIL TO THE CHIEF",
+          "value": 5000,
+          "clue": "After women gained the right to vote in 1920, he was the first president they elected",
+          "answer": "Warren G. Harding",
+          "isDailyDouble": true,
+          "orderNumber": 26,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 6800
+            },
+            {
+              "player": "Dave",
+              "score": 11000
+            },
+            {
+              "player": "Martha",
+              "score": 2100
+            }
+          ]
+        },
+        {
+          "category": "HAIL TO THE CHIEF",
+          "value": 600,
+          "clue": "This future president who graduated from Princeton in 1879 may have been dyslexic",
+          "answer": "Wilson",
+          "isDailyDouble": false,
+          "orderNumber": 27,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 7400
+            },
+            {
+              "player": "Dave",
+              "score": 11000
+            },
+            {
+              "player": "Martha",
+              "score": 2100
+            }
+          ]
+        },
+        {
+          "category": "BUSINESS TALK",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 7400
+            },
+            {
+              "player": "Dave",
+              "score": 11000
+            },
+            {
+              "player": "Martha",
+              "score": 2100
+            }
+          ]
+        },
+        {
+          "category": "BUSINESS TALK",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 7400
+            },
+            {
+              "player": "Dave",
+              "score": 11000
+            },
+            {
+              "player": "Martha",
+              "score": 2100
+            }
+          ]
+        },
+        {
+          "category": "BUSINESS TALK",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 7400
+            },
+            {
+              "player": "Dave",
+              "score": 11000
+            },
+            {
+              "player": "Martha",
+              "score": 2100
+            }
+          ]
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "Bob",
+          "score": 7400
+        },
+        {
+          "player": "Dave",
+          "score": 11000
+        },
+        {
+          "player": "Martha",
+          "score": 2100
+        }
+      ]
+    },
+    "finalJeopardy": {
+      "category": "POETIC HEROINES",
+      "clue": "In Tennyson she calls herself \"that wicked one, who broke the vast design and purpose of the king\"",
+      "answer": "Guinevere",
+      "responses": [
+        {
+          "contestant": "Martha",
+          "response": "Who is Morgan le Fey?",
+          "isCorrect": false,
+          "isIncorrect": true,
+          "value": 2000,
+          "finalScore": 100
+        },
+        {
+          "contestant": "Bob",
+          "response": "Who was Mordred?",
+          "isCorrect": false,
+          "isIncorrect": true,
+          "value": 4000,
+          "finalScore": 3400
+        },
+        {
+          "contestant": "Dave",
+          "response": "Who was Morgana Le Fey?",
+          "isCorrect": false,
+          "isIncorrect": true,
+          "value": 6700,
+          "finalScore": 4300
+        }
+      ]
+    }
+  },
+  "finalScores": [
+    {
+      "player": "Bob",
+      "score": "$3,400"
+    },
+    {
+      "player": "Dave",
+      "score": "$4,300"
+    },
+    {
+      "player": "Martha",
+      "score": "$100"
+    }
+  ],
+  "coryatScores": [
+    {
+      "player": "Bob",
+      "score": 6900
+    },
+    {
+      "player": "Dave",
+      "score": 6800
+    },
+    {
+      "player": "Martha",
+      "score": 2100
+    }
+  ]
+}

@@ -1,0 +1,1701 @@
+{
+  "gameId": 22,
+  "showNumber": "4617",
+  "title": "Show #4617 - Tuesday, October 5, 2004",
+  "date": "2004-10-05",
+  "comments": "Ken Jennings game 50.",
+  "contestants": [
+    "Ken",
+    "Pat",
+    "Jay"
+  ],
+  "rounds": {
+    "jeopardy": {
+      "categories": [
+        "IN THE SMITHSONIAN",
+        "THE DONALD",
+        "PLANETARY DISTINCTIONS",
+        "JOE THE FARMER",
+        "MEDALS & DECORATIONS",
+        "WORD ORIGINS"
+      ],
+      "clues": [
+        {
+          "category": "WORD ORIGINS",
+          "value": 200,
+          "clue": "A masterful conductor is often called this, Italian for \"master\"",
+          "answer": "maestro",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [
+            "Ken"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ken",
+              "score": 200
+            },
+            {
+              "player": "Pat",
+              "score": 0
+            },
+            {
+              "player": "Jay",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "WORD ORIGINS",
+          "value": 400,
+          "clue": "The name of this bird is from the French version of Peter",
+          "answer": "parrot",
+          "isDailyDouble": false,
+          "orderNumber": 2,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Jay"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Ken",
+              "score": 200
+            },
+            {
+              "player": "Pat",
+              "score": 0
+            },
+            {
+              "player": "Jay",
+              "score": -400
+            }
+          ]
+        },
+        {
+          "category": "WORD ORIGINS",
+          "value": 600,
+          "clue": "Make no bones about it, it's from a Greek expression for \"dried-up body\"",
+          "answer": "skeleton",
+          "isDailyDouble": false,
+          "orderNumber": 3,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Pat"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Ken",
+              "score": 200
+            },
+            {
+              "player": "Pat",
+              "score": -600
+            },
+            {
+              "player": "Jay",
+              "score": -400
+            }
+          ]
+        },
+        {
+          "category": "WORD ORIGINS",
+          "value": 800,
+          "clue": "This Austrian physicist's name is now synonymous with a measurement of the speed of sound",
+          "answer": "(Ernst) Mach",
+          "isDailyDouble": false,
+          "orderNumber": 4,
+          "correctContestants": [
+            "Pat"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ken",
+              "score": 200
+            },
+            {
+              "player": "Pat",
+              "score": 200
+            },
+            {
+              "player": "Jay",
+              "score": -400
+            }
+          ]
+        },
+        {
+          "category": "PLANETARY DISTINCTIONS",
+          "value": 200,
+          "clue": "The heaviest",
+          "answer": "Jupiter",
+          "isDailyDouble": false,
+          "orderNumber": 5,
+          "correctContestants": [
+            "Pat"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ken",
+              "score": 200
+            },
+            {
+              "player": "Pat",
+              "score": 400
+            },
+            {
+              "player": "Jay",
+              "score": -400
+            }
+          ]
+        },
+        {
+          "category": "PLANETARY DISTINCTIONS",
+          "value": 400,
+          "clue": "The most distant one known to the ancients",
+          "answer": "Saturn",
+          "isDailyDouble": false,
+          "orderNumber": 6,
+          "correctContestants": [
+            "Ken"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ken",
+              "score": 600
+            },
+            {
+              "player": "Pat",
+              "score": 400
+            },
+            {
+              "player": "Jay",
+              "score": -400
+            }
+          ]
+        },
+        {
+          "category": "PLANETARY DISTINCTIONS",
+          "value": 600,
+          "clue": "The hottest, on average",
+          "answer": "Venus",
+          "isDailyDouble": false,
+          "orderNumber": 7,
+          "correctContestants": [
+            "Jay"
+          ],
+          "incorrectContestants": [
+            "Ken"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ken",
+              "score": 0
+            },
+            {
+              "player": "Pat",
+              "score": 400
+            },
+            {
+              "player": "Jay",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "PLANETARY DISTINCTIONS",
+          "value": 800,
+          "clue": "The one named by an 11-year-old",
+          "answer": "Pluto",
+          "isDailyDouble": false,
+          "orderNumber": 8,
+          "correctContestants": [
+            "Jay"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ken",
+              "score": 0
+            },
+            {
+              "player": "Pat",
+              "score": 400
+            },
+            {
+              "player": "Jay",
+              "score": 1000
+            }
+          ]
+        },
+        {
+          "category": "PLANETARY DISTINCTIONS",
+          "value": 1000,
+          "clue": "The farthest from the Sun from 1979 to 1999",
+          "answer": "Neptune",
+          "isDailyDouble": true,
+          "orderNumber": 9,
+          "correctContestants": [
+            "Jay"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ken",
+              "score": 0
+            },
+            {
+              "player": "Pat",
+              "score": 400
+            },
+            {
+              "player": "Jay",
+              "score": 2000
+            }
+          ]
+        },
+        {
+          "category": "WORD ORIGINS",
+          "value": 1000,
+          "clue": "This 3-letter slang term for forbid or veto comes to us from the German for \"nothing\"",
+          "answer": "nix",
+          "isDailyDouble": false,
+          "orderNumber": 10,
+          "correctContestants": [
+            "Ken"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ken",
+              "score": 1000
+            },
+            {
+              "player": "Pat",
+              "score": 400
+            },
+            {
+              "player": "Jay",
+              "score": 2000
+            }
+          ]
+        },
+        {
+          "category": "MEDALS & DECORATIONS",
+          "value": 200,
+          "clue": "This animal is depicted on Great Britain's Victoria Cross",
+          "answer": "the lion",
+          "isDailyDouble": false,
+          "orderNumber": 11,
+          "correctContestants": [
+            "Ken"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ken",
+              "score": 1200
+            },
+            {
+              "player": "Pat",
+              "score": 400
+            },
+            {
+              "player": "Jay",
+              "score": 2000
+            }
+          ]
+        },
+        {
+          "category": "MEDALS & DECORATIONS",
+          "value": 400,
+          "clue": "The St. Helena Medal, for French soldiers & sailors who took part in the wars between 1792 & 1815, bears his likeness",
+          "answer": "Napoleon",
+          "isDailyDouble": false,
+          "orderNumber": 12,
+          "correctContestants": [
+            "Ken"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ken",
+              "score": 1600
+            },
+            {
+              "player": "Pat",
+              "score": 400
+            },
+            {
+              "player": "Jay",
+              "score": 2000
+            }
+          ]
+        },
+        {
+          "category": "MEDALS & DECORATIONS",
+          "value": 600,
+          "clue": "In 1977 this Yankee center fielder of the 1940s & early 1950s received the Presidential Medal of Freedom",
+          "answer": "DiMaggio",
+          "isDailyDouble": false,
+          "orderNumber": 13,
+          "correctContestants": [
+            "Pat"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ken",
+              "score": 1600
+            },
+            {
+              "player": "Pat",
+              "score": 1000
+            },
+            {
+              "player": "Jay",
+              "score": 2000
+            }
+          ]
+        },
+        {
+          "category": "MEDALS & DECORATIONS",
+          "value": 800,
+          "clue": "Bolivia's highest award is the National Order of this vulture of the Andes",
+          "answer": "a condor",
+          "isDailyDouble": false,
+          "orderNumber": 14,
+          "correctContestants": [
+            "Ken"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ken",
+              "score": 2400
+            },
+            {
+              "player": "Pat",
+              "score": 1000
+            },
+            {
+              "player": "Jay",
+              "score": 2000
+            }
+          ]
+        },
+        {
+          "category": "MEDALS & DECORATIONS",
+          "value": 1000,
+          "clue": "This country's National Order of the Cedar is awarded for exceptional service or acts of extreme courage",
+          "answer": "Lebanon",
+          "isDailyDouble": false,
+          "orderNumber": 15,
+          "correctContestants": [
+            "Pat"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ken",
+              "score": 2400
+            },
+            {
+              "player": "Pat",
+              "score": 2000
+            },
+            {
+              "player": "Jay",
+              "score": 2000
+            }
+          ]
+        },
+        {
+          "category": "IN THE SMITHSONIAN",
+          "value": 200,
+          "clue": "The Smithsonian has one of these (with 6 little bells) that John Hancock gave his baby son",
+          "answer": "a rattle",
+          "isDailyDouble": false,
+          "orderNumber": 16,
+          "correctContestants": [
+            "Jay"
+          ],
+          "incorrectContestants": [
+            "Ken"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ken",
+              "score": 2200
+            },
+            {
+              "player": "Pat",
+              "score": 2000
+            },
+            {
+              "player": "Jay",
+              "score": 2200
+            }
+          ]
+        },
+        {
+          "category": "IN THE SMITHSONIAN",
+          "value": 400,
+          "clue": "Winchester, one of these that belonged to Gen. Sheridan, is on display--all 16 hands of him",
+          "answer": "a horse",
+          "isDailyDouble": false,
+          "orderNumber": 17,
+          "correctContestants": [
+            "Jay"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ken",
+              "score": 2200
+            },
+            {
+              "player": "Pat",
+              "score": 2000
+            },
+            {
+              "player": "Jay",
+              "score": 2600
+            }
+          ]
+        },
+        {
+          "category": "IN THE SMITHSONIAN",
+          "value": 600,
+          "clue": "In 1933 Miss Mary McCabe donated the compass this pair used between 1804 & 1806",
+          "answer": "Lewis & Clark",
+          "isDailyDouble": false,
+          "orderNumber": 18,
+          "correctContestants": [
+            "Pat"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ken",
+              "score": 2200
+            },
+            {
+              "player": "Pat",
+              "score": 2600
+            },
+            {
+              "player": "Jay",
+              "score": 2600
+            }
+          ]
+        },
+        {
+          "category": "IN THE SMITHSONIAN",
+          "value": 800,
+          "clue": "The Pulsar was the first all-electronic one of these, & in 1972 it would have set you back $2,100",
+          "answer": "a (wrist)watch",
+          "isDailyDouble": false,
+          "orderNumber": 19,
+          "correctContestants": [
+            "Pat"
+          ],
+          "incorrectContestants": [
+            "Ken"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ken",
+              "score": 1400
+            },
+            {
+              "player": "Pat",
+              "score": 3400
+            },
+            {
+              "player": "Jay",
+              "score": 2600
+            }
+          ]
+        },
+        {
+          "category": "IN THE SMITHSONIAN",
+          "value": 1000,
+          "clue": "From the late '60s there is a \"blowout kit for the natural\" from this hair care line by Johnson Products",
+          "answer": "Afro Sheen",
+          "isDailyDouble": false,
+          "orderNumber": 20,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Ken",
+              "score": 1400
+            },
+            {
+              "player": "Pat",
+              "score": 3400
+            },
+            {
+              "player": "Jay",
+              "score": 2600
+            }
+          ]
+        },
+        {
+          "category": "JOE THE FARMER",
+          "value": 200,
+          "clue": "Joe's wife worries he'll fall out of this fodder storage area in the top of the barn",
+          "answer": "the (hay) loft",
+          "isDailyDouble": false,
+          "orderNumber": 21,
+          "correctContestants": [
+            "Pat"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ken",
+              "score": 1400
+            },
+            {
+              "player": "Pat",
+              "score": 3600
+            },
+            {
+              "player": "Jay",
+              "score": 2600
+            }
+          ]
+        },
+        {
+          "category": "JOE THE FARMER",
+          "value": 400,
+          "clue": "Joe's dream vacation is a tour of this company's Technology Center in Moline, Illinois",
+          "answer": "John Deere",
+          "isDailyDouble": false,
+          "orderNumber": 22,
+          "correctContestants": [
+            "Pat"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ken",
+              "score": 1400
+            },
+            {
+              "player": "Pat",
+              "score": 4000
+            },
+            {
+              "player": "Jay",
+              "score": 2600
+            }
+          ]
+        },
+        {
+          "category": "JOE THE FARMER",
+          "value": 600,
+          "clue": "After Joe's Uncle Lou went a bit loopy, Joe put him \"out to\" here, with the grazing sheep",
+          "answer": "a pasture",
+          "isDailyDouble": false,
+          "orderNumber": 23,
+          "correctContestants": [
+            "Ken"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ken",
+              "score": 2000
+            },
+            {
+              "player": "Pat",
+              "score": 4000
+            },
+            {
+              "player": "Jay",
+              "score": 2600
+            }
+          ]
+        },
+        {
+          "category": "JOE THE FARMER",
+          "value": 800,
+          "clue": "After Joe found Joe Jr. joyriding in the tractor, he locked him in this round tower that usually holds grain",
+          "answer": "a silo",
+          "isDailyDouble": false,
+          "orderNumber": 24,
+          "correctContestants": [
+            "Ken"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ken",
+              "score": 2800
+            },
+            {
+              "player": "Pat",
+              "score": 4000
+            },
+            {
+              "player": "Jay",
+              "score": 2600
+            }
+          ]
+        },
+        {
+          "category": "JOE THE FARMER",
+          "value": 1000,
+          "clue": "Joe likes to ask other farmers, \"got\" this cereal grain?  When they say yes, he says, \"You better see a periodontist!\"",
+          "answer": "sorghum",
+          "isDailyDouble": false,
+          "orderNumber": 25,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Ken",
+              "score": 2800
+            },
+            {
+              "player": "Pat",
+              "score": 4000
+            },
+            {
+              "player": "Jay",
+              "score": 2600
+            }
+          ]
+        },
+        {
+          "category": "THE DONALD",
+          "value": 200,
+          "clue": "These 3 nephews of Donald Duck are the sons of his sister Dumbella",
+          "answer": "Huey, Dewey & Louie",
+          "isDailyDouble": false,
+          "orderNumber": 26,
+          "correctContestants": [
+            "Ken"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ken",
+              "score": 3000
+            },
+            {
+              "player": "Pat",
+              "score": 4000
+            },
+            {
+              "player": "Jay",
+              "score": 2600
+            }
+          ]
+        },
+        {
+          "category": "THE DONALD",
+          "value": 400,
+          "clue": "Donald's pet name for her was Toots",
+          "answer": "Daisy",
+          "isDailyDouble": false,
+          "orderNumber": 27,
+          "correctContestants": [
+            "Ken"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ken",
+              "score": 3400
+            },
+            {
+              "player": "Pat",
+              "score": 4000
+            },
+            {
+              "player": "Jay",
+              "score": 2600
+            }
+          ]
+        },
+        {
+          "category": "THE DONALD",
+          "value": 600,
+          "clue": "Donald's flute solo in \"The Band Concert\" enraged this co-star who was appearing in his first Technicolor toon",
+          "answer": "Mickey",
+          "isDailyDouble": false,
+          "orderNumber": 28,
+          "correctContestants": [
+            "Pat"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ken",
+              "score": 3400
+            },
+            {
+              "player": "Pat",
+              "score": 4600
+            },
+            {
+              "player": "Jay",
+              "score": 2600
+            }
+          ]
+        },
+        {
+          "category": "THE DONALD",
+          "value": 800,
+          "clue": "On Sept. 24, 1961 this professor uncle of Donald was introduced on \"Walt Disney's Wonderful World of Color\"",
+          "answer": "Ludwig Von Drake",
+          "isDailyDouble": false,
+          "orderNumber": 29,
+          "correctContestants": [
+            "Ken"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ken",
+              "score": 4200
+            },
+            {
+              "player": "Pat",
+              "score": 4600
+            },
+            {
+              "player": "Jay",
+              "score": 2600
+            }
+          ]
+        },
+        {
+          "category": "THE DONALD",
+          "value": 1000,
+          "clue": "It's Donald Duck's home town",
+          "answer": "Duckburg",
+          "isDailyDouble": false,
+          "orderNumber": 30,
+          "correctContestants": [
+            "Ken"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ken",
+              "score": 5200
+            },
+            {
+              "player": "Pat",
+              "score": 4600
+            },
+            {
+              "player": "Jay",
+              "score": 2600
+            }
+          ]
+        }
+      ],
+      "firstBreakScores": [
+        {
+          "player": "Ken",
+          "score": 2400
+        },
+        {
+          "player": "Pat",
+          "score": 2000
+        },
+        {
+          "player": "Jay",
+          "score": 2000
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "Ken",
+          "score": 5200
+        },
+        {
+          "player": "Pat",
+          "score": 4600
+        },
+        {
+          "player": "Jay",
+          "score": 2600
+        }
+      ]
+    },
+    "doubleJeopardy": {
+      "categories": [
+        "HISPANIC HERITAGE",
+        "A BYZANTINE CATEGORY",
+        "THEATRICAL ANGELS",
+        "VASES & URNS",
+        "ROD STEWART",
+        "DO YA THINK I'M \"SEX\"Y?"
+      ],
+      "clues": [
+        {
+          "category": "DO YA THINK I'M \"SEX\"Y?",
+          "value": 400,
+          "clue": "This 6-letter term means designed for both men & women",
+          "answer": "unisex",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ken",
+              "score": 5600
+            },
+            {
+              "player": "Pat",
+              "score": 4600
+            },
+            {
+              "player": "Jay",
+              "score": 2600
+            }
+          ]
+        },
+        {
+          "category": "DO YA THINK I'M \"SEX\"Y?",
+          "value": 800,
+          "clue": "People magazine bestowed this honor on Nick Nolte in 1992; 2 years later, no one on the planet qualified",
+          "answer": "Sexiest Man Alive",
+          "isDailyDouble": false,
+          "orderNumber": 2,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ken",
+              "score": 6400
+            },
+            {
+              "player": "Pat",
+              "score": 4600
+            },
+            {
+              "player": "Jay",
+              "score": 2600
+            }
+          ]
+        },
+        {
+          "category": "DO YA THINK I'M \"SEX\"Y?",
+          "value": 1200,
+          "clue": "Term for reproduction, as budding or fission, not involving the union of gametes",
+          "answer": "asexual",
+          "isDailyDouble": false,
+          "orderNumber": 3,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ken",
+              "score": 7600
+            },
+            {
+              "player": "Pat",
+              "score": 4600
+            },
+            {
+              "player": "Jay",
+              "score": 2600
+            }
+          ]
+        },
+        {
+          "category": "DO YA THINK I'M \"SEX\"Y?",
+          "value": 1600,
+          "clue": "An official of a church charged with taking care of the edifice & its contents",
+          "answer": "sexton",
+          "isDailyDouble": false,
+          "orderNumber": 4,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ken",
+              "score": 9200
+            },
+            {
+              "player": "Pat",
+              "score": 4600
+            },
+            {
+              "player": "Jay",
+              "score": 2600
+            }
+          ]
+        },
+        {
+          "category": "DO YA THINK I'M \"SEX\"Y?",
+          "value": 2000,
+          "clue": "A borough in New Jersey, or a former English county now part of Greater London",
+          "answer": "Middlesex",
+          "isDailyDouble": false,
+          "orderNumber": 5,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ken",
+              "score": 11200
+            },
+            {
+              "player": "Pat",
+              "score": 4600
+            },
+            {
+              "player": "Jay",
+              "score": 600
+            }
+          ]
+        },
+        {
+          "category": "THEATRICAL ANGELS",
+          "value": 400,
+          "clue": "\"Times Square Angel\" by Charles Busch spoofs \"It's a Wonderful Life\" & also this Dickens holiday classic",
+          "answer": "A Christmas Carol",
+          "isDailyDouble": false,
+          "orderNumber": 6,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ken",
+              "score": 11600
+            },
+            {
+              "player": "Pat",
+              "score": 4600
+            },
+            {
+              "player": "Jay",
+              "score": 600
+            }
+          ]
+        },
+        {
+          "category": "THEATRICAL ANGELS",
+          "value": 800,
+          "clue": "This hard-boiled detective musical set in 1940s L.A. appeared several years before the unrelated Meg Ryan film",
+          "answer": "City of Angels",
+          "isDailyDouble": false,
+          "orderNumber": 7,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ken",
+              "score": 12400
+            },
+            {
+              "player": "Pat",
+              "score": 4600
+            },
+            {
+              "player": "Jay",
+              "score": 600
+            }
+          ]
+        },
+        {
+          "category": "THEATRICAL ANGELS",
+          "value": 1200,
+          "clue": "The original Broadway cast of this play based on a Thomas Wolfe novel featured Tony Perkins as Eugene Gant",
+          "answer": "Look Homeward, Angel",
+          "isDailyDouble": false,
+          "orderNumber": 8,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ken",
+              "score": 13600
+            },
+            {
+              "player": "Pat",
+              "score": 4600
+            },
+            {
+              "player": "Jay",
+              "score": 600
+            }
+          ]
+        },
+        {
+          "category": "THEATRICAL ANGELS",
+          "value": 1600,
+          "clue": "The angel of the water statue in Central Park seen here is featured in this play that won the 1993 Pulitzer Prize",
+          "answer": "Angels in America",
+          "isDailyDouble": false,
+          "orderNumber": 9,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ken",
+              "score": 15200
+            },
+            {
+              "player": "Pat",
+              "score": 4600
+            },
+            {
+              "player": "Jay",
+              "score": 600
+            }
+          ]
+        },
+        {
+          "category": "THEATRICAL ANGELS",
+          "value": 2000,
+          "clue": "The medical fad of monkey glands inspired the 1919 show \"Angel Face\", with music by this \"Babes in Toyland\" composer",
+          "answer": "Victor Herbert",
+          "isDailyDouble": false,
+          "orderNumber": 10,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Ken",
+              "score": 15200
+            },
+            {
+              "player": "Pat",
+              "score": 4600
+            },
+            {
+              "player": "Jay",
+              "score": 600
+            }
+          ]
+        },
+        {
+          "category": "HISPANIC HERITAGE",
+          "value": 400,
+          "clue": "He began his labor organizing career in a San Jose, Calif, barrio called Sal si Puedes, \"get out if you can\"",
+          "answer": "Cesar Chavez",
+          "isDailyDouble": false,
+          "orderNumber": 11,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ken",
+              "score": 15600
+            },
+            {
+              "player": "Pat",
+              "score": 4600
+            },
+            {
+              "player": "Jay",
+              "score": 600
+            }
+          ]
+        },
+        {
+          "category": "HISPANIC HERITAGE",
+          "value": 800,
+          "clue": "(Jimmy of the Clue Crew walks through a sparsely furnished bedroom in Mission San Diego de Alcala.)  A room at Mission San Diego de Alcala is named for this man, who founded the mission & was beatified in 1988",
+          "answer": "Junipero Serra",
+          "isDailyDouble": false,
+          "orderNumber": 12,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ken",
+              "score": 16400
+            },
+            {
+              "player": "Pat",
+              "score": 4600
+            },
+            {
+              "player": "Jay",
+              "score": 600
+            }
+          ]
+        },
+        {
+          "category": "HISPANIC HERITAGE",
+          "value": 1200,
+          "clue": "Nuyorican is a literary style that began in the '60s, or the name of a nightspot in the old part of this Puerto Rican city",
+          "answer": "San Juan",
+          "isDailyDouble": false,
+          "orderNumber": 13,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ken",
+              "score": 17600
+            },
+            {
+              "player": "Pat",
+              "score": 4600
+            },
+            {
+              "player": "Jay",
+              "score": 600
+            }
+          ]
+        },
+        {
+          "category": "HISPANIC HERITAGE",
+          "value": 1600,
+          "clue": "In 1981 exiles from this nation founded the organization whose symbol is seen here",
+          "answer": "Cuba",
+          "isDailyDouble": false,
+          "orderNumber": 14,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ken",
+              "score": 19200
+            },
+            {
+              "player": "Pat",
+              "score": 4600
+            },
+            {
+              "player": "Jay",
+              "score": 600
+            }
+          ]
+        },
+        {
+          "category": "HISPANIC HERITAGE",
+          "value": 800,
+          "clue": "In 1808 this formerly Spanish city had the USA's first newspaper in Spanish, fittingly titled El Misisipi",
+          "answer": "New Orleans",
+          "isDailyDouble": true,
+          "orderNumber": 15,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ken",
+              "score": 20000
+            },
+            {
+              "player": "Pat",
+              "score": 4600
+            },
+            {
+              "player": "Jay",
+              "score": 600
+            }
+          ]
+        },
+        {
+          "category": "VASES & URNS",
+          "value": 400,
+          "clue": "The name of this dynasty of 1368 to 1644 often comes between \"priceless\" & \"vase\"",
+          "answer": "Ming",
+          "isDailyDouble": false,
+          "orderNumber": 16,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ken",
+              "score": 20400
+            },
+            {
+              "player": "Pat",
+              "score": 4600
+            },
+            {
+              "player": "Jay",
+              "score": 600
+            }
+          ]
+        },
+        {
+          "category": "VASES & URNS",
+          "value": 800,
+          "clue": "A samovar is a large urn traditionally used to make this",
+          "answer": "tea",
+          "isDailyDouble": false,
+          "orderNumber": 17,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ken",
+              "score": 21200
+            },
+            {
+              "player": "Pat",
+              "score": 4600
+            },
+            {
+              "player": "Jay",
+              "score": 600
+            }
+          ]
+        },
+        {
+          "category": "VASES & URNS",
+          "value": 1200,
+          "clue": "The Grecian urn Keats admired displayed a youth about to do this to a maiden",
+          "answer": "kiss her",
+          "isDailyDouble": false,
+          "orderNumber": 18,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Ken",
+              "score": 20000
+            },
+            {
+              "player": "Pat",
+              "score": 4600
+            },
+            {
+              "player": "Jay",
+              "score": 600
+            }
+          ]
+        },
+        {
+          "category": "VASES & URNS",
+          "value": 1600,
+          "clue": "This American designer developed the opulent Favrile glass for his Art Nouveau vases",
+          "answer": "Tiffany",
+          "isDailyDouble": false,
+          "orderNumber": 19,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ken",
+              "score": 20000
+            },
+            {
+              "player": "Pat",
+              "score": 6200
+            },
+            {
+              "player": "Jay",
+              "score": 600
+            }
+          ]
+        },
+        {
+          "category": "VASES & URNS",
+          "value": 2000,
+          "clue": "This vase in the British Museum was broken in 1845, repaired and then re-repaired in 1988",
+          "answer": "the Portland Vase",
+          "isDailyDouble": false,
+          "orderNumber": 20,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Ken",
+              "score": 20000
+            },
+            {
+              "player": "Pat",
+              "score": 6200
+            },
+            {
+              "player": "Jay",
+              "score": 600
+            }
+          ]
+        },
+        {
+          "category": "ROD STEWART",
+          "value": 400,
+          "clue": "His 12 nominations include Best Male Rock Vocal for \"Young Turks\", but Rod has never won one of these awards",
+          "answer": "a Grammy",
+          "isDailyDouble": false,
+          "orderNumber": 21,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ken",
+              "score": 20000
+            },
+            {
+              "player": "Pat",
+              "score": 6200
+            },
+            {
+              "player": "Jay",
+              "score": 1000
+            }
+          ]
+        },
+        {
+          "category": "ROD STEWART",
+          "value": 800,
+          "clue": "In 1994 Rod took \"All For Love\" to No. 1 for 3 weeks with Bryan Adams & this Police-man",
+          "answer": "Sting",
+          "isDailyDouble": false,
+          "orderNumber": 22,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ken",
+              "score": 20000
+            },
+            {
+              "player": "Pat",
+              "score": 7000
+            },
+            {
+              "player": "Jay",
+              "score": 1000
+            }
+          ]
+        },
+        {
+          "category": "ROD STEWART",
+          "value": 1200,
+          "clue": "In 1972 Rod hit the Top 40 (No. 40, actually) with \"Angel\", written by this legend who played like his guitar was on fire",
+          "answer": "Jimi Hendrix",
+          "isDailyDouble": false,
+          "orderNumber": 23,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ken",
+              "score": 20000
+            },
+            {
+              "player": "Pat",
+              "score": 7000
+            },
+            {
+              "player": "Jay",
+              "score": 2200
+            }
+          ]
+        },
+        {
+          "category": "ROD STEWART",
+          "value": 1600,
+          "clue": "\"I think I've got something to say to you\" & it's that Rod hit No. 1 in 1971 with this tune",
+          "answer": "\"Maggie May\"",
+          "isDailyDouble": false,
+          "orderNumber": 24,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ken",
+              "score": 21600
+            },
+            {
+              "player": "Pat",
+              "score": 7000
+            },
+            {
+              "player": "Jay",
+              "score": 2200
+            }
+          ]
+        },
+        {
+          "category": "ROD STEWART",
+          "value": 2000,
+          "clue": "This New Zealand supermodel joined the rather lengthy list of blondes on Rod's dating resume & married him in 1990",
+          "answer": "Rachel Hunter",
+          "isDailyDouble": false,
+          "orderNumber": 25,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ken",
+              "score": 23600
+            },
+            {
+              "player": "Pat",
+              "score": 7000
+            },
+            {
+              "player": "Jay",
+              "score": 2200
+            }
+          ]
+        },
+        {
+          "category": "A BYZANTINE CATEGORY",
+          "value": 400,
+          "clue": "At over 4 miles in length, a wall built in the 400s kept this capital safe for a thousand years",
+          "answer": "Constantinople",
+          "isDailyDouble": false,
+          "orderNumber": 26,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ken",
+              "score": 24000
+            },
+            {
+              "player": "Pat",
+              "score": 7000
+            },
+            {
+              "player": "Jay",
+              "score": 2200
+            }
+          ]
+        },
+        {
+          "category": "A BYZANTINE CATEGORY",
+          "value": 800,
+          "clue": "Byzantine jurists helped Emperor Justinian assemble what's known as the Justinian one of these",
+          "answer": "a code",
+          "isDailyDouble": false,
+          "orderNumber": 27,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ken",
+              "score": 24800
+            },
+            {
+              "player": "Pat",
+              "score": 7000
+            },
+            {
+              "player": "Jay",
+              "score": 2200
+            }
+          ]
+        },
+        {
+          "category": "A BYZANTINE CATEGORY",
+          "value": 2200,
+          "clue": "In the 1370s these people got Gallipoli from the Byzantine Empire; later they got the whole Empire",
+          "answer": "the Ottomans (or Ottoman Turks)",
+          "isDailyDouble": true,
+          "orderNumber": 28,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ken",
+              "score": 27000
+            },
+            {
+              "player": "Pat",
+              "score": 7000
+            },
+            {
+              "player": "Jay",
+              "score": 2200
+            }
+          ]
+        },
+        {
+          "category": "A BYZANTINE CATEGORY",
+          "value": 1600,
+          "clue": "A Lombard invasion in the 500s ended Byzantine control in what's now this country",
+          "answer": "Italy",
+          "isDailyDouble": false,
+          "orderNumber": 29,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ken",
+              "score": 28600
+            },
+            {
+              "player": "Pat",
+              "score": 7000
+            },
+            {
+              "player": "Jay",
+              "score": 2200
+            }
+          ]
+        },
+        {
+          "category": "A BYZANTINE CATEGORY",
+          "value": 2000,
+          "clue": "The inhabitants of the Empire didn't call themselves \"Byzantines\" but these imperial people",
+          "answer": "Romans",
+          "isDailyDouble": false,
+          "orderNumber": 30,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ken",
+              "score": 28600
+            },
+            {
+              "player": "Pat",
+              "score": 9000
+            },
+            {
+              "player": "Jay",
+              "score": 2200
+            }
+          ]
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "Ken",
+          "score": 28600
+        },
+        {
+          "player": "Pat",
+          "score": 9000
+        },
+        {
+          "player": "Jay",
+          "score": 2200
+        }
+      ]
+    },
+    "finalJeopardy": {
+      "category": "AMERICANA",
+      "clue": "This Monsanto product was developed as a covering to turn asphalt lots in urban areas into playgrounds",
+      "answer": "AstroTurf",
+      "responses": [
+        {
+          "contestant": "Jay",
+          "response": "What is some material I don't know",
+          "isCorrect": false,
+          "isIncorrect": true,
+          "value": 2199,
+          "finalScore": 1
+        },
+        {
+          "contestant": "Pat",
+          "response": "What is astroturf?",
+          "isCorrect": true,
+          "isIncorrect": false,
+          "value": 4500,
+          "finalScore": 13500
+        },
+        {
+          "contestant": "Ken",
+          "response": "What is [be scribbled out] Astroturf?",
+          "isCorrect": true,
+          "isIncorrect": false,
+          "value": 6438,
+          "finalScore": 35038
+        }
+      ]
+    }
+  },
+  "finalScores": [
+    {
+      "player": "Ken",
+      "score": "$35,038"
+    },
+    {
+      "player": "Pat",
+      "score": "$13,500"
+    },
+    {
+      "player": "Jay",
+      "score": "$1"
+    }
+  ],
+  "coryatScores": [
+    {
+      "player": "Ken",
+      "score": 28800
+    },
+    {
+      "player": "Pat",
+      "score": 9000
+    },
+    {
+      "player": "Jay",
+      "score": 2200
+    }
+  ]
+}

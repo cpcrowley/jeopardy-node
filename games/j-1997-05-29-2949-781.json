@@ -1,0 +1,1702 @@
+{
+  "gameId": 781,
+  "showNumber": "2949",
+  "title": "Show #2949 - Thursday, May 29, 1997",
+  "date": "1997-05-29",
+  "comments": "Lyn Payne game 2.",
+  "contestants": [
+    "Lyn",
+    "Emily",
+    "Jeff"
+  ],
+  "rounds": {
+    "jeopardy": {
+      "categories": [
+        "SCIENCE",
+        "BAKED GOODS",
+        "SEE THE U.S.A.",
+        "ART",
+        "ODDS & ENDS",
+        "'60s TV"
+      ],
+      "clues": [
+        {
+          "category": "ART",
+          "value": 500,
+          "clue": "This word that often precedes expressionism is derived from the Latin for \"drawn off\" or \"drawn away\"",
+          "answer": "Abstract",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [
+            "Emily"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Lyn",
+              "score": 0
+            },
+            {
+              "player": "Emily",
+              "score": 500
+            },
+            {
+              "player": "Jeff",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "ART",
+          "value": 400,
+          "clue": "Once a cubist, this Spaniard from Figueras turned to surrealism after going to Paris in 1928",
+          "answer": "Salvador Dali",
+          "isDailyDouble": false,
+          "orderNumber": 2,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Lyn",
+            "Emily",
+            "Jeff"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Lyn",
+              "score": -400
+            },
+            {
+              "player": "Emily",
+              "score": 100
+            },
+            {
+              "player": "Jeff",
+              "score": -400
+            }
+          ]
+        },
+        {
+          "category": "ART",
+          "value": 300,
+          "clue": "It's the shape of a tondo, a type of painting popular in the 15th century",
+          "answer": "Round",
+          "isDailyDouble": false,
+          "orderNumber": 3,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Lyn",
+              "score": -400
+            },
+            {
+              "player": "Emily",
+              "score": 100
+            },
+            {
+              "player": "Jeff",
+              "score": -400
+            }
+          ]
+        },
+        {
+          "category": "ART",
+          "value": 200,
+          "clue": "Delacroix' dramatic historical painting of the \"Massacre At Chios\" is in this Paris museum",
+          "answer": "The Louvre",
+          "isDailyDouble": false,
+          "orderNumber": 4,
+          "correctContestants": [
+            "Lyn"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Lyn",
+              "score": -200
+            },
+            {
+              "player": "Emily",
+              "score": 100
+            },
+            {
+              "player": "Jeff",
+              "score": -400
+            }
+          ]
+        },
+        {
+          "category": "ART",
+          "value": 100,
+          "clue": "The artists known as The Four Wangs rose to prominence under this country's Ch'ing Dynasty",
+          "answer": "China",
+          "isDailyDouble": false,
+          "orderNumber": 5,
+          "correctContestants": [
+            "Lyn"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Lyn",
+              "score": -100
+            },
+            {
+              "player": "Emily",
+              "score": 100
+            },
+            {
+              "player": "Jeff",
+              "score": -400
+            }
+          ]
+        },
+        {
+          "category": "'60s TV",
+          "value": 500,
+          "clue": "A prime time animated series in 1964, it was revived in 1996 with an updated cast seen here:",
+          "answer": "Jonny Quest",
+          "isDailyDouble": true,
+          "orderNumber": 6,
+          "correctContestants": [
+            "Lyn"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Lyn",
+              "score": 400
+            },
+            {
+              "player": "Emily",
+              "score": 100
+            },
+            {
+              "player": "Jeff",
+              "score": -400
+            }
+          ]
+        },
+        {
+          "category": "SEE THE U.S.A.",
+          "value": 500,
+          "clue": "Tennessee Williams lived in this Florida city for decades, & a fine arts center there is named for him",
+          "answer": "Key West",
+          "isDailyDouble": false,
+          "orderNumber": 7,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Lyn",
+              "score": 400
+            },
+            {
+              "player": "Emily",
+              "score": 100
+            },
+            {
+              "player": "Jeff",
+              "score": -400
+            }
+          ]
+        },
+        {
+          "category": "SEE THE U.S.A.",
+          "value": 400,
+          "clue": "North Platte in this state was once the home of Buffalo Bill & an annual rodeo there is named for him",
+          "answer": "Nebraska",
+          "isDailyDouble": false,
+          "orderNumber": 8,
+          "correctContestants": [
+            "Jeff"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Lyn",
+              "score": 400
+            },
+            {
+              "player": "Emily",
+              "score": 100
+            },
+            {
+              "player": "Jeff",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "SCIENCE",
+          "value": 100,
+          "clue": "The largest cell is the 3-inch diameter yolk of this bird's egg",
+          "answer": "Ostrich",
+          "isDailyDouble": false,
+          "orderNumber": 9,
+          "correctContestants": [
+            "Jeff"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Lyn",
+              "score": 400
+            },
+            {
+              "player": "Emily",
+              "score": 100
+            },
+            {
+              "player": "Jeff",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "category": "SCIENCE",
+          "value": 200,
+          "clue": "In Latin this metal is known as aurum",
+          "answer": "Gold",
+          "isDailyDouble": false,
+          "orderNumber": 10,
+          "correctContestants": [
+            "Jeff"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Lyn",
+              "score": 400
+            },
+            {
+              "player": "Emily",
+              "score": 100
+            },
+            {
+              "player": "Jeff",
+              "score": 300
+            }
+          ]
+        },
+        {
+          "category": "SCIENCE",
+          "value": 300,
+          "clue": "On a weather chart this line connects places that have the same barometric pressure",
+          "answer": "Isobar",
+          "isDailyDouble": false,
+          "orderNumber": 11,
+          "correctContestants": [
+            "Emily"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Lyn",
+              "score": 400
+            },
+            {
+              "player": "Emily",
+              "score": 400
+            },
+            {
+              "player": "Jeff",
+              "score": 300
+            }
+          ]
+        },
+        {
+          "category": "SCIENCE",
+          "value": 400,
+          "clue": "On June 29, 1994 the temperature reached 125 degrees in Laughlin, the highest ever recorded in this state",
+          "answer": "Nevada",
+          "isDailyDouble": false,
+          "orderNumber": 12,
+          "correctContestants": [
+            "Jeff"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Lyn",
+              "score": 400
+            },
+            {
+              "player": "Emily",
+              "score": 400
+            },
+            {
+              "player": "Jeff",
+              "score": 700
+            }
+          ]
+        },
+        {
+          "category": "SCIENCE",
+          "value": 500,
+          "clue": "This organ removes excess glucose from the blood & stores it as glycogen",
+          "answer": "Liver",
+          "isDailyDouble": false,
+          "orderNumber": 13,
+          "correctContestants": [
+            "Lyn"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Lyn",
+              "score": 900
+            },
+            {
+              "player": "Emily",
+              "score": 400
+            },
+            {
+              "player": "Jeff",
+              "score": 700
+            }
+          ]
+        },
+        {
+          "category": "'60s TV",
+          "value": 400,
+          "clue": "According to the show's title, the \"Kiwi\" was \"The Wackiest Ship In\" this",
+          "answer": "Army",
+          "isDailyDouble": false,
+          "orderNumber": 14,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Lyn"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Lyn",
+              "score": 500
+            },
+            {
+              "player": "Emily",
+              "score": 400
+            },
+            {
+              "player": "Jeff",
+              "score": 700
+            }
+          ]
+        },
+        {
+          "category": "SEE THE U.S.A.",
+          "value": 300,
+          "clue": "You can see fossilized fish at the Badlands Petrified Gardens in Kadoka in this state",
+          "answer": "South Dakota",
+          "isDailyDouble": false,
+          "orderNumber": 15,
+          "correctContestants": [
+            "Jeff"
+          ],
+          "incorrectContestants": [
+            "Lyn"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Lyn",
+              "score": 200
+            },
+            {
+              "player": "Emily",
+              "score": 400
+            },
+            {
+              "player": "Jeff",
+              "score": 1000
+            }
+          ]
+        },
+        {
+          "category": "BAKED GOODS",
+          "value": 100,
+          "clue": "This all-American pie also has Dutch & deep-dish varieties",
+          "answer": "Apple Pie",
+          "isDailyDouble": false,
+          "orderNumber": 16,
+          "correctContestants": [
+            "Lyn"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Lyn",
+              "score": 300
+            },
+            {
+              "player": "Emily",
+              "score": 400
+            },
+            {
+              "player": "Jeff",
+              "score": 1000
+            }
+          ]
+        },
+        {
+          "category": "SEE THE U.S.A.",
+          "value": 200,
+          "clue": "Egg Harbor, a town in this dairy state, may be named for an egg-throwing battle fought there in 1825",
+          "answer": "Wisconsin",
+          "isDailyDouble": false,
+          "orderNumber": 17,
+          "correctContestants": [
+            "Jeff"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Lyn",
+              "score": 300
+            },
+            {
+              "player": "Emily",
+              "score": 400
+            },
+            {
+              "player": "Jeff",
+              "score": 1200
+            }
+          ]
+        },
+        {
+          "category": "BAKED GOODS",
+          "value": 200,
+          "clue": "These treats can be baked bite-size & served as appetizers if the Knave of Hearts doesn't get them first",
+          "answer": "Tarts",
+          "isDailyDouble": false,
+          "orderNumber": 18,
+          "correctContestants": [
+            "Lyn"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Lyn",
+              "score": 500
+            },
+            {
+              "player": "Emily",
+              "score": 400
+            },
+            {
+              "player": "Jeff",
+              "score": 1200
+            }
+          ]
+        },
+        {
+          "category": "'60s TV",
+          "value": 500,
+          "clue": "Only 2 CBS shows remained on Sunday nights for the entire decade:  \"Lassie\" & this variety show",
+          "answer": "\"The Ed Sullivan Show\" (old \"Toast Of The Town\")",
+          "isDailyDouble": false,
+          "orderNumber": 19,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Jeff"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Lyn",
+              "score": 500
+            },
+            {
+              "player": "Emily",
+              "score": 400
+            },
+            {
+              "player": "Jeff",
+              "score": 700
+            }
+          ]
+        },
+        {
+          "category": "ODDS & ENDS",
+          "value": 300,
+          "clue": "This country just south of Niger is 25% smaller & 2 letters longer",
+          "answer": "Nigeria",
+          "isDailyDouble": false,
+          "orderNumber": 20,
+          "correctContestants": [
+            "Jeff"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Lyn",
+              "score": 500
+            },
+            {
+              "player": "Emily",
+              "score": 400
+            },
+            {
+              "player": "Jeff",
+              "score": 1000
+            }
+          ]
+        },
+        {
+          "category": "ODDS & ENDS",
+          "value": 100,
+          "clue": "In 1892 a Dr. Sheffield first put this hygiene product in a tube",
+          "answer": "Toothpaste",
+          "isDailyDouble": false,
+          "orderNumber": 21,
+          "correctContestants": [
+            "Lyn"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Lyn",
+              "score": 600
+            },
+            {
+              "player": "Emily",
+              "score": 400
+            },
+            {
+              "player": "Jeff",
+              "score": 1000
+            }
+          ]
+        },
+        {
+          "category": "ODDS & ENDS",
+          "value": 400,
+          "clue": "The CMA, this group, gives awards for, among others, \"Vocal Event of the Year\"",
+          "answer": "Country Music Association",
+          "isDailyDouble": false,
+          "orderNumber": 22,
+          "correctContestants": [
+            "Lyn"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Lyn",
+              "score": 1000
+            },
+            {
+              "player": "Emily",
+              "score": 400
+            },
+            {
+              "player": "Jeff",
+              "score": 1000
+            }
+          ]
+        },
+        {
+          "category": "ODDS & ENDS",
+          "value": 500,
+          "clue": "The blade of the \"shinai\", the sword used in kendo, is made of this plant material",
+          "answer": "Bamboo",
+          "isDailyDouble": false,
+          "orderNumber": 23,
+          "correctContestants": [
+            "Emily"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Lyn",
+              "score": 1000
+            },
+            {
+              "player": "Emily",
+              "score": 900
+            },
+            {
+              "player": "Jeff",
+              "score": 1000
+            }
+          ]
+        },
+        {
+          "category": "ODDS & ENDS",
+          "value": 200,
+          "clue": "On March 6, 1996 Detroit Red Wings goalie Chris Osgood did this, the first for an NHL goalie since 1989",
+          "answer": "Score a goal",
+          "isDailyDouble": false,
+          "orderNumber": 24,
+          "correctContestants": [
+            "Emily"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Lyn",
+              "score": 1000
+            },
+            {
+              "player": "Emily",
+              "score": 1100
+            },
+            {
+              "player": "Jeff",
+              "score": 1000
+            }
+          ]
+        },
+        {
+          "category": "SEE THE U.S.A.",
+          "value": 100,
+          "clue": "St. Paul is famous for its winter carnival, & this city, its twin, has an aquatennial festival",
+          "answer": "Minneapolis",
+          "isDailyDouble": false,
+          "orderNumber": 25,
+          "correctContestants": [
+            "Lyn"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Lyn",
+              "score": 1100
+            },
+            {
+              "player": "Emily",
+              "score": 1100
+            },
+            {
+              "player": "Jeff",
+              "score": 1000
+            }
+          ]
+        },
+        {
+          "category": "'60s TV",
+          "value": 200,
+          "clue": "In 1966 \"T.H.E. Cat\" followed \"The Man From\" this organization on NBC",
+          "answer": "U.N.C.L.E.",
+          "isDailyDouble": false,
+          "orderNumber": 26,
+          "correctContestants": [
+            "Lyn"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Lyn",
+              "score": 1300
+            },
+            {
+              "player": "Emily",
+              "score": 1100
+            },
+            {
+              "player": "Jeff",
+              "score": 1000
+            }
+          ]
+        },
+        {
+          "category": "BAKED GOODS",
+          "value": 300,
+          "clue": "Eggs Benedict are traditionally built on top of this type of bread",
+          "answer": "English muffin",
+          "isDailyDouble": false,
+          "orderNumber": 27,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Emily"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Lyn",
+              "score": 1300
+            },
+            {
+              "player": "Emily",
+              "score": 800
+            },
+            {
+              "player": "Jeff",
+              "score": 1000
+            }
+          ]
+        },
+        {
+          "category": "BAKED GOODS",
+          "value": 400,
+          "clue": "Originally a trademark, it refers to a tube pan with fluted sides or the cake baked in it",
+          "answer": "Bundt cake",
+          "isDailyDouble": false,
+          "orderNumber": 28,
+          "correctContestants": [
+            "Emily"
+          ],
+          "incorrectContestants": [
+            "Jeff"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Lyn",
+              "score": 1300
+            },
+            {
+              "player": "Emily",
+              "score": 1200
+            },
+            {
+              "player": "Jeff",
+              "score": 600
+            }
+          ]
+        },
+        {
+          "category": "BAKED GOODS",
+          "value": 500,
+          "clue": "Frosted with pecans & coconut, this cake is named for an ingredient, not for its country of origin",
+          "answer": "German chocolate cake",
+          "isDailyDouble": false,
+          "orderNumber": 29,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Lyn",
+            "Jeff"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Lyn",
+              "score": 800
+            },
+            {
+              "player": "Emily",
+              "score": 1200
+            },
+            {
+              "player": "Jeff",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "category": "'60s TV",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Lyn",
+              "score": 800
+            },
+            {
+              "player": "Emily",
+              "score": 1200
+            },
+            {
+              "player": "Jeff",
+              "score": 100
+            }
+          ]
+        }
+      ],
+      "firstBreakScores": [
+        {
+          "player": "Lyn",
+          "score": 500
+        },
+        {
+          "player": "Emily",
+          "score": 400
+        },
+        {
+          "player": "Jeff",
+          "score": 700
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "Lyn",
+          "score": 800
+        },
+        {
+          "player": "Emily",
+          "score": 1200
+        },
+        {
+          "player": "Jeff",
+          "score": 100
+        }
+      ]
+    },
+    "doubleJeopardy": {
+      "categories": [
+        "19th CENTURY AMERICA",
+        "THE OSCARS",
+        "RUMINANTS",
+        "WORLD GEOGRAPHY",
+        "BUSINESS BENCHMARKS",
+        "JOHN GREENLEAF WHITTIER"
+      ],
+      "clues": [
+        {
+          "category": "THE OSCARS",
+          "value": 200,
+          "clue": "Steven Spielberg compared this Thalberg Award winner & \"Star Wars\" director to Luke Skywalker",
+          "answer": "George Lucas",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Lyn",
+              "score": 800
+            },
+            {
+              "player": "Emily",
+              "score": 1400
+            },
+            {
+              "player": "Jeff",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "category": "THE OSCARS",
+          "value": 400,
+          "clue": "When he won his Best Supporting Actor Oscar for \"The Fugitive\", his head was shaved for his role as Ty Cobb",
+          "answer": "Tommy Lee Jones",
+          "isDailyDouble": false,
+          "orderNumber": 2,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Lyn",
+              "score": 800
+            },
+            {
+              "player": "Emily",
+              "score": 1400
+            },
+            {
+              "player": "Jeff",
+              "score": 500
+            }
+          ]
+        },
+        {
+          "category": "THE OSCARS",
+          "value": 600,
+          "clue": "The 2 actors nominated for their performances in this 1995 film were Ed Harris & Kathleen Quinlan",
+          "answer": "\"Apollo 13\"",
+          "isDailyDouble": false,
+          "orderNumber": 3,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Lyn",
+              "score": 1400
+            },
+            {
+              "player": "Emily",
+              "score": 1400
+            },
+            {
+              "player": "Jeff",
+              "score": 500
+            }
+          ]
+        },
+        {
+          "category": "THE OSCARS",
+          "value": 800,
+          "clue": "At age 79 he became the oldest person ever nominated for Best Director, for \"Prizzi's Honor\"",
+          "answer": "John Huston",
+          "isDailyDouble": false,
+          "orderNumber": 4,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Lyn",
+              "score": 2200
+            },
+            {
+              "player": "Emily",
+              "score": 1400
+            },
+            {
+              "player": "Jeff",
+              "score": 500
+            }
+          ]
+        },
+        {
+          "category": "THE OSCARS",
+          "value": 1000,
+          "clue": "The first movie nominated for Best Foreign Language Film & Best Picture, its title is just 1 letter",
+          "answer": "\"Z\"",
+          "isDailyDouble": false,
+          "orderNumber": 5,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Lyn",
+              "score": 3200
+            },
+            {
+              "player": "Emily",
+              "score": 1400
+            },
+            {
+              "player": "Jeff",
+              "score": 500
+            }
+          ]
+        },
+        {
+          "category": "WORLD GEOGRAPHY",
+          "value": 1500,
+          "clue": "1 of Denmark's 2 overseas regions",
+          "answer": "Faroe Islands & Greenland",
+          "isDailyDouble": true,
+          "orderNumber": 6,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Lyn",
+              "score": 4700
+            },
+            {
+              "player": "Emily",
+              "score": 1400
+            },
+            {
+              "player": "Jeff",
+              "score": 500
+            }
+          ]
+        },
+        {
+          "category": "WORLD GEOGRAPHY",
+          "value": 800,
+          "clue": "English towns include Stratford-on-Avon, Stoke-on-Trent & Henley-on- this river",
+          "answer": "Thames",
+          "isDailyDouble": false,
+          "orderNumber": 7,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Lyn",
+              "score": 4700
+            },
+            {
+              "player": "Emily",
+              "score": 1400
+            },
+            {
+              "player": "Jeff",
+              "score": 1300
+            }
+          ]
+        },
+        {
+          "category": "WORLD GEOGRAPHY",
+          "value": 200,
+          "clue": "Less than 5,000 square miles in area, The Gambia is the smallest independent mainland country on this continent",
+          "answer": "Africa",
+          "isDailyDouble": false,
+          "orderNumber": 8,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Lyn",
+              "score": 4900
+            },
+            {
+              "player": "Emily",
+              "score": 1400
+            },
+            {
+              "player": "Jeff",
+              "score": 1300
+            }
+          ]
+        },
+        {
+          "category": "19th CENTURY AMERICA",
+          "value": 600,
+          "clue": "On January 24, 1848 carpenter James Marshall discovered gold on this man's California property",
+          "answer": "John Sutter",
+          "isDailyDouble": false,
+          "orderNumber": 9,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Lyn",
+              "score": 5500
+            },
+            {
+              "player": "Emily",
+              "score": 1400
+            },
+            {
+              "player": "Jeff",
+              "score": 1300
+            }
+          ]
+        },
+        {
+          "category": "19th CENTURY AMERICA",
+          "value": 800,
+          "clue": "Known as the \"Pathfinder\", he was urged to run against Lincoln in 1864 but eventually stepped aside",
+          "answer": "John C. Fremont",
+          "isDailyDouble": false,
+          "orderNumber": 10,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Lyn",
+              "score": 6300
+            },
+            {
+              "player": "Emily",
+              "score": 1400
+            },
+            {
+              "player": "Jeff",
+              "score": 1300
+            }
+          ]
+        },
+        {
+          "category": "19th CENTURY AMERICA",
+          "value": 1000,
+          "clue": "In 1815 Congress purchased this ex-president's 6,000-book library for the Library of Congress",
+          "answer": "Thomas Jefferson",
+          "isDailyDouble": false,
+          "orderNumber": 11,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Lyn",
+              "score": 7300
+            },
+            {
+              "player": "Emily",
+              "score": 1400
+            },
+            {
+              "player": "Jeff",
+              "score": 1300
+            }
+          ]
+        },
+        {
+          "category": "RUMINANTS",
+          "value": 600,
+          "clue": "The Saanen & Toggenburg are among the top milk-producing breeds of this animal in the U.S.",
+          "answer": "Goat",
+          "isDailyDouble": false,
+          "orderNumber": 12,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Lyn",
+              "score": 7300
+            },
+            {
+              "player": "Emily",
+              "score": 2000
+            },
+            {
+              "player": "Jeff",
+              "score": 1300
+            }
+          ]
+        },
+        {
+          "category": "RUMINANTS",
+          "value": 800,
+          "clue": "This llama relative, scientific name Lama pacos, is grown mainly for its fine wool",
+          "answer": "Alpaca",
+          "isDailyDouble": false,
+          "orderNumber": 13,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Lyn",
+              "score": 7300
+            },
+            {
+              "player": "Emily",
+              "score": 2800
+            },
+            {
+              "player": "Jeff",
+              "score": 1300
+            }
+          ]
+        },
+        {
+          "category": "RUMINANTS",
+          "value": 1000,
+          "clue": "This largest deer may weigh up to 1,800 pounds",
+          "answer": "Moose",
+          "isDailyDouble": false,
+          "orderNumber": 14,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Jeff"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Lyn",
+              "score": 7300
+            },
+            {
+              "player": "Emily",
+              "score": 1800
+            },
+            {
+              "player": "Jeff",
+              "score": 300
+            }
+          ]
+        },
+        {
+          "category": "RUMINANTS",
+          "value": 400,
+          "clue": "Limousin & Blonde D'Aquitaine are popular breeds of cattle imported to the U.S. from this country",
+          "answer": "France",
+          "isDailyDouble": false,
+          "orderNumber": 15,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Lyn",
+              "score": 7700
+            },
+            {
+              "player": "Emily",
+              "score": 1800
+            },
+            {
+              "player": "Jeff",
+              "score": 300
+            }
+          ]
+        },
+        {
+          "category": "JOHN GREENLEAF WHITTIER",
+          "value": 600,
+          "clue": "\"The Angels of Buena Vista\" is Whittier's tribute to the women who cared for the wounded during this war",
+          "answer": "The Mexican War",
+          "isDailyDouble": false,
+          "orderNumber": 16,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Lyn",
+              "score": 8300
+            },
+            {
+              "player": "Emily",
+              "score": 1800
+            },
+            {
+              "player": "Jeff",
+              "score": 300
+            }
+          ]
+        },
+        {
+          "category": "JOHN GREENLEAF WHITTIER",
+          "value": 800,
+          "clue": "Sculptor mentioned in the title of Whittier's 1886 poem about the Statue of Liberty",
+          "answer": "Frédéric Bartholdi",
+          "isDailyDouble": false,
+          "orderNumber": 17,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Lyn",
+              "score": 8300
+            },
+            {
+              "player": "Emily",
+              "score": 1800
+            },
+            {
+              "player": "Jeff",
+              "score": 1100
+            }
+          ]
+        },
+        {
+          "category": "WORLD GEOGRAPHY",
+          "value": 400,
+          "clue": "Lake Hula is not in Hawaii but just west of the Golan Heights in this country",
+          "answer": "Israel",
+          "isDailyDouble": false,
+          "orderNumber": 18,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Lyn",
+              "score": 8300
+            },
+            {
+              "player": "Emily",
+              "score": 1400
+            },
+            {
+              "player": "Jeff",
+              "score": 1500
+            }
+          ]
+        },
+        {
+          "category": "WORLD GEOGRAPHY",
+          "value": 1000,
+          "clue": "This small Newfoundland city is a major air traffic control center for north Atlantic flights",
+          "answer": "Gander",
+          "isDailyDouble": false,
+          "orderNumber": 19,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Lyn",
+              "score": 8300
+            },
+            {
+              "player": "Emily",
+              "score": 1400
+            },
+            {
+              "player": "Jeff",
+              "score": 2500
+            }
+          ]
+        },
+        {
+          "category": "19th CENTURY AMERICA",
+          "value": 200,
+          "clue": "On July 4, 1828 construction began on this pioneering U.S. railroad, the B&O",
+          "answer": "Baltimore & Ohio",
+          "isDailyDouble": false,
+          "orderNumber": 20,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Lyn",
+              "score": 8500
+            },
+            {
+              "player": "Emily",
+              "score": 1400
+            },
+            {
+              "player": "Jeff",
+              "score": 2500
+            }
+          ]
+        },
+        {
+          "category": "19th CENTURY AMERICA",
+          "value": 400,
+          "clue": "In 1839 the village of Waterloo was chosen as the Texas capital & its name was changed to this",
+          "answer": "Austin",
+          "isDailyDouble": false,
+          "orderNumber": 21,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Lyn",
+              "score": 8500
+            },
+            {
+              "player": "Emily",
+              "score": 1800
+            },
+            {
+              "player": "Jeff",
+              "score": 2500
+            }
+          ]
+        },
+        {
+          "category": "BUSINESS BENCHMARKS",
+          "value": 600,
+          "clue": "In 1959 this company sold its billionth can of Spam",
+          "answer": "Hormel",
+          "isDailyDouble": false,
+          "orderNumber": 22,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Lyn",
+              "score": 7900
+            },
+            {
+              "player": "Emily",
+              "score": 2400
+            },
+            {
+              "player": "Jeff",
+              "score": 2500
+            }
+          ]
+        },
+        {
+          "category": "BUSINESS BENCHMARKS",
+          "value": 800,
+          "clue": "In 1992 this company acquired Security Pacific in the biggest bank merger in U.S. history",
+          "answer": "BankAmerica (Bank of America)",
+          "isDailyDouble": false,
+          "orderNumber": 23,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Lyn",
+              "score": 7900
+            },
+            {
+              "player": "Emily",
+              "score": 2400
+            },
+            {
+              "player": "Jeff",
+              "score": 2500
+            }
+          ]
+        },
+        {
+          "category": "BUSINESS BENCHMARKS",
+          "value": 1000,
+          "clue": "In 1992 the Ritz-Carlton hotel company won this cabinet dept's Malcolm Baldridge Quality Award",
+          "answer": "Department of Commerce",
+          "isDailyDouble": false,
+          "orderNumber": 24,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Lyn",
+              "score": 7900
+            },
+            {
+              "player": "Emily",
+              "score": 3400
+            },
+            {
+              "player": "Jeff",
+              "score": 2500
+            }
+          ]
+        },
+        {
+          "category": "JOHN GREENLEAF WHITTIER",
+          "value": 1000,
+          "clue": "A few weeks before his own death, Whittier wrote his last poem \"To\" this \"Old Ironsides\" poet",
+          "answer": "Oliver Wendell Holmes",
+          "isDailyDouble": false,
+          "orderNumber": 25,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Lyn",
+              "score": 8900
+            },
+            {
+              "player": "Emily",
+              "score": 3400
+            },
+            {
+              "player": "Jeff",
+              "score": 2500
+            }
+          ]
+        },
+        {
+          "category": "JOHN GREENLEAF WHITTIER",
+          "value": 500,
+          "clue": "A Whittier poem inspired by this novel begins, \"Dry the tears for holy Eva, with the blessed angels leave her\"",
+          "answer": "\"Uncle Tom's Cabin\"",
+          "isDailyDouble": true,
+          "orderNumber": 26,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Lyn",
+              "score": 9400
+            },
+            {
+              "player": "Emily",
+              "score": 3400
+            },
+            {
+              "player": "Jeff",
+              "score": 2500
+            }
+          ]
+        },
+        {
+          "category": "JOHN GREENLEAF WHITTIER",
+          "value": 200,
+          "clue": "Whittier's \"Barefoot boy, with cheek of\" this color is clothed in \"turned-up pantaloons\"",
+          "answer": "Tan",
+          "isDailyDouble": false,
+          "orderNumber": 27,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Lyn",
+              "score": 9400
+            },
+            {
+              "player": "Emily",
+              "score": 3600
+            },
+            {
+              "player": "Jeff",
+              "score": 2500
+            }
+          ]
+        },
+        {
+          "category": "BUSINESS BENCHMARKS",
+          "value": 400,
+          "clue": "This Japanese car company's first U.S. built Accord was produced in 1982",
+          "answer": "Honda",
+          "isDailyDouble": false,
+          "orderNumber": 28,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Lyn",
+              "score": 9800
+            },
+            {
+              "player": "Emily",
+              "score": 3600
+            },
+            {
+              "player": "Jeff",
+              "score": 2500
+            }
+          ]
+        },
+        {
+          "category": "RUMINANTS",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Lyn",
+              "score": 9800
+            },
+            {
+              "player": "Emily",
+              "score": 3600
+            },
+            {
+              "player": "Jeff",
+              "score": 2500
+            }
+          ]
+        },
+        {
+          "category": "BUSINESS BENCHMARKS",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Lyn",
+              "score": 9800
+            },
+            {
+              "player": "Emily",
+              "score": 3600
+            },
+            {
+              "player": "Jeff",
+              "score": 2500
+            }
+          ]
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "Lyn",
+          "score": 9800
+        },
+        {
+          "player": "Emily",
+          "score": 3600
+        },
+        {
+          "player": "Jeff",
+          "score": 2500
+        }
+      ]
+    },
+    "finalJeopardy": {
+      "category": "SHAKESPEARE'S WOMEN",
+      "clue": "This heroine is murdered on the island of Cyprus, as is her waiting-woman",
+      "answer": "Desdemona (from \"Othello\")",
+      "responses": [
+        {
+          "contestant": "Jeff",
+          "response": "Who is Desdemona  (Hi Caitlin!)",
+          "isCorrect": true,
+          "isIncorrect": false,
+          "value": 2500,
+          "finalScore": 5000
+        },
+        {
+          "contestant": "Emily",
+          "response": "Who is Desdemona?",
+          "isCorrect": true,
+          "isIncorrect": false,
+          "value": 600,
+          "finalScore": 4200
+        },
+        {
+          "contestant": "Lyn",
+          "response": "Who is Desdemona",
+          "isCorrect": true,
+          "isIncorrect": false,
+          "value": 1000,
+          "finalScore": 10800
+        }
+      ]
+    }
+  },
+  "finalScores": [
+    {
+      "player": "Lyn",
+      "score": "$10,800"
+    },
+    {
+      "player": "Emily",
+      "score": "$4,200"
+    },
+    {
+      "player": "Jeff",
+      "score": "$5,000"
+    }
+  ],
+  "coryatScores": [
+    {
+      "player": "Lyn",
+      "score": 8600
+    },
+    {
+      "player": "Emily",
+      "score": 3600
+    },
+    {
+      "player": "Jeff",
+      "score": 2500
+    }
+  ]
+}

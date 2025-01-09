@@ -1,0 +1,1700 @@
+{
+  "gameId": 8181,
+  "showNumber": "8901",
+  "title": "Show #8901 - Monday, June 26, 2023",
+  "date": "2023-06-26",
+  "comments": "",
+  "contestants": [
+    "Donna",
+    "Ryan",
+    "Caroline"
+  ],
+  "rounds": {
+    "jeopardy": {
+      "categories": [
+        "FIRST LADIES' RHYME TIME",
+        "HERE COMES THE SUMMER",
+        "7-LETTER WORDS",
+        "UNITED KINGDOM ELECTION CONSTITUENCIES",
+        "LOVELY RITA",
+        "METER MADE"
+      ],
+      "clues": [
+        {
+          "category": "LOVELY RITA",
+          "value": 200,
+          "clue": "Her road to the EGOT began with winning an Oscar as Anita in \"West Side Story\"",
+          "answer": "Rita Moreno",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [
+            "Caroline"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Donna",
+              "score": 0
+            },
+            {
+              "player": "Ryan",
+              "score": 0
+            },
+            {
+              "player": "Caroline",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "LOVELY RITA",
+          "value": 400,
+          "clue": "She & Tom Hanks co-starred in the 1985 film \"Volunteers\" & lived out their on-screen romance off-screen, marrying in 1988",
+          "answer": "Rita Wilson",
+          "isDailyDouble": false,
+          "orderNumber": 2,
+          "correctContestants": [
+            "Donna"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Donna",
+              "score": 400
+            },
+            {
+              "player": "Ryan",
+              "score": 0
+            },
+            {
+              "player": "Caroline",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "LOVELY RITA",
+          "value": 600,
+          "clue": "A long-time headliner on the Strip, she was named Las Vegas' Comedian of the Year 9 years in a row",
+          "answer": "Rita Rudner",
+          "isDailyDouble": false,
+          "orderNumber": 3,
+          "correctContestants": [
+            "Caroline"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Donna",
+              "score": 400
+            },
+            {
+              "player": "Ryan",
+              "score": 0
+            },
+            {
+              "player": "Caroline",
+              "score": 800
+            }
+          ]
+        },
+        {
+          "category": "HERE COMES THE SUMMER",
+          "value": 400,
+          "clue": "What better time than summer to unleash your inner child on one of these alliterative items",
+          "answer": "a boogie board",
+          "isDailyDouble": false,
+          "orderNumber": 4,
+          "correctContestants": [
+            "Caroline"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Donna",
+              "score": 400
+            },
+            {
+              "player": "Ryan",
+              "score": 0
+            },
+            {
+              "player": "Caroline",
+              "score": 1200
+            }
+          ]
+        },
+        {
+          "category": "7-LETTER WORDS",
+          "value": 200,
+          "clue": "It's a payment given by a feudal vassal to a lord, or a type of band such as Oasish",
+          "answer": "a tribute",
+          "isDailyDouble": false,
+          "orderNumber": 5,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Donna",
+              "score": 400
+            },
+            {
+              "player": "Ryan",
+              "score": 0
+            },
+            {
+              "player": "Caroline",
+              "score": 1200
+            }
+          ]
+        },
+        {
+          "category": "7-LETTER WORDS",
+          "value": 400,
+          "clue": "Zeno's \"arrow\" is an example of this philosophical statement, from the Greek for \"contrary to expectation\"",
+          "answer": "a paradox",
+          "isDailyDouble": false,
+          "orderNumber": 6,
+          "correctContestants": [
+            "Ryan"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Donna",
+              "score": 400
+            },
+            {
+              "player": "Ryan",
+              "score": 400
+            },
+            {
+              "player": "Caroline",
+              "score": 1200
+            }
+          ]
+        },
+        {
+          "category": "7-LETTER WORDS",
+          "value": 600,
+          "clue": "Czech athlete, Barbora Spotáková  holds a world record for throwing this item some 237 feet",
+          "answer": "a javelin",
+          "isDailyDouble": false,
+          "orderNumber": 7,
+          "correctContestants": [
+            "Ryan"
+          ],
+          "incorrectContestants": [
+            "Donna"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Donna",
+              "score": -200
+            },
+            {
+              "player": "Ryan",
+              "score": 1000
+            },
+            {
+              "player": "Caroline",
+              "score": 1200
+            }
+          ]
+        },
+        {
+          "category": "LOVELY RITA",
+          "value": 800,
+          "clue": "Margarita Cansino was the real name of this silver screen star of the 1940s & '50s",
+          "answer": "Rita Hayworth",
+          "isDailyDouble": false,
+          "orderNumber": 8,
+          "correctContestants": [
+            "Ryan"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Donna",
+              "score": -200
+            },
+            {
+              "player": "Ryan",
+              "score": 1800
+            },
+            {
+              "player": "Caroline",
+              "score": 1200
+            }
+          ]
+        },
+        {
+          "category": "LOVELY RITA",
+          "value": 1000,
+          "clue": "This lovely Rita honored her heritage by wearing an Albanian folk costume in the video for her 2021 EP \"Bang\"",
+          "answer": "Rita Ora",
+          "isDailyDouble": false,
+          "orderNumber": 9,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Donna"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Donna",
+              "score": -1200
+            },
+            {
+              "player": "Ryan",
+              "score": 1800
+            },
+            {
+              "player": "Caroline",
+              "score": 1200
+            }
+          ]
+        },
+        {
+          "category": "7-LETTER WORDS",
+          "value": 800,
+          "clue": "This delicate word is stretched out to 3 syllables by Darren McGavin in \"A Christmas Story\"",
+          "answer": "fragile",
+          "isDailyDouble": false,
+          "orderNumber": 10,
+          "correctContestants": [
+            "Donna"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Donna",
+              "score": -400
+            },
+            {
+              "player": "Ryan",
+              "score": 1800
+            },
+            {
+              "player": "Caroline",
+              "score": 1200
+            }
+          ]
+        },
+        {
+          "category": "7-LETTER WORDS",
+          "value": 1000,
+          "clue": "It's an oxymoronic portmanteau for a good buddy that you also sorta hate",
+          "answer": "frenemy",
+          "isDailyDouble": false,
+          "orderNumber": 11,
+          "correctContestants": [
+            "Caroline"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Donna",
+              "score": -400
+            },
+            {
+              "player": "Ryan",
+              "score": 1800
+            },
+            {
+              "player": "Caroline",
+              "score": 2200
+            }
+          ]
+        },
+        {
+          "category": "METER MADE",
+          "value": 200,
+          "clue": "In the 1930s, Carl Magee conceived these meters for the streets of Oklahoma city & an oil industry supply company made them",
+          "answer": "parking meter",
+          "isDailyDouble": false,
+          "orderNumber": 12,
+          "correctContestants": [
+            "Caroline"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Donna",
+              "score": -400
+            },
+            {
+              "player": "Ryan",
+              "score": 1800
+            },
+            {
+              "player": "Caroline",
+              "score": 2400
+            }
+          ]
+        },
+        {
+          "category": "METER MADE",
+          "value": 400,
+          "clue": "Handy for home electrical work, the Klein tools multimeter measures up to 600 of these units",
+          "answer": "volts",
+          "isDailyDouble": false,
+          "orderNumber": 13,
+          "correctContestants": [
+            "Ryan"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Donna",
+              "score": -400
+            },
+            {
+              "player": "Ryan",
+              "score": 2200
+            },
+            {
+              "player": "Caroline",
+              "score": 2400
+            }
+          ]
+        },
+        {
+          "category": "METER MADE",
+          "value": 600,
+          "clue": "The device seen here is called a pulse one of these & is made to see how well your lungs are working",
+          "answer": "an oximeter",
+          "isDailyDouble": false,
+          "orderNumber": 14,
+          "correctContestants": [
+            "Donna"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Donna",
+              "score": 200
+            },
+            {
+              "player": "Ryan",
+              "score": 2200
+            },
+            {
+              "player": "Caroline",
+              "score": 2400
+            }
+          ]
+        },
+        {
+          "category": "HERE COMES THE SUMMER",
+          "value": 200,
+          "clue": "MLB's All-Star Week includes this \"Derby\"; Juan Soto belted 53 to win the 2022 event",
+          "answer": "the Home Run Derby",
+          "isDailyDouble": false,
+          "orderNumber": 15,
+          "correctContestants": [
+            "Caroline"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Donna",
+              "score": 200
+            },
+            {
+              "player": "Ryan",
+              "score": 2200
+            },
+            {
+              "player": "Caroline",
+              "score": 2600
+            }
+          ]
+        },
+        {
+          "category": "FIRST LADIES' RHYME TIME",
+          "value": 200,
+          "clue": "Mrs. Obama's chimes",
+          "answer": "Michelle's bells",
+          "isDailyDouble": false,
+          "orderNumber": 16,
+          "correctContestants": [
+            "Caroline"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Donna",
+              "score": 200
+            },
+            {
+              "player": "Ryan",
+              "score": 2200
+            },
+            {
+              "player": "Caroline",
+              "score": 2800
+            }
+          ]
+        },
+        {
+          "category": "FIRST LADIES' RHYME TIME",
+          "value": 400,
+          "clue": "Mrs. Kennedy's military slacks",
+          "answer": "Jackie's khakis",
+          "isDailyDouble": false,
+          "orderNumber": 17,
+          "correctContestants": [
+            "Caroline"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Donna",
+              "score": 200
+            },
+            {
+              "player": "Ryan",
+              "score": 2200
+            },
+            {
+              "player": "Caroline",
+              "score": 3200
+            }
+          ]
+        },
+        {
+          "category": "FIRST LADIES' RHYME TIME",
+          "value": 600,
+          "clue": "Mrs. Madison's streetcars",
+          "answer": "Dolley's trolleys",
+          "isDailyDouble": false,
+          "orderNumber": 18,
+          "correctContestants": [
+            "Caroline"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Donna",
+              "score": 200
+            },
+            {
+              "player": "Ryan",
+              "score": 2200
+            },
+            {
+              "player": "Caroline",
+              "score": 3800
+            }
+          ]
+        },
+        {
+          "category": "FIRST LADIES' RHYME TIME",
+          "value": 800,
+          "clue": "The second Mrs. Bush's soft felt hats with creased crowns",
+          "answer": "Laura's fedoras",
+          "isDailyDouble": false,
+          "orderNumber": 19,
+          "correctContestants": [
+            "Donna"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Donna",
+              "score": 1000
+            },
+            {
+              "player": "Ryan",
+              "score": 2200
+            },
+            {
+              "player": "Caroline",
+              "score": 3800
+            }
+          ]
+        },
+        {
+          "category": "FIRST LADIES' RHYME TIME",
+          "value": 1000,
+          "clue": "Mrs. Truman's locks of hair",
+          "answer": "Bess's tresses",
+          "isDailyDouble": false,
+          "orderNumber": 20,
+          "correctContestants": [
+            "Donna"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Donna",
+              "score": 2000
+            },
+            {
+              "player": "Ryan",
+              "score": 2200
+            },
+            {
+              "player": "Caroline",
+              "score": 3800
+            }
+          ]
+        },
+        {
+          "category": "METER MADE",
+          "value": 800,
+          "clue": "stamps.com says its service is better than using this device that Pitney Bowes has been making for a century",
+          "answer": "a postage meter",
+          "isDailyDouble": false,
+          "orderNumber": 21,
+          "correctContestants": [
+            "Donna"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Donna",
+              "score": 2800
+            },
+            {
+              "player": "Ryan",
+              "score": 2200
+            },
+            {
+              "player": "Caroline",
+              "score": 3800
+            }
+          ]
+        },
+        {
+          "category": "METER MADE",
+          "value": 1000,
+          "clue": "It was a breeze for John Thomas Romney Robinson to make the cup style one of these in the 1800s; a similar design is still used",
+          "answer": "anemometer",
+          "isDailyDouble": false,
+          "orderNumber": 22,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Ryan",
+            "Caroline"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Donna",
+              "score": 2800
+            },
+            {
+              "player": "Ryan",
+              "score": 1200
+            },
+            {
+              "player": "Caroline",
+              "score": 2800
+            }
+          ]
+        },
+        {
+          "category": "HERE COMES THE SUMMER",
+          "value": 600,
+          "clue": "Head to Rockland in this state for the August Lobster Fest & Coronation of the Sea Goddess",
+          "answer": "Maine",
+          "isDailyDouble": false,
+          "orderNumber": 23,
+          "correctContestants": [
+            "Donna"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Donna",
+              "score": 3400
+            },
+            {
+              "player": "Ryan",
+              "score": 1200
+            },
+            {
+              "player": "Caroline",
+              "score": 2800
+            }
+          ]
+        },
+        {
+          "category": "HERE COMES THE SUMMER",
+          "value": 800,
+          "clue": "Fans by the thousands flock to Chicago's Grant Park for this annual summer music festival",
+          "answer": "Lollapalooza",
+          "isDailyDouble": false,
+          "orderNumber": 24,
+          "correctContestants": [
+            "Ryan"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Donna",
+              "score": 3400
+            },
+            {
+              "player": "Ryan",
+              "score": 2000
+            },
+            {
+              "player": "Caroline",
+              "score": 2800
+            }
+          ]
+        },
+        {
+          "category": "HERE COMES THE SUMMER",
+          "value": 1000,
+          "clue": "An Outward Bound summer course lets teenagers get their kicks rock climbing in these \"High\" California mountains",
+          "answer": "the Sierra Nevadas",
+          "isDailyDouble": false,
+          "orderNumber": 25,
+          "correctContestants": [
+            "Caroline"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Donna",
+              "score": 3400
+            },
+            {
+              "player": "Ryan",
+              "score": 2000
+            },
+            {
+              "player": "Caroline",
+              "score": 3800
+            }
+          ]
+        },
+        {
+          "category": "UNITED KINGDOM ELECTION CONSTITUENCIES",
+          "value": 200,
+          "clue": "Acting brothers Chris & Liam should love this constituency, about midway between Manchester & Kingston upon Hull",
+          "answer": "Hemsworth",
+          "isDailyDouble": false,
+          "orderNumber": 26,
+          "correctContestants": [
+            "Ryan"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Donna",
+              "score": 3400
+            },
+            {
+              "player": "Ryan",
+              "score": 2200
+            },
+            {
+              "player": "Caroline",
+              "score": 3800
+            }
+          ]
+        },
+        {
+          "category": "UNITED KINGDOM ELECTION CONSTITUENCIES",
+          "value": 400,
+          "clue": "You can catch some Grand Slam tennis action as well as election results from this place in the outer boroughs of London",
+          "answer": "Wimbledon",
+          "isDailyDouble": false,
+          "orderNumber": 27,
+          "correctContestants": [
+            "Donna"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Donna",
+              "score": 3800
+            },
+            {
+              "player": "Ryan",
+              "score": 2200
+            },
+            {
+              "player": "Caroline",
+              "score": 3800
+            }
+          ]
+        },
+        {
+          "category": "UNITED KINGDOM ELECTION CONSTITUENCIES",
+          "value": 600,
+          "clue": "Know that Orkney & these islands in the northernmost part of Scotland are a district & we may give you a small pony! (But we won't)",
+          "answer": "Shetland",
+          "isDailyDouble": false,
+          "orderNumber": 28,
+          "correctContestants": [
+            "Ryan"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Donna",
+              "score": 3800
+            },
+            {
+              "player": "Ryan",
+              "score": 2800
+            },
+            {
+              "player": "Caroline",
+              "score": 3800
+            }
+          ]
+        },
+        {
+          "category": "UNITED KINGDOM ELECTION CONSTITUENCIES",
+          "value": 800,
+          "clue": "Covering all its directional bases, this capital of Northern Ireland has constituencies North, South, East & West",
+          "answer": "Belfast",
+          "isDailyDouble": false,
+          "orderNumber": 29,
+          "correctContestants": [
+            "Caroline"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Donna",
+              "score": 3800
+            },
+            {
+              "player": "Ryan",
+              "score": 2800
+            },
+            {
+              "player": "Caroline",
+              "score": 4600
+            }
+          ]
+        },
+        {
+          "category": "UNITED KINGDOM ELECTION CONSTITUENCIES",
+          "value": 1600,
+          "clue": "Bordering Dover & Folkestone & Hythe, this district on England's east coast has a few ancient \"Tales\" to tell",
+          "answer": "Canterbury",
+          "isDailyDouble": true,
+          "orderNumber": 30,
+          "correctContestants": [
+            "Caroline"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Donna",
+              "score": 3800
+            },
+            {
+              "player": "Ryan",
+              "score": 2800
+            },
+            {
+              "player": "Caroline",
+              "score": 6200
+            }
+          ]
+        }
+      ],
+      "firstBreakScores": [
+        {
+          "player": "Donna",
+          "score": 200
+        },
+        {
+          "player": "Ryan",
+          "score": 2200
+        },
+        {
+          "player": "Caroline",
+          "score": 2600
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "Donna",
+          "score": 3800
+        },
+        {
+          "player": "Ryan",
+          "score": 2800
+        },
+        {
+          "player": "Caroline",
+          "score": 6200
+        }
+      ]
+    },
+    "doubleJeopardy": {
+      "categories": [
+        "NAMES OF THE 1990s",
+        "WAR OF THE WORDS",
+        "SCIENTISTS",
+        "CLASSICAL MUSIC",
+        "TV",
+        "CROSSWORD CLUES \"P\""
+      ],
+      "clues": [
+        {
+          "category": "CLASSICAL MUSIC",
+          "value": 2000,
+          "clue": "Tan Dun, an Oscar winner for this 2000 Ang Lee film, recently composed an operatic work called \"Buddha Passion\"",
+          "answer": "Crouching Tiger, Hidden Dragon",
+          "isDailyDouble": true,
+          "orderNumber": 1,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Donna",
+              "score": 3800
+            },
+            {
+              "player": "Ryan",
+              "score": 4800
+            },
+            {
+              "player": "Caroline",
+              "score": 6200
+            }
+          ]
+        },
+        {
+          "category": "CLASSICAL MUSIC",
+          "value": 1600,
+          "clue": "Modern composer David Philip Hefti's \"Fünf Concertini\" honors this Italian known for creating about 500 concertos",
+          "answer": "Vivaldi",
+          "isDailyDouble": false,
+          "orderNumber": 2,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Donna",
+              "score": 3800
+            },
+            {
+              "player": "Ryan",
+              "score": 6400
+            },
+            {
+              "player": "Caroline",
+              "score": 6200
+            }
+          ]
+        },
+        {
+          "category": "CLASSICAL MUSIC",
+          "value": 2000,
+          "clue": "This composer created \"A Musical Portrait of Chuck Close\"; Chuck painted a portrait of him titled \"Phil\"",
+          "answer": "Philip Glass",
+          "isDailyDouble": false,
+          "orderNumber": 3,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Donna",
+              "score": 3800
+            },
+            {
+              "player": "Ryan",
+              "score": 8400
+            },
+            {
+              "player": "Caroline",
+              "score": 6200
+            }
+          ]
+        },
+        {
+          "category": "WAR OF THE WORDS",
+          "value": 1200,
+          "clue": "Years before \"À la Recherche du Temps Perdu\", he fought a duel with a critic who had angered him; both shots missed",
+          "answer": "Proust",
+          "isDailyDouble": false,
+          "orderNumber": 4,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Donna",
+              "score": 5000
+            },
+            {
+              "player": "Ryan",
+              "score": 8400
+            },
+            {
+              "player": "Caroline",
+              "score": 6200
+            }
+          ]
+        },
+        {
+          "category": "WAR OF THE WORDS",
+          "value": 1600,
+          "clue": "Poet Wallace Stevens' feud with this novelist erupted into punches in a Key West street",
+          "answer": "Hemingway",
+          "isDailyDouble": false,
+          "orderNumber": 5,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Donna",
+              "score": 6600
+            },
+            {
+              "player": "Ryan",
+              "score": 8400
+            },
+            {
+              "player": "Caroline",
+              "score": 6200
+            }
+          ]
+        },
+        {
+          "category": "WAR OF THE WORDS",
+          "value": 2000,
+          "clue": "In 1976, Mario Vargas Llosa gave this other 3-named South American Nobelist a literal black eye",
+          "answer": "Gabriel García Márquez",
+          "isDailyDouble": false,
+          "orderNumber": 6,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Donna",
+              "score": 8600
+            },
+            {
+              "player": "Ryan",
+              "score": 8400
+            },
+            {
+              "player": "Caroline",
+              "score": 6200
+            }
+          ]
+        },
+        {
+          "category": "WAR OF THE WORDS",
+          "value": 800,
+          "clue": "Not the Pickwick but the Garrick Club was the site of conversations that caused a falling out between Thackeray & this author",
+          "answer": "Dickens",
+          "isDailyDouble": false,
+          "orderNumber": 7,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Donna",
+              "score": 8600
+            },
+            {
+              "player": "Ryan",
+              "score": 9200
+            },
+            {
+              "player": "Caroline",
+              "score": 6200
+            }
+          ]
+        },
+        {
+          "category": "NAMES OF THE 1990s",
+          "value": 1200,
+          "clue": "He won a 3-way race for party leadership & became prime minister of Great Britain in 1990",
+          "answer": "John Major",
+          "isDailyDouble": false,
+          "orderNumber": 8,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Donna",
+              "score": 8600
+            },
+            {
+              "player": "Ryan",
+              "score": 9200
+            },
+            {
+              "player": "Caroline",
+              "score": 6200
+            }
+          ]
+        },
+        {
+          "category": "NAMES OF THE 1990s",
+          "value": 1600,
+          "clue": "In August 1990, with this small country under invasion, its emir Sheikh Jaber fled to Saudi Arabia",
+          "answer": "Kuwait",
+          "isDailyDouble": false,
+          "orderNumber": 9,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Donna",
+              "score": 10200
+            },
+            {
+              "player": "Ryan",
+              "score": 9200
+            },
+            {
+              "player": "Caroline",
+              "score": 6200
+            }
+          ]
+        },
+        {
+          "category": "WAR OF THE WORDS",
+          "value": 400,
+          "clue": "Gore Vidal said he loathed this \"In Cold Blood\" writer \"the way you might loathe... a filthy animal\"",
+          "answer": "Capote",
+          "isDailyDouble": false,
+          "orderNumber": 10,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Donna",
+              "score": 10200
+            },
+            {
+              "player": "Ryan",
+              "score": 9200
+            },
+            {
+              "player": "Caroline",
+              "score": 6600
+            }
+          ]
+        },
+        {
+          "category": "TV",
+          "value": 800,
+          "clue": "Julia Garner's Ruth Langmore did not survive the finale of this crime series",
+          "answer": "Ozark",
+          "isDailyDouble": false,
+          "orderNumber": 11,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Donna",
+              "score": 11000
+            },
+            {
+              "player": "Ryan",
+              "score": 9200
+            },
+            {
+              "player": "Caroline",
+              "score": 6600
+            }
+          ]
+        },
+        {
+          "category": "TV",
+          "value": 1200,
+          "clue": "This Oscar winner came to TV in 2023 as \"The Consultant\" Regus Patoff",
+          "answer": "Christoph Waltz",
+          "isDailyDouble": false,
+          "orderNumber": 12,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Donna",
+              "score": 12200
+            },
+            {
+              "player": "Ryan",
+              "score": 9200
+            },
+            {
+              "player": "Caroline",
+              "score": 6600
+            }
+          ]
+        },
+        {
+          "category": "TV",
+          "value": 1600,
+          "clue": "She played double agent Sydney Bristow on \"Alias\"",
+          "answer": "Jennifer Garner",
+          "isDailyDouble": false,
+          "orderNumber": 13,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Donna",
+              "score": 12200
+            },
+            {
+              "player": "Ryan",
+              "score": 9200
+            },
+            {
+              "player": "Caroline",
+              "score": 8200
+            }
+          ]
+        },
+        {
+          "category": "TV",
+          "value": 2000,
+          "clue": "This Starz prequel TV show depicts the younger Marquise de Merteuil & Vicomte de Valmont from a novel of romantic intrigue",
+          "answer": "Dangerous Liaisons",
+          "isDailyDouble": false,
+          "orderNumber": 14,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Donna",
+              "score": 14200
+            },
+            {
+              "player": "Ryan",
+              "score": 9200
+            },
+            {
+              "player": "Caroline",
+              "score": 8200
+            }
+          ]
+        },
+        {
+          "category": "TV",
+          "value": 400,
+          "clue": "Mel Brooks' 1981 film was really \"Part I\" after all; a 2023 Hulu series is called this: \"Part II\"",
+          "answer": "History of the World",
+          "isDailyDouble": false,
+          "orderNumber": 15,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Donna",
+              "score": 14200
+            },
+            {
+              "player": "Ryan",
+              "score": 9600
+            },
+            {
+              "player": "Caroline",
+              "score": 8200
+            }
+          ]
+        },
+        {
+          "category": "CROSSWORD CLUES \"P\"",
+          "value": 1200,
+          "clue": "A commoner in ancient Rome (8 letters)",
+          "answer": "a plebeian",
+          "isDailyDouble": false,
+          "orderNumber": 16,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Donna",
+              "score": 14200
+            },
+            {
+              "player": "Ryan",
+              "score": 10800
+            },
+            {
+              "player": "Caroline",
+              "score": 8200
+            }
+          ]
+        },
+        {
+          "category": "CROSSWORD CLUES \"P\"",
+          "value": 1600,
+          "clue": "Stocks' punishment partner (7 letters)",
+          "answer": "pillory",
+          "isDailyDouble": false,
+          "orderNumber": 17,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Donna",
+              "score": 15800
+            },
+            {
+              "player": "Ryan",
+              "score": 10800
+            },
+            {
+              "player": "Caroline",
+              "score": 8200
+            }
+          ]
+        },
+        {
+          "category": "CROSSWORD CLUES \"P\"",
+          "value": 800,
+          "clue": "To filch (6 letters)",
+          "answer": "pilfer",
+          "isDailyDouble": false,
+          "orderNumber": 18,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Donna",
+              "score": 15800
+            },
+            {
+              "player": "Ryan",
+              "score": 10800
+            },
+            {
+              "player": "Caroline",
+              "score": 9000
+            }
+          ]
+        },
+        {
+          "category": "NAMES OF THE 1990s",
+          "value": 2000,
+          "clue": "Bill Romanowski went from the 49ers to the Eagles & Broncos; this Ill. politician went from power in the U.S. House to prison",
+          "answer": "Dan Rostenkowski",
+          "isDailyDouble": false,
+          "orderNumber": 19,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Donna",
+              "score": 15800
+            },
+            {
+              "player": "Ryan",
+              "score": 10800
+            },
+            {
+              "player": "Caroline",
+              "score": 7000
+            }
+          ]
+        },
+        {
+          "category": "CROSSWORD CLUES \"P\"",
+          "value": 2000,
+          "clue": "A speaker of many languages(8 letters)",
+          "answer": "a polyglot",
+          "isDailyDouble": false,
+          "orderNumber": 20,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Donna",
+              "score": 17800
+            },
+            {
+              "player": "Ryan",
+              "score": 10800
+            },
+            {
+              "player": "Caroline",
+              "score": 7000
+            }
+          ]
+        },
+        {
+          "category": "CROSSWORD CLUES \"P\"",
+          "value": 400,
+          "clue": "Administrative area for a police department(8 letters)",
+          "answer": "precinct",
+          "isDailyDouble": false,
+          "orderNumber": 21,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Donna",
+              "score": 17800
+            },
+            {
+              "player": "Ryan",
+              "score": 10800
+            },
+            {
+              "player": "Caroline",
+              "score": 7400
+            }
+          ]
+        },
+        {
+          "category": "NAMES OF THE 1990s",
+          "value": 800,
+          "clue": "Founder Steve Case was the tech tycoon of the moment when this Internet service provider went public in 1992",
+          "answer": "AOL",
+          "isDailyDouble": false,
+          "orderNumber": 22,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Donna",
+              "score": 18600
+            },
+            {
+              "player": "Ryan",
+              "score": 10800
+            },
+            {
+              "player": "Caroline",
+              "score": 7400
+            }
+          ]
+        },
+        {
+          "category": "NAMES OF THE 1990s",
+          "value": 400,
+          "clue": "Tracey Emin caused a stir with a 1998 artwork consisting of this piece of furniture of hers, unmade, with empty vodka bottles",
+          "answer": "her bed",
+          "isDailyDouble": false,
+          "orderNumber": 23,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Donna",
+              "score": 19000
+            },
+            {
+              "player": "Ryan",
+              "score": 10800
+            },
+            {
+              "player": "Caroline",
+              "score": 7400
+            }
+          ]
+        },
+        {
+          "category": "CLASSICAL MUSIC",
+          "value": 400,
+          "clue": "In 1976 Sarah Caldwell became the first woman at the Met with this job, helping Beverly Sills soar",
+          "answer": "conductor",
+          "isDailyDouble": false,
+          "orderNumber": 24,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Donna",
+              "score": 19400
+            },
+            {
+              "player": "Ryan",
+              "score": 10800
+            },
+            {
+              "player": "Caroline",
+              "score": 7400
+            }
+          ]
+        },
+        {
+          "category": "CLASSICAL MUSIC",
+          "value": 800,
+          "clue": "Canadian Glenn Gould is known primarily for his unique stylings on this instrument",
+          "answer": "the piano",
+          "isDailyDouble": false,
+          "orderNumber": 25,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Donna",
+              "score": 19400
+            },
+            {
+              "player": "Ryan",
+              "score": 11600
+            },
+            {
+              "player": "Caroline",
+              "score": 7400
+            }
+          ]
+        },
+        {
+          "category": "SCIENTISTS",
+          "value": 1200,
+          "clue": "Mais oui & merci, this man seen here sheepishly came up with an anthrax vaccine in 1881",
+          "answer": "Pasteur",
+          "isDailyDouble": false,
+          "orderNumber": 26,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Donna",
+              "score": 19400
+            },
+            {
+              "player": "Ryan",
+              "score": 11600
+            },
+            {
+              "player": "Caroline",
+              "score": 7400
+            }
+          ]
+        },
+        {
+          "category": "SCIENTISTS",
+          "value": 800,
+          "clue": "In 1847, Maria Mitchell, America's first professional female astronomer, discovered one of these, officially known as C/1847 T1",
+          "answer": "a comet",
+          "isDailyDouble": false,
+          "orderNumber": 27,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Donna",
+              "score": 20200
+            },
+            {
+              "player": "Ryan",
+              "score": 11600
+            },
+            {
+              "player": "Caroline",
+              "score": 7400
+            }
+          ]
+        },
+        {
+          "category": "SCIENTISTS",
+          "value": 400,
+          "clue": "In the home seen here, now a museum in Gloucestershire, Edward Jenner came up with a vaccine for this disease",
+          "answer": "smallpox",
+          "isDailyDouble": false,
+          "orderNumber": 28,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Donna",
+              "score": 19800
+            },
+            {
+              "player": "Ryan",
+              "score": 11600
+            },
+            {
+              "player": "Caroline",
+              "score": 7400
+            }
+          ]
+        },
+        {
+          "category": "SCIENTISTS",
+          "value": 1600,
+          "clue": "In 2023 Bob Metcalfe won the Turing Award for inventing this computer networking technology in the 1970s",
+          "answer": "the ethernet",
+          "isDailyDouble": false,
+          "orderNumber": 29,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Donna",
+              "score": 19800
+            },
+            {
+              "player": "Ryan",
+              "score": 11600
+            },
+            {
+              "player": "Caroline",
+              "score": 7400
+            }
+          ]
+        },
+        {
+          "category": "SCIENTISTS",
+          "value": 1000,
+          "clue": "When Tycho Brahe died in 1601, his protégé, this astronomer, succeeded him as \"imperial mathematician\"",
+          "answer": "Johannes Kepler",
+          "isDailyDouble": true,
+          "orderNumber": 30,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Donna",
+              "score": 18800
+            },
+            {
+              "player": "Ryan",
+              "score": 11600
+            },
+            {
+              "player": "Caroline",
+              "score": 7400
+            }
+          ]
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "Donna",
+          "score": 18800
+        },
+        {
+          "player": "Ryan",
+          "score": 11600
+        },
+        {
+          "player": "Caroline",
+          "score": 7400
+        }
+      ]
+    },
+    "finalJeopardy": {
+      "category": "20th CENTURY EVENTS",
+      "clue": "It was immediately reported, \"The flames are still leaping maybe 30, 40 feet from the ground the entire 811 feet length of\" this",
+      "answer": "the Hindenburg",
+      "responses": [
+        {
+          "contestant": "Caroline",
+          "response": "What is?",
+          "isCorrect": false,
+          "isIncorrect": true,
+          "value": 7400,
+          "finalScore": 0
+        },
+        {
+          "contestant": "Ryan",
+          "response": "What is the Hindenburg?",
+          "isCorrect": true,
+          "isIncorrect": false,
+          "value": 10222,
+          "finalScore": 21822
+        },
+        {
+          "contestant": "Donna",
+          "response": "What is the Hindenburg disaster?",
+          "isCorrect": true,
+          "isIncorrect": false,
+          "value": 4000,
+          "finalScore": 22800
+        }
+      ]
+    }
+  },
+  "finalScores": [
+    {
+      "player": "Donna",
+      "score": "$22,800"
+    },
+    {
+      "player": "Ryan",
+      "score": "$21,822"
+    },
+    {
+      "player": "Caroline",
+      "score": "$0"
+    }
+  ],
+  "coryatScores": [
+    {
+      "player": "Donna",
+      "score": 19800
+    },
+    {
+      "player": "Ryan",
+      "score": 10800
+    },
+    {
+      "player": "Caroline",
+      "score": 6800
+    }
+  ]
+}

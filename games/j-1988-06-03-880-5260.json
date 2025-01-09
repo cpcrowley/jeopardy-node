@@ -1,0 +1,1703 @@
+{
+  "gameId": 5260,
+  "showNumber": "880",
+  "title": "Show #880 - Friday, June 3, 1988",
+  "date": "1988-06-03",
+  "comments": "Michael Rankins game 1.",
+  "contestants": [
+    "Jack",
+    "Michael",
+    "Tom"
+  ],
+  "rounds": {
+    "jeopardy": {
+      "categories": [
+        "1958",
+        "BIOLOGY",
+        "STARTS WITH \"R\"",
+        "FOOTBALL",
+        "PIES",
+        "SHANGHAI MOVIES"
+      ],
+      "clues": [
+        {
+          "category": "SHANGHAI MOVIES",
+          "value": 100,
+          "clue": "Roland Winters played this detective in \"The Shanghai Chest\" ; Sidney Toler in \"The Shanghai Cobra\"",
+          "answer": "Charlie Chan",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [
+            "Michael"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jack",
+              "score": 0
+            },
+            {
+              "player": "Michael",
+              "score": 100
+            },
+            {
+              "player": "Tom",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "FOOTBALL",
+          "value": 100,
+          "clue": "Working as a mail clerk to attend Notre Dame, this legend later coached football there",
+          "answer": "Knute Rockne",
+          "isDailyDouble": false,
+          "orderNumber": 2,
+          "correctContestants": [
+            "Tom"
+          ],
+          "incorrectContestants": [
+            "Michael"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jack",
+              "score": 0
+            },
+            {
+              "player": "Michael",
+              "score": 0
+            },
+            {
+              "player": "Tom",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "category": "BIOLOGY",
+          "value": 100,
+          "clue": "It's generally the last vestige of the tadpole stage that a frog loses",
+          "answer": "tail",
+          "isDailyDouble": false,
+          "orderNumber": 3,
+          "correctContestants": [
+            "Jack"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jack",
+              "score": 100
+            },
+            {
+              "player": "Michael",
+              "score": 0
+            },
+            {
+              "player": "Tom",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "category": "SHANGHAI MOVIES",
+          "value": 200,
+          "clue": "In \"Footlight Parade\", this dancer, Mrs. Al Jolson, used a Chinese accent to play Shanghai Lil",
+          "answer": "Ruby Keeler",
+          "isDailyDouble": false,
+          "orderNumber": 4,
+          "correctContestants": [
+            "Jack"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jack",
+              "score": 300
+            },
+            {
+              "player": "Michael",
+              "score": 0
+            },
+            {
+              "player": "Tom",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "category": "SHANGHAI MOVIES",
+          "value": 300,
+          "clue": "1987 Steven Spielberg epic that opens in Shanghai on the eve of World War II",
+          "answer": "Empire of the Sun",
+          "isDailyDouble": false,
+          "orderNumber": 5,
+          "correctContestants": [
+            "Michael"
+          ],
+          "incorrectContestants": [
+            "Tom"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jack",
+              "score": 300
+            },
+            {
+              "player": "Michael",
+              "score": 300
+            },
+            {
+              "player": "Tom",
+              "score": -200
+            }
+          ]
+        },
+        {
+          "category": "FOOTBALL",
+          "value": 200,
+          "clue": "Color of the penalty marker, or \"flag\", used by pro referees",
+          "answer": "yellow",
+          "isDailyDouble": false,
+          "orderNumber": 6,
+          "correctContestants": [
+            "Michael"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jack",
+              "score": 300
+            },
+            {
+              "player": "Michael",
+              "score": 500
+            },
+            {
+              "player": "Tom",
+              "score": -200
+            }
+          ]
+        },
+        {
+          "category": "FOOTBALL",
+          "value": 300,
+          "clue": "On the line, it's the position to either side of the center",
+          "answer": "guard",
+          "isDailyDouble": false,
+          "orderNumber": 7,
+          "correctContestants": [
+            "Tom"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jack",
+              "score": 300
+            },
+            {
+              "player": "Michael",
+              "score": 500
+            },
+            {
+              "player": "Tom",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "category": "BIOLOGY",
+          "value": 200,
+          "clue": "Fleischmann's says one ounce of this carbon dioxide-making substance contains about 280 billion cells",
+          "answer": "yeast",
+          "isDailyDouble": false,
+          "orderNumber": 8,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Jack",
+              "score": 300
+            },
+            {
+              "player": "Michael",
+              "score": 500
+            },
+            {
+              "player": "Tom",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "category": "BIOLOGY",
+          "value": 300,
+          "clue": "Most animals other than birds or mammals are poikilothermic, commonly referred to as this",
+          "answer": "cold-blooded",
+          "isDailyDouble": false,
+          "orderNumber": 9,
+          "correctContestants": [
+            "Jack"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jack",
+              "score": 600
+            },
+            {
+              "player": "Michael",
+              "score": 500
+            },
+            {
+              "player": "Tom",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "category": "SHANGHAI MOVIES",
+          "value": 400,
+          "clue": "After dumping Loretta Young in \"Shanghai\", he waylaid Hedy Lamarr in the casbah in \"Algiers\"",
+          "answer": "Charles Boyer",
+          "isDailyDouble": false,
+          "orderNumber": 10,
+          "correctContestants": [
+            "Jack"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jack",
+              "score": 1000
+            },
+            {
+              "player": "Michael",
+              "score": 500
+            },
+            {
+              "player": "Tom",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "category": "SHANGHAI MOVIES",
+          "value": 500,
+          "clue": "This 1948 Orson Welles film features a shattering climax in a hall of mirrors",
+          "answer": "The Lady from Shanghai",
+          "isDailyDouble": false,
+          "orderNumber": 11,
+          "correctContestants": [
+            "Jack"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jack",
+              "score": 1500
+            },
+            {
+              "player": "Michael",
+              "score": 500
+            },
+            {
+              "player": "Tom",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "category": "STARTS WITH \"R\"",
+          "value": 100,
+          "clue": "It's a past tense of rend, or what you pay your landlord",
+          "answer": "rent",
+          "isDailyDouble": false,
+          "orderNumber": 12,
+          "correctContestants": [
+            "Jack"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jack",
+              "score": 1600
+            },
+            {
+              "player": "Michael",
+              "score": 500
+            },
+            {
+              "player": "Tom",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "category": "STARTS WITH \"R\"",
+          "value": 200,
+          "clue": "To remember, or to vote a politician out of office before the end of his term",
+          "answer": "recall",
+          "isDailyDouble": false,
+          "orderNumber": 13,
+          "correctContestants": [
+            "Jack"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jack",
+              "score": 1800
+            },
+            {
+              "player": "Michael",
+              "score": 500
+            },
+            {
+              "player": "Tom",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "category": "STARTS WITH \"R\"",
+          "value": 800,
+          "clue": "Pronounced one way, it means to turn down, pronounced the other way, it means trash",
+          "answer": "refuse",
+          "isDailyDouble": true,
+          "orderNumber": 14,
+          "correctContestants": [
+            "Jack"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jack",
+              "score": 2600
+            },
+            {
+              "player": "Michael",
+              "score": 500
+            },
+            {
+              "player": "Tom",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "category": "STARTS WITH \"R\"",
+          "value": 400,
+          "clue": "The part of the U.S. Capitol directly under the dome",
+          "answer": "rotunda",
+          "isDailyDouble": false,
+          "orderNumber": 15,
+          "correctContestants": [
+            "Michael"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jack",
+              "score": 2600
+            },
+            {
+              "player": "Michael",
+              "score": 900
+            },
+            {
+              "player": "Tom",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "category": "STARTS WITH \"R\"",
+          "value": 500,
+          "clue": "The name of this plant with an edible root is from the Swedish for \"baggy root\"",
+          "answer": "rutabaga",
+          "isDailyDouble": false,
+          "orderNumber": 16,
+          "correctContestants": [
+            "Michael"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jack",
+              "score": 2600
+            },
+            {
+              "player": "Michael",
+              "score": 1400
+            },
+            {
+              "player": "Tom",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "category": "PIES",
+          "value": 100,
+          "clue": "Though a pie is served from its baking dish, this tiny cousin is removed from its dish",
+          "answer": "tart",
+          "isDailyDouble": false,
+          "orderNumber": 17,
+          "correctContestants": [
+            "Tom"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jack",
+              "score": 2600
+            },
+            {
+              "player": "Michael",
+              "score": 1400
+            },
+            {
+              "player": "Tom",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "BIOLOGY",
+          "value": 400,
+          "clue": "As the middle Paleozoic era is called the age of fishes, the Mesozoic era is known as this",
+          "answer": "age of reptiles",
+          "isDailyDouble": false,
+          "orderNumber": 18,
+          "correctContestants": [
+            "Tom"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jack",
+              "score": 2600
+            },
+            {
+              "player": "Michael",
+              "score": 1400
+            },
+            {
+              "player": "Tom",
+              "score": 600
+            }
+          ]
+        },
+        {
+          "category": "BIOLOGY",
+          "value": 500,
+          "clue": "Term for the transference of microspores of seed plants from anther to stigma",
+          "answer": "pollination",
+          "isDailyDouble": false,
+          "orderNumber": 19,
+          "correctContestants": [
+            "Tom"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jack",
+              "score": 2600
+            },
+            {
+              "player": "Michael",
+              "score": 1400
+            },
+            {
+              "player": "Tom",
+              "score": 1100
+            }
+          ]
+        },
+        {
+          "category": "PIES",
+          "value": 200,
+          "clue": "Shepherd's pie is actually an entree originally made with this meat",
+          "answer": "lamb",
+          "isDailyDouble": false,
+          "orderNumber": 20,
+          "correctContestants": [
+            "Michael"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jack",
+              "score": 2600
+            },
+            {
+              "player": "Michael",
+              "score": 1600
+            },
+            {
+              "player": "Tom",
+              "score": 1100
+            }
+          ]
+        },
+        {
+          "category": "PIES",
+          "value": 300,
+          "clue": "If you want your pie crust to be flaky, choose this ingredient carefully",
+          "answer": "shortening",
+          "isDailyDouble": false,
+          "orderNumber": 21,
+          "correctContestants": [
+            "Tom"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jack",
+              "score": 2600
+            },
+            {
+              "player": "Michael",
+              "score": 1600
+            },
+            {
+              "player": "Tom",
+              "score": 1400
+            }
+          ]
+        },
+        {
+          "category": "PIES",
+          "value": 400,
+          "clue": "This type of pie, like chocolate, can simply be pudding in a pie shell",
+          "answer": "custard (cream pie)",
+          "isDailyDouble": false,
+          "orderNumber": 22,
+          "correctContestants": [
+            "Michael"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jack",
+              "score": 2600
+            },
+            {
+              "player": "Michael",
+              "score": 2000
+            },
+            {
+              "player": "Tom",
+              "score": 1400
+            }
+          ]
+        },
+        {
+          "category": "FOOTBALL",
+          "value": 400,
+          "clue": "Term used when a player loses possession of the football other than by passing or kicking it",
+          "answer": "fumble",
+          "isDailyDouble": false,
+          "orderNumber": 23,
+          "correctContestants": [
+            "Tom"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jack",
+              "score": 2600
+            },
+            {
+              "player": "Michael",
+              "score": 2000
+            },
+            {
+              "player": "Tom",
+              "score": 1800
+            }
+          ]
+        },
+        {
+          "category": "FOOTBALL",
+          "value": 500,
+          "clue": "At 65, he was fired as Ohio State's football coach after hitting an opposing player",
+          "answer": "Woody Hayes",
+          "isDailyDouble": false,
+          "orderNumber": 24,
+          "correctContestants": [
+            "Tom"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jack",
+              "score": 2600
+            },
+            {
+              "player": "Michael",
+              "score": 2000
+            },
+            {
+              "player": "Tom",
+              "score": 2300
+            }
+          ]
+        },
+        {
+          "category": "PIES",
+          "value": 500,
+          "clue": "The earliest recipe for this pie filling of finely chopped apples, spices & suet dates from 1486",
+          "answer": "mincemeat",
+          "isDailyDouble": false,
+          "orderNumber": 25,
+          "correctContestants": [
+            "Michael"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jack",
+              "score": 2600
+            },
+            {
+              "player": "Michael",
+              "score": 2500
+            },
+            {
+              "player": "Tom",
+              "score": 2300
+            }
+          ]
+        },
+        {
+          "category": "1958",
+          "value": 300,
+          "clue": "Just the facts ma'am: he married Jackie Loughery on June 24",
+          "answer": "Jack Webb",
+          "isDailyDouble": false,
+          "orderNumber": 26,
+          "correctContestants": [
+            "Tom"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jack",
+              "score": 2600
+            },
+            {
+              "player": "Michael",
+              "score": 2500
+            },
+            {
+              "player": "Tom",
+              "score": 2600
+            }
+          ]
+        },
+        {
+          "category": "1958",
+          "value": 100,
+          "clue": "He succeeded Bulganin as premier of the USSR on March 27",
+          "answer": "Nikita Khrushchev",
+          "isDailyDouble": false,
+          "orderNumber": 27,
+          "correctContestants": [
+            "Michael"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jack",
+              "score": 2600
+            },
+            {
+              "player": "Michael",
+              "score": 2600
+            },
+            {
+              "player": "Tom",
+              "score": 2600
+            }
+          ]
+        },
+        {
+          "category": "1958",
+          "value": 400,
+          "clue": "On December 31, he was still the leader of Cuba -- the next day he resigned & fled",
+          "answer": "Fulgencio Batista",
+          "isDailyDouble": false,
+          "orderNumber": 28,
+          "correctContestants": [
+            "Michael"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jack",
+              "score": 2600
+            },
+            {
+              "player": "Michael",
+              "score": 3000
+            },
+            {
+              "player": "Tom",
+              "score": 2600
+            }
+          ]
+        },
+        {
+          "category": "1958",
+          "value": 500,
+          "clue": "First published in Italian, this Russian novel came out in English & helped win its author a Nobel Prize",
+          "answer": "Doctor Zhivago",
+          "isDailyDouble": false,
+          "orderNumber": 29,
+          "correctContestants": [
+            "Michael"
+          ],
+          "incorrectContestants": [
+            "Tom"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jack",
+              "score": 2600
+            },
+            {
+              "player": "Michael",
+              "score": 3500
+            },
+            {
+              "player": "Tom",
+              "score": 2100
+            }
+          ]
+        },
+        {
+          "category": "1958",
+          "value": 200,
+          "clue": "Of the people who joined the U.S. Army, March 24, 1958, the one we've all heard of",
+          "answer": "Elvis Presley",
+          "isDailyDouble": false,
+          "orderNumber": 30,
+          "correctContestants": [
+            "Michael"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jack",
+              "score": 2600
+            },
+            {
+              "player": "Michael",
+              "score": 3700
+            },
+            {
+              "player": "Tom",
+              "score": 2100
+            }
+          ]
+        }
+      ],
+      "firstBreakScores": [
+        {
+          "player": "Jack",
+          "score": 2600
+        },
+        {
+          "player": "Michael",
+          "score": 500
+        },
+        {
+          "player": "Tom",
+          "score": 100
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "Jack",
+          "score": 2600
+        },
+        {
+          "player": "Michael",
+          "score": 3700
+        },
+        {
+          "player": "Tom",
+          "score": 2100
+        }
+      ]
+    },
+    "doubleJeopardy": {
+      "categories": [
+        "U.S. CITIES",
+        "THE TONY AWARDS",
+        "WORD ORIGINS",
+        "STEPHEN FOSTER",
+        "NAME THE NOVEL",
+        "PASHAS"
+      ],
+      "clues": [
+        {
+          "category": "NAME THE NOVEL",
+          "value": 200,
+          "clue": "Mowgli, \"the Frog\", is raised by mother wolf",
+          "answer": "The Jungle Book",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jack",
+              "score": 2600
+            },
+            {
+              "player": "Michael",
+              "score": 3900
+            },
+            {
+              "player": "Tom",
+              "score": 2100
+            }
+          ]
+        },
+        {
+          "category": "NAME THE NOVEL",
+          "value": 400,
+          "clue": "Sam Spade stalks Miles' murderer",
+          "answer": "The Maltese Falcon",
+          "isDailyDouble": false,
+          "orderNumber": 2,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jack",
+              "score": 2600
+            },
+            {
+              "player": "Michael",
+              "score": 3900
+            },
+            {
+              "player": "Tom",
+              "score": 2500
+            }
+          ]
+        },
+        {
+          "category": "NAME THE NOVEL",
+          "value": 600,
+          "clue": "Ma & Pa Joad go west",
+          "answer": "The Grapes of Wrath",
+          "isDailyDouble": false,
+          "orderNumber": 3,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jack",
+              "score": 2600
+            },
+            {
+              "player": "Michael",
+              "score": 3900
+            },
+            {
+              "player": "Tom",
+              "score": 3100
+            }
+          ]
+        },
+        {
+          "category": "NAME THE NOVEL",
+          "value": 800,
+          "clue": "Griffin becomes an unseen guest at the Coach & Horses Inn",
+          "answer": "The Invisible Man",
+          "isDailyDouble": false,
+          "orderNumber": 4,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Jack",
+              "score": 2600
+            },
+            {
+              "player": "Michael",
+              "score": 3900
+            },
+            {
+              "player": "Tom",
+              "score": 3100
+            }
+          ]
+        },
+        {
+          "category": "NAME THE NOVEL",
+          "value": 1000,
+          "clue": "A governess fights the possession of young Miles & Flora by the spirits of Quint & Miss Jessel",
+          "answer": "Turn of the Screw",
+          "isDailyDouble": false,
+          "orderNumber": 5,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jack",
+              "score": 3600
+            },
+            {
+              "player": "Michael",
+              "score": 3900
+            },
+            {
+              "player": "Tom",
+              "score": 3100
+            }
+          ]
+        },
+        {
+          "category": "THE TONY AWARDS",
+          "value": 200,
+          "clue": "Oddly, his Tony for \"The King & I\" was for Best Supporting Actor in a Musical",
+          "answer": "Yul Brynner",
+          "isDailyDouble": false,
+          "orderNumber": 6,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jack",
+              "score": 3800
+            },
+            {
+              "player": "Michael",
+              "score": 3900
+            },
+            {
+              "player": "Tom",
+              "score": 3100
+            }
+          ]
+        },
+        {
+          "category": "THE TONY AWARDS",
+          "value": 400,
+          "clue": "The 1st Arthur Miller drama to be voted \"Best Play\" in 1949",
+          "answer": "Death of a Salesman",
+          "isDailyDouble": false,
+          "orderNumber": 7,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jack",
+              "score": 3800
+            },
+            {
+              "player": "Michael",
+              "score": 3900
+            },
+            {
+              "player": "Tom",
+              "score": 3500
+            }
+          ]
+        },
+        {
+          "category": "STEPHEN FOSTER",
+          "value": 200,
+          "clue": "It was published under the title \"Susanna, Don't You Cry\"",
+          "answer": "\"Oh! Susanna\"",
+          "isDailyDouble": false,
+          "orderNumber": 8,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jack",
+              "score": 3800
+            },
+            {
+              "player": "Michael",
+              "score": 4100
+            },
+            {
+              "player": "Tom",
+              "score": 3500
+            }
+          ]
+        },
+        {
+          "category": "STEPHEN FOSTER",
+          "value": 400,
+          "clue": "Foster became a derelict & died in extreme poverty in this city's Bellevue Hospital when he was only 37",
+          "answer": "New York City",
+          "isDailyDouble": false,
+          "orderNumber": 9,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jack",
+              "score": 3800
+            },
+            {
+              "player": "Michael",
+              "score": 4500
+            },
+            {
+              "player": "Tom",
+              "score": 3500
+            }
+          ]
+        },
+        {
+          "category": "STEPHEN FOSTER",
+          "value": 600,
+          "clue": "He reportedly wrote this song while visiting a cousin's house in Bardstown, Kentucky",
+          "answer": "\"My Old Kentucky Home\"",
+          "isDailyDouble": false,
+          "orderNumber": 10,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jack",
+              "score": 4400
+            },
+            {
+              "player": "Michael",
+              "score": 4500
+            },
+            {
+              "player": "Tom",
+              "score": 3500
+            }
+          ]
+        },
+        {
+          "category": "THE TONY AWARDS",
+          "value": 600,
+          "clue": "Surprisingly, only 1 of his plays, \"The Rose Tattoo\", won the \"Best Play\" award",
+          "answer": "Tennessee Williams",
+          "isDailyDouble": false,
+          "orderNumber": 11,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jack",
+              "score": 4400
+            },
+            {
+              "player": "Michael",
+              "score": 5100
+            },
+            {
+              "player": "Tom",
+              "score": 3500
+            }
+          ]
+        },
+        {
+          "category": "THE TONY AWARDS",
+          "value": 600,
+          "clue": "The \"Best Musical\" of 1973, it was set in turn-of-the-century Sweden & featured the following:",
+          "answer": "A Little Night Music",
+          "isDailyDouble": true,
+          "orderNumber": 12,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jack",
+              "score": 4400
+            },
+            {
+              "player": "Michael",
+              "score": 4500
+            },
+            {
+              "player": "Tom",
+              "score": 3500
+            }
+          ]
+        },
+        {
+          "category": "U.S. CITIES",
+          "value": 600,
+          "clue": "It's the name of the 3rd largest city in both Missouri & Massachusetts & the 4th largest in Illinois",
+          "answer": "Springfield",
+          "isDailyDouble": false,
+          "orderNumber": 13,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jack",
+              "score": 4400
+            },
+            {
+              "player": "Michael",
+              "score": 4500
+            },
+            {
+              "player": "Tom",
+              "score": 4100
+            }
+          ]
+        },
+        {
+          "category": "WORD ORIGINS",
+          "value": 600,
+          "clue": "Name of this structure is an 18th C. joke word combining the Latin ending meaning \"I shall\" with \"gaze\"",
+          "answer": "gazebo",
+          "isDailyDouble": false,
+          "orderNumber": 14,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jack",
+              "score": 5000
+            },
+            {
+              "player": "Michael",
+              "score": 4500
+            },
+            {
+              "player": "Tom",
+              "score": 4100
+            }
+          ]
+        },
+        {
+          "category": "WORD ORIGINS",
+          "value": 200,
+          "clue": "Game whose name may be derived from the nickname of a 19th century gambler, \"Johnny Crapaud\"",
+          "answer": "craps",
+          "isDailyDouble": false,
+          "orderNumber": 15,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jack",
+              "score": 5000
+            },
+            {
+              "player": "Michael",
+              "score": 4500
+            },
+            {
+              "player": "Tom",
+              "score": 4300
+            }
+          ]
+        },
+        {
+          "category": "WORD ORIGINS",
+          "value": 800,
+          "clue": "This word for clergyman means \"servant\" since he's considered the servant of his congregation",
+          "answer": "minister",
+          "isDailyDouble": false,
+          "orderNumber": 16,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jack",
+              "score": 5000
+            },
+            {
+              "player": "Michael",
+              "score": 5300
+            },
+            {
+              "player": "Tom",
+              "score": 4300
+            }
+          ]
+        },
+        {
+          "category": "WORD ORIGINS",
+          "value": 1000,
+          "clue": "From Old Norse \"jalda\", meaning mare, especially a tired one, comes this word for insensitive or worn out",
+          "answer": "jaded",
+          "isDailyDouble": false,
+          "orderNumber": 17,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jack",
+              "score": 5000
+            },
+            {
+              "player": "Michael",
+              "score": 5300
+            },
+            {
+              "player": "Tom",
+              "score": 5300
+            }
+          ]
+        },
+        {
+          "category": "WORD ORIGINS",
+          "value": 400,
+          "clue": "Our word \"pen\" is from Latin \"penna\" meaning this old-fashioned writing instrument",
+          "answer": "a feather (a quill accepted)",
+          "isDailyDouble": false,
+          "orderNumber": 18,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jack",
+              "score": 5000
+            },
+            {
+              "player": "Michael",
+              "score": 5700
+            },
+            {
+              "player": "Tom",
+              "score": 5300
+            }
+          ]
+        },
+        {
+          "category": "U.S. CITIES",
+          "value": 800,
+          "clue": "It's the 2nd largest city in Georgia & recently became the largest in Ohio",
+          "answer": "Columbus",
+          "isDailyDouble": false,
+          "orderNumber": 19,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Jack",
+              "score": 5000
+            },
+            {
+              "player": "Michael",
+              "score": 5700
+            },
+            {
+              "player": "Tom",
+              "score": 5300
+            }
+          ]
+        },
+        {
+          "category": "U.S. CITIES",
+          "value": 1000,
+          "clue": "5th largest city in Minnesota, it's named for the 3rd largest in New York",
+          "answer": "Rochester",
+          "isDailyDouble": false,
+          "orderNumber": 20,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jack",
+              "score": 5000
+            },
+            {
+              "player": "Michael",
+              "score": 5700
+            },
+            {
+              "player": "Tom",
+              "score": 6300
+            }
+          ]
+        },
+        {
+          "category": "U.S. CITIES",
+          "value": 400,
+          "clue": "Cities in Nevada & New Mexico share this name, Spanish for \"the meadows\"",
+          "answer": "Las Vegas",
+          "isDailyDouble": false,
+          "orderNumber": 21,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Jack",
+              "score": 5000
+            },
+            {
+              "player": "Michael",
+              "score": 5700
+            },
+            {
+              "player": "Tom",
+              "score": 6300
+            }
+          ]
+        },
+        {
+          "category": "U.S. CITIES",
+          "value": 200,
+          "clue": "In North Carolina, it's the biggest port city; in Delaware, it's the biggest city of all",
+          "answer": "Wilmington",
+          "isDailyDouble": false,
+          "orderNumber": 22,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jack",
+              "score": 5200
+            },
+            {
+              "player": "Michael",
+              "score": 5700
+            },
+            {
+              "player": "Tom",
+              "score": 6300
+            }
+          ]
+        },
+        {
+          "category": "STEPHEN FOSTER",
+          "value": 800,
+          "clue": "The day & year when Foster was born, it was also the day Jefferson & Adams died",
+          "answer": "July 4, 1826",
+          "isDailyDouble": true,
+          "orderNumber": 23,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jack",
+              "score": 4400
+            },
+            {
+              "player": "Michael",
+              "score": 5700
+            },
+            {
+              "player": "Tom",
+              "score": 6300
+            }
+          ]
+        },
+        {
+          "category": "THE TONY AWARDS",
+          "value": 1000,
+          "clue": "Elizabeth Taylor was nominated for her very 1st Broadway play, the 1981 revival of this",
+          "answer": "The Little Foxes",
+          "isDailyDouble": false,
+          "orderNumber": 24,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jack",
+              "score": 5400
+            },
+            {
+              "player": "Michael",
+              "score": 5700
+            },
+            {
+              "player": "Tom",
+              "score": 6300
+            }
+          ]
+        },
+        {
+          "category": "STEPHEN FOSTER",
+          "value": 1000,
+          "clue": "Title lady whose \"smiles have vanished & her sweet songs flown\"",
+          "answer": "\"Jeanie With The Light Brown Hair\"",
+          "isDailyDouble": false,
+          "orderNumber": 25,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jack",
+              "score": 5400
+            },
+            {
+              "player": "Michael",
+              "score": 5700
+            },
+            {
+              "player": "Tom",
+              "score": 7300
+            }
+          ]
+        },
+        {
+          "category": "PASHAS",
+          "value": 200,
+          "clue": "Of military, civil, or religious officials, group to which the title of pasha was never applied",
+          "answer": "religious officials",
+          "isDailyDouble": false,
+          "orderNumber": 26,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jack",
+              "score": 5400
+            },
+            {
+              "player": "Michael",
+              "score": 5900
+            },
+            {
+              "player": "Tom",
+              "score": 7300
+            }
+          ]
+        },
+        {
+          "category": "PASHAS",
+          "value": 400,
+          "clue": "In 1909, Kamil Pasha resigned & Hilmi Pasha was appointed the new grand one of these",
+          "answer": "vizier",
+          "isDailyDouble": false,
+          "orderNumber": 27,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jack",
+              "score": 5400
+            },
+            {
+              "player": "Michael",
+              "score": 6300
+            },
+            {
+              "player": "Tom",
+              "score": 7300
+            }
+          ]
+        },
+        {
+          "category": "PASHAS",
+          "value": 600,
+          "clue": "Midhat Pasha gave this empire a new constitution in 1876; in 1877 they dismissed & banished him",
+          "answer": "Ottoman Empire",
+          "isDailyDouble": false,
+          "orderNumber": 28,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Jack",
+              "score": 5400
+            },
+            {
+              "player": "Michael",
+              "score": 5700
+            },
+            {
+              "player": "Tom",
+              "score": 7300
+            }
+          ]
+        },
+        {
+          "category": "PASHAS",
+          "value": 800,
+          "clue": "Son of a Greek, Ibrahim Pasha helped run the empire during the 1500s for this magnificent guy",
+          "answer": "Suleiman",
+          "isDailyDouble": false,
+          "orderNumber": 29,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Jack",
+              "score": 5400
+            },
+            {
+              "player": "Michael",
+              "score": 5700
+            },
+            {
+              "player": "Tom",
+              "score": 7300
+            }
+          ]
+        },
+        {
+          "category": "PASHAS",
+          "value": 1000,
+          "clue": "In October 1853, the Turks under Omar Pasha crossed the Danube & attacked this country's troops",
+          "answer": "Russia",
+          "isDailyDouble": false,
+          "orderNumber": 30,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Jack",
+              "score": 5400
+            },
+            {
+              "player": "Michael",
+              "score": 5700
+            },
+            {
+              "player": "Tom",
+              "score": 7300
+            }
+          ]
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "Jack",
+          "score": 5400
+        },
+        {
+          "player": "Michael",
+          "score": 5700
+        },
+        {
+          "player": "Tom",
+          "score": 7300
+        }
+      ]
+    },
+    "finalJeopardy": {
+      "category": "THE CABINET",
+      "clue": "The State Dept. helps Americans abroad, while this department urges foreigners to visit the U.S.",
+      "answer": "the Department of Commerce",
+      "responses": [
+        {
+          "contestant": "Jack",
+          "response": "What is the Dept. of Commerce?",
+          "isCorrect": true,
+          "isIncorrect": false,
+          "value": 5400,
+          "finalScore": 10800
+        },
+        {
+          "contestant": "Michael",
+          "response": "What is the Dept. of Commerce",
+          "isCorrect": true,
+          "isIncorrect": false,
+          "value": 5699,
+          "finalScore": 11399
+        },
+        {
+          "contestant": "Tom",
+          "response": "What is the Dept. of Interior",
+          "isCorrect": false,
+          "isIncorrect": true,
+          "value": 4101,
+          "finalScore": 3199
+        }
+      ]
+    }
+  },
+  "finalScores": [
+    {
+      "player": "Jack",
+      "score": "$10,800"
+    },
+    {
+      "player": "Michael",
+      "score": "$11,399"
+    },
+    {
+      "player": "Tom",
+      "score": "$3,199"
+    }
+  ],
+  "coryatScores": [
+    {
+      "player": "Jack",
+      "score": 5700
+    },
+    {
+      "player": "Michael",
+      "score": 6300
+    },
+    {
+      "player": "Tom",
+      "score": 7300
+    }
+  ]
+}

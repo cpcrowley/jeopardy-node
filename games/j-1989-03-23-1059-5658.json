@@ -1,0 +1,1681 @@
+{
+  "gameId": 5658,
+  "showNumber": "1059",
+  "title": "Show #1059 - Thursday, March 23, 1989",
+  "date": "1989-03-23",
+  "comments": "",
+  "contestants": [
+    "Alison",
+    "Marisa",
+    "Ken"
+  ],
+  "rounds": {
+    "jeopardy": {
+      "categories": [
+        "LAW",
+        "MOVIE ATHLETES",
+        "HAIRDOS",
+        "NOVELS",
+        "THE PAPACY",
+        "PROVERBIAL FOOD"
+      ],
+      "clues": [
+        {
+          "category": "PROVERBIAL FOOD",
+          "value": 100,
+          "clue": "Proverb containing a dietary habit that keeps the physician from paying a visit",
+          "answer": "an apple a day keeps the doctor away",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [
+            "Alison"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alison",
+              "score": 100
+            },
+            {
+              "player": "Marisa",
+              "score": 0
+            },
+            {
+              "player": "Ken",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "PROVERBIAL FOOD",
+          "value": 200,
+          "clue": "\"What's sauce for the goose is sauce for the gander\", but this \"is another man's poison\"",
+          "answer": "one man's meat",
+          "isDailyDouble": false,
+          "orderNumber": 2,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Alison",
+              "score": 100
+            },
+            {
+              "player": "Marisa",
+              "score": 0
+            },
+            {
+              "player": "Ken",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "PROVERBIAL FOOD",
+          "value": 300,
+          "clue": "\"If you pay\" this \"you get monkeys\"",
+          "answer": "peanuts",
+          "isDailyDouble": false,
+          "orderNumber": 3,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Ken"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Alison",
+              "score": 100
+            },
+            {
+              "player": "Marisa",
+              "score": 0
+            },
+            {
+              "player": "Ken",
+              "score": -300
+            }
+          ]
+        },
+        {
+          "category": "NOVELS",
+          "value": 100,
+          "clue": "Sinclair Lewis' novel \"It Can't Happen Here\" depicts a Fascist takeover of this country",
+          "answer": "the United States",
+          "isDailyDouble": false,
+          "orderNumber": 4,
+          "correctContestants": [
+            "Alison"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alison",
+              "score": 200
+            },
+            {
+              "player": "Marisa",
+              "score": 0
+            },
+            {
+              "player": "Ken",
+              "score": -300
+            }
+          ]
+        },
+        {
+          "category": "NOVELS",
+          "value": 200,
+          "clue": "This autobiographical novel was Dickens' personal favorite",
+          "answer": "David Copperfield",
+          "isDailyDouble": false,
+          "orderNumber": 5,
+          "correctContestants": [
+            "Marisa"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alison",
+              "score": 200
+            },
+            {
+              "player": "Marisa",
+              "score": 200
+            },
+            {
+              "player": "Ken",
+              "score": -300
+            }
+          ]
+        },
+        {
+          "category": "NOVELS",
+          "value": 300,
+          "clue": "Some critics think his last, unfinished novel, \"The Last Tycoon\", was his best",
+          "answer": "F. Scott Fitzgerald",
+          "isDailyDouble": false,
+          "orderNumber": 6,
+          "correctContestants": [
+            "Marisa"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alison",
+              "score": 200
+            },
+            {
+              "player": "Marisa",
+              "score": 500
+            },
+            {
+              "player": "Ken",
+              "score": -300
+            }
+          ]
+        },
+        {
+          "category": "HAIRDOS",
+          "value": 100,
+          "clue": "Named for an Indian tribe, it reached new heights when worn by \"punks\" of recent years",
+          "answer": "Mohawk",
+          "isDailyDouble": false,
+          "orderNumber": 7,
+          "correctContestants": [
+            "Alison"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alison",
+              "score": 300
+            },
+            {
+              "player": "Marisa",
+              "score": 500
+            },
+            {
+              "player": "Ken",
+              "score": -300
+            }
+          ]
+        },
+        {
+          "category": "NOVELS",
+          "value": 400,
+          "clue": "The owner of this Hawthorne title \"house\" is haunted by a curse: \"God will give him blood to drink\"",
+          "answer": "The House of the Seven Gables",
+          "isDailyDouble": false,
+          "orderNumber": 8,
+          "correctContestants": [
+            "Ken"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alison",
+              "score": 300
+            },
+            {
+              "player": "Marisa",
+              "score": 500
+            },
+            {
+              "player": "Ken",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "category": "LAW",
+          "value": 100,
+          "clue": "The 7th Amendment says in federal common lawsuits valued over $20, you have the right to trial by this",
+          "answer": "jury",
+          "isDailyDouble": false,
+          "orderNumber": 9,
+          "correctContestants": [
+            "Ken"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alison",
+              "score": 300
+            },
+            {
+              "player": "Marisa",
+              "score": 500
+            },
+            {
+              "player": "Ken",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "LAW",
+          "value": 200,
+          "clue": "If you've been released from jail \"OR\", it's on this condition",
+          "answer": "your own recognizance",
+          "isDailyDouble": false,
+          "orderNumber": 10,
+          "correctContestants": [
+            "Alison"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alison",
+              "score": 500
+            },
+            {
+              "player": "Marisa",
+              "score": 500
+            },
+            {
+              "player": "Ken",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "MOVIE ATHLETES",
+          "value": 100,
+          "clue": "Robert De Niro fans got a \"bang\" out of this 1973 film in which he played a dying baseball player",
+          "answer": "Bang the Drum Slowly",
+          "isDailyDouble": false,
+          "orderNumber": 11,
+          "correctContestants": [
+            "Marisa"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alison",
+              "score": 500
+            },
+            {
+              "player": "Marisa",
+              "score": 600
+            },
+            {
+              "player": "Ken",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "MOVIE ATHLETES",
+          "value": 200,
+          "clue": "Elizabeth Taylor played the gutsy daughter of an English Channel swimmer in this \"equine\" classic",
+          "answer": "National Velvet",
+          "isDailyDouble": false,
+          "orderNumber": 12,
+          "correctContestants": [
+            "Marisa"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alison",
+              "score": 500
+            },
+            {
+              "player": "Marisa",
+              "score": 800
+            },
+            {
+              "player": "Ken",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "MOVIE ATHLETES",
+          "value": 300,
+          "clue": "He played Canadian scull racer Ned Hanlan in 1986's \"The Boy in Blue\" before he was \"Moonstruck\"",
+          "answer": "Nicolas Cage",
+          "isDailyDouble": false,
+          "orderNumber": 13,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Alison",
+              "score": 500
+            },
+            {
+              "player": "Marisa",
+              "score": 800
+            },
+            {
+              "player": "Ken",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "THE PAPACY",
+          "value": 100,
+          "clue": "A papal letter is an encyclical & a papal decree is called this",
+          "answer": "bull",
+          "isDailyDouble": false,
+          "orderNumber": 14,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Alison",
+              "score": 500
+            },
+            {
+              "player": "Marisa",
+              "score": 800
+            },
+            {
+              "player": "Ken",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "NOVELS",
+          "value": 500,
+          "clue": "Steinbeck novel whose title is found in the 1st line of Shakespeare's \"Richard III\"",
+          "answer": "Now is the Winter of Our Discontent",
+          "isDailyDouble": true,
+          "orderNumber": 15,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Marisa"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alison",
+              "score": 500
+            },
+            {
+              "player": "Marisa",
+              "score": 300
+            },
+            {
+              "player": "Ken",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "HAIRDOS",
+          "value": 200,
+          "clue": "Worn by Elvis in the mid '50s, this hairdo was named for Louis XV's mistress",
+          "answer": "Pompadour",
+          "isDailyDouble": false,
+          "orderNumber": 16,
+          "correctContestants": [
+            "Marisa"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alison",
+              "score": 500
+            },
+            {
+              "player": "Marisa",
+              "score": 500
+            },
+            {
+              "player": "Ken",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "HAIRDOS",
+          "value": 300,
+          "clue": "A variation on the crew cut, or slang for an aircraft carrier",
+          "answer": "flattop",
+          "isDailyDouble": false,
+          "orderNumber": 17,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Alison",
+            "Ken"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Alison",
+              "score": 200
+            },
+            {
+              "player": "Marisa",
+              "score": 500
+            },
+            {
+              "player": "Ken",
+              "score": -100
+            }
+          ]
+        },
+        {
+          "category": "THE PAPACY",
+          "value": 200,
+          "clue": "If you ever meet the pope, you should call him this",
+          "answer": "Your Holiness",
+          "isDailyDouble": false,
+          "orderNumber": 18,
+          "correctContestants": [
+            "Ken"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alison",
+              "score": 200
+            },
+            {
+              "player": "Marisa",
+              "score": 500
+            },
+            {
+              "player": "Ken",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "category": "LAW",
+          "value": 300,
+          "clue": "A 13th century English law made these 2 dates count as 1 for legal purposes",
+          "answer": "February 28th & 29th",
+          "isDailyDouble": false,
+          "orderNumber": 19,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Alison",
+            "Ken"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Alison",
+              "score": -100
+            },
+            {
+              "player": "Marisa",
+              "score": 500
+            },
+            {
+              "player": "Ken",
+              "score": -200
+            }
+          ]
+        },
+        {
+          "category": "LAW",
+          "value": 400,
+          "clue": "If you swing & miss, it's assault; if you swing & connect, it's this",
+          "answer": "battery",
+          "isDailyDouble": false,
+          "orderNumber": 20,
+          "correctContestants": [
+            "Ken"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alison",
+              "score": -100
+            },
+            {
+              "player": "Marisa",
+              "score": 500
+            },
+            {
+              "player": "Ken",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "LAW",
+          "value": 500,
+          "clue": "In legal terms it means \"to give personal property to a person by (a) will\"",
+          "answer": "bequeath",
+          "isDailyDouble": false,
+          "orderNumber": 21,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Marisa"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Alison",
+              "score": -100
+            },
+            {
+              "player": "Marisa",
+              "score": 0
+            },
+            {
+              "player": "Ken",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "MOVIE ATHLETES",
+          "value": 400,
+          "clue": "Tyrone Power was a macho matador in this 1941 remake of a Valentino classic, & that's no bull",
+          "answer": "Blood and Sand",
+          "isDailyDouble": false,
+          "orderNumber": 22,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Alison",
+              "score": -100
+            },
+            {
+              "player": "Marisa",
+              "score": 0
+            },
+            {
+              "player": "Ken",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "MOVIE ATHLETES",
+          "value": 500,
+          "clue": "Bonnie Bedelia spun Jeff Bridges' wheels playing this auto racing champ in \"Heart Like a Wheel\"",
+          "answer": "Shirley Muldowney",
+          "isDailyDouble": false,
+          "orderNumber": 23,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Alison",
+              "score": -100
+            },
+            {
+              "player": "Marisa",
+              "score": 0
+            },
+            {
+              "player": "Ken",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "PROVERBIAL FOOD",
+          "value": 400,
+          "clue": "Campbell's might put this proverb on a sampler over the chef schedules at the factory",
+          "answer": "too many cooks spoil the broth",
+          "isDailyDouble": false,
+          "orderNumber": 24,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Alison"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Alison",
+              "score": -500
+            },
+            {
+              "player": "Marisa",
+              "score": 0
+            },
+            {
+              "player": "Ken",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "PROVERBIAL FOOD",
+          "value": 500,
+          "clue": "According to the old rhyme, \"Eat at pleasure, drink by\" this",
+          "answer": "measure",
+          "isDailyDouble": false,
+          "orderNumber": 25,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Alison",
+              "score": -500
+            },
+            {
+              "player": "Marisa",
+              "score": 0
+            },
+            {
+              "player": "Ken",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "HAIRDOS",
+          "value": 400,
+          "clue": "French word for a large smooth roll or twist of hair worn by the nape of the neck",
+          "answer": "chignon",
+          "isDailyDouble": false,
+          "orderNumber": 26,
+          "correctContestants": [
+            "Alison"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alison",
+              "score": -100
+            },
+            {
+              "player": "Marisa",
+              "score": 0
+            },
+            {
+              "player": "Ken",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "THE PAPACY",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alison",
+              "score": -100
+            },
+            {
+              "player": "Marisa",
+              "score": 0
+            },
+            {
+              "player": "Ken",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "THE PAPACY",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alison",
+              "score": -100
+            },
+            {
+              "player": "Marisa",
+              "score": 0
+            },
+            {
+              "player": "Ken",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "HAIRDOS",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alison",
+              "score": -100
+            },
+            {
+              "player": "Marisa",
+              "score": 0
+            },
+            {
+              "player": "Ken",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "THE PAPACY",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alison",
+              "score": -100
+            },
+            {
+              "player": "Marisa",
+              "score": 0
+            },
+            {
+              "player": "Ken",
+              "score": 200
+            }
+          ]
+        }
+      ],
+      "firstBreakScores": [
+        {
+          "player": "Alison",
+          "score": 500
+        },
+        {
+          "player": "Marisa",
+          "score": 800
+        },
+        {
+          "player": "Ken",
+          "score": 200
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "Alison",
+          "score": -100
+        },
+        {
+          "player": "Marisa",
+          "score": 0
+        },
+        {
+          "player": "Ken",
+          "score": 200
+        }
+      ]
+    },
+    "doubleJeopardy": {
+      "categories": [
+        "1900",
+        "TRAVEL U.S.A.",
+        "COMPOSERS",
+        "ISLANDS",
+        "BIRDS",
+        "\"HUNT\"s"
+      ],
+      "clues": [
+        {
+          "category": "BIRDS",
+          "value": 200,
+          "clue": "Varieties of this tallest wading bird include the sandhill & whooping",
+          "answer": "crane",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alison",
+              "score": 100
+            },
+            {
+              "player": "Marisa",
+              "score": 0
+            },
+            {
+              "player": "Ken",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "BIRDS",
+          "value": 400,
+          "clue": "Like a pelican, a frigate bird has one of these but only uses it to attract mates by inflating it",
+          "answer": "pouch",
+          "isDailyDouble": false,
+          "orderNumber": 2,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alison",
+              "score": 500
+            },
+            {
+              "player": "Marisa",
+              "score": 0
+            },
+            {
+              "player": "Ken",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "BIRDS",
+          "value": 600,
+          "clue": "Lunch for a vulture, it sounds like luggage you take on the plane",
+          "answer": "carrion",
+          "isDailyDouble": false,
+          "orderNumber": 3,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alison",
+              "score": 500
+            },
+            {
+              "player": "Marisa",
+              "score": 0
+            },
+            {
+              "player": "Ken",
+              "score": 800
+            }
+          ]
+        },
+        {
+          "category": "TRAVEL U.S.A.",
+          "value": 200,
+          "clue": "Traveller's Restaurant in Richmond, VA. is named for this general's horse",
+          "answer": "Robert E. Lee",
+          "isDailyDouble": false,
+          "orderNumber": 4,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alison",
+              "score": 700
+            },
+            {
+              "player": "Marisa",
+              "score": 0
+            },
+            {
+              "player": "Ken",
+              "score": 800
+            }
+          ]
+        },
+        {
+          "category": "BIRDS",
+          "value": 800,
+          "clue": "The bill of the sicklebill, a species of this bird, exactly fits the shape of certain flowers",
+          "answer": "hummingbird",
+          "isDailyDouble": false,
+          "orderNumber": 5,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alison",
+              "score": 1500
+            },
+            {
+              "player": "Marisa",
+              "score": 0
+            },
+            {
+              "player": "Ken",
+              "score": 800
+            }
+          ]
+        },
+        {
+          "category": "BIRDS",
+          "value": 1000,
+          "clue": "The name of this family of birds is from their habit of running along beaches & whistling",
+          "answer": "sandpipers",
+          "isDailyDouble": false,
+          "orderNumber": 6,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alison",
+              "score": 2500
+            },
+            {
+              "player": "Marisa",
+              "score": 0
+            },
+            {
+              "player": "Ken",
+              "score": 800
+            }
+          ]
+        },
+        {
+          "category": "ISLANDS",
+          "value": 200,
+          "clue": "Once a lard-processing center, the resort of Montego Bay is located on this Caribbean island",
+          "answer": "Jamaica",
+          "isDailyDouble": false,
+          "orderNumber": 7,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alison",
+              "score": 2700
+            },
+            {
+              "player": "Marisa",
+              "score": 0
+            },
+            {
+              "player": "Ken",
+              "score": 800
+            }
+          ]
+        },
+        {
+          "category": "ISLANDS",
+          "value": 400,
+          "clue": "The largest Texas city wholly located on an island, Glen Campbell used it as the title of a 1969 hit song",
+          "answer": "Galveston",
+          "isDailyDouble": false,
+          "orderNumber": 8,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alison",
+              "score": 2700
+            },
+            {
+              "player": "Marisa",
+              "score": 0
+            },
+            {
+              "player": "Ken",
+              "score": 1200
+            }
+          ]
+        },
+        {
+          "category": "ISLANDS",
+          "value": 600,
+          "clue": "Island off the coast of Scotland famous for its tiny terriers",
+          "answer": "Skye",
+          "isDailyDouble": false,
+          "orderNumber": 9,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alison",
+              "score": 2700
+            },
+            {
+              "player": "Marisa",
+              "score": 600
+            },
+            {
+              "player": "Ken",
+              "score": 1200
+            }
+          ]
+        },
+        {
+          "category": "ISLANDS",
+          "value": 1000,
+          "clue": "The two largest islands in the Mediterranean, they both belong to Italy",
+          "answer": "Sicily & Sardinia",
+          "isDailyDouble": true,
+          "orderNumber": 10,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alison",
+              "score": 2700
+            },
+            {
+              "player": "Marisa",
+              "score": 1600
+            },
+            {
+              "player": "Ken",
+              "score": 1200
+            }
+          ]
+        },
+        {
+          "category": "\"HUNT\"s",
+          "value": 200,
+          "clue": "From 1956-1970 he ended most of his newscasts with \"Goodnight David\"",
+          "answer": "Chet Huntley",
+          "isDailyDouble": false,
+          "orderNumber": 11,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alison",
+              "score": 2700
+            },
+            {
+              "player": "Marisa",
+              "score": 1800
+            },
+            {
+              "player": "Ken",
+              "score": 1200
+            }
+          ]
+        },
+        {
+          "category": "\"HUNT\"s",
+          "value": 400,
+          "clue": "In the nursery rhyme, this line follows \"Bye baby bunting\"",
+          "answer": "Daddy's gone a-hunting",
+          "isDailyDouble": false,
+          "orderNumber": 12,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alison",
+              "score": 2700
+            },
+            {
+              "player": "Marisa",
+              "score": 1800
+            },
+            {
+              "player": "Ken",
+              "score": 1600
+            }
+          ]
+        },
+        {
+          "category": "TRAVEL U.S.A.",
+          "value": 1400,
+          "clue": "La Jolla, Calif.'s Bed & Breakfast Inn was once the home of this composer who wrote the following:",
+          "answer": "John Philip Sousa",
+          "isDailyDouble": true,
+          "orderNumber": 13,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alison",
+              "score": 2700
+            },
+            {
+              "player": "Marisa",
+              "score": 1800
+            },
+            {
+              "player": "Ken",
+              "score": 3000
+            }
+          ]
+        },
+        {
+          "category": "TRAVEL U.S.A.",
+          "value": 600,
+          "clue": "This theme park is no longer home of Der Bakkers Bakery & the Tammy Faye Cosmetics Boutique",
+          "answer": "Heritage USA",
+          "isDailyDouble": false,
+          "orderNumber": 14,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alison",
+              "score": 3300
+            },
+            {
+              "player": "Marisa",
+              "score": 1800
+            },
+            {
+              "player": "Ken",
+              "score": 3000
+            }
+          ]
+        },
+        {
+          "category": "TRAVEL U.S.A.",
+          "value": 800,
+          "clue": "\"Women in Love\" with this author can visit his memorial near Taos, New Mexico",
+          "answer": "D.H. Lawrence",
+          "isDailyDouble": false,
+          "orderNumber": 15,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alison",
+              "score": 3300
+            },
+            {
+              "player": "Marisa",
+              "score": 2600
+            },
+            {
+              "player": "Ken",
+              "score": 3000
+            }
+          ]
+        },
+        {
+          "category": "1900",
+          "value": 200,
+          "clue": "This company's Brownie box camera was introduced in the U.S. in 1900",
+          "answer": "Kodak",
+          "isDailyDouble": false,
+          "orderNumber": 16,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alison",
+              "score": 3500
+            },
+            {
+              "player": "Marisa",
+              "score": 2600
+            },
+            {
+              "player": "Ken",
+              "score": 3000
+            }
+          ]
+        },
+        {
+          "category": "\"HUNT\"s",
+          "value": 600,
+          "clue": "KLSX in L.A. ran one of these in 1988 that sent listeners looking for 97.1 different items",
+          "answer": "scavenger hunt",
+          "isDailyDouble": false,
+          "orderNumber": 17,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alison",
+              "score": 2900
+            },
+            {
+              "player": "Marisa",
+              "score": 3200
+            },
+            {
+              "player": "Ken",
+              "score": 3000
+            }
+          ]
+        },
+        {
+          "category": "\"HUNT\"s",
+          "value": 800,
+          "clue": "A plant seeker who's busy around Christmas, or a star of \"Broadcast News\"",
+          "answer": "Holly Hunter",
+          "isDailyDouble": false,
+          "orderNumber": 18,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alison",
+              "score": 3700
+            },
+            {
+              "player": "Marisa",
+              "score": 3200
+            },
+            {
+              "player": "Ken",
+              "score": 2200
+            }
+          ]
+        },
+        {
+          "category": "\"HUNT\"s",
+          "value": 1000,
+          "clue": "The president of the Chesapeake & Ohio RR founded this, the largest city in West Virginia",
+          "answer": "Huntington",
+          "isDailyDouble": false,
+          "orderNumber": 19,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alison",
+              "score": 3700
+            },
+            {
+              "player": "Marisa",
+              "score": 3200
+            },
+            {
+              "player": "Ken",
+              "score": 3200
+            }
+          ]
+        },
+        {
+          "category": "ISLANDS",
+          "value": 1000,
+          "clue": "Now a part of Indonesia, the Moluccas were once known by this zesty name",
+          "answer": "the Spice Islands",
+          "isDailyDouble": false,
+          "orderNumber": 20,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alison",
+              "score": 2700
+            },
+            {
+              "player": "Marisa",
+              "score": 4200
+            },
+            {
+              "player": "Ken",
+              "score": 3200
+            }
+          ]
+        },
+        {
+          "category": "1900",
+          "value": 400,
+          "clue": "Coubertin, who conceived the modern Olympics, had the 1900 games held here, in his hometown",
+          "answer": "Paris",
+          "isDailyDouble": false,
+          "orderNumber": 21,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alison",
+              "score": 2700
+            },
+            {
+              "player": "Marisa",
+              "score": 4600
+            },
+            {
+              "player": "Ken",
+              "score": 3200
+            }
+          ]
+        },
+        {
+          "category": "1900",
+          "value": 600,
+          "clue": "This oldest member of the British royal family was born in 1900",
+          "answer": "the Queen Mother",
+          "isDailyDouble": false,
+          "orderNumber": 22,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alison",
+              "score": 3300
+            },
+            {
+              "player": "Marisa",
+              "score": 4600
+            },
+            {
+              "player": "Ken",
+              "score": 3200
+            }
+          ]
+        },
+        {
+          "category": "TRAVEL U.S.A.",
+          "value": 1000,
+          "clue": "You can see remarkable sandstone formations in Monument Valley on this Indian reservation",
+          "answer": "Navajo",
+          "isDailyDouble": false,
+          "orderNumber": 23,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Alison",
+              "score": 3300
+            },
+            {
+              "player": "Marisa",
+              "score": 4600
+            },
+            {
+              "player": "Ken",
+              "score": 3200
+            }
+          ]
+        },
+        {
+          "category": "COMPOSERS",
+          "value": 200,
+          "clue": "Bach wrote a cantata named for this breakfast beverage",
+          "answer": "coffee",
+          "isDailyDouble": false,
+          "orderNumber": 24,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Alison",
+              "score": 3300
+            },
+            {
+              "player": "Marisa",
+              "score": 4600
+            },
+            {
+              "player": "Ken",
+              "score": 3200
+            }
+          ]
+        },
+        {
+          "category": "1900",
+          "value": 800,
+          "clue": "The children's book, published in 1900, had the word \"wonderful\" in its title, but the 1939 MGM musical didn't",
+          "answer": "The Wizard of Oz",
+          "isDailyDouble": false,
+          "orderNumber": 25,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alison",
+              "score": 4100
+            },
+            {
+              "player": "Marisa",
+              "score": 4600
+            },
+            {
+              "player": "Ken",
+              "score": 3200
+            }
+          ]
+        },
+        {
+          "category": "1900",
+          "value": 1000,
+          "clue": "He lost the presidential race to McKinley for the 2nd time in a row",
+          "answer": "William Jennings Bryan",
+          "isDailyDouble": false,
+          "orderNumber": 26,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Alison",
+              "score": 4100
+            },
+            {
+              "player": "Marisa",
+              "score": 4600
+            },
+            {
+              "player": "Ken",
+              "score": 2200
+            }
+          ]
+        },
+        {
+          "category": "COMPOSERS",
+          "value": 400,
+          "clue": "In 1835 this Hungarian virtuoso ran off to Switz. with a married countess with whom he later had 3 kids",
+          "answer": "Franz Liszt",
+          "isDailyDouble": false,
+          "orderNumber": 27,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Alison",
+              "score": 4100
+            },
+            {
+              "player": "Marisa",
+              "score": 4600
+            },
+            {
+              "player": "Ken",
+              "score": 2200
+            }
+          ]
+        },
+        {
+          "category": "COMPOSERS",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alison",
+              "score": 4100
+            },
+            {
+              "player": "Marisa",
+              "score": 4600
+            },
+            {
+              "player": "Ken",
+              "score": 2200
+            }
+          ]
+        },
+        {
+          "category": "COMPOSERS",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alison",
+              "score": 4100
+            },
+            {
+              "player": "Marisa",
+              "score": 4600
+            },
+            {
+              "player": "Ken",
+              "score": 2200
+            }
+          ]
+        },
+        {
+          "category": "COMPOSERS",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alison",
+              "score": 4100
+            },
+            {
+              "player": "Marisa",
+              "score": 4600
+            },
+            {
+              "player": "Ken",
+              "score": 2200
+            }
+          ]
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "Alison",
+          "score": 4100
+        },
+        {
+          "player": "Marisa",
+          "score": 4600
+        },
+        {
+          "player": "Ken",
+          "score": 2200
+        }
+      ]
+    },
+    "finalJeopardy": {
+      "category": "FIRST FAMILIES",
+      "clue": "The last member of a first family to have been married at the White House",
+      "answer": "Tricia Nixon",
+      "responses": [
+        {
+          "contestant": "Ken",
+          "response": "Who was [Tricia Nixon]? Ford",
+          "isCorrect": false,
+          "isIncorrect": true,
+          "value": 2000,
+          "finalScore": 200
+        },
+        {
+          "contestant": "Alison",
+          "response": "Who was Tricia [Lynda Byrd] Nixon [Johnson?]",
+          "isCorrect": true,
+          "isIncorrect": false,
+          "value": 4000,
+          "finalScore": 8100
+        },
+        {
+          "contestant": "Marisa",
+          "response": "Who is [Roosevelt]? Johnson?",
+          "isCorrect": false,
+          "isIncorrect": true,
+          "value": 3501,
+          "finalScore": 1099
+        }
+      ]
+    }
+  },
+  "finalScores": [
+    {
+      "player": "Alison",
+      "score": "$8,100"
+    },
+    {
+      "player": "Marisa",
+      "score": "$1,099"
+    },
+    {
+      "player": "Ken",
+      "score": "$200"
+    }
+  ],
+  "coryatScores": [
+    {
+      "player": "Alison",
+      "score": 4100
+    },
+    {
+      "player": "Marisa",
+      "score": 4900
+    },
+    {
+      "player": "Ken",
+      "score": 1200
+    }
+  ]
+}

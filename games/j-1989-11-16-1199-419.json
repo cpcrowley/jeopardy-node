@@ -1,0 +1,1700 @@
+{
+  "gameId": 419,
+  "showNumber": "1199",
+  "title": "Show #1199 - Thursday, November 16, 1989",
+  "date": "1989-11-16",
+  "comments": "1989 Tournament of Champions final game 1.",
+  "contestants": [
+    "Tom",
+    "Brian",
+    "Rich"
+  ],
+  "rounds": {
+    "jeopardy": {
+      "categories": [
+        "HOLLYWOOD HISTORY",
+        "WORLD GEOGRAPHY",
+        "1981",
+        "WEATHER",
+        "THE WARS OF THE ROSES",
+        "\"NOTHING\" DOING"
+      ],
+      "clues": [
+        {
+          "category": "THE WARS OF THE ROSES",
+          "value": 100,
+          "clue": "Contrary to legend, a rose of this color may not have been a symbol of the house of Lancaster",
+          "answer": "Red",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [
+            "Rich"
+          ],
+          "incorrectContestants": [
+            "Tom"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": -100
+            },
+            {
+              "player": "Brian",
+              "score": 0
+            },
+            {
+              "player": "Rich",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "category": "WORLD GEOGRAPHY",
+          "value": 100,
+          "clue": "This capital city lies on the broad & shallow plain formed by the Moskva River & tributaries",
+          "answer": "Moscow",
+          "isDailyDouble": false,
+          "orderNumber": 2,
+          "correctContestants": [
+            "Rich"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": -100
+            },
+            {
+              "player": "Brian",
+              "score": 0
+            },
+            {
+              "player": "Rich",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "WORLD GEOGRAPHY",
+          "value": 200,
+          "clue": "You must remember this is the most populous city in Morocco, but Rabat is the capital",
+          "answer": "Casablanca",
+          "isDailyDouble": false,
+          "orderNumber": 3,
+          "correctContestants": [
+            "Tom"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 100
+            },
+            {
+              "player": "Brian",
+              "score": 0
+            },
+            {
+              "player": "Rich",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "THE WARS OF THE ROSES",
+          "value": 200,
+          "clue": "Skeletons found at this site may be those of the little princes, who vanished during the wars",
+          "answer": "Tower of London",
+          "isDailyDouble": false,
+          "orderNumber": 4,
+          "correctContestants": [
+            "Tom"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 300
+            },
+            {
+              "player": "Brian",
+              "score": 0
+            },
+            {
+              "player": "Rich",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "THE WARS OF THE ROSES",
+          "value": 300,
+          "clue": "Appropriate nickname of the Earl of Warwick, who was instrumental in making Edward IV ruler",
+          "answer": "\"The Kingmaker\"",
+          "isDailyDouble": false,
+          "orderNumber": 5,
+          "correctContestants": [
+            "Tom"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 600
+            },
+            {
+              "player": "Brian",
+              "score": 0
+            },
+            {
+              "player": "Rich",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "THE WARS OF THE ROSES",
+          "value": 250,
+          "clue": "Surprisingly, the king seen here, who died in battle during the wars, wasn't a bad-looking chap:",
+          "answer": "Richard III",
+          "isDailyDouble": true,
+          "orderNumber": 6,
+          "correctContestants": [
+            "Tom"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 850
+            },
+            {
+              "player": "Brian",
+              "score": 0
+            },
+            {
+              "player": "Rich",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "THE WARS OF THE ROSES",
+          "value": 500,
+          "clue": "After the wars ended, Henry VII claimed the throne, founding this dynasty",
+          "answer": "Tudor",
+          "isDailyDouble": false,
+          "orderNumber": 7,
+          "correctContestants": [
+            "Brian"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 850
+            },
+            {
+              "player": "Brian",
+              "score": 500
+            },
+            {
+              "player": "Rich",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "\"NOTHING\" DOING",
+          "value": 100,
+          "clue": "What a magician says to the audience as he pushes up his shirt cuffs",
+          "answer": "\"Nothing up my sleeve\"",
+          "isDailyDouble": false,
+          "orderNumber": 8,
+          "correctContestants": [
+            "Rich"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 850
+            },
+            {
+              "player": "Brian",
+              "score": 500
+            },
+            {
+              "player": "Rich",
+              "score": 300
+            }
+          ]
+        },
+        {
+          "category": "WORLD GEOGRAPHY",
+          "value": 300,
+          "clue": "With less than 10% of the world's population, this continent creates more than 1/3 of its manufactures",
+          "answer": "North America",
+          "isDailyDouble": false,
+          "orderNumber": 9,
+          "correctContestants": [
+            "Rich"
+          ],
+          "incorrectContestants": [
+            "Tom"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 550
+            },
+            {
+              "player": "Brian",
+              "score": 500
+            },
+            {
+              "player": "Rich",
+              "score": 600
+            }
+          ]
+        },
+        {
+          "category": "WORLD GEOGRAPHY",
+          "value": 400,
+          "clue": "The Red Sea is considered an arm of this ocean",
+          "answer": "Indian Ocean",
+          "isDailyDouble": false,
+          "orderNumber": 10,
+          "correctContestants": [
+            "Rich"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 550
+            },
+            {
+              "player": "Brian",
+              "score": 500
+            },
+            {
+              "player": "Rich",
+              "score": 1000
+            }
+          ]
+        },
+        {
+          "category": "WORLD GEOGRAPHY",
+          "value": 500,
+          "clue": "There used to be 2 countries with this name; now there's only 1 & its capital is Brazzaville",
+          "answer": "Congo",
+          "isDailyDouble": false,
+          "orderNumber": 11,
+          "correctContestants": [
+            "Rich"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 550
+            },
+            {
+              "player": "Brian",
+              "score": 500
+            },
+            {
+              "player": "Rich",
+              "score": 1500
+            }
+          ]
+        },
+        {
+          "category": "1981",
+          "value": 100,
+          "clue": "In December a Peruvian named Javier Perez de Cuellar was named to this post",
+          "answer": "U.N. Secretary-General",
+          "isDailyDouble": false,
+          "orderNumber": 12,
+          "correctContestants": [
+            "Rich"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 550
+            },
+            {
+              "player": "Brian",
+              "score": 500
+            },
+            {
+              "player": "Rich",
+              "score": 1600
+            }
+          ]
+        },
+        {
+          "category": "1981",
+          "value": 200,
+          "clue": "52 people leaving this country January 20, 1981 made world headlines",
+          "answer": "Iran",
+          "isDailyDouble": false,
+          "orderNumber": 13,
+          "correctContestants": [
+            "Brian"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 550
+            },
+            {
+              "player": "Brian",
+              "score": 700
+            },
+            {
+              "player": "Rich",
+              "score": 1600
+            }
+          ]
+        },
+        {
+          "category": "1981",
+          "value": 300,
+          "clue": "He became president of Egypt after the assassination of Anwar Sadat",
+          "answer": "Hosni Mubarak",
+          "isDailyDouble": false,
+          "orderNumber": 14,
+          "correctContestants": [
+            "Rich"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 550
+            },
+            {
+              "player": "Brian",
+              "score": 700
+            },
+            {
+              "player": "Rich",
+              "score": 1900
+            }
+          ]
+        },
+        {
+          "category": "1981",
+          "value": 400,
+          "clue": "He introduced his stainless-steel gull-winged sports car",
+          "answer": "John DeLorean",
+          "isDailyDouble": false,
+          "orderNumber": 15,
+          "correctContestants": [
+            "Rich"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 550
+            },
+            {
+              "player": "Brian",
+              "score": 700
+            },
+            {
+              "player": "Rich",
+              "score": 2300
+            }
+          ]
+        },
+        {
+          "category": "1981",
+          "value": 500,
+          "clue": "2 of the 3 standard rates in effect during the year for a U.S. first-class letter",
+          "answer": "15 cents, 18 cents & 20 cents",
+          "isDailyDouble": false,
+          "orderNumber": 16,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Brian",
+            "Rich"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 550
+            },
+            {
+              "player": "Brian",
+              "score": 200
+            },
+            {
+              "player": "Rich",
+              "score": 1800
+            }
+          ]
+        },
+        {
+          "category": "\"NOTHING\" DOING",
+          "value": 200,
+          "clue": "Little, unimportant things that you'd whisper in your beloved's ear",
+          "answer": "Sweet Nothings",
+          "isDailyDouble": false,
+          "orderNumber": 17,
+          "correctContestants": [
+            "Rich"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 550
+            },
+            {
+              "player": "Brian",
+              "score": 200
+            },
+            {
+              "player": "Rich",
+              "score": 2000
+            }
+          ]
+        },
+        {
+          "category": "\"NOTHING\" DOING",
+          "value": 300,
+          "clue": "Completes the line from \"Macbeth\", \"... A tale told by an idiot, full of sound & fury...\"",
+          "answer": "\"Signifying Nothing\"",
+          "isDailyDouble": false,
+          "orderNumber": 18,
+          "correctContestants": [
+            "Tom"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 850
+            },
+            {
+              "player": "Brian",
+              "score": 200
+            },
+            {
+              "player": "Rich",
+              "score": 2000
+            }
+          ]
+        },
+        {
+          "category": "\"NOTHING\" DOING",
+          "value": 400,
+          "clue": "According to \"Me & Bobby McGee\", \"Freedom's just another word for\" this",
+          "answer": "\"Nothing left to lose\"",
+          "isDailyDouble": false,
+          "orderNumber": 19,
+          "correctContestants": [
+            "Rich"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 850
+            },
+            {
+              "player": "Brian",
+              "score": 200
+            },
+            {
+              "player": "Rich",
+              "score": 2400
+            }
+          ]
+        },
+        {
+          "category": "\"NOTHING\" DOING",
+          "value": 500,
+          "clue": "In 1856 Millard Fillmore was its candidate for president",
+          "answer": "Know-Nothing Party",
+          "isDailyDouble": false,
+          "orderNumber": 20,
+          "correctContestants": [
+            "Brian"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 850
+            },
+            {
+              "player": "Brian",
+              "score": 700
+            },
+            {
+              "player": "Rich",
+              "score": 2400
+            }
+          ]
+        },
+        {
+          "category": "WEATHER",
+          "value": 100,
+          "clue": "For a storm to be called this, it must have winds greater than 32 MPH & heavy snow",
+          "answer": "Blizzard",
+          "isDailyDouble": false,
+          "orderNumber": 21,
+          "correctContestants": [
+            "Rich"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 850
+            },
+            {
+              "player": "Brian",
+              "score": 700
+            },
+            {
+              "player": "Rich",
+              "score": 2500
+            }
+          ]
+        },
+        {
+          "category": "WEATHER",
+          "value": 200,
+          "clue": "Silver iodide or dry ice is used to do this to a cloud",
+          "answer": "Seed It",
+          "isDailyDouble": false,
+          "orderNumber": 22,
+          "correctContestants": [
+            "Brian"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 850
+            },
+            {
+              "player": "Brian",
+              "score": 900
+            },
+            {
+              "player": "Rich",
+              "score": 2500
+            }
+          ]
+        },
+        {
+          "category": "WEATHER",
+          "value": 300,
+          "clue": "More tornadoes are recorded in the basin of this river than anywhere else in the world",
+          "answer": "Mississippi River",
+          "isDailyDouble": false,
+          "orderNumber": 23,
+          "correctContestants": [
+            "Brian"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 850
+            },
+            {
+              "player": "Brian",
+              "score": 1200
+            },
+            {
+              "player": "Rich",
+              "score": 2500
+            }
+          ]
+        },
+        {
+          "category": "WEATHER",
+          "value": 400,
+          "clue": "An old weather adage says \"Red sky in the morning, sailors\" do this",
+          "answer": "\"Take Warning\"",
+          "isDailyDouble": false,
+          "orderNumber": 24,
+          "correctContestants": [
+            "Rich"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 850
+            },
+            {
+              "player": "Brian",
+              "score": 1200
+            },
+            {
+              "player": "Rich",
+              "score": 2900
+            }
+          ]
+        },
+        {
+          "category": "WEATHER",
+          "value": 500,
+          "clue": "Also called a vapor trail, it's a cloud-like streamer that forms behind jets in clear, cold, humid air",
+          "answer": "Contrail",
+          "isDailyDouble": false,
+          "orderNumber": 25,
+          "correctContestants": [
+            "Brian"
+          ],
+          "incorrectContestants": [
+            "Rich"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 850
+            },
+            {
+              "player": "Brian",
+              "score": 1700
+            },
+            {
+              "player": "Rich",
+              "score": 2400
+            }
+          ]
+        },
+        {
+          "category": "HOLLYWOOD HISTORY",
+          "value": 100,
+          "clue": "The plot for this early talkie paralleled the story of Al Jolson's own life",
+          "answer": "\"The Jazz Singer\"",
+          "isDailyDouble": false,
+          "orderNumber": 26,
+          "correctContestants": [
+            "Brian"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 850
+            },
+            {
+              "player": "Brian",
+              "score": 1800
+            },
+            {
+              "player": "Rich",
+              "score": 2400
+            }
+          ]
+        },
+        {
+          "category": "HOLLYWOOD HISTORY",
+          "value": 200,
+          "clue": "This \"Jezebel\" said she named the statue Oscar after her 1st husband, Harmon Oscar Nelson Jr.",
+          "answer": "Bette Davis",
+          "isDailyDouble": false,
+          "orderNumber": 27,
+          "correctContestants": [
+            "Brian"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 850
+            },
+            {
+              "player": "Brian",
+              "score": 2000
+            },
+            {
+              "player": "Rich",
+              "score": 2400
+            }
+          ]
+        },
+        {
+          "category": "HOLLYWOOD HISTORY",
+          "value": 300,
+          "clue": "This 1976 film was based on F. Scott Fitzgerald's unfinished novel inspired by Irving Thalberg",
+          "answer": "The Last Tycoon",
+          "isDailyDouble": false,
+          "orderNumber": 28,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 850
+            },
+            {
+              "player": "Brian",
+              "score": 2000
+            },
+            {
+              "player": "Rich",
+              "score": 2400
+            }
+          ]
+        },
+        {
+          "category": "HOLLYWOOD HISTORY",
+          "value": 400,
+          "clue": "Pres. of the MPPDA from 1922-45, he initiated a moral blacklist & was an author of the production code",
+          "answer": "Will Hays",
+          "isDailyDouble": false,
+          "orderNumber": 29,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 850
+            },
+            {
+              "player": "Brian",
+              "score": 2000
+            },
+            {
+              "player": "Rich",
+              "score": 2400
+            }
+          ]
+        },
+        {
+          "category": "HOLLYWOOD HISTORY",
+          "value": 500,
+          "clue": "Creator of Andy Panda, he held the longest contract in Hollywood --  58 years with Universal",
+          "answer": "Walter Lantz",
+          "isDailyDouble": false,
+          "orderNumber": 30,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 850
+            },
+            {
+              "player": "Brian",
+              "score": 2000
+            },
+            {
+              "player": "Rich",
+              "score": 2400
+            }
+          ]
+        }
+      ],
+      "firstBreakScores": [
+        {
+          "player": "Tom",
+          "score": 550
+        },
+        {
+          "player": "Brian",
+          "score": 700
+        },
+        {
+          "player": "Rich",
+          "score": 1900
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "Tom",
+          "score": 850
+        },
+        {
+          "player": "Brian",
+          "score": 2000
+        },
+        {
+          "player": "Rich",
+          "score": 2400
+        }
+      ]
+    },
+    "doubleJeopardy": {
+      "categories": [
+        "SCIENTISTS",
+        "THE CONSTITUTION",
+        "HISTORIC NAMES",
+        "FRENCH LITERATURE",
+        "WISCONSINITES",
+        "FLOWERS & TREES"
+      ],
+      "clues": [
+        {
+          "category": "FRENCH LITERATURE",
+          "value": 200,
+          "clue": "In the 1840s Victor Hugo began writing this book using the title \"Les Miseres\"",
+          "answer": "\"Les Miserables\"",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 850
+            },
+            {
+              "player": "Brian",
+              "score": 2200
+            },
+            {
+              "player": "Rich",
+              "score": 2400
+            }
+          ]
+        },
+        {
+          "category": "WISCONSINITES",
+          "value": 200,
+          "clue": "Milwaukee native who met his British-born wife, Lynn Fontanne, in 1917 on Broadway",
+          "answer": "Alfred Lunt",
+          "isDailyDouble": false,
+          "orderNumber": 2,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 850
+            },
+            {
+              "player": "Brian",
+              "score": 2400
+            },
+            {
+              "player": "Rich",
+              "score": 2400
+            }
+          ]
+        },
+        {
+          "category": "WISCONSINITES",
+          "value": 400,
+          "clue": "He was born in Grand Chute, Wisconsin, attended Marquette Univ. & was elected to the Senate in 1946",
+          "answer": "Joseph McCarthy",
+          "isDailyDouble": false,
+          "orderNumber": 3,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 850
+            },
+            {
+              "player": "Brian",
+              "score": 2400
+            },
+            {
+              "player": "Rich",
+              "score": 2800
+            }
+          ]
+        },
+        {
+          "category": "WISCONSINITES",
+          "value": 600,
+          "clue": "He was governor of Wisconsin & author of a series of books about a \"bad boy\"",
+          "answer": "George Peck",
+          "isDailyDouble": false,
+          "orderNumber": 4,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 850
+            },
+            {
+              "player": "Brian",
+              "score": 2400
+            },
+            {
+              "player": "Rich",
+              "score": 2800
+            }
+          ]
+        },
+        {
+          "category": "WISCONSINITES",
+          "value": 800,
+          "clue": "A native of Ripon, suffragist Carrie Chapman Catt founded this org. in 1920",
+          "answer": "League of Women Voters",
+          "isDailyDouble": false,
+          "orderNumber": 5,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 50
+            },
+            {
+              "player": "Brian",
+              "score": 3200
+            },
+            {
+              "player": "Rich",
+              "score": 2800
+            }
+          ]
+        },
+        {
+          "category": "WISCONSINITES",
+          "value": 1000,
+          "clue": "Elected governor of Wisconsin in 1900, this \"Battling Bob\" founded a dynasty of politicians & social reformers",
+          "answer": "Robert LaFollette",
+          "isDailyDouble": false,
+          "orderNumber": 6,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 1050
+            },
+            {
+              "player": "Brian",
+              "score": 3200
+            },
+            {
+              "player": "Rich",
+              "score": 2800
+            }
+          ]
+        },
+        {
+          "category": "FRENCH LITERATURE",
+          "value": 400,
+          "clue": "Term for aesthetically elegant literature, it's French for \"fine letters\"",
+          "answer": "Belle Lettres",
+          "isDailyDouble": false,
+          "orderNumber": 7,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 1450
+            },
+            {
+              "player": "Brian",
+              "score": 3200
+            },
+            {
+              "player": "Rich",
+              "score": 2800
+            }
+          ]
+        },
+        {
+          "category": "FRENCH LITERATURE",
+          "value": 1000,
+          "clue": "His most famous short stories include \"Ball-of-Fat\" & \"The Necklace\"",
+          "answer": "Guy deMaupassant",
+          "isDailyDouble": true,
+          "orderNumber": 8,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 2450
+            },
+            {
+              "player": "Brian",
+              "score": 3200
+            },
+            {
+              "player": "Rich",
+              "score": 2800
+            }
+          ]
+        },
+        {
+          "category": "FRENCH LITERATURE",
+          "value": 800,
+          "clue": "In 1677 this dramatist's play \"Phedre\" was produced & he became Louis XIV's official historian",
+          "answer": "Jean Racine",
+          "isDailyDouble": false,
+          "orderNumber": 9,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 2450
+            },
+            {
+              "player": "Brian",
+              "score": 3200
+            },
+            {
+              "player": "Rich",
+              "score": 2800
+            }
+          ]
+        },
+        {
+          "category": "FRENCH LITERATURE",
+          "value": 1000,
+          "clue": "This series by Balzac intertwines almost 100 works & over 2,000 characters",
+          "answer": "\"The Human Comedy\"",
+          "isDailyDouble": false,
+          "orderNumber": 10,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 3450
+            },
+            {
+              "player": "Brian",
+              "score": 3200
+            },
+            {
+              "player": "Rich",
+              "score": 2800
+            }
+          ]
+        },
+        {
+          "category": "HISTORIC NAMES",
+          "value": 200,
+          "clue": "This leader, not boxer Cassius Clay, founded the modern Egyptian kingdom in the 1800s",
+          "answer": "Muhammad Ali",
+          "isDailyDouble": false,
+          "orderNumber": 11,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 3650
+            },
+            {
+              "player": "Brian",
+              "score": 3200
+            },
+            {
+              "player": "Rich",
+              "score": 2800
+            }
+          ]
+        },
+        {
+          "category": "HISTORIC NAMES",
+          "value": 400,
+          "clue": "In his youth, the ruthless Roman emperor Gaius Caesar was nicknamed this, meaning \"little boot\"",
+          "answer": "Caligula",
+          "isDailyDouble": false,
+          "orderNumber": 12,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 3650
+            },
+            {
+              "player": "Brian",
+              "score": 3200
+            },
+            {
+              "player": "Rich",
+              "score": 2800
+            }
+          ]
+        },
+        {
+          "category": "HISTORIC NAMES",
+          "value": 600,
+          "clue": "Pilgrim governor whose \"History of Plimmoth Plantation\" was 1st published 199 years after his death",
+          "answer": "William Bradford",
+          "isDailyDouble": false,
+          "orderNumber": 13,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 3650
+            },
+            {
+              "player": "Brian",
+              "score": 2600
+            },
+            {
+              "player": "Rich",
+              "score": 3400
+            }
+          ]
+        },
+        {
+          "category": "THE CONSTITUTION",
+          "value": 200,
+          "clue": "In May 1787 this Virginian was chosen president of the Constitutional Convention unanimously",
+          "answer": "George Washington",
+          "isDailyDouble": false,
+          "orderNumber": 14,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 3650
+            },
+            {
+              "player": "Brian",
+              "score": 2800
+            },
+            {
+              "player": "Rich",
+              "score": 3400
+            }
+          ]
+        },
+        {
+          "category": "SCIENTISTS",
+          "value": 200,
+          "clue": "He developed the V-2 for Germany & while in Alabama, the Saturn V for the U.S.",
+          "answer": "Wernher von Braun",
+          "isDailyDouble": false,
+          "orderNumber": 15,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 3650
+            },
+            {
+              "player": "Brian",
+              "score": 2800
+            },
+            {
+              "player": "Rich",
+              "score": 3600
+            }
+          ]
+        },
+        {
+          "category": "THE CONSTITUTION",
+          "value": 400,
+          "clue": "The convention was instructed by Congress to revise this existing document, not to write a new one",
+          "answer": "Articles of Confederation",
+          "isDailyDouble": false,
+          "orderNumber": 16,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 4050
+            },
+            {
+              "player": "Brian",
+              "score": 2800
+            },
+            {
+              "player": "Rich",
+              "score": 3600
+            }
+          ]
+        },
+        {
+          "category": "HISTORIC NAMES",
+          "value": 800,
+          "clue": "English king born on Xmas eve 1167; he had no power or land as a youth & was nicknamed \"Lackland\"",
+          "answer": "King John",
+          "isDailyDouble": false,
+          "orderNumber": 17,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 4050
+            },
+            {
+              "player": "Brian",
+              "score": 3600
+            },
+            {
+              "player": "Rich",
+              "score": 3600
+            }
+          ]
+        },
+        {
+          "category": "HISTORIC NAMES",
+          "value": 1000,
+          "clue": "In 1832 he said, \"The bank, Mr. Van Buren, is trying to kill me, but I will kill it\"",
+          "answer": "Andrew Jackson",
+          "isDailyDouble": false,
+          "orderNumber": 18,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 5050
+            },
+            {
+              "player": "Brian",
+              "score": 3600
+            },
+            {
+              "player": "Rich",
+              "score": 3600
+            }
+          ]
+        },
+        {
+          "category": "THE CONSTITUTION",
+          "value": 600,
+          "clue": "Congress is authorized to \"provide & maintain\" this branch of the armed services",
+          "answer": "Navy",
+          "isDailyDouble": false,
+          "orderNumber": 19,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 5650
+            },
+            {
+              "player": "Brian",
+              "score": 3600
+            },
+            {
+              "player": "Rich",
+              "score": 3600
+            }
+          ]
+        },
+        {
+          "category": "THE CONSTITUTION",
+          "value": 800,
+          "clue": "To be adopted, an amendment must be ratified by this fraction of the states",
+          "answer": "3/4",
+          "isDailyDouble": false,
+          "orderNumber": 20,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 6450
+            },
+            {
+              "player": "Brian",
+              "score": 3600
+            },
+            {
+              "player": "Rich",
+              "score": 3600
+            }
+          ]
+        },
+        {
+          "category": "THE CONSTITUTION",
+          "value": 1000,
+          "clue": "The compromise which gave us a 2-house Congress was proposed by this state, hence its nickname",
+          "answer": "Connecticut (\"The Constitution State\")",
+          "isDailyDouble": false,
+          "orderNumber": 21,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 6450
+            },
+            {
+              "player": "Brian",
+              "score": 3600
+            },
+            {
+              "player": "Rich",
+              "score": 3600
+            }
+          ]
+        },
+        {
+          "category": "SCIENTISTS",
+          "value": 400,
+          "clue": "Published in 1897, \"Work of the Digestive Glands\" was the only book by this Russian physiologist",
+          "answer": "Ivan Pavlov",
+          "isDailyDouble": false,
+          "orderNumber": 22,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 6450
+            },
+            {
+              "player": "Brian",
+              "score": 3600
+            },
+            {
+              "player": "Rich",
+              "score": 3600
+            }
+          ]
+        },
+        {
+          "category": "SCIENTISTS",
+          "value": 600,
+          "clue": "The idea of horsepower originated with this Scottish engineer, the \"Father of the Industrial Rev.\"",
+          "answer": "James Watt",
+          "isDailyDouble": false,
+          "orderNumber": 23,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 5850
+            },
+            {
+              "player": "Brian",
+              "score": 4200
+            },
+            {
+              "player": "Rich",
+              "score": 3600
+            }
+          ]
+        },
+        {
+          "category": "SCIENTISTS",
+          "value": 800,
+          "clue": "Dutch optician Hans Lippershey invented this scientific device in 1608",
+          "answer": "Telescope",
+          "isDailyDouble": false,
+          "orderNumber": 24,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 5050
+            },
+            {
+              "player": "Brian",
+              "score": 4200
+            },
+            {
+              "player": "Rich",
+              "score": 4400
+            }
+          ]
+        },
+        {
+          "category": "SCIENTISTS",
+          "value": 1000,
+          "clue": "For his invention of the electric battery, this Italian physicist was made a count in 1801",
+          "answer": "Alessandro Volta",
+          "isDailyDouble": false,
+          "orderNumber": 25,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 6050
+            },
+            {
+              "player": "Brian",
+              "score": 4200
+            },
+            {
+              "player": "Rich",
+              "score": 4400
+            }
+          ]
+        },
+        {
+          "category": "FLOWERS & TREES",
+          "value": 200,
+          "clue": "While its name means flesh colored, it's usually a white one that men wear on tuxedos",
+          "answer": "Carnation",
+          "isDailyDouble": false,
+          "orderNumber": 26,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 6050
+            },
+            {
+              "player": "Brian",
+              "score": 4200
+            },
+            {
+              "player": "Rich",
+              "score": 4600
+            }
+          ]
+        },
+        {
+          "category": "FLOWERS & TREES",
+          "value": 400,
+          "clue": "Spruce, fir & hemlock are part of this, the largest & best-known conifer family",
+          "answer": "Pine",
+          "isDailyDouble": false,
+          "orderNumber": 27,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 6050
+            },
+            {
+              "player": "Brian",
+              "score": 4200
+            },
+            {
+              "player": "Rich",
+              "score": 5000
+            }
+          ]
+        },
+        {
+          "category": "FLOWERS & TREES",
+          "value": 600,
+          "clue": "It takes some 4,000 purple autumn crocuses to get 1 ounce of this yellow dye",
+          "answer": "Saffron",
+          "isDailyDouble": false,
+          "orderNumber": 28,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 6050
+            },
+            {
+              "player": "Brian",
+              "score": 4200
+            },
+            {
+              "player": "Rich",
+              "score": 5000
+            }
+          ]
+        },
+        {
+          "category": "FLOWERS & TREES",
+          "value": 300,
+          "clue": "Varieties of this tree, noted for its wood, include the West Indian & Honduras",
+          "answer": "mahogany",
+          "isDailyDouble": true,
+          "orderNumber": 29,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 6050
+            },
+            {
+              "player": "Brian",
+              "score": 4200
+            },
+            {
+              "player": "Rich",
+              "score": 5300
+            }
+          ]
+        },
+        {
+          "category": "FLOWERS & TREES",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 6050
+            },
+            {
+              "player": "Brian",
+              "score": 4200
+            },
+            {
+              "player": "Rich",
+              "score": 5300
+            }
+          ]
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "Tom",
+          "score": 6050
+        },
+        {
+          "player": "Brian",
+          "score": 4200
+        },
+        {
+          "player": "Rich",
+          "score": 5300
+        }
+      ]
+    },
+    "finalJeopardy": {
+      "category": "UNREAL ESTATE",
+      "clue": "Originally this legendary place name referred to a ruler near Bogota who dusted his body with gold",
+      "answer": "El Dorado",
+      "responses": [
+        {
+          "contestant": "Brian",
+          "response": "Where is Cibola?",
+          "isCorrect": false,
+          "isIncorrect": true,
+          "value": 1200,
+          "finalScore": 3000
+        },
+        {
+          "contestant": "Rich",
+          "response": "What is Orinoco?",
+          "isCorrect": false,
+          "isIncorrect": true,
+          "value": 1200,
+          "finalScore": 4100
+        },
+        {
+          "contestant": "Tom",
+          "response": "What is El Dorado?",
+          "isCorrect": true,
+          "isIncorrect": false,
+          "value": 2050,
+          "finalScore": 8100
+        }
+      ]
+    }
+  },
+  "finalScores": [
+    {
+      "player": "Tom",
+      "score": "$8,100"
+    },
+    {
+      "player": "Brian",
+      "score": "$3,000"
+    },
+    {
+      "player": "Rich",
+      "score": "$4,100"
+    }
+  ],
+  "coryatScores": [
+    {
+      "player": "Tom",
+      "score": 5800
+    },
+    {
+      "player": "Brian",
+      "score": 4200
+    },
+    {
+      "player": "Rich",
+      "score": 5800
+    }
+  ]
+}

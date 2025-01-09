@@ -1,0 +1,1695 @@
+{
+  "gameId": 2482,
+  "showNumber": "502",
+  "title": "Show #502 - Tuesday, November 11, 1986",
+  "date": "1986-11-11",
+  "comments": "1986 Tournament of Champions quarterfinal game 2.",
+  "contestants": [
+    "Paul",
+    "Marvin",
+    "Jared"
+  ],
+  "rounds": {
+    "jeopardy": {
+      "categories": [
+        "DANCE",
+        "POST OFFICE",
+        "LUNCH COUNTER LINGO",
+        "NAME CHANGES",
+        "MONEY",
+        "PROVERBS OF DEATH"
+      ],
+      "clues": [
+        {
+          "category": "PROVERBS OF DEATH",
+          "value": 100,
+          "clue": "Separate proverbs state they \"don't bite\" & \"tell no tales\"",
+          "answer": "dead men",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [
+            "Jared"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Paul",
+              "score": 0
+            },
+            {
+              "player": "Marvin",
+              "score": 0
+            },
+            {
+              "player": "Jared",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "category": "MONEY",
+          "value": 100,
+          "clue": "During WWII, these tobacco products were used as \"money\" in many prisoner-of-war camps",
+          "answer": "cigarettes",
+          "isDailyDouble": false,
+          "orderNumber": 2,
+          "correctContestants": [
+            "Marvin"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Paul",
+              "score": 0
+            },
+            {
+              "player": "Marvin",
+              "score": 100
+            },
+            {
+              "player": "Jared",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "category": "LUNCH COUNTER LINGO",
+          "value": 100,
+          "clue": "To \"wreck a pair\" is to do this to 2 eggs",
+          "answer": "to scramble",
+          "isDailyDouble": false,
+          "orderNumber": 3,
+          "correctContestants": [
+            "Marvin"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Paul",
+              "score": 0
+            },
+            {
+              "player": "Marvin",
+              "score": 200
+            },
+            {
+              "player": "Jared",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "category": "LUNCH COUNTER LINGO",
+          "value": 200,
+          "clue": "\"Whistle berries\" refers to these Boston legumes",
+          "answer": "baked beans",
+          "isDailyDouble": false,
+          "orderNumber": 4,
+          "correctContestants": [
+            "Marvin"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Paul",
+              "score": 0
+            },
+            {
+              "player": "Marvin",
+              "score": 400
+            },
+            {
+              "player": "Jared",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "category": "LUNCH COUNTER LINGO",
+          "value": 300,
+          "clue": "In the early days, a glass of this was \"Adam's ale\" or \"Potomac phosphate\"",
+          "answer": "water",
+          "isDailyDouble": false,
+          "orderNumber": 5,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Paul",
+            "Jared"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Paul",
+              "score": -300
+            },
+            {
+              "player": "Marvin",
+              "score": 400
+            },
+            {
+              "player": "Jared",
+              "score": -200
+            }
+          ]
+        },
+        {
+          "category": "LUNCH COUNTER LINGO",
+          "value": 400,
+          "clue": "Number that Mel might have called out to say \"We're all out of it\"",
+          "answer": "86",
+          "isDailyDouble": false,
+          "orderNumber": 6,
+          "correctContestants": [
+            "Paul"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Paul",
+              "score": 100
+            },
+            {
+              "player": "Marvin",
+              "score": 400
+            },
+            {
+              "player": "Jared",
+              "score": -200
+            }
+          ]
+        },
+        {
+          "category": "PROVERBS OF DEATH",
+          "value": 200,
+          "clue": "\"Old habits die\" this way",
+          "answer": "hard",
+          "isDailyDouble": false,
+          "orderNumber": 7,
+          "correctContestants": [
+            "Paul"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Paul",
+              "score": 300
+            },
+            {
+              "player": "Marvin",
+              "score": 400
+            },
+            {
+              "player": "Jared",
+              "score": -200
+            }
+          ]
+        },
+        {
+          "category": "PROVERBS OF DEATH",
+          "value": 300,
+          "clue": "\"There are more ways to\" do this \"than choking it with cream\"",
+          "answer": "kill a cat",
+          "isDailyDouble": false,
+          "orderNumber": 8,
+          "correctContestants": [
+            "Marvin"
+          ],
+          "incorrectContestants": [
+            "Paul"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Paul",
+              "score": 0
+            },
+            {
+              "player": "Marvin",
+              "score": 700
+            },
+            {
+              "player": "Jared",
+              "score": -200
+            }
+          ]
+        },
+        {
+          "category": "POST OFFICE",
+          "value": 100,
+          "clue": "Any issued in the U.S. since 1860 are valid to use on letters",
+          "answer": "postage stamps",
+          "isDailyDouble": false,
+          "orderNumber": 9,
+          "correctContestants": [
+            "Marvin"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Paul",
+              "score": 0
+            },
+            {
+              "player": "Marvin",
+              "score": 800
+            },
+            {
+              "player": "Jared",
+              "score": -200
+            }
+          ]
+        },
+        {
+          "category": "POST OFFICE",
+          "value": 200,
+          "clue": "Its 1st digit identifies geographical area, & the 4th & 5th identify the post office",
+          "answer": "the zip code",
+          "isDailyDouble": false,
+          "orderNumber": 10,
+          "correctContestants": [
+            "Jared"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Paul",
+              "score": 0
+            },
+            {
+              "player": "Marvin",
+              "score": 800
+            },
+            {
+              "player": "Jared",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "POST OFFICE",
+          "value": 300,
+          "clue": "Of AK, AL, or AS, the approved postal abbreviation for Alaska",
+          "answer": "AK",
+          "isDailyDouble": false,
+          "orderNumber": 11,
+          "correctContestants": [
+            "Jared"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Paul",
+              "score": 0
+            },
+            {
+              "player": "Marvin",
+              "score": 800
+            },
+            {
+              "player": "Jared",
+              "score": 300
+            }
+          ]
+        },
+        {
+          "category": "POST OFFICE",
+          "value": 400,
+          "clue": "4th class mail, including merchandise, printed matter, & mailable live animals, is better known as this",
+          "answer": "parcel post",
+          "isDailyDouble": false,
+          "orderNumber": 12,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Jared"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Paul",
+              "score": 0
+            },
+            {
+              "player": "Marvin",
+              "score": 800
+            },
+            {
+              "player": "Jared",
+              "score": -100
+            }
+          ]
+        },
+        {
+          "category": "MONEY",
+          "value": 200,
+          "clue": "U.S. dollar bills are 25% linen & 75% this fiber",
+          "answer": "cotton",
+          "isDailyDouble": false,
+          "orderNumber": 13,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Paul",
+              "score": 0
+            },
+            {
+              "player": "Marvin",
+              "score": 800
+            },
+            {
+              "player": "Jared",
+              "score": -100
+            }
+          ]
+        },
+        {
+          "category": "MONEY",
+          "value": 300,
+          "clue": "In 1986, Shelly Long & Tom Hanks found themselves caught in this",
+          "answer": "The Money Pit",
+          "isDailyDouble": false,
+          "orderNumber": 14,
+          "correctContestants": [
+            "Jared"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Paul",
+              "score": 0
+            },
+            {
+              "player": "Marvin",
+              "score": 800
+            },
+            {
+              "player": "Jared",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "MONEY",
+          "value": 400,
+          "clue": "On the Kennedy half, it wears a shield; on the Susan B. Anthony dollar, it's landing on Moon",
+          "answer": "the eagle",
+          "isDailyDouble": false,
+          "orderNumber": 15,
+          "correctContestants": [
+            "Jared"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Paul",
+              "score": 0
+            },
+            {
+              "player": "Marvin",
+              "score": 800
+            },
+            {
+              "player": "Jared",
+              "score": 600
+            }
+          ]
+        },
+        {
+          "category": "MONEY",
+          "value": 500,
+          "clue": "In 1909 he became the first U.S. president ever to appear on a coin",
+          "answer": "Lincoln",
+          "isDailyDouble": false,
+          "orderNumber": 16,
+          "correctContestants": [
+            "Paul"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Paul",
+              "score": 500
+            },
+            {
+              "player": "Marvin",
+              "score": 800
+            },
+            {
+              "player": "Jared",
+              "score": 600
+            }
+          ]
+        },
+        {
+          "category": "DANCE",
+          "value": 100,
+          "clue": "Goddess Pele made the earth shake, but some say her sister made Hawaiians shake by giving them this dance",
+          "answer": "the hula",
+          "isDailyDouble": false,
+          "orderNumber": 17,
+          "correctContestants": [
+            "Paul"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Paul",
+              "score": 600
+            },
+            {
+              "player": "Marvin",
+              "score": 800
+            },
+            {
+              "player": "Jared",
+              "score": 600
+            }
+          ]
+        },
+        {
+          "category": "DANCE",
+          "value": 200,
+          "clue": "Meaning \"big\" or \"grand\" in Russian, it's the name of Moscow's big grand ballet company",
+          "answer": "the Bolshoi",
+          "isDailyDouble": false,
+          "orderNumber": 18,
+          "correctContestants": [
+            "Paul"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Paul",
+              "score": 800
+            },
+            {
+              "player": "Marvin",
+              "score": 800
+            },
+            {
+              "player": "Jared",
+              "score": 600
+            }
+          ]
+        },
+        {
+          "category": "DANCE",
+          "value": 800,
+          "clue": "Twyla Tharp \"car\"eographed a ballet to this Beach Boys hit:",
+          "answer": "\"Little Deuce Coupe\"",
+          "isDailyDouble": true,
+          "orderNumber": 19,
+          "correctContestants": [
+            "Paul"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Paul",
+              "score": 1600
+            },
+            {
+              "player": "Marvin",
+              "score": 800
+            },
+            {
+              "player": "Jared",
+              "score": 600
+            }
+          ]
+        },
+        {
+          "category": "DANCE",
+          "value": 400,
+          "clue": "Gwen Verdon kicked her way to fame doing this in the 1953 musical of the same name",
+          "answer": "Can-Can",
+          "isDailyDouble": false,
+          "orderNumber": 20,
+          "correctContestants": [
+            "Paul"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Paul",
+              "score": 2000
+            },
+            {
+              "player": "Marvin",
+              "score": 800
+            },
+            {
+              "player": "Jared",
+              "score": 600
+            }
+          ]
+        },
+        {
+          "category": "DANCE",
+          "value": 500,
+          "clue": "Scientifically, this party dance could be called \"The Infant Oryctolagus Bipedal Spring\"",
+          "answer": "the Bunny Hop",
+          "isDailyDouble": false,
+          "orderNumber": 21,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Paul",
+              "score": 2000
+            },
+            {
+              "player": "Marvin",
+              "score": 800
+            },
+            {
+              "player": "Jared",
+              "score": 600
+            }
+          ]
+        },
+        {
+          "category": "PROVERBS OF DEATH",
+          "value": 400,
+          "clue": "Proverb from Matthew 8:22 implying that the living have better things to do",
+          "answer": "Let the dead bury the dead.",
+          "isDailyDouble": false,
+          "orderNumber": 22,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Paul",
+              "score": 2000
+            },
+            {
+              "player": "Marvin",
+              "score": 800
+            },
+            {
+              "player": "Jared",
+              "score": 600
+            }
+          ]
+        },
+        {
+          "category": "PROVERBS OF DEATH",
+          "value": 500,
+          "clue": "A soldier might say \"Every\" one of these \"has its billet\"",
+          "answer": "a bullet",
+          "isDailyDouble": false,
+          "orderNumber": 23,
+          "correctContestants": [
+            "Paul"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Paul",
+              "score": 2500
+            },
+            {
+              "player": "Marvin",
+              "score": 800
+            },
+            {
+              "player": "Jared",
+              "score": 600
+            }
+          ]
+        },
+        {
+          "category": "NAME CHANGES",
+          "value": 100,
+          "clue": "Ehrich Weiss escaped the shackles of his name by changing it to this",
+          "answer": "Houdini",
+          "isDailyDouble": false,
+          "orderNumber": 24,
+          "correctContestants": [
+            "Jared"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Paul",
+              "score": 2500
+            },
+            {
+              "player": "Marvin",
+              "score": 800
+            },
+            {
+              "player": "Jared",
+              "score": 700
+            }
+          ]
+        },
+        {
+          "category": "NAME CHANGES",
+          "value": 200,
+          "clue": "Dr. Bunting's Sunburn Remedy was renamed this when a customer said it \"knocked my eczema\"",
+          "answer": "Noxzema",
+          "isDailyDouble": false,
+          "orderNumber": 25,
+          "correctContestants": [
+            "Marvin"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Paul",
+              "score": 2500
+            },
+            {
+              "player": "Marvin",
+              "score": 1000
+            },
+            {
+              "player": "Jared",
+              "score": 700
+            }
+          ]
+        },
+        {
+          "category": "POST OFFICE",
+          "value": 500,
+          "clue": "Black envelopes are nonmailable since this wouldn't be legible",
+          "answer": "the postmark",
+          "isDailyDouble": false,
+          "orderNumber": 26,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Paul",
+            "Marvin"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Paul",
+              "score": 2000
+            },
+            {
+              "player": "Marvin",
+              "score": 500
+            },
+            {
+              "player": "Jared",
+              "score": 700
+            }
+          ]
+        },
+        {
+          "category": "LUNCH COUNTER LINGO",
+          "value": 500,
+          "clue": "\"Bossy in a bowl\"",
+          "answer": "beef stew",
+          "isDailyDouble": false,
+          "orderNumber": 27,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Jared"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Paul",
+              "score": 2000
+            },
+            {
+              "player": "Marvin",
+              "score": 500
+            },
+            {
+              "player": "Jared",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "NAME CHANGES",
+          "value": 300,
+          "clue": "In July 1986, U.S. Steel crossed out the \"Steel\" in their name & replaced it with this letter",
+          "answer": "X",
+          "isDailyDouble": false,
+          "orderNumber": 28,
+          "correctContestants": [
+            "Marvin"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Paul",
+              "score": 2000
+            },
+            {
+              "player": "Marvin",
+              "score": 800
+            },
+            {
+              "player": "Jared",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "NAME CHANGES",
+          "value": 400,
+          "clue": "In 1819, the southern towns New Philadelphia & E. Alabama merged to form this city, later a capital",
+          "answer": "Montgomery",
+          "isDailyDouble": false,
+          "orderNumber": 29,
+          "correctContestants": [
+            "Marvin"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Paul",
+              "score": 2000
+            },
+            {
+              "player": "Marvin",
+              "score": 1200
+            },
+            {
+              "player": "Jared",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "NAME CHANGES",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Paul",
+              "score": 2000
+            },
+            {
+              "player": "Marvin",
+              "score": 1200
+            },
+            {
+              "player": "Jared",
+              "score": 200
+            }
+          ]
+        }
+      ],
+      "firstBreakScores": [
+        {
+          "player": "Paul",
+          "score": 0
+        },
+        {
+          "player": "Marvin",
+          "score": 800
+        },
+        {
+          "player": "Jared",
+          "score": -100
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "Paul",
+          "score": 2000
+        },
+        {
+          "player": "Marvin",
+          "score": 1200
+        },
+        {
+          "player": "Jared",
+          "score": 200
+        }
+      ]
+    },
+    "doubleJeopardy": {
+      "categories": [
+        "SHAKESPEAREAN 1ST LINES",
+        "ENGINEERING",
+        "AMERICAN RELIGION",
+        "GAMES",
+        "BATTLES",
+        "TOUGH MOVIE TRIVIA"
+      ],
+      "clues": [
+        {
+          "category": "BATTLES",
+          "value": 200,
+          "clue": "It's said Chancellorsville was the unnamed battle in this Stephen Crane Civil War novel",
+          "answer": "Red Badge of Courage",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Paul",
+              "score": 2200
+            },
+            {
+              "player": "Marvin",
+              "score": 1200
+            },
+            {
+              "player": "Jared",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "SHAKESPEAREAN 1ST LINES",
+          "value": 200,
+          "clue": "\"2 households both alike in dignity,In fair Verona where we lay our scene...\"",
+          "answer": "the first line of Romeo and Juliet",
+          "isDailyDouble": false,
+          "orderNumber": 2,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Paul",
+              "score": 2400
+            },
+            {
+              "player": "Marvin",
+              "score": 1200
+            },
+            {
+              "player": "Jared",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "SHAKESPEAREAN 1ST LINES",
+          "value": 400,
+          "clue": "\"Now is the winter of our discontent made glorious summer by this sun of York...\"",
+          "answer": "Richard III",
+          "isDailyDouble": false,
+          "orderNumber": 3,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Paul",
+              "score": 2400
+            },
+            {
+              "player": "Marvin",
+              "score": 1600
+            },
+            {
+              "player": "Jared",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "BATTLES",
+          "value": 400,
+          "clue": "After the Gauls besieged this city in 390 B.C., they were bought off so they'd go home",
+          "answer": "Rome",
+          "isDailyDouble": false,
+          "orderNumber": 4,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Paul",
+              "score": 2400
+            },
+            {
+              "player": "Marvin",
+              "score": 2000
+            },
+            {
+              "player": "Jared",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "BATTLES",
+          "value": 600,
+          "clue": "During the battle for Okinawa, the leader of U.S. forces was killed & the enemy commandant committed this",
+          "answer": "hara-kiri",
+          "isDailyDouble": false,
+          "orderNumber": 5,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Paul",
+              "score": 2400
+            },
+            {
+              "player": "Marvin",
+              "score": 2600
+            },
+            {
+              "player": "Jared",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "BATTLES",
+          "value": 800,
+          "clue": "This 1805 event discouraged a Napoleonic invasion & set British naval supremacy for over 100 years",
+          "answer": "the Battle of Trafalgar",
+          "isDailyDouble": false,
+          "orderNumber": 6,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Paul",
+              "score": 3200
+            },
+            {
+              "player": "Marvin",
+              "score": 2600
+            },
+            {
+              "player": "Jared",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "SHAKESPEAREAN 1ST LINES",
+          "value": 600,
+          "clue": "\"Who's there?\"\"Nay, answer me.Stand & unfold yourself.\"",
+          "answer": "Hamlet",
+          "isDailyDouble": false,
+          "orderNumber": 7,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Paul",
+              "score": 3200
+            },
+            {
+              "player": "Marvin",
+              "score": 3200
+            },
+            {
+              "player": "Jared",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "BATTLES",
+          "value": 1000,
+          "clue": "\"Intoxicating\" name of 1777 battle where Gen. Howe defeated Washington",
+          "answer": "Brandywine",
+          "isDailyDouble": false,
+          "orderNumber": 8,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Paul",
+              "score": 3200
+            },
+            {
+              "player": "Marvin",
+              "score": 4200
+            },
+            {
+              "player": "Jared",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "GAMES",
+          "value": 200,
+          "clue": "Before starting out in this game, \"It\" usually shouts \"Ready or not, here I come\"",
+          "answer": "hide and seek",
+          "isDailyDouble": false,
+          "orderNumber": 9,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Paul",
+              "score": 3400
+            },
+            {
+              "player": "Marvin",
+              "score": 4000
+            },
+            {
+              "player": "Jared",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "SHAKESPEAREAN 1ST LINES",
+          "value": 800,
+          "clue": "\"If music be the food of love, play on...\"",
+          "answer": "Twelfth Night",
+          "isDailyDouble": false,
+          "orderNumber": 10,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Paul",
+              "score": 4200
+            },
+            {
+              "player": "Marvin",
+              "score": 4000
+            },
+            {
+              "player": "Jared",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "SHAKESPEAREAN 1ST LINES",
+          "value": 1000,
+          "clue": "\"Now fair Hippolyta, our nuptial hour draws on apace...\"",
+          "answer": "A Midsummer Night's Dream",
+          "isDailyDouble": false,
+          "orderNumber": 11,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Paul",
+              "score": 4200
+            },
+            {
+              "player": "Marvin",
+              "score": 5000
+            },
+            {
+              "player": "Jared",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "TOUGH MOVIE TRIVIA",
+          "value": 200,
+          "clue": "Of \"Merrie Melodies\", \"Silly Symphonies\", & \"Looney Tunes\", the ones that didn't come from Warner Bros.",
+          "answer": "Silly Symphonies",
+          "isDailyDouble": false,
+          "orderNumber": 12,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Paul",
+              "score": 4400
+            },
+            {
+              "player": "Marvin",
+              "score": 5000
+            },
+            {
+              "player": "Jared",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "TOUGH MOVIE TRIVIA",
+          "value": 400,
+          "clue": "Director of films \"The Outlaw\" & \"Hell's Angels\", he dies in 1976 leaving estimated $1.5 billion estate",
+          "answer": "Howard Hughes",
+          "isDailyDouble": false,
+          "orderNumber": 13,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Paul",
+              "score": 4400
+            },
+            {
+              "player": "Marvin",
+              "score": 5000
+            },
+            {
+              "player": "Jared",
+              "score": 600
+            }
+          ]
+        },
+        {
+          "category": "TOUGH MOVIE TRIVIA",
+          "value": 600,
+          "clue": "Composer Bernard Hermann used an all-string orchestra for \"black & white music\" for this '60 Hitchcock film",
+          "answer": "Psycho",
+          "isDailyDouble": false,
+          "orderNumber": 14,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Paul",
+              "score": 5000
+            },
+            {
+              "player": "Marvin",
+              "score": 5000
+            },
+            {
+              "player": "Jared",
+              "score": 600
+            }
+          ]
+        },
+        {
+          "category": "TOUGH MOVIE TRIVIA",
+          "value": 800,
+          "clue": "In 1969's \"Once Upon a Time in the West\", this likeable actor guns down an 8-yr-old freckle-faced boy",
+          "answer": "Henry Fonda",
+          "isDailyDouble": false,
+          "orderNumber": 15,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Paul",
+              "score": 5000
+            },
+            {
+              "player": "Marvin",
+              "score": 5800
+            },
+            {
+              "player": "Jared",
+              "score": 600
+            }
+          ]
+        },
+        {
+          "category": "GAMES",
+          "value": 400,
+          "clue": "Popular parlor game also known as \"Animal, Vegetable, or Mineral?\"",
+          "answer": "20 questions",
+          "isDailyDouble": false,
+          "orderNumber": 16,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Paul",
+              "score": 5400
+            },
+            {
+              "player": "Marvin",
+              "score": 5800
+            },
+            {
+              "player": "Jared",
+              "score": 600
+            }
+          ]
+        },
+        {
+          "category": "TOUGH MOVIE TRIVIA",
+          "value": 1000,
+          "clue": "Dr. Venkman, Dr. Spengler, Dr. Stantz, & Winston Zeddmore",
+          "answer": "Ghostbusters",
+          "isDailyDouble": false,
+          "orderNumber": 17,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Paul",
+              "score": 5400
+            },
+            {
+              "player": "Marvin",
+              "score": 6800
+            },
+            {
+              "player": "Jared",
+              "score": 600
+            }
+          ]
+        },
+        {
+          "category": "GAMES",
+          "value": 600,
+          "clue": "Dollar poker, which uses serial numbers, is often called this; yeah, that's it!",
+          "answer": "liar",
+          "isDailyDouble": false,
+          "orderNumber": 18,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Paul",
+              "score": 6000
+            },
+            {
+              "player": "Marvin",
+              "score": 6800
+            },
+            {
+              "player": "Jared",
+              "score": 600
+            }
+          ]
+        },
+        {
+          "category": "GAMES",
+          "value": 800,
+          "clue": "Variation of croquet whose name is derived by dropping 2 letters from croquet",
+          "answer": "roque",
+          "isDailyDouble": true,
+          "orderNumber": 19,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Paul",
+              "score": 5200
+            },
+            {
+              "player": "Marvin",
+              "score": 6800
+            },
+            {
+              "player": "Jared",
+              "score": 600
+            }
+          ]
+        },
+        {
+          "category": "GAMES",
+          "value": 1000,
+          "clue": "About 1940, a U.S. gambling craze involved use of one type of this children's toy",
+          "answer": "a top",
+          "isDailyDouble": false,
+          "orderNumber": 20,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Paul",
+              "score": 5200
+            },
+            {
+              "player": "Marvin",
+              "score": 6800
+            },
+            {
+              "player": "Jared",
+              "score": 600
+            }
+          ]
+        },
+        {
+          "category": "ENGINEERING",
+          "value": 200,
+          "clue": "1st town attacked by the Israelites under Joshua, its 1st walls were built about 8000 B.C.",
+          "answer": "Jericho",
+          "isDailyDouble": false,
+          "orderNumber": 21,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Paul",
+              "score": 5400
+            },
+            {
+              "player": "Marvin",
+              "score": 6800
+            },
+            {
+              "player": "Jared",
+              "score": 600
+            }
+          ]
+        },
+        {
+          "category": "ENGINEERING",
+          "value": 400,
+          "clue": "This twin-tube tunnel under the Hudson was named for its designer, who died during its construction",
+          "answer": "(Clifford) Holland",
+          "isDailyDouble": false,
+          "orderNumber": 22,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Paul",
+              "score": 5800
+            },
+            {
+              "player": "Marvin",
+              "score": 6800
+            },
+            {
+              "player": "Jared",
+              "score": 600
+            }
+          ]
+        },
+        {
+          "category": "ENGINEERING",
+          "value": 400,
+          "clue": "The Buffalo Bayou was widened & deepened to open this inland Texas town to shipping",
+          "answer": "Houston",
+          "isDailyDouble": true,
+          "orderNumber": 23,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Paul",
+              "score": 6200
+            },
+            {
+              "player": "Marvin",
+              "score": 6800
+            },
+            {
+              "player": "Jared",
+              "score": 600
+            }
+          ]
+        },
+        {
+          "category": "ENGINEERING",
+          "value": 800,
+          "clue": "Major branch of engineering concerned with design of public bridges, roads, & canals",
+          "answer": "civil engineering",
+          "isDailyDouble": false,
+          "orderNumber": 24,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Paul",
+              "score": 6200
+            },
+            {
+              "player": "Marvin",
+              "score": 6800
+            },
+            {
+              "player": "Jared",
+              "score": 1400
+            }
+          ]
+        },
+        {
+          "category": "ENGINEERING",
+          "value": 1000,
+          "clue": "Costing about $1 billion & stretching from St. Johns to Victoria, it opened in 1962",
+          "answer": "the Trans-Canada Highway",
+          "isDailyDouble": false,
+          "orderNumber": 25,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Paul",
+              "score": 5200
+            },
+            {
+              "player": "Marvin",
+              "score": 6800
+            },
+            {
+              "player": "Jared",
+              "score": 1400
+            }
+          ]
+        },
+        {
+          "category": "AMERICAN RELIGION",
+          "value": 200,
+          "clue": "Nonbelievers in the Trinity, this group's name reflects their traditional belief in God as a Unity",
+          "answer": "Unitarians",
+          "isDailyDouble": false,
+          "orderNumber": 26,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Paul",
+              "score": 5200
+            },
+            {
+              "player": "Marvin",
+              "score": 7000
+            },
+            {
+              "player": "Jared",
+              "score": 1400
+            }
+          ]
+        },
+        {
+          "category": "AMERICAN RELIGION",
+          "value": 400,
+          "clue": "Their name comes from Greek for \"to immerse\", a rite they usually reserve for adults affirming faith in Jesus",
+          "answer": "Baptists",
+          "isDailyDouble": false,
+          "orderNumber": 27,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Paul",
+              "score": 5200
+            },
+            {
+              "player": "Marvin",
+              "score": 7000
+            },
+            {
+              "player": "Jared",
+              "score": 1800
+            }
+          ]
+        },
+        {
+          "category": "AMERICAN RELIGION",
+          "value": 1000,
+          "clue": "Their belief in the \"inner light\" states there is \"that of God in everyone\"",
+          "answer": "the Quakers",
+          "isDailyDouble": false,
+          "orderNumber": 28,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Paul",
+              "score": 5200
+            },
+            {
+              "player": "Marvin",
+              "score": 7000
+            },
+            {
+              "player": "Jared",
+              "score": 1800
+            }
+          ]
+        },
+        {
+          "category": "AMERICAN RELIGION",
+          "value": 800,
+          "clue": "Not until 1978 were blacks admitted to the priesthood in this religion",
+          "answer": "Mormons",
+          "isDailyDouble": false,
+          "orderNumber": 29,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Paul",
+              "score": 5200
+            },
+            {
+              "player": "Marvin",
+              "score": 7800
+            },
+            {
+              "player": "Jared",
+              "score": 1800
+            }
+          ]
+        },
+        {
+          "category": "AMERICAN RELIGION",
+          "value": 600,
+          "clue": "Of 40, 60 or 80%, the approximate # of Americans who belong to organized religions",
+          "answer": "60",
+          "isDailyDouble": false,
+          "orderNumber": 30,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Paul",
+              "score": 5800
+            },
+            {
+              "player": "Marvin",
+              "score": 7800
+            },
+            {
+              "player": "Jared",
+              "score": 1200
+            }
+          ]
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "Paul",
+          "score": 5800
+        },
+        {
+          "player": "Marvin",
+          "score": 7800
+        },
+        {
+          "player": "Jared",
+          "score": 1200
+        }
+      ]
+    },
+    "finalJeopardy": {
+      "category": "BEST SELLERS",
+      "clue": "In 1985, autobiographies of these 2 men topped hardcover best seller lists",
+      "answer": "Chuck Yeager & Lee Iacocca",
+      "responses": [
+        {
+          "contestant": "Jared",
+          "response": "Who are Iaccoca & Yeager?",
+          "isCorrect": true,
+          "isIncorrect": false,
+          "value": 1200,
+          "finalScore": 2400
+        },
+        {
+          "contestant": "Paul",
+          "response": "Who are Yeager & Iacocca?",
+          "isCorrect": true,
+          "isIncorrect": false,
+          "value": 2001,
+          "finalScore": 7801
+        },
+        {
+          "contestant": "Marvin",
+          "response": "Who are Iococa & Johnson",
+          "isCorrect": false,
+          "isIncorrect": true,
+          "value": 0,
+          "finalScore": 7800
+        }
+      ]
+    }
+  },
+  "finalScores": [
+    {
+      "player": "Paul",
+      "score": "$7,801"
+    },
+    {
+      "player": "Marvin",
+      "score": "$7,800"
+    },
+    {
+      "player": "Jared",
+      "score": "$2,400"
+    }
+  ],
+  "coryatScores": [
+    {
+      "player": "Paul",
+      "score": 6300
+    },
+    {
+      "player": "Marvin",
+      "score": 7800
+    },
+    {
+      "player": "Jared",
+      "score": 1200
+    }
+  ]
+}

@@ -1,0 +1,1695 @@
+{
+  "gameId": 3478,
+  "showNumber": "5996",
+  "title": "Show #5996 - Monday, October 11, 2010",
+  "date": "2010-10-11",
+  "comments": "",
+  "contestants": [
+    "Mike",
+    "Dylan",
+    "Carol"
+  ],
+  "rounds": {
+    "jeopardy": {
+      "categories": [
+        "STATES' FORMER CAPITALS",
+        "NBA HALL OF FAMERS",
+        "SECRET MENUS",
+        "DIED ON THE SAME DAY",
+        "LET'S CALL TRIPLE \"A\"",
+        "STRING THEORY 101"
+      ],
+      "clues": [
+        {
+          "category": "NBA HALL OF FAMERS",
+          "value": 200,
+          "clue": "He won an NBA title ring in 1973 as a reserve forward with the Knicks & coached the Bulls to 6 titles in the '90s",
+          "answer": "Phil Jackson",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [
+            "Dylan"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mike",
+              "score": 0
+            },
+            {
+              "player": "Dylan",
+              "score": 200
+            },
+            {
+              "player": "Carol",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "NBA HALL OF FAMERS",
+          "value": 400,
+          "clue": "In 2000 this former Celtics player coached the Indiana Pacers to the NBA Finals",
+          "answer": "Larry Bird",
+          "isDailyDouble": false,
+          "orderNumber": 2,
+          "correctContestants": [
+            "Mike"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mike",
+              "score": 400
+            },
+            {
+              "player": "Dylan",
+              "score": 200
+            },
+            {
+              "player": "Carol",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "NBA HALL OF FAMERS",
+          "value": 600,
+          "clue": "Abe Saperstein is in the Hall of Fame, as is this team he promoted & coached for decades",
+          "answer": "The Harlem Globetrotters",
+          "isDailyDouble": false,
+          "orderNumber": 3,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Mike",
+              "score": 400
+            },
+            {
+              "player": "Dylan",
+              "score": 200
+            },
+            {
+              "player": "Carol",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "NBA HALL OF FAMERS",
+          "value": 800,
+          "clue": "As a rookie in the 1980 NBA finals, this Michigan State alum played all 5 positions & scored 42 points in the final game",
+          "answer": "Magic Johnson",
+          "isDailyDouble": false,
+          "orderNumber": 4,
+          "correctContestants": [
+            "Carol"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mike",
+              "score": 400
+            },
+            {
+              "player": "Dylan",
+              "score": 200
+            },
+            {
+              "player": "Carol",
+              "score": 800
+            }
+          ]
+        },
+        {
+          "category": "LET'S CALL TRIPLE \"A\"",
+          "value": 200,
+          "clue": "From the Italian for \"bad air\", this disease kills more than one million people each year",
+          "answer": "malaria",
+          "isDailyDouble": false,
+          "orderNumber": 5,
+          "correctContestants": [
+            "Carol"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mike",
+              "score": 400
+            },
+            {
+              "player": "Dylan",
+              "score": 200
+            },
+            {
+              "player": "Carol",
+              "score": 1000
+            }
+          ]
+        },
+        {
+          "category": "LET'S CALL TRIPLE \"A\"",
+          "value": 400,
+          "clue": "In 1775 this island in San Francisco Bay was called \"Island of the Pelicans\"",
+          "answer": "Alcatraz",
+          "isDailyDouble": false,
+          "orderNumber": 6,
+          "correctContestants": [
+            "Carol"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mike",
+              "score": 400
+            },
+            {
+              "player": "Dylan",
+              "score": 200
+            },
+            {
+              "player": "Carol",
+              "score": 1400
+            }
+          ]
+        },
+        {
+          "category": "LET'S CALL TRIPLE \"A\"",
+          "value": 600,
+          "clue": "God requires adult Muslims to fast during this month so they may cultivate piety",
+          "answer": "Ramadan",
+          "isDailyDouble": false,
+          "orderNumber": 7,
+          "correctContestants": [
+            "Mike"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mike",
+              "score": 1000
+            },
+            {
+              "player": "Dylan",
+              "score": 200
+            },
+            {
+              "player": "Carol",
+              "score": 1400
+            }
+          ]
+        },
+        {
+          "category": "LET'S CALL TRIPLE \"A\"",
+          "value": 800,
+          "clue": "The university environment",
+          "answer": "academia",
+          "isDailyDouble": true,
+          "orderNumber": 8,
+          "correctContestants": [
+            "Mike"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mike",
+              "score": 1800
+            },
+            {
+              "player": "Dylan",
+              "score": 200
+            },
+            {
+              "player": "Carol",
+              "score": 1400
+            }
+          ]
+        },
+        {
+          "category": "LET'S CALL TRIPLE \"A\"",
+          "value": 1000,
+          "clue": "San Diego County is estimated to have a million acres of this Spanish-named dense shrub growth",
+          "answer": "chaparral",
+          "isDailyDouble": false,
+          "orderNumber": 9,
+          "correctContestants": [
+            "Mike"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mike",
+              "score": 2800
+            },
+            {
+              "player": "Dylan",
+              "score": 200
+            },
+            {
+              "player": "Carol",
+              "score": 1400
+            }
+          ]
+        },
+        {
+          "category": "NBA HALL OF FAMERS",
+          "value": 1000,
+          "clue": "This Nigeria-born Rockets player holds the NBA record for career blocked shots with 3,830",
+          "answer": "Hakeem Olajuwon",
+          "isDailyDouble": false,
+          "orderNumber": 10,
+          "correctContestants": [
+            "Dylan"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mike",
+              "score": 2800
+            },
+            {
+              "player": "Dylan",
+              "score": 1200
+            },
+            {
+              "player": "Carol",
+              "score": 1400
+            }
+          ]
+        },
+        {
+          "category": "SECRET MENUS",
+          "value": 200,
+          "clue": "A move to healthy eating got the Pizza Sub nixed from this chain, but we hear if you ask nicely some stores will make it",
+          "answer": "Subway",
+          "isDailyDouble": false,
+          "orderNumber": 11,
+          "correctContestants": [
+            "Mike"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mike",
+              "score": 3000
+            },
+            {
+              "player": "Dylan",
+              "score": 1200
+            },
+            {
+              "player": "Carol",
+              "score": 1400
+            }
+          ]
+        },
+        {
+          "category": "SECRET MENUS",
+          "value": 400,
+          "clue": "Wendy's will make you a grand slam burger with this many patties, but don't tell everyone",
+          "answer": "four",
+          "isDailyDouble": false,
+          "orderNumber": 12,
+          "correctContestants": [
+            "Carol"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mike",
+              "score": 3000
+            },
+            {
+              "player": "Dylan",
+              "score": 1200
+            },
+            {
+              "player": "Carol",
+              "score": 1800
+            }
+          ]
+        },
+        {
+          "category": "SECRET MENUS",
+          "value": 600,
+          "clue": "Have it your way at this chain & order a Mustard Whopper, which substitutes the yellow stuff for mayo",
+          "answer": "Burger King",
+          "isDailyDouble": false,
+          "orderNumber": 13,
+          "correctContestants": [
+            "Mike"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mike",
+              "score": 3600
+            },
+            {
+              "player": "Dylan",
+              "score": 1200
+            },
+            {
+              "player": "Carol",
+              "score": 1800
+            }
+          ]
+        },
+        {
+          "category": "SECRET MENUS",
+          "value": 800,
+          "clue": "Fatburger offers a \"Hypocrite Burger\" featuring this type of patty with slabs of bacon",
+          "answer": "veggie patty",
+          "isDailyDouble": false,
+          "orderNumber": 14,
+          "correctContestants": [
+            "Dylan"
+          ],
+          "incorrectContestants": [
+            "Mike"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mike",
+              "score": 2800
+            },
+            {
+              "player": "Dylan",
+              "score": 2000
+            },
+            {
+              "player": "Carol",
+              "score": 1800
+            }
+          ]
+        },
+        {
+          "category": "SECRET MENUS",
+          "value": 1000,
+          "clue": "Ask this chain that's inspired by a fictional pirate for a \"side of crumbs\", & you'll get some fried batter bits",
+          "answer": "Long John Silver's",
+          "isDailyDouble": false,
+          "orderNumber": 15,
+          "correctContestants": [
+            "Dylan"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mike",
+              "score": 2800
+            },
+            {
+              "player": "Dylan",
+              "score": 3000
+            },
+            {
+              "player": "Carol",
+              "score": 1800
+            }
+          ]
+        },
+        {
+          "category": "STRING THEORY 101",
+          "value": 200,
+          "clue": "String puppets are often called these, after a certain virgin",
+          "answer": "marionettes",
+          "isDailyDouble": false,
+          "orderNumber": 16,
+          "correctContestants": [
+            "Dylan"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mike",
+              "score": 2800
+            },
+            {
+              "player": "Dylan",
+              "score": 3200
+            },
+            {
+              "player": "Carol",
+              "score": 1800
+            }
+          ]
+        },
+        {
+          "category": "STRING THEORY 101",
+          "value": 400,
+          "clue": "If you're emotionally dependent on mom, you're \"tied to\" these \"strings\"",
+          "answer": "apron strings",
+          "isDailyDouble": false,
+          "orderNumber": 17,
+          "correctContestants": [
+            "Dylan"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mike",
+              "score": 2800
+            },
+            {
+              "player": "Dylan",
+              "score": 3600
+            },
+            {
+              "player": "Carol",
+              "score": 1800
+            }
+          ]
+        },
+        {
+          "category": "STRING THEORY 101",
+          "value": 600,
+          "clue": "A 1942 big band hit was entitled \"String Of\" these",
+          "answer": "\"String Of Pearls\"",
+          "isDailyDouble": false,
+          "orderNumber": 18,
+          "correctContestants": [
+            "Carol"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mike",
+              "score": 2800
+            },
+            {
+              "player": "Dylan",
+              "score": 3600
+            },
+            {
+              "player": "Carol",
+              "score": 2400
+            }
+          ]
+        },
+        {
+          "category": "STRING THEORY 101",
+          "value": 800,
+          "clue": "In the U.S. string cheese is usually a type of this cheese",
+          "answer": "mozzarella",
+          "isDailyDouble": false,
+          "orderNumber": 19,
+          "correctContestants": [
+            "Dylan"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mike",
+              "score": 2800
+            },
+            {
+              "player": "Dylan",
+              "score": 4400
+            },
+            {
+              "player": "Carol",
+              "score": 2400
+            }
+          ]
+        },
+        {
+          "category": "STRING THEORY 101",
+          "value": 1000,
+          "clue": "Aglets are found on the ends of these strings",
+          "answer": "shoelaces",
+          "isDailyDouble": false,
+          "orderNumber": 20,
+          "correctContestants": [
+            "Carol"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mike",
+              "score": 2800
+            },
+            {
+              "player": "Dylan",
+              "score": 4400
+            },
+            {
+              "player": "Carol",
+              "score": 3400
+            }
+          ]
+        },
+        {
+          "category": "DIED ON THE SAME DAY",
+          "value": 200,
+          "clue": "C.S. Lewis & Aldous Huxley's deaths on Nov. 22, 1963 were overshadowed by this man's death in Dallas",
+          "answer": "John Kennedy",
+          "isDailyDouble": false,
+          "orderNumber": 21,
+          "correctContestants": [
+            "Dylan"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mike",
+              "score": 2800
+            },
+            {
+              "player": "Dylan",
+              "score": 4600
+            },
+            {
+              "player": "Carol",
+              "score": 3400
+            }
+          ]
+        },
+        {
+          "category": "DIED ON THE SAME DAY",
+          "value": 400,
+          "clue": "Just hours before Michael Jackson's death, Hollywood lost this TV \"Angel\"",
+          "answer": "Farrah Fawcett",
+          "isDailyDouble": false,
+          "orderNumber": 22,
+          "correctContestants": [
+            "Mike"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mike",
+              "score": 3200
+            },
+            {
+              "player": "Dylan",
+              "score": 4600
+            },
+            {
+              "player": "Carol",
+              "score": 3400
+            }
+          ]
+        },
+        {
+          "category": "DIED ON THE SAME DAY",
+          "value": 600,
+          "clue": "On April 25, 1995 first \"Jeopardy!\" host Art Fleming passed away & the dance was over for this partner of Fred",
+          "answer": "Ginger Rogers",
+          "isDailyDouble": false,
+          "orderNumber": 23,
+          "correctContestants": [
+            "Dylan"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mike",
+              "score": 3200
+            },
+            {
+              "player": "Dylan",
+              "score": 5200
+            },
+            {
+              "player": "Carol",
+              "score": 3400
+            }
+          ]
+        },
+        {
+          "category": "DIED ON THE SAME DAY",
+          "value": 800,
+          "clue": "This famed aviator outlived his brother by 35 years, passing away in 1948 on the same day Gandhi was assassinated",
+          "answer": "Orville Wright",
+          "isDailyDouble": false,
+          "orderNumber": 24,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Mike",
+              "score": 3200
+            },
+            {
+              "player": "Dylan",
+              "score": 5200
+            },
+            {
+              "player": "Carol",
+              "score": 3400
+            }
+          ]
+        },
+        {
+          "category": "DIED ON THE SAME DAY",
+          "value": 1000,
+          "clue": "Italian filmmaker Michelangelo Antonioni died in 2007 at age 94 on the same day as this 89-year-old Swedish director",
+          "answer": "Ingmar Bergman",
+          "isDailyDouble": false,
+          "orderNumber": 25,
+          "correctContestants": [
+            "Carol"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mike",
+              "score": 3200
+            },
+            {
+              "player": "Dylan",
+              "score": 5200
+            },
+            {
+              "player": "Carol",
+              "score": 4400
+            }
+          ]
+        },
+        {
+          "category": "STATES' FORMER CAPITALS",
+          "value": 200,
+          "clue": "New Haven",
+          "answer": "Connecticut",
+          "isDailyDouble": false,
+          "orderNumber": 26,
+          "correctContestants": [
+            "Mike"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mike",
+              "score": 3400
+            },
+            {
+              "player": "Dylan",
+              "score": 5200
+            },
+            {
+              "player": "Carol",
+              "score": 4400
+            }
+          ]
+        },
+        {
+          "category": "STATES' FORMER CAPITALS",
+          "value": 400,
+          "clue": "Knoxville",
+          "answer": "Tennessee",
+          "isDailyDouble": false,
+          "orderNumber": 27,
+          "correctContestants": [
+            "Dylan"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mike",
+              "score": 3400
+            },
+            {
+              "player": "Dylan",
+              "score": 5600
+            },
+            {
+              "player": "Carol",
+              "score": 4400
+            }
+          ]
+        },
+        {
+          "category": "STATES' FORMER CAPITALS",
+          "value": 600,
+          "clue": "Wheeling",
+          "answer": "West Virginia",
+          "isDailyDouble": false,
+          "orderNumber": 28,
+          "correctContestants": [
+            "Carol"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mike",
+              "score": 3400
+            },
+            {
+              "player": "Dylan",
+              "score": 5600
+            },
+            {
+              "player": "Carol",
+              "score": 5000
+            }
+          ]
+        },
+        {
+          "category": "STATES' FORMER CAPITALS",
+          "value": 800,
+          "clue": "Huntsville",
+          "answer": "Alabama",
+          "isDailyDouble": false,
+          "orderNumber": 29,
+          "correctContestants": [
+            "Dylan"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mike",
+              "score": 3400
+            },
+            {
+              "player": "Dylan",
+              "score": 6400
+            },
+            {
+              "player": "Carol",
+              "score": 5000
+            }
+          ]
+        },
+        {
+          "category": "STATES' FORMER CAPITALS",
+          "value": 1000,
+          "clue": "Guthrie",
+          "answer": "Oklahoma",
+          "isDailyDouble": false,
+          "orderNumber": 30,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Mike",
+              "score": 3400
+            },
+            {
+              "player": "Dylan",
+              "score": 6400
+            },
+            {
+              "player": "Carol",
+              "score": 5000
+            }
+          ]
+        }
+      ],
+      "firstBreakScores": [
+        {
+          "player": "Mike",
+          "score": 2800
+        },
+        {
+          "player": "Dylan",
+          "score": 2000
+        },
+        {
+          "player": "Carol",
+          "score": 1800
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "Mike",
+          "score": 3400
+        },
+        {
+          "player": "Dylan",
+          "score": 6400
+        },
+        {
+          "player": "Carol",
+          "score": 5000
+        }
+      ]
+    },
+    "doubleJeopardy": {
+      "categories": [
+        "LIBRARIES",
+        "THE HOUND OF MUSIC",
+        "PLAY ADJECTIVES",
+        "JERSEY GIRLS",
+        "RUSSIAN",
+        "STRING THEORY 201"
+      ],
+      "clues": [
+        {
+          "category": "JERSEY GIRLS",
+          "value": 400,
+          "clue": "Doing laundry in the sink, this \"Jersey Shore\" girl aka Nicole Polizzi said, \"I feel like a pilgrim from the friggin' '20s\"",
+          "answer": "Snooki",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mike",
+              "score": 3400
+            },
+            {
+              "player": "Dylan",
+              "score": 6800
+            },
+            {
+              "player": "Carol",
+              "score": 5000
+            }
+          ]
+        },
+        {
+          "category": "RUSSIAN",
+          "value": 400,
+          "clue": "A shapka is this: mikhavaya shapka is a fur one, to keep your ears warm",
+          "answer": "a hat",
+          "isDailyDouble": false,
+          "orderNumber": 2,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mike",
+              "score": 3800
+            },
+            {
+              "player": "Dylan",
+              "score": 6800
+            },
+            {
+              "player": "Carol",
+              "score": 5000
+            }
+          ]
+        },
+        {
+          "category": "RUSSIAN",
+          "value": 800,
+          "clue": "\"Idyot snyek\" means this is happening, a common weather condition in January",
+          "answer": "snowing",
+          "isDailyDouble": false,
+          "orderNumber": 3,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mike",
+              "score": 4600
+            },
+            {
+              "player": "Dylan",
+              "score": 6800
+            },
+            {
+              "player": "Carol",
+              "score": 5000
+            }
+          ]
+        },
+        {
+          "category": "RUSSIAN",
+          "value": 1200,
+          "clue": "Blinaya means this, the \"hop\" in IHOP",
+          "answer": "house of pancakes",
+          "isDailyDouble": false,
+          "orderNumber": 4,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mike",
+              "score": 4600
+            },
+            {
+              "player": "Dylan",
+              "score": 8000
+            },
+            {
+              "player": "Carol",
+              "score": 5000
+            }
+          ]
+        },
+        {
+          "category": "RUSSIAN",
+          "value": 1600,
+          "clue": "To get around underground, the letter seen here stands for this word",
+          "answer": "metro",
+          "isDailyDouble": false,
+          "orderNumber": 5,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mike",
+              "score": 4600
+            },
+            {
+              "player": "Dylan",
+              "score": 8000
+            },
+            {
+              "player": "Carol",
+              "score": 6600
+            }
+          ]
+        },
+        {
+          "category": "PLAY ADJECTIVES",
+          "value": 400,
+          "clue": "David Yazbek & Jeffrey Lane's musical \"____ ____ Scoundrels\"",
+          "answer": "Dirty Rotten",
+          "isDailyDouble": false,
+          "orderNumber": 6,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mike",
+              "score": 5000
+            },
+            {
+              "player": "Dylan",
+              "score": 8000
+            },
+            {
+              "player": "Carol",
+              "score": 6600
+            }
+          ]
+        },
+        {
+          "category": "PLAY ADJECTIVES",
+          "value": 800,
+          "clue": "Tennessee Williams' \"____ Bird of Youth\"",
+          "answer": "Sweet Bird of Youth",
+          "isDailyDouble": false,
+          "orderNumber": 7,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mike",
+              "score": 5000
+            },
+            {
+              "player": "Dylan",
+              "score": 8000
+            },
+            {
+              "player": "Carol",
+              "score": 7400
+            }
+          ]
+        },
+        {
+          "category": "PLAY ADJECTIVES",
+          "value": 1200,
+          "clue": "Mark Medoff's \"Children of a ____ God\"",
+          "answer": "Lesser",
+          "isDailyDouble": false,
+          "orderNumber": 8,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mike",
+              "score": 5000
+            },
+            {
+              "player": "Dylan",
+              "score": 9200
+            },
+            {
+              "player": "Carol",
+              "score": 7400
+            }
+          ]
+        },
+        {
+          "category": "RUSSIAN",
+          "value": 2000,
+          "clue": "Russian word for a home like Novo-Ogarevo, Vladimir Putin's forest retreat near Moscow",
+          "answer": "a dacha",
+          "isDailyDouble": false,
+          "orderNumber": 9,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mike",
+              "score": 5000
+            },
+            {
+              "player": "Dylan",
+              "score": 9200
+            },
+            {
+              "player": "Carol",
+              "score": 9400
+            }
+          ]
+        },
+        {
+          "category": "PLAY ADJECTIVES",
+          "value": 1600,
+          "clue": "Noel Coward 's \"____ Spirit\"",
+          "answer": "Blithe Spirit",
+          "isDailyDouble": false,
+          "orderNumber": 10,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mike",
+              "score": 5000
+            },
+            {
+              "player": "Dylan",
+              "score": 9200
+            },
+            {
+              "player": "Carol",
+              "score": 11000
+            }
+          ]
+        },
+        {
+          "category": "PLAY ADJECTIVES",
+          "value": 2000,
+          "clue": "Howard Sackler's \"The  ____ ____ Hope\"",
+          "answer": "The Great White Hope",
+          "isDailyDouble": false,
+          "orderNumber": 11,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mike",
+              "score": 5000
+            },
+            {
+              "player": "Dylan",
+              "score": 9200
+            },
+            {
+              "player": "Carol",
+              "score": 13000
+            }
+          ]
+        },
+        {
+          "category": "THE HOUND OF MUSIC",
+          "value": 400,
+          "clue": "Songwriter Scott English started an urban myth when he jokingly said this 1975 Barry Manilow No. 1 hit was about a dog",
+          "answer": "\"Mandy\"",
+          "isDailyDouble": false,
+          "orderNumber": 12,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mike",
+              "score": 5000
+            },
+            {
+              "player": "Dylan",
+              "score": 8800
+            },
+            {
+              "player": "Carol",
+              "score": 13400
+            }
+          ]
+        },
+        {
+          "category": "THE HOUND OF MUSIC",
+          "value": 800,
+          "clue": "It's the breed of long-eared hound dog a tuxedo-clad Elvis is serenading here",
+          "answer": "basset",
+          "isDailyDouble": false,
+          "orderNumber": 13,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mike",
+              "score": 5800
+            },
+            {
+              "player": "Dylan",
+              "score": 8800
+            },
+            {
+              "player": "Carol",
+              "score": 13400
+            }
+          ]
+        },
+        {
+          "category": "THE HOUND OF MUSIC",
+          "value": 1200,
+          "clue": "Paul Anka & Donny Osmond both had hits with this tune that sounds like it's about a young dog's affection",
+          "answer": "\"Puppy Love\"",
+          "isDailyDouble": false,
+          "orderNumber": 14,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mike",
+              "score": 7000
+            },
+            {
+              "player": "Dylan",
+              "score": 7600
+            },
+            {
+              "player": "Carol",
+              "score": 13400
+            }
+          ]
+        },
+        {
+          "category": "THE HOUND OF MUSIC",
+          "value": 1600,
+          "clue": "Title question posed by Patti Page in a 1953 smash",
+          "answer": "\"How Much Is That Doggie In The Window?\"",
+          "isDailyDouble": false,
+          "orderNumber": 15,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Mike",
+              "score": 7000
+            },
+            {
+              "player": "Dylan",
+              "score": 7600
+            },
+            {
+              "player": "Carol",
+              "score": 13400
+            }
+          ]
+        },
+        {
+          "category": "THE HOUND OF MUSIC",
+          "value": 2000,
+          "clue": "Three word slogan that accompanied the RCA Victor advertisement seen here",
+          "answer": "His Master's Voice",
+          "isDailyDouble": false,
+          "orderNumber": 16,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mike",
+              "score": 7000
+            },
+            {
+              "player": "Dylan",
+              "score": 9600
+            },
+            {
+              "player": "Carol",
+              "score": 13400
+            }
+          ]
+        },
+        {
+          "category": "LIBRARIES",
+          "value": 400,
+          "clue": "In 1889 this philanthropist funded his first U.S. library in Braddock, Penn., home to one of his steel mills",
+          "answer": "Carnegie",
+          "isDailyDouble": false,
+          "orderNumber": 17,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mike",
+              "score": 7400
+            },
+            {
+              "player": "Dylan",
+              "score": 9600
+            },
+            {
+              "player": "Carol",
+              "score": 13400
+            }
+          ]
+        },
+        {
+          "category": "LIBRARIES",
+          "value": 7400,
+          "clue": "Raffaele Farina, known as Bibliothecarius XLVI, is its head librarian",
+          "answer": "the Vatican",
+          "isDailyDouble": true,
+          "orderNumber": 18,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mike",
+              "score": 14800
+            },
+            {
+              "player": "Dylan",
+              "score": 9600
+            },
+            {
+              "player": "Carol",
+              "score": 13400
+            }
+          ]
+        },
+        {
+          "category": "LIBRARIES",
+          "value": 1200,
+          "clue": "This Ivy League school's Nassau Hall once served as its library; today, books are housed in the Firestone library",
+          "answer": "Princeton",
+          "isDailyDouble": false,
+          "orderNumber": 19,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mike",
+              "score": 16000
+            },
+            {
+              "player": "Dylan",
+              "score": 9600
+            },
+            {
+              "player": "Carol",
+              "score": 13400
+            }
+          ]
+        },
+        {
+          "category": "LIBRARIES",
+          "value": 1600,
+          "clue": "This Maryland community is home to the National Library of Medicine & the National Naval Medical Center",
+          "answer": "Bethesda",
+          "isDailyDouble": false,
+          "orderNumber": 20,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mike",
+              "score": 17600
+            },
+            {
+              "player": "Dylan",
+              "score": 8000
+            },
+            {
+              "player": "Carol",
+              "score": 13400
+            }
+          ]
+        },
+        {
+          "category": "LIBRARIES",
+          "value": 2000,
+          "clue": "Among this San Marino, California library's exhibits are a 15th century manuscript of \"The Canterbury Tales\" & a Gutenberg Bible",
+          "answer": "the Huntington Library",
+          "isDailyDouble": false,
+          "orderNumber": 21,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mike",
+              "score": 19600
+            },
+            {
+              "player": "Dylan",
+              "score": 8000
+            },
+            {
+              "player": "Carol",
+              "score": 13400
+            }
+          ]
+        },
+        {
+          "category": "JERSEY GIRLS",
+          "value": 800,
+          "clue": "This Algonquin wit was born in West End, N.J. in 1893 & was a drama critic for Vanity Fair by 1917",
+          "answer": "Dorothy Parker",
+          "isDailyDouble": false,
+          "orderNumber": 22,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mike",
+              "score": 19600
+            },
+            {
+              "player": "Dylan",
+              "score": 8000
+            },
+            {
+              "player": "Carol",
+              "score": 14200
+            }
+          ]
+        },
+        {
+          "category": "STRING THEORY 201",
+          "value": 400,
+          "clue": "String theory attempts to merge quantum mechanics with Einstein's general theory of this",
+          "answer": "relativity",
+          "isDailyDouble": false,
+          "orderNumber": 23,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mike",
+              "score": 20000
+            },
+            {
+              "player": "Dylan",
+              "score": 8000
+            },
+            {
+              "player": "Carol",
+              "score": 14200
+            }
+          ]
+        },
+        {
+          "category": "STRING THEORY 201",
+          "value": 800,
+          "clue": "In certain string theories, you can get up to 26 of these; we're used to dealing with 4 of them, of which length is one",
+          "answer": "dimensions",
+          "isDailyDouble": false,
+          "orderNumber": 24,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mike",
+              "score": 20000
+            },
+            {
+              "player": "Dylan",
+              "score": 8000
+            },
+            {
+              "player": "Carol",
+              "score": 15000
+            }
+          ]
+        },
+        {
+          "category": "STRING THEORY 201",
+          "value": 1200,
+          "clue": "A successful string theory would describe nature's 4 forces: weak, strong, electromagnetism & this one",
+          "answer": "gravity",
+          "isDailyDouble": false,
+          "orderNumber": 25,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mike",
+              "score": 20000
+            },
+            {
+              "player": "Dylan",
+              "score": 9200
+            },
+            {
+              "player": "Carol",
+              "score": 15000
+            }
+          ]
+        },
+        {
+          "category": "STRING THEORY 201",
+          "value": 1600,
+          "clue": "String theory is part of this \"P\" branch of physics that studies eensy little items",
+          "answer": "particle",
+          "isDailyDouble": false,
+          "orderNumber": 26,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mike",
+              "score": 20000
+            },
+            {
+              "player": "Dylan",
+              "score": 10800
+            },
+            {
+              "player": "Carol",
+              "score": 15000
+            }
+          ]
+        },
+        {
+          "category": "STRING THEORY 201",
+          "value": 2000,
+          "clue": "Bosonic string theory has only bosons & none of these particles named for physicist Enrico",
+          "answer": "fermions",
+          "isDailyDouble": false,
+          "orderNumber": 27,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Mike",
+              "score": 20000
+            },
+            {
+              "player": "Dylan",
+              "score": 10800
+            },
+            {
+              "player": "Carol",
+              "score": 13000
+            }
+          ]
+        },
+        {
+          "category": "JERSEY GIRLS",
+          "value": 1200,
+          "clue": "Jersey City-born, this \"Living Omnimedia\" lifestyle maven was raised in Nutley, & that's a good thing",
+          "answer": "Martha Stewart",
+          "isDailyDouble": false,
+          "orderNumber": 28,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mike",
+              "score": 20000
+            },
+            {
+              "player": "Dylan",
+              "score": 12000
+            },
+            {
+              "player": "Carol",
+              "score": 13000
+            }
+          ]
+        },
+        {
+          "category": "JERSEY GIRLS",
+          "value": 1600,
+          "clue": "This \"Fudge\"-tastic children's author was born in Elizabeth, New Jersey",
+          "answer": "Judy Blume",
+          "isDailyDouble": false,
+          "orderNumber": 29,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mike",
+              "score": 20000
+            },
+            {
+              "player": "Dylan",
+              "score": 12000
+            },
+            {
+              "player": "Carol",
+              "score": 14600
+            }
+          ]
+        },
+        {
+          "category": "JERSEY GIRLS",
+          "value": 4000,
+          "clue": "Governor of New Jersey form 1994 to 2001, she appointed the state's first female Attorney General",
+          "answer": "Christine Whitman",
+          "isDailyDouble": true,
+          "orderNumber": 30,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mike",
+              "score": 20000
+            },
+            {
+              "player": "Dylan",
+              "score": 12000
+            },
+            {
+              "player": "Carol",
+              "score": 18600
+            }
+          ]
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "Mike",
+          "score": 20000
+        },
+        {
+          "player": "Dylan",
+          "score": 12000
+        },
+        {
+          "player": "Carol",
+          "score": 18600
+        }
+      ]
+    },
+    "finalJeopardy": {
+      "category": "PRISONS",
+      "clue": "Nazi Rudolf Hess in 1941 & the notorious Kray twins in 1952 were among the last people briefly held here",
+      "answer": "the Tower of London",
+      "responses": [
+        {
+          "contestant": "Dylan",
+          "response": "What is Alcatraz?",
+          "isCorrect": false,
+          "isIncorrect": true,
+          "value": 12000,
+          "finalScore": 0
+        },
+        {
+          "contestant": "Carol",
+          "response": "What is Nuremburg?",
+          "isCorrect": false,
+          "isIncorrect": true,
+          "value": 5401,
+          "finalScore": 13199
+        },
+        {
+          "contestant": "Mike",
+          "response": "What is Alcatraz?",
+          "isCorrect": false,
+          "isIncorrect": true,
+          "value": 17300,
+          "finalScore": 2700
+        }
+      ]
+    }
+  },
+  "finalScores": [
+    {
+      "player": "Mike",
+      "score": "$2,700"
+    },
+    {
+      "player": "Dylan",
+      "score": "$0"
+    },
+    {
+      "player": "Carol",
+      "score": "$13,199"
+    }
+  ],
+  "coryatScores": [
+    {
+      "player": "Mike",
+      "score": 13400
+    },
+    {
+      "player": "Dylan",
+      "score": 12000
+    },
+    {
+      "player": "Carol",
+      "score": 16600
+    }
+  ]
+}

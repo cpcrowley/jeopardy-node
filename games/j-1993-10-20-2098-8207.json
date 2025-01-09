@@ -1,0 +1,1699 @@
+{
+  "gameId": 8207,
+  "showNumber": "2098",
+  "title": "Show #2098 - Wednesday, October 20, 1993",
+  "date": "1993-10-20",
+  "comments": "David Venderbush game 4.",
+  "contestants": [
+    "David",
+    "Pat",
+    "Paul"
+  ],
+  "rounds": {
+    "jeopardy": {
+      "categories": [
+        "STATE CAPITALS",
+        "DECORATIVE ARTS",
+        "FRUITS & VEGETABLES",
+        "CHEMISTRY",
+        "ODDS & ENDS",
+        "AKA"
+      ],
+      "clues": [
+        {
+          "category": "AKA",
+          "value": 200,
+          "clue": "Joan de Havilland",
+          "answer": "Joan Fontaine",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 0
+            },
+            {
+              "player": "Pat",
+              "score": 0
+            },
+            {
+              "player": "Paul",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "STATE CAPITALS",
+          "value": 100,
+          "clue": "This city is the home of Florida State University",
+          "answer": "Tallahassee",
+          "isDailyDouble": false,
+          "orderNumber": 2,
+          "correctContestants": [
+            "Pat"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 0
+            },
+            {
+              "player": "Pat",
+              "score": 100
+            },
+            {
+              "player": "Paul",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "STATE CAPITALS",
+          "value": 200,
+          "clue": "There's a Royal Mausoleum on Nuuanu Avenue in this state capital",
+          "answer": "Honolulu",
+          "isDailyDouble": false,
+          "orderNumber": 3,
+          "correctContestants": [
+            "Pat"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 0
+            },
+            {
+              "player": "Pat",
+              "score": 300
+            },
+            {
+              "player": "Paul",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "STATE CAPITALS",
+          "value": 300,
+          "clue": "The World Book Encyclopedia's article on this city is next to one about baton twirling",
+          "answer": "Baton Rouge",
+          "isDailyDouble": false,
+          "orderNumber": 4,
+          "correctContestants": [
+            "Paul"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 0
+            },
+            {
+              "player": "Pat",
+              "score": 300
+            },
+            {
+              "player": "Paul",
+              "score": 300
+            }
+          ]
+        },
+        {
+          "category": "STATE CAPITALS",
+          "value": 500,
+          "clue": "This Maryland capital boasts more than 80 pre-Revolutionary War buildings",
+          "answer": "Annapolis",
+          "isDailyDouble": true,
+          "orderNumber": 5,
+          "correctContestants": [
+            "Paul"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 0
+            },
+            {
+              "player": "Pat",
+              "score": 300
+            },
+            {
+              "player": "Paul",
+              "score": 800
+            }
+          ]
+        },
+        {
+          "category": "STATE CAPITALS",
+          "value": 500,
+          "clue": "For several years Daniel Boone lived near what is now this West Virginia capital",
+          "answer": "Charleston",
+          "isDailyDouble": false,
+          "orderNumber": 6,
+          "correctContestants": [
+            "David"
+          ],
+          "incorrectContestants": [
+            "Paul"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 500
+            },
+            {
+              "player": "Pat",
+              "score": 300
+            },
+            {
+              "player": "Paul",
+              "score": 300
+            }
+          ]
+        },
+        {
+          "category": "FRUITS & VEGETABLES",
+          "value": 100,
+          "clue": "This is usually the main fruit in an upside-down cake",
+          "answer": "pineapple",
+          "isDailyDouble": false,
+          "orderNumber": 7,
+          "correctContestants": [
+            "David"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 600
+            },
+            {
+              "player": "Pat",
+              "score": 300
+            },
+            {
+              "player": "Paul",
+              "score": 300
+            }
+          ]
+        },
+        {
+          "category": "FRUITS & VEGETABLES",
+          "value": 200,
+          "clue": "The yellow pear variety of this is slightly smaller than the cherry type",
+          "answer": "a tomato",
+          "isDailyDouble": false,
+          "orderNumber": 8,
+          "correctContestants": [
+            "Paul"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 600
+            },
+            {
+              "player": "Pat",
+              "score": 300
+            },
+            {
+              "player": "Paul",
+              "score": 500
+            }
+          ]
+        },
+        {
+          "category": "FRUITS & VEGETABLES",
+          "value": 300,
+          "clue": "Mark Twain called this white vegetable \"cabbage with a college education\"",
+          "answer": "cauliflower",
+          "isDailyDouble": false,
+          "orderNumber": 9,
+          "correctContestants": [
+            "Paul"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 600
+            },
+            {
+              "player": "Pat",
+              "score": 300
+            },
+            {
+              "player": "Paul",
+              "score": 800
+            }
+          ]
+        },
+        {
+          "category": "AKA",
+          "value": 100,
+          "clue": "Cherilyn LaPiere",
+          "answer": "Cher",
+          "isDailyDouble": false,
+          "orderNumber": 10,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 600
+            },
+            {
+              "player": "Pat",
+              "score": 300
+            },
+            {
+              "player": "Paul",
+              "score": 800
+            }
+          ]
+        },
+        {
+          "category": "ODDS & ENDS",
+          "value": 100,
+          "clue": "Founded in 1948, this country requires its men & women to serve in the Armed Forces",
+          "answer": "Israel",
+          "isDailyDouble": false,
+          "orderNumber": 11,
+          "correctContestants": [
+            "Pat"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 600
+            },
+            {
+              "player": "Pat",
+              "score": 400
+            },
+            {
+              "player": "Paul",
+              "score": 800
+            }
+          ]
+        },
+        {
+          "category": "ODDS & ENDS",
+          "value": 200,
+          "clue": "In 1793 this was invented near Savannah, Georgia by Eli Whitney",
+          "answer": "the cotton gin",
+          "isDailyDouble": false,
+          "orderNumber": 12,
+          "correctContestants": [
+            "Pat"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 600
+            },
+            {
+              "player": "Pat",
+              "score": 600
+            },
+            {
+              "player": "Paul",
+              "score": 800
+            }
+          ]
+        },
+        {
+          "category": "ODDS & ENDS",
+          "value": 300,
+          "clue": "The tomb of this man known for his \"Analects\" is a pilgrimage site in Kufow, China",
+          "answer": "Confucius",
+          "isDailyDouble": false,
+          "orderNumber": 13,
+          "correctContestants": [
+            "Paul"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 600
+            },
+            {
+              "player": "Pat",
+              "score": 600
+            },
+            {
+              "player": "Paul",
+              "score": 1100
+            }
+          ]
+        },
+        {
+          "category": "ODDS & ENDS",
+          "value": 400,
+          "clue": "In this Olympic sport, a player may be awarded a free kick",
+          "answer": "soccer",
+          "isDailyDouble": false,
+          "orderNumber": 14,
+          "correctContestants": [
+            "David"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 1000
+            },
+            {
+              "player": "Pat",
+              "score": 600
+            },
+            {
+              "player": "Paul",
+              "score": 1100
+            }
+          ]
+        },
+        {
+          "category": "ODDS & ENDS",
+          "value": 500,
+          "clue": "The name of the British royal yacht; it certainly rules the waves",
+          "answer": "Britannia",
+          "isDailyDouble": false,
+          "orderNumber": 15,
+          "correctContestants": [
+            "Paul"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 1000
+            },
+            {
+              "player": "Pat",
+              "score": 600
+            },
+            {
+              "player": "Paul",
+              "score": 1600
+            }
+          ]
+        },
+        {
+          "category": "FRUITS & VEGETABLES",
+          "value": 400,
+          "clue": "Originally from Asia, the shiitake variety of this is now cultivated in the U.S.",
+          "answer": "the mushroom",
+          "isDailyDouble": false,
+          "orderNumber": 16,
+          "correctContestants": [
+            "David"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 1400
+            },
+            {
+              "player": "Pat",
+              "score": 600
+            },
+            {
+              "player": "Paul",
+              "score": 1600
+            }
+          ]
+        },
+        {
+          "category": "FRUITS & VEGETABLES",
+          "value": 500,
+          "clue": "The strands inside this type of squash can be served like pasta",
+          "answer": "spaghetti squash",
+          "isDailyDouble": false,
+          "orderNumber": 17,
+          "correctContestants": [
+            "Pat"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 1400
+            },
+            {
+              "player": "Pat",
+              "score": 1100
+            },
+            {
+              "player": "Paul",
+              "score": 1600
+            }
+          ]
+        },
+        {
+          "category": "CHEMISTRY",
+          "value": 100,
+          "clue": "Minimum number of atoms in 1 molecule of a compound; for example, a molecule of table salt",
+          "answer": "2",
+          "isDailyDouble": false,
+          "orderNumber": 18,
+          "correctContestants": [
+            "Paul"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 1400
+            },
+            {
+              "player": "Pat",
+              "score": 1100
+            },
+            {
+              "player": "Paul",
+              "score": 1700
+            }
+          ]
+        },
+        {
+          "category": "CHEMISTRY",
+          "value": 200,
+          "clue": "The British once likened the structure of the atom to a plum pudding & these to the raisins",
+          "answer": "the electrons",
+          "isDailyDouble": false,
+          "orderNumber": 19,
+          "correctContestants": [
+            "Pat"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 1400
+            },
+            {
+              "player": "Pat",
+              "score": 1300
+            },
+            {
+              "player": "Paul",
+              "score": 1700
+            }
+          ]
+        },
+        {
+          "category": "CHEMISTRY",
+          "value": 300,
+          "clue": "By the law of conservation of this, you'll have the same number of atoms before & after a reaction",
+          "answer": "matter (or mass)",
+          "isDailyDouble": false,
+          "orderNumber": 20,
+          "correctContestants": [
+            "Paul"
+          ],
+          "incorrectContestants": [
+            "David"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 1100
+            },
+            {
+              "player": "Pat",
+              "score": 1300
+            },
+            {
+              "player": "Paul",
+              "score": 2000
+            }
+          ]
+        },
+        {
+          "category": "CHEMISTRY",
+          "value": 400,
+          "clue": "Years after Boyle, Charles found that a gas expands when this rises",
+          "answer": "temperature",
+          "isDailyDouble": false,
+          "orderNumber": 21,
+          "correctContestants": [
+            "David"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 1500
+            },
+            {
+              "player": "Pat",
+              "score": 1300
+            },
+            {
+              "player": "Paul",
+              "score": 2000
+            }
+          ]
+        },
+        {
+          "category": "CHEMISTRY",
+          "value": 500,
+          "clue": "Empedocles thought the 4 \"elements\" that combined to make up every object were air, fire & these 2",
+          "answer": "earth & water",
+          "isDailyDouble": false,
+          "orderNumber": 22,
+          "correctContestants": [
+            "David"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 2000
+            },
+            {
+              "player": "Pat",
+              "score": 1300
+            },
+            {
+              "player": "Paul",
+              "score": 2000
+            }
+          ]
+        },
+        {
+          "category": "DECORATIVE ARTS",
+          "value": 100,
+          "clue": "Ikenobo, the 1st school of flower arranging in this country, was founded in the 7th century",
+          "answer": "Japan",
+          "isDailyDouble": false,
+          "orderNumber": 23,
+          "correctContestants": [
+            "Paul"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 2000
+            },
+            {
+              "player": "Pat",
+              "score": 1300
+            },
+            {
+              "player": "Paul",
+              "score": 2100
+            }
+          ]
+        },
+        {
+          "category": "DECORATIVE ARTS",
+          "value": 200,
+          "clue": "Coiling & this are the 2 basic methods of making baskets",
+          "answer": "weaving",
+          "isDailyDouble": false,
+          "orderNumber": 24,
+          "correctContestants": [
+            "Paul"
+          ],
+          "incorrectContestants": [
+            "Pat"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 2000
+            },
+            {
+              "player": "Pat",
+              "score": 1100
+            },
+            {
+              "player": "Paul",
+              "score": 2300
+            }
+          ]
+        },
+        {
+          "category": "DECORATIVE ARTS",
+          "value": 300,
+          "clue": "The \"album\" style of these bedcovers made at bees is often presented as an anniversary gift",
+          "answer": "a quilt",
+          "isDailyDouble": false,
+          "orderNumber": 25,
+          "correctContestants": [
+            "Pat"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 2000
+            },
+            {
+              "player": "Pat",
+              "score": 1400
+            },
+            {
+              "player": "Paul",
+              "score": 2300
+            }
+          ]
+        },
+        {
+          "category": "DECORATIVE ARTS",
+          "value": 400,
+          "clue": "The artist & decorator Charles Le Brun established the style named for this \"Sun King\"",
+          "answer": "Louis XIV",
+          "isDailyDouble": false,
+          "orderNumber": 26,
+          "correctContestants": [
+            "Pat"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 2000
+            },
+            {
+              "player": "Pat",
+              "score": 1800
+            },
+            {
+              "player": "Paul",
+              "score": 2300
+            }
+          ]
+        },
+        {
+          "category": "DECORATIVE ARTS",
+          "value": 500,
+          "clue": "A sculpted female figure used as a column, its name comes from Greek for \"women of Karyai\"",
+          "answer": "caryatid",
+          "isDailyDouble": false,
+          "orderNumber": 27,
+          "correctContestants": [
+            "Paul"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 2000
+            },
+            {
+              "player": "Pat",
+              "score": 1800
+            },
+            {
+              "player": "Paul",
+              "score": 2800
+            }
+          ]
+        },
+        {
+          "category": "AKA",
+          "value": 300,
+          "clue": "Benjamin Kubelsky",
+          "answer": "Jack Benny",
+          "isDailyDouble": false,
+          "orderNumber": 28,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 2000
+            },
+            {
+              "player": "Pat",
+              "score": 1800
+            },
+            {
+              "player": "Paul",
+              "score": 2800
+            }
+          ]
+        },
+        {
+          "category": "AKA",
+          "value": 400,
+          "clue": "Rose Louise Hovick",
+          "answer": "Gypsy Rose Lee",
+          "isDailyDouble": false,
+          "orderNumber": 29,
+          "correctContestants": [
+            "Paul"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 2000
+            },
+            {
+              "player": "Pat",
+              "score": 1800
+            },
+            {
+              "player": "Paul",
+              "score": 3200
+            }
+          ]
+        },
+        {
+          "category": "AKA",
+          "value": 500,
+          "clue": "Israel Baline",
+          "answer": "Irving Berlin",
+          "isDailyDouble": false,
+          "orderNumber": 30,
+          "correctContestants": [
+            "Paul"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 2000
+            },
+            {
+              "player": "Pat",
+              "score": 1800
+            },
+            {
+              "player": "Paul",
+              "score": 3700
+            }
+          ]
+        }
+      ],
+      "firstBreakScores": [
+        {
+          "player": "David",
+          "score": 1000
+        },
+        {
+          "player": "Pat",
+          "score": 600
+        },
+        {
+          "player": "Paul",
+          "score": 1600
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "David",
+          "score": 2000
+        },
+        {
+          "player": "Pat",
+          "score": 1800
+        },
+        {
+          "player": "Paul",
+          "score": 3700
+        }
+      ]
+    },
+    "doubleJeopardy": {
+      "categories": [
+        "WORLD LEADERS",
+        "THE AUTO INDUSTRY",
+        "1693",
+        "FAMOUS QUOTATIONS",
+        "AWARDS",
+        "WOMEN AUTHORS"
+      ],
+      "clues": [
+        {
+          "category": "WOMEN AUTHORS",
+          "value": 200,
+          "clue": "The subtitle of this 1960 book by Joy Adamson is \"A Lioness of Two Worlds\"",
+          "answer": "Born Free",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 2200
+            },
+            {
+              "player": "Pat",
+              "score": 1800
+            },
+            {
+              "player": "Paul",
+              "score": 3700
+            }
+          ]
+        },
+        {
+          "category": "1693",
+          "value": 200,
+          "clue": "In North America the British & their Indian allies fought this country & their Indian allies",
+          "answer": "the French",
+          "isDailyDouble": false,
+          "orderNumber": 2,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 2200
+            },
+            {
+              "player": "Pat",
+              "score": 2000
+            },
+            {
+              "player": "Paul",
+              "score": 3700
+            }
+          ]
+        },
+        {
+          "category": "1693",
+          "value": 400,
+          "clue": "In 1993 this Williamsburg, Va. college celebrated the 300th anniversary of its 1693 charter",
+          "answer": "William & Mary",
+          "isDailyDouble": false,
+          "orderNumber": 3,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 2600
+            },
+            {
+              "player": "Pat",
+              "score": 2000
+            },
+            {
+              "player": "Paul",
+              "score": 3700
+            }
+          ]
+        },
+        {
+          "category": "1693",
+          "value": 600,
+          "clue": "Following the publication of his \"Principia\", he had a nervous breakdown & retired from research",
+          "answer": "Newton",
+          "isDailyDouble": false,
+          "orderNumber": 4,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 3200
+            },
+            {
+              "player": "Pat",
+              "score": 2000
+            },
+            {
+              "player": "Paul",
+              "score": 3700
+            }
+          ]
+        },
+        {
+          "category": "1693",
+          "value": 800,
+          "clue": "In 1693 he became chief of the MacGregor clan; he didn't become an outlaw until 1712",
+          "answer": "Rob Roy",
+          "isDailyDouble": false,
+          "orderNumber": 5,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 2400
+            },
+            {
+              "player": "Pat",
+              "score": 2000
+            },
+            {
+              "player": "Paul",
+              "score": 3700
+            }
+          ]
+        },
+        {
+          "category": "1693",
+          "value": 2000,
+          "clue": "This English astronomer devised the first actuarial table",
+          "answer": "Edmund Halley",
+          "isDailyDouble": true,
+          "orderNumber": 6,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 400
+            },
+            {
+              "player": "Pat",
+              "score": 2000
+            },
+            {
+              "player": "Paul",
+              "score": 3700
+            }
+          ]
+        },
+        {
+          "category": "FAMOUS QUOTATIONS",
+          "value": 800,
+          "clue": "On July 21, 1861 Barnard Elliott Bee said, \"There is Jackson, standing like\" one of these",
+          "answer": "a stone wall",
+          "isDailyDouble": false,
+          "orderNumber": 7,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 400
+            },
+            {
+              "player": "Pat",
+              "score": 2000
+            },
+            {
+              "player": "Paul",
+              "score": 4500
+            }
+          ]
+        },
+        {
+          "category": "FAMOUS QUOTATIONS",
+          "value": 200,
+          "clue": "John Howard Payne wrote, \"Be it ever so\" this, \"there's no place like home\"",
+          "answer": "humble",
+          "isDailyDouble": false,
+          "orderNumber": 8,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 600
+            },
+            {
+              "player": "Pat",
+              "score": 2000
+            },
+            {
+              "player": "Paul",
+              "score": 4500
+            }
+          ]
+        },
+        {
+          "category": "FAMOUS QUOTATIONS",
+          "value": 600,
+          "clue": "This play contains the line \"A great nose indicates a great man\"",
+          "answer": "Cyrano de Bergerac",
+          "isDailyDouble": false,
+          "orderNumber": 9,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 1200
+            },
+            {
+              "player": "Pat",
+              "score": 2000
+            },
+            {
+              "player": "Paul",
+              "score": 4500
+            }
+          ]
+        },
+        {
+          "category": "FAMOUS QUOTATIONS",
+          "value": 1000,
+          "clue": "Oscar Wilde defined this as \"the fashionable substitute for belief\"",
+          "answer": "religion",
+          "isDailyDouble": false,
+          "orderNumber": 10,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 1200
+            },
+            {
+              "player": "Pat",
+              "score": 2000
+            },
+            {
+              "player": "Paul",
+              "score": 3500
+            }
+          ]
+        },
+        {
+          "category": "FAMOUS QUOTATIONS",
+          "value": 400,
+          "clue": "Ralph Waldo Emerson wrote, \"The sky is the daily bread of\" these sense organs",
+          "answer": "the eyes",
+          "isDailyDouble": false,
+          "orderNumber": 11,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 1200
+            },
+            {
+              "player": "Pat",
+              "score": 2000
+            },
+            {
+              "player": "Paul",
+              "score": 3900
+            }
+          ]
+        },
+        {
+          "category": "WORLD LEADERS",
+          "value": 200,
+          "clue": "In 1943 Churchill, Roosevelt & this Soviet leader met in Tehran, Iran",
+          "answer": "Stalin",
+          "isDailyDouble": false,
+          "orderNumber": 12,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 1200
+            },
+            {
+              "player": "Pat",
+              "score": 2000
+            },
+            {
+              "player": "Paul",
+              "score": 4100
+            }
+          ]
+        },
+        {
+          "category": "WORLD LEADERS",
+          "value": 400,
+          "clue": "He was born Josip Broz in 1892 in Kumrovec, Croatia",
+          "answer": "Tito",
+          "isDailyDouble": false,
+          "orderNumber": 13,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 1600
+            },
+            {
+              "player": "Pat",
+              "score": 2000
+            },
+            {
+              "player": "Paul",
+              "score": 4100
+            }
+          ]
+        },
+        {
+          "category": "WORLD LEADERS",
+          "value": 600,
+          "clue": "In 1989 this South African education minister succeeded P.W. Botha as the country's president",
+          "answer": "De Klerk",
+          "isDailyDouble": false,
+          "orderNumber": 14,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 1600
+            },
+            {
+              "player": "Pat",
+              "score": 2600
+            },
+            {
+              "player": "Paul",
+              "score": 4100
+            }
+          ]
+        },
+        {
+          "category": "WORLD LEADERS",
+          "value": 800,
+          "clue": "In 1989 Tadeusz Mazowiecki became this country's first non-Communist leader since World War II",
+          "answer": "Poland",
+          "isDailyDouble": false,
+          "orderNumber": 15,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 1600
+            },
+            {
+              "player": "Pat",
+              "score": 2600
+            },
+            {
+              "player": "Paul",
+              "score": 4900
+            }
+          ]
+        },
+        {
+          "category": "WORLD LEADERS",
+          "value": 1000,
+          "clue": "Turkey's first president, he served from 1923 until his death in 1938",
+          "answer": "(Kemal) Ataturk",
+          "isDailyDouble": false,
+          "orderNumber": 16,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 2600
+            },
+            {
+              "player": "Pat",
+              "score": 2600
+            },
+            {
+              "player": "Paul",
+              "score": 4900
+            }
+          ]
+        },
+        {
+          "category": "THE AUTO INDUSTRY",
+          "value": 400,
+          "clue": "This car produced by Daimler-Benz is named for Emil Jellinek's daughter",
+          "answer": "the Mercedes",
+          "isDailyDouble": false,
+          "orderNumber": 17,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 3000
+            },
+            {
+              "player": "Pat",
+              "score": 2600
+            },
+            {
+              "player": "Paul",
+              "score": 4900
+            }
+          ]
+        },
+        {
+          "category": "THE AUTO INDUSTRY",
+          "value": 600,
+          "clue": "In 1990 Harold Poling replaced Donald Petersen as CEO of this 2nd-largest U.S. auto producer",
+          "answer": "Ford",
+          "isDailyDouble": false,
+          "orderNumber": 18,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 3600
+            },
+            {
+              "player": "Pat",
+              "score": 2600
+            },
+            {
+              "player": "Paul",
+              "score": 4900
+            }
+          ]
+        },
+        {
+          "category": "THE AUTO INDUSTRY",
+          "value": 800,
+          "clue": "This largest private Italian company produces Alfa Romeo & Autobianchi cars",
+          "answer": "Fiat",
+          "isDailyDouble": false,
+          "orderNumber": 19,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 4400
+            },
+            {
+              "player": "Pat",
+              "score": 2600
+            },
+            {
+              "player": "Paul",
+              "score": 4900
+            }
+          ]
+        },
+        {
+          "category": "THE AUTO INDUSTRY",
+          "value": 1000,
+          "clue": "This Wolfsburg, Germany corporation produces the Spanish-based SEAT automobile",
+          "answer": "Volkswagen",
+          "isDailyDouble": false,
+          "orderNumber": 20,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 4400
+            },
+            {
+              "player": "Pat",
+              "score": 3600
+            },
+            {
+              "player": "Paul",
+              "score": 4900
+            }
+          ]
+        },
+        {
+          "category": "WOMEN AUTHORS",
+          "value": 600,
+          "clue": "This author of \"The Color Purple\" also wrote a children's biography of Langston Hughes",
+          "answer": "Alice Walker",
+          "isDailyDouble": false,
+          "orderNumber": 21,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 4400
+            },
+            {
+              "player": "Pat",
+              "score": 4200
+            },
+            {
+              "player": "Paul",
+              "score": 4900
+            }
+          ]
+        },
+        {
+          "category": "WOMEN AUTHORS",
+          "value": 800,
+          "clue": "With husband John Gregory Dunne, she adapted her 1970 novel \"Play It As It Lays\" for the screen",
+          "answer": "Joan Didion",
+          "isDailyDouble": false,
+          "orderNumber": 22,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 4400
+            },
+            {
+              "player": "Pat",
+              "score": 4200
+            },
+            {
+              "player": "Paul",
+              "score": 4900
+            }
+          ]
+        },
+        {
+          "category": "WOMEN AUTHORS",
+          "value": 2000,
+          "clue": "On her death in 1986, she was laid to rest next to Jean-Paul Sartre in Montparnasse Cemetery",
+          "answer": "Simone de Beauvoir",
+          "isDailyDouble": true,
+          "orderNumber": 23,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 4400
+            },
+            {
+              "player": "Pat",
+              "score": 2200
+            },
+            {
+              "player": "Paul",
+              "score": 4900
+            }
+          ]
+        },
+        {
+          "category": "WOMEN AUTHORS",
+          "value": 400,
+          "clue": "She was born Pearl Sydenstricker in Hillsboro, West Virginia & taken to China as a child",
+          "answer": "Pearl S. Buck",
+          "isDailyDouble": false,
+          "orderNumber": 24,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 4800
+            },
+            {
+              "player": "Pat",
+              "score": 2200
+            },
+            {
+              "player": "Paul",
+              "score": 4900
+            }
+          ]
+        },
+        {
+          "category": "AWARDS",
+          "value": 200,
+          "clue": "In 1935 this humorist was given the Spirit of St. Louis Medal for achievement in aeronautics",
+          "answer": "Will Rogers",
+          "isDailyDouble": false,
+          "orderNumber": 25,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 5000
+            },
+            {
+              "player": "Pat",
+              "score": 2200
+            },
+            {
+              "player": "Paul",
+              "score": 4900
+            }
+          ]
+        },
+        {
+          "category": "AWARDS",
+          "value": 400,
+          "clue": "In 1966 the Henry Bacon Medal for Memorial Architecture went to this St. Louis structure",
+          "answer": "the Arch",
+          "isDailyDouble": false,
+          "orderNumber": 26,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 5000
+            },
+            {
+              "player": "Pat",
+              "score": 2600
+            },
+            {
+              "player": "Paul",
+              "score": 4900
+            }
+          ]
+        },
+        {
+          "category": "AWARDS",
+          "value": 600,
+          "clue": "Dorothy Loudon won a 1977 Tony for her role as Miss Hannigan in this Broadway musical",
+          "answer": "Annie",
+          "isDailyDouble": false,
+          "orderNumber": 27,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 5000
+            },
+            {
+              "player": "Pat",
+              "score": 2600
+            },
+            {
+              "player": "Paul",
+              "score": 5500
+            }
+          ]
+        },
+        {
+          "category": "AWARDS",
+          "value": 800,
+          "clue": "In 1966 U Thant became the 1st recipient of an award for int'l understanding named for this PM of India",
+          "answer": "Nehru",
+          "isDailyDouble": false,
+          "orderNumber": 28,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 5800
+            },
+            {
+              "player": "Pat",
+              "score": 2600
+            },
+            {
+              "player": "Paul",
+              "score": 5500
+            }
+          ]
+        },
+        {
+          "category": "AWARDS",
+          "value": 1000,
+          "clue": "This scientist & vitamin C proponent was a recipient of the Int'l Lenin Peace Prize",
+          "answer": "Linus Pauling",
+          "isDailyDouble": false,
+          "orderNumber": 29,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 6800
+            },
+            {
+              "player": "Pat",
+              "score": 2600
+            },
+            {
+              "player": "Paul",
+              "score": 5500
+            }
+          ]
+        },
+        {
+          "category": "THE AUTO INDUSTRY",
+          "value": 200,
+          "clue": "Only in the U.S. is the name of this Korean conglomerate pronounced to rhyme with \"Sunday\"",
+          "answer": "Hyundai",
+          "isDailyDouble": false,
+          "orderNumber": 30,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 7000
+            },
+            {
+              "player": "Pat",
+              "score": 2600
+            },
+            {
+              "player": "Paul",
+              "score": 5500
+            }
+          ]
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "David",
+          "score": 7000
+        },
+        {
+          "player": "Pat",
+          "score": 2600
+        },
+        {
+          "player": "Paul",
+          "score": 5500
+        }
+      ]
+    },
+    "finalJeopardy": {
+      "category": "DISASTERS",
+      "clue": "This began Sept. 2, 1666 in the house of the King's baker in Pudding Lane",
+      "answer": "the Great Fire of London",
+      "responses": [
+        {
+          "contestant": "Pat",
+          "response": "What was the Great Fire of London?",
+          "isCorrect": true,
+          "isIncorrect": false,
+          "value": 2000,
+          "finalScore": 4600
+        },
+        {
+          "contestant": "Paul",
+          "response": "What was the Great Fire of London?",
+          "isCorrect": true,
+          "isIncorrect": false,
+          "value": 5000,
+          "finalScore": 10500
+        },
+        {
+          "contestant": "David",
+          "response": "What is the Great Fire of London",
+          "isCorrect": true,
+          "isIncorrect": false,
+          "value": 4001,
+          "finalScore": 11001
+        }
+      ]
+    }
+  },
+  "finalScores": [
+    {
+      "player": "David",
+      "score": "$11,001"
+    },
+    {
+      "player": "Pat",
+      "score": "$4,600"
+    },
+    {
+      "player": "Paul",
+      "score": "$10,500"
+    }
+  ],
+  "coryatScores": [
+    {
+      "player": "David",
+      "score": 9000
+    },
+    {
+      "player": "Pat",
+      "score": 4600
+    },
+    {
+      "player": "Paul",
+      "score": 5400
+    }
+  ]
+}

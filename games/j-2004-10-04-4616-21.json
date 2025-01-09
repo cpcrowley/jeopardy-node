@@ -1,0 +1,1691 @@
+{
+  "gameId": 21,
+  "showNumber": "4616",
+  "title": "Show #4616 - Monday, October 4, 2004",
+  "date": "2004-10-04",
+  "comments": "Ken Jennings game 49.\nFirst regular play game of Season 21 to be recorded after the summer hiatus.",
+  "contestants": [
+    "Ken",
+    "Jeff",
+    "Beth"
+  ],
+  "rounds": {
+    "jeopardy": {
+      "categories": [
+        "SCIENCE & NATURE",
+        "SPORTS VENUES",
+        "2 PICTURES SAY 1 WORD",
+        "CHAT ROOM LINGO",
+        "AARON BURR",
+        "GOT MILK?"
+      ],
+      "clues": [
+        {
+          "category": "SCIENCE & NATURE",
+          "value": 200,
+          "clue": "Hunting & forest clearing (not a luxury automaker) have endangered this largest wild cat of the Americas",
+          "answer": "the jaguar",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [
+            "Ken"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ken",
+              "score": 200
+            },
+            {
+              "player": "Jeff",
+              "score": 0
+            },
+            {
+              "player": "Beth",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "SCIENCE & NATURE",
+          "value": 400,
+          "clue": "Like an escargot, the abalone is an edible one of these gastropods",
+          "answer": "a snail",
+          "isDailyDouble": false,
+          "orderNumber": 2,
+          "correctContestants": [
+            "Beth"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ken",
+              "score": 200
+            },
+            {
+              "player": "Jeff",
+              "score": 0
+            },
+            {
+              "player": "Beth",
+              "score": 400
+            }
+          ]
+        },
+        {
+          "category": "SCIENCE & NATURE",
+          "value": 600,
+          "clue": "It's the branch of physics that deals with the nature & properties of light",
+          "answer": "optics",
+          "isDailyDouble": false,
+          "orderNumber": 3,
+          "correctContestants": [
+            "Jeff"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ken",
+              "score": 200
+            },
+            {
+              "player": "Jeff",
+              "score": 600
+            },
+            {
+              "player": "Beth",
+              "score": 400
+            }
+          ]
+        },
+        {
+          "category": "SCIENCE & NATURE",
+          "value": 1000,
+          "clue": "Hermann Muller won a 1946 Nobel Prize for proving that the use of these can cause mutations",
+          "answer": "X rays",
+          "isDailyDouble": true,
+          "orderNumber": 4,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Jeff"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ken",
+              "score": 200
+            },
+            {
+              "player": "Jeff",
+              "score": -400
+            },
+            {
+              "player": "Beth",
+              "score": 400
+            }
+          ]
+        },
+        {
+          "category": "SCIENCE & NATURE",
+          "value": 1000,
+          "clue": "The flowers on this type of myrtle tree resemble the crinkly paper of the same name",
+          "answer": "crepe",
+          "isDailyDouble": false,
+          "orderNumber": 5,
+          "correctContestants": [
+            "Jeff"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ken",
+              "score": 200
+            },
+            {
+              "player": "Jeff",
+              "score": 600
+            },
+            {
+              "player": "Beth",
+              "score": 400
+            }
+          ]
+        },
+        {
+          "category": "CHAT ROOM LINGO",
+          "value": 200,
+          "clue": "\"CAD\" stands for these 3 computer keys (often used together)",
+          "answer": "Ctrl+Alt+Delete",
+          "isDailyDouble": false,
+          "orderNumber": 6,
+          "correctContestants": [
+            "Ken"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ken",
+              "score": 400
+            },
+            {
+              "player": "Jeff",
+              "score": 600
+            },
+            {
+              "player": "Beth",
+              "score": 400
+            }
+          ]
+        },
+        {
+          "category": "CHAT ROOM LINGO",
+          "value": 400,
+          "clue": "Don’t wait around if you read \"DHYB\"; it means “don’t hold” this",
+          "answer": "your breath",
+          "isDailyDouble": false,
+          "orderNumber": 7,
+          "correctContestants": [
+            "Jeff"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ken",
+              "score": 400
+            },
+            {
+              "player": "Jeff",
+              "score": 1000
+            },
+            {
+              "player": "Beth",
+              "score": 400
+            }
+          ]
+        },
+        {
+          "category": "GOT MILK?",
+          "value": 200,
+          "clue": "AKA \"America’s Dairyland\", it’s one of the leading U.S. states in milk production",
+          "answer": "Wisconsin",
+          "isDailyDouble": false,
+          "orderNumber": 8,
+          "correctContestants": [
+            "Jeff"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ken",
+              "score": 400
+            },
+            {
+              "player": "Jeff",
+              "score": 1200
+            },
+            {
+              "player": "Beth",
+              "score": 400
+            }
+          ]
+        },
+        {
+          "category": "GOT MILK?",
+          "value": 400,
+          "clue": "1 of this unit of milk weighs about 8 pounds",
+          "answer": "a gallon",
+          "isDailyDouble": false,
+          "orderNumber": 9,
+          "correctContestants": [
+            "Jeff"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ken",
+              "score": 400
+            },
+            {
+              "player": "Jeff",
+              "score": 1600
+            },
+            {
+              "player": "Beth",
+              "score": 400
+            }
+          ]
+        },
+        {
+          "category": "GOT MILK?",
+          "value": 600,
+          "clue": "A Frenchman created this process that kills microorganisms in milk by heating it",
+          "answer": "pasteurization",
+          "isDailyDouble": false,
+          "orderNumber": 10,
+          "correctContestants": [
+            "Jeff"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ken",
+              "score": 400
+            },
+            {
+              "player": "Jeff",
+              "score": 2200
+            },
+            {
+              "player": "Beth",
+              "score": 400
+            }
+          ]
+        },
+        {
+          "category": "GOT MILK?",
+          "value": 800,
+          "clue": "This type of sugar that's less sweet than sucrose is found only in milk",
+          "answer": "lactose",
+          "isDailyDouble": false,
+          "orderNumber": 11,
+          "correctContestants": [
+            "Ken"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ken",
+              "score": 1200
+            },
+            {
+              "player": "Jeff",
+              "score": 2200
+            },
+            {
+              "player": "Beth",
+              "score": 400
+            }
+          ]
+        },
+        {
+          "category": "GOT MILK?",
+          "value": 1000,
+          "clue": "In 1856 Gail Borden received a patent for his process to do this to milk",
+          "answer": "condense it",
+          "isDailyDouble": false,
+          "orderNumber": 12,
+          "correctContestants": [
+            "Beth"
+          ],
+          "incorrectContestants": [
+            "Ken"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ken",
+              "score": 200
+            },
+            {
+              "player": "Jeff",
+              "score": 2200
+            },
+            {
+              "player": "Beth",
+              "score": 1400
+            }
+          ]
+        },
+        {
+          "category": "AARON BURR",
+          "value": 200,
+          "clue": "The man he tied with 73 electoral votes in 1800",
+          "answer": "Jefferson",
+          "isDailyDouble": false,
+          "orderNumber": 13,
+          "correctContestants": [
+            "Jeff"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ken",
+              "score": 200
+            },
+            {
+              "player": "Jeff",
+              "score": 2400
+            },
+            {
+              "player": "Beth",
+              "score": 1400
+            }
+          ]
+        },
+        {
+          "category": "AARON BURR",
+          "value": 400,
+          "clue": "The New Jersey college he graduated from at age 16",
+          "answer": "Princeton",
+          "isDailyDouble": false,
+          "orderNumber": 14,
+          "correctContestants": [
+            "Ken"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ken",
+              "score": 600
+            },
+            {
+              "player": "Jeff",
+              "score": 2400
+            },
+            {
+              "player": "Beth",
+              "score": 1400
+            }
+          ]
+        },
+        {
+          "category": "CHAT ROOM LINGO",
+          "value": 600,
+          "clue": "\"ESO\" is the insulting \"equipment smarter than\" this person",
+          "answer": "the operator",
+          "isDailyDouble": false,
+          "orderNumber": 15,
+          "correctContestants": [
+            "Ken"
+          ],
+          "incorrectContestants": [
+            "Beth"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ken",
+              "score": 1200
+            },
+            {
+              "player": "Jeff",
+              "score": 2400
+            },
+            {
+              "player": "Beth",
+              "score": 800
+            }
+          ]
+        },
+        {
+          "category": "CHAT ROOM LINGO",
+          "value": 800,
+          "clue": "\"CD-ROM\" also stands for \"consumer device rendered\" this \"in months\"",
+          "answer": "obsolete",
+          "isDailyDouble": false,
+          "orderNumber": 16,
+          "correctContestants": [
+            "Jeff"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ken",
+              "score": 1200
+            },
+            {
+              "player": "Jeff",
+              "score": 3200
+            },
+            {
+              "player": "Beth",
+              "score": 800
+            }
+          ]
+        },
+        {
+          "category": "AARON BURR",
+          "value": 600,
+          "clue": "The man he went to New Jersey to meet on July 11, 1804",
+          "answer": "Hamilton",
+          "isDailyDouble": false,
+          "orderNumber": 17,
+          "correctContestants": [
+            "Ken"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ken",
+              "score": 1800
+            },
+            {
+              "player": "Jeff",
+              "score": 3200
+            },
+            {
+              "player": "Beth",
+              "score": 800
+            }
+          ]
+        },
+        {
+          "category": "AARON BURR",
+          "value": 800,
+          "clue": "The man he introduced the widow Dolley Todd to in 1794",
+          "answer": "James Madison",
+          "isDailyDouble": false,
+          "orderNumber": 18,
+          "correctContestants": [
+            "Ken"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ken",
+              "score": 2600
+            },
+            {
+              "player": "Jeff",
+              "score": 3200
+            },
+            {
+              "player": "Beth",
+              "score": 800
+            }
+          ]
+        },
+        {
+          "category": "AARON BURR",
+          "value": 1000,
+          "clue": "The Chief Justice who presided over his treason trial",
+          "answer": "John Marshall",
+          "isDailyDouble": false,
+          "orderNumber": 19,
+          "correctContestants": [
+            "Ken"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ken",
+              "score": 3600
+            },
+            {
+              "player": "Jeff",
+              "score": 3200
+            },
+            {
+              "player": "Beth",
+              "score": 800
+            }
+          ]
+        },
+        {
+          "category": "CHAT ROOM LINGO",
+          "value": 1000,
+          "clue": "\"AIAMU\" means \"and I'm a\" this, expressing astonishment",
+          "answer": "monkey's uncle",
+          "isDailyDouble": false,
+          "orderNumber": 20,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Ken",
+              "score": 3600
+            },
+            {
+              "player": "Jeff",
+              "score": 3200
+            },
+            {
+              "player": "Beth",
+              "score": 800
+            }
+          ]
+        },
+        {
+          "category": "2 PICTURES SAY 1 WORD",
+          "value": 200,
+          "clue": "There's plenty of room here for your groceries",
+          "answer": "a pantry",
+          "isDailyDouble": false,
+          "orderNumber": 21,
+          "correctContestants": [
+            "Ken"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ken",
+              "score": 3800
+            },
+            {
+              "player": "Jeff",
+              "score": 3200
+            },
+            {
+              "player": "Beth",
+              "score": 800
+            }
+          ]
+        },
+        {
+          "category": "2 PICTURES SAY 1 WORD",
+          "value": 400,
+          "clue": "This is your John Hancock",
+          "answer": "your autograph",
+          "isDailyDouble": false,
+          "orderNumber": 22,
+          "correctContestants": [
+            "Ken"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ken",
+              "score": 4200
+            },
+            {
+              "player": "Jeff",
+              "score": 3200
+            },
+            {
+              "player": "Beth",
+              "score": 800
+            }
+          ]
+        },
+        {
+          "category": "2 PICTURES SAY 1 WORD",
+          "value": 600,
+          "clue": "This is right",
+          "answer": "starboard",
+          "isDailyDouble": false,
+          "orderNumber": 23,
+          "correctContestants": [
+            "Ken"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ken",
+              "score": 4800
+            },
+            {
+              "player": "Jeff",
+              "score": 3200
+            },
+            {
+              "player": "Beth",
+              "score": 800
+            }
+          ]
+        },
+        {
+          "category": "2 PICTURES SAY 1 WORD",
+          "value": 800,
+          "clue": "This is your history",
+          "answer": "your background",
+          "isDailyDouble": false,
+          "orderNumber": 24,
+          "correctContestants": [
+            "Ken"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ken",
+              "score": 5600
+            },
+            {
+              "player": "Jeff",
+              "score": 3200
+            },
+            {
+              "player": "Beth",
+              "score": 800
+            }
+          ]
+        },
+        {
+          "category": "2 PICTURES SAY 1 WORD",
+          "value": 1000,
+          "clue": "Someone who's very middle-of-the-road",
+          "answer": "centrist",
+          "isDailyDouble": false,
+          "orderNumber": 25,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Jeff"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Ken",
+              "score": 5600
+            },
+            {
+              "player": "Jeff",
+              "score": 2200
+            },
+            {
+              "player": "Beth",
+              "score": 800
+            }
+          ]
+        },
+        {
+          "category": "SPORTS VENUES",
+          "value": 200,
+          "clue": "A stadium with the world’s largest roof was built in 1972 for the Olympic games in this city",
+          "answer": "Munich",
+          "isDailyDouble": false,
+          "orderNumber": 26,
+          "correctContestants": [
+            "Jeff"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ken",
+              "score": 5600
+            },
+            {
+              "player": "Jeff",
+              "score": 2400
+            },
+            {
+              "player": "Beth",
+              "score": 800
+            }
+          ]
+        },
+        {
+          "category": "SPORTS VENUES",
+          "value": 400,
+          "clue": "On March 14, 1997 Scott Hamilton became the first figure skater inducted into this NYC sports arena’s Walk of Fame",
+          "answer": "Madison Square Garden",
+          "isDailyDouble": false,
+          "orderNumber": 27,
+          "correctContestants": [
+            "Ken"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ken",
+              "score": 6000
+            },
+            {
+              "player": "Jeff",
+              "score": 2400
+            },
+            {
+              "player": "Beth",
+              "score": 800
+            }
+          ]
+        },
+        {
+          "category": "SPORTS VENUES",
+          "value": 600,
+          "clue": "Built in 1912, this American League park is Major League Baseball's oldest & smallest in capacity",
+          "answer": "Fenway",
+          "isDailyDouble": false,
+          "orderNumber": 28,
+          "correctContestants": [
+            "Ken"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ken",
+              "score": 6600
+            },
+            {
+              "player": "Jeff",
+              "score": 2400
+            },
+            {
+              "player": "Beth",
+              "score": 800
+            }
+          ]
+        },
+        {
+          "category": "SPORTS VENUES",
+          "value": 800,
+          "clue": "This Big 12 school plays its home basketball games at the Bob Devaney Sports Center",
+          "answer": "the University of Nebraska",
+          "isDailyDouble": false,
+          "orderNumber": 29,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Ken",
+              "score": 6600
+            },
+            {
+              "player": "Jeff",
+              "score": 2400
+            },
+            {
+              "player": "Beth",
+              "score": 800
+            }
+          ]
+        },
+        {
+          "category": "SPORTS VENUES",
+          "value": 1000,
+          "clue": "(I'm Moe Williams from the NFL.)  The Minnesota Vikings play their home games in a domed stadium named for this former U.S. vice president",
+          "answer": "Humphrey",
+          "isDailyDouble": false,
+          "orderNumber": 30,
+          "correctContestants": [
+            "Ken"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ken",
+              "score": 7600
+            },
+            {
+              "player": "Jeff",
+              "score": 2400
+            },
+            {
+              "player": "Beth",
+              "score": 800
+            }
+          ]
+        }
+      ],
+      "firstBreakScores": [
+        {
+          "player": "Ken",
+          "score": 1200
+        },
+        {
+          "player": "Jeff",
+          "score": 2400
+        },
+        {
+          "player": "Beth",
+          "score": 800
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "Ken",
+          "score": 7600
+        },
+        {
+          "player": "Jeff",
+          "score": 2400
+        },
+        {
+          "player": "Beth",
+          "score": 800
+        }
+      ]
+    },
+    "doubleJeopardy": {
+      "categories": [
+        "THE 2004 PRESIDENTIAL RACE",
+        "JACKS OR BETTER",
+        "AVIATION",
+        "SHE SELLS SEYCHELLES",
+        "HOMOPHONIC NAMES",
+        "ENDS IN \"GHT\""
+      ],
+      "clues": [
+        {
+          "category": "ENDS IN \"GHT\"",
+          "value": 400,
+          "clue": "On October 26, 1881 this took place at Tombstone's OK Corral",
+          "answer": "gunfight",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ken",
+              "score": 8000
+            },
+            {
+              "player": "Jeff",
+              "score": 2400
+            },
+            {
+              "player": "Beth",
+              "score": 800
+            }
+          ]
+        },
+        {
+          "category": "ENDS IN \"GHT\"",
+          "value": 800,
+          "clue": "William Congreve wrote, \"Women are like tricks by\" this \"of hand, which, to admire, we should not understand\"",
+          "answer": "sleight",
+          "isDailyDouble": false,
+          "orderNumber": 2,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ken",
+              "score": 8000
+            },
+            {
+              "player": "Jeff",
+              "score": 3200
+            },
+            {
+              "player": "Beth",
+              "score": 800
+            }
+          ]
+        },
+        {
+          "category": "JACKS OR BETTER",
+          "value": 400,
+          "clue": "In the 19th century a new breed of terrier was named for this clergyman",
+          "answer": "Jack Russell",
+          "isDailyDouble": false,
+          "orderNumber": 3,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ken",
+              "score": 8400
+            },
+            {
+              "player": "Jeff",
+              "score": 3200
+            },
+            {
+              "player": "Beth",
+              "score": 800
+            }
+          ]
+        },
+        {
+          "category": "ENDS IN \"GHT\"",
+          "value": 1200,
+          "clue": "As a noun, it's a zero; as a pronoun, it's nothing",
+          "answer": "naught",
+          "isDailyDouble": false,
+          "orderNumber": 4,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ken",
+              "score": 9600
+            },
+            {
+              "player": "Jeff",
+              "score": 3200
+            },
+            {
+              "player": "Beth",
+              "score": 800
+            }
+          ]
+        },
+        {
+          "category": "ENDS IN \"GHT\"",
+          "value": 5400,
+          "clue": "Samuel F.B. Morse could have told you that it's a past tense & a past participle of work",
+          "answer": "wrought",
+          "isDailyDouble": true,
+          "orderNumber": 5,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ken",
+              "score": 15000
+            },
+            {
+              "player": "Jeff",
+              "score": 3200
+            },
+            {
+              "player": "Beth",
+              "score": 800
+            }
+          ]
+        },
+        {
+          "category": "ENDS IN \"GHT\"",
+          "value": 2000,
+          "clue": "Abbreviated dwt., it's equal to 24 grains, or 1/20 of a troy ounce",
+          "answer": "a pennyweight",
+          "isDailyDouble": false,
+          "orderNumber": 6,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Ken",
+              "score": 15000
+            },
+            {
+              "player": "Jeff",
+              "score": 3200
+            },
+            {
+              "player": "Beth",
+              "score": -1200
+            }
+          ]
+        },
+        {
+          "category": "JACKS OR BETTER",
+          "value": 800,
+          "clue": "In \"Nightmares & Dreamscapes\" this author wrote, \"I believe there is an unseen world all around us\"",
+          "answer": "Stephen King",
+          "isDailyDouble": false,
+          "orderNumber": 7,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Ken",
+              "score": 14200
+            },
+            {
+              "player": "Jeff",
+              "score": 3200
+            },
+            {
+              "player": "Beth",
+              "score": -1200
+            }
+          ]
+        },
+        {
+          "category": "JACKS OR BETTER",
+          "value": 1200,
+          "clue": "In 1999 this rapper-turned-actress turned talk show host",
+          "answer": "Queen Latifah",
+          "isDailyDouble": false,
+          "orderNumber": 8,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ken",
+              "score": 15400
+            },
+            {
+              "player": "Jeff",
+              "score": 3200
+            },
+            {
+              "player": "Beth",
+              "score": -1200
+            }
+          ]
+        },
+        {
+          "category": "JACKS OR BETTER",
+          "value": 1600,
+          "clue": "Columbia chief Harry Cohn advised this actor to change his last name to avoid negative review puns",
+          "answer": "Jack Lemmon",
+          "isDailyDouble": false,
+          "orderNumber": 9,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Ken",
+              "score": 15400
+            },
+            {
+              "player": "Jeff",
+              "score": 3200
+            },
+            {
+              "player": "Beth",
+              "score": -1200
+            }
+          ]
+        },
+        {
+          "category": "JACKS OR BETTER",
+          "value": 2000,
+          "clue": "An ad in a 1973 paper brought this lead guitarist together with Gene Simmons, Paul Stanley & Peter Criss",
+          "answer": "Ace Frehley",
+          "isDailyDouble": false,
+          "orderNumber": 10,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Ken",
+              "score": 15400
+            },
+            {
+              "player": "Jeff",
+              "score": 3200
+            },
+            {
+              "player": "Beth",
+              "score": -1200
+            }
+          ]
+        },
+        {
+          "category": "THE 2004 PRESIDENTIAL RACE",
+          "value": 400,
+          "clue": "Bush-Cheney called Edwards Kerry's second choice, meaning this Republican was his first",
+          "answer": "John McCain",
+          "isDailyDouble": false,
+          "orderNumber": 11,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ken",
+              "score": 15400
+            },
+            {
+              "player": "Jeff",
+              "score": 3200
+            },
+            {
+              "player": "Beth",
+              "score": -800
+            }
+          ]
+        },
+        {
+          "category": "THE 2004 PRESIDENTIAL RACE",
+          "value": 800,
+          "clue": "George W. Bush won 91% of the vote in Massachusetts (unfortunately for him it was in this contest)",
+          "answer": "the Republican primary",
+          "isDailyDouble": false,
+          "orderNumber": 12,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Ken",
+              "score": 15400
+            },
+            {
+              "player": "Jeff",
+              "score": 3200
+            },
+            {
+              "player": "Beth",
+              "score": -800
+            }
+          ]
+        },
+        {
+          "category": "THE 2004 PRESIDENTIAL RACE",
+          "value": 1200,
+          "clue": "Most of the over 50,000 signatures he submitted to try to get on the Michigan ballot were collected by the GOP",
+          "answer": "(Ralph) Nader",
+          "isDailyDouble": false,
+          "orderNumber": 13,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ken",
+              "score": 15400
+            },
+            {
+              "player": "Jeff",
+              "score": 4400
+            },
+            {
+              "player": "Beth",
+              "score": -800
+            }
+          ]
+        },
+        {
+          "category": "AVIATION",
+          "value": 400,
+          "clue": "(Jimmy of the Clue Crew strolls through an unfinished airplane cabin at the Boeing Everett Factory in Seattle, WA.)  I'm walking through this main body of the airplane, which gets its name from the Old French for \"spindle\"",
+          "answer": "the fuselage",
+          "isDailyDouble": false,
+          "orderNumber": 14,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ken",
+              "score": 15400
+            },
+            {
+              "player": "Jeff",
+              "score": 4800
+            },
+            {
+              "player": "Beth",
+              "score": -800
+            }
+          ]
+        },
+        {
+          "category": "AVIATION",
+          "value": 800,
+          "clue": "In chemistry, it maintains a mixture resistant to change; when flying it controls the pitch of an aircraft",
+          "answer": "the stabilizer",
+          "isDailyDouble": false,
+          "orderNumber": 15,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Ken",
+              "score": 14600
+            },
+            {
+              "player": "Jeff",
+              "score": 4800
+            },
+            {
+              "player": "Beth",
+              "score": -800
+            }
+          ]
+        },
+        {
+          "category": "AVIATION",
+          "value": 1200,
+          "clue": "This 3-digit number, popular in Vegas slot machines, is Boeing's & the world's largest family of twinjet",
+          "answer": "777",
+          "isDailyDouble": false,
+          "orderNumber": 16,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ken",
+              "score": 15800
+            },
+            {
+              "player": "Jeff",
+              "score": 4800
+            },
+            {
+              "player": "Beth",
+              "score": -800
+            }
+          ]
+        },
+        {
+          "category": "THE 2004 PRESIDENTIAL RACE",
+          "value": 1700,
+          "clue": "In a July 23 speech to this league, the President asked if the Democrats take black voters for granted",
+          "answer": "the National Urban League",
+          "isDailyDouble": true,
+          "orderNumber": 17,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ken",
+              "score": 14100
+            },
+            {
+              "player": "Jeff",
+              "score": 4800
+            },
+            {
+              "player": "Beth",
+              "score": -800
+            }
+          ]
+        },
+        {
+          "category": "THE 2004 PRESIDENTIAL RACE",
+          "value": 2000,
+          "clue": "This Florida senator was the first Democratic candidate to drop out of the race",
+          "answer": "(Bob) Graham",
+          "isDailyDouble": false,
+          "orderNumber": 18,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ken",
+              "score": 16100
+            },
+            {
+              "player": "Jeff",
+              "score": 4800
+            },
+            {
+              "player": "Beth",
+              "score": -800
+            }
+          ]
+        },
+        {
+          "category": "AVIATION",
+          "value": 1600,
+          "clue": "Greater than supersonic, it's the term for a speed 5 times faster than the speed of sound",
+          "answer": "hypersonic (Mach 5 accepted)",
+          "isDailyDouble": false,
+          "orderNumber": 19,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ken",
+              "score": 14500
+            },
+            {
+              "player": "Jeff",
+              "score": 6400
+            },
+            {
+              "player": "Beth",
+              "score": -800
+            }
+          ]
+        },
+        {
+          "category": "SHE SELLS SEYCHELLES",
+          "value": 400,
+          "clue": "One of the principal exports of Seychelles is copra, the dried white flesh of this fruit",
+          "answer": "coconut",
+          "isDailyDouble": false,
+          "orderNumber": 20,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ken",
+              "score": 14500
+            },
+            {
+              "player": "Jeff",
+              "score": 6800
+            },
+            {
+              "player": "Beth",
+              "score": -800
+            }
+          ]
+        },
+        {
+          "category": "SHE SELLS SEYCHELLES",
+          "value": 800,
+          "clue": "From about 1500 to 1750 the Seychelles served mainly as a hiding place for these people",
+          "answer": "pirates",
+          "isDailyDouble": false,
+          "orderNumber": 21,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ken",
+              "score": 14500
+            },
+            {
+              "player": "Jeff",
+              "score": 7600
+            },
+            {
+              "player": "Beth",
+              "score": -800
+            }
+          ]
+        },
+        {
+          "category": "SHE SELLS SEYCHELLES",
+          "value": 1200,
+          "clue": "The Seychelles uses this unit of currency, which is also used in Pakistan, Nepal & Sri Lanka",
+          "answer": "the rupee",
+          "isDailyDouble": false,
+          "orderNumber": 22,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ken",
+              "score": 15700
+            },
+            {
+              "player": "Jeff",
+              "score": 7600
+            },
+            {
+              "player": "Beth",
+              "score": -800
+            }
+          ]
+        },
+        {
+          "category": "SHE SELLS SEYCHELLES",
+          "value": 1600,
+          "clue": "Seychelles is an example of this grouping of a large number of islands on a vast sheet of sea",
+          "answer": "an archipelago",
+          "isDailyDouble": false,
+          "orderNumber": 23,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ken",
+              "score": 15700
+            },
+            {
+              "player": "Jeff",
+              "score": 9200
+            },
+            {
+              "player": "Beth",
+              "score": -800
+            }
+          ]
+        },
+        {
+          "category": "SHE SELLS SEYCHELLES",
+          "value": 2000,
+          "clue": "This Portuguese navigator, the first European to reach India by sea, discovered the Seychelles in 1502",
+          "answer": "Vasco da Gama",
+          "isDailyDouble": false,
+          "orderNumber": 24,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ken",
+              "score": 17700
+            },
+            {
+              "player": "Jeff",
+              "score": 9200
+            },
+            {
+              "player": "Beth",
+              "score": -800
+            }
+          ]
+        },
+        {
+          "category": "AVIATION",
+          "value": 2000,
+          "clue": "\"Air\"y name of the curved top & flat bottom shape that airplane (& bird) wings have to give them lift",
+          "answer": "an airfoil",
+          "isDailyDouble": false,
+          "orderNumber": 25,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ken",
+              "score": 17700
+            },
+            {
+              "player": "Jeff",
+              "score": 11200
+            },
+            {
+              "player": "Beth",
+              "score": -800
+            }
+          ]
+        },
+        {
+          "category": "HOMOPHONIC NAMES",
+          "value": 400,
+          "clue": "A tree that's a national symbol of Slovenia, or a Texan U.S. president's first name",
+          "answer": "linden (or Lyndon)",
+          "isDailyDouble": false,
+          "orderNumber": 26,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ken",
+              "score": 17300
+            },
+            {
+              "player": "Jeff",
+              "score": 11600
+            },
+            {
+              "player": "Beth",
+              "score": -800
+            }
+          ]
+        },
+        {
+          "category": "HOMOPHONIC NAMES",
+          "value": 800,
+          "clue": "Loudly, raucously sound out George Orwell's original last name",
+          "answer": "blare (or Blair)",
+          "isDailyDouble": false,
+          "orderNumber": 27,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ken",
+              "score": 18100
+            },
+            {
+              "player": "Jeff",
+              "score": 11600
+            },
+            {
+              "player": "Beth",
+              "score": -800
+            }
+          ]
+        },
+        {
+          "category": "HOMOPHONIC NAMES",
+          "value": 2000,
+          "clue": "Sadly for him, the 17th century gunpowder plotter wasn't quite as sly as the animal",
+          "answer": "Fawkes (or fox)",
+          "isDailyDouble": false,
+          "orderNumber": 28,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ken",
+              "score": 18100
+            },
+            {
+              "player": "Jeff",
+              "score": 13600
+            },
+            {
+              "player": "Beth",
+              "score": -800
+            }
+          ]
+        },
+        {
+          "category": "HOMOPHONIC NAMES",
+          "value": 1600,
+          "clue": "In \"A hymn to God the Father\", this metaphysical poet makes punning use of this synonym for \"finished\"",
+          "answer": "Donne (or done)",
+          "isDailyDouble": false,
+          "orderNumber": 29,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ken",
+              "score": 19700
+            },
+            {
+              "player": "Jeff",
+              "score": 13600
+            },
+            {
+              "player": "Beth",
+              "score": -800
+            }
+          ]
+        },
+        {
+          "category": "HOMOPHONIC NAMES",
+          "value": 1200,
+          "clue": "A critiquer of pure reason who died in 1804, or a response indicating you're unable to grasp his philosophy",
+          "answer": "Kant (or can't)",
+          "isDailyDouble": false,
+          "orderNumber": 30,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ken",
+              "score": 19700
+            },
+            {
+              "player": "Jeff",
+              "score": 14800
+            },
+            {
+              "player": "Beth",
+              "score": -800
+            }
+          ]
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "Ken",
+          "score": 19700
+        },
+        {
+          "player": "Jeff",
+          "score": 14800
+        },
+        {
+          "player": "Beth",
+          "score": -800
+        }
+      ]
+    },
+    "finalJeopardy": {
+      "category": "POETS",
+      "clue": "Called the 2 most innovative 19th century American poets, one didn't read the other after being \"told that he was disgraceful\"",
+      "answer": "Emily Dickinson & Walt Whitman",
+      "responses": [
+        {
+          "contestant": "Jeff",
+          "response": "Who are Longfellow and Cooper",
+          "isCorrect": false,
+          "isIncorrect": true,
+          "value": 4900,
+          "finalScore": 9900
+        },
+        {
+          "contestant": "Ken",
+          "response": "Who are Dickinson & Whitman?",
+          "isCorrect": true,
+          "isIncorrect": false,
+          "value": 9901,
+          "finalScore": 29601
+        }
+      ]
+    }
+  },
+  "finalScores": [
+    {
+      "player": "Ken",
+      "score": "$29,601"
+    },
+    {
+      "player": "Jeff",
+      "score": "$9,900"
+    },
+    {
+      "player": "Beth",
+      "score": "-$800"
+    }
+  ],
+  "coryatScores": [
+    {
+      "player": "Ken",
+      "score": 17600
+    },
+    {
+      "player": "Jeff",
+      "score": 15800
+    },
+    {
+      "player": "Beth",
+      "score": -800
+    }
+  ]
+}

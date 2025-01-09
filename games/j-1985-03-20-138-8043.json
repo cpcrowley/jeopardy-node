@@ -1,0 +1,1688 @@
+{
+  "gameId": 8043,
+  "showNumber": "138",
+  "title": "Show #138 - Wednesday, March 20, 1985",
+  "date": "1985-03-20",
+  "comments": "",
+  "contestants": [
+    "Steve",
+    "Roger",
+    "Gayle"
+  ],
+  "rounds": {
+    "jeopardy": {
+      "categories": [
+        "BODIES OF WATER",
+        "LETTERS",
+        "MOVIES",
+        "1983",
+        "FAIRY TALES",
+        "SON OF WOOD"
+      ],
+      "clues": [
+        {
+          "category": "BODIES OF WATER",
+          "value": 100,
+          "clue": "The saltiest as well as the lowest body of water on Earth",
+          "answer": "the Dead Sea",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [
+            "Steve"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve",
+              "score": 100
+            },
+            {
+              "player": "Roger",
+              "score": 0
+            },
+            {
+              "player": "Gayle",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "BODIES OF WATER",
+          "value": 200,
+          "clue": "The George Washington Bridge spans it",
+          "answer": "the Hudson River",
+          "isDailyDouble": false,
+          "orderNumber": 2,
+          "correctContestants": [
+            "Gayle"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve",
+              "score": 100
+            },
+            {
+              "player": "Roger",
+              "score": 0
+            },
+            {
+              "player": "Gayle",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "BODIES OF WATER",
+          "value": 300,
+          "clue": "Rapid U.S. river which empties into Mexico's Gulf of California",
+          "answer": "the Colorado River",
+          "isDailyDouble": false,
+          "orderNumber": 3,
+          "correctContestants": [
+            "Steve"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve",
+              "score": 400
+            },
+            {
+              "player": "Roger",
+              "score": 0
+            },
+            {
+              "player": "Gayle",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "BODIES OF WATER",
+          "value": 400,
+          "clue": "The sacred Ganges river flows into this bay",
+          "answer": "the Bay of Bengal",
+          "isDailyDouble": false,
+          "orderNumber": 4,
+          "correctContestants": [
+            "Steve"
+          ],
+          "incorrectContestants": [
+            "Roger"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve",
+              "score": 800
+            },
+            {
+              "player": "Roger",
+              "score": -400
+            },
+            {
+              "player": "Gayle",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "BODIES OF WATER",
+          "value": 500,
+          "clue": "Lake Baikal, deepest in the world, is in this East Block country",
+          "answer": "the Soviet Union",
+          "isDailyDouble": false,
+          "orderNumber": 5,
+          "correctContestants": [
+            "Steve"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve",
+              "score": 1300
+            },
+            {
+              "player": "Roger",
+              "score": -400
+            },
+            {
+              "player": "Gayle",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "MOVIES",
+          "value": 100,
+          "clue": "World premiere for \"Gone with the Wind\" was held in this city",
+          "answer": "Atlanta",
+          "isDailyDouble": false,
+          "orderNumber": 6,
+          "correctContestants": [
+            "Gayle"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve",
+              "score": 1300
+            },
+            {
+              "player": "Roger",
+              "score": -400
+            },
+            {
+              "player": "Gayle",
+              "score": 300
+            }
+          ]
+        },
+        {
+          "category": "MOVIES",
+          "value": 200,
+          "clue": "Ernst Stavro Blofeld, Oddjob & Dr. No",
+          "answer": "James Bond villains",
+          "isDailyDouble": false,
+          "orderNumber": 7,
+          "correctContestants": [
+            "Steve"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve",
+              "score": 1500
+            },
+            {
+              "player": "Roger",
+              "score": -400
+            },
+            {
+              "player": "Gayle",
+              "score": 300
+            }
+          ]
+        },
+        {
+          "category": "MOVIES",
+          "value": 300,
+          "clue": "Wall coating that WWII Oscars were \"cast\" in",
+          "answer": "plaster",
+          "isDailyDouble": false,
+          "orderNumber": 8,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Steve",
+            "Roger"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Steve",
+              "score": 1200
+            },
+            {
+              "player": "Roger",
+              "score": -700
+            },
+            {
+              "player": "Gayle",
+              "score": 300
+            }
+          ]
+        },
+        {
+          "category": "MOVIES",
+          "value": 400,
+          "clue": "Though best known as an actor, he directed \"The Alamo\" & \"The Green Berets\"",
+          "answer": "John Wayne",
+          "isDailyDouble": false,
+          "orderNumber": 9,
+          "correctContestants": [
+            "Steve"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve",
+              "score": 1600
+            },
+            {
+              "player": "Roger",
+              "score": -700
+            },
+            {
+              "player": "Gayle",
+              "score": 300
+            }
+          ]
+        },
+        {
+          "category": "MOVIES",
+          "value": 500,
+          "clue": "Movie that begins with Jane Fonda stripping out of her spacesuit while floating in air",
+          "answer": "Barbarella",
+          "isDailyDouble": false,
+          "orderNumber": 10,
+          "correctContestants": [
+            "Steve"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve",
+              "score": 2100
+            },
+            {
+              "player": "Roger",
+              "score": -700
+            },
+            {
+              "player": "Gayle",
+              "score": 300
+            }
+          ]
+        },
+        {
+          "category": "1983",
+          "value": 100,
+          "clue": "Houston mayor Kathy Whitmire & actor Dustin Hoffman tied for 10th place on his worst-dressed women list",
+          "answer": "(Mr.) Blackwell",
+          "isDailyDouble": false,
+          "orderNumber": 11,
+          "correctContestants": [
+            "Steve"
+          ],
+          "incorrectContestants": [
+            "Gayle"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve",
+              "score": 2200
+            },
+            {
+              "player": "Roger",
+              "score": -700
+            },
+            {
+              "player": "Gayle",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "1983",
+          "value": 200,
+          "clue": "Newsweek ran these diaries one week & a \"stern\" rebuke the next",
+          "answer": "Hitler diaries",
+          "isDailyDouble": false,
+          "orderNumber": 12,
+          "correctContestants": [
+            "Steve"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve",
+              "score": 2400
+            },
+            {
+              "player": "Roger",
+              "score": -700
+            },
+            {
+              "player": "Gayle",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "1983",
+          "value": 300,
+          "clue": "'83 World Series champs",
+          "answer": "the Baltimore Orioles",
+          "isDailyDouble": false,
+          "orderNumber": 13,
+          "correctContestants": [
+            "Gayle"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve",
+              "score": 2400
+            },
+            {
+              "player": "Roger",
+              "score": -700
+            },
+            {
+              "player": "Gayle",
+              "score": 500
+            }
+          ]
+        },
+        {
+          "category": "FAIRY TALES",
+          "value": 100,
+          "clue": "In \"Jack & the Beanstalk\", what the ogre smelled",
+          "answer": "the blood of an Englishman",
+          "isDailyDouble": false,
+          "orderNumber": 14,
+          "correctContestants": [
+            "Steve"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve",
+              "score": 2500
+            },
+            {
+              "player": "Roger",
+              "score": -700
+            },
+            {
+              "player": "Gayle",
+              "score": 500
+            }
+          ]
+        },
+        {
+          "category": "1983",
+          "value": 400,
+          "clue": "In January he made news by resigning from the Joffrey Ballet",
+          "answer": "Ronald Reagan's son",
+          "isDailyDouble": false,
+          "orderNumber": 15,
+          "correctContestants": [
+            "Roger"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve",
+              "score": 2500
+            },
+            {
+              "player": "Roger",
+              "score": -300
+            },
+            {
+              "player": "Gayle",
+              "score": 500
+            }
+          ]
+        },
+        {
+          "category": "FAIRY TALES",
+          "value": 200,
+          "clue": "Items other than porridge that Goldilocks sampled",
+          "answer": "beds (or chairs)",
+          "isDailyDouble": false,
+          "orderNumber": 16,
+          "correctContestants": [
+            "Gayle"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve",
+              "score": 2500
+            },
+            {
+              "player": "Roger",
+              "score": -300
+            },
+            {
+              "player": "Gayle",
+              "score": 700
+            }
+          ]
+        },
+        {
+          "category": "FAIRY TALES",
+          "value": 300,
+          "clue": "James, a Shriner, or construction occupation of the 3rd little pig",
+          "answer": "a Mason",
+          "isDailyDouble": false,
+          "orderNumber": 17,
+          "correctContestants": [
+            "Roger"
+          ],
+          "incorrectContestants": [
+            "Steve"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve",
+              "score": 2200
+            },
+            {
+              "player": "Roger",
+              "score": 0
+            },
+            {
+              "player": "Gayle",
+              "score": 700
+            }
+          ]
+        },
+        {
+          "category": "FAIRY TALES",
+          "value": 400,
+          "clue": "A statue of the 4 \"town musicians\", a dog, cat, rooster and donkey, stands in this German town",
+          "answer": "Bremen",
+          "isDailyDouble": false,
+          "orderNumber": 18,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Steve",
+              "score": 2200
+            },
+            {
+              "player": "Roger",
+              "score": 0
+            },
+            {
+              "player": "Gayle",
+              "score": 700
+            }
+          ]
+        },
+        {
+          "category": "LETTERS",
+          "value": 100,
+          "clue": "This vowel is 6th letter from the end of the alphabet",
+          "answer": "U",
+          "isDailyDouble": false,
+          "orderNumber": 19,
+          "correctContestants": [
+            "Gayle"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve",
+              "score": 2200
+            },
+            {
+              "player": "Roger",
+              "score": 0
+            },
+            {
+              "player": "Gayle",
+              "score": 800
+            }
+          ]
+        },
+        {
+          "category": "LETTERS",
+          "value": 200,
+          "clue": "A person's initials combined in one design",
+          "answer": "a monogram",
+          "isDailyDouble": false,
+          "orderNumber": 20,
+          "correctContestants": [
+            "Steve"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve",
+              "score": 2400
+            },
+            {
+              "player": "Roger",
+              "score": 0
+            },
+            {
+              "player": "Gayle",
+              "score": 800
+            }
+          ]
+        },
+        {
+          "category": "LETTERS",
+          "value": 300,
+          "clue": "Middle initial of silent star Francis Bushman",
+          "answer": "X",
+          "isDailyDouble": false,
+          "orderNumber": 21,
+          "correctContestants": [
+            "Steve"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve",
+              "score": 2700
+            },
+            {
+              "player": "Roger",
+              "score": 0
+            },
+            {
+              "player": "Gayle",
+              "score": 800
+            }
+          ]
+        },
+        {
+          "category": "LETTERS",
+          "value": 800,
+          "clue": "Word formed by the postal abbreviations of Delaware, Massachusetts & North Dakota",
+          "answer": "demand",
+          "isDailyDouble": true,
+          "orderNumber": 22,
+          "correctContestants": [
+            "Steve"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve",
+              "score": 3500
+            },
+            {
+              "player": "Roger",
+              "score": 0
+            },
+            {
+              "player": "Gayle",
+              "score": 800
+            }
+          ]
+        },
+        {
+          "category": "LETTERS",
+          "value": 500,
+          "clue": "'84 Fall TV series with the shortest title",
+          "answer": "V",
+          "isDailyDouble": false,
+          "orderNumber": 23,
+          "correctContestants": [
+            "Gayle"
+          ],
+          "incorrectContestants": [
+            "Steve"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve",
+              "score": 3000
+            },
+            {
+              "player": "Roger",
+              "score": 0
+            },
+            {
+              "player": "Gayle",
+              "score": 1300
+            }
+          ]
+        },
+        {
+          "category": "SON OF WOOD",
+          "value": 100,
+          "clue": "Jed Clampett whiled away the hours with this hobby on his front porch",
+          "answer": "whittling",
+          "isDailyDouble": false,
+          "orderNumber": 24,
+          "correctContestants": [
+            "Steve"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve",
+              "score": 3100
+            },
+            {
+              "player": "Roger",
+              "score": 0
+            },
+            {
+              "player": "Gayle",
+              "score": 1300
+            }
+          ]
+        },
+        {
+          "category": "1983",
+          "value": 500,
+          "clue": "A Santa Monica jury ruled he was defrauded by companion Erin Fleming",
+          "answer": "Groucho Marx",
+          "isDailyDouble": false,
+          "orderNumber": 25,
+          "correctContestants": [
+            "Steve"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve",
+              "score": 3600
+            },
+            {
+              "player": "Roger",
+              "score": 0
+            },
+            {
+              "player": "Gayle",
+              "score": 1300
+            }
+          ]
+        },
+        {
+          "category": "SON OF WOOD",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve",
+              "score": 3600
+            },
+            {
+              "player": "Roger",
+              "score": 0
+            },
+            {
+              "player": "Gayle",
+              "score": 1300
+            }
+          ]
+        },
+        {
+          "category": "SON OF WOOD",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve",
+              "score": 3600
+            },
+            {
+              "player": "Roger",
+              "score": 0
+            },
+            {
+              "player": "Gayle",
+              "score": 1300
+            }
+          ]
+        },
+        {
+          "category": "SON OF WOOD",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve",
+              "score": 3600
+            },
+            {
+              "player": "Roger",
+              "score": 0
+            },
+            {
+              "player": "Gayle",
+              "score": 1300
+            }
+          ]
+        },
+        {
+          "category": "FAIRY TALES",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve",
+              "score": 3600
+            },
+            {
+              "player": "Roger",
+              "score": 0
+            },
+            {
+              "player": "Gayle",
+              "score": 1300
+            }
+          ]
+        },
+        {
+          "category": "SON OF WOOD",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve",
+              "score": 3600
+            },
+            {
+              "player": "Roger",
+              "score": 0
+            },
+            {
+              "player": "Gayle",
+              "score": 1300
+            }
+          ]
+        }
+      ],
+      "firstBreakScores": [
+        {
+          "player": "Steve",
+          "score": 2100
+        },
+        {
+          "player": "Roger",
+          "score": -700
+        },
+        {
+          "player": "Gayle",
+          "score": 300
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "Steve",
+          "score": 3600
+        },
+        {
+          "player": "Roger",
+          "score": 0
+        },
+        {
+          "player": "Gayle",
+          "score": 1300
+        }
+      ]
+    },
+    "doubleJeopardy": {
+      "categories": [
+        "WORLD WAR I",
+        "GEOLOGY",
+        "ISLANDS IN SONG",
+        "POETRY",
+        "STATE CAPITALS",
+        "NUMBERS"
+      ],
+      "clues": [
+        {
+          "category": "GEOLOGY",
+          "value": 200,
+          "clue": "Seismology is the study of this",
+          "answer": "earthquakes",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve",
+              "score": 3600
+            },
+            {
+              "player": "Roger",
+              "score": 0
+            },
+            {
+              "player": "Gayle",
+              "score": 1500
+            }
+          ]
+        },
+        {
+          "category": "WORLD WAR I",
+          "value": 200,
+          "clue": "While Britain was preoccupied with the war, 1916 Easter Rebellion broke out there",
+          "answer": "Ireland",
+          "isDailyDouble": false,
+          "orderNumber": 2,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve",
+              "score": 3600
+            },
+            {
+              "player": "Roger",
+              "score": 0
+            },
+            {
+              "player": "Gayle",
+              "score": 1700
+            }
+          ]
+        },
+        {
+          "category": "WORLD WAR I",
+          "value": 400,
+          "clue": "Feminine nickname of 2 famous German long-range guns",
+          "answer": "Big Bertha",
+          "isDailyDouble": false,
+          "orderNumber": 3,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve",
+              "score": 4000
+            },
+            {
+              "player": "Roger",
+              "score": 0
+            },
+            {
+              "player": "Gayle",
+              "score": 1700
+            }
+          ]
+        },
+        {
+          "category": "STATE CAPITALS",
+          "value": 200,
+          "clue": "The \"Bluegrass Capital\"",
+          "answer": "Frankfort",
+          "isDailyDouble": false,
+          "orderNumber": 4,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve",
+              "score": 4200
+            },
+            {
+              "player": "Roger",
+              "score": 0
+            },
+            {
+              "player": "Gayle",
+              "score": 1500
+            }
+          ]
+        },
+        {
+          "category": "STATE CAPITALS",
+          "value": 400,
+          "clue": "Oldest capital in U.S., today it's popular artist colony in the Southwest",
+          "answer": "Santa Fe, New Mexico",
+          "isDailyDouble": false,
+          "orderNumber": 5,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve",
+              "score": 4600
+            },
+            {
+              "player": "Roger",
+              "score": 0
+            },
+            {
+              "player": "Gayle",
+              "score": 1500
+            }
+          ]
+        },
+        {
+          "category": "STATE CAPITALS",
+          "value": 600,
+          "clue": "Last capital on Mississippi before it empties into Gulf of Mexico",
+          "answer": "Baton Rouge, Louisiana",
+          "isDailyDouble": false,
+          "orderNumber": 6,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve",
+              "score": 5200
+            },
+            {
+              "player": "Roger",
+              "score": 0
+            },
+            {
+              "player": "Gayle",
+              "score": 1500
+            }
+          ]
+        },
+        {
+          "category": "STATE CAPITALS",
+          "value": 800,
+          "clue": "Franklin made 1st proposal to unite colonies at this \"Cradle of the Union\" capital",
+          "answer": "Albany, New York",
+          "isDailyDouble": false,
+          "orderNumber": 7,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Steve",
+              "score": 4400
+            },
+            {
+              "player": "Roger",
+              "score": 0
+            },
+            {
+              "player": "Gayle",
+              "score": 1500
+            }
+          ]
+        },
+        {
+          "category": "STATE CAPITALS",
+          "value": 1400,
+          "clue": "It has more nat'l & regional headquarters of fed. agencies than any other city except Washington",
+          "answer": "Denver, Colorado",
+          "isDailyDouble": true,
+          "orderNumber": 8,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve",
+              "score": 3000
+            },
+            {
+              "player": "Roger",
+              "score": 0
+            },
+            {
+              "player": "Gayle",
+              "score": 1500
+            }
+          ]
+        },
+        {
+          "category": "NUMBERS",
+          "value": 200,
+          "clue": "\"Clowns\" in Jason Robards movie, or years in a millenium",
+          "answer": "1,000",
+          "isDailyDouble": false,
+          "orderNumber": 9,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve",
+              "score": 3200
+            },
+            {
+              "player": "Roger",
+              "score": 0
+            },
+            {
+              "player": "Gayle",
+              "score": 1500
+            }
+          ]
+        },
+        {
+          "category": "NUMBERS",
+          "value": 400,
+          "clue": "In a perfect game of baseball, the pitcher faces this many batters",
+          "answer": "27",
+          "isDailyDouble": false,
+          "orderNumber": 10,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve",
+              "score": 3600
+            },
+            {
+              "player": "Roger",
+              "score": 0
+            },
+            {
+              "player": "Gayle",
+              "score": 1500
+            }
+          ]
+        },
+        {
+          "category": "NUMBERS",
+          "value": 600,
+          "clue": "Dante constructed his epic \"Divine Comedy\" on this mystical number",
+          "answer": "3",
+          "isDailyDouble": false,
+          "orderNumber": 11,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve",
+              "score": 3600
+            },
+            {
+              "player": "Roger",
+              "score": 0
+            },
+            {
+              "player": "Gayle",
+              "score": 2100
+            }
+          ]
+        },
+        {
+          "category": "POETRY",
+          "value": 200,
+          "clue": "\"There is no joy in Mudville\" because \"mighty Casey\" has done this",
+          "answer": "struck out",
+          "isDailyDouble": false,
+          "orderNumber": 12,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve",
+              "score": 3800
+            },
+            {
+              "player": "Roger",
+              "score": 0
+            },
+            {
+              "player": "Gayle",
+              "score": 2100
+            }
+          ]
+        },
+        {
+          "category": "NUMBERS",
+          "value": 800,
+          "clue": "According to the song, it's the number of girls singing this chorus:\"Keep your mind on your driving, keep your hands on the wheel / Keep your snoopy eyes on the road ahead / We're having fun, sitting in the backseat / Kissing and a-hugging with Fred \"",
+          "answer": "7",
+          "isDailyDouble": true,
+          "orderNumber": 13,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve",
+              "score": 3000
+            },
+            {
+              "player": "Roger",
+              "score": 0
+            },
+            {
+              "player": "Gayle",
+              "score": 2100
+            }
+          ]
+        },
+        {
+          "category": "NUMBERS",
+          "value": 1000,
+          "clue": "Amount of pay raise the workers wanted in Broadway's \"Pajama Game\"",
+          "answer": "seven and a half cents (an hour)",
+          "isDailyDouble": false,
+          "orderNumber": 14,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve",
+              "score": 4000
+            },
+            {
+              "player": "Roger",
+              "score": 0
+            },
+            {
+              "player": "Gayle",
+              "score": 2100
+            }
+          ]
+        },
+        {
+          "category": "ISLANDS IN SONG",
+          "value": 200,
+          "clue": "In his \"farewell\" to this island, Harry Belafonte's \"heart was down, his head was turning around\"",
+          "answer": "Jamaica",
+          "isDailyDouble": false,
+          "orderNumber": 15,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve",
+              "score": 4000
+            },
+            {
+              "player": "Roger",
+              "score": 200
+            },
+            {
+              "player": "Gayle",
+              "score": 2100
+            }
+          ]
+        },
+        {
+          "category": "GEOLOGY",
+          "value": 400,
+          "clue": "These limestone deposits rise from the ground of caves",
+          "answer": "stalagmites",
+          "isDailyDouble": false,
+          "orderNumber": 16,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve",
+              "score": 4000
+            },
+            {
+              "player": "Roger",
+              "score": 200
+            },
+            {
+              "player": "Gayle",
+              "score": 2500
+            }
+          ]
+        },
+        {
+          "category": "POETRY",
+          "value": 400,
+          "clue": "What Ralph Waldo Emerson suggested you \"hitch your wagon to\"",
+          "answer": "a star",
+          "isDailyDouble": false,
+          "orderNumber": 17,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve",
+              "score": 4000
+            },
+            {
+              "player": "Roger",
+              "score": 200
+            },
+            {
+              "player": "Gayle",
+              "score": 2900
+            }
+          ]
+        },
+        {
+          "category": "POETRY",
+          "value": 600,
+          "clue": "WWI poet Alan Seeger did indeed \"have a rendezvous\" with it",
+          "answer": "death",
+          "isDailyDouble": false,
+          "orderNumber": 18,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve",
+              "score": 3400
+            },
+            {
+              "player": "Roger",
+              "score": 200
+            },
+            {
+              "player": "Gayle",
+              "score": 3500
+            }
+          ]
+        },
+        {
+          "category": "POETRY",
+          "value": 800,
+          "clue": "Lucasta was told \"I could not love thee, dear, so much, loved I not\" this more",
+          "answer": "honor",
+          "isDailyDouble": false,
+          "orderNumber": 19,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Steve",
+              "score": 3400
+            },
+            {
+              "player": "Roger",
+              "score": -600
+            },
+            {
+              "player": "Gayle",
+              "score": 3500
+            }
+          ]
+        },
+        {
+          "category": "POETRY",
+          "value": 1000,
+          "clue": "Herrick suggests they \"gather ye rosebuds while ye may\"",
+          "answer": "the virgins",
+          "isDailyDouble": false,
+          "orderNumber": 20,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Steve",
+              "score": 3400
+            },
+            {
+              "player": "Roger",
+              "score": -1600
+            },
+            {
+              "player": "Gayle",
+              "score": 3500
+            }
+          ]
+        },
+        {
+          "category": "ISLANDS IN SONG",
+          "value": 400,
+          "clue": "Besides this, Rodgers & Hart \"took the Bronx and Staten Island, too\"",
+          "answer": "Manhattan",
+          "isDailyDouble": false,
+          "orderNumber": 21,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve",
+              "score": 3800
+            },
+            {
+              "player": "Roger",
+              "score": -1600
+            },
+            {
+              "player": "Gayle",
+              "score": 3500
+            }
+          ]
+        },
+        {
+          "category": "ISLANDS IN SONG",
+          "value": 600,
+          "clue": "In '69, The Ventures had a #4 hit with this theme of TV's longest continuous-running police show",
+          "answer": "\"Hawaii Five-O\"",
+          "isDailyDouble": false,
+          "orderNumber": 22,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve",
+              "score": 4400
+            },
+            {
+              "player": "Roger",
+              "score": -1600
+            },
+            {
+              "player": "Gayle",
+              "score": 3500
+            }
+          ]
+        },
+        {
+          "category": "ISLANDS IN SONG",
+          "value": 800,
+          "clue": "Where Bertie Higgins \"had it all just like Bogey & Bacall\"",
+          "answer": "Key Largo",
+          "isDailyDouble": false,
+          "orderNumber": 23,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Steve",
+              "score": 4400
+            },
+            {
+              "player": "Roger",
+              "score": -1600
+            },
+            {
+              "player": "Gayle",
+              "score": 2700
+            }
+          ]
+        },
+        {
+          "category": "ISLANDS IN SONG",
+          "value": 1000,
+          "clue": "\"Twas on this island\" that Billy Vaughn \"found her\"",
+          "answer": "the Isle of Capri",
+          "isDailyDouble": false,
+          "orderNumber": 24,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve",
+              "score": 5400
+            },
+            {
+              "player": "Roger",
+              "score": -1600
+            },
+            {
+              "player": "Gayle",
+              "score": 2700
+            }
+          ]
+        },
+        {
+          "category": "WORLD WAR I",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve",
+              "score": 5400
+            },
+            {
+              "player": "Roger",
+              "score": -1600
+            },
+            {
+              "player": "Gayle",
+              "score": 2700
+            }
+          ]
+        },
+        {
+          "category": "GEOLOGY",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve",
+              "score": 5400
+            },
+            {
+              "player": "Roger",
+              "score": -1600
+            },
+            {
+              "player": "Gayle",
+              "score": 2700
+            }
+          ]
+        },
+        {
+          "category": "WORLD WAR I",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve",
+              "score": 5400
+            },
+            {
+              "player": "Roger",
+              "score": -1600
+            },
+            {
+              "player": "Gayle",
+              "score": 2700
+            }
+          ]
+        },
+        {
+          "category": "GEOLOGY",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve",
+              "score": 5400
+            },
+            {
+              "player": "Roger",
+              "score": -1600
+            },
+            {
+              "player": "Gayle",
+              "score": 2700
+            }
+          ]
+        },
+        {
+          "category": "WORLD WAR I",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve",
+              "score": 5400
+            },
+            {
+              "player": "Roger",
+              "score": -1600
+            },
+            {
+              "player": "Gayle",
+              "score": 2700
+            }
+          ]
+        },
+        {
+          "category": "GEOLOGY",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve",
+              "score": 5400
+            },
+            {
+              "player": "Roger",
+              "score": -1600
+            },
+            {
+              "player": "Gayle",
+              "score": 2700
+            }
+          ]
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "Steve",
+          "score": 5400
+        },
+        {
+          "player": "Roger",
+          "score": -1600
+        },
+        {
+          "player": "Gayle",
+          "score": 2700
+        }
+      ]
+    },
+    "finalJeopardy": {
+      "category": "U.S. PRESIDENTS",
+      "clue": "As result of 20th Amendment, his 2nd inauguration was the 1st to be held Jan. 20th, not March 4th",
+      "answer": "Franklin Delano Roosevelt",
+      "responses": [
+        {
+          "contestant": "Gayle",
+          "response": "Who was Franklin Roosevelt",
+          "isCorrect": true,
+          "isIncorrect": false,
+          "value": 2699,
+          "finalScore": 5399
+        },
+        {
+          "contestant": "Steve",
+          "response": "Who was F.D. Roosevelt",
+          "isCorrect": true,
+          "isIncorrect": false,
+          "value": 5300,
+          "finalScore": 10700
+        }
+      ]
+    }
+  },
+  "finalScores": [
+    {
+      "player": "Steve",
+      "score": "$10,700"
+    },
+    {
+      "player": "Roger",
+      "score": "-$1,600"
+    },
+    {
+      "player": "Gayle",
+      "score": "$5,399"
+    }
+  ],
+  "coryatScores": [
+    {
+      "player": "Steve",
+      "score": 7200
+    },
+    {
+      "player": "Roger",
+      "score": -1600
+    },
+    {
+      "player": "Gayle",
+      "score": 2700
+    }
+  ]
+}

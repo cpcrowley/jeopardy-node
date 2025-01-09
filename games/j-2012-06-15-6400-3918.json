@@ -1,0 +1,1701 @@
+{
+  "gameId": 3918,
+  "showNumber": "6400",
+  "title": "Show #6400 - Friday, June 15, 2012",
+  "date": "2012-06-15",
+  "comments": "David Menchaca game 2.",
+  "contestants": [
+    "David",
+    "Sally",
+    "Jim"
+  ],
+  "rounds": {
+    "jeopardy": {
+      "categories": [
+        "THE BRITISH ARE COMING!",
+        "3-LETTER WORDS",
+        "INVENTORS",
+        ".gov",
+        "WHO SAID WHAT ABOUT WHOM?",
+        "\"G\"EOGRAPHY"
+      ],
+      "clues": [
+        {
+          "category": "\"G\"EOGRAPHY",
+          "value": 200,
+          "clue": "Look out below!  It's this ice-covered land mass",
+          "answer": "Greenland",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [
+            "Jim"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 0
+            },
+            {
+              "player": "Sally",
+              "score": 0
+            },
+            {
+              "player": "Jim",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "\"G\"EOGRAPHY",
+          "value": 400,
+          "clue": "The fourth-largest city in the United Kingdom, it lies on both sides of the River Clyde",
+          "answer": "Glasgow",
+          "isDailyDouble": false,
+          "orderNumber": 2,
+          "correctContestants": [
+            "Jim"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 0
+            },
+            {
+              "player": "Sally",
+              "score": 0
+            },
+            {
+              "player": "Jim",
+              "score": 600
+            }
+          ]
+        },
+        {
+          "category": "\"G\"EOGRAPHY",
+          "value": 600,
+          "clue": "It's the suburb where you'd see the landmarks shown here",
+          "answer": "Giza",
+          "isDailyDouble": false,
+          "orderNumber": 3,
+          "correctContestants": [
+            "David"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 600
+            },
+            {
+              "player": "Sally",
+              "score": 0
+            },
+            {
+              "player": "Jim",
+              "score": 600
+            }
+          ]
+        },
+        {
+          "category": "\"G\"EOGRAPHY",
+          "value": 800,
+          "clue": "This cheesy town in South Holland is also noted for its stained-glass windows",
+          "answer": "Gouda",
+          "isDailyDouble": false,
+          "orderNumber": 4,
+          "correctContestants": [
+            "Sally"
+          ],
+          "incorrectContestants": [
+            "David"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": -200
+            },
+            {
+              "player": "Sally",
+              "score": 800
+            },
+            {
+              "player": "Jim",
+              "score": 600
+            }
+          ]
+        },
+        {
+          "category": "\"G\"EOGRAPHY",
+          "value": 1000,
+          "clue": "(Sasrah of the Clue Crew reports from Panama)Covering nearly 170 square miles, this man-made lake acts as water storage, enabling the Panama Canal to continue operation through the dry season.",
+          "answer": "Gatun",
+          "isDailyDouble": false,
+          "orderNumber": 5,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": -200
+            },
+            {
+              "player": "Sally",
+              "score": 800
+            },
+            {
+              "player": "Jim",
+              "score": 600
+            }
+          ]
+        },
+        {
+          "category": ".gov",
+          "value": 200,
+          "clue": "Information for first responders & links regarding cybersecurity are found at dhs.gov, this department",
+          "answer": "Department of Homeland Security",
+          "isDailyDouble": false,
+          "orderNumber": 6,
+          "correctContestants": [
+            "David"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 0
+            },
+            {
+              "player": "Sally",
+              "score": 800
+            },
+            {
+              "player": "Jim",
+              "score": 600
+            }
+          ]
+        },
+        {
+          "category": ".gov",
+          "value": 400,
+          "clue": "Its .gov website says it \"regulates interstate and international communications by radio, television... satellite & cable\"",
+          "answer": "FCC",
+          "isDailyDouble": false,
+          "orderNumber": 7,
+          "correctContestants": [
+            "Sally"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 0
+            },
+            {
+              "player": "Sally",
+              "score": 1200
+            },
+            {
+              "player": "Jim",
+              "score": 600
+            }
+          ]
+        },
+        {
+          "category": ".gov",
+          "value": 600,
+          "clue": "In 2011 the site for this volunteer org. touted its \"50 years of promoting... friendship around the world\"",
+          "answer": "the Peace Corps",
+          "isDailyDouble": false,
+          "orderNumber": 8,
+          "correctContestants": [
+            "Sally"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 0
+            },
+            {
+              "player": "Sally",
+              "score": 1800
+            },
+            {
+              "player": "Jim",
+              "score": 600
+            }
+          ]
+        },
+        {
+          "category": ".gov",
+          "value": 800,
+          "clue": "bia.gov is the site for this bureau established in 1824, the oldest in the Interior Department",
+          "answer": "the Bureau of Indian Affairs (Bureau for Indian Affairs accepted)",
+          "isDailyDouble": false,
+          "orderNumber": 9,
+          "correctContestants": [
+            "Jim"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 0
+            },
+            {
+              "player": "Sally",
+              "score": 1800
+            },
+            {
+              "player": "Jim",
+              "score": 1400
+            }
+          ]
+        },
+        {
+          "category": ".gov",
+          "value": 1000,
+          "clue": "It's the \"nw\" in nwtrb.gov, overseeing the Department of Energy's disposal of high-level this",
+          "answer": "nuclear waste",
+          "isDailyDouble": false,
+          "orderNumber": 10,
+          "correctContestants": [
+            "Jim"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 0
+            },
+            {
+              "player": "Sally",
+              "score": 1800
+            },
+            {
+              "player": "Jim",
+              "score": 2400
+            }
+          ]
+        },
+        {
+          "category": "THE BRITISH ARE COMING!",
+          "value": 800,
+          "clue": "It took The Animals less than 30 minutes to record this 1964 hit about a certain place in New Orleans",
+          "answer": "\"The House Of The Rising Sun\"",
+          "isDailyDouble": false,
+          "orderNumber": 11,
+          "correctContestants": [
+            "David"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 800
+            },
+            {
+              "player": "Sally",
+              "score": 1800
+            },
+            {
+              "player": "Jim",
+              "score": 2400
+            }
+          ]
+        },
+        {
+          "category": "THE BRITISH ARE COMING!",
+          "value": 1000,
+          "clue": "Then-session guitarist Jimmy Page played on this 1-named guy's \"Sunshine Superman\"",
+          "answer": "Donovan",
+          "isDailyDouble": false,
+          "orderNumber": 12,
+          "correctContestants": [
+            "Sally"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 800
+            },
+            {
+              "player": "Sally",
+              "score": 2800
+            },
+            {
+              "player": "Jim",
+              "score": 2400
+            }
+          ]
+        },
+        {
+          "category": "INVENTORS",
+          "value": 200,
+          "clue": "In 1876 he patented the telephone",
+          "answer": "(Alexander Graham) Bell",
+          "isDailyDouble": false,
+          "orderNumber": 13,
+          "correctContestants": [
+            "David"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 1000
+            },
+            {
+              "player": "Sally",
+              "score": 2800
+            },
+            {
+              "player": "Jim",
+              "score": 2400
+            }
+          ]
+        },
+        {
+          "category": "INVENTORS",
+          "value": 400,
+          "clue": "In the 1440s he came up with movable type",
+          "answer": "(Johannes) Gutenberg",
+          "isDailyDouble": false,
+          "orderNumber": 14,
+          "correctContestants": [
+            "David"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 1400
+            },
+            {
+              "player": "Sally",
+              "score": 2800
+            },
+            {
+              "player": "Jim",
+              "score": 2400
+            }
+          ]
+        },
+        {
+          "category": "INVENTORS",
+          "value": 600,
+          "clue": "In the 1920s Jacob Schick produced the first successful electric one",
+          "answer": "razor",
+          "isDailyDouble": false,
+          "orderNumber": 15,
+          "correctContestants": [
+            "Sally"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 1400
+            },
+            {
+              "player": "Sally",
+              "score": 3400
+            },
+            {
+              "player": "Jim",
+              "score": 2400
+            }
+          ]
+        },
+        {
+          "category": "WHO SAID WHAT ABOUT WHOM?",
+          "value": 200,
+          "clue": "Following this man's assassination, Jawaharlal Nehru said, \"the light has gone out of our lives\"",
+          "answer": "Gandhi",
+          "isDailyDouble": false,
+          "orderNumber": 16,
+          "correctContestants": [
+            "Sally"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 1400
+            },
+            {
+              "player": "Sally",
+              "score": 3600
+            },
+            {
+              "player": "Jim",
+              "score": 2400
+            }
+          ]
+        },
+        {
+          "category": "WHO SAID WHAT ABOUT WHOM?",
+          "value": 400,
+          "clue": "Howard Hughes said this \"Gone With The Wind\" actor's \"ears make him look like a taxi-cab with both doors open",
+          "answer": "Clark Gable",
+          "isDailyDouble": false,
+          "orderNumber": 17,
+          "correctContestants": [
+            "Sally"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 1400
+            },
+            {
+              "player": "Sally",
+              "score": 4000
+            },
+            {
+              "player": "Jim",
+              "score": 2400
+            }
+          ]
+        },
+        {
+          "category": "WHO SAID WHAT ABOUT WHOM?",
+          "value": 600,
+          "clue": "Of this prior champ, Muhammad Ali said, \"I just give lip service to being the greatest.  He was the greatest\"",
+          "answer": "Joe Louis",
+          "isDailyDouble": false,
+          "orderNumber": 18,
+          "correctContestants": [
+            "Sally"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 1400
+            },
+            {
+              "player": "Sally",
+              "score": 4600
+            },
+            {
+              "player": "Jim",
+              "score": 2400
+            }
+          ]
+        },
+        {
+          "category": "WHO SAID WHAT ABOUT WHOM?",
+          "value": 1400,
+          "clue": "John Keats called this American \"A philosophical Quaker full of mean and thrifty maxims\"",
+          "answer": "Benjamin Franklin",
+          "isDailyDouble": true,
+          "orderNumber": 19,
+          "correctContestants": [
+            "Sally"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 1400
+            },
+            {
+              "player": "Sally",
+              "score": 6000
+            },
+            {
+              "player": "Jim",
+              "score": 2400
+            }
+          ]
+        },
+        {
+          "category": "WHO SAID WHAT ABOUT WHOM?",
+          "value": 1000,
+          "clue": "MacArthur reportedly said of him, \"he'll make a fine president, he was the best clerk who ever served under me\"",
+          "answer": "Eisenhower",
+          "isDailyDouble": false,
+          "orderNumber": 20,
+          "correctContestants": [
+            "David"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 2400
+            },
+            {
+              "player": "Sally",
+              "score": 6000
+            },
+            {
+              "player": "Jim",
+              "score": 2400
+            }
+          ]
+        },
+        {
+          "category": "THE BRITISH ARE COMING!",
+          "value": 600,
+          "clue": "Dave Davies played guitar in this band",
+          "answer": "The Kinks",
+          "isDailyDouble": false,
+          "orderNumber": 21,
+          "correctContestants": [
+            "David"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 3000
+            },
+            {
+              "player": "Sally",
+              "score": 6000
+            },
+            {
+              "player": "Jim",
+              "score": 2400
+            }
+          ]
+        },
+        {
+          "category": "THE BRITISH ARE COMING!",
+          "value": 400,
+          "clue": "This band had the \"satisfaction\" of opening its first U.S. tour in San Bernardino & closing it at Carnegie Hall in '64",
+          "answer": "the Rolling Stones",
+          "isDailyDouble": false,
+          "orderNumber": 22,
+          "correctContestants": [
+            "Jim"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 3000
+            },
+            {
+              "player": "Sally",
+              "score": 6000
+            },
+            {
+              "player": "Jim",
+              "score": 2800
+            }
+          ]
+        },
+        {
+          "category": "THE BRITISH ARE COMING!",
+          "value": 200,
+          "clue": "In 1964 this band had 19 Top 40 hits; not a bad year, lads",
+          "answer": "the Beatles",
+          "isDailyDouble": false,
+          "orderNumber": 23,
+          "correctContestants": [
+            "David"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 3200
+            },
+            {
+              "player": "Sally",
+              "score": 6000
+            },
+            {
+              "player": "Jim",
+              "score": 2800
+            }
+          ]
+        },
+        {
+          "category": "INVENTORS",
+          "value": 800,
+          "clue": "His 1869 inspiration was the stock ticker",
+          "answer": "Edison",
+          "isDailyDouble": false,
+          "orderNumber": 24,
+          "correctContestants": [
+            "Sally"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 3200
+            },
+            {
+              "player": "Sally",
+              "score": 6800
+            },
+            {
+              "player": "Jim",
+              "score": 2800
+            }
+          ]
+        },
+        {
+          "category": "INVENTORS",
+          "value": 1000,
+          "clue": "You know him for his 1876 hand-operated carpet sweeper",
+          "answer": "(Melville) Bissell",
+          "isDailyDouble": false,
+          "orderNumber": 25,
+          "correctContestants": [
+            "Sally"
+          ],
+          "incorrectContestants": [
+            "David"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 2200
+            },
+            {
+              "player": "Sally",
+              "score": 7800
+            },
+            {
+              "player": "Jim",
+              "score": 2800
+            }
+          ]
+        },
+        {
+          "category": "3-LETTER WORDS",
+          "value": 200,
+          "clue": "A play on words, usually in a humorous way",
+          "answer": "a pun",
+          "isDailyDouble": false,
+          "orderNumber": 26,
+          "correctContestants": [
+            "Sally"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 2200
+            },
+            {
+              "player": "Sally",
+              "score": 8000
+            },
+            {
+              "player": "Jim",
+              "score": 2800
+            }
+          ]
+        },
+        {
+          "category": "3-LETTER WORDS",
+          "value": 400,
+          "clue": "3-letter creature, seen here",
+          "answer": "a doe",
+          "isDailyDouble": false,
+          "orderNumber": 27,
+          "correctContestants": [
+            "David"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 2600
+            },
+            {
+              "player": "Sally",
+              "score": 8000
+            },
+            {
+              "player": "Jim",
+              "score": 2800
+            }
+          ]
+        },
+        {
+          "category": "3-LETTER WORDS",
+          "value": 600,
+          "clue": "It's any of the bench-like seats with a fixed back arranged in rows in churches",
+          "answer": "a pew",
+          "isDailyDouble": false,
+          "orderNumber": 28,
+          "correctContestants": [
+            "Sally"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 2600
+            },
+            {
+              "player": "Sally",
+              "score": 8600
+            },
+            {
+              "player": "Jim",
+              "score": 2800
+            }
+          ]
+        },
+        {
+          "category": "3-LETTER WORDS",
+          "value": 800,
+          "clue": "In tennis, when a serve hits the net & drops into the proper court, it's called this & is replayed",
+          "answer": "a let",
+          "isDailyDouble": false,
+          "orderNumber": 29,
+          "correctContestants": [
+            "Sally"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 2600
+            },
+            {
+              "player": "Sally",
+              "score": 9400
+            },
+            {
+              "player": "Jim",
+              "score": 2800
+            }
+          ]
+        },
+        {
+          "category": "3-LETTER WORDS",
+          "value": 1000,
+          "clue": "To confer knighthood upon, or to insert new dialogue into a movie",
+          "answer": "dub",
+          "isDailyDouble": false,
+          "orderNumber": 30,
+          "correctContestants": [
+            "Jim"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 2600
+            },
+            {
+              "player": "Sally",
+              "score": 9400
+            },
+            {
+              "player": "Jim",
+              "score": 3800
+            }
+          ]
+        }
+      ],
+      "firstBreakScores": [
+        {
+          "player": "David",
+          "score": 1400
+        },
+        {
+          "player": "Sally",
+          "score": 3400
+        },
+        {
+          "player": "Jim",
+          "score": 2400
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "David",
+          "score": 2600
+        },
+        {
+          "player": "Sally",
+          "score": 9400
+        },
+        {
+          "player": "Jim",
+          "score": 3800
+        }
+      ]
+    },
+    "doubleJeopardy": {
+      "categories": [
+        "THE BRITISH ARE GOING!",
+        "CELEBRITIES' FAVORITE MOVIES",
+        "____ OF ____",
+        "ZODIAC RHYME TIME",
+        "20th CENTURY WRITERS",
+        "OPERA LOVERS"
+      ],
+      "clues": [
+        {
+          "category": "OPERA LOVERS",
+          "value": 400,
+          "clue": "After she declares her love for a toreador named Escamillo, she is stabbed to death by Don Jose",
+          "answer": "Carmen",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 3000
+            },
+            {
+              "player": "Sally",
+              "score": 9400
+            },
+            {
+              "player": "Jim",
+              "score": 3800
+            }
+          ]
+        },
+        {
+          "category": "OPERA LOVERS",
+          "value": 800,
+          "clue": "\"I Got Plenty O' Nuttin'\" & \"Oh Lawd, I'm On My Way\" are arias in the opera about this title couple",
+          "answer": "Porgy & Bess",
+          "isDailyDouble": false,
+          "orderNumber": 2,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 3000
+            },
+            {
+              "player": "Sally",
+              "score": 10200
+            },
+            {
+              "player": "Jim",
+              "score": 3800
+            }
+          ]
+        },
+        {
+          "category": "CELEBRITIES' FAVORITE MOVIES",
+          "value": 400,
+          "clue": "(Hi, I'm Kyra Sedgwick.) I made my professional debut on \"Another World\", so I have extra appreciation for this farce in which Dustin Hoffman goes to great lengths to land a part on a soap opera",
+          "answer": "Tootsie",
+          "isDailyDouble": false,
+          "orderNumber": 3,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 3000
+            },
+            {
+              "player": "Sally",
+              "score": 10600
+            },
+            {
+              "player": "Jim",
+              "score": 3800
+            }
+          ]
+        },
+        {
+          "category": "CELEBRITIES' FAVORITE MOVIES",
+          "value": 800,
+          "clue": "(I'm Andy Richter.)  I'm crazy about 1934's \"It's a Gift\", the masterpiece of this comedian & his alcoholic, henpecked persona",
+          "answer": "W.C. Fields",
+          "isDailyDouble": false,
+          "orderNumber": 4,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 3800
+            },
+            {
+              "player": "Sally",
+              "score": 10600
+            },
+            {
+              "player": "Jim",
+              "score": 3800
+            }
+          ]
+        },
+        {
+          "category": "CELEBRITIES' FAVORITE MOVIES",
+          "value": 1200,
+          "clue": "(Hi, I'm Joshua Malina.) I don't think I'd like to live in the world that Jonathan Pryce inhabits in this fantasy movie from Terry Gilliam, but I sure enjoy watching it",
+          "answer": "Brazil",
+          "isDailyDouble": false,
+          "orderNumber": 5,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 5000
+            },
+            {
+              "player": "Sally",
+              "score": 10600
+            },
+            {
+              "player": "Jim",
+              "score": 3800
+            }
+          ]
+        },
+        {
+          "category": "CELEBRITIES' FAVORITE MOVIES",
+          "value": 1600,
+          "clue": "(Hi, I'm Julie Bowen.) A love triangle, a tank invasion & Daniel Day-Lewis; this adaptation of Milan Kundera's novel has it all",
+          "answer": "The Unbearable Lightness Of Being",
+          "isDailyDouble": false,
+          "orderNumber": 6,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 5000
+            },
+            {
+              "player": "Sally",
+              "score": 10600
+            },
+            {
+              "player": "Jim",
+              "score": 3800
+            }
+          ]
+        },
+        {
+          "category": "CELEBRITIES' FAVORITE MOVIES",
+          "value": 2000,
+          "clue": "(Hi, I'm Pat Sajak.) My favorite movie is this perfect little 1983 film about what happens when an oil company encounters the people of a Scottish town",
+          "answer": "Local Hero",
+          "isDailyDouble": false,
+          "orderNumber": 7,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 7000
+            },
+            {
+              "player": "Sally",
+              "score": 10600
+            },
+            {
+              "player": "Jim",
+              "score": 3800
+            }
+          ]
+        },
+        {
+          "category": "OPERA LOVERS",
+          "value": 1200,
+          "clue": "At the end of a Berlioz opera inspired by Shakespeare, she & Benedict admit their love for one another",
+          "answer": "Beatrice",
+          "isDailyDouble": false,
+          "orderNumber": 8,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 5800
+            },
+            {
+              "player": "Sally",
+              "score": 10600
+            },
+            {
+              "player": "Jim",
+              "score": 3800
+            }
+          ]
+        },
+        {
+          "category": "OPERA LOVERS",
+          "value": 1600,
+          "clue": "It's love at first sight for Sophie & Octavian in this \"Knight Of The Rose\" opera",
+          "answer": "Der Rosenkavalier",
+          "isDailyDouble": false,
+          "orderNumber": 9,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 5800
+            },
+            {
+              "player": "Sally",
+              "score": 10600
+            },
+            {
+              "player": "Jim",
+              "score": 3800
+            }
+          ]
+        },
+        {
+          "category": "OPERA LOVERS",
+          "value": 2000,
+          "clue": "In a Gluck opera with the help of the love god Amor, Orfeo attempts to bring her back from Hades",
+          "answer": "Eurydice",
+          "isDailyDouble": false,
+          "orderNumber": 10,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 7800
+            },
+            {
+              "player": "Sally",
+              "score": 10600
+            },
+            {
+              "player": "Jim",
+              "score": 3800
+            }
+          ]
+        },
+        {
+          "category": "____ OF ____",
+          "value": 400,
+          "clue": "\"Divine\" legal phrase for something caused by uncontrollable forces",
+          "answer": "an act of God",
+          "isDailyDouble": false,
+          "orderNumber": 11,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 7800
+            },
+            {
+              "player": "Sally",
+              "score": 10600
+            },
+            {
+              "player": "Jim",
+              "score": 4200
+            }
+          ]
+        },
+        {
+          "category": "____ OF ____",
+          "value": 1600,
+          "clue": "If your sample is 1 thousand people in a population of 1 million, your poll has this of 3.1%",
+          "answer": "a margin of error",
+          "isDailyDouble": false,
+          "orderNumber": 12,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 9400
+            },
+            {
+              "player": "Sally",
+              "score": 9000
+            },
+            {
+              "player": "Jim",
+              "score": 4200
+            }
+          ]
+        },
+        {
+          "category": "____ OF ____",
+          "value": 2000,
+          "clue": "A little south of the state of the same name, it's AKA the Sea of Cortez",
+          "answer": "the Gulf of California",
+          "isDailyDouble": false,
+          "orderNumber": 13,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 9400
+            },
+            {
+              "player": "Sally",
+              "score": 9000
+            },
+            {
+              "player": "Jim",
+              "score": 6200
+            }
+          ]
+        },
+        {
+          "category": "____ OF ____",
+          "value": 1200,
+          "clue": "A path you're allowed to take on another's land",
+          "answer": "right of way",
+          "isDailyDouble": false,
+          "orderNumber": 14,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 9400
+            },
+            {
+              "player": "Sally",
+              "score": 10200
+            },
+            {
+              "player": "Jim",
+              "score": 6200
+            }
+          ]
+        },
+        {
+          "category": "____ OF ____",
+          "value": 800,
+          "clue": "Its 3 Capitol Hill buildings hold more than 63 million manuscripts",
+          "answer": "the Library of Congress",
+          "isDailyDouble": false,
+          "orderNumber": 15,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 9400
+            },
+            {
+              "player": "Sally",
+              "score": 11000
+            },
+            {
+              "player": "Jim",
+              "score": 6200
+            }
+          ]
+        },
+        {
+          "category": "THE BRITISH ARE GOING!",
+          "value": 400,
+          "clue": "In December 1963 Prince Philip was in Nairobi to hand over the documents making this country independent",
+          "answer": "Kenya",
+          "isDailyDouble": false,
+          "orderNumber": 16,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 9800
+            },
+            {
+              "player": "Sally",
+              "score": 11000
+            },
+            {
+              "player": "Jim",
+              "score": 6200
+            }
+          ]
+        },
+        {
+          "category": "THE BRITISH ARE GOING!",
+          "value": 800,
+          "clue": "Big news in 1997 included the British handover of this place",
+          "answer": "Hong Kong",
+          "isDailyDouble": false,
+          "orderNumber": 17,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 10600
+            },
+            {
+              "player": "Sally",
+              "score": 11000
+            },
+            {
+              "player": "Jim",
+              "score": 6200
+            }
+          ]
+        },
+        {
+          "category": "THE BRITISH ARE GOING!",
+          "value": 2000,
+          "clue": "In 120-degree heat in April 2009, British combat operations ended in this country, turned over to a U.S. brigade",
+          "answer": "Iraq",
+          "isDailyDouble": true,
+          "orderNumber": 18,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 12600
+            },
+            {
+              "player": "Sally",
+              "score": 11000
+            },
+            {
+              "player": "Jim",
+              "score": 6200
+            }
+          ]
+        },
+        {
+          "category": "THE BRITISH ARE GOING!",
+          "value": 1600,
+          "clue": "In 1976 a Colonel Swynnerton was the last British military presence on this island at the tip of the Malay Peninsula",
+          "answer": "Singapore",
+          "isDailyDouble": false,
+          "orderNumber": 19,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 14200
+            },
+            {
+              "player": "Sally",
+              "score": 11000
+            },
+            {
+              "player": "Jim",
+              "score": 6200
+            }
+          ]
+        },
+        {
+          "category": "THE BRITISH ARE GOING!",
+          "value": 2000,
+          "clue": "This last British mainland colony in the Americas became independent in 1981, but the British Military stayed until 1994",
+          "answer": "Belize",
+          "isDailyDouble": false,
+          "orderNumber": 20,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 14200
+            },
+            {
+              "player": "Sally",
+              "score": 11000
+            },
+            {
+              "player": "Jim",
+              "score": 8200
+            }
+          ]
+        },
+        {
+          "category": "20th CENTURY WRITERS",
+          "value": 1200,
+          "clue": "In 2005 Britain's National Portrait Gallery acquired the only known drawing of Ted Hughes by this writer, his wife",
+          "answer": "Sylvia Plath",
+          "isDailyDouble": false,
+          "orderNumber": 21,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 15400
+            },
+            {
+              "player": "Sally",
+              "score": 11000
+            },
+            {
+              "player": "Jim",
+              "score": 8200
+            }
+          ]
+        },
+        {
+          "category": "20th CENTURY WRITERS",
+          "value": 2000,
+          "clue": "From 1962 until his death in 1967, he was Poet Laureate of Illinois",
+          "answer": "Carl Sandburg",
+          "isDailyDouble": true,
+          "orderNumber": 22,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 13400
+            },
+            {
+              "player": "Sally",
+              "score": 11000
+            },
+            {
+              "player": "Jim",
+              "score": 8200
+            }
+          ]
+        },
+        {
+          "category": "20th CENTURY WRITERS",
+          "value": 2000,
+          "clue": "3's the charm for this playwright whose \"Three Tall Women\" earned him his third Pulitzer",
+          "answer": "Edward Albee",
+          "isDailyDouble": false,
+          "orderNumber": 23,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 13400
+            },
+            {
+              "player": "Sally",
+              "score": 11000
+            },
+            {
+              "player": "Jim",
+              "score": 8200
+            }
+          ]
+        },
+        {
+          "category": "20th CENTURY WRITERS",
+          "value": 800,
+          "clue": "World Book says this \"Main Street\" author \"died lonely and unhappy in Italy on Jan. 10, 1951\"",
+          "answer": "Sinclair Lewis",
+          "isDailyDouble": false,
+          "orderNumber": 24,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 13400
+            },
+            {
+              "player": "Sally",
+              "score": 11800
+            },
+            {
+              "player": "Jim",
+              "score": 8200
+            }
+          ]
+        },
+        {
+          "category": "20th CENTURY WRITERS",
+          "value": 400,
+          "clue": "He popularized the term \"The Jazz Age\" in a 1922 book title",
+          "answer": "Fitzgerald",
+          "isDailyDouble": false,
+          "orderNumber": 25,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 13400
+            },
+            {
+              "player": "Sally",
+              "score": 12200
+            },
+            {
+              "player": "Jim",
+              "score": 8200
+            }
+          ]
+        },
+        {
+          "category": "ZODIAC RHYME TIME",
+          "value": 400,
+          "clue": "A bullish group of singers",
+          "answer": "a taurus chorus",
+          "isDailyDouble": false,
+          "orderNumber": 26,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 13400
+            },
+            {
+              "player": "Sally",
+              "score": 12200
+            },
+            {
+              "player": "Jim",
+              "score": 8600
+            }
+          ]
+        },
+        {
+          "category": "ZODIAC RHYME TIME",
+          "value": 2000,
+          "clue": "Slang for a football referee born in early October",
+          "answer": "a libra zebra",
+          "isDailyDouble": false,
+          "orderNumber": 27,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 15400
+            },
+            {
+              "player": "Sally",
+              "score": 12200
+            },
+            {
+              "player": "Jim",
+              "score": 8600
+            }
+          ]
+        },
+        {
+          "category": "ZODIAC RHYME TIME",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 15400
+            },
+            {
+              "player": "Sally",
+              "score": 12200
+            },
+            {
+              "player": "Jim",
+              "score": 8600
+            }
+          ]
+        },
+        {
+          "category": "ZODIAC RHYME TIME",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 15400
+            },
+            {
+              "player": "Sally",
+              "score": 12200
+            },
+            {
+              "player": "Jim",
+              "score": 8600
+            }
+          ]
+        },
+        {
+          "category": "ZODIAC RHYME TIME",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 15400
+            },
+            {
+              "player": "Sally",
+              "score": 12200
+            },
+            {
+              "player": "Jim",
+              "score": 8600
+            }
+          ]
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "David",
+          "score": 15400
+        },
+        {
+          "player": "Sally",
+          "score": 12200
+        },
+        {
+          "player": "Jim",
+          "score": 8600
+        }
+      ]
+    },
+    "finalJeopardy": {
+      "category": "ISLANDS",
+      "clue": "This nation, independent since 1960 is the largest island in the world with French as one of its official languages",
+      "answer": "Madagascar",
+      "responses": [
+        {
+          "contestant": "Jim",
+          "response": "What is Madagascar?",
+          "isCorrect": true,
+          "isIncorrect": false,
+          "value": 1000,
+          "finalScore": 9600
+        },
+        {
+          "contestant": "Sally",
+          "response": "What is the Dominican Republic?",
+          "isCorrect": false,
+          "isIncorrect": true,
+          "value": 5001,
+          "finalScore": 7199
+        },
+        {
+          "contestant": "David",
+          "response": "What is Madagascar?",
+          "isCorrect": true,
+          "isIncorrect": false,
+          "value": 9001,
+          "finalScore": 24401
+        }
+      ]
+    }
+  },
+  "finalScores": [
+    {
+      "player": "David",
+      "score": "$24,401"
+    },
+    {
+      "player": "Sally",
+      "score": "$7,199"
+    },
+    {
+      "player": "Jim",
+      "score": "$9,600"
+    }
+  ],
+  "coryatScores": [
+    {
+      "player": "David",
+      "score": 16600
+    },
+    {
+      "player": "Sally",
+      "score": 11600
+    },
+    {
+      "player": "Jim",
+      "score": 8600
+    }
+  ]
+}

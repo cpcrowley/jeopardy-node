@@ -1,0 +1,1701 @@
+{
+  "gameId": 536,
+  "showNumber": "1331",
+  "title": "Show #1331 - Monday, May 21, 1990",
+  "date": "1990-05-21",
+  "comments": "",
+  "contestants": [
+    "Michelle",
+    "Deborah",
+    "Joe"
+  ],
+  "rounds": {
+    "jeopardy": {
+      "categories": [
+        "BEST SELLERS",
+        "ROCK GROUPS",
+        "FISH",
+        "THE AUTO INDUSTRY",
+        "FAMOUS COUPLES",
+        "FILE UNDER \"M\""
+      ],
+      "clues": [
+        {
+          "category": "ROCK GROUPS",
+          "value": 100,
+          "clue": "In 1971 this lead singer of The Doors was buried in the Pere Lachaise Cemetery in Paris",
+          "answer": "Jim Morrison",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [
+            "Joe"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michelle",
+              "score": 0
+            },
+            {
+              "player": "Deborah",
+              "score": 0
+            },
+            {
+              "player": "Joe",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "category": "THE AUTO INDUSTRY",
+          "value": 100,
+          "clue": "In 1908 William Durant founded this company that included Oldsmobile & Buick",
+          "answer": "General Motors",
+          "isDailyDouble": false,
+          "orderNumber": 2,
+          "correctContestants": [
+            "Joe"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michelle",
+              "score": 0
+            },
+            {
+              "player": "Deborah",
+              "score": 0
+            },
+            {
+              "player": "Joe",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "THE AUTO INDUSTRY",
+          "value": 200,
+          "clue": "Built by Carl Benz in 1885, the first internal combustion car had this many wheels",
+          "answer": "3",
+          "isDailyDouble": false,
+          "orderNumber": 3,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Michelle",
+            "Deborah",
+            "Joe"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Michelle",
+              "score": -200
+            },
+            {
+              "player": "Deborah",
+              "score": -200
+            },
+            {
+              "player": "Joe",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "THE AUTO INDUSTRY",
+          "value": 300,
+          "clue": "The first true example of this automobile was introduced in 1906 & called the Silver Ghost",
+          "answer": "Rolls-Royce",
+          "isDailyDouble": false,
+          "orderNumber": 4,
+          "correctContestants": [
+            "Deborah"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michelle",
+              "score": -200
+            },
+            {
+              "player": "Deborah",
+              "score": 100
+            },
+            {
+              "player": "Joe",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "BEST SELLERS",
+          "value": 100,
+          "clue": "\"Hey, Wait A Minute (I Wrote A Book!)\" by this former Raiders coach was a best seller in 1984",
+          "answer": "John Madden",
+          "isDailyDouble": false,
+          "orderNumber": 5,
+          "correctContestants": [
+            "Joe"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michelle",
+              "score": -200
+            },
+            {
+              "player": "Deborah",
+              "score": 100
+            },
+            {
+              "player": "Joe",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "category": "BEST SELLERS",
+          "value": 200,
+          "clue": "In 1987 a Soviet magazine ran excerpts from this B. Pasternak novel -- 29 years after it was banned",
+          "answer": "\"Doctor Zhivago\"",
+          "isDailyDouble": false,
+          "orderNumber": 6,
+          "correctContestants": [
+            "Michelle"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michelle",
+              "score": 0
+            },
+            {
+              "player": "Deborah",
+              "score": 100
+            },
+            {
+              "player": "Joe",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "category": "ROCK GROUPS",
+          "value": 200,
+          "clue": "Kenny Rogers & other members of the New Christy Minstrels left the group to form this one in 1967",
+          "answer": "The First Edition",
+          "isDailyDouble": false,
+          "orderNumber": 7,
+          "correctContestants": [
+            "Michelle"
+          ],
+          "incorrectContestants": [
+            "Deborah"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michelle",
+              "score": 200
+            },
+            {
+              "player": "Deborah",
+              "score": -100
+            },
+            {
+              "player": "Joe",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "category": "ROCK GROUPS",
+          "value": 300,
+          "clue": "This group's \"Nights In White Satin\" appeared on an album 5 yrs. before the single hit No. 2 in 1972",
+          "answer": "The Moody Blues",
+          "isDailyDouble": false,
+          "orderNumber": 8,
+          "correctContestants": [
+            "Michelle"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michelle",
+              "score": 500
+            },
+            {
+              "player": "Deborah",
+              "score": -100
+            },
+            {
+              "player": "Joe",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "category": "ROCK GROUPS",
+          "value": 400,
+          "clue": "Ace Frehley, Paul Stanley, Gene Simmons & Peter Criss formed this rock group",
+          "answer": "KISS",
+          "isDailyDouble": false,
+          "orderNumber": 9,
+          "correctContestants": [
+            "Deborah"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michelle",
+              "score": 500
+            },
+            {
+              "player": "Deborah",
+              "score": 300
+            },
+            {
+              "player": "Joe",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "category": "ROCK GROUPS",
+          "value": 500,
+          "clue": "4 hit singles came from this group's \"Hi Infidelity\" album",
+          "answer": "REO Speedwagon",
+          "isDailyDouble": false,
+          "orderNumber": 10,
+          "correctContestants": [
+            "Deborah"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michelle",
+              "score": 500
+            },
+            {
+              "player": "Deborah",
+              "score": 800
+            },
+            {
+              "player": "Joe",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "category": "BEST SELLERS",
+          "value": 300,
+          "clue": "His \"Kids Say The Darndest Things!\" topped the best-seller lists in both 1957 & 1958",
+          "answer": "Art Linkletter",
+          "isDailyDouble": false,
+          "orderNumber": 11,
+          "correctContestants": [
+            "Michelle"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michelle",
+              "score": 800
+            },
+            {
+              "player": "Deborah",
+              "score": 800
+            },
+            {
+              "player": "Joe",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "category": "FAMOUS COUPLES",
+          "value": 100,
+          "clue": "When her spouse was found guilty on Oct. 5, 1989, she sang a religious song for the press",
+          "answer": "Tammy Faye Bakker",
+          "isDailyDouble": false,
+          "orderNumber": 12,
+          "correctContestants": [
+            "Michelle"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michelle",
+              "score": 900
+            },
+            {
+              "player": "Deborah",
+              "score": 800
+            },
+            {
+              "player": "Joe",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "category": "FAMOUS COUPLES",
+          "value": 200,
+          "clue": "Chef whose wife, K, is the \"K\" in K-Paul's Louisiana Kitchen",
+          "answer": "Paul Prudhomme",
+          "isDailyDouble": false,
+          "orderNumber": 13,
+          "correctContestants": [
+            "Deborah"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michelle",
+              "score": 900
+            },
+            {
+              "player": "Deborah",
+              "score": 1000
+            },
+            {
+              "player": "Joe",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "category": "FAMOUS COUPLES",
+          "value": 300,
+          "clue": "Dr. Jonas Salk's wife, Francoise Gilot, was once the companion of this late, great modern artist",
+          "answer": "Pablo Picasso",
+          "isDailyDouble": false,
+          "orderNumber": 14,
+          "correctContestants": [
+            "Deborah"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michelle",
+              "score": 900
+            },
+            {
+              "player": "Deborah",
+              "score": 1300
+            },
+            {
+              "player": "Joe",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "category": "FAMOUS COUPLES",
+          "value": 400,
+          "clue": "\"Major Dad\" star Gerald McRaney must have had designs on this \"Designing Woman\" because he married her",
+          "answer": "Delta Burke",
+          "isDailyDouble": false,
+          "orderNumber": 15,
+          "correctContestants": [
+            "Michelle"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michelle",
+              "score": 1300
+            },
+            {
+              "player": "Deborah",
+              "score": 1300
+            },
+            {
+              "player": "Joe",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "category": "FAMOUS COUPLES",
+          "value": 500,
+          "clue": "Their daughter Linn Ullmann married an Oslo lawyer in 1989",
+          "answer": "Liv Ullmann & Ingmar Bergman",
+          "isDailyDouble": false,
+          "orderNumber": 16,
+          "correctContestants": [
+            "Michelle"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michelle",
+              "score": 1800
+            },
+            {
+              "player": "Deborah",
+              "score": 1300
+            },
+            {
+              "player": "Joe",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "category": "FILE UNDER \"M\"",
+          "value": 100,
+          "clue": "The driver of this \"train\" at Disneyland needs a one-track mind",
+          "answer": "Monorail",
+          "isDailyDouble": false,
+          "orderNumber": 17,
+          "correctContestants": [
+            "Michelle"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michelle",
+              "score": 1900
+            },
+            {
+              "player": "Deborah",
+              "score": 1300
+            },
+            {
+              "player": "Joe",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "category": "FILE UNDER \"M\"",
+          "value": 200,
+          "clue": "It's the liquid that remains after sugar crystals are removed from concentrated cane juice",
+          "answer": "Molasses",
+          "isDailyDouble": false,
+          "orderNumber": 18,
+          "correctContestants": [
+            "Joe"
+          ],
+          "incorrectContestants": [
+            "Deborah"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michelle",
+              "score": 1900
+            },
+            {
+              "player": "Deborah",
+              "score": 1100
+            },
+            {
+              "player": "Joe",
+              "score": 300
+            }
+          ]
+        },
+        {
+          "category": "THE AUTO INDUSTRY",
+          "value": 400,
+          "clue": "A Ford model that came out in '68, or the Italian name of the city that's home to Fiat",
+          "answer": "Torino",
+          "isDailyDouble": false,
+          "orderNumber": 19,
+          "correctContestants": [
+            "Joe"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michelle",
+              "score": 1900
+            },
+            {
+              "player": "Deborah",
+              "score": 1100
+            },
+            {
+              "player": "Joe",
+              "score": 700
+            }
+          ]
+        },
+        {
+          "category": "THE AUTO INDUSTRY",
+          "value": 500,
+          "clue": "August Horch founded 2 car companies - Horch & this one that's the Latin translation of his surname",
+          "answer": "Audi",
+          "isDailyDouble": false,
+          "orderNumber": 20,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Michelle",
+              "score": 1900
+            },
+            {
+              "player": "Deborah",
+              "score": 1100
+            },
+            {
+              "player": "Joe",
+              "score": 700
+            }
+          ]
+        },
+        {
+          "category": "FISH",
+          "value": 100,
+          "clue": "Like birds, all species of salmon & trout build these",
+          "answer": "Nests",
+          "isDailyDouble": false,
+          "orderNumber": 21,
+          "correctContestants": [
+            "Joe"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michelle",
+              "score": 1900
+            },
+            {
+              "player": "Deborah",
+              "score": 1100
+            },
+            {
+              "player": "Joe",
+              "score": 800
+            }
+          ]
+        },
+        {
+          "category": "FISH",
+          "value": 200,
+          "clue": "Southern California fish that come ashore to spawn & then run back into the ocean",
+          "answer": "Grunion",
+          "isDailyDouble": false,
+          "orderNumber": 22,
+          "correctContestants": [
+            "Joe"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michelle",
+              "score": 1900
+            },
+            {
+              "player": "Deborah",
+              "score": 1100
+            },
+            {
+              "player": "Joe",
+              "score": 1000
+            }
+          ]
+        },
+        {
+          "category": "FISH",
+          "value": 300,
+          "clue": "The Walking, Electric & Pencil species of this fish have \"whiskers\"",
+          "answer": "Catfish",
+          "isDailyDouble": false,
+          "orderNumber": 23,
+          "correctContestants": [
+            "Joe"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michelle",
+              "score": 1900
+            },
+            {
+              "player": "Deborah",
+              "score": 1100
+            },
+            {
+              "player": "Joe",
+              "score": 1300
+            }
+          ]
+        },
+        {
+          "category": "FISH",
+          "value": 400,
+          "clue": "The Portuguese got the name for this toothed fish from the Tupi Indians who live along the Amazon",
+          "answer": "piranhas",
+          "isDailyDouble": false,
+          "orderNumber": 24,
+          "correctContestants": [
+            "Joe"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michelle",
+              "score": 1900
+            },
+            {
+              "player": "Deborah",
+              "score": 1100
+            },
+            {
+              "player": "Joe",
+              "score": 1700
+            }
+          ]
+        },
+        {
+          "category": "FISH",
+          "value": 500,
+          "clue": "The largest species of this fish is the bluefin; the smallest, the skipjack",
+          "answer": "Tuna",
+          "isDailyDouble": false,
+          "orderNumber": 25,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Michelle",
+              "score": 1900
+            },
+            {
+              "player": "Deborah",
+              "score": 1100
+            },
+            {
+              "player": "Joe",
+              "score": 1700
+            }
+          ]
+        },
+        {
+          "category": "BEST SELLERS",
+          "value": 400,
+          "clue": "\"Made In America\" was this businessman's memoir of the 1984 Olympics",
+          "answer": "Peter Ueberroth",
+          "isDailyDouble": false,
+          "orderNumber": 26,
+          "correctContestants": [
+            "Joe"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michelle",
+              "score": 1900
+            },
+            {
+              "player": "Deborah",
+              "score": 1100
+            },
+            {
+              "player": "Joe",
+              "score": 2100
+            }
+          ]
+        },
+        {
+          "category": "BEST SELLERS",
+          "value": 500,
+          "clue": "This Lloyd C. Douglas novel of the crucifixion was a best seller in '43 & '53 when the movie came out",
+          "answer": "\"The Robe\"",
+          "isDailyDouble": false,
+          "orderNumber": 27,
+          "correctContestants": [
+            "Deborah"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michelle",
+              "score": 1900
+            },
+            {
+              "player": "Deborah",
+              "score": 1600
+            },
+            {
+              "player": "Joe",
+              "score": 2100
+            }
+          ]
+        },
+        {
+          "category": "FILE UNDER \"M\"",
+          "value": 300,
+          "clue": "His resume included Archduke of Austria & Emperor of Mexico",
+          "answer": "Maximillian",
+          "isDailyDouble": false,
+          "orderNumber": 28,
+          "correctContestants": [
+            "Joe"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michelle",
+              "score": 1900
+            },
+            {
+              "player": "Deborah",
+              "score": 1600
+            },
+            {
+              "player": "Joe",
+              "score": 2400
+            }
+          ]
+        },
+        {
+          "category": "FILE UNDER \"M\"",
+          "value": 1000,
+          "clue": "It begins \"John, by the grace of God, King of England, Lord of Ireland, Duke of Normandy & Aquitaine....\"",
+          "answer": "Magna Carta",
+          "isDailyDouble": true,
+          "orderNumber": 29,
+          "correctContestants": [
+            "Joe"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michelle",
+              "score": 1900
+            },
+            {
+              "player": "Deborah",
+              "score": 1600
+            },
+            {
+              "player": "Joe",
+              "score": 3400
+            }
+          ]
+        },
+        {
+          "category": "FILE UNDER \"M\"",
+          "value": 500,
+          "clue": "From the French for \"a mixture\", it's a free-for-all battle",
+          "answer": "Melee",
+          "isDailyDouble": false,
+          "orderNumber": 30,
+          "correctContestants": [
+            "Deborah"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michelle",
+              "score": 1900
+            },
+            {
+              "player": "Deborah",
+              "score": 2100
+            },
+            {
+              "player": "Joe",
+              "score": 3400
+            }
+          ]
+        }
+      ],
+      "firstBreakScores": [
+        {
+          "player": "Michelle",
+          "score": 500
+        },
+        {
+          "player": "Deborah",
+          "score": 800
+        },
+        {
+          "player": "Joe",
+          "score": 100
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "Michelle",
+          "score": 1900
+        },
+        {
+          "player": "Deborah",
+          "score": 2100
+        },
+        {
+          "player": "Joe",
+          "score": 3400
+        }
+      ]
+    },
+    "doubleJeopardy": {
+      "categories": [
+        "EARLY AMERICA",
+        "PLAYS",
+        "WORLD GEOGRAPHY",
+        "POLITICAL TERMS",
+        "GREEK MYTHOLOGY",
+        "NUTMEGGERS"
+      ],
+      "clues": [
+        {
+          "category": "PLAYS",
+          "value": 200,
+          "clue": "In the title of a play by Robert Anderson, it's paired with \"sympathy\"",
+          "answer": "Tea",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michelle",
+              "score": 2100
+            },
+            {
+              "player": "Deborah",
+              "score": 2100
+            },
+            {
+              "player": "Joe",
+              "score": 3400
+            }
+          ]
+        },
+        {
+          "category": "PLAYS",
+          "value": 400,
+          "clue": "In \"Painting Churches\", the churches aren't buildings but these",
+          "answer": "People",
+          "isDailyDouble": false,
+          "orderNumber": 2,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michelle",
+              "score": 2100
+            },
+            {
+              "player": "Deborah",
+              "score": 2500
+            },
+            {
+              "player": "Joe",
+              "score": 3400
+            }
+          ]
+        },
+        {
+          "category": "PLAYS",
+          "value": 600,
+          "clue": "Anita Loos wrote the non-musical stage adaptation of this Colette novel",
+          "answer": "\"Gigi\"",
+          "isDailyDouble": false,
+          "orderNumber": 3,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michelle",
+              "score": 2700
+            },
+            {
+              "player": "Deborah",
+              "score": 2500
+            },
+            {
+              "player": "Joe",
+              "score": 3400
+            }
+          ]
+        },
+        {
+          "category": "PLAYS",
+          "value": 800,
+          "clue": "\"Dial 'M' For Murder\" takes place in the living room of an apartment in this foreign capital",
+          "answer": "London",
+          "isDailyDouble": false,
+          "orderNumber": 4,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Michelle",
+              "score": 2700
+            },
+            {
+              "player": "Deborah",
+              "score": 2500
+            },
+            {
+              "player": "Joe",
+              "score": 3400
+            }
+          ]
+        },
+        {
+          "category": "PLAYS",
+          "value": 1000,
+          "clue": "\"Regina\" was a 1949 musical version of this Lillian Hellman play",
+          "answer": "\"The Little Foxes\"",
+          "isDailyDouble": false,
+          "orderNumber": 5,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michelle",
+              "score": 2700
+            },
+            {
+              "player": "Deborah",
+              "score": 3500
+            },
+            {
+              "player": "Joe",
+              "score": 3400
+            }
+          ]
+        },
+        {
+          "category": "NUTMEGGERS",
+          "value": 200,
+          "clue": "This \"good\" guy who discovered vulcanization was born in New Haven",
+          "answer": "Charles Goodyear",
+          "isDailyDouble": false,
+          "orderNumber": 6,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michelle",
+              "score": 2900
+            },
+            {
+              "player": "Deborah",
+              "score": 3500
+            },
+            {
+              "player": "Joe",
+              "score": 3400
+            }
+          ]
+        },
+        {
+          "category": "GREEK MYTHOLOGY",
+          "value": 200,
+          "clue": "One legend claims they fought in the Trojan War under their queen, Penthesilea",
+          "answer": "Amazons",
+          "isDailyDouble": false,
+          "orderNumber": 7,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michelle",
+              "score": 3100
+            },
+            {
+              "player": "Deborah",
+              "score": 3500
+            },
+            {
+              "player": "Joe",
+              "score": 3400
+            }
+          ]
+        },
+        {
+          "category": "GREEK MYTHOLOGY",
+          "value": 400,
+          "clue": "It starts life again as a small worm that crawls out of the ashes of its own funeral pyre",
+          "answer": "The Phoenix",
+          "isDailyDouble": false,
+          "orderNumber": 8,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michelle",
+              "score": 3500
+            },
+            {
+              "player": "Deborah",
+              "score": 3500
+            },
+            {
+              "player": "Joe",
+              "score": 3400
+            }
+          ]
+        },
+        {
+          "category": "GREEK MYTHOLOGY",
+          "value": 600,
+          "clue": "To make her son invulnerable, Achilles' mother bathed all but the famous heel in this river",
+          "answer": "The Styx",
+          "isDailyDouble": false,
+          "orderNumber": 9,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michelle",
+              "score": 4100
+            },
+            {
+              "player": "Deborah",
+              "score": 3500
+            },
+            {
+              "player": "Joe",
+              "score": 3400
+            }
+          ]
+        },
+        {
+          "category": "GREEK MYTHOLOGY",
+          "value": 1000,
+          "clue": "After she fell in love with him, Circe lifted the spell that had changed men into swine",
+          "answer": "Odysseus",
+          "isDailyDouble": true,
+          "orderNumber": 10,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michelle",
+              "score": 5100
+            },
+            {
+              "player": "Deborah",
+              "score": 3500
+            },
+            {
+              "player": "Joe",
+              "score": 3400
+            }
+          ]
+        },
+        {
+          "category": "GREEK MYTHOLOGY",
+          "value": 1000,
+          "clue": "Her sisters Stheno & Euryale are mentioned in myth, but we don't know if they were as ugly",
+          "answer": "Medusa",
+          "isDailyDouble": false,
+          "orderNumber": 11,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michelle",
+              "score": 5100
+            },
+            {
+              "player": "Deborah",
+              "score": 3500
+            },
+            {
+              "player": "Joe",
+              "score": 4400
+            }
+          ]
+        },
+        {
+          "category": "WORLD GEOGRAPHY",
+          "value": 200,
+          "clue": "The Paraguay River divides Paraguay into 2 major regions:  Occidental Paraguay & this",
+          "answer": "Oriental Paraguay",
+          "isDailyDouble": false,
+          "orderNumber": 12,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michelle",
+              "score": 5100
+            },
+            {
+              "player": "Deborah",
+              "score": 3700
+            },
+            {
+              "player": "Joe",
+              "score": 4400
+            }
+          ]
+        },
+        {
+          "category": "EARLY AMERICA",
+          "value": 200,
+          "clue": "On March 10, 1775 this frontiersman began blazing the Wilderness Road",
+          "answer": "Daniel Boone",
+          "isDailyDouble": false,
+          "orderNumber": 13,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michelle",
+              "score": 5100
+            },
+            {
+              "player": "Deborah",
+              "score": 3900
+            },
+            {
+              "player": "Joe",
+              "score": 4400
+            }
+          ]
+        },
+        {
+          "category": "EARLY AMERICA",
+          "value": 400,
+          "clue": "In early colonial Boston only men belonging to this religious sect could vote or hold office",
+          "answer": "Puritans",
+          "isDailyDouble": false,
+          "orderNumber": 14,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michelle",
+              "score": 4700
+            },
+            {
+              "player": "Deborah",
+              "score": 4300
+            },
+            {
+              "player": "Joe",
+              "score": 4400
+            }
+          ]
+        },
+        {
+          "category": "EARLY AMERICA",
+          "value": 600,
+          "clue": "Drawn up in 1620, this document formed the basis of Plymouth Colony's legal system",
+          "answer": "The Mayflower Compact",
+          "isDailyDouble": false,
+          "orderNumber": 15,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michelle",
+              "score": 4700
+            },
+            {
+              "player": "Deborah",
+              "score": 4300
+            },
+            {
+              "player": "Joe",
+              "score": 5000
+            }
+          ]
+        },
+        {
+          "category": "WORLD GEOGRAPHY",
+          "value": 400,
+          "clue": "The Denmark Strait is located between Iceland & this Danish possession",
+          "answer": "Greenland",
+          "isDailyDouble": false,
+          "orderNumber": 16,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michelle",
+              "score": 5100
+            },
+            {
+              "player": "Deborah",
+              "score": 4300
+            },
+            {
+              "player": "Joe",
+              "score": 5000
+            }
+          ]
+        },
+        {
+          "category": "WORLD GEOGRAPHY",
+          "value": 600,
+          "clue": "Cristoforo Colombo Int'l Airport serves this city, Italy's busiest port",
+          "answer": "Genoa",
+          "isDailyDouble": false,
+          "orderNumber": 17,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michelle",
+              "score": 5100
+            },
+            {
+              "player": "Deborah",
+              "score": 4900
+            },
+            {
+              "player": "Joe",
+              "score": 5000
+            }
+          ]
+        },
+        {
+          "category": "NUTMEGGERS",
+          "value": 400,
+          "clue": "Born in Winsted, he practiced law in Connecticut before he wrote \"Unsafe At Any Speed\"",
+          "answer": "Ralph Nader",
+          "isDailyDouble": false,
+          "orderNumber": 18,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michelle",
+              "score": 5100
+            },
+            {
+              "player": "Deborah",
+              "score": 5300
+            },
+            {
+              "player": "Joe",
+              "score": 5000
+            }
+          ]
+        },
+        {
+          "category": "NUTMEGGERS",
+          "value": 600,
+          "clue": "His character, Radar O' Reilly, was from Iowa, but this actor was born in Bristol, Connecticut",
+          "answer": "Gary Burghoff",
+          "isDailyDouble": false,
+          "orderNumber": 19,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michelle",
+              "score": 5100
+            },
+            {
+              "player": "Deborah",
+              "score": 5900
+            },
+            {
+              "player": "Joe",
+              "score": 5000
+            }
+          ]
+        },
+        {
+          "category": "NUTMEGGERS",
+          "value": 800,
+          "clue": "Her \"immediate family\" raised her mostly in Greenwich & also briefly in Africa",
+          "answer": "Glenn Close",
+          "isDailyDouble": false,
+          "orderNumber": 20,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Michelle",
+              "score": 5100
+            },
+            {
+              "player": "Deborah",
+              "score": 5900
+            },
+            {
+              "player": "Joe",
+              "score": 5000
+            }
+          ]
+        },
+        {
+          "category": "NUTMEGGERS",
+          "value": 1000,
+          "clue": "This Watergate judge born in Waterbury was Time Magazine's \"Man of the Year\" for 1973",
+          "answer": "John Sirica",
+          "isDailyDouble": false,
+          "orderNumber": 21,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michelle",
+              "score": 5100
+            },
+            {
+              "player": "Deborah",
+              "score": 6900
+            },
+            {
+              "player": "Joe",
+              "score": 5000
+            }
+          ]
+        },
+        {
+          "category": "EARLY AMERICA",
+          "value": 800,
+          "clue": "1797 \"affair\" in which 3 agents for France demanded a $250,000 bribe from U.S. diplomats",
+          "answer": "\"XYZ\" Affair",
+          "isDailyDouble": false,
+          "orderNumber": 22,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michelle",
+              "score": 5100
+            },
+            {
+              "player": "Deborah",
+              "score": 7700
+            },
+            {
+              "player": "Joe",
+              "score": 5000
+            }
+          ]
+        },
+        {
+          "category": "EARLY AMERICA",
+          "value": 3000,
+          "clue": "On March 1, 1781 Maryland became the last state to ratify this document",
+          "answer": "Articles of Confederation",
+          "isDailyDouble": true,
+          "orderNumber": 23,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michelle",
+              "score": 5100
+            },
+            {
+              "player": "Deborah",
+              "score": 4700
+            },
+            {
+              "player": "Joe",
+              "score": 5000
+            }
+          ]
+        },
+        {
+          "category": "POLITICAL TERMS",
+          "value": 200,
+          "clue": "Politically speaking, it's a cause that looks promising; you can join by \"jumping on\" it",
+          "answer": "Bandwagon",
+          "isDailyDouble": false,
+          "orderNumber": 24,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michelle",
+              "score": 4900
+            },
+            {
+              "player": "Deborah",
+              "score": 4700
+            },
+            {
+              "player": "Joe",
+              "score": 5200
+            }
+          ]
+        },
+        {
+          "category": "WORLD GEOGRAPHY",
+          "value": 800,
+          "clue": "75 times the size of Belgium, the former Belgian Congo is now known by this name",
+          "answer": "Zaire",
+          "isDailyDouble": false,
+          "orderNumber": 25,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michelle",
+              "score": 4900
+            },
+            {
+              "player": "Deborah",
+              "score": 4700
+            },
+            {
+              "player": "Joe",
+              "score": 6000
+            }
+          ]
+        },
+        {
+          "category": "WORLD GEOGRAPHY",
+          "value": 1000,
+          "clue": "More American Indians live in this country on South America's Pacific coast than any other",
+          "answer": "Peru",
+          "isDailyDouble": false,
+          "orderNumber": 26,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michelle",
+              "score": 4900
+            },
+            {
+              "player": "Deborah",
+              "score": 4700
+            },
+            {
+              "player": "Joe",
+              "score": 7000
+            }
+          ]
+        },
+        {
+          "category": "POLITICAL TERMS",
+          "value": 400,
+          "clue": "A special-interest group, named for the place in a capital building that is frequented by them",
+          "answer": "Lobby",
+          "isDailyDouble": false,
+          "orderNumber": 27,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michelle",
+              "score": 4900
+            },
+            {
+              "player": "Deborah",
+              "score": 4700
+            },
+            {
+              "player": "Joe",
+              "score": 7400
+            }
+          ]
+        },
+        {
+          "category": "POLITICAL TERMS",
+          "value": 600,
+          "clue": "Someone who votes for candidates of different parties on the same ballot votes this kind of \"ticket\"",
+          "answer": "Split Ticket",
+          "isDailyDouble": false,
+          "orderNumber": 28,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michelle",
+              "score": 4900
+            },
+            {
+              "player": "Deborah",
+              "score": 4700
+            },
+            {
+              "player": "Joe",
+              "score": 8000
+            }
+          ]
+        },
+        {
+          "category": "POLITICAL TERMS",
+          "value": 800,
+          "clue": "A candidate who's nominated by his home state at a convention, often as an honorary gesture",
+          "answer": "Favorite Son",
+          "isDailyDouble": false,
+          "orderNumber": 29,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michelle",
+              "score": 4900
+            },
+            {
+              "player": "Deborah",
+              "score": 5500
+            },
+            {
+              "player": "Joe",
+              "score": 8000
+            }
+          ]
+        },
+        {
+          "category": "POLITICAL TERMS",
+          "value": 1000,
+          "clue": "The \"privilege\" exercised by Congress & the executive branch to use the Postal Service free of charge",
+          "answer": "Franking",
+          "isDailyDouble": false,
+          "orderNumber": 30,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michelle",
+              "score": 4900
+            },
+            {
+              "player": "Deborah",
+              "score": 6500
+            },
+            {
+              "player": "Joe",
+              "score": 8000
+            }
+          ]
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "Michelle",
+          "score": 4900
+        },
+        {
+          "player": "Deborah",
+          "score": 6500
+        },
+        {
+          "player": "Joe",
+          "score": 8000
+        }
+      ]
+    },
+    "finalJeopardy": {
+      "category": "SCIENTISTS",
+      "clue": "When Einstein won the 1921 Nobel Prize in physics, he was a naturalized citizen of this country",
+      "answer": "Switzerland (He came to the U.S. later on)",
+      "responses": [
+        {
+          "contestant": "Michelle",
+          "response": "What is the USA",
+          "isCorrect": false,
+          "isIncorrect": true,
+          "value": 4899,
+          "finalScore": 1
+        },
+        {
+          "contestant": "Deborah",
+          "response": "What is Germany?",
+          "isCorrect": false,
+          "isIncorrect": true,
+          "value": 6500,
+          "finalScore": 0
+        },
+        {
+          "contestant": "Joe",
+          "response": "What is the U.S.?",
+          "isCorrect": false,
+          "isIncorrect": true,
+          "value": 5001,
+          "finalScore": 2999
+        }
+      ]
+    }
+  },
+  "finalScores": [
+    {
+      "player": "Michelle",
+      "score": "$1"
+    },
+    {
+      "player": "Deborah",
+      "score": "$0"
+    },
+    {
+      "player": "Joe",
+      "score": "$2,999"
+    }
+  ],
+  "coryatScores": [
+    {
+      "player": "Michelle",
+      "score": 4700
+    },
+    {
+      "player": "Deborah",
+      "score": 9500
+    },
+    {
+      "player": "Joe",
+      "score": 7400
+    }
+  ]
+}

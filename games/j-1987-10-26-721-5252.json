@@ -1,0 +1,1700 @@
+{
+  "gameId": 5252,
+  "showNumber": "721",
+  "title": "Show #721 - Monday, October 26, 1987",
+  "date": "1987-10-26",
+  "comments": "",
+  "contestants": [
+    "John",
+    "Tim",
+    "Carol"
+  ],
+  "rounds": {
+    "jeopardy": {
+      "categories": [
+        "THE U.N.",
+        "THE BIG CATS",
+        "SOLITAIRE",
+        "INDIANA",
+        "FLYING ACES",
+        "\"BAD\""
+      ],
+      "clues": [
+        {
+          "category": "THE U.N.",
+          "value": 100,
+          "clue": "Danny Kaye was well known for his work with this U.N. agency",
+          "answer": "UNICEF",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [
+            "Carol"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "John",
+              "score": 0
+            },
+            {
+              "player": "Tim",
+              "score": 0
+            },
+            {
+              "player": "Carol",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "category": "\"BAD\"",
+          "value": 100,
+          "clue": "A Boy Scout gets them as a sign of merit",
+          "answer": "badges",
+          "isDailyDouble": false,
+          "orderNumber": 2,
+          "correctContestants": [
+            "Tim"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "John",
+              "score": 0
+            },
+            {
+              "player": "Tim",
+              "score": 100
+            },
+            {
+              "player": "Carol",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "category": "THE BIG CATS",
+          "value": 100,
+          "clue": "Of the order \"Carnivora\", it's presently the largest African carnivore",
+          "answer": "lion",
+          "isDailyDouble": false,
+          "orderNumber": 3,
+          "correctContestants": [
+            "Carol"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "John",
+              "score": 0
+            },
+            {
+              "player": "Tim",
+              "score": 100
+            },
+            {
+              "player": "Carol",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "\"BAD\"",
+          "value": 200,
+          "clue": "It \"flowed\" between the Hatfields & McCoys",
+          "answer": "bad blood",
+          "isDailyDouble": false,
+          "orderNumber": 4,
+          "correctContestants": [
+            "Tim"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "John",
+              "score": 0
+            },
+            {
+              "player": "Tim",
+              "score": 300
+            },
+            {
+              "player": "Carol",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "THE BIG CATS",
+          "value": 200,
+          "clue": "These, not khaki fatigues, provide the leopard camouflage",
+          "answer": "spots",
+          "isDailyDouble": false,
+          "orderNumber": 5,
+          "correctContestants": [
+            "Tim"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "John",
+              "score": 0
+            },
+            {
+              "player": "Tim",
+              "score": 500
+            },
+            {
+              "player": "Carol",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "THE BIG CATS",
+          "value": 300,
+          "clue": "This New World big cat, Panthera onca, swims & climbs well but usually stalks prey on the ground",
+          "answer": "jaguar",
+          "isDailyDouble": false,
+          "orderNumber": 6,
+          "correctContestants": [
+            "Carol"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "John",
+              "score": 0
+            },
+            {
+              "player": "Tim",
+              "score": 500
+            },
+            {
+              "player": "Carol",
+              "score": 500
+            }
+          ]
+        },
+        {
+          "category": "\"BAD\"",
+          "value": 300,
+          "clue": "A region of rugged terrain, or a 1973 film that followed Martin Sheen & Sissy Spacek into such terrain",
+          "answer": "badlands",
+          "isDailyDouble": false,
+          "orderNumber": 7,
+          "correctContestants": [
+            "John"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "John",
+              "score": 300
+            },
+            {
+              "player": "Tim",
+              "score": 500
+            },
+            {
+              "player": "Carol",
+              "score": 500
+            }
+          ]
+        },
+        {
+          "category": "THE U.N.",
+          "value": 200,
+          "clue": "Each member nation may have up to 5 representatives in this body",
+          "answer": "General Assembly",
+          "isDailyDouble": false,
+          "orderNumber": 8,
+          "correctContestants": [
+            "Carol"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "John",
+              "score": 300
+            },
+            {
+              "player": "Tim",
+              "score": 500
+            },
+            {
+              "player": "Carol",
+              "score": 700
+            }
+          ]
+        },
+        {
+          "category": "SOLITAIRE",
+          "value": 100,
+          "clue": "If an ace, king, queen, jack & 10 of a suit make a royal flush, you're playing this kind of solitaire",
+          "answer": "poker solitaire",
+          "isDailyDouble": false,
+          "orderNumber": 9,
+          "correctContestants": [
+            "Tim"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "John",
+              "score": 300
+            },
+            {
+              "player": "Tim",
+              "score": 600
+            },
+            {
+              "player": "Carol",
+              "score": 700
+            }
+          ]
+        },
+        {
+          "category": "THE BIG CATS",
+          "value": 400,
+          "clue": "After a kill, this central organ is generally the only one a tiger will not eat",
+          "answer": "the stomach",
+          "isDailyDouble": false,
+          "orderNumber": 10,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "John",
+            "Tim"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "John",
+              "score": -100
+            },
+            {
+              "player": "Tim",
+              "score": 200
+            },
+            {
+              "player": "Carol",
+              "score": 700
+            }
+          ]
+        },
+        {
+          "category": "THE BIG CATS",
+          "value": 500,
+          "clue": "Unlike most big cats, this, also known as the hunting leopard, is active during the day",
+          "answer": "cheetah",
+          "isDailyDouble": false,
+          "orderNumber": 11,
+          "correctContestants": [
+            "Carol"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "John",
+              "score": -100
+            },
+            {
+              "player": "Tim",
+              "score": 200
+            },
+            {
+              "player": "Carol",
+              "score": 1200
+            }
+          ]
+        },
+        {
+          "category": "FLYING ACES",
+          "value": 100,
+          "clue": "Shoot down at least 5 enemy aircraft, including airships or observation balloons",
+          "answer": "qualifications for an ace",
+          "isDailyDouble": false,
+          "orderNumber": 12,
+          "correctContestants": [
+            "Tim"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "John",
+              "score": -100
+            },
+            {
+              "player": "Tim",
+              "score": 300
+            },
+            {
+              "player": "Carol",
+              "score": 1200
+            }
+          ]
+        },
+        {
+          "category": "SOLITAIRE",
+          "value": 200,
+          "clue": "In \"clock\", one pile is put in the center, & this many piles dealt in a circle around it",
+          "answer": "12",
+          "isDailyDouble": false,
+          "orderNumber": 13,
+          "correctContestants": [
+            "Tim"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "John",
+              "score": -100
+            },
+            {
+              "player": "Tim",
+              "score": 500
+            },
+            {
+              "player": "Carol",
+              "score": 1200
+            }
+          ]
+        },
+        {
+          "category": "SOLITAIRE",
+          "value": 300,
+          "clue": "Name shared by a type of solitaire & the song you might hum when playing it on New Year's Eve",
+          "answer": "Auld Lang Syne",
+          "isDailyDouble": false,
+          "orderNumber": 14,
+          "correctContestants": [
+            "Carol"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "John",
+              "score": -100
+            },
+            {
+              "player": "Tim",
+              "score": 500
+            },
+            {
+              "player": "Carol",
+              "score": 1500
+            }
+          ]
+        },
+        {
+          "category": "\"BAD\"",
+          "value": 400,
+          "clue": "The residence of England's Duke of Beaufort gave this game its name",
+          "answer": "badminton",
+          "isDailyDouble": false,
+          "orderNumber": 15,
+          "correctContestants": [
+            "Carol"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "John",
+              "score": -100
+            },
+            {
+              "player": "Tim",
+              "score": 500
+            },
+            {
+              "player": "Carol",
+              "score": 1900
+            }
+          ]
+        },
+        {
+          "category": "\"BAD\"",
+          "value": 500,
+          "clue": "Used once, it's a town in Austria, & twice it's a spa in West Germany",
+          "answer": "Baden",
+          "isDailyDouble": false,
+          "orderNumber": 16,
+          "correctContestants": [
+            "Carol"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "John",
+              "score": -100
+            },
+            {
+              "player": "Tim",
+              "score": 500
+            },
+            {
+              "player": "Carol",
+              "score": 2400
+            }
+          ]
+        },
+        {
+          "category": "INDIANA",
+          "value": 100,
+          "clue": "A race is run in Daviess County every fall by these \"fall\" poultry, & the winner doesn't get eaten",
+          "answer": "turkeys",
+          "isDailyDouble": false,
+          "orderNumber": 17,
+          "correctContestants": [
+            "Carol"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "John",
+              "score": -100
+            },
+            {
+              "player": "Tim",
+              "score": 500
+            },
+            {
+              "player": "Carol",
+              "score": 2500
+            }
+          ]
+        },
+        {
+          "category": "INDIANA",
+          "value": 200,
+          "clue": "Since Parke County has 34 of these quaint bridges, a yearly festival is held for them",
+          "answer": "covered bridges",
+          "isDailyDouble": false,
+          "orderNumber": 18,
+          "correctContestants": [
+            "Tim"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "John",
+              "score": -100
+            },
+            {
+              "player": "Tim",
+              "score": 700
+            },
+            {
+              "player": "Carol",
+              "score": 2500
+            }
+          ]
+        },
+        {
+          "category": "INDIANA",
+          "value": 300,
+          "clue": "Not surprisingly, the name for this Indiana town came to its inhabitants on Christmas Eve 1851",
+          "answer": "Santa Claus",
+          "isDailyDouble": false,
+          "orderNumber": 19,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Carol"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "John",
+              "score": -100
+            },
+            {
+              "player": "Tim",
+              "score": 700
+            },
+            {
+              "player": "Carol",
+              "score": 2200
+            }
+          ]
+        },
+        {
+          "category": "INDIANA",
+          "value": 400,
+          "clue": "About 1920, Detroit began replacing this city as the leading producer of automobiles",
+          "answer": "Indianapolis",
+          "isDailyDouble": false,
+          "orderNumber": 20,
+          "correctContestants": [
+            "John"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "John",
+              "score": 300
+            },
+            {
+              "player": "Tim",
+              "score": 700
+            },
+            {
+              "player": "Carol",
+              "score": 2200
+            }
+          ]
+        },
+        {
+          "category": "THE U.N.",
+          "value": 300,
+          "clue": "The son of this wealthy U.S. industrialist donated the site for U.N. headquarters",
+          "answer": "Rockefeller",
+          "isDailyDouble": false,
+          "orderNumber": 21,
+          "correctContestants": [
+            "John"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "John",
+              "score": 600
+            },
+            {
+              "player": "Tim",
+              "score": 700
+            },
+            {
+              "player": "Carol",
+              "score": 2200
+            }
+          ]
+        },
+        {
+          "category": "THE U.N.",
+          "value": 600,
+          "clue": "U.S. president who was present at the signing of the U.N. Charter",
+          "answer": "Harry Truman",
+          "isDailyDouble": true,
+          "orderNumber": 22,
+          "correctContestants": [
+            "John"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "John",
+              "score": 1200
+            },
+            {
+              "player": "Tim",
+              "score": 700
+            },
+            {
+              "player": "Carol",
+              "score": 2200
+            }
+          ]
+        },
+        {
+          "category": "THE U.N.",
+          "value": 500,
+          "clue": "One of the very 1st acts of the U.N. was establishing a commission to control this energy",
+          "answer": "nuclear (atomic)",
+          "isDailyDouble": false,
+          "orderNumber": 23,
+          "correctContestants": [
+            "John"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "John",
+              "score": 1700
+            },
+            {
+              "player": "Tim",
+              "score": 700
+            },
+            {
+              "player": "Carol",
+              "score": 2200
+            }
+          ]
+        },
+        {
+          "category": "INDIANA",
+          "value": 500,
+          "clue": "A southern Indiana farm, now a national memorial, is where this president grew to manhood",
+          "answer": "Abraham Lincoln",
+          "isDailyDouble": false,
+          "orderNumber": 24,
+          "correctContestants": [
+            "John"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "John",
+              "score": 2200
+            },
+            {
+              "player": "Tim",
+              "score": 700
+            },
+            {
+              "player": "Carol",
+              "score": 2200
+            }
+          ]
+        },
+        {
+          "category": "FLYING ACES",
+          "value": 200,
+          "clue": "On his WWII plane, German ace Gen. A. Galland had a picture of him, America's most popular cartoon star",
+          "answer": "Mickey Mouse",
+          "isDailyDouble": false,
+          "orderNumber": 25,
+          "correctContestants": [
+            "Carol"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "John",
+              "score": 2200
+            },
+            {
+              "player": "Tim",
+              "score": 700
+            },
+            {
+              "player": "Carol",
+              "score": 2400
+            }
+          ]
+        },
+        {
+          "category": "FLYING ACES",
+          "value": 300,
+          "clue": "WWI ace Frank Luke was the 1st U.S. airman honored with this medal",
+          "answer": "Congressional Medal of Honor",
+          "isDailyDouble": false,
+          "orderNumber": 26,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "John"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "John",
+              "score": 1900
+            },
+            {
+              "player": "Tim",
+              "score": 700
+            },
+            {
+              "player": "Carol",
+              "score": 2400
+            }
+          ]
+        },
+        {
+          "category": "SOLITAIRE",
+          "value": 400,
+          "clue": "In \"klondike\", these four cards are put above the tableau as foundation cards",
+          "answer": "aces",
+          "isDailyDouble": false,
+          "orderNumber": 27,
+          "correctContestants": [
+            "Tim"
+          ],
+          "incorrectContestants": [
+            "Carol"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "John",
+              "score": 1900
+            },
+            {
+              "player": "Tim",
+              "score": 1100
+            },
+            {
+              "player": "Carol",
+              "score": 2000
+            }
+          ]
+        },
+        {
+          "category": "SOLITAIRE",
+          "value": 500,
+          "clue": "Generally, these 2 cards aren't used to play solitaire",
+          "answer": "jokers",
+          "isDailyDouble": false,
+          "orderNumber": 28,
+          "correctContestants": [
+            "John"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "John",
+              "score": 2400
+            },
+            {
+              "player": "Tim",
+              "score": 1100
+            },
+            {
+              "player": "Carol",
+              "score": 2000
+            }
+          ]
+        },
+        {
+          "category": "FLYING ACES",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "John",
+              "score": 2400
+            },
+            {
+              "player": "Tim",
+              "score": 1100
+            },
+            {
+              "player": "Carol",
+              "score": 2000
+            }
+          ]
+        },
+        {
+          "category": "FLYING ACES",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "John",
+              "score": 2400
+            },
+            {
+              "player": "Tim",
+              "score": 1100
+            },
+            {
+              "player": "Carol",
+              "score": 2000
+            }
+          ]
+        }
+      ],
+      "firstBreakScores": [
+        {
+          "player": "John",
+          "score": -100
+        },
+        {
+          "player": "Tim",
+          "score": 500
+        },
+        {
+          "player": "Carol",
+          "score": 1500
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "John",
+          "score": 2400
+        },
+        {
+          "player": "Tim",
+          "score": 1100
+        },
+        {
+          "player": "Carol",
+          "score": 2000
+        }
+      ]
+    },
+    "doubleJeopardy": {
+      "categories": [
+        "CLASSICAL MUSIC",
+        "PHYSICS",
+        "FOOD & DRINK",
+        "HISTORICAL NICKNAMES",
+        "THE MOVIES",
+        "\"GOOD\""
+      ],
+      "clues": [
+        {
+          "category": "PHYSICS",
+          "value": 1100,
+          "clue": "Traditionally, the visible spectrum is divided into this number of color regions",
+          "answer": "7",
+          "isDailyDouble": true,
+          "orderNumber": 1,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "John",
+              "score": 2400
+            },
+            {
+              "player": "Tim",
+              "score": 0
+            },
+            {
+              "player": "Carol",
+              "score": 2000
+            }
+          ]
+        },
+        {
+          "category": "PHYSICS",
+          "value": 1000,
+          "clue": "Degaussing is neutralizing this kind of field in an object by using an equal & opposite field",
+          "answer": "magnetic field",
+          "isDailyDouble": false,
+          "orderNumber": 2,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "John",
+              "score": 3400
+            },
+            {
+              "player": "Tim",
+              "score": 0
+            },
+            {
+              "player": "Carol",
+              "score": 2000
+            }
+          ]
+        },
+        {
+          "category": "FOOD & DRINK",
+          "value": 200,
+          "clue": "When not encased in a bun, this meat can be called \"Salisbury steak\"",
+          "answer": "hamburger",
+          "isDailyDouble": false,
+          "orderNumber": 3,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "John",
+              "score": 3600
+            },
+            {
+              "player": "Tim",
+              "score": 0
+            },
+            {
+              "player": "Carol",
+              "score": 2000
+            }
+          ]
+        },
+        {
+          "category": "HISTORICAL NICKNAMES",
+          "value": 200,
+          "clue": "Supposedly, Sen. Joe McCarthy called this Democrat \"Senator Halfbright\"",
+          "answer": "William Fulbright",
+          "isDailyDouble": false,
+          "orderNumber": 4,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "John",
+              "score": 3800
+            },
+            {
+              "player": "Tim",
+              "score": 0
+            },
+            {
+              "player": "Carol",
+              "score": 2000
+            }
+          ]
+        },
+        {
+          "category": "HISTORICAL NICKNAMES",
+          "value": 400,
+          "clue": "The person who called her \"The Untamed Heifer\" was executed; perhaps she preferred \"Good Queen Bess\"",
+          "answer": "Elizabeth I",
+          "isDailyDouble": false,
+          "orderNumber": 5,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "John",
+              "score": 4200
+            },
+            {
+              "player": "Tim",
+              "score": 0
+            },
+            {
+              "player": "Carol",
+              "score": 2000
+            }
+          ]
+        },
+        {
+          "category": "HISTORICAL NICKNAMES",
+          "value": 600,
+          "clue": "When he became Nixon's White House chief of staff, this gen. was called \"The New Haldeman\"",
+          "answer": "Alexander Haig",
+          "isDailyDouble": false,
+          "orderNumber": 6,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "John",
+              "score": 4200
+            },
+            {
+              "player": "Tim",
+              "score": 0
+            },
+            {
+              "player": "Carol",
+              "score": 2600
+            }
+          ]
+        },
+        {
+          "category": "THE MOVIES",
+          "value": 200,
+          "clue": "1938 film \"bio\" of Sir Robin of Locksley",
+          "answer": "(The Adventures of) Robin Hood",
+          "isDailyDouble": false,
+          "orderNumber": 7,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "John",
+              "score": 4200
+            },
+            {
+              "player": "Tim",
+              "score": 200
+            },
+            {
+              "player": "Carol",
+              "score": 2600
+            }
+          ]
+        },
+        {
+          "category": "PHYSICS",
+          "value": 800,
+          "clue": "Archimedes knew if the upthrust on an object in fluid equals the object's weight, the object will do this",
+          "answer": "float",
+          "isDailyDouble": false,
+          "orderNumber": 8,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "John",
+              "score": 4200
+            },
+            {
+              "player": "Tim",
+              "score": 200
+            },
+            {
+              "player": "Carol",
+              "score": 3400
+            }
+          ]
+        },
+        {
+          "category": "THE MOVIES",
+          "value": 400,
+          "clue": "Title of the 1978 film about an American who escapes a Turkish prison is Turkish slang for \"escape\"",
+          "answer": "Midnight Express",
+          "isDailyDouble": false,
+          "orderNumber": 9,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "John",
+              "score": 4200
+            },
+            {
+              "player": "Tim",
+              "score": 200
+            },
+            {
+              "player": "Carol",
+              "score": 3800
+            }
+          ]
+        },
+        {
+          "category": "THE MOVIES",
+          "value": 600,
+          "clue": "Though the 2nd movie about Harry Callahan, it wasn't called \"Dirty Harry II\"",
+          "answer": "Magnum Force",
+          "isDailyDouble": false,
+          "orderNumber": 10,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "John",
+              "score": 4200
+            },
+            {
+              "player": "Tim",
+              "score": 200
+            },
+            {
+              "player": "Carol",
+              "score": 4400
+            }
+          ]
+        },
+        {
+          "category": "THE MOVIES",
+          "value": 800,
+          "clue": "According to title of a 1984 film, thoroughfare where you'd be likely to find \"Danny Rose\"",
+          "answer": "Broadway",
+          "isDailyDouble": false,
+          "orderNumber": 11,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "John",
+              "score": 5000
+            },
+            {
+              "player": "Tim",
+              "score": 200
+            },
+            {
+              "player": "Carol",
+              "score": 4400
+            }
+          ]
+        },
+        {
+          "category": "\"GOOD\"",
+          "value": 200,
+          "clue": "In 1987, it was April 17",
+          "answer": "Good Friday",
+          "isDailyDouble": false,
+          "orderNumber": 12,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "John",
+              "score": 5000
+            },
+            {
+              "player": "Tim",
+              "score": 200
+            },
+            {
+              "player": "Carol",
+              "score": 4600
+            }
+          ]
+        },
+        {
+          "category": "THE MOVIES",
+          "value": 1000,
+          "clue": "Based on Somerset Maugham's \"Rain\", this Rita Hayworth movie was originally in 3-D",
+          "answer": "Miss Sadie Thompson",
+          "isDailyDouble": false,
+          "orderNumber": 13,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "John",
+              "score": 5000
+            },
+            {
+              "player": "Tim",
+              "score": 200
+            },
+            {
+              "player": "Carol",
+              "score": 5600
+            }
+          ]
+        },
+        {
+          "category": "HISTORICAL NICKNAMES",
+          "value": 800,
+          "clue": "Facts on File says \"The Kid's Killer\" was a left-handed compliment for this Old West lawman",
+          "answer": "Pat Garrett",
+          "isDailyDouble": false,
+          "orderNumber": 14,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "John",
+              "score": 4200
+            },
+            {
+              "player": "Tim",
+              "score": 200
+            },
+            {
+              "player": "Carol",
+              "score": 6400
+            }
+          ]
+        },
+        {
+          "category": "HISTORICAL NICKNAMES",
+          "value": 1000,
+          "clue": "Caesar had his Brutus, Charles I his Cromwell, & George III had him, \"The Voice of the Revolution\"",
+          "answer": "Patrick Henry",
+          "isDailyDouble": false,
+          "orderNumber": 15,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "John",
+              "score": 5200
+            },
+            {
+              "player": "Tim",
+              "score": 200
+            },
+            {
+              "player": "Carol",
+              "score": 6400
+            }
+          ]
+        },
+        {
+          "category": "\"GOOD\"",
+          "value": 400,
+          "clue": "This ice cream company was bought by Lipton in 1961",
+          "answer": "Good Humor",
+          "isDailyDouble": false,
+          "orderNumber": 16,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "John",
+              "score": 5200
+            },
+            {
+              "player": "Tim",
+              "score": 200
+            },
+            {
+              "player": "Carol",
+              "score": 6800
+            }
+          ]
+        },
+        {
+          "category": "FOOD & DRINK",
+          "value": 400,
+          "clue": "Of Dr. Pepper, Orange Crush or Coca-Cola, the oldest",
+          "answer": "Dr. Pepper",
+          "isDailyDouble": false,
+          "orderNumber": 17,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "John",
+              "score": 4800
+            },
+            {
+              "player": "Tim",
+              "score": 600
+            },
+            {
+              "player": "Carol",
+              "score": 6800
+            }
+          ]
+        },
+        {
+          "category": "FOOD & DRINK",
+          "value": 1000,
+          "clue": "A peach half with vanilla ice cream in the center, covered with raspberry sauce",
+          "answer": "Peach Melba",
+          "isDailyDouble": false,
+          "orderNumber": 18,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "John",
+              "score": 4800
+            },
+            {
+              "player": "Tim",
+              "score": 600
+            },
+            {
+              "player": "Carol",
+              "score": 7800
+            }
+          ]
+        },
+        {
+          "category": "\"GOOD\"",
+          "value": 600,
+          "clue": "He went to Russia as part of a 1962 cultural exchange program, licorice stick & all",
+          "answer": "Benny Goodman",
+          "isDailyDouble": false,
+          "orderNumber": 19,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "John",
+              "score": 4800
+            },
+            {
+              "player": "Tim",
+              "score": 1200
+            },
+            {
+              "player": "Carol",
+              "score": 7800
+            }
+          ]
+        },
+        {
+          "category": "FOOD & DRINK",
+          "value": 800,
+          "clue": "Roots of this common yellow-flowered weed are roasted & used as a coffee substitute",
+          "answer": "dandelions",
+          "isDailyDouble": false,
+          "orderNumber": 20,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "John",
+              "score": 4800
+            },
+            {
+              "player": "Tim",
+              "score": 2000
+            },
+            {
+              "player": "Carol",
+              "score": 7800
+            }
+          ]
+        },
+        {
+          "category": "\"GOOD\"",
+          "value": 800,
+          "clue": "You might finnish a conversation in Finnish with ..\"Hyvasti\", which means this",
+          "answer": "goodbye",
+          "isDailyDouble": false,
+          "orderNumber": 21,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "John",
+              "score": 4800
+            },
+            {
+              "player": "Tim",
+              "score": 2800
+            },
+            {
+              "player": "Carol",
+              "score": 7800
+            }
+          ]
+        },
+        {
+          "category": "\"GOOD\"",
+          "value": 1000,
+          "clue": "It forms a trilogy along with \"Sons\" & \"A House Divided\"",
+          "answer": "The Good Earth",
+          "isDailyDouble": false,
+          "orderNumber": 22,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "John",
+              "score": 4800
+            },
+            {
+              "player": "Tim",
+              "score": 2800
+            },
+            {
+              "player": "Carol",
+              "score": 7800
+            }
+          ]
+        },
+        {
+          "category": "FOOD & DRINK",
+          "value": 600,
+          "clue": "During the Renaissance, this sweetener was very expensive & was sold in pharmacies as a medicine",
+          "answer": "sugar",
+          "isDailyDouble": false,
+          "orderNumber": 23,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "John",
+              "score": 4800
+            },
+            {
+              "player": "Tim",
+              "score": 2800
+            },
+            {
+              "player": "Carol",
+              "score": 8400
+            }
+          ]
+        },
+        {
+          "category": "CLASSICAL MUSIC",
+          "value": 200,
+          "clue": "Astronomical body in the title \"Clair De Lune\"",
+          "answer": "the moon",
+          "isDailyDouble": false,
+          "orderNumber": 24,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "John",
+              "score": 4800
+            },
+            {
+              "player": "Tim",
+              "score": 3000
+            },
+            {
+              "player": "Carol",
+              "score": 8400
+            }
+          ]
+        },
+        {
+          "category": "CLASSICAL MUSIC",
+          "value": 800,
+          "clue": "Brahms \"Wiegenlied\" is often known in the U.S. by this infantile title",
+          "answer": "\"Brahms' Lullaby\"",
+          "isDailyDouble": false,
+          "orderNumber": 25,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "John",
+              "score": 4800
+            },
+            {
+              "player": "Tim",
+              "score": 3000
+            },
+            {
+              "player": "Carol",
+              "score": 9200
+            }
+          ]
+        },
+        {
+          "category": "CLASSICAL MUSIC",
+          "value": 1000,
+          "clue": "The 2 string family instruments needed to perform a piano trio",
+          "answer": "violin & cello",
+          "isDailyDouble": false,
+          "orderNumber": 26,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "John",
+              "score": 4800
+            },
+            {
+              "player": "Tim",
+              "score": 3000
+            },
+            {
+              "player": "Carol",
+              "score": 10200
+            }
+          ]
+        },
+        {
+          "category": "CLASSICAL MUSIC",
+          "value": 600,
+          "clue": "Performed in 1671, \"Pomone\" by Robert Cambert was the 1st of these in French",
+          "answer": "opera",
+          "isDailyDouble": false,
+          "orderNumber": 27,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "John",
+              "score": 5400
+            },
+            {
+              "player": "Tim",
+              "score": 3000
+            },
+            {
+              "player": "Carol",
+              "score": 10200
+            }
+          ]
+        },
+        {
+          "category": "PHYSICS",
+          "value": 400,
+          "clue": "This process is the reverse of evaporation",
+          "answer": "condensation",
+          "isDailyDouble": false,
+          "orderNumber": 28,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Carol"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "John",
+              "score": 5400
+            },
+            {
+              "player": "Tim",
+              "score": 2600
+            },
+            {
+              "player": "Carol",
+              "score": 9800
+            }
+          ]
+        },
+        {
+          "category": "PHYSICS",
+          "value": 200,
+          "clue": "The layer of fertile material surrounding the core in a breeder reactor, or Linus' source of security",
+          "answer": "blanket",
+          "isDailyDouble": false,
+          "orderNumber": 29,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "John",
+              "score": 5400
+            },
+            {
+              "player": "Tim",
+              "score": 2600
+            },
+            {
+              "player": "Carol",
+              "score": 10000
+            }
+          ]
+        },
+        {
+          "category": "CLASSICAL MUSIC",
+          "value": 2000,
+          "clue": "Title of the symphonic fairy tale by Prokofiev from which the following is taken:",
+          "answer": "Peter and the Wolf",
+          "isDailyDouble": true,
+          "orderNumber": 30,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "John",
+              "score": 5400
+            },
+            {
+              "player": "Tim",
+              "score": 2600
+            },
+            {
+              "player": "Carol",
+              "score": 12000
+            }
+          ]
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "John",
+          "score": 5400
+        },
+        {
+          "player": "Tim",
+          "score": 2600
+        },
+        {
+          "player": "Carol",
+          "score": 12000
+        }
+      ]
+    },
+    "finalJeopardy": {
+      "category": "POETRY",
+      "clue": "This animal in Dixon Merritt's limerick \"can take in his beak food enough for a week\"",
+      "answer": "pelican",
+      "responses": [
+        {
+          "contestant": "Tim",
+          "response": "What is a pelican?",
+          "isCorrect": true,
+          "isIncorrect": false,
+          "value": 2600,
+          "finalScore": 5200
+        },
+        {
+          "contestant": "John",
+          "response": "What is a pelican?",
+          "isCorrect": true,
+          "isIncorrect": false,
+          "value": 5400,
+          "finalScore": 10800
+        },
+        {
+          "contestant": "Carol",
+          "response": "What is a pelican?",
+          "isCorrect": true,
+          "isIncorrect": false,
+          "value": 1201,
+          "finalScore": 13201
+        }
+      ]
+    }
+  },
+  "finalScores": [
+    {
+      "player": "John",
+      "score": "$10,800"
+    },
+    {
+      "player": "Tim",
+      "score": "$5,200"
+    },
+    {
+      "player": "Carol",
+      "score": "$13,201"
+    }
+  ],
+  "coryatScores": [
+    {
+      "player": "John",
+      "score": 5200
+    },
+    {
+      "player": "Tim",
+      "score": 3700
+    },
+    {
+      "player": "Carol",
+      "score": 10400
+    }
+  ]
+}

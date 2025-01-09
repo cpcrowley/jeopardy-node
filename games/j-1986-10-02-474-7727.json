@@ -1,0 +1,1688 @@
+{
+  "gameId": 7727,
+  "showNumber": "474",
+  "title": "Show #474 - Thursday, October 2, 1986",
+  "date": "1986-10-02",
+  "comments": "",
+  "contestants": [
+    "Anne",
+    "Carl",
+    "John"
+  ],
+  "rounds": {
+    "jeopardy": {
+      "categories": [
+        "BOOKS & AUTHORS",
+        "TRIVIA",
+        "VIRGINIA",
+        "THE CALENDAR",
+        "SILLY SONGS",
+        "\"GIVE\" & \"TAKE\""
+      ],
+      "clues": [
+        {
+          "category": "BOOKS & AUTHORS",
+          "value": 100,
+          "clue": "Richard Condon novel about a hit man & a hit woman that became a movie hit",
+          "answer": "Prizzi's Honor",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [
+            "John"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Anne",
+              "score": 0
+            },
+            {
+              "player": "Carl",
+              "score": 0
+            },
+            {
+              "player": "John",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "category": "THE CALENDAR",
+          "value": 100,
+          "clue": "In 1986, it began at 2 a.m. April 27",
+          "answer": "daylight saving time",
+          "isDailyDouble": false,
+          "orderNumber": 2,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Anne"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Anne",
+              "score": -100
+            },
+            {
+              "player": "Carl",
+              "score": 0
+            },
+            {
+              "player": "John",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "category": "\"GIVE\" & \"TAKE\"",
+          "value": 100,
+          "clue": "An aircraft's initial ascent",
+          "answer": "takeoff",
+          "isDailyDouble": false,
+          "orderNumber": 3,
+          "correctContestants": [
+            "John"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Anne",
+              "score": -100
+            },
+            {
+              "player": "Carl",
+              "score": 0
+            },
+            {
+              "player": "John",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "\"GIVE\" & \"TAKE\"",
+          "value": 200,
+          "clue": "The moniker you get at birth",
+          "answer": "your given name",
+          "isDailyDouble": false,
+          "orderNumber": 4,
+          "correctContestants": [
+            "Carl"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Anne",
+              "score": -100
+            },
+            {
+              "player": "Carl",
+              "score": 200
+            },
+            {
+              "player": "John",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "\"GIVE\" & \"TAKE\"",
+          "value": 300,
+          "clue": "What fathers do with brides & game show hosts do with prizes",
+          "answer": "give them away",
+          "isDailyDouble": false,
+          "orderNumber": 5,
+          "correctContestants": [
+            "Anne"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Anne",
+              "score": 200
+            },
+            {
+              "player": "Carl",
+              "score": 200
+            },
+            {
+              "player": "John",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "\"GIVE\" & \"TAKE\"",
+          "value": 400,
+          "clue": "Small as it may be, it's your wages after deductions",
+          "answer": "take home pay",
+          "isDailyDouble": false,
+          "orderNumber": 6,
+          "correctContestants": [
+            "Carl"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Anne",
+              "score": 200
+            },
+            {
+              "player": "Carl",
+              "score": 600
+            },
+            {
+              "player": "John",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "\"GIVE\" & \"TAKE\"",
+          "value": 500,
+          "clue": "A type of informatory bid or call in bridge",
+          "answer": "a takeout double",
+          "isDailyDouble": false,
+          "orderNumber": 7,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Anne",
+              "score": 200
+            },
+            {
+              "player": "Carl",
+              "score": 600
+            },
+            {
+              "player": "John",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "TRIVIA",
+          "value": 100,
+          "clue": "When a phonograph record is playing, it turns in this direction",
+          "answer": "clockwise",
+          "isDailyDouble": false,
+          "orderNumber": 8,
+          "correctContestants": [
+            "Anne"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Anne",
+              "score": 300
+            },
+            {
+              "player": "Carl",
+              "score": 600
+            },
+            {
+              "player": "John",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "BOOKS & AUTHORS",
+          "value": 200,
+          "clue": "In his novel \"The Lost World\", explorers face dinosaurs & missing links, but not Dr. Moriarty",
+          "answer": "Dr. Conan Doyle",
+          "isDailyDouble": false,
+          "orderNumber": 9,
+          "correctContestants": [
+            "Anne"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Anne",
+              "score": 500
+            },
+            {
+              "player": "Carl",
+              "score": 600
+            },
+            {
+              "player": "John",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "BOOKS & AUTHORS",
+          "value": 300,
+          "clue": "Leon Uris novel whose title refers to a London law court--a \"Queen's Bench\"",
+          "answer": "QB VII",
+          "isDailyDouble": false,
+          "orderNumber": 10,
+          "correctContestants": [
+            "Carl"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Anne",
+              "score": 500
+            },
+            {
+              "player": "Carl",
+              "score": 900
+            },
+            {
+              "player": "John",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "TRIVIA",
+          "value": 200,
+          "clue": "Born Jan. 7, 1978, Emilio Palma was the 1st person born on this continent",
+          "answer": "Antarctica",
+          "isDailyDouble": false,
+          "orderNumber": 11,
+          "correctContestants": [
+            "Carl"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Anne",
+              "score": 500
+            },
+            {
+              "player": "Carl",
+              "score": 1100
+            },
+            {
+              "player": "John",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "TRIVIA",
+          "value": 300,
+          "clue": "Member of The Beatles who's now a grandfather",
+          "answer": "Ringo Starr",
+          "isDailyDouble": false,
+          "orderNumber": 12,
+          "correctContestants": [
+            "Anne"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Anne",
+              "score": 800
+            },
+            {
+              "player": "Carl",
+              "score": 1100
+            },
+            {
+              "player": "John",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "BOOKS & AUTHORS",
+          "value": 400,
+          "clue": "Georgi Markov, author of \"The Truth that Killed\", was murdered with a poison-tipped version of this",
+          "answer": "an umbrella",
+          "isDailyDouble": false,
+          "orderNumber": 13,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Anne"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Anne",
+              "score": 400
+            },
+            {
+              "player": "Carl",
+              "score": 1100
+            },
+            {
+              "player": "John",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "BOOKS & AUTHORS",
+          "value": 500,
+          "clue": "A good ear for the angst of suburban dialog characterizes this author's \"Rabbit\" novels",
+          "answer": "John Updike",
+          "isDailyDouble": false,
+          "orderNumber": 14,
+          "correctContestants": [
+            "John"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Anne",
+              "score": 400
+            },
+            {
+              "player": "Carl",
+              "score": 1100
+            },
+            {
+              "player": "John",
+              "score": 700
+            }
+          ]
+        },
+        {
+          "category": "SILLY SONGS",
+          "value": 100,
+          "clue": "Completes Little Anthony & the Imperials' title, \"Shimmy, Shimmy,...\"",
+          "answer": "\"Ko-Ko-Bop\"",
+          "isDailyDouble": false,
+          "orderNumber": 15,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Anne",
+              "score": 400
+            },
+            {
+              "player": "Carl",
+              "score": 1100
+            },
+            {
+              "player": "John",
+              "score": 700
+            }
+          ]
+        },
+        {
+          "category": "THE CALENDAR",
+          "value": 200,
+          "clue": "There's a minimum of one Friday the 13th a year & a maximum of this many",
+          "answer": "3",
+          "isDailyDouble": false,
+          "orderNumber": 16,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Anne",
+            "John"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Anne",
+              "score": 200
+            },
+            {
+              "player": "Carl",
+              "score": 1100
+            },
+            {
+              "player": "John",
+              "score": 500
+            }
+          ]
+        },
+        {
+          "category": "THE CALENDAR",
+          "value": 300,
+          "clue": "2 of the 3 months named for goddesses",
+          "answer": "(2 of) April, May & June",
+          "isDailyDouble": false,
+          "orderNumber": 17,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "John"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Anne",
+              "score": 200
+            },
+            {
+              "player": "Carl",
+              "score": 1100
+            },
+            {
+              "player": "John",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "THE CALENDAR",
+          "value": 400,
+          "clue": "The Gregorian calendar is referred to as \"the new style\" while this calendar is \"the old style\"",
+          "answer": "the Julian calendar",
+          "isDailyDouble": false,
+          "orderNumber": 18,
+          "correctContestants": [
+            "Anne"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Anne",
+              "score": 600
+            },
+            {
+              "player": "Carl",
+              "score": 1100
+            },
+            {
+              "player": "John",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "TRIVIA",
+          "value": 400,
+          "clue": "Same day Lou Gehrig's 2130 consecutive game streak ended, this 1939-40 event opened in New York",
+          "answer": "the New York World's Fair",
+          "isDailyDouble": false,
+          "orderNumber": 19,
+          "correctContestants": [
+            "Carl"
+          ],
+          "incorrectContestants": [
+            "Anne"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Anne",
+              "score": 200
+            },
+            {
+              "player": "Carl",
+              "score": 1500
+            },
+            {
+              "player": "John",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "TRIVIA",
+          "value": 500,
+          "clue": "The 1st national exposition of these was held in Madison Square Garden in 1900",
+          "answer": "automobiles",
+          "isDailyDouble": false,
+          "orderNumber": 20,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Anne",
+              "score": 200
+            },
+            {
+              "player": "Carl",
+              "score": 1500
+            },
+            {
+              "player": "John",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "VIRGINIA",
+          "value": 100,
+          "clue": "He was born in Virginia, but became 1st   President of Texas, where a city bears his name",
+          "answer": "(Sam) Houston",
+          "isDailyDouble": false,
+          "orderNumber": 21,
+          "correctContestants": [
+            "John"
+          ],
+          "incorrectContestants": [
+            "Carl"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Anne",
+              "score": 200
+            },
+            {
+              "player": "Carl",
+              "score": 1400
+            },
+            {
+              "player": "John",
+              "score": 300
+            }
+          ]
+        },
+        {
+          "category": "VIRGINIA",
+          "value": 200,
+          "clue": "\"Falcon Crest\" creator Earl Hamner's ancestors came to Va. to start a winery for this tall president",
+          "answer": "Thomas Jefferson",
+          "isDailyDouble": false,
+          "orderNumber": 22,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Carl"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Anne",
+              "score": 200
+            },
+            {
+              "player": "Carl",
+              "score": 1200
+            },
+            {
+              "player": "John",
+              "score": 300
+            }
+          ]
+        },
+        {
+          "category": "VIRGINIA",
+          "value": 300,
+          "clue": "Aptly born at Studley Plantation, this Revolutionary orator had 17 children",
+          "answer": "Patrick Henry",
+          "isDailyDouble": false,
+          "orderNumber": 23,
+          "correctContestants": [
+            "Carl"
+          ],
+          "incorrectContestants": [
+            "Anne"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Anne",
+              "score": -100
+            },
+            {
+              "player": "Carl",
+              "score": 1500
+            },
+            {
+              "player": "John",
+              "score": 300
+            }
+          ]
+        },
+        {
+          "category": "VIRGINIA",
+          "value": 200,
+          "clue": "Richmond siblings born 3 years apart who won Oscars 2 years apart, he for directing, she for acting",
+          "answer": "Warren Beatty & Shirley MacLaine",
+          "isDailyDouble": true,
+          "orderNumber": 24,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Carl"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Anne",
+              "score": -100
+            },
+            {
+              "player": "Carl",
+              "score": 1300
+            },
+            {
+              "player": "John",
+              "score": 300
+            }
+          ]
+        },
+        {
+          "category": "SILLY SONGS",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Anne",
+              "score": -100
+            },
+            {
+              "player": "Carl",
+              "score": 1300
+            },
+            {
+              "player": "John",
+              "score": 300
+            }
+          ]
+        },
+        {
+          "category": "SILLY SONGS",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Anne",
+              "score": -100
+            },
+            {
+              "player": "Carl",
+              "score": 1300
+            },
+            {
+              "player": "John",
+              "score": 300
+            }
+          ]
+        },
+        {
+          "category": "SILLY SONGS",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Anne",
+              "score": -100
+            },
+            {
+              "player": "Carl",
+              "score": 1300
+            },
+            {
+              "player": "John",
+              "score": 300
+            }
+          ]
+        },
+        {
+          "category": "VIRGINIA",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Anne",
+              "score": -100
+            },
+            {
+              "player": "Carl",
+              "score": 1300
+            },
+            {
+              "player": "John",
+              "score": 300
+            }
+          ]
+        },
+        {
+          "category": "THE CALENDAR",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Anne",
+              "score": -100
+            },
+            {
+              "player": "Carl",
+              "score": 1300
+            },
+            {
+              "player": "John",
+              "score": 300
+            }
+          ]
+        },
+        {
+          "category": "SILLY SONGS",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Anne",
+              "score": -100
+            },
+            {
+              "player": "Carl",
+              "score": 1300
+            },
+            {
+              "player": "John",
+              "score": 300
+            }
+          ]
+        }
+      ],
+      "firstBreakScores": [
+        {
+          "player": "Anne",
+          "score": 400
+        },
+        {
+          "player": "Carl",
+          "score": 1100
+        },
+        {
+          "player": "John",
+          "score": 200
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "Anne",
+          "score": -100
+        },
+        {
+          "player": "Carl",
+          "score": 1300
+        },
+        {
+          "player": "John",
+          "score": 300
+        }
+      ]
+    },
+    "doubleJeopardy": {
+      "categories": [
+        "THE MILITARY",
+        "SPAIN",
+        "HISTORIC NAMES",
+        "WEATHER",
+        "ACTORS & ROLES",
+        "IN OTHER WORDS..."
+      ],
+      "clues": [
+        {
+          "category": "ACTORS & ROLES",
+          "value": 200,
+          "clue": "In 1983, she & Richard Burton exposed their \"Private Lives\" on Broadway",
+          "answer": "Elizabeth Taylor",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Anne",
+              "score": -100
+            },
+            {
+              "player": "Carl",
+              "score": 1500
+            },
+            {
+              "player": "John",
+              "score": 300
+            }
+          ]
+        },
+        {
+          "category": "THE MILITARY",
+          "value": 200,
+          "clue": "1st U.S. ground troops used in Vietnam were from this service",
+          "answer": "the U.S. Marines",
+          "isDailyDouble": false,
+          "orderNumber": 2,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Anne",
+              "score": -100
+            },
+            {
+              "player": "Carl",
+              "score": 1700
+            },
+            {
+              "player": "John",
+              "score": 300
+            }
+          ]
+        },
+        {
+          "category": "THE MILITARY",
+          "value": 400,
+          "clue": "Total military strength of U.S., about 2 mil., is well below this country's strength of over 5 million",
+          "answer": "the Soviet Union",
+          "isDailyDouble": false,
+          "orderNumber": 3,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Anne",
+              "score": -100
+            },
+            {
+              "player": "Carl",
+              "score": 2100
+            },
+            {
+              "player": "John",
+              "score": 300
+            }
+          ]
+        },
+        {
+          "category": "THE MILITARY",
+          "value": 600,
+          "clue": "Current name of service branch started in 1907 with 1 officer & 2 enlisted men as part of Army Signal Corps",
+          "answer": "the United States Air Force",
+          "isDailyDouble": false,
+          "orderNumber": 4,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Anne",
+              "score": -100
+            },
+            {
+              "player": "Carl",
+              "score": 2700
+            },
+            {
+              "player": "John",
+              "score": 300
+            }
+          ]
+        },
+        {
+          "category": "THE MILITARY",
+          "value": 1000,
+          "clue": "Harold Brown, Elliot Richardson, & Clark Clifford",
+          "answer": "Secretaries of Defense",
+          "isDailyDouble": true,
+          "orderNumber": 5,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Anne",
+              "score": -100
+            },
+            {
+              "player": "Carl",
+              "score": 3700
+            },
+            {
+              "player": "John",
+              "score": 300
+            }
+          ]
+        },
+        {
+          "category": "THE MILITARY",
+          "value": 1000,
+          "clue": "The lowest rank among admirals in the U.S. Navy",
+          "answer": "rear admirals",
+          "isDailyDouble": false,
+          "orderNumber": 6,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Anne",
+              "score": -100
+            },
+            {
+              "player": "Carl",
+              "score": 3700
+            },
+            {
+              "player": "John",
+              "score": 1300
+            }
+          ]
+        },
+        {
+          "category": "IN OTHER WORDS...",
+          "value": 200,
+          "clue": "Ill tidings cover ground quickly",
+          "answer": "bad news travels fast",
+          "isDailyDouble": false,
+          "orderNumber": 7,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Anne",
+              "score": 100
+            },
+            {
+              "player": "Carl",
+              "score": 3700
+            },
+            {
+              "player": "John",
+              "score": 1300
+            }
+          ]
+        },
+        {
+          "category": "IN OTHER WORDS...",
+          "value": 400,
+          "clue": "Battle combustion by using combustion",
+          "answer": "fighting fire with fire",
+          "isDailyDouble": false,
+          "orderNumber": 8,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Anne",
+              "score": 100
+            },
+            {
+              "player": "Carl",
+              "score": 4100
+            },
+            {
+              "player": "John",
+              "score": 1300
+            }
+          ]
+        },
+        {
+          "category": "IN OTHER WORDS...",
+          "value": 600,
+          "clue": "Excuse this person, lad, could yonder object be a train to Tennessee's 4th largest city?",
+          "answer": "Pardon me, boy, but is that the Chattanooga Choo Choo",
+          "isDailyDouble": false,
+          "orderNumber": 9,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Anne",
+              "score": 100
+            },
+            {
+              "player": "Carl",
+              "score": 4700
+            },
+            {
+              "player": "John",
+              "score": 1300
+            }
+          ]
+        },
+        {
+          "category": "IN OTHER WORDS...",
+          "value": 800,
+          "clue": "Precipitation, precipitation, disappear,return on a different 1/365 of a year",
+          "answer": "rain, rain, go away, please come again another day",
+          "isDailyDouble": false,
+          "orderNumber": 10,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Anne",
+              "score": 100
+            },
+            {
+              "player": "Carl",
+              "score": 5500
+            },
+            {
+              "player": "John",
+              "score": 1300
+            }
+          ]
+        },
+        {
+          "category": "IN OTHER WORDS...",
+          "value": 1000,
+          "clue": "Homo sapiens bids, the supreme being rids",
+          "answer": "man proposes, God disposes",
+          "isDailyDouble": false,
+          "orderNumber": 11,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Anne",
+              "score": 1100
+            },
+            {
+              "player": "Carl",
+              "score": 4500
+            },
+            {
+              "player": "John",
+              "score": 1300
+            }
+          ]
+        },
+        {
+          "category": "ACTORS & ROLES",
+          "value": 400,
+          "clue": "Don Ameche's 1-word answer when asked if any of his pre-\"Cocoon\" films should have won an Oscar",
+          "answer": "No",
+          "isDailyDouble": false,
+          "orderNumber": 12,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Anne",
+              "score": 1100
+            },
+            {
+              "player": "Carl",
+              "score": 4500
+            },
+            {
+              "player": "John",
+              "score": 1700
+            }
+          ]
+        },
+        {
+          "category": "ACTORS & ROLES",
+          "value": 600,
+          "clue": "Charlton Heston thinks this distinctive part of his anatomy helped win him the role of Moses",
+          "answer": "his nose",
+          "isDailyDouble": false,
+          "orderNumber": 13,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Anne",
+              "score": 1700
+            },
+            {
+              "player": "Carl",
+              "score": 4500
+            },
+            {
+              "player": "John",
+              "score": 1700
+            }
+          ]
+        },
+        {
+          "category": "ACTORS & ROLES",
+          "value": 800,
+          "clue": "The 3 Barrymore siblings, they co-starred in \"Rasputin & the Empress\", their only film together",
+          "answer": "Ethel, John & Lionel",
+          "isDailyDouble": false,
+          "orderNumber": 14,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Anne",
+              "score": 2500
+            },
+            {
+              "player": "Carl",
+              "score": 4500
+            },
+            {
+              "player": "John",
+              "score": 1700
+            }
+          ]
+        },
+        {
+          "category": "ACTORS & ROLES",
+          "value": 1000,
+          "clue": "As an Indian in 1922's \"Last of the Mohicans\" he bared his chest, but he gained fame baring his fangs",
+          "answer": "Bela Lugosi",
+          "isDailyDouble": false,
+          "orderNumber": 15,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Anne",
+              "score": 2500
+            },
+            {
+              "player": "Carl",
+              "score": 4500
+            },
+            {
+              "player": "John",
+              "score": 2700
+            }
+          ]
+        },
+        {
+          "category": "HISTORIC NAMES",
+          "value": 200,
+          "clue": "He came to power in Italy 11 years before Hitler did in Germany",
+          "answer": "Mussolini",
+          "isDailyDouble": false,
+          "orderNumber": 16,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Anne",
+              "score": 2500
+            },
+            {
+              "player": "Carl",
+              "score": 4700
+            },
+            {
+              "player": "John",
+              "score": 2700
+            }
+          ]
+        },
+        {
+          "category": "HISTORIC NAMES",
+          "value": 400,
+          "clue": "One of his most famous acts of civil disobedience was scooping up sea water to make salt",
+          "answer": "Gandhi",
+          "isDailyDouble": false,
+          "orderNumber": 17,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Anne",
+              "score": 2500
+            },
+            {
+              "player": "Carl",
+              "score": 5100
+            },
+            {
+              "player": "John",
+              "score": 2700
+            }
+          ]
+        },
+        {
+          "category": "HISTORIC NAMES",
+          "value": 600,
+          "clue": "While Margaret Thatcher is Britain's \"Iron Lady\", he was Germany's \"Iron Chancellor\"",
+          "answer": "Bismarck",
+          "isDailyDouble": false,
+          "orderNumber": 18,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Anne",
+              "score": 3100
+            },
+            {
+              "player": "Carl",
+              "score": 5100
+            },
+            {
+              "player": "John",
+              "score": 2700
+            }
+          ]
+        },
+        {
+          "category": "HISTORIC NAMES",
+          "value": 800,
+          "clue": "He worked as a candlemaker on Staten Island, N.Y. before returning to Italy to help reunify it",
+          "answer": "(Giuseppe) Garibaldi",
+          "isDailyDouble": false,
+          "orderNumber": 19,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Anne",
+              "score": 3900
+            },
+            {
+              "player": "Carl",
+              "score": 5100
+            },
+            {
+              "player": "John",
+              "score": 2700
+            }
+          ]
+        },
+        {
+          "category": "HISTORIC NAMES",
+          "value": 1000,
+          "clue": "While living in NYC, Jose Marti, \"Apostle of Latino Nationalism,\" worked for this country's freedom",
+          "answer": "Cuba",
+          "isDailyDouble": false,
+          "orderNumber": 20,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Anne",
+              "score": 3900
+            },
+            {
+              "player": "Carl",
+              "score": 6100
+            },
+            {
+              "player": "John",
+              "score": 2700
+            }
+          ]
+        },
+        {
+          "category": "WEATHER",
+          "value": 200,
+          "clue": "In the U.S., thunderstorms are most frequent during this season",
+          "answer": "summer",
+          "isDailyDouble": false,
+          "orderNumber": 21,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Anne",
+              "score": 4100
+            },
+            {
+              "player": "Carl",
+              "score": 6100
+            },
+            {
+              "player": "John",
+              "score": 2700
+            }
+          ]
+        },
+        {
+          "category": "SPAIN",
+          "value": 200,
+          "clue": "Salad dressing named for the capital of the isle of Minorca, Mahon",
+          "answer": "mayonnaise",
+          "isDailyDouble": false,
+          "orderNumber": 22,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Anne",
+              "score": 4100
+            },
+            {
+              "player": "Carl",
+              "score": 6100
+            },
+            {
+              "player": "John",
+              "score": 2900
+            }
+          ]
+        },
+        {
+          "category": "SPAIN",
+          "value": 400,
+          "clue": "Madrid's national museum of painting & sculpture is known by this name",
+          "answer": "the Prado",
+          "isDailyDouble": false,
+          "orderNumber": 23,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Anne",
+              "score": 4100
+            },
+            {
+              "player": "Carl",
+              "score": 6100
+            },
+            {
+              "player": "John",
+              "score": 3300
+            }
+          ]
+        },
+        {
+          "category": "SPAIN",
+          "value": 300,
+          "clue": "City for which this song is named:[\"Instrumental music plays\"]",
+          "answer": "Granada",
+          "isDailyDouble": true,
+          "orderNumber": 24,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Anne",
+              "score": 4100
+            },
+            {
+              "player": "Carl",
+              "score": 6100
+            },
+            {
+              "player": "John",
+              "score": 3000
+            }
+          ]
+        },
+        {
+          "category": "SPAIN",
+          "value": 800,
+          "clue": "Capital of Republican Spain for much of the Civil War, its Jan. 1939 fall assured Franco victory",
+          "answer": "Barcelona",
+          "isDailyDouble": false,
+          "orderNumber": 25,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Anne",
+              "score": 4100
+            },
+            {
+              "player": "Carl",
+              "score": 6100
+            },
+            {
+              "player": "John",
+              "score": 3000
+            }
+          ]
+        },
+        {
+          "category": "WEATHER",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Anne",
+              "score": 4100
+            },
+            {
+              "player": "Carl",
+              "score": 6100
+            },
+            {
+              "player": "John",
+              "score": 3000
+            }
+          ]
+        },
+        {
+          "category": "WEATHER",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Anne",
+              "score": 4100
+            },
+            {
+              "player": "Carl",
+              "score": 6100
+            },
+            {
+              "player": "John",
+              "score": 3000
+            }
+          ]
+        },
+        {
+          "category": "WEATHER",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Anne",
+              "score": 4100
+            },
+            {
+              "player": "Carl",
+              "score": 6100
+            },
+            {
+              "player": "John",
+              "score": 3000
+            }
+          ]
+        },
+        {
+          "category": "SPAIN",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Anne",
+              "score": 4100
+            },
+            {
+              "player": "Carl",
+              "score": 6100
+            },
+            {
+              "player": "John",
+              "score": 3000
+            }
+          ]
+        },
+        {
+          "category": "WEATHER",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Anne",
+              "score": 4100
+            },
+            {
+              "player": "Carl",
+              "score": 6100
+            },
+            {
+              "player": "John",
+              "score": 3000
+            }
+          ]
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "Anne",
+          "score": 4100
+        },
+        {
+          "player": "Carl",
+          "score": 6100
+        },
+        {
+          "player": "John",
+          "score": 3000
+        }
+      ]
+    },
+    "finalJeopardy": {
+      "category": "THE UNITED NATIONS",
+      "clue": "City in which the United Nations Charter was signed in 1945",
+      "answer": "San Francisco",
+      "responses": [
+        {
+          "contestant": "John",
+          "response": "What was Paris?",
+          "isCorrect": false,
+          "isIncorrect": true,
+          "value": 3000,
+          "finalScore": 0
+        },
+        {
+          "contestant": "Anne",
+          "response": "What was San Francisco?",
+          "isCorrect": true,
+          "isIncorrect": false,
+          "value": 0,
+          "finalScore": 4100
+        },
+        {
+          "contestant": "Carl",
+          "response": "What is The Hague",
+          "isCorrect": false,
+          "isIncorrect": true,
+          "value": 100,
+          "finalScore": 6000
+        }
+      ]
+    }
+  },
+  "finalScores": [
+    {
+      "player": "Anne",
+      "score": "$4,100"
+    },
+    {
+      "player": "Carl",
+      "score": "$6,000"
+    },
+    {
+      "player": "John",
+      "score": "$0"
+    }
+  ],
+  "coryatScores": [
+    {
+      "player": "Anne",
+      "score": 4100
+    },
+    {
+      "player": "Carl",
+      "score": 6100
+    },
+    {
+      "player": "John",
+      "score": 3300
+    }
+  ]
+}

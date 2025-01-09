@@ -1,0 +1,1707 @@
+{
+  "gameId": 1000,
+  "showNumber": "3935",
+  "title": "Show #3935 - Friday, October 12, 2001",
+  "date": "2001-10-12",
+  "comments": "Introduction of Clue Crew member Sarah.",
+  "contestants": [
+    "Jim",
+    "Tanya",
+    "Jason"
+  ],
+  "rounds": {
+    "jeopardy": {
+      "categories": [
+        "STATE BORDERS",
+        "SURVIVAL SKILLS",
+        "PLANTS & TREES",
+        "SNL CATCHPHRASES",
+        "THE FOOD BUSINESS",
+        "BODY LANGUAGE"
+      ],
+      "clues": [
+        {
+          "category": "STATE BORDERS",
+          "value": 100,
+          "clue": "Kansas & Utah",
+          "answer": "Colorado",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [
+            "Jason"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jim",
+              "score": 0
+            },
+            {
+              "player": "Tanya",
+              "score": 0
+            },
+            {
+              "player": "Jason",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "category": "STATE BORDERS",
+          "value": 200,
+          "clue": "Oklahoma & Arkansas",
+          "answer": "Texas",
+          "isDailyDouble": false,
+          "orderNumber": 2,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Jim",
+            "Tanya",
+            "Jason"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Jim",
+              "score": -200
+            },
+            {
+              "player": "Tanya",
+              "score": -200
+            },
+            {
+              "player": "Jason",
+              "score": -100
+            }
+          ]
+        },
+        {
+          "category": "STATE BORDERS",
+          "value": 300,
+          "clue": "New York & Ohio",
+          "answer": "Pennsylvania",
+          "isDailyDouble": false,
+          "orderNumber": 3,
+          "correctContestants": [
+            "Tanya"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jim",
+              "score": -200
+            },
+            {
+              "player": "Tanya",
+              "score": 100
+            },
+            {
+              "player": "Jason",
+              "score": -100
+            }
+          ]
+        },
+        {
+          "category": "STATE BORDERS",
+          "value": 400,
+          "clue": "Montana & Oregon",
+          "answer": "Idaho",
+          "isDailyDouble": false,
+          "orderNumber": 4,
+          "correctContestants": [
+            "Tanya"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jim",
+              "score": -200
+            },
+            {
+              "player": "Tanya",
+              "score": 500
+            },
+            {
+              "player": "Jason",
+              "score": -100
+            }
+          ]
+        },
+        {
+          "category": "STATE BORDERS",
+          "value": 500,
+          "clue": "North Carolina & West Virginia",
+          "answer": "Virginia",
+          "isDailyDouble": false,
+          "orderNumber": 5,
+          "correctContestants": [
+            "Jason"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jim",
+              "score": -200
+            },
+            {
+              "player": "Tanya",
+              "score": 500
+            },
+            {
+              "player": "Jason",
+              "score": 400
+            }
+          ]
+        },
+        {
+          "category": "SNL CATCHPHRASES",
+          "value": 100,
+          "clue": "3-word phrase that followed \"Good evening, I'm Chevy Chase...\"",
+          "answer": "and you're not",
+          "isDailyDouble": false,
+          "orderNumber": 6,
+          "correctContestants": [
+            "Jim"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jim",
+              "score": -100
+            },
+            {
+              "player": "Tanya",
+              "score": 500
+            },
+            {
+              "player": "Jason",
+              "score": 400
+            }
+          ]
+        },
+        {
+          "category": "SNL CATCHPHRASES",
+          "value": 200,
+          "clue": "It was how everyone looked according to Fernando, the talk show host played by Billy Crystal",
+          "answer": "mahvelous",
+          "isDailyDouble": false,
+          "orderNumber": 7,
+          "correctContestants": [
+            "Tanya"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jim",
+              "score": -100
+            },
+            {
+              "player": "Tanya",
+              "score": 700
+            },
+            {
+              "player": "Jason",
+              "score": 400
+            }
+          ]
+        },
+        {
+          "category": "SNL CATCHPHRASES",
+          "value": 300,
+          "clue": "In a parody of the debates on \"60 Minutes\", he spoke the immortal line \"Jane, you ignorant slut\"",
+          "answer": "Dan Aykroyd",
+          "isDailyDouble": false,
+          "orderNumber": 8,
+          "correctContestants": [
+            "Jason"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jim",
+              "score": -100
+            },
+            {
+              "player": "Tanya",
+              "score": 700
+            },
+            {
+              "player": "Jason",
+              "score": 700
+            }
+          ]
+        },
+        {
+          "category": "SNL CATCHPHRASES",
+          "value": 400,
+          "clue": "(Hi, I'm Rob Schneider.)  My \"SNL\" character Richard \"The Richmeister\" Laymer coined this 2-word catchphrase for Xeroxing",
+          "answer": "\"makin' copies\"",
+          "isDailyDouble": false,
+          "orderNumber": 9,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Jim",
+              "score": -100
+            },
+            {
+              "player": "Tanya",
+              "score": 700
+            },
+            {
+              "player": "Jason",
+              "score": 700
+            }
+          ]
+        },
+        {
+          "category": "SNL CATCHPHRASES",
+          "value": 500,
+          "clue": "This comic played pathological liar Tommy Flanagan, whose wife was \"Morgan Fairchild, yeah, that's the ticket\"",
+          "answer": "Jon Lovitz",
+          "isDailyDouble": false,
+          "orderNumber": 10,
+          "correctContestants": [
+            "Jason"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jim",
+              "score": -100
+            },
+            {
+              "player": "Tanya",
+              "score": 700
+            },
+            {
+              "player": "Jason",
+              "score": 1200
+            }
+          ]
+        },
+        {
+          "category": "BODY LANGUAGE",
+          "value": 100,
+          "clue": "If you're hard at work, you're keeping this body part \"to the grindstone\"",
+          "answer": "your nose",
+          "isDailyDouble": false,
+          "orderNumber": 11,
+          "correctContestants": [
+            "Jim"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jim",
+              "score": 0
+            },
+            {
+              "player": "Tanya",
+              "score": 700
+            },
+            {
+              "player": "Jason",
+              "score": 1200
+            }
+          ]
+        },
+        {
+          "category": "BODY LANGUAGE",
+          "value": 200,
+          "clue": "An empathetic person would give you this body part \"to cry on\"",
+          "answer": "shoulder",
+          "isDailyDouble": false,
+          "orderNumber": 12,
+          "correctContestants": [
+            "Jason"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jim",
+              "score": 0
+            },
+            {
+              "player": "Tanya",
+              "score": 700
+            },
+            {
+              "player": "Jason",
+              "score": 1400
+            }
+          ]
+        },
+        {
+          "category": "BODY LANGUAGE",
+          "value": 300,
+          "clue": "It's what you're said to \"hold\" when you're keeping your big mouth shut",
+          "answer": "your tongue",
+          "isDailyDouble": false,
+          "orderNumber": 13,
+          "correctContestants": [
+            "Tanya"
+          ],
+          "incorrectContestants": [
+            "Jim",
+            "Jason"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jim",
+              "score": -300
+            },
+            {
+              "player": "Tanya",
+              "score": 1000
+            },
+            {
+              "player": "Jason",
+              "score": 1100
+            }
+          ]
+        },
+        {
+          "category": "BODY LANGUAGE",
+          "value": 400,
+          "clue": "The kind of icy extremities an apprehensive bridegroom gets",
+          "answer": "cold feet",
+          "isDailyDouble": false,
+          "orderNumber": 14,
+          "correctContestants": [
+            "Tanya"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jim",
+              "score": -300
+            },
+            {
+              "player": "Tanya",
+              "score": 1400
+            },
+            {
+              "player": "Jason",
+              "score": 1100
+            }
+          ]
+        },
+        {
+          "category": "BODY LANGUAGE",
+          "value": 500,
+          "clue": "Someone who covets something of great value often says, \"I'd give\" these canines\" \"for that\"",
+          "answer": "eye teeth",
+          "isDailyDouble": false,
+          "orderNumber": 15,
+          "correctContestants": [
+            "Jim"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jim",
+              "score": 200
+            },
+            {
+              "player": "Tanya",
+              "score": 1400
+            },
+            {
+              "player": "Jason",
+              "score": 1100
+            }
+          ]
+        },
+        {
+          "category": "SURVIVAL SKILLS",
+          "value": 100,
+          "clue": "If you must move a victim with a broken bone, apply one of these to prevent the broken bone from moving",
+          "answer": "splint",
+          "isDailyDouble": false,
+          "orderNumber": 16,
+          "correctContestants": [
+            "Jason"
+          ],
+          "incorrectContestants": [
+            "Tanya"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jim",
+              "score": 200
+            },
+            {
+              "player": "Tanya",
+              "score": 1300
+            },
+            {
+              "player": "Jason",
+              "score": 1200
+            }
+          ]
+        },
+        {
+          "category": "SURVIVAL SKILLS",
+          "value": 200,
+          "clue": "To control bleeding, apply direct pressure on the wound & on these, which supply blood to the affected area",
+          "answer": "arteries",
+          "isDailyDouble": false,
+          "orderNumber": 17,
+          "correctContestants": [
+            "Jim"
+          ],
+          "incorrectContestants": [
+            "Tanya"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jim",
+              "score": 400
+            },
+            {
+              "player": "Tanya",
+              "score": 1100
+            },
+            {
+              "player": "Jason",
+              "score": 1200
+            }
+          ]
+        },
+        {
+          "category": "SURVIVAL SKILLS",
+          "value": 300,
+          "clue": "(Sarah of the Clue Crew reports, using a brown bag.)  If you're suffering from this 16-letter word, do the following to alleviate it",
+          "answer": "hyperventilating",
+          "isDailyDouble": false,
+          "orderNumber": 18,
+          "correctContestants": [
+            "Tanya"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jim",
+              "score": 400
+            },
+            {
+              "player": "Tanya",
+              "score": 1400
+            },
+            {
+              "player": "Jason",
+              "score": 1200
+            }
+          ]
+        },
+        {
+          "category": "THE FOOD BUSINESS",
+          "value": 100,
+          "clue": "In 1991 Louis Rich introduced a bacon made out of this meat",
+          "answer": "turkey",
+          "isDailyDouble": false,
+          "orderNumber": 19,
+          "correctContestants": [
+            "Jason"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jim",
+              "score": 400
+            },
+            {
+              "player": "Tanya",
+              "score": 1400
+            },
+            {
+              "player": "Jason",
+              "score": 1300
+            }
+          ]
+        },
+        {
+          "category": "THE FOOD BUSINESS",
+          "value": 200,
+          "clue": "The original shredder was Henry Perky, who in 1892, \"shredded\" this for breakfast cereal",
+          "answer": "wheat",
+          "isDailyDouble": false,
+          "orderNumber": 20,
+          "correctContestants": [
+            "Tanya"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jim",
+              "score": 400
+            },
+            {
+              "player": "Tanya",
+              "score": 1600
+            },
+            {
+              "player": "Jason",
+              "score": 1300
+            }
+          ]
+        },
+        {
+          "category": "THE FOOD BUSINESS",
+          "value": 300,
+          "clue": "Its smiling-faced pitcher was trademarked back in the 1950s",
+          "answer": "Kool-Aid",
+          "isDailyDouble": false,
+          "orderNumber": 21,
+          "correctContestants": [
+            "Jim"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jim",
+              "score": 700
+            },
+            {
+              "player": "Tanya",
+              "score": 1600
+            },
+            {
+              "player": "Jason",
+              "score": 1300
+            }
+          ]
+        },
+        {
+          "category": "THE FOOD BUSINESS",
+          "value": 400,
+          "clue": "In 1942 Gordon Harwell & Eric Huzenlaub \"converted\" this grain",
+          "answer": "rice",
+          "isDailyDouble": false,
+          "orderNumber": 22,
+          "correctContestants": [
+            "Tanya"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jim",
+              "score": 700
+            },
+            {
+              "player": "Tanya",
+              "score": 2000
+            },
+            {
+              "player": "Jason",
+              "score": 1300
+            }
+          ]
+        },
+        {
+          "category": "THE FOOD BUSINESS",
+          "value": 500,
+          "clue": "Procter & Gamble has found that a form of this fat substitute it uses in WOW! chips can clean up toxic spills",
+          "answer": "Olean (or olestra)",
+          "isDailyDouble": false,
+          "orderNumber": 23,
+          "correctContestants": [
+            "Jim"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jim",
+              "score": 1200
+            },
+            {
+              "player": "Tanya",
+              "score": 2000
+            },
+            {
+              "player": "Jason",
+              "score": 1300
+            }
+          ]
+        },
+        {
+          "category": "SURVIVAL SKILLS",
+          "value": 400,
+          "clue": "(Hi, I'm Elisabeth Filarski from Survivor.)  If the Heimlich Maneuver fails & a person can't breathe at all, create an airway with this surgical procedure",
+          "answer": "a tracheotomy",
+          "isDailyDouble": false,
+          "orderNumber": 24,
+          "correctContestants": [
+            "Jim"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jim",
+              "score": 1600
+            },
+            {
+              "player": "Tanya",
+              "score": 2000
+            },
+            {
+              "player": "Jason",
+              "score": 1300
+            }
+          ]
+        },
+        {
+          "category": "SURVIVAL SKILLS",
+          "value": 500,
+          "clue": "(Sofia of the Clue Crew reports from the beach, with Sarah lying down on a blue towel.)  For professionals performing CPR, remember your ABCs: airway, breathing & this, which means checking for a pulse",
+          "answer": "circulation",
+          "isDailyDouble": false,
+          "orderNumber": 25,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Jim"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Jim",
+              "score": 1100
+            },
+            {
+              "player": "Tanya",
+              "score": 2000
+            },
+            {
+              "player": "Jason",
+              "score": 1300
+            }
+          ]
+        },
+        {
+          "category": "PLANTS & TREES",
+          "value": 100,
+          "clue": "Georgia produces about 40% of the USA's annual crop of this legume",
+          "answer": "peanuts",
+          "isDailyDouble": false,
+          "orderNumber": 26,
+          "correctContestants": [
+            "Tanya"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jim",
+              "score": 1100
+            },
+            {
+              "player": "Tanya",
+              "score": 2100
+            },
+            {
+              "player": "Jason",
+              "score": 1300
+            }
+          ]
+        },
+        {
+          "category": "PLANTS & TREES",
+          "value": 200,
+          "clue": "This Australian gum tree produces a resin, Botany Bay kino, that protects wood against shipworms & other borers",
+          "answer": "eucalyptus",
+          "isDailyDouble": false,
+          "orderNumber": 27,
+          "correctContestants": [
+            "Tanya"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jim",
+              "score": 1100
+            },
+            {
+              "player": "Tanya",
+              "score": 2300
+            },
+            {
+              "player": "Jason",
+              "score": 1300
+            }
+          ]
+        },
+        {
+          "category": "PLANTS & TREES",
+          "value": 1000,
+          "clue": "This tree, Acer saccharum, has the strongest & hardest wood of any maple",
+          "answer": "sugar maple",
+          "isDailyDouble": true,
+          "orderNumber": 28,
+          "correctContestants": [
+            "Tanya"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jim",
+              "score": 1100
+            },
+            {
+              "player": "Tanya",
+              "score": 3300
+            },
+            {
+              "player": "Jason",
+              "score": 1300
+            }
+          ]
+        },
+        {
+          "category": "PLANTS & TREES",
+          "value": 400,
+          "clue": "Modern versions of this flower, also called a clove pink, were developed in France around 1840",
+          "answer": "carnation",
+          "isDailyDouble": false,
+          "orderNumber": 29,
+          "correctContestants": [
+            "Jason"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jim",
+              "score": 1100
+            },
+            {
+              "player": "Tanya",
+              "score": 3300
+            },
+            {
+              "player": "Jason",
+              "score": 1700
+            }
+          ]
+        },
+        {
+          "category": "PLANTS & TREES",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jim",
+              "score": 1100
+            },
+            {
+              "player": "Tanya",
+              "score": 3300
+            },
+            {
+              "player": "Jason",
+              "score": 1700
+            }
+          ]
+        }
+      ],
+      "firstBreakScores": [
+        {
+          "player": "Jim",
+          "score": 200
+        },
+        {
+          "player": "Tanya",
+          "score": 1400
+        },
+        {
+          "player": "Jason",
+          "score": 1100
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "Jim",
+          "score": 1100
+        },
+        {
+          "player": "Tanya",
+          "score": 3300
+        },
+        {
+          "player": "Jason",
+          "score": 1700
+        }
+      ]
+    },
+    "doubleJeopardy": {
+      "categories": [
+        "AMERICAN PLAYWRIGHTS",
+        "AUDREY HEPBURN FILM ROLES",
+        "IT'S A GROUP THING",
+        "GOOD MORNING, ARMENIA",
+        "\"TWO\"-DAY",
+        "THE EARL SHOW"
+      ],
+      "clues": [
+        {
+          "category": "THE EARL SHOW",
+          "value": 200,
+          "clue": "Horatio Kitchener was made an earl of this capital of Sudan",
+          "answer": "Khartoum",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jim",
+              "score": 1100
+            },
+            {
+              "player": "Tanya",
+              "score": 3300
+            },
+            {
+              "player": "Jason",
+              "score": 1900
+            }
+          ]
+        },
+        {
+          "category": "THE EARL SHOW",
+          "value": 400,
+          "clue": "Ding-dong!  When Anthony Eden came \"calling\", people knew he was first earl of this",
+          "answer": "Avon",
+          "isDailyDouble": false,
+          "orderNumber": 2,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Jim",
+              "score": 1100
+            },
+            {
+              "player": "Tanya",
+              "score": 3300
+            },
+            {
+              "player": "Jason",
+              "score": 1500
+            }
+          ]
+        },
+        {
+          "category": "THE EARL SHOW",
+          "value": 500,
+          "clue": "As seventh earl of this, Thomas Bruce is immortalized in Greek marbles",
+          "answer": "Elgin",
+          "isDailyDouble": true,
+          "orderNumber": 3,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jim",
+              "score": 1100
+            },
+            {
+              "player": "Tanya",
+              "score": 3300
+            },
+            {
+              "player": "Jason",
+              "score": 1000
+            }
+          ]
+        },
+        {
+          "category": "THE EARL SHOW",
+          "value": 800,
+          "clue": "Elizabethans found Robert Devereux, 2nd earl of this, \"A nature not to be ruled\"",
+          "answer": "Essex",
+          "isDailyDouble": false,
+          "orderNumber": 4,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Jim",
+              "score": 1100
+            },
+            {
+              "player": "Tanya",
+              "score": 3300
+            },
+            {
+              "player": "Jason",
+              "score": 1000
+            }
+          ]
+        },
+        {
+          "category": "THE EARL SHOW",
+          "value": 1000,
+          "clue": "Good Lord!  Photographer Antony Armstrong-Jones was made Earl of this in 1961",
+          "answer": "Snowdon",
+          "isDailyDouble": false,
+          "orderNumber": 5,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Jim",
+              "score": 1100
+            },
+            {
+              "player": "Tanya",
+              "score": 3300
+            },
+            {
+              "player": "Jason",
+              "score": 1000
+            }
+          ]
+        },
+        {
+          "category": "AUDREY HEPBURN FILM ROLES",
+          "value": 200,
+          "clue": "Flower girl Eliza Doolittle",
+          "answer": "My Fair Lady",
+          "isDailyDouble": false,
+          "orderNumber": 6,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jim",
+              "score": 1100
+            },
+            {
+              "player": "Tanya",
+              "score": 3300
+            },
+            {
+              "player": "Jason",
+              "score": 1200
+            }
+          ]
+        },
+        {
+          "category": "AUDREY HEPBURN FILM ROLES",
+          "value": 400,
+          "clue": "The \"Maid\" of Sherwood Forest",
+          "answer": "Robin and Marian",
+          "isDailyDouble": false,
+          "orderNumber": 7,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jim",
+              "score": 1100
+            },
+            {
+              "player": "Tanya",
+              "score": 2900
+            },
+            {
+              "player": "Jason",
+              "score": 1600
+            }
+          ]
+        },
+        {
+          "category": "AUDREY HEPBURN FILM ROLES",
+          "value": 600,
+          "clue": "Sister Luke",
+          "answer": "The Nun's Story",
+          "isDailyDouble": false,
+          "orderNumber": 8,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jim",
+              "score": 1100
+            },
+            {
+              "player": "Tanya",
+              "score": 3500
+            },
+            {
+              "player": "Jason",
+              "score": 1600
+            }
+          ]
+        },
+        {
+          "category": "AUDREY HEPBURN FILM ROLES",
+          "value": 800,
+          "clue": "Susy Hendrix, a blind woman",
+          "answer": "Wait Until Dark",
+          "isDailyDouble": false,
+          "orderNumber": 9,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Jim",
+              "score": 1100
+            },
+            {
+              "player": "Tanya",
+              "score": 3500
+            },
+            {
+              "player": "Jason",
+              "score": 1600
+            }
+          ]
+        },
+        {
+          "category": "AUDREY HEPBURN FILM ROLES",
+          "value": 1000,
+          "clue": "Karen Wright, the co-headmistress at a girls' school",
+          "answer": "The Children's Hour",
+          "isDailyDouble": false,
+          "orderNumber": 10,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jim",
+              "score": 1100
+            },
+            {
+              "player": "Tanya",
+              "score": 4500
+            },
+            {
+              "player": "Jason",
+              "score": 1600
+            }
+          ]
+        },
+        {
+          "category": "AMERICAN PLAYWRIGHTS",
+          "value": 200,
+          "clue": "He won a 1991 Pulitzer for his comedy \"Lost in Yonkers\"",
+          "answer": "Neil Simon",
+          "isDailyDouble": false,
+          "orderNumber": 11,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jim",
+              "score": 1100
+            },
+            {
+              "player": "Tanya",
+              "score": 4700
+            },
+            {
+              "player": "Jason",
+              "score": 1600
+            }
+          ]
+        },
+        {
+          "category": "AMERICAN PLAYWRIGHTS",
+          "value": 400,
+          "clue": "\"Our Teeth\" & \"Our Town\" have been subjects for this Wisconsin-born playwright",
+          "answer": "Thornton Wilder",
+          "isDailyDouble": false,
+          "orderNumber": 12,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jim",
+              "score": 1500
+            },
+            {
+              "player": "Tanya",
+              "score": 4700
+            },
+            {
+              "player": "Jason",
+              "score": 1600
+            }
+          ]
+        },
+        {
+          "category": "IT'S A GROUP THING",
+          "value": 200,
+          "clue": "In a popular nursery rhyme neither of these 2 groups could put Humpty Dumpty back together again",
+          "answer": "all the king's horses & all the king's men",
+          "isDailyDouble": false,
+          "orderNumber": 13,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jim",
+              "score": 1500
+            },
+            {
+              "player": "Tanya",
+              "score": 4900
+            },
+            {
+              "player": "Jason",
+              "score": 1600
+            }
+          ]
+        },
+        {
+          "category": "AMERICAN PLAYWRIGHTS",
+          "value": 600,
+          "clue": "Ira Levin, author of the creepy \"Rosemary's Baby\", wrote the jocular play \"No Time for\" these",
+          "answer": "Sergeants",
+          "isDailyDouble": false,
+          "orderNumber": 14,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jim",
+              "score": 2100
+            },
+            {
+              "player": "Tanya",
+              "score": 4900
+            },
+            {
+              "player": "Jason",
+              "score": 1600
+            }
+          ]
+        },
+        {
+          "category": "IT'S A GROUP THING",
+          "value": 400,
+          "clue": "Famed British group whose work included \"The Dead Parrot Sketch\" & the \"Lumberjack Song\"",
+          "answer": "Monty Python",
+          "isDailyDouble": false,
+          "orderNumber": 15,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jim",
+              "score": 2100
+            },
+            {
+              "player": "Tanya",
+              "score": 5300
+            },
+            {
+              "player": "Jason",
+              "score": 1600
+            }
+          ]
+        },
+        {
+          "category": "AMERICAN PLAYWRIGHTS",
+          "value": 800,
+          "clue": "He wrote \"To the Ladies\" with Marc Connelly & \"The Man Who Came to Dinner\" with Moss Hart",
+          "answer": "George S. Kaufman",
+          "isDailyDouble": false,
+          "orderNumber": 16,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Jim",
+              "score": 2100
+            },
+            {
+              "player": "Tanya",
+              "score": 5300
+            },
+            {
+              "player": "Jason",
+              "score": 800
+            }
+          ]
+        },
+        {
+          "category": "AMERICAN PLAYWRIGHTS",
+          "value": 1000,
+          "clue": "David Rabe's next play after his 1982 \"Goose and Tomtom\" was this 1984 chaotic concoction",
+          "answer": "Hurlyburly",
+          "isDailyDouble": false,
+          "orderNumber": 17,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Jim",
+              "score": 2100
+            },
+            {
+              "player": "Tanya",
+              "score": 5300
+            },
+            {
+              "player": "Jason",
+              "score": 800
+            }
+          ]
+        },
+        {
+          "category": "\"TWO\"-DAY",
+          "value": 200,
+          "clue": "Certs used this slogan in its first commercial some 40 years ago",
+          "answer": "\"Two, two, two mints in one!\"",
+          "isDailyDouble": false,
+          "orderNumber": 18,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Jim",
+              "score": 2100
+            },
+            {
+              "player": "Tanya",
+              "score": 5300
+            },
+            {
+              "player": "Jason",
+              "score": 800
+            }
+          ]
+        },
+        {
+          "category": "\"TWO\"-DAY",
+          "value": 400,
+          "clue": "This Batman villain is former D.A. Harvey Dent",
+          "answer": "Two-Face",
+          "isDailyDouble": false,
+          "orderNumber": 19,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jim",
+              "score": 2500
+            },
+            {
+              "player": "Tanya",
+              "score": 5300
+            },
+            {
+              "player": "Jason",
+              "score": 800
+            }
+          ]
+        },
+        {
+          "category": "\"TWO\"-DAY",
+          "value": 600,
+          "clue": "Proverbial phrase that describes what's required to dance to the following",
+          "answer": "it takes two to tango",
+          "isDailyDouble": false,
+          "orderNumber": 20,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jim",
+              "score": 2500
+            },
+            {
+              "player": "Tanya",
+              "score": 5300
+            },
+            {
+              "player": "Jason",
+              "score": 1400
+            }
+          ]
+        },
+        {
+          "category": "\"TWO\"-DAY",
+          "value": 800,
+          "clue": "This nickname for a person too sweet & innocent to be true goes back to an 18th century children's story",
+          "answer": "Goody two-shoes",
+          "isDailyDouble": false,
+          "orderNumber": 21,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Jim",
+              "score": 2500
+            },
+            {
+              "player": "Tanya",
+              "score": 5300
+            },
+            {
+              "player": "Jason",
+              "score": 600
+            }
+          ]
+        },
+        {
+          "category": "\"TWO\"-DAY",
+          "value": 500,
+          "clue": "In this play Valentine doth say, \"Home-keeping youth have ever homely wits\"",
+          "answer": "Two Gentlemen of Verona",
+          "isDailyDouble": true,
+          "orderNumber": 22,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jim",
+              "score": 2500
+            },
+            {
+              "player": "Tanya",
+              "score": 5300
+            },
+            {
+              "player": "Jason",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "category": "GOOD MORNING, ARMENIA",
+          "value": 200,
+          "clue": "Present-day Armenia & what is now the eastern part of the nation make up historic Armenia",
+          "answer": "Turkey",
+          "isDailyDouble": false,
+          "orderNumber": 23,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jim",
+              "score": 2500
+            },
+            {
+              "player": "Tanya",
+              "score": 5100
+            },
+            {
+              "player": "Jason",
+              "score": 300
+            }
+          ]
+        },
+        {
+          "category": "IT'S A GROUP THING",
+          "value": 1000,
+          "clue": "Capricorn, Taurus & Virgo make up this group of Zodiac signs",
+          "answer": "Earth signs",
+          "isDailyDouble": false,
+          "orderNumber": 24,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jim",
+              "score": 2500
+            },
+            {
+              "player": "Tanya",
+              "score": 6100
+            },
+            {
+              "player": "Jason",
+              "score": 300
+            }
+          ]
+        },
+        {
+          "category": "GOOD MORNING, ARMENIA",
+          "value": 1000,
+          "clue": "In recent years Armenia has fought this nation for control of Armenian-populated Nagorno-Karabakh",
+          "answer": "Azerbaijan",
+          "isDailyDouble": false,
+          "orderNumber": 25,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Tanya",
+            "Jason"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Jim",
+              "score": 1500
+            },
+            {
+              "player": "Tanya",
+              "score": 5100
+            },
+            {
+              "player": "Jason",
+              "score": -700
+            }
+          ]
+        },
+        {
+          "category": "GOOD MORNING, ARMENIA",
+          "value": 800,
+          "clue": "Armenia declared its independence from this collapsing entity Sept. 23, 1991",
+          "answer": "Soviet Union",
+          "isDailyDouble": false,
+          "orderNumber": 26,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jim",
+              "score": 1500
+            },
+            {
+              "player": "Tanya",
+              "score": 5100
+            },
+            {
+              "player": "Jason",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "category": "IT'S A GROUP THING",
+          "value": 800,
+          "clue": "This \"college\" not only assists the pope, it elects a new one whenever the papacy is vacant",
+          "answer": "College of Cardinals",
+          "isDailyDouble": false,
+          "orderNumber": 27,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jim",
+              "score": 2300
+            },
+            {
+              "player": "Tanya",
+              "score": 5100
+            },
+            {
+              "player": "Jason",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "category": "IT'S A GROUP THING",
+          "value": 600,
+          "clue": "(Sarah of the Clue Crew reports from Sea World in San Diego.)  It's a term for a stable group of killer whales, so you could say \"as alike as two whales in\" one of these",
+          "answer": "a pod",
+          "isDailyDouble": false,
+          "orderNumber": 28,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jim",
+              "score": 1700
+            },
+            {
+              "player": "Tanya",
+              "score": 5700
+            },
+            {
+              "player": "Jason",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "category": "GOOD MORNING, ARMENIA",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jim",
+              "score": 1700
+            },
+            {
+              "player": "Tanya",
+              "score": 5700
+            },
+            {
+              "player": "Jason",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "category": "GOOD MORNING, ARMENIA",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jim",
+              "score": 1700
+            },
+            {
+              "player": "Tanya",
+              "score": 5700
+            },
+            {
+              "player": "Jason",
+              "score": 100
+            }
+          ]
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "Jim",
+          "score": 1700
+        },
+        {
+          "player": "Tanya",
+          "score": 5700
+        },
+        {
+          "player": "Jason",
+          "score": 100
+        }
+      ]
+    },
+    "finalJeopardy": {
+      "category": "THE VOCAL ARTS",
+      "clue": "Alessandro Moreschi, who died in 1922, was the last renowned member of this operatic category of voice",
+      "answer": "the Castrati",
+      "responses": [
+        {
+          "contestant": "Jason",
+          "response": "What is the Castrati? LT (heart) JALOHO",
+          "isCorrect": true,
+          "isIncorrect": false,
+          "value": 99,
+          "finalScore": 199
+        },
+        {
+          "contestant": "Jim",
+          "response": "What is alto tenor?",
+          "isCorrect": false,
+          "isIncorrect": true,
+          "value": 300,
+          "finalScore": 1400
+        },
+        {
+          "contestant": "Tanya",
+          "response": "What is a baritone?",
+          "isCorrect": false,
+          "isIncorrect": true,
+          "value": 2200,
+          "finalScore": 3500
+        }
+      ]
+    }
+  },
+  "finalScores": [
+    {
+      "player": "Jim",
+      "score": "$1,400"
+    },
+    {
+      "player": "Tanya",
+      "score": "$3,500"
+    },
+    {
+      "player": "Jason",
+      "score": "$199"
+    }
+  ],
+  "coryatScores": [
+    {
+      "player": "Jim",
+      "score": 1700
+    },
+    {
+      "player": "Tanya",
+      "score": 5000
+    },
+    {
+      "player": "Jason",
+      "score": 1100
+    }
+  ]
+}

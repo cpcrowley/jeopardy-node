@@ -1,0 +1,1692 @@
+{
+  "gameId": 4731,
+  "showNumber": "6945",
+  "title": "Show #6945 - Friday, November 21, 2014",
+  "date": "2014-11-21",
+  "comments": "2014 Tournament of Champions final game 2.",
+  "contestants": [
+    "Ben",
+    "Arthur",
+    "Julia"
+  ],
+  "rounds": {
+    "jeopardy": {
+      "categories": [
+        "YOU DO KNOW HIM FROM ADAM",
+        "STATE PARKS",
+        "BUBBLE TROUBLE",
+        "MEDIA",
+        "ADD A LETTER",
+        "CHANNING TATUM MOVIES BY ROLE"
+      ],
+      "clues": [
+        {
+          "category": "YOU DO KNOW HIM FROM ADAM",
+          "value": 600,
+          "clue": "In Genesis 3 God makes Adam a coat of skins; in Genesis 37 Jacob makes this son a coat of many colors",
+          "answer": "Joseph",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [
+            "Arthur"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ben",
+              "score": 0
+            },
+            {
+              "player": "Arthur",
+              "score": 600
+            },
+            {
+              "player": "Julia",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "YOU DO KNOW HIM FROM ADAM",
+          "value": 1000,
+          "clue": "In Genesis 3:19 God tells Adam he'll return to dust; in Exodus 8:17, this brother's rod turns dust to lice",
+          "answer": "Aaron",
+          "isDailyDouble": true,
+          "orderNumber": 2,
+          "correctContestants": [
+            "Arthur"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ben",
+              "score": 0
+            },
+            {
+              "player": "Arthur",
+              "score": 1600
+            },
+            {
+              "player": "Julia",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "MEDIA",
+          "value": 1000,
+          "clue": "A written attack, a large sheet of paper, or when a ship fires all its port or starboard guns",
+          "answer": "a broadside",
+          "isDailyDouble": false,
+          "orderNumber": 3,
+          "correctContestants": [
+            "Julia"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ben",
+              "score": 0
+            },
+            {
+              "player": "Arthur",
+              "score": 1600
+            },
+            {
+              "player": "Julia",
+              "score": 1000
+            }
+          ]
+        },
+        {
+          "category": "MEDIA",
+          "value": 800,
+          "clue": "Time said critics of the AT&T-DirectTV merger call it an example of \"out-of-control media\" this event",
+          "answer": "consolidation",
+          "isDailyDouble": false,
+          "orderNumber": 4,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Julia"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Ben",
+              "score": 0
+            },
+            {
+              "player": "Arthur",
+              "score": 1600
+            },
+            {
+              "player": "Julia",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "BUBBLE TROUBLE",
+          "value": 600,
+          "clue": "His \"Ode To A Nightingale\" mentions \"beaded bubbles winking at the brim, and purple-stained mouth\"",
+          "answer": "Keats",
+          "isDailyDouble": false,
+          "orderNumber": 5,
+          "correctContestants": [
+            "Ben"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ben",
+              "score": 600
+            },
+            {
+              "player": "Arthur",
+              "score": 1600
+            },
+            {
+              "player": "Julia",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "STATE PARKS",
+          "value": 200,
+          "clue": "Little Falls, Minnesota boasts a state park named for this aviator, though you'd think it would be in St. Louis",
+          "answer": "Lindbergh",
+          "isDailyDouble": false,
+          "orderNumber": 6,
+          "correctContestants": [
+            "Ben"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ben",
+              "score": 800
+            },
+            {
+              "player": "Arthur",
+              "score": 1600
+            },
+            {
+              "player": "Julia",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "STATE PARKS",
+          "value": 400,
+          "clue": "Tennessee parks include one named for this pioneer you may remember from the Alamo",
+          "answer": "(Davy) Crockett",
+          "isDailyDouble": false,
+          "orderNumber": 7,
+          "correctContestants": [
+            "Ben"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ben",
+              "score": 1200
+            },
+            {
+              "player": "Arthur",
+              "score": 1600
+            },
+            {
+              "player": "Julia",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "STATE PARKS",
+          "value": 600,
+          "clue": "Country roads, take me home to Hawks Nest or Pipestem Resort in this state",
+          "answer": "West Virginia",
+          "isDailyDouble": false,
+          "orderNumber": 8,
+          "correctContestants": [
+            "Ben"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ben",
+              "score": 1800
+            },
+            {
+              "player": "Arthur",
+              "score": 1600
+            },
+            {
+              "player": "Julia",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "STATE PARKS",
+          "value": 800,
+          "clue": "When it comes to this state's parks, call LeFleur's Bluff... or Tishomingo or Natchez, for that matter",
+          "answer": "Mississippi",
+          "isDailyDouble": false,
+          "orderNumber": 9,
+          "correctContestants": [
+            "Ben"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ben",
+              "score": 2600
+            },
+            {
+              "player": "Arthur",
+              "score": 1600
+            },
+            {
+              "player": "Julia",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "STATE PARKS",
+          "value": 1000,
+          "clue": "This Is The Place Heritage Park state park takes up a lot of signage space in this state",
+          "answer": "Utah",
+          "isDailyDouble": false,
+          "orderNumber": 10,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Ben",
+              "score": 2600
+            },
+            {
+              "player": "Arthur",
+              "score": 1600
+            },
+            {
+              "player": "Julia",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "YOU DO KNOW HIM FROM ADAM",
+          "value": 200,
+          "clue": "In Genesis 2 Adam gives names to the animals; in Genesis 6, this man rounds 'em up",
+          "answer": "Noah",
+          "isDailyDouble": false,
+          "orderNumber": 11,
+          "correctContestants": [
+            "Arthur"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ben",
+              "score": 2600
+            },
+            {
+              "player": "Arthur",
+              "score": 1800
+            },
+            {
+              "player": "Julia",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "MEDIA",
+          "value": 600,
+          "clue": "TV wasn't around for long before the joke started that it's a medium because it's neither rare nor this",
+          "answer": "well done",
+          "isDailyDouble": false,
+          "orderNumber": 12,
+          "correctContestants": [
+            "Ben"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ben",
+              "score": 3200
+            },
+            {
+              "player": "Arthur",
+              "score": 1800
+            },
+            {
+              "player": "Julia",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "ADD A LETTER",
+          "value": 200,
+          "clue": "Add a letter to \"wordplay\" to get this activity prevalent in pirate movies",
+          "answer": "swordplay",
+          "isDailyDouble": false,
+          "orderNumber": 13,
+          "correctContestants": [
+            "Julia"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ben",
+              "score": 3200
+            },
+            {
+              "player": "Arthur",
+              "score": 1800
+            },
+            {
+              "player": "Julia",
+              "score": 400
+            }
+          ]
+        },
+        {
+          "category": "CHANNING TATUM MOVIES BY ROLE",
+          "value": 400,
+          "clue": "Roofer by day, \"enchanting\" stripper by night",
+          "answer": "Magic Mike",
+          "isDailyDouble": false,
+          "orderNumber": 14,
+          "correctContestants": [
+            "Julia"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ben",
+              "score": 3200
+            },
+            {
+              "player": "Arthur",
+              "score": 1800
+            },
+            {
+              "player": "Julia",
+              "score": 800
+            }
+          ]
+        },
+        {
+          "category": "CHANNING TATUM MOVIES BY ROLE",
+          "value": 600,
+          "clue": "Soldier John Tyree, who falls in love while home on leave",
+          "answer": "Dear John",
+          "isDailyDouble": false,
+          "orderNumber": 15,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Julia"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Ben",
+              "score": 3200
+            },
+            {
+              "player": "Arthur",
+              "score": 1800
+            },
+            {
+              "player": "Julia",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "BUBBLE TROUBLE",
+          "value": 800,
+          "clue": "A blood vessel gets blocked by an air bubble moving through the bloodstream in one type of this condition",
+          "answer": "an embolism",
+          "isDailyDouble": false,
+          "orderNumber": 16,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Ben",
+            "Arthur"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Ben",
+              "score": 2400
+            },
+            {
+              "player": "Arthur",
+              "score": 1000
+            },
+            {
+              "player": "Julia",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "MEDIA",
+          "value": 400,
+          "clue": "The 1727 discovery that light darkens silver salts was the basis of this medium that took another century to arrive",
+          "answer": "photography",
+          "isDailyDouble": false,
+          "orderNumber": 17,
+          "correctContestants": [
+            "Arthur"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ben",
+              "score": 2400
+            },
+            {
+              "player": "Arthur",
+              "score": 1400
+            },
+            {
+              "player": "Julia",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "ADD A LETTER",
+          "value": 1000,
+          "clue": "Drop 1 letter into \"denture\" to get this word meaning to alter chemical composition",
+          "answer": "denature",
+          "isDailyDouble": false,
+          "orderNumber": 18,
+          "correctContestants": [
+            "Ben"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ben",
+              "score": 3400
+            },
+            {
+              "player": "Arthur",
+              "score": 1400
+            },
+            {
+              "player": "Julia",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "ADD A LETTER",
+          "value": 400,
+          "clue": "Add a letter to \"aspirin\" to get this ambitious word",
+          "answer": "aspiring",
+          "isDailyDouble": false,
+          "orderNumber": 19,
+          "correctContestants": [
+            "Ben"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ben",
+              "score": 3800
+            },
+            {
+              "player": "Arthur",
+              "score": 1400
+            },
+            {
+              "player": "Julia",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "ADD A LETTER",
+          "value": 600,
+          "clue": "Insert a letter in \"confer\" to get this type of shade giver",
+          "answer": "conifer",
+          "isDailyDouble": false,
+          "orderNumber": 20,
+          "correctContestants": [
+            "Arthur"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ben",
+              "score": 3800
+            },
+            {
+              "player": "Arthur",
+              "score": 2000
+            },
+            {
+              "player": "Julia",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "YOU DO KNOW HIM FROM ADAM",
+          "value": 1000,
+          "clue": "Seth is Adam's son; Solomon is this king's son",
+          "answer": "David",
+          "isDailyDouble": false,
+          "orderNumber": 21,
+          "correctContestants": [
+            "Arthur"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ben",
+              "score": 3800
+            },
+            {
+              "player": "Arthur",
+              "score": 3000
+            },
+            {
+              "player": "Julia",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "BUBBLE TROUBLE",
+          "value": 1000,
+          "clue": "Say \"fresh\" to begin the name of this Spanish sparkling wine around since 1861",
+          "answer": "Freixenet",
+          "isDailyDouble": false,
+          "orderNumber": 22,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Ben",
+              "score": 3800
+            },
+            {
+              "player": "Arthur",
+              "score": 3000
+            },
+            {
+              "player": "Julia",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "CHANNING TATUM MOVIES BY ROLE",
+          "value": 1000,
+          "clue": "Leo Collins, a newlywed nursing his amnesiac wife back to health",
+          "answer": "The Vow",
+          "isDailyDouble": false,
+          "orderNumber": 23,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Ben",
+              "score": 3800
+            },
+            {
+              "player": "Arthur",
+              "score": 3000
+            },
+            {
+              "player": "Julia",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "ADD A LETTER",
+          "value": 800,
+          "clue": "Put a letter in \"defied\" to get this word that's just divine",
+          "answer": "deified",
+          "isDailyDouble": false,
+          "orderNumber": 24,
+          "correctContestants": [
+            "Arthur"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ben",
+              "score": 3800
+            },
+            {
+              "player": "Arthur",
+              "score": 3800
+            },
+            {
+              "player": "Julia",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "YOU DO KNOW HIM FROM ADAM",
+          "value": 400,
+          "clue": "1 Corinthians says, \"for as in Adam all die, even so in\" him \"shall all be made alive\"",
+          "answer": "Christ",
+          "isDailyDouble": false,
+          "orderNumber": 25,
+          "correctContestants": [
+            "Arthur"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ben",
+              "score": 3800
+            },
+            {
+              "player": "Arthur",
+              "score": 4200
+            },
+            {
+              "player": "Julia",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "BUBBLE TROUBLE",
+          "value": 400,
+          "clue": "At 10,000 feet water boils at 194 degrees, but at sea level it takes this many more degrees to boil",
+          "answer": "18",
+          "isDailyDouble": false,
+          "orderNumber": 26,
+          "correctContestants": [
+            "Julia"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ben",
+              "score": 3800
+            },
+            {
+              "player": "Arthur",
+              "score": 4200
+            },
+            {
+              "player": "Julia",
+              "score": 600
+            }
+          ]
+        },
+        {
+          "category": "MEDIA",
+          "value": 200,
+          "clue": "In 2011 Antonin Scalia wrote, \"like...books, plays and movies,\" these games \"communicate ideas\"",
+          "answer": "video games",
+          "isDailyDouble": false,
+          "orderNumber": 27,
+          "correctContestants": [
+            "Julia"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ben",
+              "score": 3800
+            },
+            {
+              "player": "Arthur",
+              "score": 4200
+            },
+            {
+              "player": "Julia",
+              "score": 800
+            }
+          ]
+        },
+        {
+          "category": "BUBBLE TROUBLE",
+          "value": 200,
+          "clue": "In 1979 this Midwest company popped up with Hubba Bubba bubble gum",
+          "answer": "Wrigley",
+          "isDailyDouble": false,
+          "orderNumber": 28,
+          "correctContestants": [
+            "Julia"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ben",
+              "score": 3800
+            },
+            {
+              "player": "Arthur",
+              "score": 4200
+            },
+            {
+              "player": "Julia",
+              "score": 1000
+            }
+          ]
+        },
+        {
+          "category": "CHANNING TATUM MOVIES BY ROLE",
+          "value": 200,
+          "clue": "Cop Greg Jenko--this 2014 sequel",
+          "answer": " 22 Jump Street",
+          "isDailyDouble": false,
+          "orderNumber": 29,
+          "correctContestants": [
+            "Julia"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ben",
+              "score": 3800
+            },
+            {
+              "player": "Arthur",
+              "score": 4200
+            },
+            {
+              "player": "Julia",
+              "score": 1200
+            }
+          ]
+        },
+        {
+          "category": "CHANNING TATUM MOVIES BY ROLE",
+          "value": 800,
+          "clue": "U.S. Capitol policeman John Cale",
+          "answer": "White House Down",
+          "isDailyDouble": false,
+          "orderNumber": 30,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Ben",
+              "score": 3800
+            },
+            {
+              "player": "Arthur",
+              "score": 4200
+            },
+            {
+              "player": "Julia",
+              "score": 1200
+            }
+          ]
+        }
+      ],
+      "firstBreakScores": [
+        {
+          "player": "Ben",
+          "score": 3200
+        },
+        {
+          "player": "Arthur",
+          "score": 1800
+        },
+        {
+          "player": "Julia",
+          "score": 200
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "Ben",
+          "score": 3800
+        },
+        {
+          "player": "Arthur",
+          "score": 4200
+        },
+        {
+          "player": "Julia",
+          "score": 1200
+        }
+      ]
+    },
+    "doubleJeopardy": {
+      "categories": [
+        "McWRITERS",
+        "COLONIAL AMERICA",
+        "PEAKS & VALLEYS",
+        "I'M JUST A SAYING",
+        "GETTING POSSESSIVE",
+        "SONG TITLE IN COMMON TO..."
+      ],
+      "clues": [
+        {
+          "category": "SONG TITLE IN COMMON TO...",
+          "value": 400,
+          "clue": "Katy Perry (2008) & Jill Sobule (1995)",
+          "answer": "\"I Kissed A Girl\"",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ben",
+              "score": 3800
+            },
+            {
+              "player": "Arthur",
+              "score": 4200
+            },
+            {
+              "player": "Julia",
+              "score": 1600
+            }
+          ]
+        },
+        {
+          "category": "SONG TITLE IN COMMON TO...",
+          "value": 800,
+          "clue": "John Cougar Mellencamp (1987) & The Runaways (1976)",
+          "answer": "\"Cherry Bomb\"",
+          "isDailyDouble": false,
+          "orderNumber": 2,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Ben",
+              "score": 3800
+            },
+            {
+              "player": "Arthur",
+              "score": 4200
+            },
+            {
+              "player": "Julia",
+              "score": 1600
+            }
+          ]
+        },
+        {
+          "category": "SONG TITLE IN COMMON TO...",
+          "value": 1200,
+          "clue": "The Go-Go's (1984) & Tears for Fears (1985)",
+          "answer": "\"Head Over Heels\"",
+          "isDailyDouble": false,
+          "orderNumber": 3,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ben",
+              "score": 3800
+            },
+            {
+              "player": "Arthur",
+              "score": 5400
+            },
+            {
+              "player": "Julia",
+              "score": 1600
+            }
+          ]
+        },
+        {
+          "category": "COLONIAL AMERICA",
+          "value": 1200,
+          "clue": "In 1664 the British sailed into New Amsterdam & this governor surrendered the city",
+          "answer": "(Peter) Stuyvesant",
+          "isDailyDouble": false,
+          "orderNumber": 4,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ben",
+              "score": 3800
+            },
+            {
+              "player": "Arthur",
+              "score": 5400
+            },
+            {
+              "player": "Julia",
+              "score": 2800
+            }
+          ]
+        },
+        {
+          "category": "I'M JUST A SAYING",
+          "value": 1200,
+          "clue": "\"Dogs have owners, cats have\" this 5-letter group",
+          "answer": "a staff",
+          "isDailyDouble": false,
+          "orderNumber": 5,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Ben",
+              "score": 3800
+            },
+            {
+              "player": "Arthur",
+              "score": 5400
+            },
+            {
+              "player": "Julia",
+              "score": 2800
+            }
+          ]
+        },
+        {
+          "category": "GETTING POSSESSIVE",
+          "value": 1200,
+          "clue": "Mia Farrow birthed it on film in 1968",
+          "answer": "Rosemary's Baby",
+          "isDailyDouble": false,
+          "orderNumber": 6,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ben",
+              "score": 3800
+            },
+            {
+              "player": "Arthur",
+              "score": 5400
+            },
+            {
+              "player": "Julia",
+              "score": 4000
+            }
+          ]
+        },
+        {
+          "category": "GETTING POSSESSIVE",
+          "value": 1600,
+          "clue": "Term for the 14 related species of birds from the Galapagos that helped spur evolutionary theory",
+          "answer": "Darwin's finches",
+          "isDailyDouble": false,
+          "orderNumber": 7,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ben",
+              "score": 3800
+            },
+            {
+              "player": "Arthur",
+              "score": 7000
+            },
+            {
+              "player": "Julia",
+              "score": 4000
+            }
+          ]
+        },
+        {
+          "category": "McWRITERS",
+          "value": 7000,
+          "clue": "In 1962 Marshall McLuhan wrote \"Electronic interdependence recreates the world in the image of a global\" this",
+          "answer": "(a global) village",
+          "isDailyDouble": true,
+          "orderNumber": 8,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ben",
+              "score": 3800
+            },
+            {
+              "player": "Arthur",
+              "score": 0
+            },
+            {
+              "player": "Julia",
+              "score": 4000
+            }
+          ]
+        },
+        {
+          "category": "I'M JUST A SAYING",
+          "value": 1600,
+          "clue": "Proverbally, the 4-word line a wise man gave to a king who wanted a saying true in good & bad times",
+          "answer": "this too shall pass",
+          "isDailyDouble": false,
+          "orderNumber": 9,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ben",
+              "score": 3800
+            },
+            {
+              "player": "Arthur",
+              "score": 1600
+            },
+            {
+              "player": "Julia",
+              "score": 4000
+            }
+          ]
+        },
+        {
+          "category": "GETTING POSSESSIVE",
+          "value": 2000,
+          "clue": "This 1670s war named for a chief has been called \"America's bloodiest\": more than 10% of New Englanders died",
+          "answer": "King Philip's War",
+          "isDailyDouble": false,
+          "orderNumber": 10,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ben",
+              "score": 3800
+            },
+            {
+              "player": "Arthur",
+              "score": 1600
+            },
+            {
+              "player": "Julia",
+              "score": 6000
+            }
+          ]
+        },
+        {
+          "category": "SONG TITLE IN COMMON TO...",
+          "value": 1600,
+          "clue": "Alphaville (1984) & Rod Stewart (1988)",
+          "answer": "\"Forever Young\"",
+          "isDailyDouble": false,
+          "orderNumber": 11,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ben",
+              "score": 3800
+            },
+            {
+              "player": "Arthur",
+              "score": 1600
+            },
+            {
+              "player": "Julia",
+              "score": 7600
+            }
+          ]
+        },
+        {
+          "category": "SONG TITLE IN COMMON TO...",
+          "value": 2000,
+          "clue": "Dusty Springfield (1967) &ABC (1982)",
+          "answer": "\"The Look Of Love\"",
+          "isDailyDouble": false,
+          "orderNumber": 12,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Ben",
+              "score": 3800
+            },
+            {
+              "player": "Arthur",
+              "score": 1600
+            },
+            {
+              "player": "Julia",
+              "score": 7600
+            }
+          ]
+        },
+        {
+          "category": "COLONIAL AMERICA",
+          "value": 800,
+          "clue": "Since Pennsylvania had no coastline, in 1682 William Penn was granted land that later became this state",
+          "answer": "Delaware",
+          "isDailyDouble": false,
+          "orderNumber": 13,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ben",
+              "score": 4600
+            },
+            {
+              "player": "Arthur",
+              "score": 1600
+            },
+            {
+              "player": "Julia",
+              "score": 7600
+            }
+          ]
+        },
+        {
+          "category": "PEAKS & VALLEYS",
+          "value": 1200,
+          "clue": "Mount Teide, the highest mountain in the Atlantic, rises 12,198 feet on Tenerife in this Spanish island group",
+          "answer": "the Canary Islands",
+          "isDailyDouble": false,
+          "orderNumber": 14,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ben",
+              "score": 4600
+            },
+            {
+              "player": "Arthur",
+              "score": 2800
+            },
+            {
+              "player": "Julia",
+              "score": 7600
+            }
+          ]
+        },
+        {
+          "category": "PEAKS & VALLEYS",
+          "value": 2800,
+          "clue": "The Barossa Valley just north of this capital of South Australia is known for its vineyards & great wines",
+          "answer": "Adelaide",
+          "isDailyDouble": true,
+          "orderNumber": 15,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ben",
+              "score": 4600
+            },
+            {
+              "player": "Arthur",
+              "score": 5600
+            },
+            {
+              "player": "Julia",
+              "score": 7600
+            }
+          ]
+        },
+        {
+          "category": "I'M JUST A SAYING",
+          "value": 2000,
+          "clue": "Be happy the rich are getting richer; as JFK often said, \"A rising tide\" does this",
+          "answer": "lifts all boats",
+          "isDailyDouble": false,
+          "orderNumber": 16,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ben",
+              "score": 4600
+            },
+            {
+              "player": "Arthur",
+              "score": 7600
+            },
+            {
+              "player": "Julia",
+              "score": 7600
+            }
+          ]
+        },
+        {
+          "category": "PEAKS & VALLEYS",
+          "value": 2000,
+          "clue": "(Jimmy of the Clue Crew shows a map on the monitor.)  The Great Rift Valley reaches its northeasternmost extension, between the Lebanon & Anti-Lebanon mountains in this valley",
+          "answer": "the Bekaa Valley",
+          "isDailyDouble": false,
+          "orderNumber": 17,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Ben",
+              "score": 4600
+            },
+            {
+              "player": "Arthur",
+              "score": 7600
+            },
+            {
+              "player": "Julia",
+              "score": 7600
+            }
+          ]
+        },
+        {
+          "category": "McWRITERS",
+          "value": 2000,
+          "clue": "(I'm Soledad O'Brien.)  \"Crash Diet\" is a brilliant collection of stories by this Southern author; her novels include \"Carolina Moon\" & \"Tending to Virginia\"",
+          "answer": "Jill McCorkle",
+          "isDailyDouble": false,
+          "orderNumber": 18,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Ben",
+              "score": 4600
+            },
+            {
+              "player": "Arthur",
+              "score": 7600
+            },
+            {
+              "player": "Julia",
+              "score": 7600
+            }
+          ]
+        },
+        {
+          "category": "COLONIAL AMERICA",
+          "value": 2000,
+          "clue": "Born in Senegal around 1753, she wrote \"Poems on Various Subjects: Religious and Moral\" after coming to America",
+          "answer": "Phillis Wheatley",
+          "isDailyDouble": false,
+          "orderNumber": 19,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Ben",
+              "score": 4600
+            },
+            {
+              "player": "Arthur",
+              "score": 7600
+            },
+            {
+              "player": "Julia",
+              "score": 7600
+            }
+          ]
+        },
+        {
+          "category": "COLONIAL AMERICA",
+          "value": 1600,
+          "clue": "His victory in the 1742 Battle of Bloody Marsh ended Spain's claim to Georgia",
+          "answer": "(James) Oglethorpe",
+          "isDailyDouble": false,
+          "orderNumber": 20,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ben",
+              "score": 6200
+            },
+            {
+              "player": "Arthur",
+              "score": 7600
+            },
+            {
+              "player": "Julia",
+              "score": 7600
+            }
+          ]
+        },
+        {
+          "category": "COLONIAL AMERICA",
+          "value": 400,
+          "clue": "In November 1621 the Fortune, the second ship to reach this Massachusetts colony, brought 35 more people",
+          "answer": "Plymouth",
+          "isDailyDouble": false,
+          "orderNumber": 21,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ben",
+              "score": 6200
+            },
+            {
+              "player": "Arthur",
+              "score": 8000
+            },
+            {
+              "player": "Julia",
+              "score": 7600
+            }
+          ]
+        },
+        {
+          "category": "McWRITERS",
+          "value": 1200,
+          "clue": "John McPhee has published for 50 years in this magazine, which ran his essay on writing in 2013",
+          "answer": "The New Yorker",
+          "isDailyDouble": false,
+          "orderNumber": 22,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Ben",
+              "score": 6200
+            },
+            {
+              "player": "Arthur",
+              "score": 8000
+            },
+            {
+              "player": "Julia",
+              "score": 7600
+            }
+          ]
+        },
+        {
+          "category": "GETTING POSSESSIVE",
+          "value": 800,
+          "clue": "This island just off Cape Cod was first visited by Europeans in 1602",
+          "answer": "Martha's Vineyard",
+          "isDailyDouble": false,
+          "orderNumber": 23,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ben",
+              "score": 6200
+            },
+            {
+              "player": "Arthur",
+              "score": 8800
+            },
+            {
+              "player": "Julia",
+              "score": 7600
+            }
+          ]
+        },
+        {
+          "category": "I'M JUST A SAYING",
+          "value": 800,
+          "clue": "Following \"justice is\", this adjective means \"unbiased\", rather than referring to a disability",
+          "answer": "blind",
+          "isDailyDouble": false,
+          "orderNumber": 24,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ben",
+              "score": 6200
+            },
+            {
+              "player": "Arthur",
+              "score": 8800
+            },
+            {
+              "player": "Julia",
+              "score": 8400
+            }
+          ]
+        },
+        {
+          "category": "I'M JUST A SAYING",
+          "value": 400,
+          "clue": "While \"there's no place like home\", some believe \"the grass is always greener on the other side of\" this",
+          "answer": "the fence",
+          "isDailyDouble": false,
+          "orderNumber": 25,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ben",
+              "score": 6200
+            },
+            {
+              "player": "Arthur",
+              "score": 9200
+            },
+            {
+              "player": "Julia",
+              "score": 8400
+            }
+          ]
+        },
+        {
+          "category": "PEAKS & VALLEYS",
+          "value": 800,
+          "clue": "The highest point on this mountain was named Uhuru, or \"freedom\", in 1961 to celebrate Tanzania's independence",
+          "answer": "Kilimanjaro",
+          "isDailyDouble": false,
+          "orderNumber": 26,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ben",
+              "score": 6200
+            },
+            {
+              "player": "Arthur",
+              "score": 10000
+            },
+            {
+              "player": "Julia",
+              "score": 8400
+            }
+          ]
+        },
+        {
+          "category": "McWRITERS",
+          "value": 800,
+          "clue": "Joe McGinniss' controversial books include \"Fatal Vision\", about this doctor & convicted murderer",
+          "answer": "Dr. Jeffrey MacDonald",
+          "isDailyDouble": false,
+          "orderNumber": 27,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Ben",
+              "score": 6200
+            },
+            {
+              "player": "Arthur",
+              "score": 10000
+            },
+            {
+              "player": "Julia",
+              "score": 7600
+            }
+          ]
+        },
+        {
+          "category": "PEAKS & VALLEYS",
+          "value": 400,
+          "clue": "Since 1953 there have been about 7,000 successful ascents of this Himalayan peak",
+          "answer": "Everest",
+          "isDailyDouble": false,
+          "orderNumber": 28,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ben",
+              "score": 6600
+            },
+            {
+              "player": "Arthur",
+              "score": 10000
+            },
+            {
+              "player": "Julia",
+              "score": 7600
+            }
+          ]
+        },
+        {
+          "category": "GETTING POSSESSIVE",
+          "value": 400,
+          "clue": "Hope was at the bottom of this mythic container",
+          "answer": "Pandora's box",
+          "isDailyDouble": false,
+          "orderNumber": 29,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ben",
+              "score": 6600
+            },
+            {
+              "player": "Arthur",
+              "score": 10400
+            },
+            {
+              "player": "Julia",
+              "score": 7600
+            }
+          ]
+        },
+        {
+          "category": "McWRITERS",
+          "value": 400,
+          "clue": "She's the chronicler of women's lives seen here",
+          "answer": "Terry McMillan",
+          "isDailyDouble": false,
+          "orderNumber": 30,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Ben",
+              "score": 6600
+            },
+            {
+              "player": "Arthur",
+              "score": 10400
+            },
+            {
+              "player": "Julia",
+              "score": 7600
+            }
+          ]
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "Ben",
+          "score": 6600
+        },
+        {
+          "player": "Arthur",
+          "score": 10400
+        },
+        {
+          "player": "Julia",
+          "score": 7600
+        }
+      ]
+    },
+    "finalJeopardy": {
+      "category": "SHAKESPEAREAN GEOGRAPHY",
+      "clue": "Of the 5 cities mentioned in Shakespeare play titles, it's the only one not found in Europe",
+      "answer": "Tyre",
+      "responses": [
+        {
+          "contestant": "Ben",
+          "response": "What is Windsor? Cairo :(",
+          "isCorrect": false,
+          "isIncorrect": true,
+          "value": 4201,
+          "finalScore": 2399
+        },
+        {
+          "contestant": "Julia",
+          "response": "What is . . . .",
+          "isCorrect": false,
+          "isIncorrect": true,
+          "value": 2000,
+          "finalScore": 5600
+        },
+        {
+          "contestant": "Arthur",
+          "response": "What is Thebes?",
+          "isCorrect": false,
+          "isIncorrect": true,
+          "value": 10400,
+          "finalScore": 0
+        }
+      ]
+    }
+  },
+  "finalScores": [
+    {
+      "player": "Ben",
+      "score": "$2,399"
+    },
+    {
+      "player": "Arthur",
+      "score": "$0"
+    },
+    {
+      "player": "Julia",
+      "score": "$5,600"
+    }
+  ],
+  "coryatScores": [
+    {
+      "player": "Ben",
+      "score": 6600
+    },
+    {
+      "player": "Arthur",
+      "score": 16000
+    },
+    {
+      "player": "Julia",
+      "score": 7600
+    }
+  ]
+}

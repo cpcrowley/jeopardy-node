@@ -1,0 +1,1695 @@
+{
+  "gameId": 8255,
+  "showNumber": "8909",
+  "title": "Show #8909 - Thursday, July 6, 2023",
+  "date": "2023-07-06",
+  "comments": "",
+  "contestants": [
+    "Anji",
+    "Alex",
+    "Carol"
+  ],
+  "rounds": {
+    "jeopardy": {
+      "categories": [
+        "MYTH MISERY",
+        "A TV SERIES",
+        "SO I'M READING THIS BOOK",
+        "ANTIQUES",
+        "ROAD",
+        "\"SHOW\""
+      ],
+      "clues": [
+        {
+          "category": "A TV SERIES",
+          "value": 200,
+          "clue": "Captains of the Enterprise: William Shatner; this man from 1987 to 1994; then Scott Bakula",
+          "answer": "Patrick Stewart",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [
+            "Carol"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Anji",
+              "score": 0
+            },
+            {
+              "player": "Alex",
+              "score": 0
+            },
+            {
+              "player": "Carol",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "A TV SERIES",
+          "value": 400,
+          "clue": "\"Law & Order\", 1990; \"Law & Order:\" this, 1999; \"Law & Order: Criminal Intent\", 2001; & it just keeps going...",
+          "answer": "SVU",
+          "isDailyDouble": false,
+          "orderNumber": 2,
+          "correctContestants": [
+            "Alex"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Anji",
+              "score": 0
+            },
+            {
+              "player": "Alex",
+              "score": 400
+            },
+            {
+              "player": "Carol",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "A TV SERIES",
+          "value": 600,
+          "clue": "Hosts of \"The Tonight Show\": Steve Allen, Jack Paar, Johnny Carson, this man, Conan O'Brien, Jimmy Fallon",
+          "answer": "Jay Leno",
+          "isDailyDouble": false,
+          "orderNumber": 3,
+          "correctContestants": [
+            "Anji"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Anji",
+              "score": 600
+            },
+            {
+              "player": "Alex",
+              "score": 400
+            },
+            {
+              "player": "Carol",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "A TV SERIES",
+          "value": 800,
+          "clue": "Added to the title of this animated FX series: \"Vice\" (2014); \"Dreamland\" (2017); \"Danger Island\" (2018); \"1999\" (2019)",
+          "answer": "Archer",
+          "isDailyDouble": false,
+          "orderNumber": 4,
+          "correctContestants": [
+            "Alex"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Anji",
+              "score": 600
+            },
+            {
+              "player": "Alex",
+              "score": 1200
+            },
+            {
+              "player": "Carol",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "SO I'M READING THIS BOOK",
+          "value": 400,
+          "clue": "A novel, writing the clue for us: \"This is a story of how a Baggins had an adventure\"",
+          "answer": "The Hobbit",
+          "isDailyDouble": false,
+          "orderNumber": 5,
+          "correctContestants": [
+            "Alex"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Anji",
+              "score": 600
+            },
+            {
+              "player": "Alex",
+              "score": 1600
+            },
+            {
+              "player": "Carol",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "SO I'M READING THIS BOOK",
+          "value": 600,
+          "clue": "A fictional journal: \"129 lbs. (but post-Christmas), alcohol units 14... cigarettes 22, calories 5424\"",
+          "answer": "Bridget Jones's Diary",
+          "isDailyDouble": false,
+          "orderNumber": 6,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Anji",
+              "score": 600
+            },
+            {
+              "player": "Alex",
+              "score": 1600
+            },
+            {
+              "player": "Carol",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "SO I'M READING THIS BOOK",
+          "value": 800,
+          "clue": "1950s self-help, opening strong: \"BELIEVE IN YOURSELF!\" (in all caps) \"Have faith in your abilities!\"",
+          "answer": "The Power of Positive Thinking",
+          "isDailyDouble": false,
+          "orderNumber": 7,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Carol"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Anji",
+              "score": 600
+            },
+            {
+              "player": "Alex",
+              "score": 1600
+            },
+            {
+              "player": "Carol",
+              "score": -600
+            }
+          ]
+        },
+        {
+          "category": "A TV SERIES",
+          "value": 1000,
+          "clue": "This big fella on \"Game of Thrones\": Conan Stevens, Ian Whyte, Hafthor Julius Bjornsson",
+          "answer": "The Mountain (Gregor Clegane)",
+          "isDailyDouble": false,
+          "orderNumber": 8,
+          "correctContestants": [
+            "Anji"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Anji",
+              "score": 1600
+            },
+            {
+              "player": "Alex",
+              "score": 1600
+            },
+            {
+              "player": "Carol",
+              "score": -600
+            }
+          ]
+        },
+        {
+          "category": "SO I'M READING THIS BOOK",
+          "value": 200,
+          "clue": "A mystery: \"Langdon said... 'Well, folks, as you all know, I'm here tonight to talk about the power of symbols\"'",
+          "answer": "The Da Vinci Code",
+          "isDailyDouble": false,
+          "orderNumber": 9,
+          "correctContestants": [
+            "Anji"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Anji",
+              "score": 1800
+            },
+            {
+              "player": "Alex",
+              "score": 1600
+            },
+            {
+              "player": "Carol",
+              "score": -600
+            }
+          ]
+        },
+        {
+          "category": "ROAD",
+          "value": 200,
+          "clue": "We're high rolling along a notable part of this boulevard, a 4.2-mile stretch between Russell Road & Sahara Avenue",
+          "answer": "the Las Vegas Strip (Las Vegas Boulevard)",
+          "isDailyDouble": false,
+          "orderNumber": 10,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Anji",
+              "score": 1800
+            },
+            {
+              "player": "Alex",
+              "score": 1600
+            },
+            {
+              "player": "Carol",
+              "score": -600
+            }
+          ]
+        },
+        {
+          "category": "\"SHOW\"",
+          "value": 200,
+          "clue": "It's a face-to-face confrontation to force a conclusion",
+          "answer": "a showdown",
+          "isDailyDouble": false,
+          "orderNumber": 11,
+          "correctContestants": [
+            "Carol"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Anji",
+              "score": 1800
+            },
+            {
+              "player": "Alex",
+              "score": 1600
+            },
+            {
+              "player": "Carol",
+              "score": -400
+            }
+          ]
+        },
+        {
+          "category": "\"SHOW\"",
+          "value": 400,
+          "clue": "This Olympic equestrian competition demonstrates agility over a course of obstacles",
+          "answer": "show jumping",
+          "isDailyDouble": false,
+          "orderNumber": 12,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Alex"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Anji",
+              "score": 1800
+            },
+            {
+              "player": "Alex",
+              "score": 1200
+            },
+            {
+              "player": "Carol",
+              "score": -400
+            }
+          ]
+        },
+        {
+          "category": "ROAD",
+          "value": 400,
+          "clue": "In the 1780s Pope Pius VI undertook a partial reconstruction of this ancient road that ran southeast from Rome",
+          "answer": "the Appian Way",
+          "isDailyDouble": false,
+          "orderNumber": 13,
+          "correctContestants": [
+            "Alex"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Anji",
+              "score": 1800
+            },
+            {
+              "player": "Alex",
+              "score": 1600
+            },
+            {
+              "player": "Carol",
+              "score": -400
+            }
+          ]
+        },
+        {
+          "category": "\"SHOW\"",
+          "value": 600,
+          "clue": "Step right up, welcome to this; not literally a place to buy weapons & armaments",
+          "answer": "a gun show",
+          "isDailyDouble": false,
+          "orderNumber": 14,
+          "correctContestants": [
+            "Alex"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Anji",
+              "score": 1800
+            },
+            {
+              "player": "Alex",
+              "score": 2200
+            },
+            {
+              "player": "Carol",
+              "score": -400
+            }
+          ]
+        },
+        {
+          "category": "\"SHOW\"",
+          "value": 800,
+          "clue": "Twice-beastly term for an elaborate presentation to attract attention",
+          "answer": "a dog & pony show",
+          "isDailyDouble": false,
+          "orderNumber": 15,
+          "correctContestants": [
+            "Carol"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Anji",
+              "score": 1800
+            },
+            {
+              "player": "Alex",
+              "score": 2200
+            },
+            {
+              "player": "Carol",
+              "score": 400
+            }
+          ]
+        },
+        {
+          "category": "SO I'M READING THIS BOOK",
+          "value": 1000,
+          "clue": "A collection of poems: \"I celebrate myself, & sing myself, & what I assume you shall assume\"",
+          "answer": "Leaves of Grass",
+          "isDailyDouble": false,
+          "orderNumber": 16,
+          "correctContestants": [
+            "Alex"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Anji",
+              "score": 1800
+            },
+            {
+              "player": "Alex",
+              "score": 3200
+            },
+            {
+              "player": "Carol",
+              "score": 400
+            }
+          ]
+        },
+        {
+          "category": "MYTH MISERY",
+          "value": 600,
+          "clue": "Let's just say Zeus was disappointed this god gave fire to humans, nailing him to a big rock & having his liver eaten repeatedly",
+          "answer": "Prometheus",
+          "isDailyDouble": false,
+          "orderNumber": 17,
+          "correctContestants": [
+            "Alex"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Anji",
+              "score": 1800
+            },
+            {
+              "player": "Alex",
+              "score": 3800
+            },
+            {
+              "player": "Carol",
+              "score": 400
+            }
+          ]
+        },
+        {
+          "category": "MYTH MISERY",
+          "value": 800,
+          "clue": "Song titles applying to the plight of this Corinth king: \"Like A Rolling Stone\" & \"Running Up That Hill\" (& back down again, forever)",
+          "answer": "Sisyphus",
+          "isDailyDouble": false,
+          "orderNumber": 18,
+          "correctContestants": [
+            "Anji"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Anji",
+              "score": 2600
+            },
+            {
+              "player": "Alex",
+              "score": 3800
+            },
+            {
+              "player": "Carol",
+              "score": 400
+            }
+          ]
+        },
+        {
+          "category": "MYTH MISERY",
+          "value": 400,
+          "clue": "As you can see from what happened to Ixion, hitting on this woman, Zeus's wife, was not a great idea",
+          "answer": "Hera",
+          "isDailyDouble": false,
+          "orderNumber": 19,
+          "correctContestants": [
+            "Alex"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Anji",
+              "score": 2600
+            },
+            {
+              "player": "Alex",
+              "score": 4200
+            },
+            {
+              "player": "Carol",
+              "score": 400
+            }
+          ]
+        },
+        {
+          "category": "MYTH MISERY",
+          "value": 1000,
+          "clue": "Actaeon got a naked look at Apollo's twin sis, this goddess; she then turned Acty into a stag & said release the hounds!",
+          "answer": "Artemis",
+          "isDailyDouble": false,
+          "orderNumber": 20,
+          "correctContestants": [
+            "Alex"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Anji",
+              "score": 2600
+            },
+            {
+              "player": "Alex",
+              "score": 5200
+            },
+            {
+              "player": "Carol",
+              "score": 400
+            }
+          ]
+        },
+        {
+          "category": "MYTH MISERY",
+          "value": 200,
+          "clue": "She was a beautiful mortal, but after making Athena angry, which you should definitely never do, this Gorgon got a reptile hairdo",
+          "answer": "Medusa",
+          "isDailyDouble": false,
+          "orderNumber": 21,
+          "correctContestants": [
+            "Alex"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Anji",
+              "score": 2600
+            },
+            {
+              "player": "Alex",
+              "score": 5400
+            },
+            {
+              "player": "Carol",
+              "score": 400
+            }
+          ]
+        },
+        {
+          "category": "\"SHOW\"",
+          "value": 1000,
+          "clue": "3-word name for Buffalo Bill's turn-of-the-century rootin'-tootin', sharpshootin' arena extravaganza",
+          "answer": "the Wild West Show",
+          "isDailyDouble": false,
+          "orderNumber": 22,
+          "correctContestants": [
+            "Carol"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Anji",
+              "score": 2600
+            },
+            {
+              "player": "Alex",
+              "score": 5400
+            },
+            {
+              "player": "Carol",
+              "score": 1400
+            }
+          ]
+        },
+        {
+          "category": "ANTIQUES",
+          "value": 200,
+          "clue": "Musical instruments from this Italian maker, whose work is seen here, have sold at auction for $1 million or more",
+          "answer": "Stradivarius",
+          "isDailyDouble": false,
+          "orderNumber": 23,
+          "correctContestants": [
+            "Alex"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Anji",
+              "score": 2600
+            },
+            {
+              "player": "Alex",
+              "score": 5600
+            },
+            {
+              "player": "Carol",
+              "score": 1400
+            }
+          ]
+        },
+        {
+          "category": "ANTIQUES",
+          "value": 400,
+          "clue": "Bergère, fauteuil & ribbon-back are all antique styles of these",
+          "answer": "chairs",
+          "isDailyDouble": false,
+          "orderNumber": 24,
+          "correctContestants": [
+            "Carol"
+          ],
+          "incorrectContestants": [
+            "Alex"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Anji",
+              "score": 2600
+            },
+            {
+              "player": "Alex",
+              "score": 5200
+            },
+            {
+              "player": "Carol",
+              "score": 1800
+            }
+          ]
+        },
+        {
+          "category": "ANTIQUES",
+          "value": 600,
+          "clue": "This early kind of photograph with a metal in its name has proven durable over the years",
+          "answer": "a tintype",
+          "isDailyDouble": false,
+          "orderNumber": 25,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Anji",
+              "score": 2600
+            },
+            {
+              "player": "Alex",
+              "score": 5200
+            },
+            {
+              "player": "Carol",
+              "score": 1800
+            }
+          ]
+        },
+        {
+          "category": "ANTIQUES",
+          "value": 800,
+          "clue": "One of the top \"Antiques Roadshow\" finds, a jade bowl originally made for the person with this title was appraised at up to $600,000",
+          "answer": "emperor of China (the Chinese emperor)",
+          "isDailyDouble": false,
+          "orderNumber": 26,
+          "correctContestants": [
+            "Alex"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Anji",
+              "score": 2600
+            },
+            {
+              "player": "Alex",
+              "score": 6000
+            },
+            {
+              "player": "Carol",
+              "score": 1800
+            }
+          ]
+        },
+        {
+          "category": "ANTIQUES",
+          "value": 1000,
+          "clue": "An 1800s version of the travel alarm, this alliterative item includes the name of a horse-drawn vehicle",
+          "answer": "a carriage clock",
+          "isDailyDouble": false,
+          "orderNumber": 27,
+          "correctContestants": [
+            "Carol"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Anji",
+              "score": 2600
+            },
+            {
+              "player": "Alex",
+              "score": 6000
+            },
+            {
+              "player": "Carol",
+              "score": 2800
+            }
+          ]
+        },
+        {
+          "category": "ROAD",
+          "value": 600,
+          "clue": "In Phoenix the Stack is the name for the interchange where I-17, going north-south, meets this east-west interstate",
+          "answer": "I-10",
+          "isDailyDouble": false,
+          "orderNumber": 28,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Alex"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Anji",
+              "score": 2600
+            },
+            {
+              "player": "Alex",
+              "score": 5400
+            },
+            {
+              "player": "Carol",
+              "score": 2800
+            }
+          ]
+        },
+        {
+          "category": "ROAD",
+          "value": 2600,
+          "clue": "Lively Las Ramblas is a main street in this city & links Plaça de Catalunya to the city's Old Harbor",
+          "answer": "Barcelona",
+          "isDailyDouble": true,
+          "orderNumber": 29,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Carol"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Anji",
+              "score": 2600
+            },
+            {
+              "player": "Alex",
+              "score": 5400
+            },
+            {
+              "player": "Carol",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "ROAD",
+          "value": 1000,
+          "clue": "Once home to fruit farms, Orchard Road in this Asian city-state is a major shopping district today",
+          "answer": "Singapore",
+          "isDailyDouble": false,
+          "orderNumber": 30,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Anji",
+              "score": 2600
+            },
+            {
+              "player": "Alex",
+              "score": 5400
+            },
+            {
+              "player": "Carol",
+              "score": 200
+            }
+          ]
+        }
+      ],
+      "firstBreakScores": [
+        {
+          "player": "Anji",
+          "score": 1800
+        },
+        {
+          "player": "Alex",
+          "score": 2200
+        },
+        {
+          "player": "Carol",
+          "score": 400
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "Anji",
+          "score": 2600
+        },
+        {
+          "player": "Alex",
+          "score": 5400
+        },
+        {
+          "player": "Carol",
+          "score": 200
+        }
+      ]
+    },
+    "doubleJeopardy": {
+      "categories": [
+        "GEOGRAPHIC ANAGRAMS",
+        "THE MAIN INGREDIENT",
+        "SCIENCE",
+        "10-LETTER ADJECTIVES",
+        "NAMES IN HISTORY",
+        "SOME \"HARD\" SONGS"
+      ],
+      "clues": [
+        {
+          "category": "THE MAIN INGREDIENT",
+          "value": 400,
+          "clue": "In the holiday favorite casserole whose recipe began appearing on Campbell's cream of mushroom soup in the 1960s",
+          "answer": "green beans",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Anji",
+              "score": 3000
+            },
+            {
+              "player": "Alex",
+              "score": 5400
+            },
+            {
+              "player": "Carol",
+              "score": -200
+            }
+          ]
+        },
+        {
+          "category": "THE MAIN INGREDIENT",
+          "value": 800,
+          "clue": "In traditional chorizo sausage",
+          "answer": "pork",
+          "isDailyDouble": false,
+          "orderNumber": 2,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Anji",
+              "score": 3000
+            },
+            {
+              "player": "Alex",
+              "score": 4600
+            },
+            {
+              "player": "Carol",
+              "score": 600
+            }
+          ]
+        },
+        {
+          "category": "THE MAIN INGREDIENT",
+          "value": 1200,
+          "clue": "In the Indian dish saag paneer: spinach & this",
+          "answer": "cheese",
+          "isDailyDouble": false,
+          "orderNumber": 3,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Anji",
+              "score": 4200
+            },
+            {
+              "player": "Alex",
+              "score": 4600
+            },
+            {
+              "player": "Carol",
+              "score": -600
+            }
+          ]
+        },
+        {
+          "category": "SOME \"HARD\" SONGS",
+          "value": 400,
+          "clue": "A 1964 chart-topper said, \"It's been\" this, \"& I've been working like a dog\"",
+          "answer": "\"A Hard Day's Night\"",
+          "isDailyDouble": false,
+          "orderNumber": 4,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Anji",
+              "score": 4200
+            },
+            {
+              "player": "Alex",
+              "score": 5000
+            },
+            {
+              "player": "Carol",
+              "score": -600
+            }
+          ]
+        },
+        {
+          "category": "GEOGRAPHIC ANAGRAMS",
+          "value": 1600,
+          "clue": "Make sure to bring the keys to our whisky distillery on this isle off Scotland's West Coast",
+          "answer": "Skye (from keys)",
+          "isDailyDouble": false,
+          "orderNumber": 5,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Anji",
+              "score": 4200
+            },
+            {
+              "player": "Alex",
+              "score": 5000
+            },
+            {
+              "player": "Carol",
+              "score": 1000
+            }
+          ]
+        },
+        {
+          "category": "GEOGRAPHIC ANAGRAMS",
+          "value": 400,
+          "clue": "I would hasten to add that much of the classical world's art & ideas sprang from this city near Mount Pentelicus",
+          "answer": "Athens (from hasten)",
+          "isDailyDouble": false,
+          "orderNumber": 6,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Anji",
+              "score": 4200
+            },
+            {
+              "player": "Alex",
+              "score": 5000
+            },
+            {
+              "player": "Carol",
+              "score": 1000
+            }
+          ]
+        },
+        {
+          "category": "GEOGRAPHIC ANAGRAMS",
+          "value": 800,
+          "clue": "I love learning new dances, but traveling to this Pacific nation for the tango contest was too far",
+          "answer": "Tonga (from tango)",
+          "isDailyDouble": false,
+          "orderNumber": 7,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Anji",
+              "score": 4200
+            },
+            {
+              "player": "Alex",
+              "score": 5000
+            },
+            {
+              "player": "Carol",
+              "score": 1800
+            }
+          ]
+        },
+        {
+          "category": "GEOGRAPHIC ANAGRAMS",
+          "value": 1200,
+          "clue": "The cruise down this scenic river was a delight until Yolanda & Henri joined the boating party",
+          "answer": "the Rhine (from Henri)",
+          "isDailyDouble": false,
+          "orderNumber": 8,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Anji",
+              "score": 4200
+            },
+            {
+              "player": "Alex",
+              "score": 5000
+            },
+            {
+              "player": "Carol",
+              "score": 3000
+            }
+          ]
+        },
+        {
+          "category": "GEOGRAPHIC ANAGRAMS",
+          "value": 2000,
+          "clue": "I just learned the reign of the Songhai empire in this West African nation ended in the 16th century",
+          "answer": "Niger (from reign)",
+          "isDailyDouble": false,
+          "orderNumber": 9,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Anji",
+              "score": 4200
+            },
+            {
+              "player": "Alex",
+              "score": 7000
+            },
+            {
+              "player": "Carol",
+              "score": 3000
+            }
+          ]
+        },
+        {
+          "category": "SCIENCE",
+          "value": 1600,
+          "clue": "99% of intl. data traffic is carried by several hundred of these 2-word light transmission cables crisscrossing the ocean floor",
+          "answer": "fiber optics",
+          "isDailyDouble": false,
+          "orderNumber": 10,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Anji",
+              "score": 4200
+            },
+            {
+              "player": "Alex",
+              "score": 7000
+            },
+            {
+              "player": "Carol",
+              "score": 4600
+            }
+          ]
+        },
+        {
+          "category": "SCIENCE",
+          "value": 400,
+          "clue": "A theory about the formation of this satellite supposes a planet named Theia, the mother of Selene in myth, crashed into Earth",
+          "answer": "the Moon",
+          "isDailyDouble": false,
+          "orderNumber": 11,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Anji",
+              "score": 4200
+            },
+            {
+              "player": "Alex",
+              "score": 7400
+            },
+            {
+              "player": "Carol",
+              "score": 4600
+            }
+          ]
+        },
+        {
+          "category": "SCIENCE",
+          "value": 1200,
+          "clue": "The phenomenon of St. Elmo's fire familiar to sailors & aviators is a luminous glow of this 4th state of matter",
+          "answer": "plasma",
+          "isDailyDouble": false,
+          "orderNumber": 12,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Anji",
+              "score": 4200
+            },
+            {
+              "player": "Alex",
+              "score": 7400
+            },
+            {
+              "player": "Carol",
+              "score": 5800
+            }
+          ]
+        },
+        {
+          "category": "SCIENCE",
+          "value": 800,
+          "clue": "Negatively portrayed in \"The Lion King\", the spotted type of these African animals are actually valuable apex predators",
+          "answer": "hyenas",
+          "isDailyDouble": false,
+          "orderNumber": 13,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Anji",
+              "score": 4200
+            },
+            {
+              "player": "Alex",
+              "score": 8200
+            },
+            {
+              "player": "Carol",
+              "score": 5800
+            }
+          ]
+        },
+        {
+          "category": "SCIENCE",
+          "value": 2000,
+          "clue": "A 1957 Scientific American article called this \"Mighty\" organelle the \"Powerhouse of the Cell\"",
+          "answer": "the mitochondria",
+          "isDailyDouble": false,
+          "orderNumber": 14,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Anji",
+              "score": 4200
+            },
+            {
+              "player": "Alex",
+              "score": 10200
+            },
+            {
+              "player": "Carol",
+              "score": 5800
+            }
+          ]
+        },
+        {
+          "category": "10-LETTER ADJECTIVES",
+          "value": 2500,
+          "clue": "Only superficially relevant, or related to a line making contact with a curve at a single point",
+          "answer": "tangential",
+          "isDailyDouble": true,
+          "orderNumber": 15,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Anji",
+              "score": 4200
+            },
+            {
+              "player": "Alex",
+              "score": 12700
+            },
+            {
+              "player": "Carol",
+              "score": 5800
+            }
+          ]
+        },
+        {
+          "category": "10-LETTER ADJECTIVES",
+          "value": 1600,
+          "clue": "From the Greek for \"pleasure\", it means devoted to pleasure as the highest goal",
+          "answer": "hedonistic",
+          "isDailyDouble": false,
+          "orderNumber": 16,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Anji",
+              "score": 4200
+            },
+            {
+              "player": "Alex",
+              "score": 12700
+            },
+            {
+              "player": "Carol",
+              "score": 7400
+            }
+          ]
+        },
+        {
+          "category": "10-LETTER ADJECTIVES",
+          "value": 400,
+          "clue": "Seemingly without a floor, like the pit of hell as described in Revelation",
+          "answer": "bottomless",
+          "isDailyDouble": false,
+          "orderNumber": 17,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Anji",
+              "score": 4200
+            },
+            {
+              "player": "Alex",
+              "score": 13100
+            },
+            {
+              "player": "Carol",
+              "score": 7400
+            }
+          ]
+        },
+        {
+          "category": "NAMES IN HISTORY",
+          "value": 1200,
+          "clue": "Last name of Bronson, a teacher & abolitionist who lived in poverty until his daughter made it big in books in the 19th century",
+          "answer": "Alcott",
+          "isDailyDouble": false,
+          "orderNumber": 18,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Anji",
+              "score": 5400
+            },
+            {
+              "player": "Alex",
+              "score": 13100
+            },
+            {
+              "player": "Carol",
+              "score": 7400
+            }
+          ]
+        },
+        {
+          "category": "SOME \"HARD\" SONGS",
+          "value": 800,
+          "clue": "In a reggae classic by Jimmy Cliff, this title precedes \"the harder they fall, one and all\"",
+          "answer": "\"The Harder They Come\"",
+          "isDailyDouble": false,
+          "orderNumber": 19,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Anji",
+              "score": 5400
+            },
+            {
+              "player": "Alex",
+              "score": 13100
+            },
+            {
+              "player": "Carol",
+              "score": 7400
+            }
+          ]
+        },
+        {
+          "category": "SOME \"HARD\" SONGS",
+          "value": 1200,
+          "clue": "\"She\" does this, sang Donna Summer, \"so you better treat her right\"",
+          "answer": "\"She Works Hard For The Money\"",
+          "isDailyDouble": false,
+          "orderNumber": 20,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Anji",
+              "score": 5400
+            },
+            {
+              "player": "Alex",
+              "score": 13100
+            },
+            {
+              "player": "Carol",
+              "score": 8600
+            }
+          ]
+        },
+        {
+          "category": "SOME \"HARD\" SONGS",
+          "value": 1600,
+          "clue": "\"Ghetto Anthem\" is the subtitle of this Jay-Z hip-hop classic",
+          "answer": "\"Hard Knock Life\"",
+          "isDailyDouble": false,
+          "orderNumber": 21,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Anji",
+              "score": 7000
+            },
+            {
+              "player": "Alex",
+              "score": 13100
+            },
+            {
+              "player": "Carol",
+              "score": 8600
+            }
+          ]
+        },
+        {
+          "category": "SOME \"HARD\" SONGS",
+          "value": 2000,
+          "clue": "\"Is there anyone out there? 'Cause it's getting\" this, the title of Maroon 5's debut single",
+          "answer": "\"Harder To Breathe\"",
+          "isDailyDouble": false,
+          "orderNumber": 22,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Anji",
+              "score": 7000
+            },
+            {
+              "player": "Alex",
+              "score": 15100
+            },
+            {
+              "player": "Carol",
+              "score": 8600
+            }
+          ]
+        },
+        {
+          "category": "NAMES IN HISTORY",
+          "value": 5000,
+          "clue": "Famed Roman talker Marcus Tullius, who ended up talking himself to death, was better known by this one name",
+          "answer": "Cicero",
+          "isDailyDouble": true,
+          "orderNumber": 23,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Anji",
+              "score": 7000
+            },
+            {
+              "player": "Alex",
+              "score": 20100
+            },
+            {
+              "player": "Carol",
+              "score": 8600
+            }
+          ]
+        },
+        {
+          "category": "10-LETTER ADJECTIVES",
+          "value": 2000,
+          "clue": "A sportswriter might note that after a titanic struggle, the teams remained this 10-letter word shown here",
+          "answer": "deadlocked",
+          "isDailyDouble": false,
+          "orderNumber": 24,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Anji",
+              "score": 7000
+            },
+            {
+              "player": "Alex",
+              "score": 22100
+            },
+            {
+              "player": "Carol",
+              "score": 8600
+            }
+          ]
+        },
+        {
+          "category": "10-LETTER ADJECTIVES",
+          "value": 800,
+          "clue": "In the form of small, crystallized particles like refined sugar",
+          "answer": "granulated",
+          "isDailyDouble": false,
+          "orderNumber": 25,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Anji",
+              "score": 7000
+            },
+            {
+              "player": "Alex",
+              "score": 22900
+            },
+            {
+              "player": "Carol",
+              "score": 8600
+            }
+          ]
+        },
+        {
+          "category": "NAMES IN HISTORY",
+          "value": 800,
+          "clue": "This given name of Maimonides, Judaism's greatest medieval thinker, honors Judaism's greatest prophet",
+          "answer": "Moses",
+          "isDailyDouble": false,
+          "orderNumber": 26,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Anji",
+              "score": 7000
+            },
+            {
+              "player": "Alex",
+              "score": 22900
+            },
+            {
+              "player": "Carol",
+              "score": 7800
+            }
+          ]
+        },
+        {
+          "category": "NAMES IN HISTORY",
+          "value": 400,
+          "clue": "The name of Shakespeare's acting troupe, the King's Men, honored this benefactor",
+          "answer": "James I",
+          "isDailyDouble": false,
+          "orderNumber": 27,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Anji",
+              "score": 7000
+            },
+            {
+              "player": "Alex",
+              "score": 23300
+            },
+            {
+              "player": "Carol",
+              "score": 7800
+            }
+          ]
+        },
+        {
+          "category": "THE MAIN INGREDIENT",
+          "value": 1600,
+          "clue": "In baba ghanoush: this member of the nightshade family",
+          "answer": "the eggplant",
+          "isDailyDouble": false,
+          "orderNumber": 28,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Anji",
+              "score": 7000
+            },
+            {
+              "player": "Alex",
+              "score": 24900
+            },
+            {
+              "player": "Carol",
+              "score": 7800
+            }
+          ]
+        },
+        {
+          "category": "NAMES IN HISTORY",
+          "value": 2000,
+          "clue": "During World War II this Norwegian sold out his country & made his name a synonym for traitor",
+          "answer": "Quisling",
+          "isDailyDouble": false,
+          "orderNumber": 29,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Anji",
+              "score": 7000
+            },
+            {
+              "player": "Alex",
+              "score": 24900
+            },
+            {
+              "player": "Carol",
+              "score": 9800
+            }
+          ]
+        },
+        {
+          "category": "THE MAIN INGREDIENT",
+          "value": 2000,
+          "clue": "In coquilles St. Jacques",
+          "answer": "scallops",
+          "isDailyDouble": false,
+          "orderNumber": 30,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Carol"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Anji",
+              "score": 7000
+            },
+            {
+              "player": "Alex",
+              "score": 22900
+            },
+            {
+              "player": "Carol",
+              "score": 7800
+            }
+          ]
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "Anji",
+          "score": 7000
+        },
+        {
+          "player": "Alex",
+          "score": 22900
+        },
+        {
+          "player": "Carol",
+          "score": 7800
+        }
+      ]
+    },
+    "finalJeopardy": {
+      "category": "20th CENTURY LIT",
+      "clue": "Squashing the allegory theory, the daughters of the author of this novel say it's \"just a story about rabbits\"",
+      "answer": "Watership Down",
+      "responses": [
+        {
+          "contestant": "Anji",
+          "response": "What is?",
+          "isCorrect": false,
+          "isIncorrect": true,
+          "value": 7000,
+          "finalScore": 0
+        },
+        {
+          "contestant": "Carol",
+          "response": "What is Watership Down?",
+          "isCorrect": true,
+          "isIncorrect": false,
+          "value": 6201,
+          "finalScore": 14001
+        },
+        {
+          "contestant": "Alex",
+          "response": "What is Watership Down?",
+          "isCorrect": true,
+          "isIncorrect": false,
+          "value": 2100,
+          "finalScore": 25000
+        }
+      ]
+    }
+  },
+  "finalScores": [
+    {
+      "player": "Anji",
+      "score": "$0"
+    },
+    {
+      "player": "Alex",
+      "score": "$25,000"
+    },
+    {
+      "player": "Carol",
+      "score": "$14,001"
+    }
+  ],
+  "coryatScores": [
+    {
+      "player": "Anji",
+      "score": 7000
+    },
+    {
+      "player": "Alex",
+      "score": 18200
+    },
+    {
+      "player": "Carol",
+      "score": 10400
+    }
+  ]
+}

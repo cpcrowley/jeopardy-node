@@ -1,0 +1,1703 @@
+{
+  "gameId": 7503,
+  "showNumber": "8738",
+  "title": "Show #8738 - Wednesday, November 9, 2022",
+  "date": "2022-11-09",
+  "comments": "2022 Tournament of Champions semifinal game 1.",
+  "contestants": [
+    "Amy",
+    "Maureen",
+    "Tyler"
+  ],
+  "rounds": {
+    "jeopardy": {
+      "categories": [
+        "SUPREME COURT CASES",
+        "SHAKESPEARE JUST KILLS ME",
+        "CHESS FOR CHAMPS",
+        "TRAVEL",
+        "I'M \"EN\" IT!",
+        "STANFORD ATHLETICS"
+      ],
+      "clues": [
+        {
+          "category": "CHESS FOR CHAMPS",
+          "value": 200,
+          "clue": "It's the only chess piece that can hop over an opposing piece when it moves",
+          "answer": "a knight",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [
+            "Amy"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Amy",
+              "score": 200
+            },
+            {
+              "player": "Maureen",
+              "score": 0
+            },
+            {
+              "player": "Tyler",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "CHESS FOR CHAMPS",
+          "value": 400,
+          "clue": "In 2016 Timur Gareyev played a record 48 simultaneous games wearing one of these; he won 35, lost 6 & drew 7",
+          "answer": "a blindfold",
+          "isDailyDouble": false,
+          "orderNumber": 2,
+          "correctContestants": [
+            "Tyler"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Amy",
+              "score": 200
+            },
+            {
+              "player": "Maureen",
+              "score": 0
+            },
+            {
+              "player": "Tyler",
+              "score": 400
+            }
+          ]
+        },
+        {
+          "category": "SHAKESPEARE JUST KILLS ME",
+          "value": 600,
+          "clue": "In \"Romeo & Juliet\", he gets the point from Tybalt, who makes worms' meat of him",
+          "answer": "Mercutio",
+          "isDailyDouble": false,
+          "orderNumber": 3,
+          "correctContestants": [
+            "Tyler"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Amy",
+              "score": 200
+            },
+            {
+              "player": "Maureen",
+              "score": 0
+            },
+            {
+              "player": "Tyler",
+              "score": 1000
+            }
+          ]
+        },
+        {
+          "category": "SHAKESPEARE JUST KILLS ME",
+          "value": 800,
+          "clue": "In \"Macbeth\", it's not healthy for this man to be in a scene with first, second & third murderers but at least his son Fleance escapes",
+          "answer": "Banquo",
+          "isDailyDouble": false,
+          "orderNumber": 4,
+          "correctContestants": [
+            "Tyler"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Amy",
+              "score": 200
+            },
+            {
+              "player": "Maureen",
+              "score": 0
+            },
+            {
+              "player": "Tyler",
+              "score": 1800
+            }
+          ]
+        },
+        {
+          "category": "SHAKESPEARE JUST KILLS ME",
+          "value": 1000,
+          "clue": "This title guy kills Lavinia, stabs Tamora, gets killed by Saturninus, who in turn is whacked by Lucius, the said title guy's son",
+          "answer": "Titus Andronicus",
+          "isDailyDouble": false,
+          "orderNumber": 5,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Tyler"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Amy",
+              "score": 200
+            },
+            {
+              "player": "Maureen",
+              "score": 0
+            },
+            {
+              "player": "Tyler",
+              "score": 800
+            }
+          ]
+        },
+        {
+          "category": "TRAVEL",
+          "value": 600,
+          "clue": "In 1936 the Clipper was the first of these sleek, silvery travel trailers made of aluminum",
+          "answer": "an Airstream",
+          "isDailyDouble": false,
+          "orderNumber": 6,
+          "correctContestants": [
+            "Tyler"
+          ],
+          "incorrectContestants": [
+            "Amy"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Amy",
+              "score": -400
+            },
+            {
+              "player": "Maureen",
+              "score": 0
+            },
+            {
+              "player": "Tyler",
+              "score": 1400
+            }
+          ]
+        },
+        {
+          "category": "TRAVEL",
+          "value": 800,
+          "clue": "This cruise line got \"Back to Fun\" in 2021, launching the fittingly named new flagship Mardi Gras",
+          "answer": "Carnival",
+          "isDailyDouble": false,
+          "orderNumber": 7,
+          "correctContestants": [
+            "Amy"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Amy",
+              "score": 400
+            },
+            {
+              "player": "Maureen",
+              "score": 0
+            },
+            {
+              "player": "Tyler",
+              "score": 1400
+            }
+          ]
+        },
+        {
+          "category": "TRAVEL",
+          "value": 1000,
+          "clue": "Eugene was the first name of this man, whose series of guides made travel feel accessible to mid-century Americans",
+          "answer": "(Eugene) Fodor",
+          "isDailyDouble": false,
+          "orderNumber": 8,
+          "correctContestants": [
+            "Amy"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Amy",
+              "score": 1400
+            },
+            {
+              "player": "Maureen",
+              "score": 0
+            },
+            {
+              "player": "Tyler",
+              "score": 1400
+            }
+          ]
+        },
+        {
+          "category": "CHESS FOR CHAMPS",
+          "value": 600,
+          "clue": "The Ruy Lopez is also known as the Spanish Opening; the Giuoco Piano, as this one (not to be confused with the Sicilian Defense)",
+          "answer": "the Italian Opening",
+          "isDailyDouble": false,
+          "orderNumber": 9,
+          "correctContestants": [
+            "Amy"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Amy",
+              "score": 2000
+            },
+            {
+              "player": "Maureen",
+              "score": 0
+            },
+            {
+              "player": "Tyler",
+              "score": 1400
+            }
+          ]
+        },
+        {
+          "category": "CHESS FOR CHAMPS",
+          "value": 800,
+          "clue": "In an anticlimax, a 1978 World Championship game was this kind of draw on the 124th move",
+          "answer": "a stalemate",
+          "isDailyDouble": false,
+          "orderNumber": 10,
+          "correctContestants": [
+            "Amy"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Amy",
+              "score": 2800
+            },
+            {
+              "player": "Maureen",
+              "score": 0
+            },
+            {
+              "player": "Tyler",
+              "score": 1400
+            }
+          ]
+        },
+        {
+          "category": "CHESS FOR CHAMPS",
+          "value": 1000,
+          "clue": "In 1997 the chess world was shocked when world champ Garry Kasparov lost a match to this IBM computer program",
+          "answer": "Deep Blue",
+          "isDailyDouble": false,
+          "orderNumber": 11,
+          "correctContestants": [
+            "Amy"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Amy",
+              "score": 3800
+            },
+            {
+              "player": "Maureen",
+              "score": 0
+            },
+            {
+              "player": "Tyler",
+              "score": 1400
+            }
+          ]
+        },
+        {
+          "category": "STANFORD ATHLETICS",
+          "value": 200,
+          "clue": "(Haley Jones presents the clue.)  In 2018, I signed my Stanford letter of intent on national TV; in 1993, it made news when this teenager, already playing PGA Tour events, declared he was going to Stanford",
+          "answer": "Tiger Woods",
+          "isDailyDouble": false,
+          "orderNumber": 12,
+          "correctContestants": [
+            "Tyler"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Amy",
+              "score": 3800
+            },
+            {
+              "player": "Maureen",
+              "score": 0
+            },
+            {
+              "player": "Tyler",
+              "score": 1600
+            }
+          ]
+        },
+        {
+          "category": "STANFORD ATHLETICS",
+          "value": 600,
+          "clue": "(Haley Jones presents the clue.)  The coaches wanted to move him to defensive end & later made him the sixth-stringer, but in 1970, quarterback Jim Plunkett became the Cardinal's first winner of this trophy instituted in 1935",
+          "answer": "the Heisman",
+          "isDailyDouble": false,
+          "orderNumber": 13,
+          "correctContestants": [
+            "Tyler"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Amy",
+              "score": 3800
+            },
+            {
+              "player": "Maureen",
+              "score": 0
+            },
+            {
+              "player": "Tyler",
+              "score": 2200
+            }
+          ]
+        },
+        {
+          "category": "I'M \"EN\" IT!",
+          "value": 600,
+          "clue": "Type of bathroom that can only be accessed through a bedroom",
+          "answer": "en suite",
+          "isDailyDouble": false,
+          "orderNumber": 14,
+          "correctContestants": [
+            "Amy"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Amy",
+              "score": 4400
+            },
+            {
+              "player": "Maureen",
+              "score": 0
+            },
+            {
+              "player": "Tyler",
+              "score": 2200
+            }
+          ]
+        },
+        {
+          "category": "I'M \"EN\" IT!",
+          "value": 800,
+          "clue": "It's how the food seen here is being prepared",
+          "answer": "en brochette",
+          "isDailyDouble": false,
+          "orderNumber": 15,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Amy",
+              "score": 4400
+            },
+            {
+              "player": "Maureen",
+              "score": 0
+            },
+            {
+              "player": "Tyler",
+              "score": 2200
+            }
+          ]
+        },
+        {
+          "category": "I'M \"EN\" IT!",
+          "value": 1000,
+          "clue": "Charles-Francois Daubigny was one of the first painters to work this way, meaning outside",
+          "answer": "en plein air",
+          "isDailyDouble": false,
+          "orderNumber": 16,
+          "correctContestants": [
+            "Amy"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Amy",
+              "score": 5400
+            },
+            {
+              "player": "Maureen",
+              "score": 0
+            },
+            {
+              "player": "Tyler",
+              "score": 2200
+            }
+          ]
+        },
+        {
+          "category": "STANFORD ATHLETICS",
+          "value": 800,
+          "clue": "(Haley Jones presents the clue.) Pitcher Mike Mussina & third baseman Ed Sprague were on the 1988 Stanford team that was victorious in the first title game of this event broadcast on network TV",
+          "answer": "the College World Series",
+          "isDailyDouble": false,
+          "orderNumber": 17,
+          "correctContestants": [
+            "Tyler"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Amy",
+              "score": 5400
+            },
+            {
+              "player": "Maureen",
+              "score": 0
+            },
+            {
+              "player": "Tyler",
+              "score": 3000
+            }
+          ]
+        },
+        {
+          "category": "STANFORD ATHLETICS",
+          "value": 1000,
+          "clue": "(Haley Jones presents the clue.)  Just like me, she went from Archbishop Mitty High to Stanford, where she recorded more than 1,500 kills; she went on to be the most decorated beach volleyball Olympian",
+          "answer": "Kerri Walsh",
+          "isDailyDouble": false,
+          "orderNumber": 18,
+          "correctContestants": [
+            "Tyler"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Amy",
+              "score": 5400
+            },
+            {
+              "player": "Maureen",
+              "score": 0
+            },
+            {
+              "player": "Tyler",
+              "score": 4000
+            }
+          ]
+        },
+        {
+          "category": "SUPREME COURT CASES",
+          "value": 600,
+          "clue": "Dobbs v. this city's Women's Health Organization overturned Roe v. Wade",
+          "answer": "Jackson, Mississippi",
+          "isDailyDouble": false,
+          "orderNumber": 19,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Amy",
+              "score": 5400
+            },
+            {
+              "player": "Maureen",
+              "score": 0
+            },
+            {
+              "player": "Tyler",
+              "score": 4000
+            }
+          ]
+        },
+        {
+          "category": "SUPREME COURT CASES",
+          "value": 800,
+          "clue": "1896's him (train passenger) v. him (judge) was decided 7-1 for the wrong guy",
+          "answer": "Plessy v. Ferguson",
+          "isDailyDouble": false,
+          "orderNumber": 20,
+          "correctContestants": [
+            "Amy"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Amy",
+              "score": 6200
+            },
+            {
+              "player": "Maureen",
+              "score": 0
+            },
+            {
+              "player": "Tyler",
+              "score": 4000
+            }
+          ]
+        },
+        {
+          "category": "SUPREME COURT CASES",
+          "value": 1000,
+          "clue": "2015's him v. him upheld the right to same-sex marriage",
+          "answer": "Obergefell & Hodges",
+          "isDailyDouble": false,
+          "orderNumber": 21,
+          "correctContestants": [
+            "Amy"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Amy",
+              "score": 7200
+            },
+            {
+              "player": "Maureen",
+              "score": 0
+            },
+            {
+              "player": "Tyler",
+              "score": 4000
+            }
+          ]
+        },
+        {
+          "category": "SUPREME COURT CASES",
+          "value": 4000,
+          "clue": "2022's West Virginia v. this federal agency went in favor of West Virginia",
+          "answer": "the EPA",
+          "isDailyDouble": true,
+          "orderNumber": 22,
+          "correctContestants": [
+            "Amy"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Amy",
+              "score": 11200
+            },
+            {
+              "player": "Maureen",
+              "score": 0
+            },
+            {
+              "player": "Tyler",
+              "score": 4000
+            }
+          ]
+        },
+        {
+          "category": "SUPREME COURT CASES",
+          "value": 200,
+          "clue": "RBG dissented in the 2000 case Bush v. him",
+          "answer": "Gore",
+          "isDailyDouble": false,
+          "orderNumber": 23,
+          "correctContestants": [
+            "Amy"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Amy",
+              "score": 11400
+            },
+            {
+              "player": "Maureen",
+              "score": 0
+            },
+            {
+              "player": "Tyler",
+              "score": 4000
+            }
+          ]
+        },
+        {
+          "category": "SHAKESPEARE JUST KILLS ME",
+          "value": 200,
+          "clue": "Holding the dead Cordelia in his arms, he hears that Edmund is dead & is dead himself a few lines later",
+          "answer": "Lear",
+          "isDailyDouble": false,
+          "orderNumber": 24,
+          "correctContestants": [
+            "Amy"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Amy",
+              "score": 11600
+            },
+            {
+              "player": "Maureen",
+              "score": 0
+            },
+            {
+              "player": "Tyler",
+              "score": 4000
+            }
+          ]
+        },
+        {
+          "category": "SHAKESPEARE JUST KILLS ME",
+          "value": 400,
+          "clue": "The last words this king hears are from Hamlet: \"Is thy union here? Follow my mother\"",
+          "answer": "Claudius",
+          "isDailyDouble": false,
+          "orderNumber": 25,
+          "correctContestants": [
+            "Amy"
+          ],
+          "incorrectContestants": [
+            "Tyler"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Amy",
+              "score": 12000
+            },
+            {
+              "player": "Maureen",
+              "score": 0
+            },
+            {
+              "player": "Tyler",
+              "score": 3600
+            }
+          ]
+        },
+        {
+          "category": "TRAVEL",
+          "value": 200,
+          "clue": "Stamps in your passport of this entry endorsement are a thing of the past on visits to many countries, like South Korea",
+          "answer": "a visa",
+          "isDailyDouble": false,
+          "orderNumber": 26,
+          "correctContestants": [
+            "Amy"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Amy",
+              "score": 12200
+            },
+            {
+              "player": "Maureen",
+              "score": 0
+            },
+            {
+              "player": "Tyler",
+              "score": 3600
+            }
+          ]
+        },
+        {
+          "category": "TRAVEL",
+          "value": 400,
+          "clue": "Some business road warriors bring an electronics version of this handy toiletries carrier named after Charles Doppelt",
+          "answer": "a Dopp kit",
+          "isDailyDouble": false,
+          "orderNumber": 27,
+          "correctContestants": [
+            "Maureen"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Amy",
+              "score": 12200
+            },
+            {
+              "player": "Maureen",
+              "score": 400
+            },
+            {
+              "player": "Tyler",
+              "score": 3600
+            }
+          ]
+        },
+        {
+          "category": "I'M \"EN\" IT!",
+          "value": 200,
+          "clue": "Headed that way now",
+          "answer": "en route",
+          "isDailyDouble": false,
+          "orderNumber": 28,
+          "correctContestants": [
+            "Tyler"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Amy",
+              "score": 12200
+            },
+            {
+              "player": "Maureen",
+              "score": 400
+            },
+            {
+              "player": "Tyler",
+              "score": 3800
+            }
+          ]
+        },
+        {
+          "category": "I'M \"EN\" IT!",
+          "value": 400,
+          "clue": "Term for what the dancer seen here is",
+          "answer": "en pointe",
+          "isDailyDouble": false,
+          "orderNumber": 29,
+          "correctContestants": [
+            "Tyler"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Amy",
+              "score": 12200
+            },
+            {
+              "player": "Maureen",
+              "score": 400
+            },
+            {
+              "player": "Tyler",
+              "score": 4200
+            }
+          ]
+        },
+        {
+          "category": "STANFORD ATHLETICS",
+          "value": 400,
+          "clue": "(Haley Jones presents the clue.) In 1896, the first intercollegiate women's basketball game pitted Stanford against this team, our biggest rival; with only women allowed as spectators for modesty, Agnes Morley came up big, & we beat them 2-1",
+          "answer": "Cal (Berkeley)",
+          "isDailyDouble": false,
+          "orderNumber": 30,
+          "correctContestants": [
+            "Amy"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Amy",
+              "score": 12600
+            },
+            {
+              "player": "Maureen",
+              "score": 400
+            },
+            {
+              "player": "Tyler",
+              "score": 4200
+            }
+          ]
+        }
+      ],
+      "firstBreakScores": [
+        {
+          "player": "Amy",
+          "score": 4400
+        },
+        {
+          "player": "Maureen",
+          "score": 0
+        },
+        {
+          "player": "Tyler",
+          "score": 2200
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "Amy",
+          "score": 12600
+        },
+        {
+          "player": "Maureen",
+          "score": 400
+        },
+        {
+          "player": "Tyler",
+          "score": 4200
+        }
+      ]
+    },
+    "doubleJeopardy": {
+      "categories": [
+        "RIVER RUN",
+        "GEOLOGY",
+        "3-NAMED PEOPLE",
+        "INTERNATIONAL FILM STYLE",
+        "FRONTIER FOLK",
+        "ONOMATOPOEIA"
+      ],
+      "clues": [
+        {
+          "category": "3-NAMED PEOPLE",
+          "value": 400,
+          "clue": "Elected to Congress in 1830, he wrote, \"My election as President of the United States was not half so gratifying\"",
+          "answer": "John Quincy Adams",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Amy",
+              "score": 13000
+            },
+            {
+              "player": "Maureen",
+              "score": 400
+            },
+            {
+              "player": "Tyler",
+              "score": 4200
+            }
+          ]
+        },
+        {
+          "category": "3-NAMED PEOPLE",
+          "value": 800,
+          "clue": "Many students learn the history of African Americans from John Hope Franklin's antonym-titled history \"From ____ to ____\"",
+          "answer": "From Slavery to Freedom",
+          "isDailyDouble": false,
+          "orderNumber": 2,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Amy",
+              "score": 13000
+            },
+            {
+              "player": "Maureen",
+              "score": 400
+            },
+            {
+              "player": "Tyler",
+              "score": 4200
+            }
+          ]
+        },
+        {
+          "category": "3-NAMED PEOPLE",
+          "value": 1200,
+          "clue": "She's the first Black woman on the Supreme Court & the first justice to have been a federal public defender",
+          "answer": "Justice (Ketanji Brown) Jackson",
+          "isDailyDouble": false,
+          "orderNumber": 3,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Amy",
+              "score": 13000
+            },
+            {
+              "player": "Maureen",
+              "score": 400
+            },
+            {
+              "player": "Tyler",
+              "score": 4200
+            }
+          ]
+        },
+        {
+          "category": "3-NAMED PEOPLE",
+          "value": 1600,
+          "clue": "2022 is the 150th birthday of Ralph Vaughan Williams, the British composer of beloved works like this bird \"Ascending\"",
+          "answer": "Lark",
+          "isDailyDouble": false,
+          "orderNumber": 4,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Amy",
+              "score": 14600
+            },
+            {
+              "player": "Maureen",
+              "score": 400
+            },
+            {
+              "player": "Tyler",
+              "score": 4200
+            }
+          ]
+        },
+        {
+          "category": "3-NAMED PEOPLE",
+          "value": 2000,
+          "clue": "This 3-named naturalist came up with the natural selection theory around the same time as Darwin, spurring Darwin to go public",
+          "answer": "Alfred Russel Wallace",
+          "isDailyDouble": false,
+          "orderNumber": 5,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Amy",
+              "score": 14600
+            },
+            {
+              "player": "Maureen",
+              "score": 400
+            },
+            {
+              "player": "Tyler",
+              "score": 4200
+            }
+          ]
+        },
+        {
+          "category": "INTERNATIONAL FILM STYLE",
+          "value": 400,
+          "clue": "Dario Argento & Bernardo Bertolucci worked on \"C'era una volta il West\", this \"tasty\" type of Western",
+          "answer": "a Spaghetti Western",
+          "isDailyDouble": false,
+          "orderNumber": 6,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Amy",
+              "score": 15000
+            },
+            {
+              "player": "Maureen",
+              "score": 400
+            },
+            {
+              "player": "Tyler",
+              "score": 4200
+            }
+          ]
+        },
+        {
+          "category": "INTERNATIONAL FILM STYLE",
+          "value": 800,
+          "clue": "There's Bollywood, but there's also Pollywood from India & Pakistan, with hits like \"Carry on Jatta\" in this language",
+          "answer": "Punjabi",
+          "isDailyDouble": false,
+          "orderNumber": 7,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Amy",
+              "score": 14200
+            },
+            {
+              "player": "Maureen",
+              "score": 400
+            },
+            {
+              "player": "Tyler",
+              "score": 4200
+            }
+          ]
+        },
+        {
+          "category": "INTERNATIONAL FILM STYLE",
+          "value": 1200,
+          "clue": "Before directing blockbusters like \"The Professional\" & \"The Fifth Element\", he influenced France's cinema du look era",
+          "answer": "Luc Besson",
+          "isDailyDouble": false,
+          "orderNumber": 8,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Amy",
+              "score": 14200
+            },
+            {
+              "player": "Maureen",
+              "score": 400
+            },
+            {
+              "player": "Tyler",
+              "score": 4200
+            }
+          ]
+        },
+        {
+          "category": "INTERNATIONAL FILM STYLE",
+          "value": 1600,
+          "clue": "\"The Cabinet of Dr. Caligari\" & \"Metropolis\" were part of the golden age of cinema in this German \"Republic\"",
+          "answer": "the Weimar Republic",
+          "isDailyDouble": false,
+          "orderNumber": 9,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Amy",
+              "score": 14200
+            },
+            {
+              "player": "Maureen",
+              "score": 400
+            },
+            {
+              "player": "Tyler",
+              "score": 5800
+            }
+          ]
+        },
+        {
+          "category": "ONOMATOPOEIA",
+          "value": 1200,
+          "clue": "Apiarists know this word can mean a rumor or enthusiasm",
+          "answer": "buzz",
+          "isDailyDouble": false,
+          "orderNumber": 10,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Amy",
+              "score": 14200
+            },
+            {
+              "player": "Maureen",
+              "score": 1600
+            },
+            {
+              "player": "Tyler",
+              "score": 5800
+            }
+          ]
+        },
+        {
+          "category": "ONOMATOPOEIA",
+          "value": 800,
+          "clue": "\"Bible\" can precede this word, also a Disney rabbit",
+          "answer": "thumper",
+          "isDailyDouble": false,
+          "orderNumber": 11,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Amy",
+              "score": 14200
+            },
+            {
+              "player": "Maureen",
+              "score": 1600
+            },
+            {
+              "player": "Tyler",
+              "score": 6600
+            }
+          ]
+        },
+        {
+          "category": "ONOMATOPOEIA",
+          "value": 1600,
+          "clue": "This 5-letter word that starts & ends with the same pair of letters means \"be quiet\"",
+          "answer": "shush",
+          "isDailyDouble": false,
+          "orderNumber": 12,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Amy",
+              "score": 15800
+            },
+            {
+              "player": "Maureen",
+              "score": 1600
+            },
+            {
+              "player": "Tyler",
+              "score": 6600
+            }
+          ]
+        },
+        {
+          "category": "ONOMATOPOEIA",
+          "value": 2000,
+          "clue": "\"The Bells\" pairs clamor with this word that also starts with \"C-L-A\"",
+          "answer": "clangor",
+          "isDailyDouble": false,
+          "orderNumber": 13,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Tyler"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Amy",
+              "score": 13800
+            },
+            {
+              "player": "Maureen",
+              "score": 1600
+            },
+            {
+              "player": "Tyler",
+              "score": 4600
+            }
+          ]
+        },
+        {
+          "category": "INTERNATIONAL FILM STYLE",
+          "value": 2000,
+          "clue": "Hollywood star Choi Min-sik cemented his legacy in Korean cinema with this 2003 movie, later remade by Spike Lee",
+          "answer": "Oldboy",
+          "isDailyDouble": false,
+          "orderNumber": 14,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Amy",
+              "score": 15800
+            },
+            {
+              "player": "Maureen",
+              "score": 1600
+            },
+            {
+              "player": "Tyler",
+              "score": 4600
+            }
+          ]
+        },
+        {
+          "category": "FRONTIER FOLK",
+          "value": 1200,
+          "clue": "Dr. John Eisner, frontier this, a ritual circumciser, brought 169 Jewish babies into the faith from New Mexico to Wyoming",
+          "answer": "a mohel",
+          "isDailyDouble": false,
+          "orderNumber": 15,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Amy",
+              "score": 15800
+            },
+            {
+              "player": "Maureen",
+              "score": 1600
+            },
+            {
+              "player": "Tyler",
+              "score": 5800
+            }
+          ]
+        },
+        {
+          "category": "FRONTIER FOLK",
+          "value": 1600,
+          "clue": "William Green T'Vault, frontier editor, ran Oregon's first newspaper, with this title meaning \"onlooker\" or \"observer\"",
+          "answer": "the Oregon Spectator",
+          "isDailyDouble": false,
+          "orderNumber": 16,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Amy",
+              "score": 15800
+            },
+            {
+              "player": "Maureen",
+              "score": 1600
+            },
+            {
+              "player": "Tyler",
+              "score": 5800
+            }
+          ]
+        },
+        {
+          "category": "GEOLOGY",
+          "value": 1200,
+          "clue": "Used in the Stone Age for spear points & arrowheads, this form of quartz later found a use in firearms",
+          "answer": "flint",
+          "isDailyDouble": false,
+          "orderNumber": 17,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Amy",
+              "score": 17000
+            },
+            {
+              "player": "Maureen",
+              "score": 1600
+            },
+            {
+              "player": "Tyler",
+              "score": 5800
+            }
+          ]
+        },
+        {
+          "category": "GEOLOGY",
+          "value": 1600,
+          "clue": "A horseshoe lake is also called this kind, from a type of collar worn by a different draft animal",
+          "answer": "an oxbow lake",
+          "isDailyDouble": false,
+          "orderNumber": 18,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Amy",
+              "score": 17000
+            },
+            {
+              "player": "Maureen",
+              "score": 1600
+            },
+            {
+              "player": "Tyler",
+              "score": 7400
+            }
+          ]
+        },
+        {
+          "category": "GEOLOGY",
+          "value": 2000,
+          "clue": "From Greek for \"fire\", this \"flow\" is super-hot rock & gas emitted by a volcanic eruption",
+          "answer": "pyroclastic",
+          "isDailyDouble": false,
+          "orderNumber": 19,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Amy",
+              "score": 19000
+            },
+            {
+              "player": "Maureen",
+              "score": 1600
+            },
+            {
+              "player": "Tyler",
+              "score": 7400
+            }
+          ]
+        },
+        {
+          "category": "FRONTIER FOLK",
+          "value": 2000,
+          "clue": "Horace Vesey, frontier hotelier, ran the Gold Hill Hotel in the boomtown called this \"City\", biggest in Nevada Territory",
+          "answer": "Virginia City",
+          "isDailyDouble": false,
+          "orderNumber": 20,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Amy",
+              "score": 19000
+            },
+            {
+              "player": "Maureen",
+              "score": 1600
+            },
+            {
+              "player": "Tyler",
+              "score": 7400
+            }
+          ]
+        },
+        {
+          "category": "RIVER RUN",
+          "value": 1200,
+          "clue": "The Camargue, a wild & wildlife-rich region of France, is in the delta of this river that rises in Switzerland",
+          "answer": "the Rhone",
+          "isDailyDouble": false,
+          "orderNumber": 21,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Amy",
+              "score": 19000
+            },
+            {
+              "player": "Maureen",
+              "score": 1600
+            },
+            {
+              "player": "Tyler",
+              "score": 7400
+            }
+          ]
+        },
+        {
+          "category": "RIVER RUN",
+          "value": 1600,
+          "clue": "Good Catholics know South Bend, Indiana is named for a curvature of this river",
+          "answer": "the St. Joseph",
+          "isDailyDouble": false,
+          "orderNumber": 22,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Tyler"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Amy",
+              "score": 17400
+            },
+            {
+              "player": "Maureen",
+              "score": 1600
+            },
+            {
+              "player": "Tyler",
+              "score": 5800
+            }
+          ]
+        },
+        {
+          "category": "RIVER RUN",
+          "value": 2000,
+          "clue": "Sharing its name with a mountain range, this major river of Europe flows into the Caspian Sea at Atyrau, Kazakhstan",
+          "answer": "(the) Ural (River)",
+          "isDailyDouble": false,
+          "orderNumber": 23,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Amy",
+              "score": 17400
+            },
+            {
+              "player": "Maureen",
+              "score": 3600
+            },
+            {
+              "player": "Tyler",
+              "score": 5800
+            }
+          ]
+        },
+        {
+          "category": "RIVER RUN",
+          "value": 3000,
+          "clue": "Rivers that border Manhattan include the East River & these 2 \"H\" rivers",
+          "answer": "the Hudson and the Harlem",
+          "isDailyDouble": true,
+          "orderNumber": 24,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Amy",
+              "score": 17400
+            },
+            {
+              "player": "Maureen",
+              "score": 600
+            },
+            {
+              "player": "Tyler",
+              "score": 5800
+            }
+          ]
+        },
+        {
+          "category": "RIVER RUN",
+          "value": 400,
+          "clue": "In Babylonian myth the eyes of the dragon goddess Tiamat were the source of these 2 rivers",
+          "answer": "the Tigris & the Euphrates",
+          "isDailyDouble": false,
+          "orderNumber": 25,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Amy",
+              "score": 17400
+            },
+            {
+              "player": "Maureen",
+              "score": 600
+            },
+            {
+              "player": "Tyler",
+              "score": 6200
+            }
+          ]
+        },
+        {
+          "category": "GEOLOGY",
+          "value": 800,
+          "clue": "Chalk & tufa are varieties of this sedimentary rock that's mostly calcium carbonate",
+          "answer": "limestone",
+          "isDailyDouble": false,
+          "orderNumber": 26,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Amy",
+              "score": 18200
+            },
+            {
+              "player": "Maureen",
+              "score": 600
+            },
+            {
+              "player": "Tyler",
+              "score": 6200
+            }
+          ]
+        },
+        {
+          "category": "FRONTIER FOLK",
+          "value": 1000,
+          "clue": "In 1874 this frontier dentist lost his practice in Dallas because his coughing alarmed patients",
+          "answer": "Doc Holliday",
+          "isDailyDouble": true,
+          "orderNumber": 27,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Amy",
+              "score": 19200
+            },
+            {
+              "player": "Maureen",
+              "score": 600
+            },
+            {
+              "player": "Tyler",
+              "score": 6200
+            }
+          ]
+        },
+        {
+          "category": "FRONTIER FOLK",
+          "value": 400,
+          "clue": "Trained back east by Harriet Beecher Stowe's sister, Harriet Bishop was a frontier one of these in a single room in St. Paul",
+          "answer": "a schoolteacher",
+          "isDailyDouble": false,
+          "orderNumber": 28,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Amy",
+              "score": 19200
+            },
+            {
+              "player": "Maureen",
+              "score": 600
+            },
+            {
+              "player": "Tyler",
+              "score": 6600
+            }
+          ]
+        },
+        {
+          "category": "ONOMATOPOEIA",
+          "value": 400,
+          "clue": "You might hear this hyphenated term \"of little feet\"",
+          "answer": "pitter-patter",
+          "isDailyDouble": false,
+          "orderNumber": 29,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Amy",
+              "score": 19200
+            },
+            {
+              "player": "Maureen",
+              "score": 600
+            },
+            {
+              "player": "Tyler",
+              "score": 7000
+            }
+          ]
+        },
+        {
+          "category": "GEOLOGY",
+          "value": 400,
+          "clue": "It's the point on Earth's surface directly above the internal point where an earthquake rupture begins",
+          "answer": "the epicenter",
+          "isDailyDouble": false,
+          "orderNumber": 30,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Amy",
+              "score": 19600
+            },
+            {
+              "player": "Maureen",
+              "score": 600
+            },
+            {
+              "player": "Tyler",
+              "score": 7000
+            }
+          ]
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "Amy",
+          "score": 19600
+        },
+        {
+          "player": "Maureen",
+          "score": 600
+        },
+        {
+          "player": "Tyler",
+          "score": 7000
+        }
+      ]
+    },
+    "finalJeopardy": {
+      "category": "CONTEMPORARY AUTHORS",
+      "clue": "A trip to El Paso with his young son & wondering what the city might look like years in the future inspired a novel by this author",
+      "answer": "Cormac McCarthy",
+      "responses": [
+        {
+          "contestant": "Maureen",
+          "response": "Who is?",
+          "isCorrect": false,
+          "isIncorrect": true,
+          "value": 0,
+          "finalScore": 600
+        },
+        {
+          "contestant": "Tyler",
+          "response": "Who is Cormac McCarthey?",
+          "isCorrect": true,
+          "isIncorrect": false,
+          "value": 0,
+          "finalScore": 7000
+        },
+        {
+          "contestant": "Amy",
+          "response": "Who is Cormac McCarthy?",
+          "isCorrect": true,
+          "isIncorrect": false,
+          "value": 64,
+          "finalScore": 19664
+        }
+      ]
+    }
+  },
+  "finalScores": [
+    {
+      "player": "Amy",
+      "score": "$19,664"
+    },
+    {
+      "player": "Maureen",
+      "score": "$600"
+    },
+    {
+      "player": "Tyler",
+      "score": "$7,000"
+    }
+  ],
+  "coryatScores": [
+    {
+      "player": "Amy",
+      "score": 15800
+    },
+    {
+      "player": "Maureen",
+      "score": 3600
+    },
+    {
+      "player": "Tyler",
+      "score": 7000
+    }
+  ]
+}

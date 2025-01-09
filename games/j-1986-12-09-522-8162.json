@@ -1,0 +1,1695 @@
+{
+  "gameId": 8162,
+  "showNumber": "522",
+  "title": "Show #522 - Tuesday, December 9, 1986",
+  "date": "1986-12-09",
+  "comments": "",
+  "contestants": [
+    "Bill",
+    "Steven",
+    "Esther"
+  ],
+  "rounds": {
+    "jeopardy": {
+      "categories": [
+        "MEDICAL HISTORY",
+        "THE GREAT LAKES",
+        "FISHY NAMES",
+        "ADVERTISING",
+        "WEDDINGS",
+        "\"RICH\""
+      ],
+      "clues": [
+        {
+          "category": "\"RICH\"",
+          "value": 100,
+          "clue": "Say you, say me, say he won an Oscar in '86 for Best Original Song",
+          "answer": "Lionel Richie",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [
+            "Esther"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bill",
+              "score": 0
+            },
+            {
+              "player": "Steven",
+              "score": 0
+            },
+            {
+              "player": "Esther",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "category": "\"RICH\"",
+          "value": 200,
+          "clue": "From the song, \"Ain't We Got Fun\", phrase that precedes \"and the poor get poorer\"",
+          "answer": "the rich get rich",
+          "isDailyDouble": false,
+          "orderNumber": 2,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Bill",
+            "Steven"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Bill",
+              "score": -200
+            },
+            {
+              "player": "Steven",
+              "score": -200
+            },
+            {
+              "player": "Esther",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "category": "\"RICH\"",
+          "value": 300,
+          "clue": "Show which often ends with Robin Leach's \"champagne wishes & caviar dreams\"",
+          "answer": "Lifestyles of the Rich and Famous",
+          "isDailyDouble": false,
+          "orderNumber": 3,
+          "correctContestants": [
+            "Steven"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bill",
+              "score": -200
+            },
+            {
+              "player": "Steven",
+              "score": 100
+            },
+            {
+              "player": "Esther",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "category": "MEDICAL HISTORY",
+          "value": 100,
+          "clue": "About 1860, a German druggist reported the isolation of this drug from   coca leaves",
+          "answer": "cocaine",
+          "isDailyDouble": false,
+          "orderNumber": 4,
+          "correctContestants": [
+            "Bill"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bill",
+              "score": -100
+            },
+            {
+              "player": "Steven",
+              "score": 100
+            },
+            {
+              "player": "Esther",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "category": "MEDICAL HISTORY",
+          "value": 200,
+          "clue": "The 1st practical metal one with a hollow needle was invented in 1853",
+          "answer": "a hypodermic",
+          "isDailyDouble": false,
+          "orderNumber": 5,
+          "correctContestants": [
+            "Steven"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bill",
+              "score": -100
+            },
+            {
+              "player": "Steven",
+              "score": 300
+            },
+            {
+              "player": "Esther",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "category": "MEDICAL HISTORY",
+          "value": 300,
+          "clue": "Family of fruit a Scottish doctor prescribed in 1785   to prevent scurvy in British sailors",
+          "answer": "citrus",
+          "isDailyDouble": false,
+          "orderNumber": 6,
+          "correctContestants": [
+            "Bill"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bill",
+              "score": 200
+            },
+            {
+              "player": "Steven",
+              "score": 300
+            },
+            {
+              "player": "Esther",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "category": "MEDICAL HISTORY",
+          "value": 400,
+          "clue": "Examinations of one of these from 1000 B.C. shows that tuberculosis existed among Egyptians",
+          "answer": "a mummy",
+          "isDailyDouble": false,
+          "orderNumber": 7,
+          "correctContestants": [
+            "Esther"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bill",
+              "score": 200
+            },
+            {
+              "player": "Steven",
+              "score": 300
+            },
+            {
+              "player": "Esther",
+              "score": 500
+            }
+          ]
+        },
+        {
+          "category": "MEDICAL HISTORY",
+          "value": 500,
+          "clue": "It's said a Spanish surgeon 1st described this venereal disease, recognized in members of Columbus' crew",
+          "answer": "syphilis",
+          "isDailyDouble": false,
+          "orderNumber": 8,
+          "correctContestants": [
+            "Steven"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bill",
+              "score": 200
+            },
+            {
+              "player": "Steven",
+              "score": 800
+            },
+            {
+              "player": "Esther",
+              "score": 500
+            }
+          ]
+        },
+        {
+          "category": "THE GREAT LAKES",
+          "value": 100,
+          "clue": "60% of this country's population lives adjacent to the Great Lakes",
+          "answer": "Canada",
+          "isDailyDouble": false,
+          "orderNumber": 9,
+          "correctContestants": [
+            "Bill"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bill",
+              "score": 300
+            },
+            {
+              "player": "Steven",
+              "score": 800
+            },
+            {
+              "player": "Esther",
+              "score": 500
+            }
+          ]
+        },
+        {
+          "category": "\"RICH\"",
+          "value": 400,
+          "clue": "Tough lyrics say \"You've gone too far\", this Hall & Oates song went as far as it could, to #1, in 1977",
+          "answer": "\"Rich Girl\"",
+          "isDailyDouble": false,
+          "orderNumber": 10,
+          "correctContestants": [
+            "Bill"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bill",
+              "score": 700
+            },
+            {
+              "player": "Steven",
+              "score": 800
+            },
+            {
+              "player": "Esther",
+              "score": 500
+            }
+          ]
+        },
+        {
+          "category": "\"RICH\"",
+          "value": 500,
+          "clue": "It's attributed to the Duchess of Windsor & likely echoed by anorexics in Beverly Hill",
+          "answer": "one can never be too rich or too thin",
+          "isDailyDouble": false,
+          "orderNumber": 11,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Bill",
+              "score": 700
+            },
+            {
+              "player": "Steven",
+              "score": 800
+            },
+            {
+              "player": "Esther",
+              "score": 500
+            }
+          ]
+        },
+        {
+          "category": "FISHY NAMES",
+          "value": 100,
+          "clue": "His career as a lieutenant reached a \"peak\" in Colorado in 1806",
+          "answer": "Pike",
+          "isDailyDouble": false,
+          "orderNumber": 12,
+          "correctContestants": [
+            "Steven"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bill",
+              "score": 700
+            },
+            {
+              "player": "Steven",
+              "score": 900
+            },
+            {
+              "player": "Esther",
+              "score": 500
+            }
+          ]
+        },
+        {
+          "category": "ADVERTISING",
+          "value": 100,
+          "clue": "Morton Salt slogan illustrated by a little girl carrying an umbrella",
+          "answer": "when it rains, it pours",
+          "isDailyDouble": false,
+          "orderNumber": 13,
+          "correctContestants": [
+            "Esther"
+          ],
+          "incorrectContestants": [
+            "Bill"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bill",
+              "score": 600
+            },
+            {
+              "player": "Steven",
+              "score": 900
+            },
+            {
+              "player": "Esther",
+              "score": 600
+            }
+          ]
+        },
+        {
+          "category": "ADVERTISING",
+          "value": 200,
+          "clue": "Product whose ads, in the '50s & '60s, asked, \"Does she or doesn't she\"?",
+          "answer": "Clairol",
+          "isDailyDouble": false,
+          "orderNumber": 14,
+          "correctContestants": [
+            "Esther"
+          ],
+          "incorrectContestants": [
+            "Bill"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bill",
+              "score": 400
+            },
+            {
+              "player": "Steven",
+              "score": 900
+            },
+            {
+              "player": "Esther",
+              "score": 800
+            }
+          ]
+        },
+        {
+          "category": "ADVERTISING",
+          "value": 300,
+          "clue": "In the world of tires, they called themselves \"the other guys\"",
+          "answer": "Goodrich",
+          "isDailyDouble": false,
+          "orderNumber": 15,
+          "correctContestants": [
+            "Steven"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bill",
+              "score": 400
+            },
+            {
+              "player": "Steven",
+              "score": 1200
+            },
+            {
+              "player": "Esther",
+              "score": 800
+            }
+          ]
+        },
+        {
+          "category": "ADVERTISING",
+          "value": 400,
+          "clue": "People are \"glad\" they \"met\" this insurance company",
+          "answer": "Aetna",
+          "isDailyDouble": false,
+          "orderNumber": 16,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Bill",
+            "Esther"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Bill",
+              "score": 0
+            },
+            {
+              "player": "Steven",
+              "score": 1200
+            },
+            {
+              "player": "Esther",
+              "score": 400
+            }
+          ]
+        },
+        {
+          "category": "ADVERTISING",
+          "value": 500,
+          "clue": "You can't fly this \"fly me\" airline anymore, since Pan Am took it over in 1979",
+          "answer": "National",
+          "isDailyDouble": false,
+          "orderNumber": 17,
+          "correctContestants": [
+            "Steven"
+          ],
+          "incorrectContestants": [
+            "Esther"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bill",
+              "score": 0
+            },
+            {
+              "player": "Steven",
+              "score": 1700
+            },
+            {
+              "player": "Esther",
+              "score": -100
+            }
+          ]
+        },
+        {
+          "category": "WEDDINGS",
+          "value": 100,
+          "clue": "Once strictly taboo, some say it's now acceptable for a bride to wear this color for a 2nd wedding",
+          "answer": "white",
+          "isDailyDouble": false,
+          "orderNumber": 18,
+          "correctContestants": [
+            "Esther"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bill",
+              "score": 0
+            },
+            {
+              "player": "Steven",
+              "score": 1700
+            },
+            {
+              "player": "Esther",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "WEDDINGS",
+          "value": 200,
+          "clue": "At military weddings, an arch of swords is made only if the bride or groom is one of these",
+          "answer": "an officer",
+          "isDailyDouble": false,
+          "orderNumber": 19,
+          "correctContestants": [
+            "Bill"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bill",
+              "score": 200
+            },
+            {
+              "player": "Steven",
+              "score": 1700
+            },
+            {
+              "player": "Esther",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "WEDDINGS",
+          "value": 300,
+          "clue": "Person who heads the processional in a traditional Orthodox Jewish wedding",
+          "answer": "the rabbi",
+          "isDailyDouble": false,
+          "orderNumber": 20,
+          "correctContestants": [
+            "Steven"
+          ],
+          "incorrectContestants": [
+            "Bill"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bill",
+              "score": -100
+            },
+            {
+              "player": "Steven",
+              "score": 2000
+            },
+            {
+              "player": "Esther",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "WEDDINGS",
+          "value": 400,
+          "clue": "Hours after this 1981 wedding, garment maker Sidney Ellis sold 100 copies of the gown for $750 each",
+          "answer": "Prince Charles & Princess Diana",
+          "isDailyDouble": false,
+          "orderNumber": 21,
+          "correctContestants": [
+            "Steven"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bill",
+              "score": -100
+            },
+            {
+              "player": "Steven",
+              "score": 2400
+            },
+            {
+              "player": "Esther",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "WEDDINGS",
+          "value": 500,
+          "clue": "Because eating raw rice can kill wildlife, this edible is now thrown at many weddings instead",
+          "answer": "bird seed",
+          "isDailyDouble": false,
+          "orderNumber": 22,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Bill",
+              "score": -100
+            },
+            {
+              "player": "Steven",
+              "score": 2400
+            },
+            {
+              "player": "Esther",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "FISHY NAMES",
+          "value": 200,
+          "clue": "Nickname of both Amos 'n' Andy's friend George Stevens & Louisiana gov. Huey Long",
+          "answer": "the Kingfish",
+          "isDailyDouble": false,
+          "orderNumber": 23,
+          "correctContestants": [
+            "Steven"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bill",
+              "score": -100
+            },
+            {
+              "player": "Steven",
+              "score": 2600
+            },
+            {
+              "player": "Esther",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "FISHY NAMES",
+          "value": 300,
+          "clue": "Member of the cod family, or famed abstract artist Jackson",
+          "answer": "pollock",
+          "isDailyDouble": false,
+          "orderNumber": 24,
+          "correctContestants": [
+            "Bill"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bill",
+              "score": 200
+            },
+            {
+              "player": "Steven",
+              "score": 2600
+            },
+            {
+              "player": "Esther",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "FISHY NAMES",
+          "value": 400,
+          "clue": "If Sam hadn't changed his name, MGM would have been called this",
+          "answer": "Metro Goldfish Mayer",
+          "isDailyDouble": false,
+          "orderNumber": 25,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Bill",
+              "score": 200
+            },
+            {
+              "player": "Steven",
+              "score": 2600
+            },
+            {
+              "player": "Esther",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "FISHY NAMES",
+          "value": 500,
+          "clue": "Lincoln's Treasury Secretary, later U.S. Chief Justice, he appears on $10,000 bill",
+          "answer": "Salmon Chase",
+          "isDailyDouble": false,
+          "orderNumber": 26,
+          "correctContestants": [
+            "Steven"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bill",
+              "score": 200
+            },
+            {
+              "player": "Steven",
+              "score": 3100
+            },
+            {
+              "player": "Esther",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "THE GREAT LAKES",
+          "value": 200,
+          "clue": "It's Hiawatha's \"Gitche Gumee\", \"shining big sea water\", & big it is",
+          "answer": "Lake Superior",
+          "isDailyDouble": false,
+          "orderNumber": 27,
+          "correctContestants": [
+            "Esther"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bill",
+              "score": 200
+            },
+            {
+              "player": "Steven",
+              "score": 3100
+            },
+            {
+              "player": "Esther",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "THE GREAT LAKES",
+          "value": 300,
+          "clue": "Farmer's Almanac claims biggest source of pollution for Lake Ontario is this other Great Lake",
+          "answer": "Lake Erie",
+          "isDailyDouble": false,
+          "orderNumber": 28,
+          "correctContestants": [
+            "Bill"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bill",
+              "score": 500
+            },
+            {
+              "player": "Steven",
+              "score": 3100
+            },
+            {
+              "player": "Esther",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "THE GREAT LAKES",
+          "value": 400,
+          "clue": "These 2 lakes can be considered one, since they are joined by the deep, wide Straits of Mackinac",
+          "answer": "Lake Michigan & Huron",
+          "isDailyDouble": false,
+          "orderNumber": 29,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Bill",
+              "score": 500
+            },
+            {
+              "player": "Steven",
+              "score": 3100
+            },
+            {
+              "player": "Esther",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "THE GREAT LAKES",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bill",
+              "score": 500
+            },
+            {
+              "player": "Steven",
+              "score": 3100
+            },
+            {
+              "player": "Esther",
+              "score": 200
+            }
+          ]
+        }
+      ],
+      "firstBreakScores": [
+        {
+          "player": "Bill",
+          "score": 700
+        },
+        {
+          "player": "Steven",
+          "score": 900
+        },
+        {
+          "player": "Esther",
+          "score": 500
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "Bill",
+          "score": 500
+        },
+        {
+          "player": "Steven",
+          "score": 3100
+        },
+        {
+          "player": "Esther",
+          "score": 200
+        }
+      ]
+    },
+    "doubleJeopardy": {
+      "categories": [
+        "20th CENTURY",
+        "LAST LINES",
+        "FOOTBALL",
+        "MASTERPIECE THEATRE",
+        "NEW TESTAMENT",
+        "\"POOR\""
+      ],
+      "clues": [
+        {
+          "category": "\"POOR\"",
+          "value": 200,
+          "clue": "Alas & alack, it's Linda Ronstadt's hard luck hit of 1978",
+          "answer": "\"Poor Poor Pitiful Me\"",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bill",
+              "score": 500
+            },
+            {
+              "player": "Steven",
+              "score": 3100
+            },
+            {
+              "player": "Esther",
+              "score": 400
+            }
+          ]
+        },
+        {
+          "category": "\"POOR\"",
+          "value": 400,
+          "clue": "It's why Dracula might crave Geritol after one too many anemic victims",
+          "answer": "iron poor blood",
+          "isDailyDouble": false,
+          "orderNumber": 2,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bill",
+              "score": 900
+            },
+            {
+              "player": "Steven",
+              "score": 3100
+            },
+            {
+              "player": "Esther",
+              "score": 400
+            }
+          ]
+        },
+        {
+          "category": "\"POOR\"",
+          "value": 600,
+          "clue": "Commonly attributed to Shakespeare, but actually a misquote, is this saying which ends \"but mine own\"",
+          "answer": "a poor thing but my own",
+          "isDailyDouble": false,
+          "orderNumber": 3,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Bill",
+              "score": 900
+            },
+            {
+              "player": "Steven",
+              "score": 3100
+            },
+            {
+              "player": "Esther",
+              "score": 400
+            }
+          ]
+        },
+        {
+          "category": "\"POOR\"",
+          "value": 800,
+          "clue": "You might become rich by investing in the companies listed on this company's 500 index",
+          "answer": "the Standard & Poor's",
+          "isDailyDouble": false,
+          "orderNumber": 4,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bill",
+              "score": 900
+            },
+            {
+              "player": "Steven",
+              "score": 3900
+            },
+            {
+              "player": "Esther",
+              "score": 400
+            }
+          ]
+        },
+        {
+          "category": "\"POOR\"",
+          "value": 1000,
+          "clue": "Title of the following:[Instrumental music plays.]",
+          "answer": "\"The Poor People Of Paris\"",
+          "isDailyDouble": true,
+          "orderNumber": 5,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bill",
+              "score": 900
+            },
+            {
+              "player": "Steven",
+              "score": 4900
+            },
+            {
+              "player": "Esther",
+              "score": 400
+            }
+          ]
+        },
+        {
+          "category": "FOOTBALL",
+          "value": 200,
+          "clue": "Since Detroit's baseball team was the Tigers, this name was chosen for its football team",
+          "answer": "the Lions",
+          "isDailyDouble": false,
+          "orderNumber": 6,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bill",
+              "score": 1100
+            },
+            {
+              "player": "Steven",
+              "score": 4900
+            },
+            {
+              "player": "Esther",
+              "score": 400
+            }
+          ]
+        },
+        {
+          "category": "FOOTBALL",
+          "value": 400,
+          "clue": "Following a touchback, the ball is placed here",
+          "answer": "the 20-yard line",
+          "isDailyDouble": false,
+          "orderNumber": 7,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bill",
+              "score": 1500
+            },
+            {
+              "player": "Steven",
+              "score": 4900
+            },
+            {
+              "player": "Esther",
+              "score": 400
+            }
+          ]
+        },
+        {
+          "category": "FOOTBALL",
+          "value": 600,
+          "clue": "Though he never played for Philadelphia, this great Colt, 49er & Giant QB was called \"The Bald Eagle\"",
+          "answer": "Y.A. Tittle",
+          "isDailyDouble": false,
+          "orderNumber": 8,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bill",
+              "score": 2100
+            },
+            {
+              "player": "Steven",
+              "score": 4900
+            },
+            {
+              "player": "Esther",
+              "score": 400
+            }
+          ]
+        },
+        {
+          "category": "FOOTBALL",
+          "value": 800,
+          "clue": "The Raisin, Grape, Oil, Alamo, Mercy, Delta, Bacardi, Aviation & Gotham",
+          "answer": "college bowl games no longer being played",
+          "isDailyDouble": false,
+          "orderNumber": 9,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Bill",
+              "score": 1300
+            },
+            {
+              "player": "Steven",
+              "score": 4900
+            },
+            {
+              "player": "Esther",
+              "score": 400
+            }
+          ]
+        },
+        {
+          "category": "FOOTBALL",
+          "value": 1000,
+          "clue": "Current chairman of the President's Physical Fitness Council is this former pro coach",
+          "answer": "George Allen",
+          "isDailyDouble": false,
+          "orderNumber": 10,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bill",
+              "score": 1300
+            },
+            {
+              "player": "Steven",
+              "score": 5900
+            },
+            {
+              "player": "Esther",
+              "score": 400
+            }
+          ]
+        },
+        {
+          "category": "20th CENTURY",
+          "value": 200,
+          "clue": "After the September 1930 elections, it was the 2nd largest party in Germany",
+          "answer": "the Nazi Party",
+          "isDailyDouble": false,
+          "orderNumber": 11,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bill",
+              "score": 1500
+            },
+            {
+              "player": "Steven",
+              "score": 5900
+            },
+            {
+              "player": "Esther",
+              "score": 400
+            }
+          ]
+        },
+        {
+          "category": "20th CENTURY",
+          "value": 400,
+          "clue": "The December 1901 Ladies Home Journal had the 1st ad for these ornaments, made by GE",
+          "answer": "Christmas tree lights",
+          "isDailyDouble": false,
+          "orderNumber": 12,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bill",
+              "score": 1500
+            },
+            {
+              "player": "Steven",
+              "score": 5900
+            },
+            {
+              "player": "Esther",
+              "score": 800
+            }
+          ]
+        },
+        {
+          "category": "20th CENTURY",
+          "value": 600,
+          "clue": "The 47-volume analysis leaked to the press by Daniel Ellsberg in 1971",
+          "answer": "the Pentagon Papers",
+          "isDailyDouble": false,
+          "orderNumber": 13,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bill",
+              "score": 1500
+            },
+            {
+              "player": "Steven",
+              "score": 6500
+            },
+            {
+              "player": "Esther",
+              "score": 800
+            }
+          ]
+        },
+        {
+          "category": "20th CENTURY",
+          "value": 800,
+          "clue": "Like Charles & Diana's, their Nov. 20, 1947 wedding also drew worldwide attention",
+          "answer": "Queen Elizabeth & Prince Philip",
+          "isDailyDouble": false,
+          "orderNumber": 14,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Steven"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bill",
+              "score": 700
+            },
+            {
+              "player": "Steven",
+              "score": 5700
+            },
+            {
+              "player": "Esther",
+              "score": 1600
+            }
+          ]
+        },
+        {
+          "category": "20th CENTURY",
+          "value": 1000,
+          "clue": "On April 15, 1954, she told Japan's Diet that birth control would solve their overpopulation problem",
+          "answer": "Margaret Sanger",
+          "isDailyDouble": false,
+          "orderNumber": 15,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Bill",
+              "score": 700
+            },
+            {
+              "player": "Steven",
+              "score": 4700
+            },
+            {
+              "player": "Esther",
+              "score": 1600
+            }
+          ]
+        },
+        {
+          "category": "NEW TESTAMENT",
+          "value": 200,
+          "clue": "Jesus told his disciples they were this kind of \"salt\"",
+          "answer": "the salt of the earth",
+          "isDailyDouble": false,
+          "orderNumber": 16,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bill",
+              "score": 900
+            },
+            {
+              "player": "Steven",
+              "score": 4700
+            },
+            {
+              "player": "Esther",
+              "score": 1600
+            }
+          ]
+        },
+        {
+          "category": "LAST LINES",
+          "value": 1000,
+          "clue": "Song which concludes, \"3 cheers for the red, white & blue\"",
+          "answer": "\"Columbia, The Gem Of The Ocean\"",
+          "isDailyDouble": false,
+          "orderNumber": 17,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Bill",
+              "score": -100
+            },
+            {
+              "player": "Steven",
+              "score": 4700
+            },
+            {
+              "player": "Esther",
+              "score": 1600
+            }
+          ]
+        },
+        {
+          "category": "LAST LINES",
+          "value": 800,
+          "clue": "Turning his back on his buddies, this character winds up on the phone asking, \"Hello, Clara?\"",
+          "answer": "Marty",
+          "isDailyDouble": false,
+          "orderNumber": 18,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Bill",
+              "score": -100
+            },
+            {
+              "player": "Steven",
+              "score": 4700
+            },
+            {
+              "player": "Esther",
+              "score": 1600
+            }
+          ]
+        },
+        {
+          "category": "LAST LINES",
+          "value": 1000,
+          "clue": "Beatles song which ends, \"Yeah, yeah, yeah; yeah, yeah, yeah; yeah, yeah, yeah, yeah\"",
+          "answer": "\"She Loves You\"",
+          "isDailyDouble": true,
+          "orderNumber": 19,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bill",
+              "score": -1100
+            },
+            {
+              "player": "Steven",
+              "score": 4700
+            },
+            {
+              "player": "Esther",
+              "score": 1600
+            }
+          ]
+        },
+        {
+          "category": "NEW TESTAMENT",
+          "value": 1000,
+          "clue": "According to Christian tradition, he was the only one of 12 Apostles to die a natural death",
+          "answer": "John",
+          "isDailyDouble": false,
+          "orderNumber": 20,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Esther"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Bill",
+              "score": -2100
+            },
+            {
+              "player": "Steven",
+              "score": 4700
+            },
+            {
+              "player": "Esther",
+              "score": 600
+            }
+          ]
+        },
+        {
+          "category": "MASTERPIECE THEATRE",
+          "value": 1000,
+          "clue": "Having played his aunt in \"Nicholas & Alexandra\", Janet Suzman played his wife in \"The Last Viceroy\"",
+          "answer": "Lord Mountbatten",
+          "isDailyDouble": false,
+          "orderNumber": 21,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Bill",
+              "score": -2100
+            },
+            {
+              "player": "Steven",
+              "score": 4700
+            },
+            {
+              "player": "Esther",
+              "score": 600
+            }
+          ]
+        },
+        {
+          "category": "NEW TESTAMENT",
+          "value": 800,
+          "clue": "James said faith without works is this",
+          "answer": "dead",
+          "isDailyDouble": false,
+          "orderNumber": 22,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Bill",
+              "score": -2100
+            },
+            {
+              "player": "Steven",
+              "score": 4700
+            },
+            {
+              "player": "Esther",
+              "score": 600
+            }
+          ]
+        },
+        {
+          "category": "NEW TESTAMENT",
+          "value": 600,
+          "clue": "Jesus restored this part of the high priest's servant's body after Peter cut it off",
+          "answer": "his ear",
+          "isDailyDouble": false,
+          "orderNumber": 23,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bill",
+              "score": -1500
+            },
+            {
+              "player": "Steven",
+              "score": 4700
+            },
+            {
+              "player": "Esther",
+              "score": 600
+            }
+          ]
+        },
+        {
+          "category": "NEW TESTAMENT",
+          "value": 400,
+          "clue": "The Ethiopian Church considers him a saint, though he condemned Jesus to death",
+          "answer": "Pilate",
+          "isDailyDouble": false,
+          "orderNumber": 24,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bill",
+              "score": -1100
+            },
+            {
+              "player": "Steven",
+              "score": 4300
+            },
+            {
+              "player": "Esther",
+              "score": 600
+            }
+          ]
+        },
+        {
+          "category": "MASTERPIECE THEATRE",
+          "value": 200,
+          "clue": "This historical series could have been called \"The Half-Dozen Spouses of Henry Tudor\"",
+          "answer": "The Six Wives of Henry VIII",
+          "isDailyDouble": false,
+          "orderNumber": 25,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bill",
+              "score": -900
+            },
+            {
+              "player": "Steven",
+              "score": 4300
+            },
+            {
+              "player": "Esther",
+              "score": 600
+            }
+          ]
+        },
+        {
+          "category": "LAST LINES",
+          "value": 400,
+          "clue": "In \"Stopping by Woods...\" Frost concluded \"But I have promises to keep, & miles to go before\" doing this",
+          "answer": "before I sleep",
+          "isDailyDouble": false,
+          "orderNumber": 26,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bill",
+              "score": -500
+            },
+            {
+              "player": "Steven",
+              "score": 4300
+            },
+            {
+              "player": "Esther",
+              "score": 600
+            }
+          ]
+        },
+        {
+          "category": "LAST LINES",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bill",
+              "score": -500
+            },
+            {
+              "player": "Steven",
+              "score": 4300
+            },
+            {
+              "player": "Esther",
+              "score": 600
+            }
+          ]
+        },
+        {
+          "category": "MASTERPIECE THEATRE",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bill",
+              "score": -500
+            },
+            {
+              "player": "Steven",
+              "score": 4300
+            },
+            {
+              "player": "Esther",
+              "score": 600
+            }
+          ]
+        },
+        {
+          "category": "MASTERPIECE THEATRE",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bill",
+              "score": -500
+            },
+            {
+              "player": "Steven",
+              "score": 4300
+            },
+            {
+              "player": "Esther",
+              "score": 600
+            }
+          ]
+        },
+        {
+          "category": "MASTERPIECE THEATRE",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bill",
+              "score": -500
+            },
+            {
+              "player": "Steven",
+              "score": 4300
+            },
+            {
+              "player": "Esther",
+              "score": 600
+            }
+          ]
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "Bill",
+          "score": -500
+        },
+        {
+          "player": "Steven",
+          "score": 4300
+        },
+        {
+          "player": "Esther",
+          "score": 600
+        }
+      ]
+    },
+    "finalJeopardy": {
+      "category": "U.S. CITIES",
+      "clue": "Cities in which G. Washington,  only U.S. president inaugurated in 2 different cities, took the oath of office",
+      "answer": "New York & Philadelphia",
+      "responses": [
+        {
+          "contestant": "Esther",
+          "response": "What are New York and Bost Philadelphia?",
+          "isCorrect": true,
+          "isIncorrect": false,
+          "value": 590,
+          "finalScore": 1190
+        },
+        {
+          "contestant": "Steven",
+          "response": "What are New York City & Philadelphia?",
+          "isCorrect": true,
+          "isIncorrect": false,
+          "value": 700,
+          "finalScore": 5000
+        }
+      ]
+    }
+  },
+  "finalScores": [
+    {
+      "player": "Bill",
+      "score": "-$500"
+    },
+    {
+      "player": "Steven",
+      "score": "$5,000"
+    },
+    {
+      "player": "Esther",
+      "score": "$1,190"
+    }
+  ],
+  "coryatScores": [
+    {
+      "player": "Bill",
+      "score": 500
+    },
+    {
+      "player": "Steven",
+      "score": 4300
+    },
+    {
+      "player": "Esther",
+      "score": 600
+    }
+  ]
+}

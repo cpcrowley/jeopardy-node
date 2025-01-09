@@ -1,0 +1,1700 @@
+{
+  "gameId": 5392,
+  "showNumber": "2775",
+  "title": "Show #2775 - Friday, September 27, 1996",
+  "date": "1996-09-27",
+  "comments": "",
+  "contestants": [
+    "Jason",
+    "Linda",
+    "Ted"
+  ],
+  "rounds": {
+    "jeopardy": {
+      "categories": [
+        "THE NEW $100 BILL",
+        "SCIENCE",
+        "10-LETTER WORDS",
+        "ART",
+        "THE 1995 GRAMMYS",
+        "\"B\" CITIES"
+      ],
+      "clues": [
+        {
+          "category": "ART",
+          "value": 100,
+          "clue": "This Florentine sculptor's relief \"Madonna of the Stairs\" was completed in 1492 when he was 17",
+          "answer": "Michelangelo",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [
+            "Jason"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jason",
+              "score": 100
+            },
+            {
+              "player": "Linda",
+              "score": 0
+            },
+            {
+              "player": "Ted",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "ART",
+          "value": 200,
+          "clue": "Picasso's 1907 painting \"Les Demoiselles d'Avignon\" was one of the first in this new art movement",
+          "answer": "Cubist",
+          "isDailyDouble": false,
+          "orderNumber": 2,
+          "correctContestants": [
+            "Jason"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jason",
+              "score": 300
+            },
+            {
+              "player": "Linda",
+              "score": 0
+            },
+            {
+              "player": "Ted",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "ART",
+          "value": 300,
+          "clue": "This 19th century New York landscape school spread to Mexico & South America",
+          "answer": "Hudson River School",
+          "isDailyDouble": false,
+          "orderNumber": 3,
+          "correctContestants": [
+            "Jason"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jason",
+              "score": 600
+            },
+            {
+              "player": "Linda",
+              "score": 0
+            },
+            {
+              "player": "Ted",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "ART",
+          "value": 600,
+          "clue": "Around the 5th century B.C., the Greeks began using this art form in which tesserae are set in mortar",
+          "answer": "mosaic",
+          "isDailyDouble": true,
+          "orderNumber": 4,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Jason"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jason",
+              "score": 0
+            },
+            {
+              "player": "Linda",
+              "score": 0
+            },
+            {
+              "player": "Ted",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "ART",
+          "value": 500,
+          "clue": "In 1970 this \"Christina's World\" painter became the first living artist to have a White House exhibit",
+          "answer": "Andrew Wyeth",
+          "isDailyDouble": false,
+          "orderNumber": 5,
+          "correctContestants": [
+            "Jason"
+          ],
+          "incorrectContestants": [
+            "Linda"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jason",
+              "score": 500
+            },
+            {
+              "player": "Linda",
+              "score": -500
+            },
+            {
+              "player": "Ted",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "\"B\" CITIES",
+          "value": 100,
+          "clue": "A monumental arch called the Gateway of India graces this bustling port city",
+          "answer": "Bombay",
+          "isDailyDouble": false,
+          "orderNumber": 6,
+          "correctContestants": [
+            "Linda"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jason",
+              "score": 500
+            },
+            {
+              "player": "Linda",
+              "score": -400
+            },
+            {
+              "player": "Ted",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "\"B\" CITIES",
+          "value": 200,
+          "clue": "The cathedral in this South American planned capital is designed to resemble Jesus' crown of thorns",
+          "answer": "Brasília",
+          "isDailyDouble": false,
+          "orderNumber": 7,
+          "correctContestants": [
+            "Linda"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jason",
+              "score": 500
+            },
+            {
+              "player": "Linda",
+              "score": -200
+            },
+            {
+              "player": "Ted",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "\"B\" CITIES",
+          "value": 300,
+          "clue": "Stratford-upon-Avon is about 22 miles south of this city, Britain's second largest",
+          "answer": "Birmingham",
+          "isDailyDouble": false,
+          "orderNumber": 8,
+          "correctContestants": [
+            "Linda"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jason",
+              "score": 500
+            },
+            {
+              "player": "Linda",
+              "score": 100
+            },
+            {
+              "player": "Ted",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "\"B\" CITIES",
+          "value": 400,
+          "clue": "Vlad the Impaler, aka Dracula, is buried at Snagov Monastery on an island near this capital city",
+          "answer": "Bucharest",
+          "isDailyDouble": false,
+          "orderNumber": 9,
+          "correctContestants": [
+            "Jason"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jason",
+              "score": 900
+            },
+            {
+              "player": "Linda",
+              "score": 100
+            },
+            {
+              "player": "Ted",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "\"B\" CITIES",
+          "value": 500,
+          "clue": "Lone Pine Koala Sanctuary, one of Queensland's most popular attractions, is 7 miles outside this city",
+          "answer": "Brisbane",
+          "isDailyDouble": false,
+          "orderNumber": 10,
+          "correctContestants": [
+            "Linda"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jason",
+              "score": 900
+            },
+            {
+              "player": "Linda",
+              "score": 600
+            },
+            {
+              "player": "Ted",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "10-LETTER WORDS",
+          "value": 100,
+          "clue": "Overhead strings attached to jointed limbs allow this type of puppet to move",
+          "answer": "marionette",
+          "isDailyDouble": false,
+          "orderNumber": 11,
+          "correctContestants": [
+            "Linda"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jason",
+              "score": 900
+            },
+            {
+              "player": "Linda",
+              "score": 700
+            },
+            {
+              "player": "Ted",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "10-LETTER WORDS",
+          "value": 200,
+          "clue": "A Mormon hall, or the portable sanctuary in which the Ark of the Covenant was carried",
+          "answer": "tabernacle",
+          "isDailyDouble": false,
+          "orderNumber": 12,
+          "correctContestants": [
+            "Linda"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jason",
+              "score": 900
+            },
+            {
+              "player": "Linda",
+              "score": 900
+            },
+            {
+              "player": "Ted",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "10-LETTER WORDS",
+          "value": 300,
+          "clue": "From the Latin for \"gum\", it's an inflammation of the gums characterized by swelling & redness",
+          "answer": "gingivitis",
+          "isDailyDouble": false,
+          "orderNumber": 13,
+          "correctContestants": [
+            "Jason"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jason",
+              "score": 1200
+            },
+            {
+              "player": "Linda",
+              "score": 900
+            },
+            {
+              "player": "Ted",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "10-LETTER WORDS",
+          "value": 400,
+          "clue": "Using this delaying tactic, Sen. Wayne Morse spoke for 22 1/2 hours against the Tidelands Bill in 1953",
+          "answer": "filibuster",
+          "isDailyDouble": false,
+          "orderNumber": 14,
+          "correctContestants": [
+            "Linda"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jason",
+              "score": 1200
+            },
+            {
+              "player": "Linda",
+              "score": 1300
+            },
+            {
+              "player": "Ted",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "10-LETTER WORDS",
+          "value": 500,
+          "clue": "In this ancient board game, each player has 2 dice, a dice cup & 15 counters",
+          "answer": "backgammon",
+          "isDailyDouble": false,
+          "orderNumber": 15,
+          "correctContestants": [
+            "Jason"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jason",
+              "score": 1700
+            },
+            {
+              "player": "Linda",
+              "score": 1300
+            },
+            {
+              "player": "Ted",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "THE 1995 GRAMMYS",
+          "value": 100,
+          "clue": "Coolio's \"Gangsta's Paradise\" won for Solo Performance in this category",
+          "answer": "Rap",
+          "isDailyDouble": false,
+          "orderNumber": 16,
+          "correctContestants": [
+            "Jason"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jason",
+              "score": 1800
+            },
+            {
+              "player": "Linda",
+              "score": 1300
+            },
+            {
+              "player": "Ted",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "THE 1995 GRAMMYS",
+          "value": 200,
+          "clue": "Ellen DeGeneres said it wasn't \"your father's Grammys\", but this father of Nancy still won with \"Duets II\"",
+          "answer": "Frank Sinatra",
+          "isDailyDouble": false,
+          "orderNumber": 17,
+          "correctContestants": [
+            "Jason"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jason",
+              "score": 2000
+            },
+            {
+              "player": "Linda",
+              "score": 1300
+            },
+            {
+              "player": "Ted",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "THE 1995 GRAMMYS",
+          "value": 300,
+          "clue": "Canadians won big; Alanis Morissette won Best Rock Album & she won Best Country Album",
+          "answer": "Shania Twain",
+          "isDailyDouble": false,
+          "orderNumber": 18,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Jason",
+              "score": 2000
+            },
+            {
+              "player": "Linda",
+              "score": 1300
+            },
+            {
+              "player": "Ted",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "THE 1995 GRAMMYS",
+          "value": 400,
+          "clue": "His awards for R&B Song & Male Vocal for \"For Your Love\" were called \"Predictable\"",
+          "answer": "Stevie Wonder",
+          "isDailyDouble": false,
+          "orderNumber": 19,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Jason",
+              "score": 2000
+            },
+            {
+              "player": "Linda",
+              "score": 1300
+            },
+            {
+              "player": "Ted",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "THE 1995 GRAMMYS",
+          "value": 500,
+          "clue": "This group that had the No. 1 hit \"La Bamba\" in 1987 won for Best Pop Instrumental with \"Mariachi Suite\"",
+          "answer": "Los Lobos",
+          "isDailyDouble": false,
+          "orderNumber": 20,
+          "correctContestants": [
+            "Ted"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jason",
+              "score": 2000
+            },
+            {
+              "player": "Linda",
+              "score": 1300
+            },
+            {
+              "player": "Ted",
+              "score": 500
+            }
+          ]
+        },
+        {
+          "category": "SCIENCE",
+          "value": 500,
+          "clue": "The name of this element is derived from tellus, Latin for \"earth\"",
+          "answer": "tellurium",
+          "isDailyDouble": false,
+          "orderNumber": 21,
+          "correctContestants": [
+            "Ted"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jason",
+              "score": 2000
+            },
+            {
+              "player": "Linda",
+              "score": 1300
+            },
+            {
+              "player": "Ted",
+              "score": 1000
+            }
+          ]
+        },
+        {
+          "category": "SCIENCE",
+          "value": 400,
+          "clue": "About twice a year, when the moon passes through the earth's shadow, one of these events occurs",
+          "answer": "lunar eclipse",
+          "isDailyDouble": false,
+          "orderNumber": 22,
+          "correctContestants": [
+            "Linda"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jason",
+              "score": 2000
+            },
+            {
+              "player": "Linda",
+              "score": 1700
+            },
+            {
+              "player": "Ted",
+              "score": 1000
+            }
+          ]
+        },
+        {
+          "category": "SCIENCE",
+          "value": 100,
+          "clue": "A thermal spring that intermittently ejects steam & boiling water is called this",
+          "answer": "geyser",
+          "isDailyDouble": false,
+          "orderNumber": 23,
+          "correctContestants": [
+            "Jason"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jason",
+              "score": 2100
+            },
+            {
+              "player": "Linda",
+              "score": 1700
+            },
+            {
+              "player": "Ted",
+              "score": 1000
+            }
+          ]
+        },
+        {
+          "category": "SCIENCE",
+          "value": 200,
+          "clue": "The earliest evidence of these made from stone by early man dates to about 2.5 million years ago",
+          "answer": "tools",
+          "isDailyDouble": false,
+          "orderNumber": 24,
+          "correctContestants": [
+            "Jason"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jason",
+              "score": 2300
+            },
+            {
+              "player": "Linda",
+              "score": 1700
+            },
+            {
+              "player": "Ted",
+              "score": 1000
+            }
+          ]
+        },
+        {
+          "category": "SCIENCE",
+          "value": 300,
+          "clue": "A simple one of these consists of a small mass swinging at the end of a very light string",
+          "answer": "pendulum",
+          "isDailyDouble": false,
+          "orderNumber": 25,
+          "correctContestants": [
+            "Jason"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jason",
+              "score": 2600
+            },
+            {
+              "player": "Linda",
+              "score": 1700
+            },
+            {
+              "player": "Ted",
+              "score": 1000
+            }
+          ]
+        },
+        {
+          "category": "THE NEW $100 BILL",
+          "value": 100,
+          "clue": "The new bill is the first major redesign of U.S. currency since this year of the stock market crash",
+          "answer": "1929",
+          "isDailyDouble": false,
+          "orderNumber": 26,
+          "correctContestants": [
+            "Jason"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jason",
+              "score": 2700
+            },
+            {
+              "player": "Linda",
+              "score": 1700
+            },
+            {
+              "player": "Ted",
+              "score": 1000
+            }
+          ]
+        },
+        {
+          "category": "THE NEW $100 BILL",
+          "value": 200,
+          "clue": "The security thread in the new bill will glow red under this type of light",
+          "answer": "ultraviolet",
+          "isDailyDouble": false,
+          "orderNumber": 27,
+          "correctContestants": [
+            "Linda"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jason",
+              "score": 2700
+            },
+            {
+              "player": "Linda",
+              "score": 1900
+            },
+            {
+              "player": "Ted",
+              "score": 1000
+            }
+          ]
+        },
+        {
+          "category": "THE NEW $100 BILL",
+          "value": 300,
+          "clue": "His coat has \"United States of America\" written on it in very, very small print",
+          "answer": "Benjamin Franklin",
+          "isDailyDouble": false,
+          "orderNumber": 28,
+          "correctContestants": [
+            "Ted"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jason",
+              "score": 2700
+            },
+            {
+              "player": "Linda",
+              "score": 1900
+            },
+            {
+              "player": "Ted",
+              "score": 1300
+            }
+          ]
+        },
+        {
+          "category": "THE NEW $100 BILL",
+          "value": 400,
+          "clue": "Like the old bill, the new one has this building on the back",
+          "answer": "Independence Hall",
+          "isDailyDouble": false,
+          "orderNumber": 29,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Linda",
+            "Ted"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Jason",
+              "score": 2700
+            },
+            {
+              "player": "Linda",
+              "score": 1500
+            },
+            {
+              "player": "Ted",
+              "score": 900
+            }
+          ]
+        },
+        {
+          "category": "THE NEW $100 BILL",
+          "value": 500,
+          "clue": "One of these impressions is visible only when you hold the bill up to the light",
+          "answer": "watermark",
+          "isDailyDouble": false,
+          "orderNumber": 30,
+          "correctContestants": [
+            "Ted"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jason",
+              "score": 2700
+            },
+            {
+              "player": "Linda",
+              "score": 1500
+            },
+            {
+              "player": "Ted",
+              "score": 1400
+            }
+          ]
+        }
+      ],
+      "firstBreakScores": [
+        {
+          "player": "Jason",
+          "score": 1200
+        },
+        {
+          "player": "Linda",
+          "score": 1300
+        },
+        {
+          "player": "Ted",
+          "score": 0
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "Jason",
+          "score": 2700
+        },
+        {
+          "player": "Linda",
+          "score": 1500
+        },
+        {
+          "player": "Ted",
+          "score": 1400
+        }
+      ]
+    },
+    "doubleJeopardy": {
+      "categories": [
+        "BOB DOLE",
+        "POETS & POETRY",
+        "AROUND THE U.S.A.",
+        "COOKING TERMS",
+        "WARS & REVOLUTIONS",
+        "HOLLYWOOD HODGEPODGE"
+      ],
+      "clues": [
+        {
+          "category": "WARS & REVOLUTIONS",
+          "value": 200,
+          "clue": "When Genghis Khan sacked this Chinese capital in 1215, it burned for a month",
+          "answer": "Beijing",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jason",
+              "score": 2700
+            },
+            {
+              "player": "Linda",
+              "score": 1700
+            },
+            {
+              "player": "Ted",
+              "score": 1400
+            }
+          ]
+        },
+        {
+          "category": "HOLLYWOOD HODGEPODGE",
+          "value": 200,
+          "clue": "This hat-shaped restaurant was built in 1926 by Gloria Swanson's husband",
+          "answer": "Brown Derby",
+          "isDailyDouble": false,
+          "orderNumber": 2,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jason",
+              "score": 2700
+            },
+            {
+              "player": "Linda",
+              "score": 1900
+            },
+            {
+              "player": "Ted",
+              "score": 1400
+            }
+          ]
+        },
+        {
+          "category": "HOLLYWOOD HODGEPODGE",
+          "value": 400,
+          "clue": "After filming \"Duck Soup\", this Marx Brother left the act to become an agent",
+          "answer": "Zeppo",
+          "isDailyDouble": false,
+          "orderNumber": 3,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jason",
+              "score": 2700
+            },
+            {
+              "player": "Linda",
+              "score": 2300
+            },
+            {
+              "player": "Ted",
+              "score": 1400
+            }
+          ]
+        },
+        {
+          "category": "HOLLYWOOD HODGEPODGE",
+          "value": 600,
+          "clue": "Dorothy Lamour's sarong was one of the famous creations by this female costume designer",
+          "answer": "Edith Head",
+          "isDailyDouble": false,
+          "orderNumber": 4,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jason",
+              "score": 2700
+            },
+            {
+              "player": "Linda",
+              "score": 2900
+            },
+            {
+              "player": "Ted",
+              "score": 1400
+            }
+          ]
+        },
+        {
+          "category": "HOLLYWOOD HODGEPODGE",
+          "value": 800,
+          "clue": "In the 1940s this author ventured into a \"Brave New World\" with the screenplay for \"Jane Eyre\"",
+          "answer": "Huxley",
+          "isDailyDouble": false,
+          "orderNumber": 5,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jason",
+              "score": 2700
+            },
+            {
+              "player": "Linda",
+              "score": 2900
+            },
+            {
+              "player": "Ted",
+              "score": 2200
+            }
+          ]
+        },
+        {
+          "category": "WARS & REVOLUTIONS",
+          "value": 400,
+          "clue": "He led the South American revolution that freed New Granada from Spanish control",
+          "answer": "Simón Bolivar",
+          "isDailyDouble": false,
+          "orderNumber": 6,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jason",
+              "score": 2700
+            },
+            {
+              "player": "Linda",
+              "score": 3300
+            },
+            {
+              "player": "Ted",
+              "score": 2200
+            }
+          ]
+        },
+        {
+          "category": "HOLLYWOOD HODGEPODGE",
+          "value": 1000,
+          "clue": "In 1995 this late silent comedian's last surviving wife, Lita Grey, passed away at 87",
+          "answer": "Charlie Chaplin",
+          "isDailyDouble": false,
+          "orderNumber": 7,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jason",
+              "score": 3700
+            },
+            {
+              "player": "Linda",
+              "score": 3300
+            },
+            {
+              "player": "Ted",
+              "score": 1200
+            }
+          ]
+        },
+        {
+          "category": "WARS & REVOLUTIONS",
+          "value": 600,
+          "clue": "These wars began in 1455 at St. Albans & ended in 1485 at Bosworth Field",
+          "answer": "Wars of the Roses",
+          "isDailyDouble": false,
+          "orderNumber": 8,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jason",
+              "score": 4300
+            },
+            {
+              "player": "Linda",
+              "score": 2700
+            },
+            {
+              "player": "Ted",
+              "score": 1200
+            }
+          ]
+        },
+        {
+          "category": "WARS & REVOLUTIONS",
+          "value": 1300,
+          "clue": "In 1838 this Mexican general came out of retirement for the Pastry War, where he lost a leg",
+          "answer": "Santa Anna",
+          "isDailyDouble": true,
+          "orderNumber": 9,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jason",
+              "score": 5600
+            },
+            {
+              "player": "Linda",
+              "score": 2700
+            },
+            {
+              "player": "Ted",
+              "score": 1200
+            }
+          ]
+        },
+        {
+          "category": "WARS & REVOLUTIONS",
+          "value": 1000,
+          "clue": "In the climactic battle of this war, Wolfe & Montcalm, the leaders of both sides, were killed",
+          "answer": "French & Indian War",
+          "isDailyDouble": false,
+          "orderNumber": 10,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jason",
+              "score": 5600
+            },
+            {
+              "player": "Linda",
+              "score": 3700
+            },
+            {
+              "player": "Ted",
+              "score": 1200
+            }
+          ]
+        },
+        {
+          "category": "COOKING TERMS",
+          "value": 200,
+          "clue": "It's aging a salami, not healing it",
+          "answer": "curing",
+          "isDailyDouble": false,
+          "orderNumber": 11,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jason",
+              "score": 5800
+            },
+            {
+              "player": "Linda",
+              "score": 3700
+            },
+            {
+              "player": "Ted",
+              "score": 1200
+            }
+          ]
+        },
+        {
+          "category": "COOKING TERMS",
+          "value": 400,
+          "clue": "Eaten with Boston baked beans, Boston brown bread is a rye flavored with this syrup",
+          "answer": "molasses",
+          "isDailyDouble": false,
+          "orderNumber": 12,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jason",
+              "score": 5400
+            },
+            {
+              "player": "Linda",
+              "score": 4100
+            },
+            {
+              "player": "Ted",
+              "score": 1200
+            }
+          ]
+        },
+        {
+          "category": "COOKING TERMS",
+          "value": 600,
+          "clue": "Self-rising flour is a combination of flour, salt & this ingredient",
+          "answer": "baking powder",
+          "isDailyDouble": false,
+          "orderNumber": 13,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Linda"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Jason",
+              "score": 4800
+            },
+            {
+              "player": "Linda",
+              "score": 3500
+            },
+            {
+              "player": "Ted",
+              "score": 1200
+            }
+          ]
+        },
+        {
+          "category": "COOKING TERMS",
+          "value": 800,
+          "clue": "Term for the series of short indentations around the edge of a pie crust",
+          "answer": "fluting or crimping",
+          "isDailyDouble": false,
+          "orderNumber": 14,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Jason",
+              "score": 4800
+            },
+            {
+              "player": "Linda",
+              "score": 3500
+            },
+            {
+              "player": "Ted",
+              "score": 1200
+            }
+          ]
+        },
+        {
+          "category": "COOKING TERMS",
+          "value": 1000,
+          "clue": "Beaten egg whites lighten this sweet dessert, often chocolate, whose name is French for \"foam\"",
+          "answer": "mousse",
+          "isDailyDouble": false,
+          "orderNumber": 15,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jason",
+              "score": 5800
+            },
+            {
+              "player": "Linda",
+              "score": 3500
+            },
+            {
+              "player": "Ted",
+              "score": 1200
+            }
+          ]
+        },
+        {
+          "category": "AROUND THE U.S.A.",
+          "value": 200,
+          "clue": "Waco in this state is so named because it was built on the site of a former Hueco Indian village",
+          "answer": "Texas",
+          "isDailyDouble": false,
+          "orderNumber": 16,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jason",
+              "score": 5800
+            },
+            {
+              "player": "Linda",
+              "score": 3500
+            },
+            {
+              "player": "Ted",
+              "score": 1400
+            }
+          ]
+        },
+        {
+          "category": "AROUND THE U.S.A.",
+          "value": 1000,
+          "clue": "Event seen here; more than 75 million people have seen it since it debuted in 1972:",
+          "answer": "the Main Street Electrical Parade",
+          "isDailyDouble": true,
+          "orderNumber": 17,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jason",
+              "score": 5800
+            },
+            {
+              "player": "Linda",
+              "score": 3500
+            },
+            {
+              "player": "Ted",
+              "score": 2400
+            }
+          ]
+        },
+        {
+          "category": "AROUND THE U.S.A.",
+          "value": 600,
+          "clue": "A tour of her home in Tuscumbia, Alabama includes the pump where she learned her first word",
+          "answer": "Helen Keller",
+          "isDailyDouble": false,
+          "orderNumber": 18,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jason",
+              "score": 6400
+            },
+            {
+              "player": "Linda",
+              "score": 3500
+            },
+            {
+              "player": "Ted",
+              "score": 2400
+            }
+          ]
+        },
+        {
+          "category": "AROUND THE U.S.A.",
+          "value": 800,
+          "clue": "There's a 50' sculpture called TOTH—Tower on the Hill—in this South Dakota city; think \"fast\"",
+          "answer": "Rapid City",
+          "isDailyDouble": false,
+          "orderNumber": 19,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jason",
+              "score": 6400
+            },
+            {
+              "player": "Linda",
+              "score": 3500
+            },
+            {
+              "player": "Ted",
+              "score": 3200
+            }
+          ]
+        },
+        {
+          "category": "AROUND THE U.S.A.",
+          "value": 1000,
+          "clue": "Popular annual events in this city include the Mummers Parade & the Pulaski Day Parade",
+          "answer": "Philadelphia",
+          "isDailyDouble": false,
+          "orderNumber": 20,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jason",
+              "score": 6400
+            },
+            {
+              "player": "Linda",
+              "score": 4500
+            },
+            {
+              "player": "Ted",
+              "score": 3200
+            }
+          ]
+        },
+        {
+          "category": "POETS & POETRY",
+          "value": 200,
+          "clue": "He followed up \"Paradise Lost\" with \"Paradise Regained\"",
+          "answer": "Milton",
+          "isDailyDouble": false,
+          "orderNumber": 21,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jason",
+              "score": 6600
+            },
+            {
+              "player": "Linda",
+              "score": 4500
+            },
+            {
+              "player": "Ted",
+              "score": 3200
+            }
+          ]
+        },
+        {
+          "category": "POETS & POETRY",
+          "value": 400,
+          "clue": "The literati in Edinburgh called him the \"Ploughman Poet\"",
+          "answer": "Robert Burns",
+          "isDailyDouble": false,
+          "orderNumber": 22,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jason",
+              "score": 7000
+            },
+            {
+              "player": "Linda",
+              "score": 4500
+            },
+            {
+              "player": "Ted",
+              "score": 3200
+            }
+          ]
+        },
+        {
+          "category": "POETS & POETRY",
+          "value": 600,
+          "clue": "About these Poe wrote, \"Through the balmy air of night how they ring out their delight\"",
+          "answer": "the bells",
+          "isDailyDouble": false,
+          "orderNumber": 23,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Jason",
+              "score": 7000
+            },
+            {
+              "player": "Linda",
+              "score": 4500
+            },
+            {
+              "player": "Ted",
+              "score": 3200
+            }
+          ]
+        },
+        {
+          "category": "POETS & POETRY",
+          "value": 800,
+          "clue": "It's the use of a word that imitates what is denotes, such as buzz or cuckoo",
+          "answer": "onomatopoeia",
+          "isDailyDouble": false,
+          "orderNumber": 24,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jason",
+              "score": 7800
+            },
+            {
+              "player": "Linda",
+              "score": 4500
+            },
+            {
+              "player": "Ted",
+              "score": 3200
+            }
+          ]
+        },
+        {
+          "category": "POETS & POETRY",
+          "value": 1000,
+          "clue": "In his prose \"Devotions\", this poet wrote, \"No man is an island, entire of itself\"",
+          "answer": "John Donne",
+          "isDailyDouble": false,
+          "orderNumber": 25,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jason",
+              "score": 7800
+            },
+            {
+              "player": "Linda",
+              "score": 5500
+            },
+            {
+              "player": "Ted",
+              "score": 3200
+            }
+          ]
+        },
+        {
+          "category": "BOB DOLE",
+          "value": 200,
+          "clue": "In the 1996 primary campaign, Dole called the views of this GOP rival & cable TV commentator \"extreme\"",
+          "answer": "Pat Buchanan",
+          "isDailyDouble": false,
+          "orderNumber": 26,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jason",
+              "score": 8000
+            },
+            {
+              "player": "Linda",
+              "score": 5500
+            },
+            {
+              "player": "Ted",
+              "score": 3200
+            }
+          ]
+        },
+        {
+          "category": "BOB DOLE",
+          "value": 400,
+          "clue": "Dole was first elected to this Senate post in November 1984, succeeding Howard Baker",
+          "answer": "Senate Majority Leader",
+          "isDailyDouble": false,
+          "orderNumber": 27,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jason",
+              "score": 8000
+            },
+            {
+              "player": "Linda",
+              "score": 5500
+            },
+            {
+              "player": "Ted",
+              "score": 3600
+            }
+          ]
+        },
+        {
+          "category": "BOB DOLE",
+          "value": 600,
+          "clue": "Ronald Reagan's support helped get Dole the No. 2 slot on this man's 1976 ticket",
+          "answer": "Gerald Ford",
+          "isDailyDouble": false,
+          "orderNumber": 28,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jason",
+              "score": 8600
+            },
+            {
+              "player": "Linda",
+              "score": 5500
+            },
+            {
+              "player": "Ted",
+              "score": 3600
+            }
+          ]
+        },
+        {
+          "category": "BOB DOLE",
+          "value": 800,
+          "clue": "Dole received his near-fatal war wounds while leading an assault in this country during WWII",
+          "answer": "Italy",
+          "isDailyDouble": false,
+          "orderNumber": 29,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jason",
+              "score": 9400
+            },
+            {
+              "player": "Linda",
+              "score": 5500
+            },
+            {
+              "player": "Ted",
+              "score": 3600
+            }
+          ]
+        },
+        {
+          "category": "BOB DOLE",
+          "value": 1000,
+          "clue": "Dole was born in this Kansas town, a county seat, in 1923",
+          "answer": "Russell",
+          "isDailyDouble": false,
+          "orderNumber": 30,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jason",
+              "score": 9400
+            },
+            {
+              "player": "Linda",
+              "score": 6500
+            },
+            {
+              "player": "Ted",
+              "score": 3600
+            }
+          ]
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "Jason",
+          "score": 9400
+        },
+        {
+          "player": "Linda",
+          "score": 6500
+        },
+        {
+          "player": "Ted",
+          "score": 3600
+        }
+      ]
+    },
+    "finalJeopardy": {
+      "category": "STATESMEN",
+      "clue": "His \"The Menace of Darwinism\" & \"The Bible and Its Enemies\" were published in the 1920s",
+      "answer": "William Jennings Bryan",
+      "responses": [
+        {
+          "contestant": "Ted",
+          "response": "Who was Darrow",
+          "isCorrect": false,
+          "isIncorrect": true,
+          "value": 3000,
+          "finalScore": 600
+        },
+        {
+          "contestant": "Linda",
+          "response": "Who was Winston Churchill?",
+          "isCorrect": false,
+          "isIncorrect": true,
+          "value": 2901,
+          "finalScore": 3599
+        },
+        {
+          "contestant": "Jason",
+          "response": "Who is Bryan",
+          "isCorrect": true,
+          "isIncorrect": false,
+          "value": 3600,
+          "finalScore": 13000
+        }
+      ]
+    }
+  },
+  "finalScores": [
+    {
+      "player": "Jason",
+      "score": "$13,000"
+    },
+    {
+      "player": "Linda",
+      "score": "$3,599"
+    },
+    {
+      "player": "Ted",
+      "score": "$600"
+    }
+  ],
+  "coryatScores": [
+    {
+      "player": "Jason",
+      "score": 9500
+    },
+    {
+      "player": "Linda",
+      "score": 6500
+    },
+    {
+      "player": "Ted",
+      "score": 3000
+    }
+  ]
+}

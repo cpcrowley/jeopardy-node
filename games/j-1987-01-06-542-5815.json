@@ -1,0 +1,1696 @@
+{
+  "gameId": 5815,
+  "showNumber": "542",
+  "title": "Show #542 - Tuesday, January 6, 1987",
+  "date": "1987-01-06",
+  "comments": "Keith Bell game 3.",
+  "contestants": [
+    "Keith",
+    "Dale",
+    "David"
+  ],
+  "rounds": {
+    "jeopardy": {
+      "categories": [
+        "SPORTS",
+        "SOAP OPERAS",
+        "4-LETTER WORDS",
+        "EUROPE",
+        "GIANTS",
+        "SUDDEN DEATH"
+      ],
+      "clues": [
+        {
+          "category": "SUDDEN DEATH",
+          "value": 100,
+          "clue": "Leonard Warren literally died on stage while performing at this New York opera house",
+          "answer": "The Metropolitan Opera House",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [
+            "Dale"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Keith",
+              "score": 0
+            },
+            {
+              "player": "Dale",
+              "score": 100
+            },
+            {
+              "player": "David",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "SPORTS",
+          "value": 100,
+          "clue": "1st called \"kitten ball,\" it was invented in 1887 as an indoor derivative of baseball",
+          "answer": "softball",
+          "isDailyDouble": false,
+          "orderNumber": 2,
+          "correctContestants": [
+            "Keith"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Keith",
+              "score": 100
+            },
+            {
+              "player": "Dale",
+              "score": 100
+            },
+            {
+              "player": "David",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "EUROPE",
+          "value": 100,
+          "clue": "A Roman amphitheater was recently unearthed in this country's city of Budapest",
+          "answer": "Hungary",
+          "isDailyDouble": false,
+          "orderNumber": 3,
+          "correctContestants": [
+            "Keith"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Keith",
+              "score": 200
+            },
+            {
+              "player": "Dale",
+              "score": 100
+            },
+            {
+              "player": "David",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "EUROPE",
+          "value": 200,
+          "clue": "In Finland, all proceeds from gambling are donated to this",
+          "answer": "charity",
+          "isDailyDouble": false,
+          "orderNumber": 4,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Keith",
+              "score": 200
+            },
+            {
+              "player": "Dale",
+              "score": 100
+            },
+            {
+              "player": "David",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "EUROPE",
+          "value": 300,
+          "clue": "Only Andorra & this adjacent country let U.S. citizens stay for more than 3 months with only a passport",
+          "answer": "Spain",
+          "isDailyDouble": false,
+          "orderNumber": 5,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Keith"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Keith",
+              "score": -100
+            },
+            {
+              "player": "Dale",
+              "score": 100
+            },
+            {
+              "player": "David",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "EUROPE",
+          "value": 500,
+          "clue": "Alphabetically, this country is the 1st in Europe",
+          "answer": "Albania",
+          "isDailyDouble": true,
+          "orderNumber": 6,
+          "correctContestants": [
+            "Keith"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Keith",
+              "score": 400
+            },
+            {
+              "player": "Dale",
+              "score": 100
+            },
+            {
+              "player": "David",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "EUROPE",
+          "value": 500,
+          "clue": "This country has Europe's largest coal, iron ore, & petroleum deposits",
+          "answer": "the U.S.S.R. (the Soviet Union)",
+          "isDailyDouble": false,
+          "orderNumber": 7,
+          "correctContestants": [
+            "David"
+          ],
+          "incorrectContestants": [
+            "Keith"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Keith",
+              "score": -100
+            },
+            {
+              "player": "Dale",
+              "score": 100
+            },
+            {
+              "player": "David",
+              "score": 500
+            }
+          ]
+        },
+        {
+          "category": "SPORTS",
+          "value": 200,
+          "clue": "Though swords are ancient weapons, this sport didn't develop until the 15th century",
+          "answer": "fencing",
+          "isDailyDouble": false,
+          "orderNumber": 8,
+          "correctContestants": [
+            "Keith"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Keith",
+              "score": 100
+            },
+            {
+              "player": "Dale",
+              "score": 100
+            },
+            {
+              "player": "David",
+              "score": 500
+            }
+          ]
+        },
+        {
+          "category": "SOAP OPERAS",
+          "value": 100,
+          "clue": "Abby on \"Knots Landing\", she got her 1st soap experience on \"Love is a Many Splendored Thing\"",
+          "answer": "Donna Mills",
+          "isDailyDouble": false,
+          "orderNumber": 9,
+          "correctContestants": [
+            "Keith"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Keith",
+              "score": 200
+            },
+            {
+              "player": "Dale",
+              "score": 100
+            },
+            {
+              "player": "David",
+              "score": 500
+            }
+          ]
+        },
+        {
+          "category": "GIANTS",
+          "value": 100,
+          "clue": "Big Philistine who was a head shorter after getting stoned by David",
+          "answer": "Goliath",
+          "isDailyDouble": false,
+          "orderNumber": 10,
+          "correctContestants": [
+            "David"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Keith",
+              "score": 200
+            },
+            {
+              "player": "Dale",
+              "score": 100
+            },
+            {
+              "player": "David",
+              "score": 600
+            }
+          ]
+        },
+        {
+          "category": "SPORTS",
+          "value": 300,
+          "clue": "Length of a regulation period in hockey",
+          "answer": "20 minutes",
+          "isDailyDouble": false,
+          "orderNumber": 11,
+          "correctContestants": [
+            "David"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Keith",
+              "score": 200
+            },
+            {
+              "player": "Dale",
+              "score": 100
+            },
+            {
+              "player": "David",
+              "score": 900
+            }
+          ]
+        },
+        {
+          "category": "SPORTS",
+          "value": 400,
+          "clue": "German for \"shot\", in skiing it's a straight shot down the mountain",
+          "answer": "schuss",
+          "isDailyDouble": false,
+          "orderNumber": 12,
+          "correctContestants": [
+            "David"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Keith",
+              "score": 200
+            },
+            {
+              "player": "Dale",
+              "score": 100
+            },
+            {
+              "player": "David",
+              "score": 1300
+            }
+          ]
+        },
+        {
+          "category": "SPORTS",
+          "value": 500,
+          "clue": "The 1956 \"Summer\" Olympics were held in November & December in this city",
+          "answer": "Melbourne",
+          "isDailyDouble": false,
+          "orderNumber": 13,
+          "correctContestants": [
+            "David"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Keith",
+              "score": 200
+            },
+            {
+              "player": "Dale",
+              "score": 100
+            },
+            {
+              "player": "David",
+              "score": 1800
+            }
+          ]
+        },
+        {
+          "category": "4-LETTER WORDS",
+          "value": 100,
+          "clue": "A John LeCarre spy \"Came in\" from it",
+          "answer": "the Cold",
+          "isDailyDouble": false,
+          "orderNumber": 14,
+          "correctContestants": [
+            "Dale"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Keith",
+              "score": 200
+            },
+            {
+              "player": "Dale",
+              "score": 200
+            },
+            {
+              "player": "David",
+              "score": 1800
+            }
+          ]
+        },
+        {
+          "category": "4-LETTER WORDS",
+          "value": 200,
+          "clue": "Au",
+          "answer": "gold",
+          "isDailyDouble": false,
+          "orderNumber": 15,
+          "correctContestants": [
+            "Dale"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Keith",
+              "score": 200
+            },
+            {
+              "player": "Dale",
+              "score": 400
+            },
+            {
+              "player": "David",
+              "score": 1800
+            }
+          ]
+        },
+        {
+          "category": "4-LETTER WORDS",
+          "value": 300,
+          "clue": "Fuzzy substance in which Fleming found penicillin",
+          "answer": "mold",
+          "isDailyDouble": false,
+          "orderNumber": 16,
+          "correctContestants": [
+            "Keith"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Keith",
+              "score": 500
+            },
+            {
+              "player": "Dale",
+              "score": 400
+            },
+            {
+              "player": "David",
+              "score": 1800
+            }
+          ]
+        },
+        {
+          "category": "GIANTS",
+          "value": 200,
+          "clue": "Late '60s TV series about earthlings stranded on a planet of pituitary cases",
+          "answer": "Land of the Giants",
+          "isDailyDouble": false,
+          "orderNumber": 17,
+          "correctContestants": [
+            "David"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Keith",
+              "score": 500
+            },
+            {
+              "player": "Dale",
+              "score": 400
+            },
+            {
+              "player": "David",
+              "score": 2000
+            }
+          ]
+        },
+        {
+          "category": "GIANTS",
+          "value": 300,
+          "clue": "This actor was a bouncer, giving drunks the boot with a size 18EEE, before he was \"Jaws\" in Bond films",
+          "answer": "Richard Kiel",
+          "isDailyDouble": false,
+          "orderNumber": 18,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Keith",
+              "score": 500
+            },
+            {
+              "player": "Dale",
+              "score": 400
+            },
+            {
+              "player": "David",
+              "score": 2000
+            }
+          ]
+        },
+        {
+          "category": "4-LETTER WORDS",
+          "value": 400,
+          "clue": "In printing, type with thickened lines to give a very black look is called this",
+          "answer": "bold",
+          "isDailyDouble": false,
+          "orderNumber": 19,
+          "correctContestants": [
+            "David"
+          ],
+          "incorrectContestants": [
+            "Keith"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Keith",
+              "score": 100
+            },
+            {
+              "player": "Dale",
+              "score": 400
+            },
+            {
+              "player": "David",
+              "score": 2400
+            }
+          ]
+        },
+        {
+          "category": "4-LETTER WORDS",
+          "value": 500,
+          "clue": "A collection of tales by Nathaniel Hawthorne were \"Twice\" this",
+          "answer": "Told",
+          "isDailyDouble": false,
+          "orderNumber": 20,
+          "correctContestants": [
+            "Keith"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Keith",
+              "score": 600
+            },
+            {
+              "player": "Dale",
+              "score": 400
+            },
+            {
+              "player": "David",
+              "score": 2400
+            }
+          ]
+        },
+        {
+          "category": "GIANTS",
+          "value": 500,
+          "clue": "\"Stretch\", the latest Giant inductee in Baseball's Hall of Fame",
+          "answer": "Willie McCovey",
+          "isDailyDouble": false,
+          "orderNumber": 21,
+          "correctContestants": [
+            "David"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Keith",
+              "score": 600
+            },
+            {
+              "player": "Dale",
+              "score": 400
+            },
+            {
+              "player": "David",
+              "score": 2900
+            }
+          ]
+        },
+        {
+          "category": "GIANTS",
+          "value": 400,
+          "clue": "What the Jets were called before Namath, of the Giants who ruled before Zeus",
+          "answer": "the Titans",
+          "isDailyDouble": false,
+          "orderNumber": 22,
+          "correctContestants": [
+            "David"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Keith",
+              "score": 600
+            },
+            {
+              "player": "Dale",
+              "score": 400
+            },
+            {
+              "player": "David",
+              "score": 3300
+            }
+          ]
+        },
+        {
+          "category": "SUDDEN DEATH",
+          "value": 200,
+          "clue": "Occupation of Alexandra Mosca, who \"undertook\" a Playboy pictorial in the April 1986 issue",
+          "answer": "a mortician",
+          "isDailyDouble": false,
+          "orderNumber": 23,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Keith",
+              "score": 600
+            },
+            {
+              "player": "Dale",
+              "score": 400
+            },
+            {
+              "player": "David",
+              "score": 3300
+            }
+          ]
+        },
+        {
+          "category": "SUDDEN DEATH",
+          "value": 300,
+          "clue": "K. Yamashiro, commander of destroyer which sank this boat & gave JFK back problems, died Jan. 25, 1986",
+          "answer": "PT-109",
+          "isDailyDouble": false,
+          "orderNumber": 24,
+          "correctContestants": [
+            "David"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Keith",
+              "score": 600
+            },
+            {
+              "player": "Dale",
+              "score": 400
+            },
+            {
+              "player": "David",
+              "score": 3600
+            }
+          ]
+        },
+        {
+          "category": "SUDDEN DEATH",
+          "value": 400,
+          "clue": "This is the only office in the U.S. Postal Service which can open your mail",
+          "answer": "a Dead Letter Office",
+          "isDailyDouble": false,
+          "orderNumber": 25,
+          "correctContestants": [
+            "David"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Keith",
+              "score": 600
+            },
+            {
+              "player": "Dale",
+              "score": 400
+            },
+            {
+              "player": "David",
+              "score": 4000
+            }
+          ]
+        },
+        {
+          "category": "SUDDEN DEATH",
+          "value": 500,
+          "clue": "Parodying New Hampshire's, an entry in this state's license plate contest was \"Eat Cheese or Die\"",
+          "answer": "Wisconsin",
+          "isDailyDouble": false,
+          "orderNumber": 26,
+          "correctContestants": [
+            "Dale"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Keith",
+              "score": 600
+            },
+            {
+              "player": "Dale",
+              "score": 900
+            },
+            {
+              "player": "David",
+              "score": 4000
+            }
+          ]
+        },
+        {
+          "category": "SOAP OPERAS",
+          "value": 200,
+          "clue": "An original cat in \"Cats\", F. Hughes now plays police chief A. DeVane on this #1 daytime soap",
+          "answer": "General Hospital",
+          "isDailyDouble": false,
+          "orderNumber": 27,
+          "correctContestants": [
+            "David"
+          ],
+          "incorrectContestants": [
+            "Keith",
+            "Dale"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Keith",
+              "score": 400
+            },
+            {
+              "player": "Dale",
+              "score": 700
+            },
+            {
+              "player": "David",
+              "score": 4200
+            }
+          ]
+        },
+        {
+          "category": "SOAP OPERAS",
+          "value": 300,
+          "clue": "Topping \"Santa Barbara's\" Nov. '84 quake, \"Search for Tomorrow\" leveled its town w/this '86 disaster",
+          "answer": "a flood",
+          "isDailyDouble": false,
+          "orderNumber": 28,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Keith",
+              "score": 400
+            },
+            {
+              "player": "Dale",
+              "score": 700
+            },
+            {
+              "player": "David",
+              "score": 4200
+            }
+          ]
+        },
+        {
+          "category": "SOAP OPERAS",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Keith",
+              "score": 400
+            },
+            {
+              "player": "Dale",
+              "score": 700
+            },
+            {
+              "player": "David",
+              "score": 4200
+            }
+          ]
+        },
+        {
+          "category": "SOAP OPERAS",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Keith",
+              "score": 400
+            },
+            {
+              "player": "Dale",
+              "score": 700
+            },
+            {
+              "player": "David",
+              "score": 4200
+            }
+          ]
+        }
+      ],
+      "firstBreakScores": [
+        {
+          "player": "Keith",
+          "score": 200
+        },
+        {
+          "player": "Dale",
+          "score": 100
+        },
+        {
+          "player": "David",
+          "score": 1300
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "Keith",
+          "score": 400
+        },
+        {
+          "player": "Dale",
+          "score": 700
+        },
+        {
+          "player": "David",
+          "score": 4200
+        }
+      ]
+    },
+    "doubleJeopardy": {
+      "categories": [
+        "THE CIVIL WAR",
+        "INVENTIONS",
+        "ODD TOWNS",
+        "ROCK 'N ROLL",
+        "BIOLOGY",
+        "\"STEIN\"s"
+      ],
+      "clues": [
+        {
+          "category": "ODD TOWNS",
+          "value": 200,
+          "clue": "Until Oct. 1983, crank calls were common in Bryant Pond, ME. since most phones were this kind",
+          "answer": "crank phones",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Keith",
+              "score": 600
+            },
+            {
+              "player": "Dale",
+              "score": 700
+            },
+            {
+              "player": "David",
+              "score": 4200
+            }
+          ]
+        },
+        {
+          "category": "ODD TOWNS",
+          "value": 400,
+          "clue": "As the town's residents will tell you, this small N. England state has only town in world named Henniker",
+          "answer": "New Hampshire",
+          "isDailyDouble": false,
+          "orderNumber": 2,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Keith",
+              "score": 600
+            },
+            {
+              "player": "Dale",
+              "score": 700
+            },
+            {
+              "player": "David",
+              "score": 3800
+            }
+          ]
+        },
+        {
+          "category": "ODD TOWNS",
+          "value": 600,
+          "clue": "A museum in Quitman, Texas is named for this unfortunately named daughter of former Gov. James Hogg",
+          "answer": "Ima",
+          "isDailyDouble": false,
+          "orderNumber": 3,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Keith",
+              "score": 600
+            },
+            {
+              "player": "Dale",
+              "score": 1300
+            },
+            {
+              "player": "David",
+              "score": 3800
+            }
+          ]
+        },
+        {
+          "category": "ODD TOWNS",
+          "value": 800,
+          "clue": "Wall, S. Dakota, is famous for this legendary store with an ice water well & a \"real\" jackalope",
+          "answer": "Wall Drug",
+          "isDailyDouble": false,
+          "orderNumber": 4,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Keith",
+              "score": 600
+            },
+            {
+              "player": "Dale",
+              "score": 2100
+            },
+            {
+              "player": "David",
+              "score": 3800
+            }
+          ]
+        },
+        {
+          "category": "ODD TOWNS",
+          "value": 1000,
+          "clue": "Founded July 12, 1887, Mound Bayou, Miss. is oldest city in U.S. whose population is exclusively this",
+          "answer": "Black",
+          "isDailyDouble": false,
+          "orderNumber": 5,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Keith",
+              "score": 1600
+            },
+            {
+              "player": "Dale",
+              "score": 2100
+            },
+            {
+              "player": "David",
+              "score": 3800
+            }
+          ]
+        },
+        {
+          "category": "THE CIVIL WAR",
+          "value": 200,
+          "clue": "Of the Monitor & the Merrimack, the 1 that fought for the South",
+          "answer": "the Merrimack",
+          "isDailyDouble": false,
+          "orderNumber": 6,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Keith",
+              "score": 1800
+            },
+            {
+              "player": "Dale",
+              "score": 2100
+            },
+            {
+              "player": "David",
+              "score": 3800
+            }
+          ]
+        },
+        {
+          "category": "THE CIVIL WAR",
+          "value": 400,
+          "clue": "He said, \"If I could save the Union without freeing any slave, I would do it\"",
+          "answer": "Abraham Lincoln",
+          "isDailyDouble": false,
+          "orderNumber": 7,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Keith",
+              "score": 1800
+            },
+            {
+              "player": "Dale",
+              "score": 2500
+            },
+            {
+              "player": "David",
+              "score": 3800
+            }
+          ]
+        },
+        {
+          "category": "ROCK 'N ROLL",
+          "value": 200,
+          "clue": "\"Police\"man who said, \"I'm a rich, successful songwriter - what do I write about now?\"",
+          "answer": "Sting",
+          "isDailyDouble": false,
+          "orderNumber": 8,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Keith",
+              "score": 1800
+            },
+            {
+              "player": "Dale",
+              "score": 2500
+            },
+            {
+              "player": "David",
+              "score": 4000
+            }
+          ]
+        },
+        {
+          "category": "THE CIVIL WAR",
+          "value": 600,
+          "clue": "Because he opposed secession, he was deposed as Texas governor in 1861",
+          "answer": "Sam Houston",
+          "isDailyDouble": false,
+          "orderNumber": 9,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Keith",
+              "score": 2400
+            },
+            {
+              "player": "Dale",
+              "score": 2500
+            },
+            {
+              "player": "David",
+              "score": 4000
+            }
+          ]
+        },
+        {
+          "category": "THE CIVIL WAR",
+          "value": 1500,
+          "clue": "(Here comes the music.) Bring the good old bugle, boys, we'll sing another songSing it with a spirit that will start the world alongSing it as we used to sing it, 50,000 strong...Civil War event depicted in this song: ...Hurrah! Hurrah! we bring the jubilee!Hurrah! Hurrah! the flag that makes you free!",
+          "answer": "Sherman's march through Georgia",
+          "isDailyDouble": true,
+          "orderNumber": 10,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Keith",
+              "score": 3900
+            },
+            {
+              "player": "Dale",
+              "score": 2500
+            },
+            {
+              "player": "David",
+              "score": 4000
+            }
+          ]
+        },
+        {
+          "category": "THE CIVIL WAR",
+          "value": 1000,
+          "clue": "7 of the 11 Confederate states seceded while this man was president",
+          "answer": "James Buchanan",
+          "isDailyDouble": false,
+          "orderNumber": 11,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Keith",
+              "score": 4900
+            },
+            {
+              "player": "Dale",
+              "score": 2500
+            },
+            {
+              "player": "David",
+              "score": 4000
+            }
+          ]
+        },
+        {
+          "category": "BIOLOGY",
+          "value": 200,
+          "clue": "They protect larvae during the pupal stage & were protected by B. Dennehy in a R. Howard film",
+          "answer": "cocoon",
+          "isDailyDouble": false,
+          "orderNumber": 12,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Keith",
+              "score": 4900
+            },
+            {
+              "player": "Dale",
+              "score": 2500
+            },
+            {
+              "player": "David",
+              "score": 4200
+            }
+          ]
+        },
+        {
+          "category": "ROCK 'N ROLL",
+          "value": 400,
+          "clue": "Thanks to the Concorde, this drummer-singer was at both the London & Philadelphia Live Aid shows",
+          "answer": "Phil Collins",
+          "isDailyDouble": false,
+          "orderNumber": 13,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Keith",
+              "score": 5300
+            },
+            {
+              "player": "Dale",
+              "score": 2500
+            },
+            {
+              "player": "David",
+              "score": 4200
+            }
+          ]
+        },
+        {
+          "category": "BIOLOGY",
+          "value": 1000,
+          "clue": "Rheas, emus, & cassowaries are classified as ratites because they can't do this",
+          "answer": "fly",
+          "isDailyDouble": true,
+          "orderNumber": 14,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Keith",
+              "score": 4300
+            },
+            {
+              "player": "Dale",
+              "score": 2500
+            },
+            {
+              "player": "David",
+              "score": 4200
+            }
+          ]
+        },
+        {
+          "category": "BIOLOGY",
+          "value": 600,
+          "clue": "Fluid that's left when you remove all the corpuscles from the blood",
+          "answer": "plasma",
+          "isDailyDouble": false,
+          "orderNumber": 15,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Keith",
+              "score": 4300
+            },
+            {
+              "player": "Dale",
+              "score": 2500
+            },
+            {
+              "player": "David",
+              "score": 4800
+            }
+          ]
+        },
+        {
+          "category": "\"STEIN\"s",
+          "value": 200,
+          "clue": "Assistant football coach at Purdue, he went on to buy the Yankees",
+          "answer": "George Steinbrenner",
+          "isDailyDouble": false,
+          "orderNumber": 16,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Keith",
+              "score": 4300
+            },
+            {
+              "player": "Dale",
+              "score": 2500
+            },
+            {
+              "player": "David",
+              "score": 5000
+            }
+          ]
+        },
+        {
+          "category": "BIOLOGY",
+          "value": 800,
+          "clue": "It's contained in the anther sacs of a stamen",
+          "answer": "pollen",
+          "isDailyDouble": false,
+          "orderNumber": 17,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Keith",
+              "score": 5100
+            },
+            {
+              "player": "Dale",
+              "score": 2500
+            },
+            {
+              "player": "David",
+              "score": 5000
+            }
+          ]
+        },
+        {
+          "category": "BIOLOGY",
+          "value": 1000,
+          "clue": "Discounting Clairol, the color of human hair is mainly due to this dark pigment",
+          "answer": "melanin",
+          "isDailyDouble": false,
+          "orderNumber": 18,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Keith",
+              "score": 6100
+            },
+            {
+              "player": "Dale",
+              "score": 2500
+            },
+            {
+              "player": "David",
+              "score": 5000
+            }
+          ]
+        },
+        {
+          "category": "INVENTIONS",
+          "value": 200,
+          "clue": "U.S. patent #123790, Feb. 20, 1872, is for a machine to turn a block of wood into 1000s of these",
+          "answer": "toothpicks",
+          "isDailyDouble": false,
+          "orderNumber": 19,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Keith",
+              "score": 5900
+            },
+            {
+              "player": "Dale",
+              "score": 2500
+            },
+            {
+              "player": "David",
+              "score": 5200
+            }
+          ]
+        },
+        {
+          "category": "INVENTIONS",
+          "value": 400,
+          "clue": "Italian chemist Ascanio Sobrero discovered this compound which blew up Alfred's brother Emil Nobel",
+          "answer": "nitroglycerine",
+          "isDailyDouble": false,
+          "orderNumber": 20,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Keith",
+              "score": 5900
+            },
+            {
+              "player": "Dale",
+              "score": 2500
+            },
+            {
+              "player": "David",
+              "score": 5600
+            }
+          ]
+        },
+        {
+          "category": "INVENTIONS",
+          "value": 600,
+          "clue": "Contrary to his name, he put ink, not H2O, in the fountain pen he patented in 1884",
+          "answer": "Waterman",
+          "isDailyDouble": false,
+          "orderNumber": 21,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Keith",
+              "score": 5900
+            },
+            {
+              "player": "Dale",
+              "score": 2500
+            },
+            {
+              "player": "David",
+              "score": 6200
+            }
+          ]
+        },
+        {
+          "category": "INVENTIONS",
+          "value": 800,
+          "clue": "1st administrator of the U.S. patent system, he never took out a patent for any of his inventions",
+          "answer": "Thomas Jefferson",
+          "isDailyDouble": false,
+          "orderNumber": 22,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Keith",
+              "score": 5100
+            },
+            {
+              "player": "Dale",
+              "score": 2500
+            },
+            {
+              "player": "David",
+              "score": 6200
+            }
+          ]
+        },
+        {
+          "category": "INVENTIONS",
+          "value": 1000,
+          "clue": "In 1888, Marvin Chester Stone patented the 1st of these, hand-rolled & made of paraffined paper",
+          "answer": "straws",
+          "isDailyDouble": false,
+          "orderNumber": 23,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "David"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Keith",
+              "score": 5100
+            },
+            {
+              "player": "Dale",
+              "score": 1500
+            },
+            {
+              "player": "David",
+              "score": 5200
+            }
+          ]
+        },
+        {
+          "category": "\"STEIN\"s",
+          "value": 400,
+          "clue": "In 1853, this immigrant & veteran of Waterloo founded a piano factory in New York",
+          "answer": "Henry Steinway",
+          "isDailyDouble": false,
+          "orderNumber": 24,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Keith",
+              "score": 5100
+            },
+            {
+              "player": "Dale",
+              "score": 1500
+            },
+            {
+              "player": "David",
+              "score": 5600
+            }
+          ]
+        },
+        {
+          "category": "ROCK 'N ROLL",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Keith",
+              "score": 5100
+            },
+            {
+              "player": "Dale",
+              "score": 1500
+            },
+            {
+              "player": "David",
+              "score": 5600
+            }
+          ]
+        },
+        {
+          "category": "\"STEIN\"s",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Keith",
+              "score": 5100
+            },
+            {
+              "player": "Dale",
+              "score": 1500
+            },
+            {
+              "player": "David",
+              "score": 5600
+            }
+          ]
+        },
+        {
+          "category": "ROCK 'N ROLL",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Keith",
+              "score": 5100
+            },
+            {
+              "player": "Dale",
+              "score": 1500
+            },
+            {
+              "player": "David",
+              "score": 5600
+            }
+          ]
+        },
+        {
+          "category": "\"STEIN\"s",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Keith",
+              "score": 5100
+            },
+            {
+              "player": "Dale",
+              "score": 1500
+            },
+            {
+              "player": "David",
+              "score": 5600
+            }
+          ]
+        },
+        {
+          "category": "ROCK 'N ROLL",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Keith",
+              "score": 5100
+            },
+            {
+              "player": "Dale",
+              "score": 1500
+            },
+            {
+              "player": "David",
+              "score": 5600
+            }
+          ]
+        },
+        {
+          "category": "\"STEIN\"s",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Keith",
+              "score": 5100
+            },
+            {
+              "player": "Dale",
+              "score": 1500
+            },
+            {
+              "player": "David",
+              "score": 5600
+            }
+          ]
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "Keith",
+          "score": 5100
+        },
+        {
+          "player": "Dale",
+          "score": 1500
+        },
+        {
+          "player": "David",
+          "score": 5600
+        }
+      ]
+    },
+    "finalJeopardy": {
+      "category": "ASTROLOGY",
+      "clue": "While Gemini is represented by 2 humans, this sign is represented by a pair of animals",
+      "answer": "Pisces",
+      "responses": [
+        {
+          "contestant": "Dale",
+          "response": "What is Pisces?",
+          "isCorrect": true,
+          "isIncorrect": false,
+          "value": 0,
+          "finalScore": 1500
+        },
+        {
+          "contestant": "Keith",
+          "response": "What is Pisces?",
+          "isCorrect": true,
+          "isIncorrect": false,
+          "value": 5100,
+          "finalScore": 10200
+        },
+        {
+          "contestant": "David",
+          "response": "What is Cancer",
+          "isCorrect": false,
+          "isIncorrect": true,
+          "value": 5500,
+          "finalScore": 100
+        }
+      ]
+    }
+  },
+  "finalScores": [
+    {
+      "player": "Keith",
+      "score": "$10,200"
+    },
+    {
+      "player": "Dale",
+      "score": "$1,500"
+    },
+    {
+      "player": "David",
+      "score": "$100"
+    }
+  ],
+  "coryatScores": [
+    {
+      "player": "Keith",
+      "score": 5300
+    },
+    {
+      "player": "Dale",
+      "score": 1500
+    },
+    {
+      "player": "David",
+      "score": 5600
+    }
+  ]
+}

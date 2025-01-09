@@ -1,0 +1,1699 @@
+{
+  "gameId": 2987,
+  "showNumber": "5678",
+  "title": "Show #5678 - Wednesday, April 22, 2009",
+  "date": "2009-04-22",
+  "comments": "",
+  "contestants": [
+    "Stefanie",
+    "Melanie",
+    "Wright"
+  ],
+  "rounds": {
+    "jeopardy": {
+      "categories": [
+        "RELIGIONS",
+        "BEST ACTRESS OSCAR BY FILM",
+        "FUN WITH EPONYMS",
+        "THE NEW YORK TIMES TIMES MACHINE",
+        "QUASI-STUPID ANSWERS",
+        "AHD NEGATIVE PREFIXES"
+      ],
+      "clues": [
+        {
+          "category": "BEST ACTRESS OSCAR BY FILM",
+          "value": 200,
+          "clue": "\"Moonstruck\"",
+          "answer": "Cher",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [
+            "Wright"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Stefanie",
+              "score": 0
+            },
+            {
+              "player": "Melanie",
+              "score": 0
+            },
+            {
+              "player": "Wright",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "BEST ACTRESS OSCAR BY FILM",
+          "value": 400,
+          "clue": "\"Klute\"",
+          "answer": "Jane Fonda",
+          "isDailyDouble": false,
+          "orderNumber": 2,
+          "correctContestants": [
+            "Wright"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Stefanie",
+              "score": 0
+            },
+            {
+              "player": "Melanie",
+              "score": 0
+            },
+            {
+              "player": "Wright",
+              "score": 600
+            }
+          ]
+        },
+        {
+          "category": "BEST ACTRESS OSCAR BY FILM",
+          "value": 600,
+          "clue": "\"Shakespeare in Love\"",
+          "answer": "Gwyneth Paltrow",
+          "isDailyDouble": false,
+          "orderNumber": 3,
+          "correctContestants": [
+            "Wright"
+          ],
+          "incorrectContestants": [
+            "Stefanie"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Stefanie",
+              "score": -600
+            },
+            {
+              "player": "Melanie",
+              "score": 0
+            },
+            {
+              "player": "Wright",
+              "score": 1200
+            }
+          ]
+        },
+        {
+          "category": "BEST ACTRESS OSCAR BY FILM",
+          "value": 800,
+          "clue": "\"Dead Man Walking\"",
+          "answer": "Susan Sarandon",
+          "isDailyDouble": false,
+          "orderNumber": 4,
+          "correctContestants": [
+            "Stefanie"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Stefanie",
+              "score": 200
+            },
+            {
+              "player": "Melanie",
+              "score": 0
+            },
+            {
+              "player": "Wright",
+              "score": 1200
+            }
+          ]
+        },
+        {
+          "category": "BEST ACTRESS OSCAR BY FILM",
+          "value": 1000,
+          "clue": "\"Walk the Line\"",
+          "answer": "(Reese) Witherspoon",
+          "isDailyDouble": false,
+          "orderNumber": 5,
+          "correctContestants": [
+            "Wright"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Stefanie",
+              "score": 200
+            },
+            {
+              "player": "Melanie",
+              "score": 0
+            },
+            {
+              "player": "Wright",
+              "score": 2200
+            }
+          ]
+        },
+        {
+          "category": "FUN WITH EPONYMS",
+          "value": 200,
+          "clue": "How shocking!  A unit of electrical current is named for this Andre",
+          "answer": "André Ampere",
+          "isDailyDouble": false,
+          "orderNumber": 6,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Wright"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Stefanie",
+              "score": 200
+            },
+            {
+              "player": "Melanie",
+              "score": 0
+            },
+            {
+              "player": "Wright",
+              "score": 2000
+            }
+          ]
+        },
+        {
+          "category": "FUN WITH EPONYMS",
+          "value": 400,
+          "clue": "The scientific unit of sound intensity named for this man has one less \"L\" than his surname",
+          "answer": "(Alexander Graham) Bell",
+          "isDailyDouble": false,
+          "orderNumber": 7,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Stefanie",
+            "Melanie"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Stefanie",
+              "score": -200
+            },
+            {
+              "player": "Melanie",
+              "score": -400
+            },
+            {
+              "player": "Wright",
+              "score": 2000
+            }
+          ]
+        },
+        {
+          "category": "FUN WITH EPONYMS",
+          "value": 600,
+          "clue": "She may have said, \"Why don't you come up and see my life jacket sometime?\" when she wore the one named for her",
+          "answer": "Mae West",
+          "isDailyDouble": false,
+          "orderNumber": 8,
+          "correctContestants": [
+            "Melanie"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Stefanie",
+              "score": -200
+            },
+            {
+              "player": "Melanie",
+              "score": 200
+            },
+            {
+              "player": "Wright",
+              "score": 2000
+            }
+          ]
+        },
+        {
+          "category": "RELIGIONS",
+          "value": 200,
+          "clue": "This religion was created by a man who wrote Westerns, horror & science fiction stories",
+          "answer": "Scientology",
+          "isDailyDouble": false,
+          "orderNumber": 9,
+          "correctContestants": [
+            "Wright"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Stefanie",
+              "score": -200
+            },
+            {
+              "player": "Melanie",
+              "score": 200
+            },
+            {
+              "player": "Wright",
+              "score": 2200
+            }
+          ]
+        },
+        {
+          "category": "RELIGIONS",
+          "value": 400,
+          "clue": "Druze, originally a sect of this branch of Islam, hide their beliefs by pretending to practice other religions",
+          "answer": "Shia",
+          "isDailyDouble": false,
+          "orderNumber": 10,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Stefanie",
+              "score": -200
+            },
+            {
+              "player": "Melanie",
+              "score": 200
+            },
+            {
+              "player": "Wright",
+              "score": 2200
+            }
+          ]
+        },
+        {
+          "category": "RELIGIONS",
+          "value": 600,
+          "clue": "Lamaism is another name for this religion in which the ruler chief monk is the Dalai Lama",
+          "answer": "Buddhism",
+          "isDailyDouble": false,
+          "orderNumber": 11,
+          "correctContestants": [
+            "Wright"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Stefanie",
+              "score": -200
+            },
+            {
+              "player": "Melanie",
+              "score": 200
+            },
+            {
+              "player": "Wright",
+              "score": 2800
+            }
+          ]
+        },
+        {
+          "category": "RELIGIONS",
+          "value": 800,
+          "clue": "Organizations for this religion include the Assembly of the Sacred Wheel & the Covenant of the Goddess",
+          "answer": "Wiccan",
+          "isDailyDouble": false,
+          "orderNumber": 12,
+          "correctContestants": [
+            "Melanie"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Stefanie",
+              "score": -200
+            },
+            {
+              "player": "Melanie",
+              "score": 1000
+            },
+            {
+              "player": "Wright",
+              "score": 2800
+            }
+          ]
+        },
+        {
+          "category": "RELIGIONS",
+          "value": 1000,
+          "clue": "This religion founded in 1863 in Iran teaches the worth of all religions & the equality of the sexes",
+          "answer": "Baha'i",
+          "isDailyDouble": false,
+          "orderNumber": 13,
+          "correctContestants": [
+            "Stefanie"
+          ],
+          "incorrectContestants": [
+            "Melanie"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Stefanie",
+              "score": 800
+            },
+            {
+              "player": "Melanie",
+              "score": 0
+            },
+            {
+              "player": "Wright",
+              "score": 2800
+            }
+          ]
+        },
+        {
+          "category": "FUN WITH EPONYMS",
+          "value": 800,
+          "clue": "A shirtless male stripper in collar & cuffs would love these chairs named for an 18th C. cabinetmaker",
+          "answer": "Chippendales",
+          "isDailyDouble": false,
+          "orderNumber": 14,
+          "correctContestants": [
+            "Melanie"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Stefanie",
+              "score": 800
+            },
+            {
+              "player": "Melanie",
+              "score": 800
+            },
+            {
+              "player": "Wright",
+              "score": 2800
+            }
+          ]
+        },
+        {
+          "category": "FUN WITH EPONYMS",
+          "value": 1000,
+          "clue": "To prudishly edit vulgar bits out of a written work is called this, after a guy named Thomas who did it to Shakespeare",
+          "answer": "bowdlerize",
+          "isDailyDouble": false,
+          "orderNumber": 15,
+          "correctContestants": [
+            "Stefanie"
+          ],
+          "incorrectContestants": [
+            "Wright"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Stefanie",
+              "score": 1800
+            },
+            {
+              "player": "Melanie",
+              "score": 800
+            },
+            {
+              "player": "Wright",
+              "score": 1800
+            }
+          ]
+        },
+        {
+          "category": "AHD NEGATIVE PREFIXES",
+          "value": 200,
+          "clue": "Before climactic",
+          "answer": "anti-",
+          "isDailyDouble": false,
+          "orderNumber": 16,
+          "correctContestants": [
+            "Stefanie"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Stefanie",
+              "score": 2000
+            },
+            {
+              "player": "Melanie",
+              "score": 800
+            },
+            {
+              "player": "Wright",
+              "score": 1800
+            }
+          ]
+        },
+        {
+          "category": "AHD NEGATIVE PREFIXES",
+          "value": 400,
+          "clue": "Before sufferable",
+          "answer": "in-",
+          "isDailyDouble": false,
+          "orderNumber": 17,
+          "correctContestants": [
+            "Wright"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Stefanie",
+              "score": 2000
+            },
+            {
+              "player": "Melanie",
+              "score": 800
+            },
+            {
+              "player": "Wright",
+              "score": 2200
+            }
+          ]
+        },
+        {
+          "category": "AHD NEGATIVE PREFIXES",
+          "value": 600,
+          "clue": "Before louse",
+          "answer": "de-",
+          "isDailyDouble": false,
+          "orderNumber": 18,
+          "correctContestants": [
+            "Melanie"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Stefanie",
+              "score": 2000
+            },
+            {
+              "player": "Melanie",
+              "score": 1400
+            },
+            {
+              "player": "Wright",
+              "score": 2200
+            }
+          ]
+        },
+        {
+          "category": "AHD NEGATIVE PREFIXES",
+          "value": 800,
+          "clue": "Before tonal",
+          "answer": "a-",
+          "isDailyDouble": false,
+          "orderNumber": 19,
+          "correctContestants": [
+            "Wright"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Stefanie",
+              "score": 2000
+            },
+            {
+              "player": "Melanie",
+              "score": 1400
+            },
+            {
+              "player": "Wright",
+              "score": 3000
+            }
+          ]
+        },
+        {
+          "category": "AHD NEGATIVE PREFIXES",
+          "value": 1000,
+          "clue": "Before ready (Ethelred knew this one)",
+          "answer": "un-",
+          "isDailyDouble": false,
+          "orderNumber": 20,
+          "correctContestants": [
+            "Melanie"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Stefanie",
+              "score": 2000
+            },
+            {
+              "player": "Melanie",
+              "score": 2400
+            },
+            {
+              "player": "Wright",
+              "score": 3000
+            }
+          ]
+        },
+        {
+          "category": "QUASI-STUPID ANSWERS",
+          "value": 200,
+          "clue": "Developed to treat sunburn, this cream got its name after a customer said it knocks eczema out",
+          "answer": "Noxzema",
+          "isDailyDouble": false,
+          "orderNumber": 21,
+          "correctContestants": [
+            "Melanie"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Stefanie",
+              "score": 2000
+            },
+            {
+              "player": "Melanie",
+              "score": 2600
+            },
+            {
+              "player": "Wright",
+              "score": 3000
+            }
+          ]
+        },
+        {
+          "category": "QUASI-STUPID ANSWERS",
+          "value": 400,
+          "clue": "Style that got its name from 1925's Exposition Internationale des Arts Decoratifs",
+          "answer": "art deco",
+          "isDailyDouble": false,
+          "orderNumber": 22,
+          "correctContestants": [
+            "Stefanie"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Stefanie",
+              "score": 2400
+            },
+            {
+              "player": "Melanie",
+              "score": 2600
+            },
+            {
+              "player": "Wright",
+              "score": 3000
+            }
+          ]
+        },
+        {
+          "category": "QUASI-STUPID ANSWERS",
+          "value": 600,
+          "clue": "Philosopher Willard van Orman Quine said that this philosopher's \"predicament is the human predicament\"",
+          "answer": "David Hume",
+          "isDailyDouble": false,
+          "orderNumber": 23,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Stefanie"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Stefanie",
+              "score": 1800
+            },
+            {
+              "player": "Melanie",
+              "score": 2600
+            },
+            {
+              "player": "Wright",
+              "score": 3000
+            }
+          ]
+        },
+        {
+          "category": "QUASI-STUPID ANSWERS",
+          "value": 800,
+          "clue": "This kind of material has superconductivity, which means it has no electrical resistance at very low temperatures",
+          "answer": "a superconductor",
+          "isDailyDouble": false,
+          "orderNumber": 24,
+          "correctContestants": [
+            "Wright"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Stefanie",
+              "score": 1800
+            },
+            {
+              "player": "Melanie",
+              "score": 2600
+            },
+            {
+              "player": "Wright",
+              "score": 3800
+            }
+          ]
+        },
+        {
+          "category": "QUASI-STUPID ANSWERS",
+          "value": 1000,
+          "clue": "This acronym refers to a family with a single income, 2 children & an oppressive mortgage",
+          "answer": "SITCOM",
+          "isDailyDouble": false,
+          "orderNumber": 25,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Stefanie",
+              "score": 1800
+            },
+            {
+              "player": "Melanie",
+              "score": 2600
+            },
+            {
+              "player": "Wright",
+              "score": 3800
+            }
+          ]
+        },
+        {
+          "category": "THE NEW YORK TIMES TIMES MACHINE",
+          "value": 200,
+          "clue": "Try to remember a day in September of this year",
+          "answer": "1964",
+          "isDailyDouble": false,
+          "orderNumber": 26,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Stefanie",
+            "Wright"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Stefanie",
+              "score": 1600
+            },
+            {
+              "player": "Melanie",
+              "score": 2600
+            },
+            {
+              "player": "Wright",
+              "score": 3600
+            }
+          ]
+        },
+        {
+          "category": "THE NEW YORK TIMES TIMES MACHINE",
+          "value": 400,
+          "clue": "It's the year of the futile effort headlined here",
+          "answer": "1938",
+          "isDailyDouble": false,
+          "orderNumber": 27,
+          "correctContestants": [
+            "Melanie"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Stefanie",
+              "score": 1600
+            },
+            {
+              "player": "Melanie",
+              "score": 3000
+            },
+            {
+              "player": "Wright",
+              "score": 3600
+            }
+          ]
+        },
+        {
+          "category": "THE NEW YORK TIMES TIMES MACHINE",
+          "value": 2000,
+          "clue": "The high hopes of this year are indicated here",
+          "answer": "1919",
+          "isDailyDouble": true,
+          "orderNumber": 28,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Melanie"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Stefanie",
+              "score": 1600
+            },
+            {
+              "player": "Melanie",
+              "score": 1000
+            },
+            {
+              "player": "Wright",
+              "score": 3600
+            }
+          ]
+        },
+        {
+          "category": "THE NEW YORK TIMES TIMES MACHINE",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Stefanie",
+              "score": 1600
+            },
+            {
+              "player": "Melanie",
+              "score": 1000
+            },
+            {
+              "player": "Wright",
+              "score": 3600
+            }
+          ]
+        },
+        {
+          "category": "THE NEW YORK TIMES TIMES MACHINE",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Stefanie",
+              "score": 1600
+            },
+            {
+              "player": "Melanie",
+              "score": 1000
+            },
+            {
+              "player": "Wright",
+              "score": 3600
+            }
+          ]
+        }
+      ],
+      "firstBreakScores": [
+        {
+          "player": "Stefanie",
+          "score": 1800
+        },
+        {
+          "player": "Melanie",
+          "score": 800
+        },
+        {
+          "player": "Wright",
+          "score": 1800
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "Stefanie",
+          "score": 1600
+        },
+        {
+          "player": "Melanie",
+          "score": 1000
+        },
+        {
+          "player": "Wright",
+          "score": 3600
+        }
+      ]
+    },
+    "doubleJeopardy": {
+      "categories": [
+        "I WROTE THAT!",
+        "WHAT A CAST OF TV CHARACTERS!",
+        "400 YEARS OF THE TELESCOPE",
+        "NAME THE PARENT COMPANY",
+        "\"IQ\" TEST",
+        "IN BRUGES"
+      ],
+      "clues": [
+        {
+          "category": "WHAT A CAST OF TV CHARACTERS!",
+          "value": 400,
+          "clue": "Richie Aprile,Junior,Big Pussy",
+          "answer": "The Sopranos",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Stefanie",
+              "score": 1600
+            },
+            {
+              "player": "Melanie",
+              "score": 1000
+            },
+            {
+              "player": "Wright",
+              "score": 4000
+            }
+          ]
+        },
+        {
+          "category": "WHAT A CAST OF TV CHARACTERS!",
+          "value": 800,
+          "clue": "Dr. Kerry Weaver,Dr. Elizabeth Corday,Dr. Abby Lockhart",
+          "answer": "ER",
+          "isDailyDouble": false,
+          "orderNumber": 2,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Stefanie",
+              "score": 2400
+            },
+            {
+              "player": "Melanie",
+              "score": 1000
+            },
+            {
+              "player": "Wright",
+              "score": 4000
+            }
+          ]
+        },
+        {
+          "category": "WHAT A CAST OF TV CHARACTERS!",
+          "value": 1200,
+          "clue": "Horatio Caine,Alexx Woods,Frank Tripp",
+          "answer": "CSI: Miami",
+          "isDailyDouble": false,
+          "orderNumber": 3,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Stefanie",
+              "score": 2400
+            },
+            {
+              "player": "Melanie",
+              "score": 1000
+            },
+            {
+              "player": "Wright",
+              "score": 4000
+            }
+          ]
+        },
+        {
+          "category": "WHAT A CAST OF TV CHARACTERS!",
+          "value": 1600,
+          "clue": "Jack Donaghy,Kenneth the Page,Tracy Jordan",
+          "answer": "30 Rock",
+          "isDailyDouble": false,
+          "orderNumber": 4,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Stefanie",
+              "score": 2400
+            },
+            {
+              "player": "Melanie",
+              "score": 1000
+            },
+            {
+              "player": "Wright",
+              "score": 5600
+            }
+          ]
+        },
+        {
+          "category": "WHAT A CAST OF TV CHARACTERS!",
+          "value": 2000,
+          "clue": "Jonas Grumby,Roy Hinkley,Ginger Grant",
+          "answer": "Gilligan's Island",
+          "isDailyDouble": false,
+          "orderNumber": 5,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Stefanie",
+              "score": 2400
+            },
+            {
+              "player": "Melanie",
+              "score": 3000
+            },
+            {
+              "player": "Wright",
+              "score": 5600
+            }
+          ]
+        },
+        {
+          "category": "I WROTE THAT!",
+          "value": 400,
+          "clue": "The beloved \"Pride and Prejudice\"",
+          "answer": "Jane Austen",
+          "isDailyDouble": false,
+          "orderNumber": 6,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Stefanie",
+              "score": 2800
+            },
+            {
+              "player": "Melanie",
+              "score": 3000
+            },
+            {
+              "player": "Wright",
+              "score": 5600
+            }
+          ]
+        },
+        {
+          "category": "I WROTE THAT!",
+          "value": 800,
+          "clue": "The thriller \"Patriot Games\"",
+          "answer": "Tom Clancy",
+          "isDailyDouble": false,
+          "orderNumber": 7,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Stefanie",
+              "score": 3600
+            },
+            {
+              "player": "Melanie",
+              "score": 3000
+            },
+            {
+              "player": "Wright",
+              "score": 5600
+            }
+          ]
+        },
+        {
+          "category": "I WROTE THAT!",
+          "value": 1200,
+          "clue": "As well as \"The Road to Oz\", \"Queen Zixi of Ix\"",
+          "answer": "L. Frank Baum",
+          "isDailyDouble": false,
+          "orderNumber": 8,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Stefanie",
+              "score": 3600
+            },
+            {
+              "player": "Melanie",
+              "score": 4200
+            },
+            {
+              "player": "Wright",
+              "score": 5600
+            }
+          ]
+        },
+        {
+          "category": "I WROTE THAT!",
+          "value": 1600,
+          "clue": "The novel \"The Prince of Tides\" & the screenplay thereof",
+          "answer": "Pat Conroy",
+          "isDailyDouble": false,
+          "orderNumber": 9,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Stefanie",
+              "score": 3600
+            },
+            {
+              "player": "Melanie",
+              "score": 5800
+            },
+            {
+              "player": "Wright",
+              "score": 5600
+            }
+          ]
+        },
+        {
+          "category": "I WROTE THAT!",
+          "value": 2000,
+          "clue": "\"Ottsy i Deti\", aka \"Fathers and Sons\"",
+          "answer": "Ivan Turgenev",
+          "isDailyDouble": false,
+          "orderNumber": 10,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Stefanie",
+              "score": 3600
+            },
+            {
+              "player": "Melanie",
+              "score": 5800
+            },
+            {
+              "player": "Wright",
+              "score": 5600
+            }
+          ]
+        },
+        {
+          "category": "\"IQ\" TEST",
+          "value": 400,
+          "clue": "They're decorative objects from the past like furniture, glass & ceramics that people collect",
+          "answer": "antiques",
+          "isDailyDouble": false,
+          "orderNumber": 11,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Stefanie",
+              "score": 3600
+            },
+            {
+              "player": "Melanie",
+              "score": 6200
+            },
+            {
+              "player": "Wright",
+              "score": 5600
+            }
+          ]
+        },
+        {
+          "category": "\"IQ\" TEST",
+          "value": 800,
+          "clue": "It's a tightly wound bandage, used to stop severe bleeding",
+          "answer": "a tourniquet",
+          "isDailyDouble": false,
+          "orderNumber": 12,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Stefanie",
+              "score": 3600
+            },
+            {
+              "player": "Melanie",
+              "score": 7000
+            },
+            {
+              "player": "Wright",
+              "score": 5600
+            }
+          ]
+        },
+        {
+          "category": "\"IQ\" TEST",
+          "value": 1200,
+          "clue": "A special aura; Betty Friedan's was a \"Feminine\" one",
+          "answer": "mystique",
+          "isDailyDouble": false,
+          "orderNumber": 13,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Stefanie",
+              "score": 3600
+            },
+            {
+              "player": "Melanie",
+              "score": 8200
+            },
+            {
+              "player": "Wright",
+              "score": 5600
+            }
+          ]
+        },
+        {
+          "category": "\"IQ\" TEST",
+          "value": 1600,
+          "clue": "We assume you know it's French for a nickname or assumed name",
+          "answer": "sobriquet",
+          "isDailyDouble": false,
+          "orderNumber": 14,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Stefanie",
+              "score": 3600
+            },
+            {
+              "player": "Melanie",
+              "score": 9800
+            },
+            {
+              "player": "Wright",
+              "score": 5600
+            }
+          ]
+        },
+        {
+          "category": "\"IQ\" TEST",
+          "value": 2000,
+          "clue": "Maputo is the capital & largest city of this country",
+          "answer": "Mozambique",
+          "isDailyDouble": false,
+          "orderNumber": 15,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Stefanie",
+              "score": 3600
+            },
+            {
+              "player": "Melanie",
+              "score": 11800
+            },
+            {
+              "player": "Wright",
+              "score": 5600
+            }
+          ]
+        },
+        {
+          "category": "NAME THE PARENT COMPANY",
+          "value": 400,
+          "clue": "Cheerios &Betty Crocker products",
+          "answer": "General Mills",
+          "isDailyDouble": false,
+          "orderNumber": 16,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Stefanie",
+              "score": 3600
+            },
+            {
+              "player": "Melanie",
+              "score": 11800
+            },
+            {
+              "player": "Wright",
+              "score": 6000
+            }
+          ]
+        },
+        {
+          "category": "NAME THE PARENT COMPANY",
+          "value": 800,
+          "clue": "Velveeta",
+          "answer": "Kraft",
+          "isDailyDouble": false,
+          "orderNumber": 17,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Stefanie",
+              "score": 3600
+            },
+            {
+              "player": "Melanie",
+              "score": 11800
+            },
+            {
+              "player": "Wright",
+              "score": 6800
+            }
+          ]
+        },
+        {
+          "category": "NAME THE PARENT COMPANY",
+          "value": 1200,
+          "clue": "Scotch tape",
+          "answer": "3M",
+          "isDailyDouble": false,
+          "orderNumber": 18,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Stefanie",
+              "score": 3600
+            },
+            {
+              "player": "Melanie",
+              "score": 11800
+            },
+            {
+              "player": "Wright",
+              "score": 8000
+            }
+          ]
+        },
+        {
+          "category": "NAME THE PARENT COMPANY",
+          "value": 1600,
+          "clue": "Dutch Boy paints",
+          "answer": "Sherwin-Williams",
+          "isDailyDouble": false,
+          "orderNumber": 19,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Stefanie",
+              "score": 3600
+            },
+            {
+              "player": "Melanie",
+              "score": 11800
+            },
+            {
+              "player": "Wright",
+              "score": 8000
+            }
+          ]
+        },
+        {
+          "category": "NAME THE PARENT COMPANY",
+          "value": 2000,
+          "clue": "Hi-C &Minute Maid juices",
+          "answer": "Coca-Cola",
+          "isDailyDouble": false,
+          "orderNumber": 20,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Stefanie",
+              "score": 5600
+            },
+            {
+              "player": "Melanie",
+              "score": 11800
+            },
+            {
+              "player": "Wright",
+              "score": 8000
+            }
+          ]
+        },
+        {
+          "category": "IN BRUGES",
+          "value": 400,
+          "clue": "(Sarah of the Clue Crew reads from Bruges.)  The sounds may give you a clue to this 1-word name of the central tower in Bruges' Market Square; it's 366 steps to the top, so I'll listen from down here",
+          "answer": "the belfry",
+          "isDailyDouble": false,
+          "orderNumber": 21,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Stefanie",
+              "score": 5600
+            },
+            {
+              "player": "Melanie",
+              "score": 11400
+            },
+            {
+              "player": "Wright",
+              "score": 8000
+            }
+          ]
+        },
+        {
+          "category": "IN BRUGES",
+          "value": 800,
+          "clue": "Tradition says as punishment for killing a noble, Bruges must forever keep these long-necked birds in its canals",
+          "answer": "swans",
+          "isDailyDouble": false,
+          "orderNumber": 22,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Stefanie",
+              "score": 6400
+            },
+            {
+              "player": "Melanie",
+              "score": 11400
+            },
+            {
+              "player": "Wright",
+              "score": 8000
+            }
+          ]
+        },
+        {
+          "category": "IN BRUGES",
+          "value": 1200,
+          "clue": "(Sarah of the Clue Crew reads from Bruges, Belgium.)  Come to Belgium for the work of the painters known as the Primitives of this culture & language; Van Eyck is among those represented in Bruges' museums",
+          "answer": "Flemish",
+          "isDailyDouble": false,
+          "orderNumber": 23,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Stefanie",
+              "score": 6400
+            },
+            {
+              "player": "Melanie",
+              "score": 12600
+            },
+            {
+              "player": "Wright",
+              "score": 8000
+            }
+          ]
+        },
+        {
+          "category": "IN BRUGES",
+          "value": 1600,
+          "clue": "Bruges is the starting point for one of Belgium's premier sporting events, a 164-mile race of these",
+          "answer": "bicycles",
+          "isDailyDouble": false,
+          "orderNumber": 24,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Stefanie",
+              "score": 8000
+            },
+            {
+              "player": "Melanie",
+              "score": 12600
+            },
+            {
+              "player": "Wright",
+              "score": 8000
+            }
+          ]
+        },
+        {
+          "category": "IN BRUGES",
+          "value": 5000,
+          "clue": "(Jimmy of the Clue Crew reads from Bruges.)  The heroes in this statue were a butcher & a weaver who led a struggle against the wealthy merchants who dominated these Medieval trade associations",
+          "answer": "guilds",
+          "isDailyDouble": true,
+          "orderNumber": 25,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Stefanie",
+              "score": 13000
+            },
+            {
+              "player": "Melanie",
+              "score": 12600
+            },
+            {
+              "player": "Wright",
+              "score": 8000
+            }
+          ]
+        },
+        {
+          "category": "400 YEARS OF THE TELESCOPE",
+          "value": 400,
+          "clue": "He doubled his salary & received tenure after giving the Doge of Venice a telescope for naval operations",
+          "answer": "Galileo",
+          "isDailyDouble": false,
+          "orderNumber": 26,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Stefanie",
+              "score": 13400
+            },
+            {
+              "player": "Melanie",
+              "score": 12600
+            },
+            {
+              "player": "Wright",
+              "score": 8000
+            }
+          ]
+        },
+        {
+          "category": "400 YEARS OF THE TELESCOPE",
+          "value": 800,
+          "clue": "William Herschel used a Newtonian telescope to discover this planet & its moons Oberon & Titania",
+          "answer": "Uranus",
+          "isDailyDouble": false,
+          "orderNumber": 27,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Stefanie",
+              "score": 13400
+            },
+            {
+              "player": "Melanie",
+              "score": 13400
+            },
+            {
+              "player": "Wright",
+              "score": 7200
+            }
+          ]
+        },
+        {
+          "category": "400 YEARS OF THE TELESCOPE",
+          "value": 1200,
+          "clue": "To minimize the effects of human light, Keck, the world's largest optical telescope, is located on this dormant volcano",
+          "answer": "Mauna Kea",
+          "isDailyDouble": false,
+          "orderNumber": 28,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Stefanie",
+              "score": 13400
+            },
+            {
+              "player": "Melanie",
+              "score": 13400
+            },
+            {
+              "player": "Wright",
+              "score": 7200
+            }
+          ]
+        },
+        {
+          "category": "400 YEARS OF THE TELESCOPE",
+          "value": 1600,
+          "clue": "This Corning glass used for cooking was cast to make the 200-inch telescope lens for Mount Palomar",
+          "answer": "Pyrex",
+          "isDailyDouble": false,
+          "orderNumber": 29,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Stefanie",
+              "score": 13400
+            },
+            {
+              "player": "Melanie",
+              "score": 15000
+            },
+            {
+              "player": "Wright",
+              "score": 7200
+            }
+          ]
+        },
+        {
+          "category": "400 YEARS OF THE TELESCOPE",
+          "value": 3000,
+          "clue": "This type of telescope was developed when a Bell Labs engineer tried to find the source of short-wave interference",
+          "answer": "a radiotelescope",
+          "isDailyDouble": true,
+          "orderNumber": 30,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Stefanie",
+              "score": 13400
+            },
+            {
+              "player": "Melanie",
+              "score": 18000
+            },
+            {
+              "player": "Wright",
+              "score": 7200
+            }
+          ]
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "Stefanie",
+          "score": 13400
+        },
+        {
+          "player": "Melanie",
+          "score": 18000
+        },
+        {
+          "player": "Wright",
+          "score": 7200
+        }
+      ]
+    },
+    "finalJeopardy": {
+      "category": "U.S. PRESIDENTS",
+      "clue": "Besides Carter, 1 of 2 20th century presidents to live at least 30 years past the day he entered office",
+      "answer": "(1 of) Gerald Ford & Herbert Hoover",
+      "responses": [
+        {
+          "contestant": "Wright",
+          "response": "Who is Harry S. Truman",
+          "isCorrect": false,
+          "isIncorrect": true,
+          "value": 2800,
+          "finalScore": 4400
+        },
+        {
+          "contestant": "Stefanie",
+          "response": "Who is Ford?",
+          "isCorrect": true,
+          "isIncorrect": false,
+          "value": 4200,
+          "finalScore": 17600
+        },
+        {
+          "contestant": "Melanie",
+          "response": "Who is Gerald Ford?",
+          "isCorrect": true,
+          "isIncorrect": false,
+          "value": 8900,
+          "finalScore": 26900
+        }
+      ]
+    }
+  },
+  "finalScores": [
+    {
+      "player": "Stefanie",
+      "score": "$17,600"
+    },
+    {
+      "player": "Melanie",
+      "score": "$26,900"
+    },
+    {
+      "player": "Wright",
+      "score": "$4,400"
+    }
+  ],
+  "coryatScores": [
+    {
+      "player": "Stefanie",
+      "score": 10400
+    },
+    {
+      "player": "Melanie",
+      "score": 19000
+    },
+    {
+      "player": "Wright",
+      "score": 7200
+    }
+  ]
+}

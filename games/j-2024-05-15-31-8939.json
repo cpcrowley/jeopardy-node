@@ -1,0 +1,1684 @@
+{
+  "gameId": 8939,
+  "showNumber": "31",
+  "title": "Jeopardy! Masters game #31 - Wednesday, May 15, 2024",
+  "date": "2024-05-15",
+  "comments": "2024 Jeopardy! Masters quarterfinal game 11.",
+  "contestants": [
+    "Yogesh",
+    "James",
+    "Matt"
+  ],
+  "rounds": {
+    "jeopardy": {
+      "categories": [
+        "\"NORTH\", \"SOUTH\", \"EAST\", \"WEST\"",
+        "A WORD FROM THE BIBLICAL WOMAN",
+        "TECHNOLOGY",
+        "LET'S APARTMENT-SIT FOR ANNA",
+        "POP CULTURE CREATIONS",
+        "4 DIFFERENT VOWELS"
+      ],
+      "clues": [
+        {
+          "category": "A WORD FROM THE BIBLICAL WOMAN",
+          "value": 1000,
+          "clue": "\"Dost thou still retain thine integrity?  Curse God, & die\"",
+          "answer": "Job's wife",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Yogesh",
+              "score": 0
+            },
+            {
+              "player": "James",
+              "score": 0
+            },
+            {
+              "player": "Matt",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "A WORD FROM THE BIBLICAL WOMAN",
+          "value": 800,
+          "clue": "\"Take this child away, & nurse it for me, & I will give thee thy wages... I drew him out of the water\"",
+          "answer": "Pharaoh's daughter",
+          "isDailyDouble": false,
+          "orderNumber": 2,
+          "correctContestants": [
+            "Yogesh"
+          ],
+          "incorrectContestants": [
+            "James"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Yogesh",
+              "score": 800
+            },
+            {
+              "player": "James",
+              "score": -800
+            },
+            {
+              "player": "Matt",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "LET'S APARTMENT-SIT FOR ANNA",
+          "value": 1000,
+          "clue": "What's on the fridge?  A photo of her & her girls at this Vermont ski resort, \"the Beast of the East\"",
+          "answer": "Killington",
+          "isDailyDouble": false,
+          "orderNumber": 3,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "James"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Yogesh",
+              "score": 800
+            },
+            {
+              "player": "James",
+              "score": -1800
+            },
+            {
+              "player": "Matt",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "TECHNOLOGY",
+          "value": 1000,
+          "clue": "A text-to-video system by OpenAI is named this, after the Japanese word for sky",
+          "answer": "Sora",
+          "isDailyDouble": false,
+          "orderNumber": 4,
+          "correctContestants": [
+            "Matt"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Yogesh",
+              "score": 800
+            },
+            {
+              "player": "James",
+              "score": -1800
+            },
+            {
+              "player": "Matt",
+              "score": 1000
+            }
+          ]
+        },
+        {
+          "category": "4 DIFFERENT VOWELS",
+          "value": 1000,
+          "clue": "This type of diplomatic mission in a foreign country used to be more common than embassies, but there aren't any more",
+          "answer": "a legation",
+          "isDailyDouble": false,
+          "orderNumber": 5,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Yogesh",
+              "score": 800
+            },
+            {
+              "player": "James",
+              "score": -1800
+            },
+            {
+              "player": "Matt",
+              "score": 1000
+            }
+          ]
+        },
+        {
+          "category": "TECHNOLOGY",
+          "value": 800,
+          "clue": "VPN for short, it may use the IPsec protocol suite to tunnel encrypted data across the internet's \"series of tubes\"",
+          "answer": "virtual private network",
+          "isDailyDouble": false,
+          "orderNumber": 6,
+          "correctContestants": [
+            "James"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Yogesh",
+              "score": 800
+            },
+            {
+              "player": "James",
+              "score": -1000
+            },
+            {
+              "player": "Matt",
+              "score": 1000
+            }
+          ]
+        },
+        {
+          "category": "\"NORTH\", \"SOUTH\", \"EAST\", \"WEST\"",
+          "value": 1000,
+          "clue": "This Indian state has a 1,350-mile border with Bangladesh",
+          "answer": "West Bengal",
+          "isDailyDouble": false,
+          "orderNumber": 7,
+          "correctContestants": [
+            "Yogesh"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Yogesh",
+              "score": 1800
+            },
+            {
+              "player": "James",
+              "score": -1000
+            },
+            {
+              "player": "Matt",
+              "score": 1000
+            }
+          ]
+        },
+        {
+          "category": "\"NORTH\", \"SOUTH\", \"EAST\", \"WEST\"",
+          "value": 800,
+          "clue": "This area of the nation of Georgia declared independence in 1992; Russia & not many others cheer it on",
+          "answer": "South Ossetia",
+          "isDailyDouble": false,
+          "orderNumber": 8,
+          "correctContestants": [
+            "James"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Yogesh",
+              "score": 1800
+            },
+            {
+              "player": "James",
+              "score": -200
+            },
+            {
+              "player": "Matt",
+              "score": 1000
+            }
+          ]
+        },
+        {
+          "category": "\"NORTH\", \"SOUTH\", \"EAST\", \"WEST\"",
+          "value": 600,
+          "clue": "Rikers Island is in this tidal strait",
+          "answer": "the East River",
+          "isDailyDouble": false,
+          "orderNumber": 9,
+          "correctContestants": [
+            "Matt"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Yogesh",
+              "score": 1800
+            },
+            {
+              "player": "James",
+              "score": -200
+            },
+            {
+              "player": "Matt",
+              "score": 1600
+            }
+          ]
+        },
+        {
+          "category": "A WORD FROM THE BIBLICAL WOMAN",
+          "value": 1600,
+          "clue": "\"It was a true report that I heard in mine own land of thy acts & of thy wisdom\"",
+          "answer": "the Queen of Sheba",
+          "isDailyDouble": true,
+          "orderNumber": 10,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Matt"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Yogesh",
+              "score": 1800
+            },
+            {
+              "player": "James",
+              "score": -200
+            },
+            {
+              "player": "Matt",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "TECHNOLOGY",
+          "value": 600,
+          "clue": "The R1S from this car company is an all-electric SUV with a nearly 400-mile battery range",
+          "answer": "Rivian",
+          "isDailyDouble": false,
+          "orderNumber": 11,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Yogesh",
+              "score": 1800
+            },
+            {
+              "player": "James",
+              "score": -200
+            },
+            {
+              "player": "Matt",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "LET'S APARTMENT-SIT FOR ANNA",
+          "value": 800,
+          "clue": "What's in the fridge?  This parsley & tarragon salad dressing invented in Calif., homemade, not the Seven Seas version",
+          "answer": "green goddess",
+          "isDailyDouble": false,
+          "orderNumber": 12,
+          "correctContestants": [
+            "James"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Yogesh",
+              "score": 1800
+            },
+            {
+              "player": "James",
+              "score": 600
+            },
+            {
+              "player": "Matt",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "LET'S APARTMENT-SIT FOR ANNA",
+          "value": 600,
+          "clue": "Anna's closet has a denim jacket on a hanger with jeans--this north-of-the-border ensemble, ready to go",
+          "answer": "a Canadian tuxedo",
+          "isDailyDouble": false,
+          "orderNumber": 13,
+          "correctContestants": [
+            "James"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Yogesh",
+              "score": 1800
+            },
+            {
+              "player": "James",
+              "score": 1200
+            },
+            {
+              "player": "Matt",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "LET'S APARTMENT-SIT FOR ANNA",
+          "value": 400,
+          "clue": "That cap means she's a Trump supporter--oh no, I missed a word; she must take classes in this Israeli self-defense system",
+          "answer": "Krav Maga",
+          "isDailyDouble": false,
+          "orderNumber": 14,
+          "correctContestants": [
+            "Matt"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Yogesh",
+              "score": 1800
+            },
+            {
+              "player": "James",
+              "score": 1200
+            },
+            {
+              "player": "Matt",
+              "score": 400
+            }
+          ]
+        },
+        {
+          "category": "POP CULTURE CREATIONS",
+          "value": 1000,
+          "clue": "Title of a Gene Kelly film- \"rain\" +a \"Psycho\" death location =this line from a hit 2014 Becky G song",
+          "answer": "singin' in the shower",
+          "isDailyDouble": false,
+          "orderNumber": 15,
+          "correctContestants": [
+            "James"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Yogesh",
+              "score": 1800
+            },
+            {
+              "player": "James",
+              "score": 2200
+            },
+            {
+              "player": "Matt",
+              "score": 400
+            }
+          ]
+        },
+        {
+          "category": "POP CULTURE CREATIONS",
+          "value": 800,
+          "clue": "\"Superfly\" singer Mayfield+\"MMMBop\" band=this \"B Mile\" director",
+          "answer": "Curtis Hanson",
+          "isDailyDouble": false,
+          "orderNumber": 16,
+          "correctContestants": [
+            "Yogesh"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Yogesh",
+              "score": 2600
+            },
+            {
+              "player": "James",
+              "score": 2200
+            },
+            {
+              "player": "Matt",
+              "score": 400
+            }
+          ]
+        },
+        {
+          "category": "POP CULTURE CREATIONS",
+          "value": 600,
+          "clue": "An anatomical exhibition in Vegasx 3=this 2022 film with Pete Davidson",
+          "answer": "Bodies Bodies Bodies",
+          "isDailyDouble": false,
+          "orderNumber": 17,
+          "correctContestants": [
+            "James"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Yogesh",
+              "score": 2600
+            },
+            {
+              "player": "James",
+              "score": 2800
+            },
+            {
+              "player": "Matt",
+              "score": 400
+            }
+          ]
+        },
+        {
+          "category": "POP CULTURE CREATIONS",
+          "value": 400,
+          "clue": "Drake's real first name+IRL New York \"Hotel\" in \"Home Alone 2\"=this actress",
+          "answer": "Aubrey Plaza",
+          "isDailyDouble": false,
+          "orderNumber": 18,
+          "correctContestants": [
+            "James"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Yogesh",
+              "score": 2600
+            },
+            {
+              "player": "James",
+              "score": 3200
+            },
+            {
+              "player": "Matt",
+              "score": 400
+            }
+          ]
+        },
+        {
+          "category": "POP CULTURE CREATIONS",
+          "value": 200,
+          "clue": "\"SCTV\" alum John+a song by the Miracles- \"Around\"=this 50 Cent title",
+          "answer": "\"Candy Shop\"",
+          "isDailyDouble": false,
+          "orderNumber": 19,
+          "correctContestants": [
+            "James"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Yogesh",
+              "score": 2600
+            },
+            {
+              "player": "James",
+              "score": 3400
+            },
+            {
+              "player": "Matt",
+              "score": 400
+            }
+          ]
+        },
+        {
+          "category": "4 DIFFERENT VOWELS",
+          "value": 800,
+          "clue": "Keep driving past the suburbs & you'll be in this area of often well-to-do residents",
+          "answer": "exurbia",
+          "isDailyDouble": false,
+          "orderNumber": 20,
+          "correctContestants": [
+            "Yogesh"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Yogesh",
+              "score": 3400
+            },
+            {
+              "player": "James",
+              "score": 3400
+            },
+            {
+              "player": "Matt",
+              "score": 400
+            }
+          ]
+        },
+        {
+          "category": "A WORD FROM THE BIBLICAL WOMAN",
+          "value": 400,
+          "clue": "\"Tell me, I pray thee, wherein thy great strength lieth\"",
+          "answer": "Delilah",
+          "isDailyDouble": false,
+          "orderNumber": 21,
+          "correctContestants": [
+            "James"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Yogesh",
+              "score": 3400
+            },
+            {
+              "player": "James",
+              "score": 3800
+            },
+            {
+              "player": "Matt",
+              "score": 400
+            }
+          ]
+        },
+        {
+          "category": "A WORD FROM THE BIBLICAL WOMAN",
+          "value": 200,
+          "clue": "\"They have taken away the Lord out of the sepulchre, & we know not where they have laid him\"",
+          "answer": "Mary Magdalene",
+          "isDailyDouble": false,
+          "orderNumber": 22,
+          "correctContestants": [
+            "James"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Yogesh",
+              "score": 3400
+            },
+            {
+              "player": "James",
+              "score": 4000
+            },
+            {
+              "player": "Matt",
+              "score": 400
+            }
+          ]
+        },
+        {
+          "category": "\"NORTH\", \"SOUTH\", \"EAST\", \"WEST\"",
+          "value": 400,
+          "clue": "A 2018 agreement with Greece put this new name on the map of the Balkans",
+          "answer": "North Macedonia",
+          "isDailyDouble": false,
+          "orderNumber": 23,
+          "correctContestants": [
+            "Matt"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Yogesh",
+              "score": 3400
+            },
+            {
+              "player": "James",
+              "score": 4000
+            },
+            {
+              "player": "Matt",
+              "score": 800
+            }
+          ]
+        },
+        {
+          "category": "\"NORTH\", \"SOUTH\", \"EAST\", \"WEST\"",
+          "value": 200,
+          "clue": "This islet is roughly equidistant from Havana & Homestead, Florida",
+          "answer": "Key West",
+          "isDailyDouble": false,
+          "orderNumber": 24,
+          "correctContestants": [
+            "James"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Yogesh",
+              "score": 3400
+            },
+            {
+              "player": "James",
+              "score": 4200
+            },
+            {
+              "player": "Matt",
+              "score": 800
+            }
+          ]
+        },
+        {
+          "category": "TECHNOLOGY",
+          "value": 400,
+          "clue": "After launching this text-based app, Mark Zuckerberg took to Twitter & posted the meme of Spider-Men pointing at each other",
+          "answer": "Threads",
+          "isDailyDouble": false,
+          "orderNumber": 25,
+          "correctContestants": [
+            "James"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Yogesh",
+              "score": 3400
+            },
+            {
+              "player": "James",
+              "score": 4600
+            },
+            {
+              "player": "Matt",
+              "score": 800
+            }
+          ]
+        },
+        {
+          "category": "TECHNOLOGY",
+          "value": 200,
+          "clue": "Lens is a platform that helps climate scientists affordably access imagery from these craft, like the Planetscope ones",
+          "answer": "satellites",
+          "isDailyDouble": false,
+          "orderNumber": 26,
+          "correctContestants": [
+            "Yogesh"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Yogesh",
+              "score": 3600
+            },
+            {
+              "player": "James",
+              "score": 4600
+            },
+            {
+              "player": "Matt",
+              "score": 800
+            }
+          ]
+        },
+        {
+          "category": "LET'S APARTMENT-SIT FOR ANNA",
+          "value": 200,
+          "clue": "Accidentally opened her laptop--aww, wallpaper of I'm guessing a nephew with a suitcase & bush hat, dressed as this bear",
+          "answer": "Paddington",
+          "isDailyDouble": false,
+          "orderNumber": 27,
+          "correctContestants": [
+            "James"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Yogesh",
+              "score": 3600
+            },
+            {
+              "player": "James",
+              "score": 4800
+            },
+            {
+              "player": "Matt",
+              "score": 800
+            }
+          ]
+        },
+        {
+          "category": "4 DIFFERENT VOWELS",
+          "value": 600,
+          "clue": "This crop goes from plants in the Andes to seeds in your bowl",
+          "answer": "quinoa",
+          "isDailyDouble": false,
+          "orderNumber": 28,
+          "correctContestants": [
+            "Yogesh"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Yogesh",
+              "score": 4200
+            },
+            {
+              "player": "James",
+              "score": 4800
+            },
+            {
+              "player": "Matt",
+              "score": 800
+            }
+          ]
+        },
+        {
+          "category": "4 DIFFERENT VOWELS",
+          "value": 400,
+          "clue": "It's the \"C\" in the condition OCD",
+          "answer": "compulsive",
+          "isDailyDouble": false,
+          "orderNumber": 29,
+          "correctContestants": [
+            "Matt"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Yogesh",
+              "score": 4200
+            },
+            {
+              "player": "James",
+              "score": 4800
+            },
+            {
+              "player": "Matt",
+              "score": 1200
+            }
+          ]
+        },
+        {
+          "category": "4 DIFFERENT VOWELS",
+          "value": 200,
+          "clue": "It's an 8-letter indirect reference to something",
+          "answer": "allusion",
+          "isDailyDouble": false,
+          "orderNumber": 30,
+          "correctContestants": [
+            "Matt"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Yogesh",
+              "score": 4200
+            },
+            {
+              "player": "James",
+              "score": 4800
+            },
+            {
+              "player": "Matt",
+              "score": 1400
+            }
+          ]
+        }
+      ],
+      "firstBreakScores": [],
+      "endOfRoundScores": [
+        {
+          "player": "Yogesh",
+          "score": 4200
+        },
+        {
+          "player": "James",
+          "score": 4800
+        },
+        {
+          "player": "Matt",
+          "score": 1400
+        }
+      ]
+    },
+    "doubleJeopardy": {
+      "categories": [
+        "MOVIE MEMES: WHO SAID IT",
+        "OUT IN THE WORLD",
+        "MUSIC IN BOOKS",
+        "IS THIS THING AWNING?",
+        "IN CONCEIVABLE",
+        "HISTORICAL CRISES"
+      ],
+      "clues": [
+        {
+          "category": "OUT IN THE WORLD",
+          "value": 1600,
+          "clue": "This \"Grand\" palace was where Napoleon lived at Versailles (guess the \"Petit\" one was too petit)",
+          "answer": "the Grand Trianon",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Yogesh",
+              "score": 4200
+            },
+            {
+              "player": "James",
+              "score": 4800
+            },
+            {
+              "player": "Matt",
+              "score": 1400
+            }
+          ]
+        },
+        {
+          "category": "OUT IN THE WORLD",
+          "value": 1200,
+          "clue": "Visit Gibraltar & you're sure to see this tailless primate, actually a species of macaque",
+          "answer": "Barbary ape",
+          "isDailyDouble": false,
+          "orderNumber": 2,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Yogesh",
+              "score": 4200
+            },
+            {
+              "player": "James",
+              "score": 4800
+            },
+            {
+              "player": "Matt",
+              "score": 2600
+            }
+          ]
+        },
+        {
+          "category": "OUT IN THE WORLD",
+          "value": 2000,
+          "clue": "Mexico is home to many of these underground pools with a name from the Mayan language",
+          "answer": "cenote",
+          "isDailyDouble": false,
+          "orderNumber": 3,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Yogesh",
+              "score": 4200
+            },
+            {
+              "player": "James",
+              "score": 4800
+            },
+            {
+              "player": "Matt",
+              "score": 4600
+            }
+          ]
+        },
+        {
+          "category": "OUT IN THE WORLD",
+          "value": 4600,
+          "clue": "This golden object was stolen by the Persians from India; Pahlavi shahs used reproductions for their coronations",
+          "answer": "Peacock Throne",
+          "isDailyDouble": true,
+          "orderNumber": 4,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Yogesh",
+              "score": 4200
+            },
+            {
+              "player": "James",
+              "score": 4800
+            },
+            {
+              "player": "Matt",
+              "score": 9200
+            }
+          ]
+        },
+        {
+          "category": "HISTORICAL CRISES",
+          "value": 1200,
+          "clue": "(George Stephanopoulos delivers the clue.)  A shooting war between nuclear powers qualifies as a crisis, like in 1969, when a tiny island on the Soviet-Chinese border saw fierce fighting between the Red Army & this one, the PLA",
+          "answer": "People's Liberation Army",
+          "isDailyDouble": false,
+          "orderNumber": 5,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Yogesh",
+              "score": 4200
+            },
+            {
+              "player": "James",
+              "score": 4800
+            },
+            {
+              "player": "Matt",
+              "score": 10400
+            }
+          ]
+        },
+        {
+          "category": "HISTORICAL CRISES",
+          "value": 1600,
+          "clue": "(George Stephanopoulos delivers the clue.)  In the 1861 Trent Affair, the Union seized two Confederate envoys from a British ship, not pleasing this often-abrasive prime minister known as \"Lord Pumice Stone\"",
+          "answer": "Lord Palmerston",
+          "isDailyDouble": false,
+          "orderNumber": 6,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Matt"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Yogesh",
+              "score": 4200
+            },
+            {
+              "player": "James",
+              "score": 3200
+            },
+            {
+              "player": "Matt",
+              "score": 8800
+            }
+          ]
+        },
+        {
+          "category": "HISTORICAL CRISES",
+          "value": 800,
+          "clue": "(George Stephanopoulos delivers the clue.)  My new book \"The Situation Room\" recounts some tense moments in that White House room, like during the Bosnian War, when this woman asked Colin Powell, \"What's the point of having this superb military if we can't use it?\"",
+          "answer": "Albright",
+          "isDailyDouble": false,
+          "orderNumber": 7,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Yogesh",
+              "score": 4200
+            },
+            {
+              "player": "James",
+              "score": 3200
+            },
+            {
+              "player": "Matt",
+              "score": 9600
+            }
+          ]
+        },
+        {
+          "category": "HISTORICAL CRISES",
+          "value": 2000,
+          "clue": "(George Stephanopoulos delivers the clue.)  Three years before World War I, anti-German feeling in France & Britain grew when Germany sent a single gunboat to Morocco in what's known as the crisis of this port down the coast from Casablanca",
+          "answer": "Agadir",
+          "isDailyDouble": false,
+          "orderNumber": 8,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Yogesh",
+              "score": 4200
+            },
+            {
+              "player": "James",
+              "score": 3200
+            },
+            {
+              "player": "Matt",
+              "score": 9600
+            }
+          ]
+        },
+        {
+          "category": "MUSIC IN BOOKS",
+          "value": 1200,
+          "clue": "In \"Misery\" Paul Sheldon thinks about this Cyndi Lauper song after Annie Wilkes goes wild with an axe",
+          "answer": "\"Girls Just Want To Have Fun\"",
+          "isDailyDouble": false,
+          "orderNumber": 9,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Yogesh",
+              "score": 4200
+            },
+            {
+              "player": "James",
+              "score": 4400
+            },
+            {
+              "player": "Matt",
+              "score": 9600
+            }
+          ]
+        },
+        {
+          "category": "MUSIC IN BOOKS",
+          "value": 1600,
+          "clue": "This Londoner has her narrator watch \"Top of the Pops\" & dance to \"Thriller\" in her 2016 novel \"Swing Time\"",
+          "answer": "Zadie Smith",
+          "isDailyDouble": false,
+          "orderNumber": 10,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Yogesh",
+              "score": 4200
+            },
+            {
+              "player": "James",
+              "score": 4400
+            },
+            {
+              "player": "Matt",
+              "score": 9600
+            }
+          ]
+        },
+        {
+          "category": "MUSIC IN BOOKS",
+          "value": 800,
+          "clue": "In this Nick Hornby novel, Rob puts Chuck Berry's \"Back In The USA\" & \"Let's Get It On\" by Marvin Gaye in his top 5",
+          "answer": "High Fidelity",
+          "isDailyDouble": false,
+          "orderNumber": 11,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Yogesh",
+              "score": 4200
+            },
+            {
+              "player": "James",
+              "score": 5200
+            },
+            {
+              "player": "Matt",
+              "score": 9600
+            }
+          ]
+        },
+        {
+          "category": "MUSIC IN BOOKS",
+          "value": 2000,
+          "clue": "The Sinfonietta by Czech composer Leos Janacek features prominently in this Murakami book partly set in a world with 2 moons",
+          "answer": "1Q84",
+          "isDailyDouble": false,
+          "orderNumber": 12,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Yogesh",
+              "score": 6200
+            },
+            {
+              "player": "James",
+              "score": 5200
+            },
+            {
+              "player": "Matt",
+              "score": 9600
+            }
+          ]
+        },
+        {
+          "category": "MOVIE MEMES: WHO SAID IT",
+          "value": 2000,
+          "clue": "2001:\"One does not simply walk into Mordor\"",
+          "answer": "Boromir",
+          "isDailyDouble": false,
+          "orderNumber": 13,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Yogesh",
+              "score": 6200
+            },
+            {
+              "player": "James",
+              "score": 5200
+            },
+            {
+              "player": "Matt",
+              "score": 11600
+            }
+          ]
+        },
+        {
+          "category": "IN CONCEIVABLE",
+          "value": 1200,
+          "clue": "In \"Foundation \" Isaac Asimov pithily wrote that this \"is the last refuge of the incompetent\"",
+          "answer": "violence",
+          "isDailyDouble": false,
+          "orderNumber": 14,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Yogesh",
+              "score": 6200
+            },
+            {
+              "player": "James",
+              "score": 5200
+            },
+            {
+              "player": "Matt",
+              "score": 11600
+            }
+          ]
+        },
+        {
+          "category": "IN CONCEIVABLE",
+          "value": 1600,
+          "clue": "Are you terse, concise or taciturn like the Spartans?  Then this adjective describes you (but maybe not the clue)",
+          "answer": "laconic",
+          "isDailyDouble": false,
+          "orderNumber": 15,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Yogesh",
+              "score": 7800
+            },
+            {
+              "player": "James",
+              "score": 5200
+            },
+            {
+              "player": "Matt",
+              "score": 11600
+            }
+          ]
+        },
+        {
+          "category": "IN CONCEIVABLE",
+          "value": 2000,
+          "clue": "81.8% as long as \"conceivable\", in chemistry it's the term for the number of electron pairs an atom has to share with another atom",
+          "answer": "covalence",
+          "isDailyDouble": false,
+          "orderNumber": 16,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Yogesh",
+              "score": 7800
+            },
+            {
+              "player": "James",
+              "score": 5200
+            },
+            {
+              "player": "Matt",
+              "score": 9600
+            }
+          ]
+        },
+        {
+          "category": "MOVIE MEMES: WHO SAID IT",
+          "value": 1600,
+          "clue": "1994:\"So, you're telling me there's a chance\"",
+          "answer": "Lloyd Christmas",
+          "isDailyDouble": false,
+          "orderNumber": 17,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Yogesh",
+              "score": 7800
+            },
+            {
+              "player": "James",
+              "score": 6800
+            },
+            {
+              "player": "Matt",
+              "score": 9600
+            }
+          ]
+        },
+        {
+          "category": "IN CONCEIVABLE",
+          "value": 6800,
+          "clue": "Rejoice, sinners!  The Latin for \"indulgence\" or \"grace\" gives us this adjective meaning easily pardoned",
+          "answer": "venial",
+          "isDailyDouble": true,
+          "orderNumber": 18,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Yogesh",
+              "score": 7800
+            },
+            {
+              "player": "James",
+              "score": 13600
+            },
+            {
+              "player": "Matt",
+              "score": 9600
+            }
+          ]
+        },
+        {
+          "category": "IS THIS THING AWNING?",
+          "value": 2000,
+          "clue": "No, we're indoors, & that's this structure over an altar; it can end in just \"N\" or in \"N-O\", & one at St. Peter's is pretty elaborate",
+          "answer": "a baldachin",
+          "isDailyDouble": false,
+          "orderNumber": 19,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Yogesh",
+              "score": 7800
+            },
+            {
+              "player": "James",
+              "score": 13600
+            },
+            {
+              "player": "Matt",
+              "score": 9600
+            }
+          ]
+        },
+        {
+          "category": "IS THIS THING AWNING?",
+          "value": 1600,
+          "clue": "Maybe, ask the rabbi: you're at a Jewish wedding & the canopy the bride & groom are under is called this",
+          "answer": "chuppah",
+          "isDailyDouble": false,
+          "orderNumber": 20,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Yogesh",
+              "score": 7800
+            },
+            {
+              "player": "James",
+              "score": 13600
+            },
+            {
+              "player": "Matt",
+              "score": 11200
+            }
+          ]
+        },
+        {
+          "category": "IS THIS THING AWNING?",
+          "value": 1200,
+          "clue": "Yes, the ones that give shoppers shade when they come out of Macy's flagship store in this New York City square",
+          "answer": "Herald Square",
+          "isDailyDouble": false,
+          "orderNumber": 21,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Yogesh",
+              "score": 7800
+            },
+            {
+              "player": "James",
+              "score": 14800
+            },
+            {
+              "player": "Matt",
+              "score": 11200
+            }
+          ]
+        },
+        {
+          "category": "IS THIS THING AWNING?",
+          "value": 800,
+          "clue": "No, it's the column-supported roof of this covered entranceway to a home",
+          "answer": "a portico",
+          "isDailyDouble": false,
+          "orderNumber": 22,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Yogesh",
+              "score": 7800
+            },
+            {
+              "player": "James",
+              "score": 15600
+            },
+            {
+              "player": "Matt",
+              "score": 11200
+            }
+          ]
+        },
+        {
+          "category": "IS THIS THING AWNING?",
+          "value": 400,
+          "clue": "Yes, specifically a velarium, which covered the audience in these such as the one of Pompeii, the oldest known Roman one",
+          "answer": "amphitheater",
+          "isDailyDouble": false,
+          "orderNumber": 23,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Yogesh",
+              "score": 7800
+            },
+            {
+              "player": "James",
+              "score": 15600
+            },
+            {
+              "player": "Matt",
+              "score": 11600
+            }
+          ]
+        },
+        {
+          "category": "MOVIE MEMES: WHO SAID IT",
+          "value": 1200,
+          "clue": "2002:\"I don't like sand\"",
+          "answer": "Anakin",
+          "isDailyDouble": false,
+          "orderNumber": 24,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Yogesh",
+              "score": 9000
+            },
+            {
+              "player": "James",
+              "score": 15600
+            },
+            {
+              "player": "Matt",
+              "score": 11600
+            }
+          ]
+        },
+        {
+          "category": "MOVIE MEMES: WHO SAID IT",
+          "value": 800,
+          "clue": "1997:\"It's been 84 years...\"",
+          "answer": "Rose",
+          "isDailyDouble": false,
+          "orderNumber": 25,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Yogesh",
+              "score": 9000
+            },
+            {
+              "player": "James",
+              "score": 16400
+            },
+            {
+              "player": "Matt",
+              "score": 11600
+            }
+          ]
+        },
+        {
+          "category": "MOVIE MEMES: WHO SAID IT",
+          "value": 400,
+          "clue": "1993:\"Life finds a way\"",
+          "answer": "Dr. Ian Malcolm",
+          "isDailyDouble": false,
+          "orderNumber": 26,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Yogesh",
+              "score": 9400
+            },
+            {
+              "player": "James",
+              "score": 16400
+            },
+            {
+              "player": "Matt",
+              "score": 11600
+            }
+          ]
+        },
+        {
+          "category": "OUT IN THE WORLD",
+          "value": 400,
+          "clue": "The Basilica di Santa Croce in this city contains the tombs of Galileo, Machiavelli & other great Italians",
+          "answer": "Florence",
+          "isDailyDouble": false,
+          "orderNumber": 27,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Yogesh",
+              "score": 9400
+            },
+            {
+              "player": "James",
+              "score": 16400
+            },
+            {
+              "player": "Matt",
+              "score": 12000
+            }
+          ]
+        },
+        {
+          "category": "MUSIC IN BOOKS",
+          "value": 400,
+          "clue": "At the start of this Ralph Ellison novel, the nameless narrator listens to Louis Armstrong in an underground room",
+          "answer": "Invisible Man",
+          "isDailyDouble": false,
+          "orderNumber": 28,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Yogesh",
+              "score": 9800
+            },
+            {
+              "player": "James",
+              "score": 16400
+            },
+            {
+              "player": "Matt",
+              "score": 12000
+            }
+          ]
+        },
+        {
+          "category": "IN CONCEIVABLE",
+          "value": 400,
+          "clue": "Usually said with a satisfying flourish, this French word is proclaimed when something appears as if by magic",
+          "answer": "voilà",
+          "isDailyDouble": false,
+          "orderNumber": 29,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Yogesh",
+              "score": 10200
+            },
+            {
+              "player": "James",
+              "score": 16400
+            },
+            {
+              "player": "Matt",
+              "score": 12000
+            }
+          ]
+        },
+        {
+          "category": "HISTORICAL CRISES",
+          "value": 400,
+          "clue": "(George Stephanopoulos delivers the clue.)  JFK installed the first practical White House taping system a couple of months before this crisis, which is how we know that during a lighter moment someone said, \"Let's make Bobby mayor of Havana\"",
+          "answer": "Cuban Missile Crisis",
+          "isDailyDouble": false,
+          "orderNumber": 30,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Yogesh",
+              "score": 10200
+            },
+            {
+              "player": "James",
+              "score": 16400
+            },
+            {
+              "player": "Matt",
+              "score": 12400
+            }
+          ]
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "Yogesh",
+          "score": 10200
+        },
+        {
+          "player": "James",
+          "score": 16400
+        },
+        {
+          "player": "Matt",
+          "score": 12400
+        }
+      ]
+    },
+    "finalJeopardy": {
+      "category": "MILITARY PEOPLE",
+      "clue": "In April 2020 Chief Master Sergeant Roger Towberman became the first enlisted member of this",
+      "answer": "Space Force",
+      "responses": [
+        {
+          "contestant": "Yogesh",
+          "response": "What Officers Club?",
+          "isCorrect": false,
+          "isIncorrect": true,
+          "value": 10200,
+          "finalScore": 0
+        },
+        {
+          "contestant": "Matt",
+          "response": "What space force ☾ ★",
+          "isCorrect": true,
+          "isIncorrect": false,
+          "value": 12400,
+          "finalScore": 24800
+        },
+        {
+          "contestant": "James",
+          "response": "What is Space Force",
+          "isCorrect": true,
+          "isIncorrect": false,
+          "value": 8615,
+          "finalScore": 25015
+        }
+      ]
+    }
+  },
+  "finalScores": [
+    {
+      "player": "Yogesh",
+      "score": "0"
+    },
+    {
+      "player": "James",
+      "score": "25,015"
+    },
+    {
+      "player": "Matt",
+      "score": "24,800"
+    }
+  ],
+  "coryatScores": [
+    {
+      "player": "Yogesh",
+      "score": 10200
+    },
+    {
+      "player": "James",
+      "score": 10400
+    },
+    {
+      "player": "Matt",
+      "score": 10200
+    }
+  ]
+}

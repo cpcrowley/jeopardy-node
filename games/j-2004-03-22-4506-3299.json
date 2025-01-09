@@ -1,0 +1,1700 @@
+{
+  "gameId": 3299,
+  "showNumber": "4506",
+  "title": "Show #4506 - Monday, March 22, 2004",
+  "date": "2004-03-22",
+  "comments": "",
+  "contestants": [
+    "Sonja",
+    "Brian",
+    "Daniel"
+  ],
+  "rounds": {
+    "jeopardy": {
+      "categories": [
+        "U.S. CITIES",
+        "ROLLING STONE'S 100 GREATEST GUITARISTS",
+        "THE LENIN CLOSET",
+        "POTPOURRI",
+        "MAGAZINES",
+        "ABBREVIATED"
+      ],
+      "clues": [
+        {
+          "category": "U.S. CITIES",
+          "value": 200,
+          "clue": "Its nicknames include \"The Athens of America\" & \"The Cradle of Liberty\"",
+          "answer": "Boston",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [
+            "Sonja",
+            "Brian"
+          ],
+          "incorrectContestants": [
+            "Daniel"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Sonja",
+              "score": 200
+            },
+            {
+              "player": "Brian",
+              "score": 200
+            },
+            {
+              "player": "Daniel",
+              "score": -200
+            }
+          ]
+        },
+        {
+          "category": "U.S. CITIES",
+          "value": 400,
+          "clue": "When Oregon became a state in 1859, this city on the Willamette River was already the capital",
+          "answer": "Salem",
+          "isDailyDouble": false,
+          "orderNumber": 2,
+          "correctContestants": [
+            "Daniel"
+          ],
+          "incorrectContestants": [
+            "Brian"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Sonja",
+              "score": 200
+            },
+            {
+              "player": "Brian",
+              "score": -200
+            },
+            {
+              "player": "Daniel",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "U.S. CITIES",
+          "value": 600,
+          "clue": "Benjamin Franklin Parkway & The Franklin Institute Science Museum are in this city",
+          "answer": "Philadelphia",
+          "isDailyDouble": false,
+          "orderNumber": 3,
+          "correctContestants": [
+            "Brian"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Sonja",
+              "score": 200
+            },
+            {
+              "player": "Brian",
+              "score": 400
+            },
+            {
+              "player": "Daniel",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "U.S. CITIES",
+          "value": 800,
+          "clue": "According to a song by Ian Hunter, it \"Rocks\" (must be why the Rock & Roll Hall of Fame is there)",
+          "answer": "Cleveland",
+          "isDailyDouble": false,
+          "orderNumber": 4,
+          "correctContestants": [
+            "Brian"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Sonja",
+              "score": 200
+            },
+            {
+              "player": "Brian",
+              "score": 1200
+            },
+            {
+              "player": "Daniel",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "U.S. CITIES",
+          "value": 1000,
+          "clue": "Located in this city's Garden District, Commander's Palace features a jazz brunch on weekends",
+          "answer": "New Orleans",
+          "isDailyDouble": false,
+          "orderNumber": 5,
+          "correctContestants": [
+            "Sonja"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Sonja",
+              "score": 1200
+            },
+            {
+              "player": "Brian",
+              "score": 1200
+            },
+            {
+              "player": "Daniel",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "MAGAZINES",
+          "value": 200,
+          "clue": "As the old saying goes, \"An ounce of\" this magazine \"is worth a pound of cure\"",
+          "answer": "Prevention",
+          "isDailyDouble": false,
+          "orderNumber": 6,
+          "correctContestants": [
+            "Brian"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Sonja",
+              "score": 1200
+            },
+            {
+              "player": "Brian",
+              "score": 1400
+            },
+            {
+              "player": "Daniel",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "POTPOURRI",
+          "value": 200,
+          "clue": "In 2001 Sweden & the U.S. honored this award's 100th anniversary with a set of postage stamps",
+          "answer": "the Nobel Prize",
+          "isDailyDouble": false,
+          "orderNumber": 7,
+          "correctContestants": [
+            "Daniel"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Sonja",
+              "score": 1200
+            },
+            {
+              "player": "Brian",
+              "score": 1400
+            },
+            {
+              "player": "Daniel",
+              "score": 400
+            }
+          ]
+        },
+        {
+          "category": "POTPOURRI",
+          "value": 400,
+          "clue": "Select Comfort Corporation makes these with adjustable firmness",
+          "answer": "mattresses",
+          "isDailyDouble": false,
+          "orderNumber": 8,
+          "correctContestants": [
+            "Brian"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Sonja",
+              "score": 1200
+            },
+            {
+              "player": "Brian",
+              "score": 1800
+            },
+            {
+              "player": "Daniel",
+              "score": 400
+            }
+          ]
+        },
+        {
+          "category": "THE LENIN CLOSET",
+          "value": 200,
+          "clue": "Lenin got a degree in this in 1891, then went on to court a lot of trouble",
+          "answer": "law",
+          "isDailyDouble": false,
+          "orderNumber": 9,
+          "correctContestants": [
+            "Brian"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Sonja",
+              "score": 1200
+            },
+            {
+              "player": "Brian",
+              "score": 2000
+            },
+            {
+              "player": "Daniel",
+              "score": 400
+            }
+          ]
+        },
+        {
+          "category": "THE LENIN CLOSET",
+          "value": 400,
+          "clue": "Lenin met his wife Nadezhda while exiled here",
+          "answer": "Siberia",
+          "isDailyDouble": false,
+          "orderNumber": 10,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Sonja",
+              "score": 1200
+            },
+            {
+              "player": "Brian",
+              "score": 2000
+            },
+            {
+              "player": "Daniel",
+              "score": 400
+            }
+          ]
+        },
+        {
+          "category": "ROLLING STONE'S 100 GREATEST GUITARISTS",
+          "value": 200,
+          "clue": "Who was No. 50?  This Who guitarist, that's who",
+          "answer": "Pete Townshend",
+          "isDailyDouble": false,
+          "orderNumber": 11,
+          "correctContestants": [
+            "Daniel"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Sonja",
+              "score": 1200
+            },
+            {
+              "player": "Brian",
+              "score": 2000
+            },
+            {
+              "player": "Daniel",
+              "score": 600
+            }
+          ]
+        },
+        {
+          "category": "ROLLING STONE'S 100 GREATEST GUITARISTS",
+          "value": 400,
+          "clue": "Not surprisingly this legendary guitarist who colored the '60s with songs like \"Purple Haze\" came in at No. 1",
+          "answer": "Jimi Hendrix",
+          "isDailyDouble": false,
+          "orderNumber": 12,
+          "correctContestants": [
+            "Daniel"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Sonja",
+              "score": 1200
+            },
+            {
+              "player": "Brian",
+              "score": 2000
+            },
+            {
+              "player": "Daniel",
+              "score": 1000
+            }
+          ]
+        },
+        {
+          "category": "ROLLING STONE'S 100 GREATEST GUITARISTS",
+          "value": 600,
+          "clue": "It's said of No. 3, \"His string-bending & vibrato made his famous guitar, Lucille, weep like a real-life woman\"",
+          "answer": "B.B. King",
+          "isDailyDouble": false,
+          "orderNumber": 13,
+          "correctContestants": [
+            "Daniel"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Sonja",
+              "score": 1200
+            },
+            {
+              "player": "Brian",
+              "score": 2000
+            },
+            {
+              "player": "Daniel",
+              "score": 1600
+            }
+          ]
+        },
+        {
+          "category": "ROLLING STONE'S 100 GREATEST GUITARISTS",
+          "value": 800,
+          "clue": "His \"Smooth\" guitar strains earned him a place at No. 15",
+          "answer": "Carlos Santana",
+          "isDailyDouble": false,
+          "orderNumber": 14,
+          "correctContestants": [
+            "Daniel"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Sonja",
+              "score": 1200
+            },
+            {
+              "player": "Brian",
+              "score": 2000
+            },
+            {
+              "player": "Daniel",
+              "score": 2400
+            }
+          ]
+        },
+        {
+          "category": "ROLLING STONE'S 100 GREATEST GUITARISTS",
+          "value": 1000,
+          "clue": "Surprisingly, only 2 women made the list: Joni Mitchell & this leader of the Blackhearts",
+          "answer": "Joan Jett",
+          "isDailyDouble": false,
+          "orderNumber": 15,
+          "correctContestants": [
+            "Sonja"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Sonja",
+              "score": 2200
+            },
+            {
+              "player": "Brian",
+              "score": 2000
+            },
+            {
+              "player": "Daniel",
+              "score": 2400
+            }
+          ]
+        },
+        {
+          "category": "MAGAZINES",
+          "value": 400,
+          "clue": "In Nov. 2003 Judge Ira Gammerman said neither side would get damages from the demise of this celeb's magazine",
+          "answer": "Rosie O'Donnell",
+          "isDailyDouble": false,
+          "orderNumber": 16,
+          "correctContestants": [
+            "Daniel"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Sonja",
+              "score": 2200
+            },
+            {
+              "player": "Brian",
+              "score": 2000
+            },
+            {
+              "player": "Daniel",
+              "score": 2800
+            }
+          ]
+        },
+        {
+          "category": "MAGAZINES",
+          "value": 600,
+          "clue": "For its Dec. 2003 issue, the U.S. Marie Claire put its first man on its cover, this star of \"The Last Samurai\"",
+          "answer": "Tom Cruise",
+          "isDailyDouble": false,
+          "orderNumber": 17,
+          "correctContestants": [
+            "Sonja"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Sonja",
+              "score": 2800
+            },
+            {
+              "player": "Brian",
+              "score": 2000
+            },
+            {
+              "player": "Daniel",
+              "score": 2800
+            }
+          ]
+        },
+        {
+          "category": "MAGAZINES",
+          "value": 800,
+          "clue": "In titles, this word follows Southern, Country & Martha Stewart",
+          "answer": "Living",
+          "isDailyDouble": false,
+          "orderNumber": 18,
+          "correctContestants": [
+            "Brian"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Sonja",
+              "score": 2800
+            },
+            {
+              "player": "Brian",
+              "score": 2800
+            },
+            {
+              "player": "Daniel",
+              "score": 2800
+            }
+          ]
+        },
+        {
+          "category": "MAGAZINES",
+          "value": 1000,
+          "clue": "Marilyn Vos Savant's column appears in this magazine that comes with Sunday newspapers",
+          "answer": "Parade Magazine",
+          "isDailyDouble": false,
+          "orderNumber": 19,
+          "correctContestants": [
+            "Brian"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Sonja",
+              "score": 2800
+            },
+            {
+              "player": "Brian",
+              "score": 3800
+            },
+            {
+              "player": "Daniel",
+              "score": 2800
+            }
+          ]
+        },
+        {
+          "category": "THE LENIN CLOSET",
+          "value": 1000,
+          "clue": "When Russian Marxism split into 2 factions, Lenin led this \"majority\" group",
+          "answer": "the Bolsheviks",
+          "isDailyDouble": true,
+          "orderNumber": 20,
+          "correctContestants": [
+            "Brian"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Sonja",
+              "score": 2800
+            },
+            {
+              "player": "Brian",
+              "score": 4800
+            },
+            {
+              "player": "Daniel",
+              "score": 2800
+            }
+          ]
+        },
+        {
+          "category": "THE LENIN CLOSET",
+          "value": 800,
+          "clue": "Lenin spent WWI in this country, but he was far from neutral on the subject",
+          "answer": "Switzerland",
+          "isDailyDouble": false,
+          "orderNumber": 21,
+          "correctContestants": [
+            "Daniel"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Sonja",
+              "score": 2800
+            },
+            {
+              "player": "Brian",
+              "score": 4800
+            },
+            {
+              "player": "Daniel",
+              "score": 3600
+            }
+          ]
+        },
+        {
+          "category": "THE LENIN CLOSET",
+          "value": 1000,
+          "clue": "When Lenin returned to Russia in 1917, he did it in a \"sealed\" one of these",
+          "answer": "railway car",
+          "isDailyDouble": false,
+          "orderNumber": 22,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Brian"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Sonja",
+              "score": 2800
+            },
+            {
+              "player": "Brian",
+              "score": 3800
+            },
+            {
+              "player": "Daniel",
+              "score": 3600
+            }
+          ]
+        },
+        {
+          "category": "POTPOURRI",
+          "value": 600,
+          "clue": "On an NHL rink, it's the color of the center line",
+          "answer": "red",
+          "isDailyDouble": false,
+          "orderNumber": 23,
+          "correctContestants": [
+            "Daniel"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Sonja",
+              "score": 2800
+            },
+            {
+              "player": "Brian",
+              "score": 3800
+            },
+            {
+              "player": "Daniel",
+              "score": 4200
+            }
+          ]
+        },
+        {
+          "category": "POTPOURRI",
+          "value": 800,
+          "clue": "In 2003 a nationwide Free Slurpee Day was on this date",
+          "answer": "July 11",
+          "isDailyDouble": false,
+          "orderNumber": 24,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Sonja",
+              "score": 2800
+            },
+            {
+              "player": "Brian",
+              "score": 3800
+            },
+            {
+              "player": "Daniel",
+              "score": 4200
+            }
+          ]
+        },
+        {
+          "category": "POTPOURRI",
+          "value": 1000,
+          "clue": "This flower got its name from the belief that bees got a sweet substance out of it",
+          "answer": "honeysuckle",
+          "isDailyDouble": false,
+          "orderNumber": 25,
+          "correctContestants": [
+            "Brian"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Sonja",
+              "score": 2800
+            },
+            {
+              "player": "Brian",
+              "score": 4800
+            },
+            {
+              "player": "Daniel",
+              "score": 4200
+            }
+          ]
+        },
+        {
+          "category": "ABBREVIATED",
+          "value": 200,
+          "clue": "A \"green\" government group:EPA",
+          "answer": "Environmental Protection Agency",
+          "isDailyDouble": false,
+          "orderNumber": 26,
+          "correctContestants": [
+            "Daniel"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Sonja",
+              "score": 2800
+            },
+            {
+              "player": "Brian",
+              "score": 4800
+            },
+            {
+              "player": "Daniel",
+              "score": 4400
+            }
+          ]
+        },
+        {
+          "category": "ABBREVIATED",
+          "value": 400,
+          "clue": "High-ranking business operative:CFO",
+          "answer": "chief financial officer",
+          "isDailyDouble": false,
+          "orderNumber": 27,
+          "correctContestants": [
+            "Daniel"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Sonja",
+              "score": 2800
+            },
+            {
+              "player": "Brian",
+              "score": 4800
+            },
+            {
+              "player": "Daniel",
+              "score": 4800
+            }
+          ]
+        },
+        {
+          "category": "ABBREVIATED",
+          "value": 600,
+          "clue": "An international alliance:EU",
+          "answer": "the European Union",
+          "isDailyDouble": false,
+          "orderNumber": 28,
+          "correctContestants": [
+            "Brian"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Sonja",
+              "score": 2800
+            },
+            {
+              "player": "Brian",
+              "score": 5400
+            },
+            {
+              "player": "Daniel",
+              "score": 4800
+            }
+          ]
+        },
+        {
+          "category": "ABBREVIATED",
+          "value": 800,
+          "clue": "On an accountant's calendar:FY",
+          "answer": "fiscal year",
+          "isDailyDouble": false,
+          "orderNumber": 29,
+          "correctContestants": [
+            "Sonja"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Sonja",
+              "score": 3600
+            },
+            {
+              "player": "Brian",
+              "score": 5400
+            },
+            {
+              "player": "Daniel",
+              "score": 4800
+            }
+          ]
+        },
+        {
+          "category": "ABBREVIATED",
+          "value": 1000,
+          "clue": "Sometimes you get extras with one of these:DVD",
+          "answer": "digital video disc",
+          "isDailyDouble": false,
+          "orderNumber": 30,
+          "correctContestants": [
+            "Brian"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Sonja",
+              "score": 3600
+            },
+            {
+              "player": "Brian",
+              "score": 6400
+            },
+            {
+              "player": "Daniel",
+              "score": 4800
+            }
+          ]
+        }
+      ],
+      "firstBreakScores": [
+        {
+          "player": "Sonja",
+          "score": 2200
+        },
+        {
+          "player": "Brian",
+          "score": 2000
+        },
+        {
+          "player": "Daniel",
+          "score": 2400
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "Sonja",
+          "score": 3600
+        },
+        {
+          "player": "Brian",
+          "score": 6400
+        },
+        {
+          "player": "Daniel",
+          "score": 4800
+        }
+      ]
+    },
+    "doubleJeopardy": {
+      "categories": [
+        "POETS",
+        "THE YEAR IN SPORTS",
+        "FAMOUS JACQUES",
+        "WORLD COINS",
+        "MEDICINE",
+        "\"SIDE\" EFFECTS"
+      ],
+      "clues": [
+        {
+          "category": "WORLD COINS",
+          "value": 400,
+          "clue": "Its 1-shekel coin features a flower taken from a Judean coin during the Persian period",
+          "answer": "Israel",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Sonja",
+              "score": 4000
+            },
+            {
+              "player": "Brian",
+              "score": 6400
+            },
+            {
+              "player": "Daniel",
+              "score": 4800
+            }
+          ]
+        },
+        {
+          "category": "WORLD COINS",
+          "value": 800,
+          "clue": "In 1999 the Cook Islands issued a half dollar coin featuring this Jim Davis comic strip title character",
+          "answer": "Garfield",
+          "isDailyDouble": false,
+          "orderNumber": 2,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Sonja",
+              "score": 4000
+            },
+            {
+              "player": "Brian",
+              "score": 6400
+            },
+            {
+              "player": "Daniel",
+              "score": 5600
+            }
+          ]
+        },
+        {
+          "category": "WORLD COINS",
+          "value": 1200,
+          "clue": "In 1999 it issued its 1-oz. silver kookaburra coin with honor marks reproducing several U.S. state quarters",
+          "answer": "Australia",
+          "isDailyDouble": false,
+          "orderNumber": 3,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Sonja",
+              "score": 4000
+            },
+            {
+              "player": "Brian",
+              "score": 6400
+            },
+            {
+              "player": "Daniel",
+              "score": 6800
+            }
+          ]
+        },
+        {
+          "category": "WORLD COINS",
+          "value": 1600,
+          "clue": "All of Ireland's coins feature this musical instrument on one side",
+          "answer": "the harp",
+          "isDailyDouble": false,
+          "orderNumber": 4,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Sonja",
+              "score": 4000
+            },
+            {
+              "player": "Brian",
+              "score": 8000
+            },
+            {
+              "player": "Daniel",
+              "score": 6800
+            }
+          ]
+        },
+        {
+          "category": "WORLD COINS",
+          "value": 2000,
+          "clue": "In 2001 Russia issued a coin with his portrait to commemorate the 40th anniversary of manned space flight",
+          "answer": "Yuri Gagarin",
+          "isDailyDouble": false,
+          "orderNumber": 5,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Sonja",
+              "score": 4000
+            },
+            {
+              "player": "Brian",
+              "score": 10000
+            },
+            {
+              "player": "Daniel",
+              "score": 6800
+            }
+          ]
+        },
+        {
+          "category": "FAMOUS JACQUES",
+          "value": 400,
+          "clue": "His 1959 film \"The Golden Fish\" won him an Oscar",
+          "answer": "(Jacques) Cousteau",
+          "isDailyDouble": false,
+          "orderNumber": 6,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Sonja",
+              "score": 4000
+            },
+            {
+              "player": "Brian",
+              "score": 10400
+            },
+            {
+              "player": "Daniel",
+              "score": 6800
+            }
+          ]
+        },
+        {
+          "category": "POETS",
+          "value": 400,
+          "clue": "This \"Howl\" poet's father was also a poet & the 2 would perform public readings together",
+          "answer": "Allen Ginsberg",
+          "isDailyDouble": false,
+          "orderNumber": 7,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Sonja",
+              "score": 4400
+            },
+            {
+              "player": "Brian",
+              "score": 10400
+            },
+            {
+              "player": "Daniel",
+              "score": 6800
+            }
+          ]
+        },
+        {
+          "category": "POETS",
+          "value": 800,
+          "clue": "In 1953 his Norton Lectures at Harvard were published as \"i: six nonlectures\"",
+          "answer": "(E.E.) Cummings",
+          "isDailyDouble": false,
+          "orderNumber": 8,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Sonja",
+              "score": 5200
+            },
+            {
+              "player": "Brian",
+              "score": 10400
+            },
+            {
+              "player": "Daniel",
+              "score": 6800
+            }
+          ]
+        },
+        {
+          "category": "POETS",
+          "value": 1200,
+          "clue": "She considered publishing \"Sonnets from the Portuguese\" as \"Sonnets Translated from the Bosnian\"",
+          "answer": "Elizabeth (Barrett) Browning",
+          "isDailyDouble": false,
+          "orderNumber": 9,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Sonja",
+              "score": 6400
+            },
+            {
+              "player": "Brian",
+              "score": 10400
+            },
+            {
+              "player": "Daniel",
+              "score": 6800
+            }
+          ]
+        },
+        {
+          "category": "POETS",
+          "value": 1000,
+          "clue": "After his death in 1821, a fellow poet wrote that he was fragile & was \"killed off by one critique\"",
+          "answer": "(John) Keats",
+          "isDailyDouble": true,
+          "orderNumber": 10,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Sonja",
+              "score": 7400
+            },
+            {
+              "player": "Brian",
+              "score": 10400
+            },
+            {
+              "player": "Daniel",
+              "score": 6800
+            }
+          ]
+        },
+        {
+          "category": "POETS",
+          "value": 2000,
+          "clue": "In 1857 this \"Old Ironsides\" poet & others founded the Atlantic Monthly",
+          "answer": "Oliver Wendell Holmes",
+          "isDailyDouble": false,
+          "orderNumber": 11,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Sonja",
+              "score": 7400
+            },
+            {
+              "player": "Brian",
+              "score": 8400
+            },
+            {
+              "player": "Daniel",
+              "score": 6800
+            }
+          ]
+        },
+        {
+          "category": "FAMOUS JACQUES",
+          "value": 800,
+          "clue": "In 1995 he succeeded Francois Mitterand",
+          "answer": "Jacques Chirac",
+          "isDailyDouble": false,
+          "orderNumber": 12,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Sonja",
+              "score": 8200
+            },
+            {
+              "player": "Brian",
+              "score": 8400
+            },
+            {
+              "player": "Daniel",
+              "score": 6800
+            }
+          ]
+        },
+        {
+          "category": "FAMOUS JACQUES",
+          "value": 1200,
+          "clue": "Much of France's 16th century Canadian claim was based on his explorations",
+          "answer": "(Jacques) Cartier",
+          "isDailyDouble": false,
+          "orderNumber": 13,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Sonja",
+              "score": 8200
+            },
+            {
+              "player": "Brian",
+              "score": 8400
+            },
+            {
+              "player": "Daniel",
+              "score": 8000
+            }
+          ]
+        },
+        {
+          "category": "\"SIDE\" EFFECTS",
+          "value": 400,
+          "clue": "Manner assumed by good doctors",
+          "answer": "bedside manner",
+          "isDailyDouble": false,
+          "orderNumber": 14,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Sonja",
+              "score": 8200
+            },
+            {
+              "player": "Brian",
+              "score": 8800
+            },
+            {
+              "player": "Daniel",
+              "score": 8000
+            }
+          ]
+        },
+        {
+          "category": "\"SIDE\" EFFECTS",
+          "value": 800,
+          "clue": "You can get an 18-pound collection of every one of these Gary Larson cartoons",
+          "answer": "\"The Far Side\"",
+          "isDailyDouble": false,
+          "orderNumber": 15,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Sonja",
+              "score": 8200
+            },
+            {
+              "player": "Brian",
+              "score": 9600
+            },
+            {
+              "player": "Daniel",
+              "score": 8000
+            }
+          ]
+        },
+        {
+          "category": "\"SIDE\" EFFECTS",
+          "value": 1200,
+          "clue": "A trial judge may call this conference with the attorneys, out of the jury's hearing",
+          "answer": "sidebar",
+          "isDailyDouble": false,
+          "orderNumber": 16,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Sonja",
+              "score": 8200
+            },
+            {
+              "player": "Brian",
+              "score": 9600
+            },
+            {
+              "player": "Daniel",
+              "score": 9200
+            }
+          ]
+        },
+        {
+          "category": "\"SIDE\" EFFECTS",
+          "value": 1600,
+          "clue": "Economists also know it as Reaganomics",
+          "answer": "supply-side economics",
+          "isDailyDouble": false,
+          "orderNumber": 17,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Sonja",
+              "score": 8200
+            },
+            {
+              "player": "Brian",
+              "score": 11200
+            },
+            {
+              "player": "Daniel",
+              "score": 9200
+            }
+          ]
+        },
+        {
+          "category": "\"SIDE\" EFFECTS",
+          "value": 2000,
+          "clue": "Show that includes \"Comedy Tonight\", \"Company\" & \"Send in the Clowns\"",
+          "answer": "Side by Side",
+          "isDailyDouble": false,
+          "orderNumber": 18,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Sonja",
+              "score": 8200
+            },
+            {
+              "player": "Brian",
+              "score": 11200
+            },
+            {
+              "player": "Daniel",
+              "score": 9200
+            }
+          ]
+        },
+        {
+          "category": "FAMOUS JACQUES",
+          "value": 1600,
+          "clue": "He painted the death of Marat & he himself died in exile in Brussels",
+          "answer": "Jacques-Louis David",
+          "isDailyDouble": false,
+          "orderNumber": 19,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Sonja",
+              "score": 8200
+            },
+            {
+              "player": "Brian",
+              "score": 11200
+            },
+            {
+              "player": "Daniel",
+              "score": 9200
+            }
+          ]
+        },
+        {
+          "category": "MEDICINE",
+          "value": 400,
+          "clue": "A Pseudofolliculitis barbae is an \"ingrown\" one of these",
+          "answer": "a hair",
+          "isDailyDouble": false,
+          "orderNumber": 20,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Sonja",
+              "score": 8600
+            },
+            {
+              "player": "Brian",
+              "score": 11200
+            },
+            {
+              "player": "Daniel",
+              "score": 9200
+            }
+          ]
+        },
+        {
+          "category": "FAMOUS JACQUES",
+          "value": 2000,
+          "clue": "He composed both \"The Tales of Hoffmann\" & that scandalous \"Cancan\" music",
+          "answer": "(Jacques) Offenbach",
+          "isDailyDouble": false,
+          "orderNumber": 21,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Sonja",
+              "score": 10600
+            },
+            {
+              "player": "Brian",
+              "score": 11200
+            },
+            {
+              "player": "Daniel",
+              "score": 9200
+            }
+          ]
+        },
+        {
+          "category": "MEDICINE",
+          "value": 800,
+          "clue": "Adding these charged particles to the air is supposed to reduce blood pressure & relieve headaches",
+          "answer": "negative ions",
+          "isDailyDouble": false,
+          "orderNumber": 22,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Sonja",
+              "score": 11400
+            },
+            {
+              "player": "Brian",
+              "score": 11200
+            },
+            {
+              "player": "Daniel",
+              "score": 9200
+            }
+          ]
+        },
+        {
+          "category": "MEDICINE",
+          "value": 1200,
+          "clue": "Symbolized Ba, this element is put in your body, one way or another, to be seen on X-rays",
+          "answer": "barium",
+          "isDailyDouble": false,
+          "orderNumber": 23,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Sonja",
+              "score": 12600
+            },
+            {
+              "player": "Brian",
+              "score": 11200
+            },
+            {
+              "player": "Daniel",
+              "score": 9200
+            }
+          ]
+        },
+        {
+          "category": "MEDICINE",
+          "value": 1600,
+          "clue": "Yes, she developed a scoring system in 1952 to aid in determining a newborn's health",
+          "answer": "Virginia Apgar",
+          "isDailyDouble": false,
+          "orderNumber": 24,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Sonja",
+              "score": 12600
+            },
+            {
+              "player": "Brian",
+              "score": 11200
+            },
+            {
+              "player": "Daniel",
+              "score": 9200
+            }
+          ]
+        },
+        {
+          "category": "MEDICINE",
+          "value": 2000,
+          "clue": "Nitroglycerin is an example of this type of drug that widens blood vessels",
+          "answer": "vasodilator",
+          "isDailyDouble": false,
+          "orderNumber": 25,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Sonja",
+              "score": 12600
+            },
+            {
+              "player": "Brian",
+              "score": 9200
+            },
+            {
+              "player": "Daniel",
+              "score": 9200
+            }
+          ]
+        },
+        {
+          "category": "THE YEAR IN SPORTS",
+          "value": 400,
+          "clue": "Bruce Jenner & Ray Leonard were American Olympic champs in this red, white & blue year",
+          "answer": "1976",
+          "isDailyDouble": false,
+          "orderNumber": 26,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Sonja",
+              "score": 13000
+            },
+            {
+              "player": "Brian",
+              "score": 9200
+            },
+            {
+              "player": "Daniel",
+              "score": 9200
+            }
+          ]
+        },
+        {
+          "category": "THE YEAR IN SPORTS",
+          "value": 800,
+          "clue": "It was the year of Babe Ruth's career high in home runs",
+          "answer": "1927",
+          "isDailyDouble": false,
+          "orderNumber": 27,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Sonja",
+              "score": 13000
+            },
+            {
+              "player": "Brian",
+              "score": 9200
+            },
+            {
+              "player": "Daniel",
+              "score": 10000
+            }
+          ]
+        },
+        {
+          "category": "THE YEAR IN SPORTS",
+          "value": 3000,
+          "clue": "(Jimmy of the Clue Crew at Indianapolis Speedway)  The Noc-Out Hose Clamp Special was the winning car at Indianapolis in this year; the race was cancelled the next 4 years",
+          "answer": "1941",
+          "isDailyDouble": true,
+          "orderNumber": 28,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Sonja",
+              "score": 13000
+            },
+            {
+              "player": "Brian",
+              "score": 9200
+            },
+            {
+              "player": "Daniel",
+              "score": 13000
+            }
+          ]
+        },
+        {
+          "category": "THE YEAR IN SPORTS",
+          "value": 1600,
+          "clue": "In this, his final year, Ted Williams became one of the few major leaguers to play in 4 decades",
+          "answer": "1960",
+          "isDailyDouble": false,
+          "orderNumber": 29,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Sonja",
+              "score": 13000
+            },
+            {
+              "player": "Brian",
+              "score": 9200
+            },
+            {
+              "player": "Daniel",
+              "score": 13000
+            }
+          ]
+        },
+        {
+          "category": "THE YEAR IN SPORTS",
+          "value": 2000,
+          "clue": "Super Bowl XXXVIII was in 2004; this was the year of Super Bowl I",
+          "answer": "1967",
+          "isDailyDouble": false,
+          "orderNumber": 30,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Sonja",
+              "score": 13000
+            },
+            {
+              "player": "Brian",
+              "score": 9200
+            },
+            {
+              "player": "Daniel",
+              "score": 15000
+            }
+          ]
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "Sonja",
+          "score": 13000
+        },
+        {
+          "player": "Brian",
+          "score": 9200
+        },
+        {
+          "player": "Daniel",
+          "score": 15000
+        }
+      ]
+    },
+    "finalJeopardy": {
+      "category": "FAMOUS FELINES",
+      "clue": "He made his debut in the 1945 short film \"Life with Feathers\"",
+      "answer": "Sylvester",
+      "responses": [
+        {
+          "contestant": "Brian",
+          "response": "Who is Sylvester?",
+          "isCorrect": true,
+          "isIncorrect": false,
+          "value": 9200,
+          "finalScore": 18400
+        },
+        {
+          "contestant": "Sonja",
+          "response": "Who is Sylvester?",
+          "isCorrect": true,
+          "isIncorrect": false,
+          "value": 5450,
+          "finalScore": 18450
+        },
+        {
+          "contestant": "Daniel",
+          "response": "Who is Felix?",
+          "isCorrect": false,
+          "isIncorrect": true,
+          "value": 11000,
+          "finalScore": 4000
+        }
+      ]
+    }
+  },
+  "finalScores": [
+    {
+      "player": "Sonja",
+      "score": "$18,450"
+    },
+    {
+      "player": "Brian",
+      "score": "$18,400"
+    },
+    {
+      "player": "Daniel",
+      "score": "$4,000"
+    }
+  ],
+  "coryatScores": [
+    {
+      "player": "Sonja",
+      "score": 13600
+    },
+    {
+      "player": "Brian",
+      "score": 8800
+    },
+    {
+      "player": "Daniel",
+      "score": 13200
+    }
+  ]
+}

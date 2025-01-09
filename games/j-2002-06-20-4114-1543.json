@@ -1,0 +1,1695 @@
+{
+  "gameId": 1543,
+  "showNumber": "4114",
+  "title": "Show #4114 - Thursday, June 20, 2002",
+  "date": "2002-06-20",
+  "comments": "Eric Floyd game 1.",
+  "contestants": [
+    "Meagan",
+    "Jen",
+    "Eric"
+  ],
+  "rounds": {
+    "jeopardy": {
+      "categories": [
+        "CITY QUOTES",
+        "COUNTRY SINGERS ON FILM",
+        "EXPLORERS",
+        "\"HIGH\" ANXIETY",
+        "'20s TRANSPORTATION",
+        "STUPID ANSWERS"
+      ],
+      "clues": [
+        {
+          "category": "COUNTRY SINGERS ON FILM",
+          "value": 200,
+          "clue": "Look for Kathy Mattea as a woman with a concealed gun in this Mel Gibson flick about a river boat gambler",
+          "answer": "Maverick",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [
+            "Meagan"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Meagan",
+              "score": 200
+            },
+            {
+              "player": "Jen",
+              "score": 0
+            },
+            {
+              "player": "Eric",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "COUNTRY SINGERS ON FILM",
+          "value": 400,
+          "clue": "(Hi, I'm Randy Travis at the Hollywood Bowl.)  I played outlaw Cole Younger in a 1994 feature about these 2 brothers",
+          "answer": "Frank & Jesse James",
+          "isDailyDouble": false,
+          "orderNumber": 2,
+          "correctContestants": [
+            "Eric"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Meagan",
+              "score": 200
+            },
+            {
+              "player": "Jen",
+              "score": 0
+            },
+            {
+              "player": "Eric",
+              "score": 400
+            }
+          ]
+        },
+        {
+          "category": "COUNTRY SINGERS ON FILM",
+          "value": 600,
+          "clue": "This \"long tall Texan\" played a bootmaker involved with Lauren Bacall in Robert Altman's \"Ready to Wear\"",
+          "answer": "Lyle Lovett",
+          "isDailyDouble": false,
+          "orderNumber": 3,
+          "correctContestants": [
+            "Jen"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Meagan",
+              "score": 200
+            },
+            {
+              "player": "Jen",
+              "score": 600
+            },
+            {
+              "player": "Eric",
+              "score": 400
+            }
+          ]
+        },
+        {
+          "category": "\"HIGH\" ANXIETY",
+          "value": 200,
+          "clue": "The betrayal of one's own country",
+          "answer": "high treason",
+          "isDailyDouble": false,
+          "orderNumber": 4,
+          "correctContestants": [
+            "Eric"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Meagan",
+              "score": 200
+            },
+            {
+              "player": "Jen",
+              "score": 600
+            },
+            {
+              "player": "Eric",
+              "score": 600
+            }
+          ]
+        },
+        {
+          "category": "COUNTRY SINGERS ON FILM",
+          "value": 800,
+          "clue": "This wife of Johnny Cash is just 2 years older than Robert Duvall, but she played his mom in \"The Apostle\"",
+          "answer": "June Carter Cash",
+          "isDailyDouble": false,
+          "orderNumber": 5,
+          "correctContestants": [
+            "Eric"
+          ],
+          "incorrectContestants": [
+            "Meagan"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Meagan",
+              "score": -600
+            },
+            {
+              "player": "Jen",
+              "score": 600
+            },
+            {
+              "player": "Eric",
+              "score": 1400
+            }
+          ]
+        },
+        {
+          "category": "COUNTRY SINGERS ON FILM",
+          "value": 1000,
+          "clue": "When this man starred in the film \"Honeysuckle Rose\" at age 47, Roger Ebert said he didn't look a day over 60",
+          "answer": "Willie Nelson",
+          "isDailyDouble": false,
+          "orderNumber": 6,
+          "correctContestants": [
+            "Eric"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Meagan",
+              "score": -600
+            },
+            {
+              "player": "Jen",
+              "score": 600
+            },
+            {
+              "player": "Eric",
+              "score": 2400
+            }
+          ]
+        },
+        {
+          "category": "EXPLORERS",
+          "value": 200,
+          "clue": "Recent evidence indicates that he probably reached the island of Samana Cay, not Watling Island, on October 12, 1492",
+          "answer": "Christopher Columbus",
+          "isDailyDouble": false,
+          "orderNumber": 7,
+          "correctContestants": [
+            "Jen"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Meagan",
+              "score": -600
+            },
+            {
+              "player": "Jen",
+              "score": 800
+            },
+            {
+              "player": "Eric",
+              "score": 2400
+            }
+          ]
+        },
+        {
+          "category": "CITY QUOTES",
+          "value": 200,
+          "clue": "Radio comedian Fred Allen said this part of L.A. is \"A great place to live--if you're an orange\"",
+          "answer": "Hollywood",
+          "isDailyDouble": false,
+          "orderNumber": 8,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Meagan",
+              "score": -600
+            },
+            {
+              "player": "Jen",
+              "score": 800
+            },
+            {
+              "player": "Eric",
+              "score": 2400
+            }
+          ]
+        },
+        {
+          "category": "CITY QUOTES",
+          "value": 400,
+          "clue": "A character in a Joyce story says, \"I feel a ton better since I landed again in dear dirty\" this city",
+          "answer": "Dublin",
+          "isDailyDouble": false,
+          "orderNumber": 9,
+          "correctContestants": [
+            "Eric"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Meagan",
+              "score": -600
+            },
+            {
+              "player": "Jen",
+              "score": 800
+            },
+            {
+              "player": "Eric",
+              "score": 2800
+            }
+          ]
+        },
+        {
+          "category": "EXPLORERS",
+          "value": 400,
+          "clue": "In the 1290s, while in the service of Kublai Khan, this traveler from Venice visited the islands of Indonesia",
+          "answer": "Marco Polo",
+          "isDailyDouble": false,
+          "orderNumber": 10,
+          "correctContestants": [
+            "Eric"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Meagan",
+              "score": -600
+            },
+            {
+              "player": "Jen",
+              "score": 800
+            },
+            {
+              "player": "Eric",
+              "score": 3200
+            }
+          ]
+        },
+        {
+          "category": "EXPLORERS",
+          "value": 600,
+          "clue": "On Sept. 6, 1909--5 months to the day after reaching the North Pole--he announced his triumph",
+          "answer": "Peary",
+          "isDailyDouble": false,
+          "orderNumber": 11,
+          "correctContestants": [
+            "Meagan"
+          ],
+          "incorrectContestants": [
+            "Eric"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Meagan",
+              "score": 0
+            },
+            {
+              "player": "Jen",
+              "score": 800
+            },
+            {
+              "player": "Eric",
+              "score": 2600
+            }
+          ]
+        },
+        {
+          "category": "EXPLORERS",
+          "value": 800,
+          "clue": "(Jeff Probst reports from the South Pacific.) This British naval explorer visited the Marquesas Islands in 1774",
+          "answer": "Cook",
+          "isDailyDouble": false,
+          "orderNumber": 12,
+          "correctContestants": [
+            "Eric"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Meagan",
+              "score": 0
+            },
+            {
+              "player": "Jen",
+              "score": 800
+            },
+            {
+              "player": "Eric",
+              "score": 3400
+            }
+          ]
+        },
+        {
+          "category": "EXPLORERS",
+          "value": 1000,
+          "clue": "In 1604 this \"Father of New France\" founded the settlement of Acadia",
+          "answer": "Champlain",
+          "isDailyDouble": false,
+          "orderNumber": 13,
+          "correctContestants": [
+            "Eric"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Meagan",
+              "score": 0
+            },
+            {
+              "player": "Jen",
+              "score": 800
+            },
+            {
+              "player": "Eric",
+              "score": 4400
+            }
+          ]
+        },
+        {
+          "category": "CITY QUOTES",
+          "value": 600,
+          "clue": "It's the \"Stormy, Husky, Brawling City of the Big Shoulders\"",
+          "answer": "Chicago",
+          "isDailyDouble": false,
+          "orderNumber": 14,
+          "correctContestants": [
+            "Eric"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Meagan",
+              "score": 0
+            },
+            {
+              "player": "Jen",
+              "score": 800
+            },
+            {
+              "player": "Eric",
+              "score": 5000
+            }
+          ]
+        },
+        {
+          "category": "CITY QUOTES",
+          "value": 800,
+          "clue": "According to the Harper Book of Amer. Quotations, Sally Quinn called this city the \"News Capital of the World\"",
+          "answer": "Washington, D.C.",
+          "isDailyDouble": false,
+          "orderNumber": 15,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Meagan",
+              "score": 0
+            },
+            {
+              "player": "Jen",
+              "score": 800
+            },
+            {
+              "player": "Eric",
+              "score": 5000
+            }
+          ]
+        },
+        {
+          "category": "\"HIGH\" ANXIETY",
+          "value": 400,
+          "clue": "Marshal Will Kane faces off against killers in this 1952 Oscar winner",
+          "answer": "High Noon",
+          "isDailyDouble": false,
+          "orderNumber": 16,
+          "correctContestants": [
+            "Eric"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Meagan",
+              "score": 0
+            },
+            {
+              "player": "Jen",
+              "score": 800
+            },
+            {
+              "player": "Eric",
+              "score": 5400
+            }
+          ]
+        },
+        {
+          "category": "\"HIGH\" ANXIETY",
+          "value": 600,
+          "clue": "Rosh Hashanah & Yom Kippur, along with the days in between",
+          "answer": "(Jewish) high holy days",
+          "isDailyDouble": false,
+          "orderNumber": 17,
+          "correctContestants": [
+            "Eric"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Meagan",
+              "score": 0
+            },
+            {
+              "player": "Jen",
+              "score": 800
+            },
+            {
+              "player": "Eric",
+              "score": 6000
+            }
+          ]
+        },
+        {
+          "category": "\"HIGH\" ANXIETY",
+          "value": 800,
+          "clue": "The period of European art from about 1490 to 1520",
+          "answer": "High Renaissance",
+          "isDailyDouble": false,
+          "orderNumber": 18,
+          "correctContestants": [
+            "Eric"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Meagan",
+              "score": 0
+            },
+            {
+              "player": "Jen",
+              "score": 800
+            },
+            {
+              "player": "Eric",
+              "score": 6800
+            }
+          ]
+        },
+        {
+          "category": "\"HIGH\" ANXIETY",
+          "value": 1000,
+          "clue": "It's the term for a British Commonwealth country's embassy in another Commonweath country",
+          "answer": "high commission",
+          "isDailyDouble": false,
+          "orderNumber": 19,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Meagan",
+              "score": 0
+            },
+            {
+              "player": "Jen",
+              "score": 800
+            },
+            {
+              "player": "Eric",
+              "score": 6800
+            }
+          ]
+        },
+        {
+          "category": "CITY QUOTES",
+          "value": 1200,
+          "clue": "This city is \"where the Lowells talk to the Cabots, and the Cabots talk only to God\"",
+          "answer": "Boston",
+          "isDailyDouble": true,
+          "orderNumber": 20,
+          "correctContestants": [
+            "Eric"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Meagan",
+              "score": 0
+            },
+            {
+              "player": "Jen",
+              "score": 800
+            },
+            {
+              "player": "Eric",
+              "score": 8000
+            }
+          ]
+        },
+        {
+          "category": "'20s TRANSPORTATION",
+          "value": 200,
+          "clue": "Cadillac pioneered the use of this shiny coating, making it standard on their cars in 1929",
+          "answer": "chrome",
+          "isDailyDouble": false,
+          "orderNumber": 21,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Meagan",
+              "score": 0
+            },
+            {
+              "player": "Jen",
+              "score": 800
+            },
+            {
+              "player": "Eric",
+              "score": 8000
+            }
+          ]
+        },
+        {
+          "category": "'20s TRANSPORTATION",
+          "value": 400,
+          "clue": "(Sofia of the Clue Crew reports from the National Air & Space Museum.)  The Spirit of St. Louis above me made history in 1927 when it flew from this U.S. state to Paris in 33 1/2 hours",
+          "answer": "New York",
+          "isDailyDouble": false,
+          "orderNumber": 22,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Meagan",
+              "score": 0
+            },
+            {
+              "player": "Jen",
+              "score": 800
+            },
+            {
+              "player": "Eric",
+              "score": 8000
+            }
+          ]
+        },
+        {
+          "category": "'20s TRANSPORTATION",
+          "value": 600,
+          "clue": "In 1924 this American company incorporated with Germany's Zeppelin to make rigid airships",
+          "answer": "Goodyear",
+          "isDailyDouble": false,
+          "orderNumber": 23,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Meagan",
+              "score": 0
+            },
+            {
+              "player": "Jen",
+              "score": 800
+            },
+            {
+              "player": "Eric",
+              "score": 8000
+            }
+          ]
+        },
+        {
+          "category": "STUPID ANSWERS",
+          "value": 200,
+          "clue": "This common loon is Minnesota's state bird",
+          "answer": "common loon",
+          "isDailyDouble": false,
+          "orderNumber": 24,
+          "correctContestants": [
+            "Meagan"
+          ],
+          "incorrectContestants": [
+            "Eric"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Meagan",
+              "score": 200
+            },
+            {
+              "player": "Jen",
+              "score": 800
+            },
+            {
+              "player": "Eric",
+              "score": 7800
+            }
+          ]
+        },
+        {
+          "category": "STUPID ANSWERS",
+          "value": 400,
+          "clue": "In Abbott & Costello's classic baseball bit, it's who's on first",
+          "answer": "Who",
+          "isDailyDouble": false,
+          "orderNumber": 25,
+          "correctContestants": [
+            "Jen"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Meagan",
+              "score": 200
+            },
+            {
+              "player": "Jen",
+              "score": 1200
+            },
+            {
+              "player": "Eric",
+              "score": 7800
+            }
+          ]
+        },
+        {
+          "category": "STUPID ANSWERS",
+          "value": 600,
+          "clue": "This old-fashioned cocktail is made with bourbon, bitters & sugar",
+          "answer": "old-fashioned",
+          "isDailyDouble": false,
+          "orderNumber": 26,
+          "correctContestants": [
+            "Meagan"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Meagan",
+              "score": 800
+            },
+            {
+              "player": "Jen",
+              "score": 1200
+            },
+            {
+              "player": "Eric",
+              "score": 7800
+            }
+          ]
+        },
+        {
+          "category": "STUPID ANSWERS",
+          "value": 800,
+          "clue": "This scary movie spoof from 2000 was written by Shawn & Marlon Wayans & directed by brother Keenen",
+          "answer": "Scary Movie",
+          "isDailyDouble": false,
+          "orderNumber": 27,
+          "correctContestants": [
+            "Jen"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Meagan",
+              "score": 800
+            },
+            {
+              "player": "Jen",
+              "score": 2000
+            },
+            {
+              "player": "Eric",
+              "score": 7800
+            }
+          ]
+        },
+        {
+          "category": "STUPID ANSWERS",
+          "value": 1000,
+          "clue": "Francis Pastorius, a German lawyer, founded this town that's now a part of Philadelphia",
+          "answer": "Germantown",
+          "isDailyDouble": false,
+          "orderNumber": 28,
+          "correctContestants": [
+            "Eric"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Meagan",
+              "score": 800
+            },
+            {
+              "player": "Jen",
+              "score": 2000
+            },
+            {
+              "player": "Eric",
+              "score": 8800
+            }
+          ]
+        },
+        {
+          "category": "'20s TRANSPORTATION",
+          "value": 1000,
+          "clue": "In 1929 the first Academy Award for Best Picture went to this transportation-themed film",
+          "answer": "Wings",
+          "isDailyDouble": false,
+          "orderNumber": 29,
+          "correctContestants": [
+            "Eric"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Meagan",
+              "score": 800
+            },
+            {
+              "player": "Jen",
+              "score": 2000
+            },
+            {
+              "player": "Eric",
+              "score": 9800
+            }
+          ]
+        },
+        {
+          "category": "'20s TRANSPORTATION",
+          "value": 800,
+          "clue": "1926 saw the first flight over the North Pole by Byrd & the first liquid-fueled flight launched by this man",
+          "answer": "(Robert) Goddard",
+          "isDailyDouble": false,
+          "orderNumber": 30,
+          "correctContestants": [
+            "Eric"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Meagan",
+              "score": 800
+            },
+            {
+              "player": "Jen",
+              "score": 2000
+            },
+            {
+              "player": "Eric",
+              "score": 10600
+            }
+          ]
+        }
+      ],
+      "firstBreakScores": [
+        {
+          "player": "Meagan",
+          "score": 0
+        },
+        {
+          "player": "Jen",
+          "score": 800
+        },
+        {
+          "player": "Eric",
+          "score": 5000
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "Meagan",
+          "score": 800
+        },
+        {
+          "player": "Jen",
+          "score": 2000
+        },
+        {
+          "player": "Eric",
+          "score": 10600
+        }
+      ]
+    },
+    "doubleJeopardy": {
+      "categories": [
+        "NATHANIEL HAWTHORNE",
+        "WHAT, KIM AGAIN?",
+        "OFFICIAL SEALS",
+        "MOUNT RUSHMORE",
+        "DON'T WORRY, BE HOPI",
+        "THAT'S \"SWEET\""
+      ],
+      "clues": [
+        {
+          "category": "NATHANIEL HAWTHORNE",
+          "value": 400,
+          "clue": "(Sofia of the Clue Crew reports from the House of the Seven Gables.) At the House of the Seven Gables you can see the bureau in which Hawthorne kept his manuscript of this novel about Hester Prynne",
+          "answer": "The Scarlet Letter",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Meagan",
+              "score": 800
+            },
+            {
+              "player": "Jen",
+              "score": 2000
+            },
+            {
+              "player": "Eric",
+              "score": 11000
+            }
+          ]
+        },
+        {
+          "category": "NATHANIEL HAWTHORNE",
+          "value": 800,
+          "clue": "In Hawthorne's touching story \"Feathertop\", one of these frightening farmyard figures comes to life",
+          "answer": "scarecrow",
+          "isDailyDouble": false,
+          "orderNumber": 2,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Meagan",
+              "score": 1600
+            },
+            {
+              "player": "Jen",
+              "score": 2000
+            },
+            {
+              "player": "Eric",
+              "score": 11000
+            }
+          ]
+        },
+        {
+          "category": "NATHANIEL HAWTHORNE",
+          "value": 1200,
+          "clue": "Characters from the novel appear at the House of the Seven Gables in the \"Spirits of the Gables\" show during this month",
+          "answer": "October",
+          "isDailyDouble": false,
+          "orderNumber": 3,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Meagan",
+              "score": 2800
+            },
+            {
+              "player": "Jen",
+              "score": 2000
+            },
+            {
+              "player": "Eric",
+              "score": 11000
+            }
+          ]
+        },
+        {
+          "category": "NATHANIEL HAWTHORNE",
+          "value": 1600,
+          "clue": "Harley College, the setting for Hawthorne's novel \"Fanshawe\", is based on this Maine college, his alma mater",
+          "answer": "Bowdoin",
+          "isDailyDouble": false,
+          "orderNumber": 4,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Meagan",
+              "score": 2800
+            },
+            {
+              "player": "Jen",
+              "score": 2000
+            },
+            {
+              "player": "Eric",
+              "score": 12600
+            }
+          ]
+        },
+        {
+          "category": "NATHANIEL HAWTHORNE",
+          "value": 2000,
+          "clue": "Hawthorne based his novel \"The Blithedale Romance\" on his own experiences at this utopian \"Farm\"",
+          "answer": "Brook Farm",
+          "isDailyDouble": false,
+          "orderNumber": 5,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Meagan",
+              "score": 4800
+            },
+            {
+              "player": "Jen",
+              "score": 2000
+            },
+            {
+              "player": "Eric",
+              "score": 12600
+            }
+          ]
+        },
+        {
+          "category": "THAT'S \"SWEET\"",
+          "value": 400,
+          "clue": "Sugar & vinegar give this Chinese-style dish its characteristic flavor",
+          "answer": "sweet and sour",
+          "isDailyDouble": false,
+          "orderNumber": 6,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Meagan",
+              "score": 4800
+            },
+            {
+              "player": "Jen",
+              "score": 2000
+            },
+            {
+              "player": "Eric",
+              "score": 13000
+            }
+          ]
+        },
+        {
+          "category": "THAT'S \"SWEET\"",
+          "value": 800,
+          "clue": "They're little endearments whispered by lovers",
+          "answer": "sweet nothings",
+          "isDailyDouble": false,
+          "orderNumber": 7,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Meagan",
+              "score": 4800
+            },
+            {
+              "player": "Jen",
+              "score": 2000
+            },
+            {
+              "player": "Eric",
+              "score": 13800
+            }
+          ]
+        },
+        {
+          "category": "OFFICIAL SEALS",
+          "value": 400,
+          "clue": "Maybe we can send the Clue Crew out to pick up candles for the menorah on this country's seal",
+          "answer": "Israel",
+          "isDailyDouble": false,
+          "orderNumber": 8,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Meagan",
+              "score": 4800
+            },
+            {
+              "player": "Jen",
+              "score": 2400
+            },
+            {
+              "player": "Eric",
+              "score": 13800
+            }
+          ]
+        },
+        {
+          "category": "THAT'S \"SWEET\"",
+          "value": 1200,
+          "clue": "You can diet & still indulge on this line of reduced-fat candy bars from Hershey",
+          "answer": "Sweet Escapes",
+          "isDailyDouble": false,
+          "orderNumber": 9,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Meagan",
+              "score": 6000
+            },
+            {
+              "player": "Jen",
+              "score": 2400
+            },
+            {
+              "player": "Eric",
+              "score": 13800
+            }
+          ]
+        },
+        {
+          "category": "THAT'S \"SWEET\"",
+          "value": 1600,
+          "clue": "It's jazz lover Woody Allen's 1999 film about a fictional jazz guitarist",
+          "answer": "Sweet and Lowdown",
+          "isDailyDouble": false,
+          "orderNumber": 10,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Meagan",
+              "score": 6000
+            },
+            {
+              "player": "Jen",
+              "score": 2400
+            },
+            {
+              "player": "Eric",
+              "score": 15400
+            }
+          ]
+        },
+        {
+          "category": "THAT'S \"SWEET\"",
+          "value": 2000,
+          "clue": "Alexandra Del Lago is a fading screen star in this Tennessee Williams play",
+          "answer": "Sweet Bird of Youth",
+          "isDailyDouble": false,
+          "orderNumber": 11,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Meagan",
+              "score": 6000
+            },
+            {
+              "player": "Jen",
+              "score": 2400
+            },
+            {
+              "player": "Eric",
+              "score": 17400
+            }
+          ]
+        },
+        {
+          "category": "OFFICIAL SEALS",
+          "value": 800,
+          "clue": "Like Coca-Cola at Christmas, Greenland has turned to one of these animals for decoration",
+          "answer": "polar bear",
+          "isDailyDouble": false,
+          "orderNumber": 12,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Meagan",
+              "score": 6000
+            },
+            {
+              "player": "Jen",
+              "score": 2400
+            },
+            {
+              "player": "Eric",
+              "score": 18200
+            }
+          ]
+        },
+        {
+          "category": "OFFICIAL SEALS",
+          "value": 1200,
+          "clue": "The Saudi flag has only one of these weapons on each side; the seal has 2",
+          "answer": "sword",
+          "isDailyDouble": false,
+          "orderNumber": 13,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Meagan",
+              "score": 7200
+            },
+            {
+              "player": "Jen",
+              "score": 2400
+            },
+            {
+              "player": "Eric",
+              "score": 18200
+            }
+          ]
+        },
+        {
+          "category": "OFFICIAL SEALS",
+          "value": 2800,
+          "clue": "On the Swaziland seal, this animal's as big as the elephant; on the U.K. seal, it's as big as the unicorn",
+          "answer": "lion",
+          "isDailyDouble": true,
+          "orderNumber": 14,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Meagan",
+              "score": 10000
+            },
+            {
+              "player": "Jen",
+              "score": 2400
+            },
+            {
+              "player": "Eric",
+              "score": 18200
+            }
+          ]
+        },
+        {
+          "category": "OFFICIAL SEALS",
+          "value": 2000,
+          "clue": "The Falkland Islands have one of these animals on top of their seal, showing its importance in the economy",
+          "answer": "sheep",
+          "isDailyDouble": false,
+          "orderNumber": 15,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Meagan",
+              "score": 10000
+            },
+            {
+              "player": "Jen",
+              "score": 2400
+            },
+            {
+              "player": "Eric",
+              "score": 20200
+            }
+          ]
+        },
+        {
+          "category": "WHAT, KIM AGAIN?",
+          "value": 400,
+          "clue": "Rudyard Kipling's Kim is an orphan in this country",
+          "answer": "India",
+          "isDailyDouble": false,
+          "orderNumber": 16,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Meagan",
+              "score": 10000
+            },
+            {
+              "player": "Jen",
+              "score": 2800
+            },
+            {
+              "player": "Eric",
+              "score": 20200
+            }
+          ]
+        },
+        {
+          "category": "WHAT, KIM AGAIN?",
+          "value": 800,
+          "clue": "Born & raised in Philadelphia, this \"Philly\" star cut her TV eye teeth in Pine Valley on \"All My Children\"",
+          "answer": "Kim Delaney",
+          "isDailyDouble": false,
+          "orderNumber": 17,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Meagan",
+              "score": 10000
+            },
+            {
+              "player": "Jen",
+              "score": 2800
+            },
+            {
+              "player": "Eric",
+              "score": 20200
+            }
+          ]
+        },
+        {
+          "category": "WHAT, KIM AGAIN?",
+          "value": 1200,
+          "clue": "Writing in this genre, Kim Stanley Robinson has won Hugo & Nebula Awards",
+          "answer": "science fiction",
+          "isDailyDouble": false,
+          "orderNumber": 18,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Meagan",
+              "score": 10000
+            },
+            {
+              "player": "Jen",
+              "score": 2800
+            },
+            {
+              "player": "Eric",
+              "score": 21400
+            }
+          ]
+        },
+        {
+          "category": "WHAT, KIM AGAIN?",
+          "value": 1600,
+          "clue": "Kim Cattrall gets plenty of male as the lusty Samantha on this HBO show",
+          "answer": "Sex and the City",
+          "isDailyDouble": false,
+          "orderNumber": 19,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Meagan",
+              "score": 10000
+            },
+            {
+              "player": "Jen",
+              "score": 4400
+            },
+            {
+              "player": "Eric",
+              "score": 21400
+            }
+          ]
+        },
+        {
+          "category": "WHAT, KIM AGAIN?",
+          "value": 2000,
+          "clue": "She duetted with Kenny Rogers on \"Don't Fall in Love with a Dreamer\"",
+          "answer": "Kim Carnes",
+          "isDailyDouble": false,
+          "orderNumber": 20,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Meagan",
+              "score": 10000
+            },
+            {
+              "player": "Jen",
+              "score": 4400
+            },
+            {
+              "player": "Eric",
+              "score": 23400
+            }
+          ]
+        },
+        {
+          "category": "DON'T WORRY, BE HOPI",
+          "value": 400,
+          "clue": "The Hopi snake dance is performed to get this to help the crops",
+          "answer": "rain",
+          "isDailyDouble": false,
+          "orderNumber": 21,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Meagan",
+              "score": 10000
+            },
+            {
+              "player": "Jen",
+              "score": 4800
+            },
+            {
+              "player": "Eric",
+              "score": 23400
+            }
+          ]
+        },
+        {
+          "category": "DON'T WORRY, BE HOPI",
+          "value": 800,
+          "clue": "Piki, a Hopi staple food, is a thin bread with ground this as the main ingredient",
+          "answer": "corn",
+          "isDailyDouble": false,
+          "orderNumber": 22,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Meagan",
+              "score": 10000
+            },
+            {
+              "player": "Jen",
+              "score": 4800
+            },
+            {
+              "player": "Eric",
+              "score": 24200
+            }
+          ]
+        },
+        {
+          "category": "DON'T WORRY, BE HOPI",
+          "value": 1200,
+          "clue": "As Hopi means this kind of people, the Eagles could have had a Hopi easy feeling",
+          "answer": "peaceful",
+          "isDailyDouble": false,
+          "orderNumber": 23,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Meagan",
+              "score": 10000
+            },
+            {
+              "player": "Jen",
+              "score": 6000
+            },
+            {
+              "player": "Eric",
+              "score": 24200
+            }
+          ]
+        },
+        {
+          "category": "DON'T WORRY, BE HOPI",
+          "value": 1600,
+          "clue": "The Hopi guardian spirits were recreated in masks & these dolls by tribesmen",
+          "answer": "Kachina dolls",
+          "isDailyDouble": false,
+          "orderNumber": 24,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Meagan",
+              "score": 11600
+            },
+            {
+              "player": "Jen",
+              "score": 6000
+            },
+            {
+              "player": "Eric",
+              "score": 22600
+            }
+          ]
+        },
+        {
+          "category": "DON'T WORRY, BE HOPI",
+          "value": 2000,
+          "clue": "The Hopis were the westernmost of these \"village\" people",
+          "answer": "Pueblo",
+          "isDailyDouble": false,
+          "orderNumber": 25,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Meagan",
+              "score": 13600
+            },
+            {
+              "player": "Jen",
+              "score": 6000
+            },
+            {
+              "player": "Eric",
+              "score": 22600
+            }
+          ]
+        },
+        {
+          "category": "MOUNT RUSHMORE",
+          "value": 400,
+          "clue": "The 2 who served as president in the same century",
+          "answer": "Jefferson & Lincoln",
+          "isDailyDouble": false,
+          "orderNumber": 26,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Meagan",
+              "score": 13600
+            },
+            {
+              "player": "Jen",
+              "score": 6000
+            },
+            {
+              "player": "Eric",
+              "score": 23000
+            }
+          ]
+        },
+        {
+          "category": "MOUNT RUSHMORE",
+          "value": 800,
+          "clue": "The order in which the heads were completed; it was also the order in which the men served",
+          "answer": "Washington, Jefferson, Lincoln and Roosevelt",
+          "isDailyDouble": false,
+          "orderNumber": 27,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Eric"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Meagan",
+              "score": 14400
+            },
+            {
+              "player": "Jen",
+              "score": 5200
+            },
+            {
+              "player": "Eric",
+              "score": 22200
+            }
+          ]
+        },
+        {
+          "category": "MOUNT RUSHMORE",
+          "value": 7800,
+          "clue": "The one not on the face of a currently minted U.S. coin",
+          "answer": "Theodore Roosevelt",
+          "isDailyDouble": true,
+          "orderNumber": 28,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Meagan",
+              "score": 22200
+            },
+            {
+              "player": "Jen",
+              "score": 5200
+            },
+            {
+              "player": "Eric",
+              "score": 22200
+            }
+          ]
+        },
+        {
+          "category": "MOUNT RUSHMORE",
+          "value": 1600,
+          "clue": "In the order of presidents, the first guy skipped over in getting his face on the mountain",
+          "answer": "John Adams",
+          "isDailyDouble": false,
+          "orderNumber": 29,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Meagan",
+              "score": 22200
+            },
+            {
+              "player": "Jen",
+              "score": 5200
+            },
+            {
+              "player": "Eric",
+              "score": 23800
+            }
+          ]
+        },
+        {
+          "category": "MOUNT RUSHMORE",
+          "value": 2000,
+          "clue": "Of the 4 presidents on Mount Rushmore, the one who's buried closest to it",
+          "answer": "Lincoln",
+          "isDailyDouble": false,
+          "orderNumber": 30,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Meagan",
+              "score": 24200
+            },
+            {
+              "player": "Jen",
+              "score": 5200
+            },
+            {
+              "player": "Eric",
+              "score": 23800
+            }
+          ]
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "Meagan",
+          "score": 24200
+        },
+        {
+          "player": "Jen",
+          "score": 5200
+        },
+        {
+          "player": "Eric",
+          "score": 23800
+        }
+      ]
+    },
+    "finalJeopardy": {
+      "category": "THE EMMY AWARDS",
+      "clue": "It's the only prime time TV show--comedy or drama--to win the Emmy for Best Series 5 times",
+      "answer": "Frasier",
+      "responses": [
+        {
+          "contestant": "Jen",
+          "response": "What is E.R.?",
+          "isCorrect": false,
+          "isIncorrect": true,
+          "value": 5200,
+          "finalScore": 0
+        },
+        {
+          "contestant": "Eric",
+          "response": "What is Frasier?",
+          "isCorrect": true,
+          "isIncorrect": false,
+          "value": 0,
+          "finalScore": 23800
+        },
+        {
+          "contestant": "Meagan",
+          "response": "What is M.A.S.H.?",
+          "isCorrect": false,
+          "isIncorrect": true,
+          "value": 18900,
+          "finalScore": 5300
+        }
+      ]
+    }
+  },
+  "finalScores": [
+    {
+      "player": "Meagan",
+      "score": "$5,300"
+    },
+    {
+      "player": "Jen",
+      "score": "$0"
+    },
+    {
+      "player": "Eric",
+      "score": "$23,800"
+    }
+  ],
+  "coryatScores": [
+    {
+      "player": "Meagan",
+      "score": 16400
+    },
+    {
+      "player": "Jen",
+      "score": 5200
+    },
+    {
+      "player": "Eric",
+      "score": 23600
+    }
+  ]
+}

@@ -1,0 +1,1703 @@
+{
+  "gameId": 137,
+  "showNumber": "3716",
+  "title": "Show #3716 - Monday, October 30, 2000",
+  "date": "2000-10-30",
+  "comments": "Brad Rutter game 1.",
+  "contestants": [
+    "David",
+    "Regina",
+    "Brad"
+  ],
+  "rounds": {
+    "jeopardy": {
+      "categories": [
+        "WELCOME TO MY COUNTRY",
+        "METALS",
+        "GO GO GAUGUIN",
+        "FILE UNDER \"M\"",
+        "ANIMATED CATS",
+        "MAO, MAO, MAO, MAO"
+      ],
+      "clues": [
+        {
+          "category": "WELCOME TO MY COUNTRY",
+          "value": 100,
+          "clue": "Leonardo da Vinci International",
+          "answer": "Italy",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [
+            "Brad"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 0
+            },
+            {
+              "player": "Regina",
+              "score": 0
+            },
+            {
+              "player": "Brad",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "category": "WELCOME TO MY COUNTRY",
+          "value": 200,
+          "clue": "Ben-Gurion International",
+          "answer": "Israel",
+          "isDailyDouble": false,
+          "orderNumber": 2,
+          "correctContestants": [
+            "David"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 200
+            },
+            {
+              "player": "Regina",
+              "score": 0
+            },
+            {
+              "player": "Brad",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "category": "WELCOME TO MY COUNTRY",
+          "value": 300,
+          "clue": "Ninoy Aquino International",
+          "answer": "the Philippines",
+          "isDailyDouble": false,
+          "orderNumber": 3,
+          "correctContestants": [
+            "David"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 500
+            },
+            {
+              "player": "Regina",
+              "score": 0
+            },
+            {
+              "player": "Brad",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "category": "WELCOME TO MY COUNTRY",
+          "value": 400,
+          "clue": "Soekarno-Hatta International",
+          "answer": "Indonesia",
+          "isDailyDouble": false,
+          "orderNumber": 4,
+          "correctContestants": [
+            "David"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 900
+            },
+            {
+              "player": "Regina",
+              "score": 0
+            },
+            {
+              "player": "Brad",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "category": "WELCOME TO MY COUNTRY",
+          "value": 500,
+          "clue": "Augusto Cesar Sandino International",
+          "answer": "Nicaragua",
+          "isDailyDouble": false,
+          "orderNumber": 5,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 900
+            },
+            {
+              "player": "Regina",
+              "score": 0
+            },
+            {
+              "player": "Brad",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "category": "GO GO GAUGUIN",
+          "value": 100,
+          "clue": "Paul Gauguin moved to this island in 1891",
+          "answer": "Tahiti",
+          "isDailyDouble": false,
+          "orderNumber": 6,
+          "correctContestants": [
+            "David"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 1000
+            },
+            {
+              "player": "Regina",
+              "score": 0
+            },
+            {
+              "player": "Brad",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "category": "GO GO GAUGUIN",
+          "value": 200,
+          "clue": "This artist painted Gauguin's chair, seen here:",
+          "answer": "Vincent Van Gogh",
+          "isDailyDouble": false,
+          "orderNumber": 7,
+          "correctContestants": [
+            "Brad"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 1000
+            },
+            {
+              "player": "Regina",
+              "score": 0
+            },
+            {
+              "player": "Brad",
+              "score": 300
+            }
+          ]
+        },
+        {
+          "category": "MAO, MAO, MAO, MAO",
+          "value": 100,
+          "clue": "The 1st U.S. president Mao received on an official state visit was this man in the 1970s",
+          "answer": "Richard Nixon",
+          "isDailyDouble": false,
+          "orderNumber": 8,
+          "correctContestants": [
+            "David"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 1100
+            },
+            {
+              "player": "Regina",
+              "score": 0
+            },
+            {
+              "player": "Brad",
+              "score": 300
+            }
+          ]
+        },
+        {
+          "category": "GO GO GAUGUIN",
+          "value": 300,
+          "clue": "When this crashed in Paris in 1883, Gauguin lost his day job & decided to devote himself to painting full-time",
+          "answer": "stock market",
+          "isDailyDouble": false,
+          "orderNumber": 9,
+          "correctContestants": [
+            "David"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 1400
+            },
+            {
+              "player": "Regina",
+              "score": 0
+            },
+            {
+              "player": "Brad",
+              "score": 300
+            }
+          ]
+        },
+        {
+          "category": "GO GO GAUGUIN",
+          "value": 400,
+          "clue": "Quoth this, the 1-word title of the painting seen here, a reference to Poe; notice the black bird in the corner",
+          "answer": "Nevermore",
+          "isDailyDouble": false,
+          "orderNumber": 10,
+          "correctContestants": [
+            "David"
+          ],
+          "incorrectContestants": [
+            "Brad"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 1800
+            },
+            {
+              "player": "Regina",
+              "score": 0
+            },
+            {
+              "player": "Brad",
+              "score": -100
+            }
+          ]
+        },
+        {
+          "category": "GO GO GAUGUIN",
+          "value": 500,
+          "clue": "Gauguin's 1888 painting \"The Vision After the Sermon\" shows this biblical figure \"wrestling with the angel\"",
+          "answer": "Jacob",
+          "isDailyDouble": false,
+          "orderNumber": 11,
+          "correctContestants": [
+            "Regina"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 1800
+            },
+            {
+              "player": "Regina",
+              "score": 500
+            },
+            {
+              "player": "Brad",
+              "score": -100
+            }
+          ]
+        },
+        {
+          "category": "ANIMATED CATS",
+          "value": 100,
+          "clue": "In their 1940 MGM debut, \"Puss Gets the Boot\", this feline partner of Jerry was called Jasper",
+          "answer": "Tom",
+          "isDailyDouble": false,
+          "orderNumber": 12,
+          "correctContestants": [
+            "Regina"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 1800
+            },
+            {
+              "player": "Regina",
+              "score": 600
+            },
+            {
+              "player": "Brad",
+              "score": -100
+            }
+          ]
+        },
+        {
+          "category": "ANIMATED CATS",
+          "value": 200,
+          "clue": "When Tweety tawt he taw a puddy tat, this is usually the puddy tat that Tweety tawt he taw",
+          "answer": "Sylvester",
+          "isDailyDouble": false,
+          "orderNumber": 13,
+          "correctContestants": [
+            "Regina"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 1800
+            },
+            {
+              "player": "Regina",
+              "score": 800
+            },
+            {
+              "player": "Brad",
+              "score": -100
+            }
+          ]
+        },
+        {
+          "category": "ANIMATED CATS",
+          "value": 300,
+          "clue": "The 1972 adventures of this risque cat became the first animated film ever to get an \"X\" rating",
+          "answer": "Fritz the Cat",
+          "isDailyDouble": false,
+          "orderNumber": 14,
+          "correctContestants": [
+            "David"
+          ],
+          "incorrectContestants": [
+            "Regina"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 2100
+            },
+            {
+              "player": "Regina",
+              "score": 500
+            },
+            {
+              "player": "Brad",
+              "score": -100
+            }
+          ]
+        },
+        {
+          "category": "METALS",
+          "value": 100,
+          "clue": "When the King sang \"Wear my ring around your neck\", he may have meant one made of this metal, symbolized Au",
+          "answer": "gold",
+          "isDailyDouble": false,
+          "orderNumber": 15,
+          "correctContestants": [
+            "Regina"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 2100
+            },
+            {
+              "player": "Regina",
+              "score": 600
+            },
+            {
+              "player": "Brad",
+              "score": -100
+            }
+          ]
+        },
+        {
+          "category": "FILE UNDER \"M\"",
+          "value": 100,
+          "clue": "For kids & teens, doctors recommend 3 glasses of this a day",
+          "answer": "milk",
+          "isDailyDouble": false,
+          "orderNumber": 16,
+          "correctContestants": [
+            "David"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 2200
+            },
+            {
+              "player": "Regina",
+              "score": 600
+            },
+            {
+              "player": "Brad",
+              "score": -100
+            }
+          ]
+        },
+        {
+          "category": "METALS",
+          "value": 200,
+          "clue": "Scientists believe that the Earth's core is primarily made up of this metal, Fe",
+          "answer": "iron",
+          "isDailyDouble": false,
+          "orderNumber": 17,
+          "correctContestants": [
+            "Regina"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 2200
+            },
+            {
+              "player": "Regina",
+              "score": 800
+            },
+            {
+              "player": "Brad",
+              "score": -100
+            }
+          ]
+        },
+        {
+          "category": "FILE UNDER \"M\"",
+          "value": 200,
+          "clue": "A type of lizard, or a desktop computer necessity",
+          "answer": "monitor",
+          "isDailyDouble": false,
+          "orderNumber": 18,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Brad"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 2200
+            },
+            {
+              "player": "Regina",
+              "score": 800
+            },
+            {
+              "player": "Brad",
+              "score": -300
+            }
+          ]
+        },
+        {
+          "category": "FILE UNDER \"M\"",
+          "value": 300,
+          "clue": "It's a spice or a trademarked name of a tear gas spray",
+          "answer": "mace",
+          "isDailyDouble": false,
+          "orderNumber": 19,
+          "correctContestants": [
+            "Regina"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 2200
+            },
+            {
+              "player": "Regina",
+              "score": 1100
+            },
+            {
+              "player": "Brad",
+              "score": -300
+            }
+          ]
+        },
+        {
+          "category": "ANIMATED CATS",
+          "value": 400,
+          "clue": "Geppetto's cat in \"Pinocchio\"; he shares his name with an operatic barber of Seville",
+          "answer": "Figaro",
+          "isDailyDouble": false,
+          "orderNumber": 20,
+          "correctContestants": [
+            "Regina"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 2200
+            },
+            {
+              "player": "Regina",
+              "score": 1500
+            },
+            {
+              "player": "Brad",
+              "score": -300
+            }
+          ]
+        },
+        {
+          "category": "ANIMATED CATS",
+          "value": 500,
+          "clue": "The \"meeses\" this beatnik cat hated \"to pieces\" included Pixie & Dixie",
+          "answer": "Mr. Jinks (\"Jinksie\")",
+          "isDailyDouble": false,
+          "orderNumber": 21,
+          "correctContestants": [
+            "Regina"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 2200
+            },
+            {
+              "player": "Regina",
+              "score": 2000
+            },
+            {
+              "player": "Brad",
+              "score": -300
+            }
+          ]
+        },
+        {
+          "category": "FILE UNDER \"M\"",
+          "value": 500,
+          "clue": "In 1886 a railroad tunnel opened under this river to connect Birkenhead & Liverpool",
+          "answer": "Mersey",
+          "isDailyDouble": true,
+          "orderNumber": 22,
+          "correctContestants": [
+            "Regina"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 2200
+            },
+            {
+              "player": "Regina",
+              "score": 2500
+            },
+            {
+              "player": "Brad",
+              "score": -300
+            }
+          ]
+        },
+        {
+          "category": "MAO, MAO, MAO, MAO",
+          "value": 200,
+          "clue": "In 1918 Mao worked briefly as a library assistant at the state university in this city",
+          "answer": "Peking/Beijing",
+          "isDailyDouble": false,
+          "orderNumber": 23,
+          "correctContestants": [
+            "Regina"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 2200
+            },
+            {
+              "player": "Regina",
+              "score": 2700
+            },
+            {
+              "player": "Brad",
+              "score": -300
+            }
+          ]
+        },
+        {
+          "category": "MAO, MAO, MAO, MAO",
+          "value": 300,
+          "clue": "Mao's international status as a communist leader rose after the death of this Georgian in 1953",
+          "answer": "Josef Stalin",
+          "isDailyDouble": false,
+          "orderNumber": 24,
+          "correctContestants": [
+            "David"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 2500
+            },
+            {
+              "player": "Regina",
+              "score": 2700
+            },
+            {
+              "player": "Brad",
+              "score": -300
+            }
+          ]
+        },
+        {
+          "category": "FILE UNDER \"M\"",
+          "value": 500,
+          "clue": "Born in Scotland in 1838, his name is on an Alaskan glacier & a California forest & trail",
+          "answer": "John Muir",
+          "isDailyDouble": false,
+          "orderNumber": 25,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 2500
+            },
+            {
+              "player": "Regina",
+              "score": 2700
+            },
+            {
+              "player": "Brad",
+              "score": -300
+            }
+          ]
+        },
+        {
+          "category": "MAO, MAO, MAO, MAO",
+          "value": 400,
+          "clue": "Many of Mao's sayings & beliefs were collected in this diminutive book for easy dissemination",
+          "answer": "The Little Red Book",
+          "isDailyDouble": false,
+          "orderNumber": 26,
+          "correctContestants": [
+            "David"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 2900
+            },
+            {
+              "player": "Regina",
+              "score": 2700
+            },
+            {
+              "player": "Brad",
+              "score": -300
+            }
+          ]
+        },
+        {
+          "category": "MAO, MAO, MAO, MAO",
+          "value": 500,
+          "clue": "In 1930 Mao married He Zizhen, who accompanied him on this famous trek",
+          "answer": "The Long March",
+          "isDailyDouble": false,
+          "orderNumber": 27,
+          "correctContestants": [
+            "Brad"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 2900
+            },
+            {
+              "player": "Regina",
+              "score": 2700
+            },
+            {
+              "player": "Brad",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "METALS",
+          "value": 300,
+          "clue": "Cinnabar, a bright red ore, provides most of the world's supply of this liquid metal",
+          "answer": "mercury",
+          "isDailyDouble": false,
+          "orderNumber": 28,
+          "correctContestants": [
+            "Brad"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 2900
+            },
+            {
+              "player": "Regina",
+              "score": 2700
+            },
+            {
+              "player": "Brad",
+              "score": 500
+            }
+          ]
+        },
+        {
+          "category": "METALS",
+          "value": 400,
+          "clue": "As its name implies, an alnico magnet is composed mainly of these 3 metals",
+          "answer": "aluminum, nickel & cobalt",
+          "isDailyDouble": false,
+          "orderNumber": 29,
+          "correctContestants": [
+            "Brad"
+          ],
+          "incorrectContestants": [
+            "Regina"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 2900
+            },
+            {
+              "player": "Regina",
+              "score": 2300
+            },
+            {
+              "player": "Brad",
+              "score": 900
+            }
+          ]
+        },
+        {
+          "category": "METALS",
+          "value": 500,
+          "clue": "This metal is used to galvanize steel to prevent rusting",
+          "answer": "zinc",
+          "isDailyDouble": false,
+          "orderNumber": 30,
+          "correctContestants": [
+            "Brad"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 2900
+            },
+            {
+              "player": "Regina",
+              "score": 2300
+            },
+            {
+              "player": "Brad",
+              "score": 1400
+            }
+          ]
+        }
+      ],
+      "firstBreakScores": [
+        {
+          "player": "David",
+          "score": 2100
+        },
+        {
+          "player": "Regina",
+          "score": 600
+        },
+        {
+          "player": "Brad",
+          "score": -100
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "David",
+          "score": 2900
+        },
+        {
+          "player": "Regina",
+          "score": 2300
+        },
+        {
+          "player": "Brad",
+          "score": 1400
+        }
+      ]
+    },
+    "doubleJeopardy": {
+      "categories": [
+        "SHAKESPEARE'S OPENING LINES",
+        "HEY, MARIO!",
+        "BRIDGE ON THE RIVER...",
+        "RUNNING MATES",
+        "13-LETTER WORDS",
+        "TONY BENNETT'S SONGBOOK"
+      ],
+      "clues": [
+        {
+          "category": "RUNNING MATES",
+          "value": 200,
+          "clue": "Ford gave him the nod in 1976",
+          "answer": "Bob Dole",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 2900
+            },
+            {
+              "player": "Regina",
+              "score": 2300
+            },
+            {
+              "player": "Brad",
+              "score": 1600
+            }
+          ]
+        },
+        {
+          "category": "RUNNING MATES",
+          "value": 400,
+          "clue": "In 1996 he tapped Jack Kemp",
+          "answer": "Bob Dole",
+          "isDailyDouble": false,
+          "orderNumber": 2,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 2900
+            },
+            {
+              "player": "Regina",
+              "score": 2300
+            },
+            {
+              "player": "Brad",
+              "score": 2000
+            }
+          ]
+        },
+        {
+          "category": "RUNNING MATES",
+          "value": 600,
+          "clue": "He chose John Nance Garner in 1932 & 1936",
+          "answer": "Franklin D. Roosevelt",
+          "isDailyDouble": false,
+          "orderNumber": 3,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 2900
+            },
+            {
+              "player": "Regina",
+              "score": 2900
+            },
+            {
+              "player": "Brad",
+              "score": 2000
+            }
+          ]
+        },
+        {
+          "category": "TONY BENNETT'S SONGBOOK",
+          "value": 200,
+          "clue": "I premiered this huge hit song at the Fairmont Hotel, figuring that at least the folks in this city would like it",
+          "answer": "\"I Left My Heart In San Francisco\"",
+          "isDailyDouble": false,
+          "orderNumber": 4,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 2900
+            },
+            {
+              "player": "Regina",
+              "score": 2900
+            },
+            {
+              "player": "Brad",
+              "score": 2200
+            }
+          ]
+        },
+        {
+          "category": "RUNNING MATES",
+          "value": 800,
+          "clue": "After Eagleton, George McGovern saluted him in '72",
+          "answer": "Sargent Shriver",
+          "isDailyDouble": false,
+          "orderNumber": 5,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 2900
+            },
+            {
+              "player": "Regina",
+              "score": 2900
+            },
+            {
+              "player": "Brad",
+              "score": 3000
+            }
+          ]
+        },
+        {
+          "category": "RUNNING MATES",
+          "value": 1000,
+          "clue": "Perot's partner in '92",
+          "answer": "Admiral James Stockdale",
+          "isDailyDouble": false,
+          "orderNumber": 6,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 3900
+            },
+            {
+              "player": "Regina",
+              "score": 2900
+            },
+            {
+              "player": "Brad",
+              "score": 3000
+            }
+          ]
+        },
+        {
+          "category": "SHAKESPEARE'S OPENING LINES",
+          "value": 200,
+          "clue": "Chorus: \"Two households both alike in dignity, in fair Verona, where we lay our scene\"",
+          "answer": "Romeo & Juliet",
+          "isDailyDouble": false,
+          "orderNumber": 7,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 3900
+            },
+            {
+              "player": "Regina",
+              "score": 3100
+            },
+            {
+              "player": "Brad",
+              "score": 3000
+            }
+          ]
+        },
+        {
+          "category": "TONY BENNETT'S SONGBOOK",
+          "value": 400,
+          "clue": "My album \"Here's to the Ladies\" includes the following song made famous by this legendary lady:\"When all the world's a hopeless jumble and the raindrops tumble, heaven opens magically.  When all the clouds darken up the skyway, there's a rainbow highway to be found\"",
+          "answer": "Judy Garland (\"Over The Rainbow\")",
+          "isDailyDouble": false,
+          "orderNumber": 8,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 3900
+            },
+            {
+              "player": "Regina",
+              "score": 2700
+            },
+            {
+              "player": "Brad",
+              "score": 3000
+            }
+          ]
+        },
+        {
+          "category": "TONY BENNETT'S SONGBOOK",
+          "value": 600,
+          "clue": "My album of this maestro's songs included \"Sophisticated Lady\" & \"In a Sentimental Mood\"",
+          "answer": "Duke Ellington",
+          "isDailyDouble": false,
+          "orderNumber": 9,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 4500
+            },
+            {
+              "player": "Regina",
+              "score": 2700
+            },
+            {
+              "player": "Brad",
+              "score": 3000
+            }
+          ]
+        },
+        {
+          "category": "SHAKESPEARE'S OPENING LINES",
+          "value": 400,
+          "clue": "The Duke of Gloucester: \"Now is the winter of our discontent\"",
+          "answer": "Richard III",
+          "isDailyDouble": false,
+          "orderNumber": 10,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 4500
+            },
+            {
+              "player": "Regina",
+              "score": 2700
+            },
+            {
+              "player": "Brad",
+              "score": 3400
+            }
+          ]
+        },
+        {
+          "category": "BRIDGE ON THE RIVER...",
+          "value": 200,
+          "clue": "Blackfriars Bridge",
+          "answer": "Thames",
+          "isDailyDouble": false,
+          "orderNumber": 11,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 4700
+            },
+            {
+              "player": "Regina",
+              "score": 2700
+            },
+            {
+              "player": "Brad",
+              "score": 3400
+            }
+          ]
+        },
+        {
+          "category": "BRIDGE ON THE RIVER...",
+          "value": 400,
+          "clue": "The Pont-Neuf & the Pont St.-Louis",
+          "answer": "Seine",
+          "isDailyDouble": false,
+          "orderNumber": 12,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 4700
+            },
+            {
+              "player": "Regina",
+              "score": 3100
+            },
+            {
+              "player": "Brad",
+              "score": 3400
+            }
+          ]
+        },
+        {
+          "category": "TONY BENNETT'S SONGBOOK",
+          "value": 800,
+          "clue": "I sang \"Rags To Riches\" in this Scorsese picture that could have been called \"Bad Guys\"",
+          "answer": "Goodfellas",
+          "isDailyDouble": false,
+          "orderNumber": 13,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 4700
+            },
+            {
+              "player": "Regina",
+              "score": 3900
+            },
+            {
+              "player": "Brad",
+              "score": 3400
+            }
+          ]
+        },
+        {
+          "category": "TONY BENNETT'S SONGBOOK",
+          "value": 1000,
+          "clue": "This composer's song, \"Ol' Man River\", stopped the show at Carnegie Hall",
+          "answer": "Jerome Kern",
+          "isDailyDouble": false,
+          "orderNumber": 14,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 4700
+            },
+            {
+              "player": "Regina",
+              "score": 3900
+            },
+            {
+              "player": "Brad",
+              "score": 3400
+            }
+          ]
+        },
+        {
+          "category": "13-LETTER WORDS",
+          "value": 200,
+          "clue": "In the 1930s both Chiang Kai-shek & Francisco Franco assumed this \"military\" title",
+          "answer": "generalissimo",
+          "isDailyDouble": false,
+          "orderNumber": 15,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 4700
+            },
+            {
+              "player": "Regina",
+              "score": 4100
+            },
+            {
+              "player": "Brad",
+              "score": 3400
+            }
+          ]
+        },
+        {
+          "category": "13-LETTER WORDS",
+          "value": 400,
+          "clue": "This adjective means forming right angles",
+          "answer": "perpendicular (complementary accepted)",
+          "isDailyDouble": false,
+          "orderNumber": 16,
+          "correctContestants": [
+            "Regina"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 5100
+            },
+            {
+              "player": "Regina",
+              "score": 4500
+            },
+            {
+              "player": "Brad",
+              "score": 3400
+            }
+          ]
+        },
+        {
+          "category": "SHAKESPEARE'S OPENING LINES",
+          "value": 600,
+          "clue": "Theseus: \"Now, fair Hippolyta, our nuptial hour draws on apace\"",
+          "answer": "A Midsummer Night's Dream",
+          "isDailyDouble": false,
+          "orderNumber": 17,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 5100
+            },
+            {
+              "player": "Regina",
+              "score": 5100
+            },
+            {
+              "player": "Brad",
+              "score": 3400
+            }
+          ]
+        },
+        {
+          "category": "13-LETTER WORDS",
+          "value": 600,
+          "clue": "The name of a Florentine writer gave us this adjective meaning cunning & duplicitous",
+          "answer": "Machiavellian",
+          "isDailyDouble": false,
+          "orderNumber": 18,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 5100
+            },
+            {
+              "player": "Regina",
+              "score": 5700
+            },
+            {
+              "player": "Brad",
+              "score": 3400
+            }
+          ]
+        },
+        {
+          "category": "13-LETTER WORDS",
+          "value": 800,
+          "clue": "Developed in the 1830s, it's a photographic image made on a copper plate coated with polished silver",
+          "answer": "a daguerreotype",
+          "isDailyDouble": false,
+          "orderNumber": 19,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 5100
+            },
+            {
+              "player": "Regina",
+              "score": 6500
+            },
+            {
+              "player": "Brad",
+              "score": 3400
+            }
+          ]
+        },
+        {
+          "category": "13-LETTER WORDS",
+          "value": 1500,
+          "clue": "This division of the Paleozoic era was characterized by the deposits of plant remains that later hardened into coal",
+          "answer": "Carboniferous",
+          "isDailyDouble": true,
+          "orderNumber": 20,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 5100
+            },
+            {
+              "player": "Regina",
+              "score": 5000
+            },
+            {
+              "player": "Brad",
+              "score": 3400
+            }
+          ]
+        },
+        {
+          "category": "SHAKESPEARE'S OPENING LINES",
+          "value": 500,
+          "clue": "Flavius: \"Hence!  Home, you idle creatures, get you home\"",
+          "answer": "Julius Caesar",
+          "isDailyDouble": true,
+          "orderNumber": 21,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 5100
+            },
+            {
+              "player": "Regina",
+              "score": 4500
+            },
+            {
+              "player": "Brad",
+              "score": 3400
+            }
+          ]
+        },
+        {
+          "category": "SHAKESPEARE'S OPENING LINES",
+          "value": 1000,
+          "clue": "The Earl of Kent: \"I thought the king had more affected the Duke of Albany than Cornwall\"",
+          "answer": "King Lear",
+          "isDailyDouble": false,
+          "orderNumber": 22,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 5100
+            },
+            {
+              "player": "Regina",
+              "score": 4500
+            },
+            {
+              "player": "Brad",
+              "score": 4400
+            }
+          ]
+        },
+        {
+          "category": "BRIDGE ON THE RIVER...",
+          "value": 1000,
+          "clue": "The Ponte Garibaldi & the Ponte Palatino",
+          "answer": "Tiber",
+          "isDailyDouble": false,
+          "orderNumber": 23,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 5100
+            },
+            {
+              "player": "Regina",
+              "score": 4500
+            },
+            {
+              "player": "Brad",
+              "score": 5400
+            }
+          ]
+        },
+        {
+          "category": "HEY, MARIO!",
+          "value": 1000,
+          "clue": "In a 1951 film, he was \"The Great Caruso\"",
+          "answer": "Mario Lanza",
+          "isDailyDouble": false,
+          "orderNumber": 24,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 4100
+            },
+            {
+              "player": "Regina",
+              "score": 4500
+            },
+            {
+              "player": "Brad",
+              "score": 6400
+            }
+          ]
+        },
+        {
+          "category": "BRIDGE ON THE RIVER...",
+          "value": 600,
+          "clue": "The Huey P. Long Bridge",
+          "answer": "Mississippi",
+          "isDailyDouble": false,
+          "orderNumber": 25,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 4100
+            },
+            {
+              "player": "Regina",
+              "score": 5100
+            },
+            {
+              "player": "Brad",
+              "score": 6400
+            }
+          ]
+        },
+        {
+          "category": "HEY, MARIO!",
+          "value": 800,
+          "clue": "The NHL's Rookie of the Year for 1984-85; he was also the 1985 All-Star Game's MVP",
+          "answer": "Mario Lemieux",
+          "isDailyDouble": false,
+          "orderNumber": 26,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 4100
+            },
+            {
+              "player": "Regina",
+              "score": 5100
+            },
+            {
+              "player": "Brad",
+              "score": 7200
+            }
+          ]
+        },
+        {
+          "category": "BRIDGE ON THE RIVER...",
+          "value": 800,
+          "clue": "The Dusseldorf-Neuss Bridge",
+          "answer": "Rhine",
+          "isDailyDouble": false,
+          "orderNumber": 27,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 4900
+            },
+            {
+              "player": "Regina",
+              "score": 5100
+            },
+            {
+              "player": "Brad",
+              "score": 7200
+            }
+          ]
+        },
+        {
+          "category": "HEY, MARIO!",
+          "value": 600,
+          "clue": "Scripts for Marlon Brando's roles of Jor-El & Don Corleone were written by this man",
+          "answer": "Mario Puzo",
+          "isDailyDouble": false,
+          "orderNumber": 28,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 4900
+            },
+            {
+              "player": "Regina",
+              "score": 5100
+            },
+            {
+              "player": "Brad",
+              "score": 7800
+            }
+          ]
+        },
+        {
+          "category": "HEY, MARIO!",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 4900
+            },
+            {
+              "player": "Regina",
+              "score": 5100
+            },
+            {
+              "player": "Brad",
+              "score": 7800
+            }
+          ]
+        },
+        {
+          "category": "HEY, MARIO!",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 4900
+            },
+            {
+              "player": "Regina",
+              "score": 5100
+            },
+            {
+              "player": "Brad",
+              "score": 7800
+            }
+          ]
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "David",
+          "score": 4900
+        },
+        {
+          "player": "Regina",
+          "score": 5100
+        },
+        {
+          "player": "Brad",
+          "score": 7800
+        }
+      ]
+    },
+    "finalJeopardy": {
+      "category": "IN THE NEWS 2000",
+      "clue": "40 years after a famous incident, he was awarded a DFC, POW Medal & Natl. Defense Service Medal posthumously",
+      "answer": "Francis Gary Powers",
+      "responses": [
+        {
+          "contestant": "David",
+          "response": "Who is Francis Gary Powers?",
+          "isCorrect": true,
+          "isIncorrect": false,
+          "value": 0,
+          "finalScore": 4900
+        },
+        {
+          "contestant": "Regina",
+          "response": "Who was Powers?",
+          "isCorrect": true,
+          "isIncorrect": false,
+          "value": 5100,
+          "finalScore": 10200
+        },
+        {
+          "contestant": "Brad",
+          "response": "Who is Powers?",
+          "isCorrect": true,
+          "isIncorrect": false,
+          "value": 2401,
+          "finalScore": 10201
+        }
+      ]
+    }
+  },
+  "finalScores": [
+    {
+      "player": "David",
+      "score": "$4,900"
+    },
+    {
+      "player": "Regina",
+      "score": "$10,200"
+    },
+    {
+      "player": "Brad",
+      "score": "$10,201"
+    }
+  ],
+  "coryatScores": [
+    {
+      "player": "David",
+      "score": 4900
+    },
+    {
+      "player": "Regina",
+      "score": 7000
+    },
+    {
+      "player": "Brad",
+      "score": 7800
+    }
+  ]
+}

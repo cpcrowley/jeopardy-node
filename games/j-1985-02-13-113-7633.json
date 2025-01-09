@@ -1,0 +1,1682 @@
+{
+  "gameId": 7633,
+  "showNumber": "113",
+  "title": "Show #113 - Wednesday, February 13, 1985",
+  "date": "1985-02-13",
+  "comments": "John Hnat game 2.\nSingle-player Final Jeopardy!",
+  "contestants": [
+    "John",
+    "Perry",
+    "Judy"
+  ],
+  "rounds": {
+    "jeopardy": {
+      "categories": [
+        "SCIENCE",
+        "MAGIC",
+        "DOGS",
+        "SILLY SONGS",
+        "GEOGRAPHY",
+        "TRIPLE TALK"
+      ],
+      "clues": [
+        {
+          "category": "SCIENCE",
+          "value": 100,
+          "clue": "A prototype of this taxi part was devised by a Greek around 1 B.C.",
+          "answer": "a meter",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "John",
+            "Perry"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "John",
+              "score": -100
+            },
+            {
+              "player": "Perry",
+              "score": -100
+            },
+            {
+              "player": "Judy",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "SCIENCE",
+          "value": 200,
+          "clue": "Every second, this body converts 657 mil. tons of hydrogen into helium",
+          "answer": "the Sun",
+          "isDailyDouble": false,
+          "orderNumber": 2,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Perry"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "John",
+              "score": -100
+            },
+            {
+              "player": "Perry",
+              "score": -300
+            },
+            {
+              "player": "Judy",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "GEOGRAPHY",
+          "value": 100,
+          "clue": "First country to have woman prime minister, it was once Ceylon",
+          "answer": "Sri Lanka",
+          "isDailyDouble": false,
+          "orderNumber": 3,
+          "correctContestants": [
+            "Perry"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "John",
+              "score": -100
+            },
+            {
+              "player": "Perry",
+              "score": -200
+            },
+            {
+              "player": "Judy",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "GEOGRAPHY",
+          "value": 200,
+          "clue": "This European country is world's largest exporter of cork",
+          "answer": "Portugal",
+          "isDailyDouble": false,
+          "orderNumber": 4,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "John",
+            "Judy"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "John",
+              "score": -300
+            },
+            {
+              "player": "Perry",
+              "score": -200
+            },
+            {
+              "player": "Judy",
+              "score": -200
+            }
+          ]
+        },
+        {
+          "category": "GEOGRAPHY",
+          "value": 300,
+          "clue": "Largest of the Society Islands, its capital is Papeete",
+          "answer": "Tahiti",
+          "isDailyDouble": false,
+          "orderNumber": 5,
+          "correctContestants": [
+            "Judy"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "John",
+              "score": -300
+            },
+            {
+              "player": "Perry",
+              "score": -200
+            },
+            {
+              "player": "Judy",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "category": "DOGS",
+          "value": 100,
+          "clue": "Breed that sounds like it \"could'a been a contender\"",
+          "answer": "the boxer",
+          "isDailyDouble": false,
+          "orderNumber": 6,
+          "correctContestants": [
+            "John"
+          ],
+          "incorrectContestants": [
+            "Perry"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "John",
+              "score": -200
+            },
+            {
+              "player": "Perry",
+              "score": -300
+            },
+            {
+              "player": "Judy",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "category": "DOGS",
+          "value": 200,
+          "clue": "Originally, this hunting dog would \"indicate\" game & a greyhound would run it to ground",
+          "answer": "a pointer",
+          "isDailyDouble": false,
+          "orderNumber": 7,
+          "correctContestants": [
+            "Judy"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "John",
+              "score": -200
+            },
+            {
+              "player": "Perry",
+              "score": -300
+            },
+            {
+              "player": "Judy",
+              "score": 300
+            }
+          ]
+        },
+        {
+          "category": "DOGS",
+          "value": 300,
+          "clue": "The 2 types of hounds are sight hounds & this type",
+          "answer": "scent hounds",
+          "isDailyDouble": false,
+          "orderNumber": 8,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "John",
+            "Perry",
+            "Judy"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "John",
+              "score": -500
+            },
+            {
+              "player": "Perry",
+              "score": -600
+            },
+            {
+              "player": "Judy",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "DOGS",
+          "value": 400,
+          "clue": "This wolfhound's name comes from Russian for \"swift\"",
+          "answer": "borzoi",
+          "isDailyDouble": false,
+          "orderNumber": 9,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Perry",
+            "Judy"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "John",
+              "score": -500
+            },
+            {
+              "player": "Perry",
+              "score": -1000
+            },
+            {
+              "player": "Judy",
+              "score": -400
+            }
+          ]
+        },
+        {
+          "category": "SILLY SONGS",
+          "value": 100,
+          "clue": "One of his hits began, \"Hello muddah, hello faddah, here I am at camp Granada\"",
+          "answer": "Allan Sherman",
+          "isDailyDouble": false,
+          "orderNumber": 10,
+          "correctContestants": [
+            "John"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "John",
+              "score": -400
+            },
+            {
+              "player": "Perry",
+              "score": -1000
+            },
+            {
+              "player": "Judy",
+              "score": -400
+            }
+          ]
+        },
+        {
+          "category": "GEOGRAPHY",
+          "value": 400,
+          "clue": "The 2 countries that make up the West Indies island of Hispaniola",
+          "answer": "Haiti & the Dominican Republic",
+          "isDailyDouble": true,
+          "orderNumber": 11,
+          "correctContestants": [
+            "John"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "John",
+              "score": 0
+            },
+            {
+              "player": "Perry",
+              "score": -1000
+            },
+            {
+              "player": "Judy",
+              "score": -400
+            }
+          ]
+        },
+        {
+          "category": "TRIPLE TALK",
+          "value": 100,
+          "clue": "Precedes \"It's Fat Albert!\"",
+          "answer": "Hey, Hey, Hey",
+          "isDailyDouble": false,
+          "orderNumber": 12,
+          "correctContestants": [
+            "Perry"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "John",
+              "score": 0
+            },
+            {
+              "player": "Perry",
+              "score": -900
+            },
+            {
+              "player": "Judy",
+              "score": -400
+            }
+          ]
+        },
+        {
+          "category": "TRIPLE TALK",
+          "value": 200,
+          "clue": "This film about the attack on Pearl Harbor was one of the 1st U.S. films shown in Red China",
+          "answer": "Tora! Tora! Tora!",
+          "isDailyDouble": false,
+          "orderNumber": 13,
+          "correctContestants": [
+            "John"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "John",
+              "score": 200
+            },
+            {
+              "player": "Perry",
+              "score": -900
+            },
+            {
+              "player": "Judy",
+              "score": -400
+            }
+          ]
+        },
+        {
+          "category": "GEOGRAPHY",
+          "value": 500,
+          "clue": "Westernmost country on the South American continent",
+          "answer": "Peru",
+          "isDailyDouble": false,
+          "orderNumber": 14,
+          "correctContestants": [
+            "Judy"
+          ],
+          "incorrectContestants": [
+            "Perry"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "John",
+              "score": 200
+            },
+            {
+              "player": "Perry",
+              "score": -1400
+            },
+            {
+              "player": "Judy",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "category": "TRIPLE TALK",
+          "value": 300,
+          "clue": "This & \"loving you\" were all Teresa Brewer wanted",
+          "answer": "\"Music! Music! Music!\"",
+          "isDailyDouble": false,
+          "orderNumber": 15,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Perry"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "John",
+              "score": 200
+            },
+            {
+              "player": "Perry",
+              "score": -1700
+            },
+            {
+              "player": "Judy",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "category": "TRIPLE TALK",
+          "value": 400,
+          "clue": "Dance done by Patsy & her commercial cat",
+          "answer": "chow-chow-chow",
+          "isDailyDouble": false,
+          "orderNumber": 16,
+          "correctContestants": [
+            "John"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "John",
+              "score": 600
+            },
+            {
+              "player": "Perry",
+              "score": -1700
+            },
+            {
+              "player": "Judy",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "category": "SCIENCE",
+          "value": 300,
+          "clue": "In a computer, the only 2 numbers in a bit",
+          "answer": "0 & 1",
+          "isDailyDouble": false,
+          "orderNumber": 17,
+          "correctContestants": [
+            "John"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "John",
+              "score": 900
+            },
+            {
+              "player": "Perry",
+              "score": -1700
+            },
+            {
+              "player": "Judy",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "category": "SCIENCE",
+          "value": 400,
+          "clue": "A even mix of red, green & blue light makes this color",
+          "answer": "white light",
+          "isDailyDouble": false,
+          "orderNumber": 18,
+          "correctContestants": [
+            "Judy"
+          ],
+          "incorrectContestants": [
+            "Perry"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "John",
+              "score": 900
+            },
+            {
+              "player": "Perry",
+              "score": -2100
+            },
+            {
+              "player": "Judy",
+              "score": 500
+            }
+          ]
+        },
+        {
+          "category": "SILLY SONGS",
+          "value": 200,
+          "clue": "In Coasters' hit, the response to \"Yakety-Yak\"",
+          "answer": "don't talk back",
+          "isDailyDouble": false,
+          "orderNumber": 19,
+          "correctContestants": [
+            "Perry"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "John",
+              "score": 900
+            },
+            {
+              "player": "Perry",
+              "score": -1900
+            },
+            {
+              "player": "Judy",
+              "score": 500
+            }
+          ]
+        },
+        {
+          "category": "SILLY SONGS",
+          "value": 300,
+          "clue": "\"She was everything a Big Bad Wolf could want\"",
+          "answer": "Little Red Riding Hood",
+          "isDailyDouble": false,
+          "orderNumber": 20,
+          "correctContestants": [
+            "John"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "John",
+              "score": 1200
+            },
+            {
+              "player": "Perry",
+              "score": -1900
+            },
+            {
+              "player": "Judy",
+              "score": 500
+            }
+          ]
+        },
+        {
+          "category": "SCIENCE",
+          "value": 500,
+          "clue": "Till later scientists reversed his scale, he said: 0º equals boiling, 100º equals freezing",
+          "answer": "Celsius",
+          "isDailyDouble": false,
+          "orderNumber": 21,
+          "correctContestants": [
+            "John"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "John",
+              "score": 1700
+            },
+            {
+              "player": "Perry",
+              "score": -1900
+            },
+            {
+              "player": "Judy",
+              "score": 500
+            }
+          ]
+        },
+        {
+          "category": "MAGIC",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "John",
+              "score": 1700
+            },
+            {
+              "player": "Perry",
+              "score": -1900
+            },
+            {
+              "player": "Judy",
+              "score": 500
+            }
+          ]
+        },
+        {
+          "category": "MAGIC",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "John",
+              "score": 1700
+            },
+            {
+              "player": "Perry",
+              "score": -1900
+            },
+            {
+              "player": "Judy",
+              "score": 500
+            }
+          ]
+        },
+        {
+          "category": "MAGIC",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "John",
+              "score": 1700
+            },
+            {
+              "player": "Perry",
+              "score": -1900
+            },
+            {
+              "player": "Judy",
+              "score": 500
+            }
+          ]
+        },
+        {
+          "category": "MAGIC",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "John",
+              "score": 1700
+            },
+            {
+              "player": "Perry",
+              "score": -1900
+            },
+            {
+              "player": "Judy",
+              "score": 500
+            }
+          ]
+        },
+        {
+          "category": "SILLY SONGS",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "John",
+              "score": 1700
+            },
+            {
+              "player": "Perry",
+              "score": -1900
+            },
+            {
+              "player": "Judy",
+              "score": 500
+            }
+          ]
+        },
+        {
+          "category": "MAGIC",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "John",
+              "score": 1700
+            },
+            {
+              "player": "Perry",
+              "score": -1900
+            },
+            {
+              "player": "Judy",
+              "score": 500
+            }
+          ]
+        },
+        {
+          "category": "DOGS",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "John",
+              "score": 1700
+            },
+            {
+              "player": "Perry",
+              "score": -1900
+            },
+            {
+              "player": "Judy",
+              "score": 500
+            }
+          ]
+        },
+        {
+          "category": "SILLY SONGS",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "John",
+              "score": 1700
+            },
+            {
+              "player": "Perry",
+              "score": -1900
+            },
+            {
+              "player": "Judy",
+              "score": 500
+            }
+          ]
+        },
+        {
+          "category": "TRIPLE TALK",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "John",
+              "score": 1700
+            },
+            {
+              "player": "Perry",
+              "score": -1900
+            },
+            {
+              "player": "Judy",
+              "score": 500
+            }
+          ]
+        }
+      ],
+      "firstBreakScores": [
+        {
+          "player": "John",
+          "score": -200
+        },
+        {
+          "player": "Perry",
+          "score": -300
+        },
+        {
+          "player": "Judy",
+          "score": 300
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "John",
+          "score": 1700
+        },
+        {
+          "player": "Perry",
+          "score": -1900
+        },
+        {
+          "player": "Judy",
+          "score": 500
+        }
+      ]
+    },
+    "doubleJeopardy": {
+      "categories": [
+        "PRESIDENTS",
+        "MOVIES",
+        "OLD TESTAMENT",
+        "MEDICINE",
+        "STATE CAPITALS",
+        "\"BLACK\" & \"WHITE\""
+      ],
+      "clues": [
+        {
+          "category": "PRESIDENTS",
+          "value": 200,
+          "clue": "The only president born on the Fourth of July, he probably kept silent about it",
+          "answer": "Cal Coolidge",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "John",
+              "score": 1900
+            },
+            {
+              "player": "Perry",
+              "score": -1900
+            },
+            {
+              "player": "Judy",
+              "score": 500
+            }
+          ]
+        },
+        {
+          "category": "OLD TESTAMENT",
+          "value": 200,
+          "clue": "Biblical strongman believed to be the mightiest mortal",
+          "answer": "Samson",
+          "isDailyDouble": false,
+          "orderNumber": 2,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "John",
+              "score": 2100
+            },
+            {
+              "player": "Perry",
+              "score": -1900
+            },
+            {
+              "player": "Judy",
+              "score": 500
+            }
+          ]
+        },
+        {
+          "category": "OLD TESTAMENT",
+          "value": 400,
+          "clue": "Nation for whom Goliath fought",
+          "answer": "the Philistines",
+          "isDailyDouble": false,
+          "orderNumber": 3,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "John",
+              "score": 2100
+            },
+            {
+              "player": "Perry",
+              "score": -1500
+            },
+            {
+              "player": "Judy",
+              "score": 500
+            }
+          ]
+        },
+        {
+          "category": "PRESIDENTS",
+          "value": 400,
+          "clue": "With LBJ's in Austin, TX, 8 of them have now been built",
+          "answer": "Presidential libraries",
+          "isDailyDouble": false,
+          "orderNumber": 4,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "John",
+              "score": 2500
+            },
+            {
+              "player": "Perry",
+              "score": -1900
+            },
+            {
+              "player": "Judy",
+              "score": 500
+            }
+          ]
+        },
+        {
+          "category": "OLD TESTAMENT",
+          "value": 600,
+          "clue": "For a bowl of lentil soup, he sold his birthright to Jacob",
+          "answer": "Esau",
+          "isDailyDouble": false,
+          "orderNumber": 5,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "John",
+              "score": 3100
+            },
+            {
+              "player": "Perry",
+              "score": -1900
+            },
+            {
+              "player": "Judy",
+              "score": 500
+            }
+          ]
+        },
+        {
+          "category": "OLD TESTAMENT",
+          "value": 800,
+          "clue": "Saul's son and David's best friend",
+          "answer": "Jonathan",
+          "isDailyDouble": false,
+          "orderNumber": 6,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "John",
+              "score": 3900
+            },
+            {
+              "player": "Perry",
+              "score": -2700
+            },
+            {
+              "player": "Judy",
+              "score": 500
+            }
+          ]
+        },
+        {
+          "category": "OLD TESTAMENT",
+          "value": 1000,
+          "clue": "Subject of Chayefsky play, the Lord had him reduce his army from 32,000 to 300",
+          "answer": "Gideon",
+          "isDailyDouble": false,
+          "orderNumber": 7,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "John",
+              "score": 4900
+            },
+            {
+              "player": "Perry",
+              "score": -2700
+            },
+            {
+              "player": "Judy",
+              "score": 500
+            }
+          ]
+        },
+        {
+          "category": "STATE CAPITALS",
+          "value": 200,
+          "clue": "Last in alphabetical order of state capitals, it's New Jersey's",
+          "answer": "Trenton",
+          "isDailyDouble": false,
+          "orderNumber": 8,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "John",
+              "score": 5100
+            },
+            {
+              "player": "Perry",
+              "score": -2700
+            },
+            {
+              "player": "Judy",
+              "score": 300
+            }
+          ]
+        },
+        {
+          "category": "STATE CAPITALS",
+          "value": 400,
+          "clue": "French found a \"red stick\" which was border between 2 Indian tribes at this state capital site",
+          "answer": "Baton Rouge",
+          "isDailyDouble": false,
+          "orderNumber": 9,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "John",
+              "score": 5500
+            },
+            {
+              "player": "Perry",
+              "score": -2700
+            },
+            {
+              "player": "Judy",
+              "score": 300
+            }
+          ]
+        },
+        {
+          "category": "STATE CAPITALS",
+          "value": 2000,
+          "clue": "State whose capital is mentioned in this song:\"They say to have her hair done, Liz flies all the way to France / And Jackie's seen in a discotheque doing a brand new dance / And the White House social season should be glittering and gay / But here in Topeka, the rain is a-falling / The faucet is a-dripping and the kids are a-bawling\"",
+          "answer": "Kansas",
+          "isDailyDouble": true,
+          "orderNumber": 10,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "John",
+              "score": 7500
+            },
+            {
+              "player": "Perry",
+              "score": -2700
+            },
+            {
+              "player": "Judy",
+              "score": 300
+            }
+          ]
+        },
+        {
+          "category": "STATE CAPITALS",
+          "value": 800,
+          "clue": "State whose capital was first called \"La villa real de la Santa Fe de San Francisco\"",
+          "answer": "New Mexico",
+          "isDailyDouble": false,
+          "orderNumber": 11,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Perry"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "John",
+              "score": 6700
+            },
+            {
+              "player": "Perry",
+              "score": -3500
+            },
+            {
+              "player": "Judy",
+              "score": 300
+            }
+          ]
+        },
+        {
+          "category": "STATE CAPITALS",
+          "value": 1000,
+          "clue": "The Susquehanna River runs through this state capital",
+          "answer": "Harrisburg",
+          "isDailyDouble": false,
+          "orderNumber": 12,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "John",
+              "score": 7700
+            },
+            {
+              "player": "Perry",
+              "score": -4500
+            },
+            {
+              "player": "Judy",
+              "score": 300
+            }
+          ]
+        },
+        {
+          "category": "\"BLACK\" & \"WHITE\"",
+          "value": 200,
+          "clue": "Black musician who formed the Love Unlimited Orchestra",
+          "answer": "Barry White",
+          "isDailyDouble": false,
+          "orderNumber": 13,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "John",
+              "score": 7700
+            },
+            {
+              "player": "Perry",
+              "score": -4500
+            },
+            {
+              "player": "Judy",
+              "score": 300
+            }
+          ]
+        },
+        {
+          "category": "\"BLACK\" & \"WHITE\"",
+          "value": 400,
+          "clue": "She got an Oscar nomination for her waitress role in \"Five Easy Pieces\"",
+          "answer": "Karen Black",
+          "isDailyDouble": false,
+          "orderNumber": 14,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "John",
+              "score": 7700
+            },
+            {
+              "player": "Perry",
+              "score": -4100
+            },
+            {
+              "player": "Judy",
+              "score": 300
+            }
+          ]
+        },
+        {
+          "category": "\"BLACK\" & \"WHITE\"",
+          "value": 600,
+          "clue": "In commercials his name tag reads \"Maytag\"",
+          "answer": "Jesse White",
+          "isDailyDouble": false,
+          "orderNumber": 15,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "John",
+              "score": 7700
+            },
+            {
+              "player": "Perry",
+              "score": -3500
+            },
+            {
+              "player": "Judy",
+              "score": 300
+            }
+          ]
+        },
+        {
+          "category": "\"BLACK\" & \"WHITE\"",
+          "value": 800,
+          "clue": "She was the U.S. Ambassador to Ghana in 1974",
+          "answer": "Shirley Temple Black",
+          "isDailyDouble": false,
+          "orderNumber": 16,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "John",
+              "score": 6900
+            },
+            {
+              "player": "Perry",
+              "score": -2700
+            },
+            {
+              "player": "Judy",
+              "score": 300
+            }
+          ]
+        },
+        {
+          "category": "PRESIDENTS",
+          "value": 600,
+          "clue": "1st president born in the 20th century",
+          "answer": "John Kennedy",
+          "isDailyDouble": false,
+          "orderNumber": 17,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "John",
+              "score": 6900
+            },
+            {
+              "player": "Perry",
+              "score": -2100
+            },
+            {
+              "player": "Judy",
+              "score": 300
+            }
+          ]
+        },
+        {
+          "category": "PRESIDENTS",
+          "value": 1000,
+          "clue": "4 of the 5 presidents with last names beginning with \"H\"",
+          "answer": "(4 of) Harrison, Harding, Hayes, Harrison, Hoover",
+          "isDailyDouble": true,
+          "orderNumber": 18,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "John",
+              "score": 6900
+            },
+            {
+              "player": "Perry",
+              "score": -3100
+            },
+            {
+              "player": "Judy",
+              "score": 300
+            }
+          ]
+        },
+        {
+          "category": "PRESIDENTS",
+          "value": 1000,
+          "clue": "2nd bachelor elected pres., he was only one to marry in the White House",
+          "answer": "Grover Cleveland",
+          "isDailyDouble": false,
+          "orderNumber": 19,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "John",
+              "score": 6900
+            },
+            {
+              "player": "Perry",
+              "score": -2100
+            },
+            {
+              "player": "Judy",
+              "score": 300
+            }
+          ]
+        },
+        {
+          "category": "MOVIES",
+          "value": 1000,
+          "clue": "The words that Patricia Neal says to Gort to keep him from destroying the world",
+          "answer": "Klaatu barada nikto",
+          "isDailyDouble": false,
+          "orderNumber": 20,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Judy"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "John",
+              "score": 6900
+            },
+            {
+              "player": "Perry",
+              "score": -3100
+            },
+            {
+              "player": "Judy",
+              "score": -700
+            }
+          ]
+        },
+        {
+          "category": "MOVIES",
+          "value": 800,
+          "clue": "Where Alfred Hitchcock made his cameo appearance in \"Lifeboat\"",
+          "answer": "in a photograph in a newspaper",
+          "isDailyDouble": false,
+          "orderNumber": 21,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "John",
+              "score": 6900
+            },
+            {
+              "player": "Perry",
+              "score": -2300
+            },
+            {
+              "player": "Judy",
+              "score": -700
+            }
+          ]
+        },
+        {
+          "category": "MOVIES",
+          "value": 600,
+          "clue": "Musical instrument played by Montgomery Clift in \"From Here to Eternity\"",
+          "answer": "the bugle",
+          "isDailyDouble": false,
+          "orderNumber": 22,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "John",
+              "score": 6900
+            },
+            {
+              "player": "Perry",
+              "score": -2300
+            },
+            {
+              "player": "Judy",
+              "score": -700
+            }
+          ]
+        },
+        {
+          "category": "MOVIES",
+          "value": 400,
+          "clue": "Biblical dancer Norma Desmond wants to make her comeback as in \"Sunset Boulevard\"",
+          "answer": "Salome",
+          "isDailyDouble": false,
+          "orderNumber": 23,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "John",
+              "score": 6900
+            },
+            {
+              "player": "Perry",
+              "score": -1900
+            },
+            {
+              "player": "Judy",
+              "score": -700
+            }
+          ]
+        },
+        {
+          "category": "MOVIES",
+          "value": 200,
+          "clue": "He played the title role in \"The Story of Will Rogers\"",
+          "answer": "Will Rogers, Jr.",
+          "isDailyDouble": false,
+          "orderNumber": 24,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Judy"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "John",
+              "score": 6900
+            },
+            {
+              "player": "Perry",
+              "score": -2100
+            },
+            {
+              "player": "Judy",
+              "score": -900
+            }
+          ]
+        },
+        {
+          "category": "\"BLACK\" & \"WHITE\"",
+          "value": 1000,
+          "clue": "He told the tale of a girl, a pig & a spider",
+          "answer": "E.B. White",
+          "isDailyDouble": false,
+          "orderNumber": 25,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "John",
+              "score": 6900
+            },
+            {
+              "player": "Perry",
+              "score": -3100
+            },
+            {
+              "player": "Judy",
+              "score": -900
+            }
+          ]
+        },
+        {
+          "category": "MEDICINE",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "John",
+              "score": 6900
+            },
+            {
+              "player": "Perry",
+              "score": -3100
+            },
+            {
+              "player": "Judy",
+              "score": -900
+            }
+          ]
+        },
+        {
+          "category": "MEDICINE",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "John",
+              "score": 6900
+            },
+            {
+              "player": "Perry",
+              "score": -3100
+            },
+            {
+              "player": "Judy",
+              "score": -900
+            }
+          ]
+        },
+        {
+          "category": "MEDICINE",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "John",
+              "score": 6900
+            },
+            {
+              "player": "Perry",
+              "score": -3100
+            },
+            {
+              "player": "Judy",
+              "score": -900
+            }
+          ]
+        },
+        {
+          "category": "MEDICINE",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "John",
+              "score": 6900
+            },
+            {
+              "player": "Perry",
+              "score": -3100
+            },
+            {
+              "player": "Judy",
+              "score": -900
+            }
+          ]
+        },
+        {
+          "category": "MEDICINE",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "John",
+              "score": 6900
+            },
+            {
+              "player": "Perry",
+              "score": -3100
+            },
+            {
+              "player": "Judy",
+              "score": -900
+            }
+          ]
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "John",
+          "score": 6900
+        },
+        {
+          "player": "Perry",
+          "score": -3100
+        },
+        {
+          "player": "Judy",
+          "score": -900
+        }
+      ]
+    },
+    "finalJeopardy": {
+      "category": "THE CALENDAR",
+      "clue": "The 1930s were this decade of the 20th century",
+      "answer": "the 4th decade",
+      "responses": [
+        {
+          "contestant": "John",
+          "response": "What is the 4th decade",
+          "isCorrect": true,
+          "isIncorrect": false,
+          "value": 1400,
+          "finalScore": 8300
+        }
+      ]
+    }
+  },
+  "finalScores": [
+    {
+      "player": "John",
+      "score": "$8,300"
+    },
+    {
+      "player": "Perry",
+      "score": "-$3,100"
+    },
+    {
+      "player": "Judy",
+      "score": "-$900"
+    }
+  ],
+  "coryatScores": [
+    {
+      "player": "John",
+      "score": 5500
+    },
+    {
+      "player": "Perry",
+      "score": -2100
+    },
+    {
+      "player": "Judy",
+      "score": -900
+    }
+  ]
+}

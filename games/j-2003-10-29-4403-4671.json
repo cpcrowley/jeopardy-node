@@ -1,0 +1,1695 @@
+{
+  "gameId": 4671,
+  "showNumber": "4403",
+  "title": "Show #4403 - Wednesday, October 29, 2003",
+  "date": "2003-10-29",
+  "comments": "Game data retrieved from an alternate archive.",
+  "contestants": [
+    "John",
+    "Judy",
+    "Saul"
+  ],
+  "rounds": {
+    "jeopardy": {
+      "categories": [
+        "SCIENTISTS",
+        "MUSIC TO MY EARS",
+        "AN \"F\" IN HISTORY",
+        "LEFTOVERS",
+        "PRINCETON",
+        "IN OTHER WORDS..."
+      ],
+      "clues": [
+        {
+          "category": "SCIENTISTS",
+          "value": 200,
+          "clue": "Upon her husband's death in 1906, she succeeded him as Professor of Physics at the Sorbonne",
+          "answer": "Marie Curie",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [
+            "John"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "John",
+              "score": 200
+            },
+            {
+              "player": "Judy",
+              "score": 0
+            },
+            {
+              "player": "Saul",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "SCIENTISTS",
+          "value": 400,
+          "clue": "This British naturalist's grandfather Erasmus had earlier developed his own theory of evolution",
+          "answer": "Charles Darwin",
+          "isDailyDouble": false,
+          "orderNumber": 2,
+          "correctContestants": [
+            "Saul"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "John",
+              "score": 200
+            },
+            {
+              "player": "Judy",
+              "score": 0
+            },
+            {
+              "player": "Saul",
+              "score": 400
+            }
+          ]
+        },
+        {
+          "category": "MUSIC TO MY EARS",
+          "value": 200,
+          "clue": "This song won a 1939 Academy Award",
+          "answer": "\"Over The Rainbow\"",
+          "isDailyDouble": false,
+          "orderNumber": 3,
+          "correctContestants": [
+            "John"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "John",
+              "score": 400
+            },
+            {
+              "player": "Judy",
+              "score": 0
+            },
+            {
+              "player": "Saul",
+              "score": 400
+            }
+          ]
+        },
+        {
+          "category": "SCIENTISTS",
+          "value": 1000,
+          "clue": "In 1958 this chemist published his book against nuclear testing called \"No More War\"",
+          "answer": "Linus Pauling",
+          "isDailyDouble": true,
+          "orderNumber": 4,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "John"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "John",
+              "score": -600
+            },
+            {
+              "player": "Judy",
+              "score": 0
+            },
+            {
+              "player": "Saul",
+              "score": 400
+            }
+          ]
+        },
+        {
+          "category": "SCIENTISTS",
+          "value": 800,
+          "clue": "Between 1943 & 1945, he took a leave from Cal Tech & Berkeley to direct the Manhattan Project",
+          "answer": "Oppenheimer",
+          "isDailyDouble": false,
+          "orderNumber": 5,
+          "correctContestants": [
+            "Judy"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "John",
+              "score": -600
+            },
+            {
+              "player": "Judy",
+              "score": 800
+            },
+            {
+              "player": "Saul",
+              "score": 400
+            }
+          ]
+        },
+        {
+          "category": "SCIENTISTS",
+          "value": 1000,
+          "clue": "This Russian chemist's Periodic Law of 1869 predicted the existence of elements yet to be discovered",
+          "answer": "Mendeleev",
+          "isDailyDouble": false,
+          "orderNumber": 6,
+          "correctContestants": [
+            "Saul"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "John",
+              "score": -600
+            },
+            {
+              "player": "Judy",
+              "score": 800
+            },
+            {
+              "player": "Saul",
+              "score": 1400
+            }
+          ]
+        },
+        {
+          "category": "MUSIC TO MY EARS",
+          "value": 400,
+          "clue": "For many, this song is a tradition",
+          "answer": "\"Hava Nagila\"",
+          "isDailyDouble": false,
+          "orderNumber": 7,
+          "correctContestants": [
+            "John"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "John",
+              "score": -200
+            },
+            {
+              "player": "Judy",
+              "score": 800
+            },
+            {
+              "player": "Saul",
+              "score": 1400
+            }
+          ]
+        },
+        {
+          "category": "MUSIC TO MY EARS",
+          "value": 600,
+          "clue": "This song heard here is a standard at some establishments",
+          "answer": "\"The Stripper\"",
+          "isDailyDouble": false,
+          "orderNumber": 8,
+          "correctContestants": [
+            "John"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "John",
+              "score": 400
+            },
+            {
+              "player": "Judy",
+              "score": 800
+            },
+            {
+              "player": "Saul",
+              "score": 1400
+            }
+          ]
+        },
+        {
+          "category": "MUSIC TO MY EARS",
+          "value": 800,
+          "clue": "This contagious toe-tapper was a hit song for composer Harold Arlen in 1930",
+          "answer": "\"Get Happy\"",
+          "isDailyDouble": false,
+          "orderNumber": 9,
+          "correctContestants": [
+            "John"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "John",
+              "score": 1200
+            },
+            {
+              "player": "Judy",
+              "score": 800
+            },
+            {
+              "player": "Saul",
+              "score": 1400
+            }
+          ]
+        },
+        {
+          "category": "MUSIC TO MY EARS",
+          "value": 1000,
+          "clue": "This song began as part of a minstrel show in 1859",
+          "answer": "\"Dixie\"",
+          "isDailyDouble": false,
+          "orderNumber": 10,
+          "correctContestants": [
+            "Saul"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "John",
+              "score": 1200
+            },
+            {
+              "player": "Judy",
+              "score": 800
+            },
+            {
+              "player": "Saul",
+              "score": 2400
+            }
+          ]
+        },
+        {
+          "category": "AN \"F\" IN HISTORY",
+          "value": 200,
+          "clue": "Mary Queen of Scots' first marriage was in 1558 to the Dauphin of this country",
+          "answer": "France",
+          "isDailyDouble": false,
+          "orderNumber": 11,
+          "correctContestants": [
+            "John"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "John",
+              "score": 1400
+            },
+            {
+              "player": "Judy",
+              "score": 800
+            },
+            {
+              "player": "Saul",
+              "score": 2400
+            }
+          ]
+        },
+        {
+          "category": "AN \"F\" IN HISTORY",
+          "value": 400,
+          "clue": "Commemorated in a series of Giotto frescoes, this 13th century Italian saint from Assisi founded an order of Catholic monks",
+          "answer": "Francis",
+          "isDailyDouble": false,
+          "orderNumber": 12,
+          "correctContestants": [
+            "John"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "John",
+              "score": 1800
+            },
+            {
+              "player": "Judy",
+              "score": 800
+            },
+            {
+              "player": "Saul",
+              "score": 2400
+            }
+          ]
+        },
+        {
+          "category": "AN \"F\" IN HISTORY",
+          "value": 600,
+          "clue": "In 1803 this American piloted a steam-driven paddlewheel boat on the Seine River at about 3 mph",
+          "answer": "Robert Fulton",
+          "isDailyDouble": false,
+          "orderNumber": 13,
+          "correctContestants": [
+            "John"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "John",
+              "score": 2400
+            },
+            {
+              "player": "Judy",
+              "score": 800
+            },
+            {
+              "player": "Saul",
+              "score": 2400
+            }
+          ]
+        },
+        {
+          "category": "AN \"F\" IN HISTORY",
+          "value": 800,
+          "clue": "Home to the Lowell Observatory, this Arizona city was first settled in 1871",
+          "answer": "Flagstaff",
+          "isDailyDouble": false,
+          "orderNumber": 14,
+          "correctContestants": [
+            "John"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "John",
+              "score": 3200
+            },
+            {
+              "player": "Judy",
+              "score": 800
+            },
+            {
+              "player": "Saul",
+              "score": 2400
+            }
+          ]
+        },
+        {
+          "category": "AN \"F\" IN HISTORY",
+          "value": 1000,
+          "clue": "In 1952 this King of Egypt was forced to abdicate",
+          "answer": "Farouk",
+          "isDailyDouble": false,
+          "orderNumber": 15,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Saul"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "John",
+              "score": 3200
+            },
+            {
+              "player": "Judy",
+              "score": 800
+            },
+            {
+              "player": "Saul",
+              "score": 1400
+            }
+          ]
+        },
+        {
+          "category": "IN OTHER WORDS...",
+          "value": 200,
+          "clue": "Hound-consume-hound",
+          "answer": "dog-eat-dog",
+          "isDailyDouble": false,
+          "orderNumber": 16,
+          "correctContestants": [
+            "Judy"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "John",
+              "score": 3200
+            },
+            {
+              "player": "Judy",
+              "score": 1000
+            },
+            {
+              "player": "Saul",
+              "score": 1400
+            }
+          ]
+        },
+        {
+          "category": "IN OTHER WORDS...",
+          "value": 400,
+          "clue": "Steal from Mr. O'Toole as compensation for Mr. Reiser",
+          "answer": "rob Peter to pay Paul",
+          "isDailyDouble": false,
+          "orderNumber": 17,
+          "correctContestants": [
+            "Judy"
+          ],
+          "incorrectContestants": [
+            "John"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "John",
+              "score": 2800
+            },
+            {
+              "player": "Judy",
+              "score": 1400
+            },
+            {
+              "player": "Saul",
+              "score": 1400
+            }
+          ]
+        },
+        {
+          "category": "IN OTHER WORDS...",
+          "value": 600,
+          "clue": "Lollipop wallop",
+          "answer": "sucker punch",
+          "isDailyDouble": false,
+          "orderNumber": 18,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "John",
+              "score": 2800
+            },
+            {
+              "player": "Judy",
+              "score": 1400
+            },
+            {
+              "player": "Saul",
+              "score": 1400
+            }
+          ]
+        },
+        {
+          "category": "IN OTHER WORDS...",
+          "value": 800,
+          "clue": "A few folks enjoy the temperature high",
+          "answer": "some like it hot",
+          "isDailyDouble": false,
+          "orderNumber": 19,
+          "correctContestants": [
+            "John"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "John",
+              "score": 3600
+            },
+            {
+              "player": "Judy",
+              "score": 1400
+            },
+            {
+              "player": "Saul",
+              "score": 1400
+            }
+          ]
+        },
+        {
+          "category": "IN OTHER WORDS...",
+          "value": 1000,
+          "clue": "Traverse the indicated spanning structure upon arrival",
+          "answer": "we'll cross that bridge when we get to it",
+          "isDailyDouble": false,
+          "orderNumber": 20,
+          "correctContestants": [
+            "Saul"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "John",
+              "score": 3600
+            },
+            {
+              "player": "Judy",
+              "score": 1400
+            },
+            {
+              "player": "Saul",
+              "score": 2400
+            }
+          ]
+        },
+        {
+          "category": "LEFTOVERS",
+          "value": 200,
+          "clue": "This alloy used in musical instruments is also a slang term for high-ranking Army officers",
+          "answer": "brass",
+          "isDailyDouble": false,
+          "orderNumber": 21,
+          "correctContestants": [
+            "Saul"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "John",
+              "score": 3600
+            },
+            {
+              "player": "Judy",
+              "score": 1400
+            },
+            {
+              "player": "Saul",
+              "score": 2600
+            }
+          ]
+        },
+        {
+          "category": "LEFTOVERS",
+          "value": 400,
+          "clue": "Because of their ability to record and replay speech, these toys were banned in 1999 from military installations",
+          "answer": "Furbies",
+          "isDailyDouble": false,
+          "orderNumber": 22,
+          "correctContestants": [
+            "John"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "John",
+              "score": 4000
+            },
+            {
+              "player": "Judy",
+              "score": 1400
+            },
+            {
+              "player": "Saul",
+              "score": 2600
+            }
+          ]
+        },
+        {
+          "category": "LEFTOVERS",
+          "value": 600,
+          "clue": "This author was a draper's apprentice before he got hung up on \"The War of the Worlds\"",
+          "answer": "H.G. Wells",
+          "isDailyDouble": false,
+          "orderNumber": 23,
+          "correctContestants": [
+            "Saul"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "John",
+              "score": 4000
+            },
+            {
+              "player": "Judy",
+              "score": 1400
+            },
+            {
+              "player": "Saul",
+              "score": 3200
+            }
+          ]
+        },
+        {
+          "category": "LEFTOVERS",
+          "value": 800,
+          "clue": "By the 17th century the once-glorious Roman Forum had become the Campo Vaccino, a place for these animals",
+          "answer": "cows",
+          "isDailyDouble": false,
+          "orderNumber": 24,
+          "correctContestants": [
+            "Judy"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "John",
+              "score": 4000
+            },
+            {
+              "player": "Judy",
+              "score": 2200
+            },
+            {
+              "player": "Saul",
+              "score": 3200
+            }
+          ]
+        },
+        {
+          "category": "LEFTOVERS",
+          "value": 1000,
+          "clue": "From the Greek for \"turn-to-sun\", it's another name for the Bloodstone",
+          "answer": "heliotrope",
+          "isDailyDouble": false,
+          "orderNumber": 25,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "John",
+              "score": 4000
+            },
+            {
+              "player": "Judy",
+              "score": 2200
+            },
+            {
+              "player": "Saul",
+              "score": 3200
+            }
+          ]
+        },
+        {
+          "category": "PRINCETON",
+          "value": 200,
+          "clue": "This comic's address on Class Day in 2003 included the line \"Which brings me to the subject of Raisin Bran\"",
+          "answer": "Jerry Seinfeld",
+          "isDailyDouble": false,
+          "orderNumber": 26,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "John",
+              "score": 4000
+            },
+            {
+              "player": "Judy",
+              "score": 2200
+            },
+            {
+              "player": "Saul",
+              "score": 3200
+            }
+          ]
+        },
+        {
+          "category": "PRINCETON",
+          "value": 1000,
+          "clue": "In his last years this non-consecutively elected President was a trustee at Princeton",
+          "answer": "Cleveland",
+          "isDailyDouble": false,
+          "orderNumber": 27,
+          "correctContestants": [
+            "Judy"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "John",
+              "score": 4000
+            },
+            {
+              "player": "Judy",
+              "score": 3200
+            },
+            {
+              "player": "Saul",
+              "score": 3200
+            }
+          ]
+        },
+        {
+          "category": "PRINCETON",
+          "value": 800,
+          "clue": "The Tiger, published since 1882, is Princeton's equivalent of this Harvard humor mag, established in 1876",
+          "answer": "The Lampoon",
+          "isDailyDouble": false,
+          "orderNumber": 28,
+          "correctContestants": [
+            "John"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "John",
+              "score": 4800
+            },
+            {
+              "player": "Judy",
+              "score": 3200
+            },
+            {
+              "player": "Saul",
+              "score": 3200
+            }
+          ]
+        },
+        {
+          "category": "PRINCETON",
+          "value": 400,
+          "clue": "Types of these that became popular starting in the 1940s included the Princeton, Crew & Butch",
+          "answer": "haircuts",
+          "isDailyDouble": false,
+          "orderNumber": 29,
+          "correctContestants": [
+            "John"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "John",
+              "score": 5200
+            },
+            {
+              "player": "Judy",
+              "score": 3200
+            },
+            {
+              "player": "Saul",
+              "score": 3200
+            }
+          ]
+        },
+        {
+          "category": "PRINCETON",
+          "value": 600,
+          "clue": "The school song's line \"Her sons shall give\" became \"Our hearts shall give\" to reflect this change",
+          "answer": "the admission of women",
+          "isDailyDouble": false,
+          "orderNumber": 30,
+          "correctContestants": [
+            "Judy"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "John",
+              "score": 5200
+            },
+            {
+              "player": "Judy",
+              "score": 3800
+            },
+            {
+              "player": "Saul",
+              "score": 3200
+            }
+          ]
+        }
+      ],
+      "firstBreakScores": [
+        {
+          "player": "John",
+          "score": 3200
+        },
+        {
+          "player": "Judy",
+          "score": 800
+        },
+        {
+          "player": "Saul",
+          "score": 1400
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "John",
+          "score": 5200
+        },
+        {
+          "player": "Judy",
+          "score": 3800
+        },
+        {
+          "player": "Saul",
+          "score": 3200
+        }
+      ]
+    },
+    "doubleJeopardy": {
+      "categories": [
+        "NATIONAL MEMORIALS",
+        "HOLLYWOOD HODGEPODGE",
+        "LITERARY CROSSWORD CLUES \"M\"",
+        "HEY MIKEY!",
+        "FRENCH ART",
+        "PREFIX PLUS SUFFIX"
+      ],
+      "clues": [
+        {
+          "category": "FRENCH ART",
+          "value": 400,
+          "clue": "Louis Leroy coined this term in 1874, applying it to Monet & Pissarro but not to co-exhibitors Degas & Renoir",
+          "answer": "Impressionism",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "John",
+              "score": 5600
+            },
+            {
+              "player": "Judy",
+              "score": 3800
+            },
+            {
+              "player": "Saul",
+              "score": 3200
+            }
+          ]
+        },
+        {
+          "category": "FRENCH ART",
+          "value": 800,
+          "clue": "Francois Rude's masterpiece, a sculpture of 1792 soldiers of The Republic, shares its name with this song",
+          "answer": "\"The Marseillaise\"",
+          "isDailyDouble": false,
+          "orderNumber": 2,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "John",
+              "score": 5600
+            },
+            {
+              "player": "Judy",
+              "score": 3800
+            },
+            {
+              "player": "Saul",
+              "score": 4000
+            }
+          ]
+        },
+        {
+          "category": "FRENCH ART",
+          "value": 2000,
+          "clue": "Classicist Nicolas Poussin, whose work is seen here, left France to spend his career in this capital",
+          "answer": "Rome",
+          "isDailyDouble": true,
+          "orderNumber": 3,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "John",
+              "score": 5600
+            },
+            {
+              "player": "Judy",
+              "score": 3800
+            },
+            {
+              "player": "Saul",
+              "score": 2000
+            }
+          ]
+        },
+        {
+          "category": "FRENCH ART",
+          "value": 1600,
+          "clue": "Maurice de Vlaminck of the Fauvist Movement bragged of never entering this place on the Seine's right bank",
+          "answer": "the Louvre",
+          "isDailyDouble": false,
+          "orderNumber": 4,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "John",
+              "score": 4000
+            },
+            {
+              "player": "Judy",
+              "score": 5400
+            },
+            {
+              "player": "Saul",
+              "score": 2000
+            }
+          ]
+        },
+        {
+          "category": "FRENCH ART",
+          "value": 2000,
+          "clue": "This neoclassicist's favorite pupil was Antoine-Jean Gros, who also glorified Napoleon in art",
+          "answer": "Jacques-Louis David",
+          "isDailyDouble": false,
+          "orderNumber": 5,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "John",
+              "score": 4000
+            },
+            {
+              "player": "Judy",
+              "score": 5400
+            },
+            {
+              "player": "Saul",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "LITERARY CROSSWORD CLUES \"M\"",
+          "value": 400,
+          "clue": "Edna St. Vincent (6)",
+          "answer": "Millay",
+          "isDailyDouble": false,
+          "orderNumber": 6,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "John",
+              "score": 4400
+            },
+            {
+              "player": "Judy",
+              "score": 5400
+            },
+            {
+              "player": "Saul",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "LITERARY CROSSWORD CLUES \"M\"",
+          "value": 800,
+          "clue": "Dame Agatha's Miss Jane (6)",
+          "answer": "Marple",
+          "isDailyDouble": false,
+          "orderNumber": 7,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "John",
+              "score": 4400
+            },
+            {
+              "player": "Judy",
+              "score": 6200
+            },
+            {
+              "player": "Saul",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "LITERARY CROSSWORD CLUES \"M\"",
+          "value": 1200,
+          "clue": "Adjective for Swift's \"Proposal\" (6)",
+          "answer": "Modest",
+          "isDailyDouble": false,
+          "orderNumber": 8,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "John",
+              "score": 4400
+            },
+            {
+              "player": "Judy",
+              "score": 7400
+            },
+            {
+              "player": "Saul",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "LITERARY CROSSWORD CLUES \"M\"",
+          "value": 1600,
+          "clue": "Austen's \"Park\" (9)",
+          "answer": "Mansfield",
+          "isDailyDouble": false,
+          "orderNumber": 9,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "John",
+              "score": 4400
+            },
+            {
+              "player": "Judy",
+              "score": 9000
+            },
+            {
+              "player": "Saul",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "LITERARY CROSSWORD CLUES \"M\"",
+          "value": 2000,
+          "clue": "Latin American style of realism (5)",
+          "answer": "magic",
+          "isDailyDouble": false,
+          "orderNumber": 10,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "John",
+              "score": 4400
+            },
+            {
+              "player": "Judy",
+              "score": 11000
+            },
+            {
+              "player": "Saul",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "HOLLYWOOD HODGEPODGE",
+          "value": 400,
+          "clue": "In \"On Golden Pond\", Henry Fonda wore a hat that was once this actor's; it was a gift from Katharine Hepburn",
+          "answer": "Spencer Tracy",
+          "isDailyDouble": false,
+          "orderNumber": 11,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "John",
+              "score": 4800
+            },
+            {
+              "player": "Judy",
+              "score": 11000
+            },
+            {
+              "player": "Saul",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "HOLLYWOOD HODGEPODGE",
+          "value": 800,
+          "clue": "1956's \"Dance With Me Henry\" was this comedy duo's last film together",
+          "answer": "Abbott & Costello",
+          "isDailyDouble": false,
+          "orderNumber": 12,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "John",
+              "score": 4800
+            },
+            {
+              "player": "Judy",
+              "score": 11000
+            },
+            {
+              "player": "Saul",
+              "score": -800
+            }
+          ]
+        },
+        {
+          "category": "HOLLYWOOD HODGEPODGE",
+          "value": 1200,
+          "clue": "This 1972 Marlon Brando film was originally rated X",
+          "answer": "Last Tango in Paris",
+          "isDailyDouble": false,
+          "orderNumber": 13,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "John",
+              "score": 4800
+            },
+            {
+              "player": "Judy",
+              "score": 11000
+            },
+            {
+              "player": "Saul",
+              "score": 400
+            }
+          ]
+        },
+        {
+          "category": "HOLLYWOOD HODGEPODGE",
+          "value": 1600,
+          "clue": "Married to Clark Gable at the time of her death, this actress was also a cousin of director Howard Hawks",
+          "answer": "Carole Lombard",
+          "isDailyDouble": false,
+          "orderNumber": 14,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "John",
+              "score": 4800
+            },
+            {
+              "player": "Judy",
+              "score": 12600
+            },
+            {
+              "player": "Saul",
+              "score": 400
+            }
+          ]
+        },
+        {
+          "category": "HOLLYWOOD HODGEPODGE",
+          "value": 2000,
+          "clue": "The \"Hollywood Ten\" was a group of individuals who refused to answer questions from this committee in 1947",
+          "answer": "the House Un-American Activities Committee",
+          "isDailyDouble": false,
+          "orderNumber": 15,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "John",
+              "score": 4800
+            },
+            {
+              "player": "Judy",
+              "score": 14600
+            },
+            {
+              "player": "Saul",
+              "score": 400
+            }
+          ]
+        },
+        {
+          "category": "HEY MIKEY!",
+          "value": 400,
+          "clue": "In 1958 this husband of Elizabeth Taylor was killed in a plane crash",
+          "answer": "Mike Todd",
+          "isDailyDouble": false,
+          "orderNumber": 16,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "John",
+              "score": 4800
+            },
+            {
+              "player": "Judy",
+              "score": 14600
+            },
+            {
+              "player": "Saul",
+              "score": 800
+            }
+          ]
+        },
+        {
+          "category": "HEY MIKEY!",
+          "value": 800,
+          "clue": "The last President of the Soviet Union",
+          "answer": "Mikhail Gorbachev",
+          "isDailyDouble": false,
+          "orderNumber": 17,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "John",
+              "score": 5600
+            },
+            {
+              "player": "Judy",
+              "score": 14600
+            },
+            {
+              "player": "Saul",
+              "score": 800
+            }
+          ]
+        },
+        {
+          "category": "HEY MIKEY!",
+          "value": 1200,
+          "clue": "According to one writer, this legendary boatman was \"the William Tell of marksmen\" & \"the Prince of Moose Catchers\"",
+          "answer": "Mike Fink",
+          "isDailyDouble": false,
+          "orderNumber": 18,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "John",
+              "score": 6800
+            },
+            {
+              "player": "Judy",
+              "score": 14600
+            },
+            {
+              "player": "Saul",
+              "score": 800
+            }
+          ]
+        },
+        {
+          "category": "HEY MIKEY!",
+          "value": 1600,
+          "clue": "He packed up his Packer gear & flew to Seattle to be Head Coach of the Seahawks",
+          "answer": "Mike Holmgren",
+          "isDailyDouble": false,
+          "orderNumber": 19,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "John",
+              "score": 8400
+            },
+            {
+              "player": "Judy",
+              "score": 14600
+            },
+            {
+              "player": "Saul",
+              "score": 800
+            }
+          ]
+        },
+        {
+          "category": "HEY MIKEY!",
+          "value": 2000,
+          "clue": "Offbeat classics from this stylish director include \"Stormy Monday\" & \"Leaving Las Vegas\"",
+          "answer": "Mike Figgis",
+          "isDailyDouble": false,
+          "orderNumber": 20,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "John",
+              "score": 8400
+            },
+            {
+              "player": "Judy",
+              "score": 14600
+            },
+            {
+              "player": "Saul",
+              "score": 800
+            }
+          ]
+        },
+        {
+          "category": "NATIONAL MEMORIALS",
+          "value": 400,
+          "clue": "Chamizal National Memorial in El Paso honors the peaceful 1963 settlement of a border dispute with this country",
+          "answer": "Mexico",
+          "isDailyDouble": false,
+          "orderNumber": 21,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "John",
+              "score": 8800
+            },
+            {
+              "player": "Judy",
+              "score": 14600
+            },
+            {
+              "player": "Saul",
+              "score": 800
+            }
+          ]
+        },
+        {
+          "category": "NATIONAL MEMORIALS",
+          "value": 800,
+          "clue": "A monument to this duo atop a N.C. hill bears the words: \"In commemoration of the conquest of the air ...\"",
+          "answer": "the Wright brothers",
+          "isDailyDouble": false,
+          "orderNumber": 22,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "John",
+              "score": 9600
+            },
+            {
+              "player": "Judy",
+              "score": 13800
+            },
+            {
+              "player": "Saul",
+              "score": 800
+            }
+          ]
+        },
+        {
+          "category": "NATIONAL MEMORIALS",
+          "value": 1200,
+          "clue": "The bronze statue of him in his D.C. memorial depicts him wearing a coat given to him by his friend Gen. Kosciuszko",
+          "answer": "Thomas Jefferson",
+          "isDailyDouble": false,
+          "orderNumber": 23,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "John",
+              "score": 9600
+            },
+            {
+              "player": "Judy",
+              "score": 13800
+            },
+            {
+              "player": "Saul",
+              "score": 800
+            }
+          ]
+        },
+        {
+          "category": "NATIONAL MEMORIALS",
+          "value": 1600,
+          "clue": "The 1897 parade & dedication ceremony for this famous tomb attracted more than 1 million people",
+          "answer": "Grant's Tomb",
+          "isDailyDouble": false,
+          "orderNumber": 24,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "John",
+              "score": 9600
+            },
+            {
+              "player": "Judy",
+              "score": 15400
+            },
+            {
+              "player": "Saul",
+              "score": 800
+            }
+          ]
+        },
+        {
+          "category": "PREFIX PLUS SUFFIX",
+          "value": 400,
+          "clue": "Earth plus science equals can you dig it?",
+          "answer": "geology",
+          "isDailyDouble": false,
+          "orderNumber": 25,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "John",
+              "score": 9600
+            },
+            {
+              "player": "Judy",
+              "score": 15000
+            },
+            {
+              "player": "Saul",
+              "score": 800
+            }
+          ]
+        },
+        {
+          "category": "PREFIX PLUS SUFFIX",
+          "value": 800,
+          "clue": "One plus speech equals you're talking to yourself",
+          "answer": "monologue",
+          "isDailyDouble": false,
+          "orderNumber": 26,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "John",
+              "score": 9600
+            },
+            {
+              "player": "Judy",
+              "score": 15800
+            },
+            {
+              "player": "Saul",
+              "score": 800
+            }
+          ]
+        },
+        {
+          "category": "PREFIX PLUS SUFFIX",
+          "value": 1200,
+          "clue": "Eight plus angled equals stop right here",
+          "answer": "octagon",
+          "isDailyDouble": false,
+          "orderNumber": 27,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "John",
+              "score": 10800
+            },
+            {
+              "player": "Judy",
+              "score": 15800
+            },
+            {
+              "player": "Saul",
+              "score": 800
+            }
+          ]
+        },
+        {
+          "category": "NATIONAL MEMORIALS",
+          "value": 2000,
+          "clue": "(Cheryl of the clue Crew presents from Oklahoma City, OK) The National Memorial here in Oklahoma City stands on the spot once occupied by this building, named for an Oklahoma judge",
+          "answer": "the Alfred P. Murrah Federal Building",
+          "isDailyDouble": false,
+          "orderNumber": 28,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "John",
+              "score": 10800
+            },
+            {
+              "player": "Judy",
+              "score": 15800
+            },
+            {
+              "player": "Saul",
+              "score": 800
+            }
+          ]
+        },
+        {
+          "category": "PREFIX PLUS SUFFIX",
+          "value": 2000,
+          "clue": "All plus to eat equals a nightmare customer for an all-you-can-eat buffet",
+          "answer": "omnivore",
+          "isDailyDouble": true,
+          "orderNumber": 29,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "John",
+              "score": 12800
+            },
+            {
+              "player": "Judy",
+              "score": 15800
+            },
+            {
+              "player": "Saul",
+              "score": 800
+            }
+          ]
+        },
+        {
+          "category": "PREFIX PLUS SUFFIX",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "John",
+              "score": 12800
+            },
+            {
+              "player": "Judy",
+              "score": 15800
+            },
+            {
+              "player": "Saul",
+              "score": 800
+            }
+          ]
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "John",
+          "score": 12800
+        },
+        {
+          "player": "Judy",
+          "score": 15800
+        },
+        {
+          "player": "Saul",
+          "score": 800
+        }
+      ]
+    },
+    "finalJeopardy": {
+      "category": "THE WORLD'S PEOPLE",
+      "clue": "The 1st recorded use of this word now applying to 1.1 billion people was by St. Ignatius of Antioch around 100 A.D.",
+      "answer": "Catholic",
+      "responses": [
+        {
+          "contestant": "Saul",
+          "response": "What is Chineese?",
+          "isCorrect": false,
+          "isIncorrect": true,
+          "value": 0,
+          "finalScore": 800
+        },
+        {
+          "contestant": "John",
+          "response": "What is Christian?",
+          "isCorrect": false,
+          "isIncorrect": true,
+          "value": 3001,
+          "finalScore": 9799
+        },
+        {
+          "contestant": "Judy",
+          "response": "What is Christian?",
+          "isCorrect": false,
+          "isIncorrect": true,
+          "value": 9801,
+          "finalScore": 5999
+        }
+      ]
+    }
+  },
+  "finalScores": [
+    {
+      "player": "John",
+      "score": "$9,799"
+    },
+    {
+      "player": "Judy",
+      "score": "$5,999"
+    },
+    {
+      "player": "Saul",
+      "score": "$800"
+    }
+  ],
+  "coryatScores": [
+    {
+      "player": "John",
+      "score": 13400
+    },
+    {
+      "player": "Judy",
+      "score": 15800
+    },
+    {
+      "player": "Saul",
+      "score": 2800
+    }
+  ]
+}

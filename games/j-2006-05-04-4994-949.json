@@ -1,0 +1,1699 @@
+{
+  "gameId": 949,
+  "showNumber": "4994",
+  "title": "Show #4994 - Thursday, May 4, 2006",
+  "date": "2006-05-04",
+  "comments": "",
+  "contestants": [
+    "Robbi",
+    "Bob",
+    "Stephanie"
+  ],
+  "rounds": {
+    "jeopardy": {
+      "categories": [
+        "MYTHOLOGY & ART",
+        "AUTO FOCUS",
+        "DEAR JOHN",
+        "RHYME QUIZ",
+        "SIMPSONS CHARACTERS",
+        "DOUGH!"
+      ],
+      "clues": [
+        {
+          "category": "SIMPSONS CHARACTERS",
+          "value": 200,
+          "clue": "Among his one-liners: \"Mmm... maca-ma-damia nuts\", \"Mmm... snouts\" & \"Mmm... organized crime\"",
+          "answer": "Homer Simpson",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [
+            "Bob"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Robbi",
+              "score": 0
+            },
+            {
+              "player": "Bob",
+              "score": 200
+            },
+            {
+              "player": "Stephanie",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "DEAR JOHN",
+          "value": 200,
+          "clue": "He was Tony Blair's immediate predecessor as prime minister",
+          "answer": "John Major",
+          "isDailyDouble": false,
+          "orderNumber": 2,
+          "correctContestants": [
+            "Stephanie"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Robbi",
+              "score": 0
+            },
+            {
+              "player": "Bob",
+              "score": 200
+            },
+            {
+              "player": "Stephanie",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "MYTHOLOGY & ART",
+          "value": 200,
+          "clue": "(Kelly of the Clue Crew plays art professor, a slide of a famous work appearing behind her.)  In Fragonard's \"The Meeting\", she steps out of Roman mythology to look down on the young lovers",
+          "answer": "Venus",
+          "isDailyDouble": false,
+          "orderNumber": 3,
+          "correctContestants": [
+            "Stephanie"
+          ],
+          "incorrectContestants": [
+            "Bob"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Robbi",
+              "score": 0
+            },
+            {
+              "player": "Bob",
+              "score": 0
+            },
+            {
+              "player": "Stephanie",
+              "score": 400
+            }
+          ]
+        },
+        {
+          "category": "MYTHOLOGY & ART",
+          "value": 400,
+          "clue": "The Smithsonian has a semi-nude statue of George Washington based on a statue of this greatest Greek god",
+          "answer": "Zeus",
+          "isDailyDouble": false,
+          "orderNumber": 4,
+          "correctContestants": [
+            "Robbi"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Robbi",
+              "score": 400
+            },
+            {
+              "player": "Bob",
+              "score": 0
+            },
+            {
+              "player": "Stephanie",
+              "score": 400
+            }
+          ]
+        },
+        {
+          "category": "MYTHOLOGY & ART",
+          "value": 600,
+          "clue": "(Cheryl of the Clue Crew stands with a gold statue in Peterhofm St. Petersberg, Russia.)  The statue of Perseus here at Peterhof holds the head of this Gorgon who's made to look like King Charles XII of Sweden",
+          "answer": "Medusa",
+          "isDailyDouble": false,
+          "orderNumber": 5,
+          "correctContestants": [
+            "Bob"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Robbi",
+              "score": 400
+            },
+            {
+              "player": "Bob",
+              "score": 600
+            },
+            {
+              "player": "Stephanie",
+              "score": 400
+            }
+          ]
+        },
+        {
+          "category": "DEAR JOHN",
+          "value": 400,
+          "clue": "He once said, \"I don't smoke much, and I drink very little.  I guess my only bad habit is robbing banks\"",
+          "answer": "John Dillinger",
+          "isDailyDouble": false,
+          "orderNumber": 6,
+          "correctContestants": [
+            "Bob"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Robbi",
+              "score": 400
+            },
+            {
+              "player": "Bob",
+              "score": 1000
+            },
+            {
+              "player": "Stephanie",
+              "score": 400
+            }
+          ]
+        },
+        {
+          "category": "DEAR JOHN",
+          "value": 600,
+          "clue": "This man at whose mill gold was discovered in 1848 later ran for governor of California",
+          "answer": "(John) Sutter",
+          "isDailyDouble": false,
+          "orderNumber": 7,
+          "correctContestants": [
+            "Bob"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Robbi",
+              "score": 400
+            },
+            {
+              "player": "Bob",
+              "score": 1600
+            },
+            {
+              "player": "Stephanie",
+              "score": 400
+            }
+          ]
+        },
+        {
+          "category": "DEAR JOHN",
+          "value": 800,
+          "clue": "In 1946 he gave the United Nations a gift of $8.5 million to buy land for its NYC headquarters",
+          "answer": "(John D.) Rockefeller",
+          "isDailyDouble": false,
+          "orderNumber": 8,
+          "correctContestants": [
+            "Bob"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Robbi",
+              "score": 400
+            },
+            {
+              "player": "Bob",
+              "score": 2400
+            },
+            {
+              "player": "Stephanie",
+              "score": 400
+            }
+          ]
+        },
+        {
+          "category": "DEAR JOHN",
+          "value": 1000,
+          "clue": "This author of the novel \"Falconer\" won a 1979 Pulitzer Prize for some of his short stories",
+          "answer": "John Cheever",
+          "isDailyDouble": false,
+          "orderNumber": 9,
+          "correctContestants": [
+            "Bob"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Robbi",
+              "score": 400
+            },
+            {
+              "player": "Bob",
+              "score": 3400
+            },
+            {
+              "player": "Stephanie",
+              "score": 400
+            }
+          ]
+        },
+        {
+          "category": "SIMPSONS CHARACTERS",
+          "value": 400,
+          "clue": "In \"Today I Am a Clown\", he held his long-delayed Bar Mitzvah in a stadium & invited Mr. T to read from the Torah",
+          "answer": "Krusty the Clown",
+          "isDailyDouble": false,
+          "orderNumber": 10,
+          "correctContestants": [
+            "Robbi"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Robbi",
+              "score": 800
+            },
+            {
+              "player": "Bob",
+              "score": 3400
+            },
+            {
+              "player": "Stephanie",
+              "score": 400
+            }
+          ]
+        },
+        {
+          "category": "SIMPSONS CHARACTERS",
+          "value": 600,
+          "clue": "Frank Gehry once built the town a concert hall, which was sold to this man, who promptly turned it into a prison",
+          "answer": "Montgomery Burns",
+          "isDailyDouble": false,
+          "orderNumber": 11,
+          "correctContestants": [
+            "Robbi"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Robbi",
+              "score": 1400
+            },
+            {
+              "player": "Bob",
+              "score": 3400
+            },
+            {
+              "player": "Stephanie",
+              "score": 400
+            }
+          ]
+        },
+        {
+          "category": "SIMPSONS CHARACTERS",
+          "value": 800,
+          "clue": "This Kwik-E-Mart man once thought he was a hummingbird of some kind after working 96 hours straight",
+          "answer": "Apu",
+          "isDailyDouble": false,
+          "orderNumber": 12,
+          "correctContestants": [
+            "Robbi"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Robbi",
+              "score": 2200
+            },
+            {
+              "player": "Bob",
+              "score": 3400
+            },
+            {
+              "player": "Stephanie",
+              "score": 400
+            }
+          ]
+        },
+        {
+          "category": "SIMPSONS CHARACTERS",
+          "value": 1000,
+          "clue": "This Springfield Elementary employee said, \"There's nary an animal alive that can outrun a greased Scotsman\"",
+          "answer": "Willie the Groundskeeper",
+          "isDailyDouble": false,
+          "orderNumber": 13,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Robbi",
+              "score": 2200
+            },
+            {
+              "player": "Bob",
+              "score": 3400
+            },
+            {
+              "player": "Stephanie",
+              "score": 400
+            }
+          ]
+        },
+        {
+          "category": "RHYME QUIZ",
+          "value": 200,
+          "clue": "Belonging to him",
+          "answer": "his",
+          "isDailyDouble": false,
+          "orderNumber": 14,
+          "correctContestants": [
+            "Bob"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Robbi",
+              "score": 2200
+            },
+            {
+              "player": "Bob",
+              "score": 3600
+            },
+            {
+              "player": "Stephanie",
+              "score": 400
+            }
+          ]
+        },
+        {
+          "category": "RHYME QUIZ",
+          "value": 400,
+          "clue": "Richard Burton's wife, twice",
+          "answer": "Liz",
+          "isDailyDouble": false,
+          "orderNumber": 15,
+          "correctContestants": [
+            "Bob"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Robbi",
+              "score": 2200
+            },
+            {
+              "player": "Bob",
+              "score": 4000
+            },
+            {
+              "player": "Stephanie",
+              "score": 400
+            }
+          ]
+        },
+        {
+          "category": "RHYME QUIZ",
+          "value": 600,
+          "clue": "Slang for any line of work",
+          "answer": "biz",
+          "isDailyDouble": false,
+          "orderNumber": 16,
+          "correctContestants": [
+            "Robbi"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Robbi",
+              "score": 2800
+            },
+            {
+              "player": "Bob",
+              "score": 4000
+            },
+            {
+              "player": "Stephanie",
+              "score": 400
+            }
+          ]
+        },
+        {
+          "category": "RHYME QUIZ",
+          "value": 800,
+          "clue": "A woman's title & a women's magazine",
+          "answer": "Ms.",
+          "isDailyDouble": false,
+          "orderNumber": 17,
+          "correctContestants": [
+            "Stephanie"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Robbi",
+              "score": 2800
+            },
+            {
+              "player": "Bob",
+              "score": 4000
+            },
+            {
+              "player": "Stephanie",
+              "score": 1200
+            }
+          ]
+        },
+        {
+          "category": "RHYME QUIZ",
+          "value": 1000,
+          "clue": "Meaning \"namely\", it's an abbreviation of the Latin for \"it is permitted to see\"",
+          "answer": "viz.",
+          "isDailyDouble": false,
+          "orderNumber": 18,
+          "correctContestants": [
+            "Stephanie"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Robbi",
+              "score": 2800
+            },
+            {
+              "player": "Bob",
+              "score": 4000
+            },
+            {
+              "player": "Stephanie",
+              "score": 2200
+            }
+          ]
+        },
+        {
+          "category": "MYTHOLOGY & ART",
+          "value": 800,
+          "clue": "The Farnese statue of this mythic hero leaning on his club was found in the Baths of Caracalla",
+          "answer": "Hercules",
+          "isDailyDouble": false,
+          "orderNumber": 19,
+          "correctContestants": [
+            "Robbi"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Robbi",
+              "score": 3600
+            },
+            {
+              "player": "Bob",
+              "score": 4000
+            },
+            {
+              "player": "Stephanie",
+              "score": 2200
+            }
+          ]
+        },
+        {
+          "category": "MYTHOLOGY & ART",
+          "value": 600,
+          "clue": "Bernini's famous sculpture of this Greek god & Daphne is in Rome's Borghese Gallery",
+          "answer": "Apollo",
+          "isDailyDouble": true,
+          "orderNumber": 20,
+          "correctContestants": [
+            "Robbi"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Robbi",
+              "score": 4200
+            },
+            {
+              "player": "Bob",
+              "score": 4000
+            },
+            {
+              "player": "Stephanie",
+              "score": 2200
+            }
+          ]
+        },
+        {
+          "category": "DOUGH!",
+          "value": 200,
+          "clue": "Until the euro debuted there in 2002, a builder would spend guilders to buy girders in this country",
+          "answer": "the Netherlands",
+          "isDailyDouble": false,
+          "orderNumber": 21,
+          "correctContestants": [
+            "Bob"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Robbi",
+              "score": 4200
+            },
+            {
+              "player": "Bob",
+              "score": 4200
+            },
+            {
+              "player": "Stephanie",
+              "score": 2200
+            }
+          ]
+        },
+        {
+          "category": "DOUGH!",
+          "value": 400,
+          "clue": "When Mike Wallace asked, \"How much did you lose from AOL Time Warner?\", he said, \"$7 billion or $8 billion\", but who's counting?",
+          "answer": "Ted Turner",
+          "isDailyDouble": false,
+          "orderNumber": 22,
+          "correctContestants": [
+            "Bob"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Robbi",
+              "score": 4200
+            },
+            {
+              "player": "Bob",
+              "score": 4600
+            },
+            {
+              "player": "Stephanie",
+              "score": 2200
+            }
+          ]
+        },
+        {
+          "category": "DOUGH!",
+          "value": 600,
+          "clue": "In 1954 there was no desire for the sen & rin, smaller denominations of this currency; they were removed from circulation",
+          "answer": "yen",
+          "isDailyDouble": false,
+          "orderNumber": 23,
+          "correctContestants": [
+            "Bob"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Robbi",
+              "score": 4200
+            },
+            {
+              "player": "Bob",
+              "score": 5200
+            },
+            {
+              "player": "Stephanie",
+              "score": 2200
+            }
+          ]
+        },
+        {
+          "category": "DOUGH!",
+          "value": 800,
+          "clue": "Playing polo may not make you a billionaire, but Polo shirts might; just ask him, No. 67 on Forbes' 2005 list",
+          "answer": "Ralph Lauren",
+          "isDailyDouble": false,
+          "orderNumber": 24,
+          "correctContestants": [
+            "Robbi"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Robbi",
+              "score": 5000
+            },
+            {
+              "player": "Bob",
+              "score": 5200
+            },
+            {
+              "player": "Stephanie",
+              "score": 2200
+            }
+          ]
+        },
+        {
+          "category": "DOUGH!",
+          "value": 1000,
+          "clue": "Opened in 2005, the Vegas resort hotel named for this man cost $2.7 billion to build",
+          "answer": "(Steve) Wynn",
+          "isDailyDouble": false,
+          "orderNumber": 25,
+          "correctContestants": [
+            "Bob"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Robbi",
+              "score": 5000
+            },
+            {
+              "player": "Bob",
+              "score": 6200
+            },
+            {
+              "player": "Stephanie",
+              "score": 2200
+            }
+          ]
+        },
+        {
+          "category": "AUTO FOCUS",
+          "value": 200,
+          "clue": "The Town Car from this car line was originally built as a car for Henry Ford",
+          "answer": "Lincoln",
+          "isDailyDouble": false,
+          "orderNumber": 26,
+          "correctContestants": [
+            "Stephanie"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Robbi",
+              "score": 5000
+            },
+            {
+              "player": "Bob",
+              "score": 6200
+            },
+            {
+              "player": "Stephanie",
+              "score": 2400
+            }
+          ]
+        },
+        {
+          "category": "AUTO FOCUS",
+          "value": 400,
+          "clue": "Incorporated in 1915, it designed its cars to withstand Sweden's rough roads & cold temperatures",
+          "answer": "Volvo",
+          "isDailyDouble": false,
+          "orderNumber": 27,
+          "correctContestants": [
+            "Bob"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Robbi",
+              "score": 5000
+            },
+            {
+              "player": "Bob",
+              "score": 6600
+            },
+            {
+              "player": "Stephanie",
+              "score": 2400
+            }
+          ]
+        },
+        {
+          "category": "AUTO FOCUS",
+          "value": 600,
+          "clue": "An ad agency gave this car company a name standing for feline qualities like grace, elegance, power & agility",
+          "answer": "Jaguar",
+          "isDailyDouble": false,
+          "orderNumber": 28,
+          "correctContestants": [
+            "Robbi"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Robbi",
+              "score": 5600
+            },
+            {
+              "player": "Bob",
+              "score": 6600
+            },
+            {
+              "player": "Stephanie",
+              "score": 2400
+            }
+          ]
+        },
+        {
+          "category": "AUTO FOCUS",
+          "value": 800,
+          "clue": "Datsun, which became this company, was changed from Datson because son meant \"loss\" in Japanese",
+          "answer": "Nissan",
+          "isDailyDouble": false,
+          "orderNumber": 29,
+          "correctContestants": [
+            "Bob"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Robbi",
+              "score": 5600
+            },
+            {
+              "player": "Bob",
+              "score": 7400
+            },
+            {
+              "player": "Stephanie",
+              "score": 2400
+            }
+          ]
+        },
+        {
+          "category": "AUTO FOCUS",
+          "value": 1000,
+          "clue": "This new division of Toyota aims for Generation XA & XB",
+          "answer": "the Scion",
+          "isDailyDouble": false,
+          "orderNumber": 30,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Robbi",
+              "score": 5600
+            },
+            {
+              "player": "Bob",
+              "score": 7400
+            },
+            {
+              "player": "Stephanie",
+              "score": 2400
+            }
+          ]
+        }
+      ],
+      "firstBreakScores": [
+        {
+          "player": "Robbi",
+          "score": 2200
+        },
+        {
+          "player": "Bob",
+          "score": 4000
+        },
+        {
+          "player": "Stephanie",
+          "score": 400
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "Robbi",
+          "score": 5600
+        },
+        {
+          "player": "Bob",
+          "score": 7400
+        },
+        {
+          "player": "Stephanie",
+          "score": 2400
+        }
+      ]
+    },
+    "doubleJeopardy": {
+      "categories": [
+        "MOST DENSELY POPULATED COUNTRIES",
+        "MUSICAL THEATRE",
+        "THAT BLANKIN' SHAKESPEARE",
+        "WANNA RACE?",
+        "REVOLUTIONARY HEROES",
+        "CROSSWORD CLUES \"V\""
+      ],
+      "clues": [
+        {
+          "category": "MOST DENSELY POPULATED COUNTRIES",
+          "value": 400,
+          "clue": "The densest is this small country that has been mostly under one family's rule for over 700 years",
+          "answer": "Monaco",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Robbi",
+              "score": 6000
+            },
+            {
+              "player": "Bob",
+              "score": 7400
+            },
+            {
+              "player": "Stephanie",
+              "score": 2400
+            }
+          ]
+        },
+        {
+          "category": "MOST DENSELY POPULATED COUNTRIES",
+          "value": 800,
+          "clue": "In 2003 this republic, ranked No. 2, became the first Asian country to sign a free-trade pact with the U.S.",
+          "answer": "Singapore",
+          "isDailyDouble": false,
+          "orderNumber": 2,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Stephanie"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Robbi",
+              "score": 6000
+            },
+            {
+              "player": "Bob",
+              "score": 6600
+            },
+            {
+              "player": "Stephanie",
+              "score": 1600
+            }
+          ]
+        },
+        {
+          "category": "REVOLUTIONARY HEROES",
+          "value": 400,
+          "clue": "The first signer of the Declaration of Independence, this merchant was said to be Boston's richest man",
+          "answer": "John Hancock",
+          "isDailyDouble": false,
+          "orderNumber": 3,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Robbi",
+              "score": 6000
+            },
+            {
+              "player": "Bob",
+              "score": 7000
+            },
+            {
+              "player": "Stephanie",
+              "score": 1600
+            }
+          ]
+        },
+        {
+          "category": "REVOLUTIONARY HEROES",
+          "value": 800,
+          "clue": "He lost command of his own Green Mountain Boys when the group was absorbed by the Continental Army",
+          "answer": "Ethan Allen",
+          "isDailyDouble": false,
+          "orderNumber": 4,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Robbi",
+              "score": 6000
+            },
+            {
+              "player": "Bob",
+              "score": 7800
+            },
+            {
+              "player": "Stephanie",
+              "score": 1600
+            }
+          ]
+        },
+        {
+          "category": "REVOLUTIONARY HEROES",
+          "value": 1200,
+          "clue": "In 1777 this gen. known for his \"crazy\" daring took command of the regiments known as the Pennsylvania Line",
+          "answer": "\"Mad\" Anthony Wayne",
+          "isDailyDouble": false,
+          "orderNumber": 5,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Robbi",
+              "score": 7200
+            },
+            {
+              "player": "Bob",
+              "score": 7800
+            },
+            {
+              "player": "Stephanie",
+              "score": 400
+            }
+          ]
+        },
+        {
+          "category": "REVOLUTIONARY HEROES",
+          "value": 2800,
+          "clue": "When the House of Burgesses was dissolved in 1774, this orator led delegates in meetings at the Raleigh Tavern",
+          "answer": "Patrick Henry",
+          "isDailyDouble": true,
+          "orderNumber": 6,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Robbi",
+              "score": 4400
+            },
+            {
+              "player": "Bob",
+              "score": 7800
+            },
+            {
+              "player": "Stephanie",
+              "score": 400
+            }
+          ]
+        },
+        {
+          "category": "REVOLUTIONARY HEROES",
+          "value": 2000,
+          "clue": "Called the \"financier of the American Revolution\", he later spent 3 years in debtor's prison",
+          "answer": "Robert Morris",
+          "isDailyDouble": false,
+          "orderNumber": 7,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Robbi",
+              "score": 4400
+            },
+            {
+              "player": "Bob",
+              "score": 7800
+            },
+            {
+              "player": "Stephanie",
+              "score": 400
+            }
+          ]
+        },
+        {
+          "category": "WANNA RACE?",
+          "value": 400,
+          "clue": "For an Indy car, this figure is less than 2, which is not helpful in reducing our dependence on OPEC",
+          "answer": "miles per gallon",
+          "isDailyDouble": false,
+          "orderNumber": 8,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Robbi",
+              "score": 4400
+            },
+            {
+              "player": "Bob",
+              "score": 8200
+            },
+            {
+              "player": "Stephanie",
+              "score": 400
+            }
+          ]
+        },
+        {
+          "category": "THAT BLANKIN' SHAKESPEARE",
+          "value": 400,
+          "clue": "\"Henry IV, Part II\":\"Uneasy lies the head that wears a ____\"",
+          "answer": "crown",
+          "isDailyDouble": false,
+          "orderNumber": 9,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Robbi",
+              "score": 4800
+            },
+            {
+              "player": "Bob",
+              "score": 8200
+            },
+            {
+              "player": "Stephanie",
+              "score": 400
+            }
+          ]
+        },
+        {
+          "category": "THAT BLANKIN' SHAKESPEARE",
+          "value": 800,
+          "clue": "\"The Comedy of Errors\":\"When in the why and the wherefore is neither ____ nor reason?\"",
+          "answer": "rhyme",
+          "isDailyDouble": false,
+          "orderNumber": 10,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Robbi",
+              "score": 5600
+            },
+            {
+              "player": "Bob",
+              "score": 8200
+            },
+            {
+              "player": "Stephanie",
+              "score": 400
+            }
+          ]
+        },
+        {
+          "category": "THAT BLANKIN' SHAKESPEARE",
+          "value": 1200,
+          "clue": "\"A Midsummer Night's Dream\":\"The course of ____  ____ never did run smooth\"",
+          "answer": "true love",
+          "isDailyDouble": false,
+          "orderNumber": 11,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Robbi",
+              "score": 5600
+            },
+            {
+              "player": "Bob",
+              "score": 9400
+            },
+            {
+              "player": "Stephanie",
+              "score": 400
+            }
+          ]
+        },
+        {
+          "category": "THAT BLANKIN' SHAKESPEARE",
+          "value": 1800,
+          "clue": "\"Henry IV, Part I\":\"The better part of valor is ____\"",
+          "answer": "discretion",
+          "isDailyDouble": true,
+          "orderNumber": 12,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Robbi",
+              "score": 5600
+            },
+            {
+              "player": "Bob",
+              "score": 11200
+            },
+            {
+              "player": "Stephanie",
+              "score": 400
+            }
+          ]
+        },
+        {
+          "category": "THAT BLANKIN' SHAKESPEARE",
+          "value": 2000,
+          "clue": "\"As You Like It\":\"Well said, that was laid on with a ____\"",
+          "answer": "trowel",
+          "isDailyDouble": false,
+          "orderNumber": 13,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Robbi",
+              "score": 5600
+            },
+            {
+              "player": "Bob",
+              "score": 11200
+            },
+            {
+              "player": "Stephanie",
+              "score": 2400
+            }
+          ]
+        },
+        {
+          "category": "MOST DENSELY POPULATED COUNTRIES",
+          "value": 1200,
+          "clue": "Most of the people in this third-most-densely peopled country are employees of the state",
+          "answer": "Vatican City",
+          "isDailyDouble": false,
+          "orderNumber": 14,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Robbi",
+              "score": 4400
+            },
+            {
+              "player": "Bob",
+              "score": 11200
+            },
+            {
+              "player": "Stephanie",
+              "score": 3600
+            }
+          ]
+        },
+        {
+          "category": "MOST DENSELY POPULATED COUNTRIES",
+          "value": 1600,
+          "clue": "No. 6 is this independent kingdom, the first Gulf state to allow women to vote & run for office",
+          "answer": "Bahrain",
+          "isDailyDouble": false,
+          "orderNumber": 15,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Robbi",
+              "score": 6000
+            },
+            {
+              "player": "Bob",
+              "score": 11200
+            },
+            {
+              "player": "Stephanie",
+              "score": 3600
+            }
+          ]
+        },
+        {
+          "category": "MOST DENSELY POPULATED COUNTRIES",
+          "value": 2000,
+          "clue": "At No. 8 is this Asian country that caused controversy in 2003 by putting its name on its passport",
+          "answer": "Taiwan",
+          "isDailyDouble": false,
+          "orderNumber": 16,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Robbi",
+              "score": 6000
+            },
+            {
+              "player": "Bob",
+              "score": 11200
+            },
+            {
+              "player": "Stephanie",
+              "score": 5600
+            }
+          ]
+        },
+        {
+          "category": "CROSSWORD CLUES \"V\"",
+          "value": 400,
+          "clue": "By way of(3)",
+          "answer": "via",
+          "isDailyDouble": false,
+          "orderNumber": 17,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Robbi",
+              "score": 6400
+            },
+            {
+              "player": "Bob",
+              "score": 11200
+            },
+            {
+              "player": "Stephanie",
+              "score": 5600
+            }
+          ]
+        },
+        {
+          "category": "CROSSWORD CLUES \"V\"",
+          "value": 800,
+          "clue": "Specifically, a peeping Tom(6)",
+          "answer": "voyeur",
+          "isDailyDouble": false,
+          "orderNumber": 18,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Robbi",
+              "score": 6400
+            },
+            {
+              "player": "Bob",
+              "score": 12000
+            },
+            {
+              "player": "Stephanie",
+              "score": 5600
+            }
+          ]
+        },
+        {
+          "category": "CROSSWORD CLUES \"V\"",
+          "value": 1200,
+          "clue": "Malicious or poisonous, like a snake(8)",
+          "answer": "venomous",
+          "isDailyDouble": false,
+          "orderNumber": 19,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Robbi",
+              "score": 6400
+            },
+            {
+              "player": "Bob",
+              "score": 12000
+            },
+            {
+              "player": "Stephanie",
+              "score": 6800
+            }
+          ]
+        },
+        {
+          "category": "CROSSWORD CLUES \"V\"",
+          "value": 1600,
+          "clue": "Foxlike(7)",
+          "answer": "vulpine",
+          "isDailyDouble": false,
+          "orderNumber": 20,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Robbi",
+              "score": 8000
+            },
+            {
+              "player": "Bob",
+              "score": 12000
+            },
+            {
+              "player": "Stephanie",
+              "score": 6800
+            }
+          ]
+        },
+        {
+          "category": "CROSSWORD CLUES \"V\"",
+          "value": 2000,
+          "clue": "South American camel cousin(6)",
+          "answer": "vicuña",
+          "isDailyDouble": false,
+          "orderNumber": 21,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Robbi",
+              "score": 8000
+            },
+            {
+              "player": "Bob",
+              "score": 12000
+            },
+            {
+              "player": "Stephanie",
+              "score": 8800
+            }
+          ]
+        },
+        {
+          "category": "MUSICAL THEATRE",
+          "value": 400,
+          "clue": "In \"West Side Story\" this character sings \"I Feel Pretty\"",
+          "answer": "Maria",
+          "isDailyDouble": false,
+          "orderNumber": 22,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Robbi",
+              "score": 8400
+            },
+            {
+              "player": "Bob",
+              "score": 12000
+            },
+            {
+              "player": "Stephanie",
+              "score": 8800
+            }
+          ]
+        },
+        {
+          "category": "MUSICAL THEATRE",
+          "value": 800,
+          "clue": "This \"Guys and Dolls\" composer also gave us \"The Most Happy Fella\", about Tony the lovestruck wine-grower",
+          "answer": "Frank Loesser",
+          "isDailyDouble": false,
+          "orderNumber": 23,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Robbi",
+              "score": 8400
+            },
+            {
+              "player": "Bob",
+              "score": 12000
+            },
+            {
+              "player": "Stephanie",
+              "score": 8800
+            }
+          ]
+        },
+        {
+          "category": "MUSICAL THEATRE",
+          "value": 1200,
+          "clue": "In \"Carousel\" this amusement park barker talks to Julie Jordan about marriage & she sings \"If I Loved You\"",
+          "answer": "Billy Bigelow",
+          "isDailyDouble": false,
+          "orderNumber": 24,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Robbi",
+              "score": 8400
+            },
+            {
+              "player": "Bob",
+              "score": 12000
+            },
+            {
+              "player": "Stephanie",
+              "score": 8800
+            }
+          ]
+        },
+        {
+          "category": "MUSICAL THEATRE",
+          "value": 1600,
+          "clue": "Although Rodgers & Hammerstein produced it, Irving Berlin wrote the songs, including \"Anything You Can Do\"",
+          "answer": "Annie Get Your Gun",
+          "isDailyDouble": false,
+          "orderNumber": 25,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Robbi",
+              "score": 8400
+            },
+            {
+              "player": "Bob",
+              "score": 13600
+            },
+            {
+              "player": "Stephanie",
+              "score": 8800
+            }
+          ]
+        },
+        {
+          "category": "WANNA RACE?",
+          "value": 800,
+          "clue": "In a NASCAR race the white flag means this, so it's now or never",
+          "answer": "the last lap",
+          "isDailyDouble": false,
+          "orderNumber": 26,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Robbi",
+              "score": 9200
+            },
+            {
+              "player": "Bob",
+              "score": 13600
+            },
+            {
+              "player": "Stephanie",
+              "score": 8800
+            }
+          ]
+        },
+        {
+          "category": "WANNA RACE?",
+          "value": 1200,
+          "clue": "Several of these \"bars\" that ensure drivers' safety if the car flips make up a \"cage\" of the same name",
+          "answer": "roll bars",
+          "isDailyDouble": false,
+          "orderNumber": 27,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Robbi",
+              "score": 10400
+            },
+            {
+              "player": "Bob",
+              "score": 13600
+            },
+            {
+              "player": "Stephanie",
+              "score": 8800
+            }
+          ]
+        },
+        {
+          "category": "WANNA RACE?",
+          "value": 1600,
+          "clue": "In racing the name of this low-tech weapon means passing the leader with a burst of speed",
+          "answer": "slingshot",
+          "isDailyDouble": false,
+          "orderNumber": 28,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Robbi",
+              "score": 10400
+            },
+            {
+              "player": "Bob",
+              "score": 13600
+            },
+            {
+              "player": "Stephanie",
+              "score": 8800
+            }
+          ]
+        },
+        {
+          "category": "MUSICAL THEATRE",
+          "value": 2000,
+          "clue": "In a Tim Rice musical, Frederick & Anatoly vie to be world champion of this game",
+          "answer": "chess",
+          "isDailyDouble": false,
+          "orderNumber": 29,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Robbi",
+              "score": 10400
+            },
+            {
+              "player": "Bob",
+              "score": 15600
+            },
+            {
+              "player": "Stephanie",
+              "score": 8800
+            }
+          ]
+        },
+        {
+          "category": "WANNA RACE?",
+          "value": 2000,
+          "clue": "The top tip of a triangle, or the midpoint of a turn; you brake before it, then accelerate out of it",
+          "answer": "the apex",
+          "isDailyDouble": false,
+          "orderNumber": 30,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Robbi",
+              "score": 10400
+            },
+            {
+              "player": "Bob",
+              "score": 17600
+            },
+            {
+              "player": "Stephanie",
+              "score": 8800
+            }
+          ]
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "Robbi",
+          "score": 10400
+        },
+        {
+          "player": "Bob",
+          "score": 17600
+        },
+        {
+          "player": "Stephanie",
+          "score": 8800
+        }
+      ]
+    },
+    "finalJeopardy": {
+      "category": "MEMOIRS",
+      "clue": "Chapters in this 1937 memoir include \"A Kikuyu Chief\", \"War-Time Safari\" & \"Old Knudsen\"",
+      "answer": "Out of Africa (by Isak Dinesen)",
+      "responses": [
+        {
+          "contestant": "Stephanie",
+          "response": "What is Out of Africa?",
+          "isCorrect": true,
+          "isIncorrect": false,
+          "value": 8800,
+          "finalScore": 17600
+        },
+        {
+          "contestant": "Robbi",
+          "response": "What [a few scribbled lines]",
+          "isCorrect": false,
+          "isIncorrect": true,
+          "value": 8000,
+          "finalScore": 2400
+        },
+        {
+          "contestant": "Bob",
+          "response": "What is Out of Africa?",
+          "isCorrect": true,
+          "isIncorrect": false,
+          "value": 3201,
+          "finalScore": 20801
+        }
+      ]
+    }
+  },
+  "finalScores": [
+    {
+      "player": "Robbi",
+      "score": "$2,400"
+    },
+    {
+      "player": "Bob",
+      "score": "$20,801"
+    },
+    {
+      "player": "Stephanie",
+      "score": "$17,600"
+    }
+  ],
+  "coryatScores": [
+    {
+      "player": "Robbi",
+      "score": 13600
+    },
+    {
+      "player": "Bob",
+      "score": 17400
+    },
+    {
+      "player": "Stephanie",
+      "score": 8800
+    }
+  ]
+}

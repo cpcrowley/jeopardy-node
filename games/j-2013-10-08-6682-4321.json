@@ -1,0 +1,1701 @@
+{
+  "gameId": 4321,
+  "showNumber": "6682",
+  "title": "Show #6682 - Tuesday, October 8, 2013",
+  "date": "2013-10-08",
+  "comments": "",
+  "contestants": [
+    "Mary",
+    "Erin",
+    "Jason"
+  ],
+  "rounds": {
+    "jeopardy": {
+      "categories": [
+        "THE NATIONAL INVENTORS HALL OF FAME",
+        "A FEW CHOICE WORDS",
+        "FOOD & DRINK",
+        "\"F\"ILM TERMINOLOGY",
+        "EVACUATE!",
+        "YOU MUST BE AT LEAST THIS OLD..."
+      ],
+      "clues": [
+        {
+          "category": "YOU MUST BE AT LEAST THIS OLD...",
+          "value": 200,
+          "clue": "To play baccarat in the casino at Caesars Palace Las Vegas",
+          "answer": "21",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [
+            "Jason"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mary",
+              "score": 0
+            },
+            {
+              "player": "Erin",
+              "score": 0
+            },
+            {
+              "player": "Jason",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "YOU MUST BE AT LEAST THIS OLD...",
+          "value": 400,
+          "clue": "To be vice president of the United States",
+          "answer": "35",
+          "isDailyDouble": false,
+          "orderNumber": 2,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Erin"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Mary",
+              "score": 0
+            },
+            {
+              "player": "Erin",
+              "score": -400
+            },
+            {
+              "player": "Jason",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "YOU MUST BE AT LEAST THIS OLD...",
+          "value": 600,
+          "clue": "To be officially responsible for obeying Jewish commandments (bar mitzvah)",
+          "answer": "13",
+          "isDailyDouble": false,
+          "orderNumber": 3,
+          "correctContestants": [
+            "Erin"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mary",
+              "score": 0
+            },
+            {
+              "player": "Erin",
+              "score": 200
+            },
+            {
+              "player": "Jason",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "YOU MUST BE AT LEAST THIS OLD...",
+          "value": 800,
+          "clue": "To receive full membership in AARP",
+          "answer": "50",
+          "isDailyDouble": false,
+          "orderNumber": 4,
+          "correctContestants": [
+            "Mary"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mary",
+              "score": 800
+            },
+            {
+              "player": "Erin",
+              "score": 200
+            },
+            {
+              "player": "Jason",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "YOU MUST BE AT LEAST THIS OLD...",
+          "value": 1000,
+          "clue": "To drive a car with supervision in Florida, Illinois or Oregon",
+          "answer": "15",
+          "isDailyDouble": false,
+          "orderNumber": 5,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Mary",
+              "score": 800
+            },
+            {
+              "player": "Erin",
+              "score": 200
+            },
+            {
+              "player": "Jason",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "\"F\"ILM TERMINOLOGY",
+          "value": 200,
+          "clue": "(Jimmy of the Clue Crew illustrates the clue.) This refers to the degree of sharpness of a film's image... & you can stop shouting it from your seat now",
+          "answer": "focus",
+          "isDailyDouble": false,
+          "orderNumber": 6,
+          "correctContestants": [
+            "Jason"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mary",
+              "score": 800
+            },
+            {
+              "player": "Erin",
+              "score": 200
+            },
+            {
+              "player": "Jason",
+              "score": 400
+            }
+          ]
+        },
+        {
+          "category": "\"F\"ILM TERMINOLOGY",
+          "value": 400,
+          "clue": "2-word French term for a dangerous woman in a film whom you'd better not turn your back on",
+          "answer": "a femme fatale",
+          "isDailyDouble": false,
+          "orderNumber": 7,
+          "correctContestants": [
+            "Mary"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mary",
+              "score": 1200
+            },
+            {
+              "player": "Erin",
+              "score": 200
+            },
+            {
+              "player": "Jason",
+              "score": 400
+            }
+          ]
+        },
+        {
+          "category": "\"F\"ILM TERMINOLOGY",
+          "value": 600,
+          "clue": "(Jimmy of the Clue Crew illustrates the clue from the studio.)  A smooth, gradual transition from black to a clear image",
+          "answer": "a fade (in)",
+          "isDailyDouble": false,
+          "orderNumber": 8,
+          "correctContestants": [
+            "Jason"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mary",
+              "score": 1200
+            },
+            {
+              "player": "Erin",
+              "score": 200
+            },
+            {
+              "player": "Jason",
+              "score": 1000
+            }
+          ]
+        },
+        {
+          "category": "\"F\"ILM TERMINOLOGY",
+          "value": 800,
+          "clue": "FPS is short for this; for a 35mm print it's usually 24",
+          "answer": "frames per second",
+          "isDailyDouble": false,
+          "orderNumber": 9,
+          "correctContestants": [
+            "Erin"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mary",
+              "score": 1200
+            },
+            {
+              "player": "Erin",
+              "score": 1000
+            },
+            {
+              "player": "Jason",
+              "score": 1000
+            }
+          ]
+        },
+        {
+          "category": "\"F\"ILM TERMINOLOGY",
+          "value": 1000,
+          "clue": "(Kelly of the Clue Crew acts out the clue with Jimmy's help.)  A character who stops addressing the others in the story & addresses the camera directly is said to be breaking this barrier",
+          "answer": "the fourth wall",
+          "isDailyDouble": false,
+          "orderNumber": 10,
+          "correctContestants": [
+            "Erin"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mary",
+              "score": 1200
+            },
+            {
+              "player": "Erin",
+              "score": 2000
+            },
+            {
+              "player": "Jason",
+              "score": 1000
+            }
+          ]
+        },
+        {
+          "category": "FOOD & DRINK",
+          "value": 200,
+          "clue": "In 1996 U.S. astronaut Shannon Lucid made this jiggly treat for her associates on the space station Mir",
+          "answer": "Jell-O",
+          "isDailyDouble": false,
+          "orderNumber": 11,
+          "correctContestants": [
+            "Jason"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mary",
+              "score": 1200
+            },
+            {
+              "player": "Erin",
+              "score": 2000
+            },
+            {
+              "player": "Jason",
+              "score": 1200
+            }
+          ]
+        },
+        {
+          "category": "FOOD & DRINK",
+          "value": 400,
+          "clue": "Coffee & seafood are regulated by the FDA; beef, lamb & pork are regulated by this cabinet department",
+          "answer": "agriculture",
+          "isDailyDouble": false,
+          "orderNumber": 12,
+          "correctContestants": [
+            "Mary"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mary",
+              "score": 1600
+            },
+            {
+              "player": "Erin",
+              "score": 2000
+            },
+            {
+              "player": "Jason",
+              "score": 1200
+            }
+          ]
+        },
+        {
+          "category": "FOOD & DRINK",
+          "value": 600,
+          "clue": "Headquartered in Atlanta, this chain of over 430 restaurants says 66% of its customers are male",
+          "answer": "Hooters",
+          "isDailyDouble": false,
+          "orderNumber": 13,
+          "correctContestants": [
+            "Jason"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mary",
+              "score": 1600
+            },
+            {
+              "player": "Erin",
+              "score": 2000
+            },
+            {
+              "player": "Jason",
+              "score": 1800
+            }
+          ]
+        },
+        {
+          "category": "FOOD & DRINK",
+          "value": 800,
+          "clue": "This type of butter has had water & milk solids removed & is easier to understand",
+          "answer": "clarified",
+          "isDailyDouble": false,
+          "orderNumber": 14,
+          "correctContestants": [
+            "Mary"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mary",
+              "score": 2400
+            },
+            {
+              "player": "Erin",
+              "score": 2000
+            },
+            {
+              "player": "Jason",
+              "score": 1800
+            }
+          ]
+        },
+        {
+          "category": "FOOD & DRINK",
+          "value": 1000,
+          "clue": "It's a traditional Russian tea urn with a spigot & a chimney",
+          "answer": "a samovar",
+          "isDailyDouble": false,
+          "orderNumber": 15,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Mary",
+              "score": 2400
+            },
+            {
+              "player": "Erin",
+              "score": 2000
+            },
+            {
+              "player": "Jason",
+              "score": 1800
+            }
+          ]
+        },
+        {
+          "category": "THE NATIONAL INVENTORS HALL OF FAME",
+          "value": 200,
+          "clue": "\"Developed 325 different uses for the extra peanuts--from cooking oil to printers ink\"",
+          "answer": "George Washington Carver",
+          "isDailyDouble": false,
+          "orderNumber": 16,
+          "correctContestants": [
+            "Erin"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mary",
+              "score": 2400
+            },
+            {
+              "player": "Erin",
+              "score": 2200
+            },
+            {
+              "player": "Jason",
+              "score": 1800
+            }
+          ]
+        },
+        {
+          "category": "THE NATIONAL INVENTORS HALL OF FAME",
+          "value": 400,
+          "clue": "\"Developed the first American cast steel plow\"; inc. in 1868, \"his business, is still in existence today\"",
+          "answer": "John Deere",
+          "isDailyDouble": false,
+          "orderNumber": 17,
+          "correctContestants": [
+            "Jason"
+          ],
+          "incorrectContestants": [
+            "Mary"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mary",
+              "score": 2000
+            },
+            {
+              "player": "Erin",
+              "score": 2200
+            },
+            {
+              "player": "Jason",
+              "score": 2200
+            }
+          ]
+        },
+        {
+          "category": "THE NATIONAL INVENTORS HALL OF FAME",
+          "value": 600,
+          "clue": "His \"radio was the first to demonstrate workable wireless radio communication\"",
+          "answer": "Marconi",
+          "isDailyDouble": false,
+          "orderNumber": 18,
+          "correctContestants": [
+            "Jason"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mary",
+              "score": 2000
+            },
+            {
+              "player": "Erin",
+              "score": 2200
+            },
+            {
+              "player": "Jason",
+              "score": 2800
+            }
+          ]
+        },
+        {
+          "category": "THE NATIONAL INVENTORS HALL OF FAME",
+          "value": 800,
+          "clue": "\"Historians regard (his) Hartford gun factory as a prototype for America's Industrial Revolution\"",
+          "answer": "Colt",
+          "isDailyDouble": false,
+          "orderNumber": 19,
+          "correctContestants": [
+            "Erin"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mary",
+              "score": 2000
+            },
+            {
+              "player": "Erin",
+              "score": 3000
+            },
+            {
+              "player": "Jason",
+              "score": 2800
+            }
+          ]
+        },
+        {
+          "category": "THE NATIONAL INVENTORS HALL OF FAME",
+          "value": 1000,
+          "clue": "\"In 1865, (his) company built the first factory for producing nitroglycerin\"",
+          "answer": "Alfred Nobel",
+          "isDailyDouble": false,
+          "orderNumber": 20,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Mary"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Mary",
+              "score": 1000
+            },
+            {
+              "player": "Erin",
+              "score": 3000
+            },
+            {
+              "player": "Jason",
+              "score": 2800
+            }
+          ]
+        },
+        {
+          "category": "A FEW CHOICE WORDS",
+          "value": 200,
+          "clue": "Of rain, hail or sleet, the one that has a homophone meaning \"healthy\"",
+          "answer": "hail",
+          "isDailyDouble": false,
+          "orderNumber": 21,
+          "correctContestants": [
+            "Mary"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mary",
+              "score": 1200
+            },
+            {
+              "player": "Erin",
+              "score": 3000
+            },
+            {
+              "player": "Jason",
+              "score": 2800
+            }
+          ]
+        },
+        {
+          "category": "A FEW CHOICE WORDS",
+          "value": 400,
+          "clue": "Of scuba, maser or razor, the one that's not an acronym",
+          "answer": "a razor",
+          "isDailyDouble": false,
+          "orderNumber": 22,
+          "correctContestants": [
+            "Jason"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mary",
+              "score": 1200
+            },
+            {
+              "player": "Erin",
+              "score": 3000
+            },
+            {
+              "player": "Jason",
+              "score": 3200
+            }
+          ]
+        },
+        {
+          "category": "A FEW CHOICE WORDS",
+          "value": 600,
+          "clue": "Of anachronism, masochism or bolshevism, the one that gets its name from a person",
+          "answer": "masochism",
+          "isDailyDouble": false,
+          "orderNumber": 23,
+          "correctContestants": [
+            "Erin"
+          ],
+          "incorrectContestants": [
+            "Jason"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mary",
+              "score": 1200
+            },
+            {
+              "player": "Erin",
+              "score": 3600
+            },
+            {
+              "player": "Jason",
+              "score": 2600
+            }
+          ]
+        },
+        {
+          "category": "A FEW CHOICE WORDS",
+          "value": 800,
+          "clue": "Of boisterous, articulate or opaque, the one that's an antonym of pellucid",
+          "answer": "opaque",
+          "isDailyDouble": false,
+          "orderNumber": 24,
+          "correctContestants": [
+            "Mary"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mary",
+              "score": 2000
+            },
+            {
+              "player": "Erin",
+              "score": 3600
+            },
+            {
+              "player": "Jason",
+              "score": 2600
+            }
+          ]
+        },
+        {
+          "category": "A FEW CHOICE WORDS",
+          "value": 1000,
+          "clue": "Of conjugate, abrogate or fustigate, the one that's a synonym for repeal",
+          "answer": "abrogate",
+          "isDailyDouble": false,
+          "orderNumber": 25,
+          "correctContestants": [
+            "Jason"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mary",
+              "score": 2000
+            },
+            {
+              "player": "Erin",
+              "score": 3600
+            },
+            {
+              "player": "Jason",
+              "score": 3600
+            }
+          ]
+        },
+        {
+          "category": "EVACUATE!",
+          "value": 200,
+          "clue": "In 2005 almost 80% of this city's 484,000 people were evacuated",
+          "answer": "New Orleans",
+          "isDailyDouble": false,
+          "orderNumber": 26,
+          "correctContestants": [
+            "Erin"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mary",
+              "score": 2000
+            },
+            {
+              "player": "Erin",
+              "score": 3800
+            },
+            {
+              "player": "Jason",
+              "score": 3600
+            }
+          ]
+        },
+        {
+          "category": "EVACUATE!",
+          "value": 1600,
+          "clue": "In 1906 the Southern Pacific Railroad evacuated more than half of this city's 400,000 people",
+          "answer": "San Francisco",
+          "isDailyDouble": true,
+          "orderNumber": 27,
+          "correctContestants": [
+            "Erin"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mary",
+              "score": 2000
+            },
+            {
+              "player": "Erin",
+              "score": 5400
+            },
+            {
+              "player": "Jason",
+              "score": 3600
+            }
+          ]
+        },
+        {
+          "category": "EVACUATE!",
+          "value": 800,
+          "clue": "This capital was evacuated & Napoleon's troops occupied it for 35 days until food shortages forced them out",
+          "answer": "Moscow",
+          "isDailyDouble": false,
+          "orderNumber": 28,
+          "correctContestants": [
+            "Erin"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mary",
+              "score": 2000
+            },
+            {
+              "player": "Erin",
+              "score": 6200
+            },
+            {
+              "player": "Jason",
+              "score": 3600
+            }
+          ]
+        },
+        {
+          "category": "EVACUATE!",
+          "value": 600,
+          "clue": "Petersburg fell on April 2, 1865; this capital of the Confederacy was evacuated that night, after being set afire",
+          "answer": "Richmond",
+          "isDailyDouble": false,
+          "orderNumber": 29,
+          "correctContestants": [
+            "Jason"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mary",
+              "score": 2000
+            },
+            {
+              "player": "Erin",
+              "score": 6200
+            },
+            {
+              "player": "Jason",
+              "score": 4200
+            }
+          ]
+        },
+        {
+          "category": "EVACUATE!",
+          "value": 400,
+          "clue": "Themistocles had the people abandon this city in preparation for a war with the Persians",
+          "answer": "Athens",
+          "isDailyDouble": false,
+          "orderNumber": 30,
+          "correctContestants": [
+            "Jason"
+          ],
+          "incorrectContestants": [
+            "Mary"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mary",
+              "score": 1600
+            },
+            {
+              "player": "Erin",
+              "score": 6200
+            },
+            {
+              "player": "Jason",
+              "score": 4600
+            }
+          ]
+        }
+      ],
+      "firstBreakScores": [
+        {
+          "player": "Mary",
+          "score": 2400
+        },
+        {
+          "player": "Erin",
+          "score": 2000
+        },
+        {
+          "player": "Jason",
+          "score": 1800
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "Mary",
+          "score": 1600
+        },
+        {
+          "player": "Erin",
+          "score": 6200
+        },
+        {
+          "player": "Jason",
+          "score": 4600
+        }
+      ]
+    },
+    "doubleJeopardy": {
+      "categories": [
+        "BEFORE THE EURO",
+        "BEGINS & ENDS IN \"G\"",
+        "I HOSTED FAMILY FEUD...",
+        "APOCALYTERATURE",
+        "TARGET IN SIGHT",
+        "BRAHMS AWAY!"
+      ],
+      "clues": [
+        {
+          "category": "BEFORE THE EURO",
+          "value": 400,
+          "clue": "Several monetary systems in Germany were consolidated into this 4-letter currency after 1871",
+          "answer": "the mark",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mary",
+              "score": 1600
+            },
+            {
+              "player": "Erin",
+              "score": 6600
+            },
+            {
+              "player": "Jason",
+              "score": 4600
+            }
+          ]
+        },
+        {
+          "category": "APOCALYTERATURE",
+          "value": 400,
+          "clue": "Subtitled \"The Last Man\", Brian Vaughan's 2002 apocalyptic epic bears this chromosomal letter as its title",
+          "answer": "Y",
+          "isDailyDouble": false,
+          "orderNumber": 2,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mary",
+              "score": 2000
+            },
+            {
+              "player": "Erin",
+              "score": 6600
+            },
+            {
+              "player": "Jason",
+              "score": 4200
+            }
+          ]
+        },
+        {
+          "category": "BEFORE THE EURO",
+          "value": 800,
+          "clue": "This Greek coin's name is from a verb for \"to grasp\"; it was once 6 iron rods grasped in the fist",
+          "answer": "a drachma",
+          "isDailyDouble": false,
+          "orderNumber": 3,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mary",
+              "score": 2000
+            },
+            {
+              "player": "Erin",
+              "score": 6600
+            },
+            {
+              "player": "Jason",
+              "score": 5000
+            }
+          ]
+        },
+        {
+          "category": "BRAHMS AWAY!",
+          "value": 400,
+          "clue": "At a museum in Brahms' birth city of Hamburg, visitors can play the tafelklavier, this that Brahms used for lessons",
+          "answer": "a piano",
+          "isDailyDouble": false,
+          "orderNumber": 4,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mary",
+              "score": 2000
+            },
+            {
+              "player": "Erin",
+              "score": 7000
+            },
+            {
+              "player": "Jason",
+              "score": 5000
+            }
+          ]
+        },
+        {
+          "category": "BRAHMS AWAY!",
+          "value": 800,
+          "clue": "Singer Hermine Spies had this type of \"Passion\", Brahms' first name & the German title of a work by Bach",
+          "answer": "Johannes",
+          "isDailyDouble": false,
+          "orderNumber": 5,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mary",
+              "score": 2000
+            },
+            {
+              "player": "Erin",
+              "score": 6200
+            },
+            {
+              "player": "Jason",
+              "score": 5800
+            }
+          ]
+        },
+        {
+          "category": "BRAHMS AWAY!",
+          "value": 5,
+          "clue": "A youthful stint accompanying violinist Eduard Remenyi led to an interest in this national music & its dances",
+          "answer": "Hungarian dances",
+          "isDailyDouble": true,
+          "orderNumber": 6,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mary",
+              "score": 2000
+            },
+            {
+              "player": "Erin",
+              "score": 6200
+            },
+            {
+              "player": "Jason",
+              "score": 5795
+            }
+          ]
+        },
+        {
+          "category": "APOCALYTERATURE",
+          "value": 800,
+          "clue": "Over 1,000 pages long, this Stephen King novel sees 108-year-old Abagail face off against \"the dark man\"",
+          "answer": "The Stand",
+          "isDailyDouble": false,
+          "orderNumber": 7,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mary",
+              "score": 2800
+            },
+            {
+              "player": "Erin",
+              "score": 6200
+            },
+            {
+              "player": "Jason",
+              "score": 5795
+            }
+          ]
+        },
+        {
+          "category": "BEFORE THE EURO",
+          "value": 1200,
+          "clue": "In 1997 this nation issued a coin to honor the 100th anniversary of Paavo Nurmi's birth",
+          "answer": "Finland",
+          "isDailyDouble": false,
+          "orderNumber": 8,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mary",
+              "score": 2800
+            },
+            {
+              "player": "Erin",
+              "score": 6200
+            },
+            {
+              "player": "Jason",
+              "score": 6995
+            }
+          ]
+        },
+        {
+          "category": "APOCALYTERATURE",
+          "value": 1200,
+          "clue": "In \"Lucifer's Hammer\", the title object is not a tool but one of these that threatens earth",
+          "answer": "a comet",
+          "isDailyDouble": false,
+          "orderNumber": 9,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mary",
+              "score": 4000
+            },
+            {
+              "player": "Erin",
+              "score": 5000
+            },
+            {
+              "player": "Jason",
+              "score": 6995
+            }
+          ]
+        },
+        {
+          "category": "BEFORE THE EURO",
+          "value": 1600,
+          "clue": "The Netherlands switched to the euro in 2002, but this currency is still used in Curacao",
+          "answer": "the guilder",
+          "isDailyDouble": false,
+          "orderNumber": 10,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Mary",
+              "score": 4000
+            },
+            {
+              "player": "Erin",
+              "score": 5000
+            },
+            {
+              "player": "Jason",
+              "score": 6995
+            }
+          ]
+        },
+        {
+          "category": "BEFORE THE EURO",
+          "value": 2000,
+          "clue": "Italy's 500,000-lira note featured a self-portrait of this artist on one side & his \"School of Athens\" on the other",
+          "answer": "Raphael",
+          "isDailyDouble": false,
+          "orderNumber": 11,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mary",
+              "score": 6000
+            },
+            {
+              "player": "Erin",
+              "score": 5000
+            },
+            {
+              "player": "Jason",
+              "score": 6995
+            }
+          ]
+        },
+        {
+          "category": "TARGET IN SIGHT",
+          "value": 400,
+          "clue": "Golf fans know you can find a Target store in this city just off the Bobby Jones Expressway",
+          "answer": "Augusta",
+          "isDailyDouble": false,
+          "orderNumber": 12,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mary",
+              "score": 6400
+            },
+            {
+              "player": "Erin",
+              "score": 5000
+            },
+            {
+              "player": "Jason",
+              "score": 6595
+            }
+          ]
+        },
+        {
+          "category": "TARGET IN SIGHT",
+          "value": 800,
+          "clue": "The Target store in this state capital is near a Walgreens & Wyoming Spine & Neurosurgery",
+          "answer": "Cheyenne",
+          "isDailyDouble": false,
+          "orderNumber": 13,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mary",
+              "score": 6400
+            },
+            {
+              "player": "Erin",
+              "score": 5000
+            },
+            {
+              "player": "Jason",
+              "score": 7395
+            }
+          ]
+        },
+        {
+          "category": "TARGET IN SIGHT",
+          "value": 1200,
+          "clue": "As an alternative to the Bozeman Target, there's a nearby store of this chain that started in an airplane hangar",
+          "answer": "Costco",
+          "isDailyDouble": false,
+          "orderNumber": 14,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Mary",
+              "score": 6400
+            },
+            {
+              "player": "Erin",
+              "score": 5000
+            },
+            {
+              "player": "Jason",
+              "score": 7395
+            }
+          ]
+        },
+        {
+          "category": "TARGET IN SIGHT",
+          "value": 1600,
+          "clue": "Hungry after shopping Target in this \"biggest little city in the world\"? Gamble on Chinese at Two Guys from Hong Kong",
+          "answer": "Reno",
+          "isDailyDouble": false,
+          "orderNumber": 15,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mary",
+              "score": 6400
+            },
+            {
+              "player": "Erin",
+              "score": 5000
+            },
+            {
+              "player": "Jason",
+              "score": 8995
+            }
+          ]
+        },
+        {
+          "category": "TARGET IN SIGHT",
+          "value": 2000,
+          "clue": "Maybe you'll see Nick Saban buying athletic socks at the Target 3 miles from his workplace in this city",
+          "answer": "Tuscaloosa, Alabama",
+          "isDailyDouble": false,
+          "orderNumber": 16,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mary",
+              "score": 6400
+            },
+            {
+              "player": "Erin",
+              "score": 5000
+            },
+            {
+              "player": "Jason",
+              "score": 10995
+            }
+          ]
+        },
+        {
+          "category": "I HOSTED FAMILY FEUD...",
+          "value": 400,
+          "clue": "& played Newkirk on \"Hogan's Heroes\"",
+          "answer": "Richard Dawson",
+          "isDailyDouble": false,
+          "orderNumber": 17,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mary",
+              "score": 6400
+            },
+            {
+              "player": "Erin",
+              "score": 5000
+            },
+            {
+              "player": "Jason",
+              "score": 11395
+            }
+          ]
+        },
+        {
+          "category": "I HOSTED FAMILY FEUD...",
+          "value": 1600,
+          "clue": "& assisted Tim Allen on \"Home Improvement\"",
+          "answer": "Richard Karn",
+          "isDailyDouble": false,
+          "orderNumber": 18,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mary",
+              "score": 6400
+            },
+            {
+              "player": "Erin",
+              "score": 6600
+            },
+            {
+              "player": "Jason",
+              "score": 11395
+            }
+          ]
+        },
+        {
+          "category": "I HOSTED FAMILY FEUD...",
+          "value": 2000,
+          "clue": "& played J. Peterman on \"Seinfeld\"",
+          "answer": "John O'Hurley",
+          "isDailyDouble": false,
+          "orderNumber": 19,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mary",
+              "score": 6400
+            },
+            {
+              "player": "Erin",
+              "score": 4600
+            },
+            {
+              "player": "Jason",
+              "score": 13395
+            }
+          ]
+        },
+        {
+          "category": "BEGINS & ENDS IN \"G\"",
+          "value": 2000,
+          "clue": "This alcoholic drink consists of rum & water & is often served hot with sugar & lemon juice",
+          "answer": "grog",
+          "isDailyDouble": false,
+          "orderNumber": 20,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Mary",
+              "score": 6400
+            },
+            {
+              "player": "Erin",
+              "score": 4600
+            },
+            {
+              "player": "Jason",
+              "score": 13395
+            }
+          ]
+        },
+        {
+          "category": "BEGINS & ENDS IN \"G\"",
+          "value": 5005,
+          "clue": "The farm where Pres. Eisenhower lived after his retirement lies outside this Pennsylvania town",
+          "answer": "Gettysburg",
+          "isDailyDouble": true,
+          "orderNumber": 21,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mary",
+              "score": 6400
+            },
+            {
+              "player": "Erin",
+              "score": 4600
+            },
+            {
+              "player": "Jason",
+              "score": 18400
+            }
+          ]
+        },
+        {
+          "category": "BEGINS & ENDS IN \"G\"",
+          "value": 400,
+          "clue": "Most U.S. species of this \"man-root\" are exported to China, where there is a high demand for its medicinal value",
+          "answer": "ginseng",
+          "isDailyDouble": false,
+          "orderNumber": 22,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mary",
+              "score": 6400
+            },
+            {
+              "player": "Erin",
+              "score": 4600
+            },
+            {
+              "player": "Jason",
+              "score": 18800
+            }
+          ]
+        },
+        {
+          "category": "BEGINS & ENDS IN \"G\"",
+          "value": 800,
+          "clue": "A wrestler can practice using this type of dummy",
+          "answer": "a grappling dummy",
+          "isDailyDouble": false,
+          "orderNumber": 23,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mary",
+              "score": 5600
+            },
+            {
+              "player": "Erin",
+              "score": 4600
+            },
+            {
+              "player": "Jason",
+              "score": 19600
+            }
+          ]
+        },
+        {
+          "category": "BEGINS & ENDS IN \"G\"",
+          "value": 1200,
+          "clue": "A basketball player who deflects the ball on its downward path to the basket is guilty of this infraction",
+          "answer": "goaltending",
+          "isDailyDouble": false,
+          "orderNumber": 24,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mary",
+              "score": 5600
+            },
+            {
+              "player": "Erin",
+              "score": 4600
+            },
+            {
+              "player": "Jason",
+              "score": 20800
+            }
+          ]
+        },
+        {
+          "category": "I HOSTED FAMILY FEUD...",
+          "value": 800,
+          "clue": "& tell you the weather every morning on the \"Today\" show",
+          "answer": "Al Roker",
+          "isDailyDouble": false,
+          "orderNumber": 25,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mary",
+              "score": 6400
+            },
+            {
+              "player": "Erin",
+              "score": 4600
+            },
+            {
+              "player": "Jason",
+              "score": 20800
+            }
+          ]
+        },
+        {
+          "category": "APOCALYTERATURE",
+          "value": 1600,
+          "clue": "In a novel by Jose Saramago, a whole society falls prey to this affliction, which they call the white evil",
+          "answer": "blindness",
+          "isDailyDouble": false,
+          "orderNumber": 26,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mary",
+              "score": 8000
+            },
+            {
+              "player": "Erin",
+              "score": 4600
+            },
+            {
+              "player": "Jason",
+              "score": 20800
+            }
+          ]
+        },
+        {
+          "category": "I HOSTED FAMILY FEUD...",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mary",
+              "score": 8000
+            },
+            {
+              "player": "Erin",
+              "score": 4600
+            },
+            {
+              "player": "Jason",
+              "score": 20800
+            }
+          ]
+        },
+        {
+          "category": "BRAHMS AWAY!",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mary",
+              "score": 8000
+            },
+            {
+              "player": "Erin",
+              "score": 4600
+            },
+            {
+              "player": "Jason",
+              "score": 20800
+            }
+          ]
+        },
+        {
+          "category": "APOCALYTERATURE",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mary",
+              "score": 8000
+            },
+            {
+              "player": "Erin",
+              "score": 4600
+            },
+            {
+              "player": "Jason",
+              "score": 20800
+            }
+          ]
+        },
+        {
+          "category": "BRAHMS AWAY!",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mary",
+              "score": 8000
+            },
+            {
+              "player": "Erin",
+              "score": 4600
+            },
+            {
+              "player": "Jason",
+              "score": 20800
+            }
+          ]
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "Mary",
+          "score": 8000
+        },
+        {
+          "player": "Erin",
+          "score": 4600
+        },
+        {
+          "player": "Jason",
+          "score": 20800
+        }
+      ]
+    },
+    "finalJeopardy": {
+      "category": "PRESIDENTIAL ELECTION HISTORY",
+      "clue": "In 1948 he won South Carolina with 72% of the vote & 3 other states but finished a distant third overall",
+      "answer": "Strom Thurmond",
+      "responses": [
+        {
+          "contestant": "Erin",
+          "response": "Who is Huey Long?",
+          "isCorrect": false,
+          "isIncorrect": true,
+          "value": 4000,
+          "finalScore": 600
+        },
+        {
+          "contestant": "Mary",
+          "response": "Who is was Strom Thurmond?",
+          "isCorrect": true,
+          "isIncorrect": false,
+          "value": 1250,
+          "finalScore": 9250
+        },
+        {
+          "contestant": "Jason",
+          "response": "Who was Strom Thurmond?",
+          "isCorrect": true,
+          "isIncorrect": false,
+          "value": 4799,
+          "finalScore": 25599
+        }
+      ]
+    }
+  },
+  "finalScores": [
+    {
+      "player": "Mary",
+      "score": "$9,250"
+    },
+    {
+      "player": "Erin",
+      "score": "$600"
+    },
+    {
+      "player": "Jason",
+      "score": "$25,599"
+    }
+  ],
+  "coryatScores": [
+    {
+      "player": "Mary",
+      "score": 8000
+    },
+    {
+      "player": "Erin",
+      "score": 4000
+    },
+    {
+      "player": "Jason",
+      "score": 17400
+    }
+  ]
+}

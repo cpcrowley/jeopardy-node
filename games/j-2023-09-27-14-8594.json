@@ -1,0 +1,1704 @@
+{
+  "gameId": 8594,
+  "showNumber": "14",
+  "title": "Primetime Celebrity Jeopardy! game #14 - Wednesday, September 27, 2023",
+  "date": "2023-09-27",
+  "comments": "2023-2024 Primetime Celebrity Jeopardy! quarterfinal game 1.\nKen Jennings hosts.",
+  "contestants": [
+    "Mark",
+    "emilY",
+    "Utkarsh"
+  ],
+  "rounds": {
+    "jeopardy": {
+      "categories": [
+        "ANTS",
+        "BIG-SCREEN BASKETBALL",
+        "HEY! THAT'S NOT AN ELEMENT!",
+        "OUI, OUI, HISTORY",
+        "CHICKEN FIVE WAYS",
+        "ALSO AN ANIMAL SOUND"
+      ],
+      "clues": [
+        {
+          "category": "CHICKEN FIVE WAYS",
+          "value": 100,
+          "clue": "You can get royally full on this dish that calls for cubed chicken, mushrooms, a sherry cream sauce and a few slices of toast",
+          "answer": "chicken à la king",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [
+            "Mark"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mark",
+              "score": 100
+            },
+            {
+              "player": "emilY",
+              "score": 0
+            },
+            {
+              "player": "Utkarsh",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "HEY! THAT'S NOT AN ELEMENT!",
+          "value": 200,
+          "clue": "Zinc,zirconium,zambonium",
+          "answer": "zambonium",
+          "isDailyDouble": false,
+          "orderNumber": 2,
+          "correctContestants": [
+            "emilY"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mark",
+              "score": 100
+            },
+            {
+              "player": "emilY",
+              "score": 200
+            },
+            {
+              "player": "Utkarsh",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "ANTS",
+          "value": 100,
+          "clue": "Ants inhabit every continent except this one (whose first syllable, ironically, is \"ant\")",
+          "answer": "Antarctica",
+          "isDailyDouble": false,
+          "orderNumber": 3,
+          "correctContestants": [
+            "Mark"
+          ],
+          "incorrectContestants": [
+            "emilY"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mark",
+              "score": 200
+            },
+            {
+              "player": "emilY",
+              "score": 100
+            },
+            {
+              "player": "Utkarsh",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "CHICKEN FIVE WAYS",
+          "value": 500,
+          "clue": "In Japan, these succulent chicken skewers are grilled over a smokeless type of charcoal called binchotan",
+          "answer": "yakitori",
+          "isDailyDouble": false,
+          "orderNumber": 4,
+          "correctContestants": [
+            "Utkarsh"
+          ],
+          "incorrectContestants": [
+            "emilY"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mark",
+              "score": 200
+            },
+            {
+              "player": "emilY",
+              "score": -400
+            },
+            {
+              "player": "Utkarsh",
+              "score": 500
+            }
+          ]
+        },
+        {
+          "category": "ALSO AN ANIMAL SOUND",
+          "value": 500,
+          "clue": "Players of this instrument \"are just belligerent, and cocky, and you know just hard-headed\" according to Wynton Marsalis",
+          "answer": "the trumpet",
+          "isDailyDouble": false,
+          "orderNumber": 5,
+          "correctContestants": [
+            "Mark"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mark",
+              "score": 700
+            },
+            {
+              "player": "emilY",
+              "score": -400
+            },
+            {
+              "player": "Utkarsh",
+              "score": 500
+            }
+          ]
+        },
+        {
+          "category": "ALSO AN ANIMAL SOUND",
+          "value": 400,
+          "clue": "This word follows Chesapeake, Hudson and Guantanamo in the names of bodies of water",
+          "answer": "bay",
+          "isDailyDouble": false,
+          "orderNumber": 6,
+          "correctContestants": [
+            "Utkarsh"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mark",
+              "score": 700
+            },
+            {
+              "player": "emilY",
+              "score": -400
+            },
+            {
+              "player": "Utkarsh",
+              "score": 900
+            }
+          ]
+        },
+        {
+          "category": "BIG-SCREEN BASKETBALL",
+          "value": 400,
+          "clue": "Is there anything Denzel Washington can't do?! Turns out he's even good at basketball, as seen in this 1998 joint",
+          "answer": "He Got Game",
+          "isDailyDouble": false,
+          "orderNumber": 7,
+          "correctContestants": [
+            "Utkarsh"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mark",
+              "score": 700
+            },
+            {
+              "player": "emilY",
+              "score": -400
+            },
+            {
+              "player": "Utkarsh",
+              "score": 1300
+            }
+          ]
+        },
+        {
+          "category": "BIG-SCREEN BASKETBALL",
+          "value": 500,
+          "clue": "Roger Ebert called this 1994 doc the best film of the 1990s, & \"one of the great moviegoing experiences of my lifetime\"",
+          "answer": "Hoop Dreams",
+          "isDailyDouble": false,
+          "orderNumber": 8,
+          "correctContestants": [
+            "Mark"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mark",
+              "score": 1200
+            },
+            {
+              "player": "emilY",
+              "score": -400
+            },
+            {
+              "player": "Utkarsh",
+              "score": 1300
+            }
+          ]
+        },
+        {
+          "category": "BIG-SCREEN BASKETBALL",
+          "value": 300,
+          "clue": "The title of 2020 documentary \"The Last Dance\" comes from words emblazoned on the front of this team's 1997-98 playbook",
+          "answer": "the Chicago Bulls",
+          "isDailyDouble": false,
+          "orderNumber": 9,
+          "correctContestants": [
+            "Mark"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mark",
+              "score": 1500
+            },
+            {
+              "player": "emilY",
+              "score": -400
+            },
+            {
+              "player": "Utkarsh",
+              "score": 1300
+            }
+          ]
+        },
+        {
+          "category": "HEY! THAT'S NOT AN ELEMENT!",
+          "value": 500,
+          "clue": "Germanium,italium,francium",
+          "answer": "italium",
+          "isDailyDouble": false,
+          "orderNumber": 10,
+          "correctContestants": [
+            "Mark"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mark",
+              "score": 2000
+            },
+            {
+              "player": "emilY",
+              "score": -400
+            },
+            {
+              "player": "Utkarsh",
+              "score": 1300
+            }
+          ]
+        },
+        {
+          "category": "OUI, OUI, HISTORY",
+          "value": 100,
+          "clue": "A children's book tells of how this emperor met his \"Bunnyloo\" in 1807 when he was forced to flee an attacking pack of rabbits",
+          "answer": "Napoleon",
+          "isDailyDouble": false,
+          "orderNumber": 11,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Mark",
+              "score": 2000
+            },
+            {
+              "player": "emilY",
+              "score": -400
+            },
+            {
+              "player": "Utkarsh",
+              "score": 1300
+            }
+          ]
+        },
+        {
+          "category": "ALSO AN ANIMAL SOUND",
+          "value": 300,
+          "clue": "A Dutch term for a seller of ineffective medicines led to this word for an incompetent physician",
+          "answer": "a quack",
+          "isDailyDouble": false,
+          "orderNumber": 12,
+          "correctContestants": [
+            "Utkarsh"
+          ],
+          "incorrectContestants": [
+            "Mark"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mark",
+              "score": 1700
+            },
+            {
+              "player": "emilY",
+              "score": -400
+            },
+            {
+              "player": "Utkarsh",
+              "score": 1600
+            }
+          ]
+        },
+        {
+          "category": "CHICKEN FIVE WAYS",
+          "value": 400,
+          "clue": "For a flavorful chicken Marsala, chefs recommend using real Marsala, a fortified wine made on this Italian island",
+          "answer": "Sicily",
+          "isDailyDouble": false,
+          "orderNumber": 13,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "emilY"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Mark",
+              "score": 1700
+            },
+            {
+              "player": "emilY",
+              "score": -800
+            },
+            {
+              "player": "Utkarsh",
+              "score": 1600
+            }
+          ]
+        },
+        {
+          "category": "ANTS",
+          "value": 500,
+          "clue": "Ants crawl on a seemingly infinite loop in this Dutch artist's 1963 work \"Möbius Strip II\"",
+          "answer": "M.C. Escher",
+          "isDailyDouble": false,
+          "orderNumber": 14,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Mark",
+              "score": 1700
+            },
+            {
+              "player": "emilY",
+              "score": -800
+            },
+            {
+              "player": "Utkarsh",
+              "score": 1600
+            }
+          ]
+        },
+        {
+          "category": "BIG-SCREEN BASKETBALL",
+          "value": 200,
+          "clue": "1997.Five words: state championship clinched by dog",
+          "answer": "Air Bud",
+          "isDailyDouble": false,
+          "orderNumber": 15,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Mark",
+              "score": 1700
+            },
+            {
+              "player": "emilY",
+              "score": -800
+            },
+            {
+              "player": "Utkarsh",
+              "score": 1600
+            }
+          ]
+        },
+        {
+          "category": "ANTS",
+          "value": 400,
+          "clue": "Offering a 60th ant-iversary version in 2016, Uncle Milton has sold tens of millions of these instructive toys since 1956",
+          "answer": "ant farms",
+          "isDailyDouble": false,
+          "orderNumber": 16,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Mark",
+              "score": 1700
+            },
+            {
+              "player": "emilY",
+              "score": -800
+            },
+            {
+              "player": "Utkarsh",
+              "score": 1600
+            }
+          ]
+        },
+        {
+          "category": "OUI, OUI, HISTORY",
+          "value": 500,
+          "clue": "The peace treaty that ended World War I was signed here, in this stately residence's Hall of Mirrors",
+          "answer": "Versailles",
+          "isDailyDouble": false,
+          "orderNumber": 17,
+          "correctContestants": [
+            "Mark"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mark",
+              "score": 2200
+            },
+            {
+              "player": "emilY",
+              "score": -800
+            },
+            {
+              "player": "Utkarsh",
+              "score": 1600
+            }
+          ]
+        },
+        {
+          "category": "HEY! THAT'S NOT AN ELEMENT!",
+          "value": 400,
+          "clue": "Gold,silver,bronze",
+          "answer": "bronze",
+          "isDailyDouble": false,
+          "orderNumber": 18,
+          "correctContestants": [
+            "Mark"
+          ],
+          "incorrectContestants": [
+            "Utkarsh"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mark",
+              "score": 2600
+            },
+            {
+              "player": "emilY",
+              "score": -800
+            },
+            {
+              "player": "Utkarsh",
+              "score": 1200
+            }
+          ]
+        },
+        {
+          "category": "CHICKEN FIVE WAYS",
+          "value": 300,
+          "clue": "A debate that continues to tear the country apart: should chicken wings come with a side of blue cheese or this dressing",
+          "answer": "ranch",
+          "isDailyDouble": false,
+          "orderNumber": 19,
+          "correctContestants": [
+            "Mark"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mark",
+              "score": 2900
+            },
+            {
+              "player": "emilY",
+              "score": -800
+            },
+            {
+              "player": "Utkarsh",
+              "score": 1200
+            }
+          ]
+        },
+        {
+          "category": "BIG-SCREEN BASKETBALL",
+          "value": 100,
+          "clue": "This former \"Cheers\" bartender is the white man who jumps in \"White Men Can't Jump\"",
+          "answer": "Woody Harrelson",
+          "isDailyDouble": false,
+          "orderNumber": 20,
+          "correctContestants": [
+            "Mark"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mark",
+              "score": 3000
+            },
+            {
+              "player": "emilY",
+              "score": -800
+            },
+            {
+              "player": "Utkarsh",
+              "score": 1200
+            }
+          ]
+        },
+        {
+          "category": "ANTS",
+          "value": 300,
+          "clue": "If you can't make it to the Houston Zoo, check out these types of ants on the zoo's live webcam",
+          "answer": "leaf cutter ants",
+          "isDailyDouble": false,
+          "orderNumber": 21,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Mark",
+            "emilY",
+            "Utkarsh"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Mark",
+              "score": 2700
+            },
+            {
+              "player": "emilY",
+              "score": -1100
+            },
+            {
+              "player": "Utkarsh",
+              "score": 900
+            }
+          ]
+        },
+        {
+          "category": "ALSO AN ANIMAL SOUND",
+          "value": 200,
+          "clue": "To make natural rubber, start by collecting latex by cutting slits in this layer of the rubber tree",
+          "answer": "the bark",
+          "isDailyDouble": false,
+          "orderNumber": 22,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Mark",
+              "score": 2700
+            },
+            {
+              "player": "emilY",
+              "score": -1100
+            },
+            {
+              "player": "Utkarsh",
+              "score": 900
+            }
+          ]
+        },
+        {
+          "category": "ALSO AN ANIMAL SOUND",
+          "value": 100,
+          "clue": "The very first of these microblogging posts was sent by company cofounder Jack Dorsey on March 21, 2006",
+          "answer": "a tweet",
+          "isDailyDouble": false,
+          "orderNumber": 23,
+          "correctContestants": [
+            "Utkarsh"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mark",
+              "score": 2700
+            },
+            {
+              "player": "emilY",
+              "score": -1100
+            },
+            {
+              "player": "Utkarsh",
+              "score": 1000
+            }
+          ]
+        },
+        {
+          "category": "OUI, OUI, HISTORY",
+          "value": 1000,
+          "clue": "After being given the key to this prison overthrown in 1789, the Marquis de Lafayette re-gifted it to his pal George Washington",
+          "answer": "the Bastille",
+          "isDailyDouble": true,
+          "orderNumber": 24,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Utkarsh"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mark",
+              "score": 2700
+            },
+            {
+              "player": "emilY",
+              "score": -1100
+            },
+            {
+              "player": "Utkarsh",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "HEY! THAT'S NOT AN ELEMENT!",
+          "value": 300,
+          "clue": "Californium,floridium,tennessine",
+          "answer": "floridium",
+          "isDailyDouble": false,
+          "orderNumber": 25,
+          "correctContestants": [
+            "Utkarsh"
+          ],
+          "incorrectContestants": [
+            "Mark",
+            "emilY"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mark",
+              "score": 2400
+            },
+            {
+              "player": "emilY",
+              "score": -1400
+            },
+            {
+              "player": "Utkarsh",
+              "score": 300
+            }
+          ]
+        },
+        {
+          "category": "CHICKEN FIVE WAYS",
+          "value": 200,
+          "clue": "Said to have been invented in Glasgow in the 1970s, this spiced Indian curry is often called a national dish of Britain",
+          "answer": "chicken tikka masala",
+          "isDailyDouble": false,
+          "orderNumber": 26,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Mark",
+            "emilY",
+            "Utkarsh"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Mark",
+              "score": 2200
+            },
+            {
+              "player": "emilY",
+              "score": -1600
+            },
+            {
+              "player": "Utkarsh",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "category": "ANTS",
+          "value": 200,
+          "clue": "Considered a delicacy by the Aztecs, escamoles, or ant larvae, is a dish that originated in this country",
+          "answer": "Mexico",
+          "isDailyDouble": false,
+          "orderNumber": 27,
+          "correctContestants": [
+            "Utkarsh"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mark",
+              "score": 2200
+            },
+            {
+              "player": "emilY",
+              "score": -1600
+            },
+            {
+              "player": "Utkarsh",
+              "score": 300
+            }
+          ]
+        },
+        {
+          "category": "HEY! THAT'S NOT AN ELEMENT!",
+          "value": 100,
+          "clue": "Einsteinium,curium,snookium",
+          "answer": "snookium",
+          "isDailyDouble": false,
+          "orderNumber": 28,
+          "correctContestants": [
+            "Utkarsh"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mark",
+              "score": 2200
+            },
+            {
+              "player": "emilY",
+              "score": -1600
+            },
+            {
+              "player": "Utkarsh",
+              "score": 400
+            }
+          ]
+        },
+        {
+          "category": "OUI, OUI, HISTORY",
+          "value": 300,
+          "clue": "Known for her lavish spending sprees, this wife of Louis XVI must've lost her head after being nicknamed \"Madame Deficit\"",
+          "answer": "Marie Antoinette",
+          "isDailyDouble": false,
+          "orderNumber": 29,
+          "correctContestants": [
+            "Mark"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mark",
+              "score": 2500
+            },
+            {
+              "player": "emilY",
+              "score": -1600
+            },
+            {
+              "player": "Utkarsh",
+              "score": 400
+            }
+          ]
+        },
+        {
+          "category": "OUI, OUI, HISTORY",
+          "value": 200,
+          "clue": "Constructed for the 1889 World's Fair, this iconic structure was originally scheduled to be torn down by 1910",
+          "answer": "the Eiffel Tower",
+          "isDailyDouble": false,
+          "orderNumber": 30,
+          "correctContestants": [
+            "emilY"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mark",
+              "score": 2500
+            },
+            {
+              "player": "emilY",
+              "score": -1400
+            },
+            {
+              "player": "Utkarsh",
+              "score": 400
+            }
+          ]
+        }
+      ],
+      "firstBreakScores": [
+        {
+          "player": "Mark",
+          "score": 1700
+        },
+        {
+          "player": "emilY",
+          "score": -800
+        },
+        {
+          "player": "Utkarsh",
+          "score": 1600
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "Mark",
+          "score": 2500
+        },
+        {
+          "player": "emilY",
+          "score": -1400
+        },
+        {
+          "player": "Utkarsh",
+          "score": 400
+        }
+      ]
+    },
+    "doubleJeopardy": {
+      "categories": [
+        "RANDOM U.S. STATE FACTS",
+        "POST-APOCALYPTIC POP CULTURE",
+        "OUT OF BREATH",
+        "BOOK DEDICATIONS",
+        "MEDITATION",
+        "FROM Z TO A"
+      ],
+      "clues": [
+        {
+          "category": "FROM Z TO A",
+          "value": 200,
+          "clue": "A football referee gets this animal-inspired nickname thanks to the standard black & white striped uniform",
+          "answer": "a zebra",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mark",
+              "score": 2500
+            },
+            {
+              "player": "emilY",
+              "score": -1400
+            },
+            {
+              "player": "Utkarsh",
+              "score": 600
+            }
+          ]
+        },
+        {
+          "category": "POST-APOCALYPTIC POP CULTURE",
+          "value": 200,
+          "clue": "Will Smith was so smitten with his canine co-star in this 2007 film that he wanted to adopt her",
+          "answer": "I Am Legend",
+          "isDailyDouble": false,
+          "orderNumber": 2,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mark",
+              "score": 2500
+            },
+            {
+              "player": "emilY",
+              "score": -1400
+            },
+            {
+              "player": "Utkarsh",
+              "score": 800
+            }
+          ]
+        },
+        {
+          "category": "POST-APOCALYPTIC POP CULTURE",
+          "value": 400,
+          "clue": "In his first-ever TV interview, Cormac McCarthy sat down with Oprah Winfrey after she selected this bleak novel for her book club",
+          "answer": "The Road",
+          "isDailyDouble": false,
+          "orderNumber": 3,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mark",
+              "score": 2500
+            },
+            {
+              "player": "emilY",
+              "score": -1800
+            },
+            {
+              "player": "Utkarsh",
+              "score": 1200
+            }
+          ]
+        },
+        {
+          "category": "POST-APOCALYPTIC POP CULTURE",
+          "value": 600,
+          "clue": "Over 11 total seasons of \"The Walking Dead\", this \"Z\" word was surprisingly never used by a character",
+          "answer": "zombie",
+          "isDailyDouble": false,
+          "orderNumber": 4,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mark",
+              "score": 3100
+            },
+            {
+              "player": "emilY",
+              "score": -1800
+            },
+            {
+              "player": "Utkarsh",
+              "score": 1200
+            }
+          ]
+        },
+        {
+          "category": "RANDOM U.S. STATE FACTS",
+          "value": 1000,
+          "clue": "One of this state's claims to fame is being first with a moving assembly line for manufacturing an entire car",
+          "answer": "Michigan",
+          "isDailyDouble": false,
+          "orderNumber": 5,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mark",
+              "score": 4100
+            },
+            {
+              "player": "emilY",
+              "score": -1800
+            },
+            {
+              "player": "Utkarsh",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "RANDOM U.S. STATE FACTS",
+          "value": 800,
+          "clue": "Massachusetts and Virginia are two of four states that have this word in their official names",
+          "answer": "Commonwealth",
+          "isDailyDouble": false,
+          "orderNumber": 6,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mark",
+              "score": 4100
+            },
+            {
+              "player": "emilY",
+              "score": -1800
+            },
+            {
+              "player": "Utkarsh",
+              "score": 1000
+            }
+          ]
+        },
+        {
+          "category": "POST-APOCALYPTIC POP CULTURE",
+          "value": 800,
+          "clue": "Moviegoers were snack-shamed for chewing popcorn too loudly during this mostly silent film directed by John Krasinski",
+          "answer": "A Quiet Place",
+          "isDailyDouble": false,
+          "orderNumber": 7,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mark",
+              "score": 4100
+            },
+            {
+              "player": "emilY",
+              "score": -1800
+            },
+            {
+              "player": "Utkarsh",
+              "score": 1800
+            }
+          ]
+        },
+        {
+          "category": "POST-APOCALYPTIC POP CULTURE",
+          "value": 1000,
+          "clue": "Kevin Costner starred in two post-apocalyptic films in the 1990s: \"Waterworld\" and this misfire about a nameless drifter",
+          "answer": "The Postman",
+          "isDailyDouble": false,
+          "orderNumber": 8,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mark",
+              "score": 5100
+            },
+            {
+              "player": "emilY",
+              "score": -1800
+            },
+            {
+              "player": "Utkarsh",
+              "score": 1800
+            }
+          ]
+        },
+        {
+          "category": "FROM Z TO A",
+          "value": 1000,
+          "clue": "This fitness program began when an aerobics instructor swapped out his usual music with salsa & merengue songs",
+          "answer": "Zumba",
+          "isDailyDouble": false,
+          "orderNumber": 9,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mark",
+              "score": 6100
+            },
+            {
+              "player": "emilY",
+              "score": -1800
+            },
+            {
+              "player": "Utkarsh",
+              "score": 1800
+            }
+          ]
+        },
+        {
+          "category": "FROM Z TO A",
+          "value": 800,
+          "clue": "Last name of the musician who had kids named Moon Unit, Dweezil, Ahmet & Diva",
+          "answer": "Zappa",
+          "isDailyDouble": false,
+          "orderNumber": 10,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mark",
+              "score": 6900
+            },
+            {
+              "player": "emilY",
+              "score": -1800
+            },
+            {
+              "player": "Utkarsh",
+              "score": 1800
+            }
+          ]
+        },
+        {
+          "category": "FROM Z TO A",
+          "value": 600,
+          "clue": "In a classic 1986 Nintendo game, Link tries to rescue this title princess from Ganon",
+          "answer": "Zelda",
+          "isDailyDouble": false,
+          "orderNumber": 11,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mark",
+              "score": 6900
+            },
+            {
+              "player": "emilY",
+              "score": -1800
+            },
+            {
+              "player": "Utkarsh",
+              "score": 2400
+            }
+          ]
+        },
+        {
+          "category": "FROM Z TO A",
+          "value": 400,
+          "clue": "You'd say this four-letter word while reciting the Greek alphabet, or, when greeting Michael Douglas' wife",
+          "answer": "zeta",
+          "isDailyDouble": false,
+          "orderNumber": 12,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mark",
+              "score": 6900
+            },
+            {
+              "player": "emilY",
+              "score": -1800
+            },
+            {
+              "player": "Utkarsh",
+              "score": 2800
+            }
+          ]
+        },
+        {
+          "category": "MEDITATION",
+          "value": 200,
+          "clue": "Consistent meditation practice has been shown to shrink the amygdala, known as the \"fight or flight\" center of this organ",
+          "answer": "the brain",
+          "isDailyDouble": false,
+          "orderNumber": 13,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mark",
+              "score": 6900
+            },
+            {
+              "player": "emilY",
+              "score": -1800
+            },
+            {
+              "player": "Utkarsh",
+              "score": 3000
+            }
+          ]
+        },
+        {
+          "category": "MEDITATION",
+          "value": 400,
+          "clue": "\"The Atlantic\" described this 4-letter meditation app as \"one of the most popular apps in existence, full stop\"",
+          "answer": "Calm",
+          "isDailyDouble": false,
+          "orderNumber": 14,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Mark",
+              "score": 6900
+            },
+            {
+              "player": "emilY",
+              "score": -2200
+            },
+            {
+              "player": "Utkarsh",
+              "score": 3000
+            }
+          ]
+        },
+        {
+          "category": "OUT OF BREATH",
+          "value": 200,
+          "clue": "In a typical human body, this organ beats about 100,000 times per day",
+          "answer": "heart",
+          "isDailyDouble": false,
+          "orderNumber": 15,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mark",
+              "score": 6900
+            },
+            {
+              "player": "emilY",
+              "score": -2000
+            },
+            {
+              "player": "Utkarsh",
+              "score": 3000
+            }
+          ]
+        },
+        {
+          "category": "RANDOM U.S. STATE FACTS",
+          "value": 200,
+          "clue": "The state with the most counties east of the Mississippi is this one, also the biggest U.S. peanut producer",
+          "answer": "Georgia",
+          "isDailyDouble": false,
+          "orderNumber": 16,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mark",
+              "score": 7100
+            },
+            {
+              "player": "emilY",
+              "score": -2000
+            },
+            {
+              "player": "Utkarsh",
+              "score": 3000
+            }
+          ]
+        },
+        {
+          "category": "OUT OF BREATH",
+          "value": 2500,
+          "clue": "As Taylor Swift knows all too well, this type of person has an intense dislike of something",
+          "answer": "hater",
+          "isDailyDouble": true,
+          "orderNumber": 17,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mark",
+              "score": 9600
+            },
+            {
+              "player": "emilY",
+              "score": -2000
+            },
+            {
+              "player": "Utkarsh",
+              "score": 3000
+            }
+          ]
+        },
+        {
+          "category": "OUT OF BREATH",
+          "value": 800,
+          "clue": "During World War I, Germany deployed a massive, fort-demolishing howitzer nicknamed Big this",
+          "answer": "Bertha",
+          "isDailyDouble": false,
+          "orderNumber": 18,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mark",
+              "score": 9600
+            },
+            {
+              "player": "emilY",
+              "score": -2000
+            },
+            {
+              "player": "Utkarsh",
+              "score": 3800
+            }
+          ]
+        },
+        {
+          "category": "MEDITATION",
+          "value": 600,
+          "clue": "\"Om\" is a familiar example of one of these, a word or phrase repeated over & over as the focal point for a meditation",
+          "answer": "a mantra",
+          "isDailyDouble": false,
+          "orderNumber": 19,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mark",
+              "score": 9600
+            },
+            {
+              "player": "emilY",
+              "score": -2000
+            },
+            {
+              "player": "Utkarsh",
+              "score": 4400
+            }
+          ]
+        },
+        {
+          "category": "MEDITATION",
+          "value": 800,
+          "clue": "Time magazine once called this meditation guru \"the poet prophet of alternative medicine\"",
+          "answer": "Deepak Chopra",
+          "isDailyDouble": false,
+          "orderNumber": 20,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mark",
+              "score": 9600
+            },
+            {
+              "player": "emilY",
+              "score": -2000
+            },
+            {
+              "player": "Utkarsh",
+              "score": 5200
+            }
+          ]
+        },
+        {
+          "category": "MEDITATION",
+          "value": 1000,
+          "clue": "A state of attention often cited as the goal of meditation practice; it's loosely defined as \"being present in the moment\"",
+          "answer": "mindfulness",
+          "isDailyDouble": false,
+          "orderNumber": 21,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mark",
+              "score": 9600
+            },
+            {
+              "player": "emilY",
+              "score": -2000
+            },
+            {
+              "player": "Utkarsh",
+              "score": 6200
+            }
+          ]
+        },
+        {
+          "category": "OUT OF BREATH",
+          "value": 400,
+          "clue": "It's the only planet in our solar system whose name is not derived from Greek or Roman mythology",
+          "answer": "Earth",
+          "isDailyDouble": false,
+          "orderNumber": 22,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mark",
+              "score": 9600
+            },
+            {
+              "player": "emilY",
+              "score": -2000
+            },
+            {
+              "player": "Utkarsh",
+              "score": 6600
+            }
+          ]
+        },
+        {
+          "category": "OUT OF BREATH",
+          "value": 600,
+          "clue": "According to a 2006 song, when they tried to make Amy Winehouse go here, she said \"no, no, no\"",
+          "answer": "\"Rehab\"",
+          "isDailyDouble": false,
+          "orderNumber": 23,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mark",
+              "score": 10200
+            },
+            {
+              "player": "emilY",
+              "score": -2000
+            },
+            {
+              "player": "Utkarsh",
+              "score": 6600
+            }
+          ]
+        },
+        {
+          "category": "BOOK DEDICATIONS",
+          "value": 400,
+          "clue": "Can we talk? This comic legend dedicated her 2014 autobiography to Kanye West, \"because he'll never ...... read it\"",
+          "answer": "Joan Rivers",
+          "isDailyDouble": false,
+          "orderNumber": 24,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Mark",
+              "score": 10200
+            },
+            {
+              "player": "emilY",
+              "score": -2000
+            },
+            {
+              "player": "Utkarsh",
+              "score": 6600
+            }
+          ]
+        },
+        {
+          "category": "BOOK DEDICATIONS",
+          "value": 2000,
+          "clue": "This author of \"The Fountainhead\" dedicated 1957's \"Atlas Shrugged\" to 2 different men: her husband and her lover",
+          "answer": "Ayn Rand",
+          "isDailyDouble": true,
+          "orderNumber": 25,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mark",
+              "score": 12200
+            },
+            {
+              "player": "emilY",
+              "score": -2000
+            },
+            {
+              "player": "Utkarsh",
+              "score": 6600
+            }
+          ]
+        },
+        {
+          "category": "BOOK DEDICATIONS",
+          "value": 800,
+          "clue": "She dedicated 1946's \"The Hollow\" to \"Larry & Danae, with apologies for using their swimming pool as the scene of a murder\"",
+          "answer": "Agatha Christie",
+          "isDailyDouble": false,
+          "orderNumber": 26,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mark",
+              "score": 13000
+            },
+            {
+              "player": "emilY",
+              "score": -2000
+            },
+            {
+              "player": "Utkarsh",
+              "score": 6600
+            }
+          ]
+        },
+        {
+          "category": "BOOK DEDICATIONS",
+          "value": 1000,
+          "clue": "Toni Morrison dedicated this masterpiece to \"sixty million and more\"--the number of African victims claimed by slavery",
+          "answer": "Beloved",
+          "isDailyDouble": false,
+          "orderNumber": 27,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mark",
+              "score": 14000
+            },
+            {
+              "player": "emilY",
+              "score": -2000
+            },
+            {
+              "player": "Utkarsh",
+              "score": 6600
+            }
+          ]
+        },
+        {
+          "category": "BOOK DEDICATIONS",
+          "value": 200,
+          "clue": "Morbidly true to form, Lemony Snicket dedicates the first book in this Y.A. series \"to Beatrice -- darling, dearest, dead\"",
+          "answer": "A Series of Unfortunate Events",
+          "isDailyDouble": false,
+          "orderNumber": 28,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mark",
+              "score": 14000
+            },
+            {
+              "player": "emilY",
+              "score": -2000
+            },
+            {
+              "player": "Utkarsh",
+              "score": 6800
+            }
+          ]
+        },
+        {
+          "category": "RANDOM U.S. STATE FACTS",
+          "value": 400,
+          "clue": "California closes down state offices on March 31, the day honoring this labor leader",
+          "answer": "Cesar Chavez",
+          "isDailyDouble": false,
+          "orderNumber": 29,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mark",
+              "score": 14400
+            },
+            {
+              "player": "emilY",
+              "score": -2000
+            },
+            {
+              "player": "Utkarsh",
+              "score": 6800
+            }
+          ]
+        },
+        {
+          "category": "RANDOM U.S. STATE FACTS",
+          "value": 600,
+          "clue": "Yeehaw! Paniolos are Hawaii's equivalent of these workers, also the name of a Texas pro sport team",
+          "answer": "cowboys",
+          "isDailyDouble": false,
+          "orderNumber": 30,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Mark",
+              "score": 14400
+            },
+            {
+              "player": "emilY",
+              "score": -2600
+            },
+            {
+              "player": "Utkarsh",
+              "score": 6800
+            }
+          ]
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "Mark",
+          "score": 14400
+        },
+        {
+          "player": "emilY",
+          "score": -2600
+        },
+        {
+          "player": "Utkarsh",
+          "score": 6800
+        }
+      ]
+    },
+    "finalJeopardy": {
+      "category": "ASTRONOMY",
+      "clue": "Discovered in the '60s and '70s, Cygnus X-1 was the first of these light-trapping gravitational bodies to be identified",
+      "answer": "black holes",
+      "responses": [
+        {
+          "contestant": "emilY",
+          "response": "What is stars?",
+          "isCorrect": false,
+          "isIncorrect": true,
+          "value": 500,
+          "finalScore": -3100
+        },
+        {
+          "contestant": "Mark",
+          "response": "What is a black hole? Hi Ora & Molly",
+          "isCorrect": true,
+          "isIncorrect": false,
+          "value": 15097,
+          "finalScore": 29497
+        },
+        {
+          "contestant": "Utkarsh",
+          "response": "What is a black hole?",
+          "isCorrect": true,
+          "isIncorrect": false,
+          "value": 9101,
+          "finalScore": 15901
+        }
+      ]
+    }
+  },
+  "finalScores": [
+    {
+      "player": "Mark",
+      "score": "$30,197"
+    },
+    {
+      "player": "emilY",
+      "score": "$0"
+    },
+    {
+      "player": "Utkarsh",
+      "score": "$30,201"
+    }
+  ],
+  "coryatScores": [
+    {
+      "player": "Mark",
+      "score": 17200
+    },
+    {
+      "player": "emilY",
+      "score": -1100
+    },
+    {
+      "player": "Utkarsh",
+      "score": 18000
+    }
+  ]
+}

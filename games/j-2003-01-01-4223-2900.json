@@ -1,0 +1,1696 @@
+{
+  "gameId": 2900,
+  "showNumber": "4223",
+  "title": "Show #4223 - Wednesday, January 1, 2003",
+  "date": "2003-01-01",
+  "comments": "",
+  "contestants": [
+    "Brandon",
+    "Jeff",
+    "Desi"
+  ],
+  "rounds": {
+    "jeopardy": {
+      "categories": [
+        "PHILADELPHIA FREEDOM",
+        "ROCKET MAN",
+        "DANIEL",
+        "DON'T GO BREAKING MY HEART",
+        "HONKY \"CAT\"",
+        "ELTON JOHN"
+      ],
+      "clues": [
+        {
+          "category": "PHILADELPHIA FREEDOM",
+          "value": 200,
+          "clue": "From the Greek meaning of its name, Philadelphia is nicknamed \"The City of\" this",
+          "answer": "Brotherly Love",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [
+            "Jeff"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Brandon",
+              "score": 0
+            },
+            {
+              "player": "Jeff",
+              "score": 200
+            },
+            {
+              "player": "Desi",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "PHILADELPHIA FREEDOM",
+          "value": 100,
+          "clue": "This place on 5th & Arch St. makes hundreds of millions of dollars each year",
+          "answer": "the U.S. Mint",
+          "isDailyDouble": true,
+          "orderNumber": 2,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Jeff"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Brandon",
+              "score": 0
+            },
+            {
+              "player": "Jeff",
+              "score": 100
+            },
+            {
+              "player": "Desi",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "ROCKET MAN",
+          "value": 200,
+          "clue": "In 2002 shuttle mission specialist Jerry Ross became the first man to be launched into space this lucky number of times",
+          "answer": "7",
+          "isDailyDouble": false,
+          "orderNumber": 3,
+          "correctContestants": [
+            "Jeff"
+          ],
+          "incorrectContestants": [
+            "Brandon"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Brandon",
+              "score": -200
+            },
+            {
+              "player": "Jeff",
+              "score": 300
+            },
+            {
+              "player": "Desi",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "DANIEL",
+          "value": 200,
+          "clue": "For refusing to pray to King Darius, Daniel was thrown into this, but was unharmed",
+          "answer": "the lions' den",
+          "isDailyDouble": false,
+          "orderNumber": 4,
+          "correctContestants": [
+            "Brandon"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Brandon",
+              "score": 0
+            },
+            {
+              "player": "Jeff",
+              "score": 300
+            },
+            {
+              "player": "Desi",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "PHILADELPHIA FREEDOM",
+          "value": 600,
+          "clue": "It may ring a bell that it was in this building that the Articles of Confederation were ratified in 1781",
+          "answer": "Independence Hall",
+          "isDailyDouble": false,
+          "orderNumber": 5,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Brandon",
+            "Desi"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Brandon",
+              "score": -600
+            },
+            {
+              "player": "Jeff",
+              "score": 300
+            },
+            {
+              "player": "Desi",
+              "score": -600
+            }
+          ]
+        },
+        {
+          "category": "PHILADELPHIA FREEDOM",
+          "value": 800,
+          "clue": "Mount Pleasant, a colonial mansion in Fairmont Park, once belonged to this traitor",
+          "answer": "Benedict Arnold",
+          "isDailyDouble": false,
+          "orderNumber": 6,
+          "correctContestants": [
+            "Jeff"
+          ],
+          "incorrectContestants": [
+            "Desi"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Brandon",
+              "score": -600
+            },
+            {
+              "player": "Jeff",
+              "score": 1100
+            },
+            {
+              "player": "Desi",
+              "score": -1400
+            }
+          ]
+        },
+        {
+          "category": "ROCKET MAN",
+          "value": 400,
+          "clue": "Alexei Leonov said he was given a pill to help him do this in case he couldn't get back in Voskhod after the spacewalk",
+          "answer": "commit suicide",
+          "isDailyDouble": false,
+          "orderNumber": 7,
+          "correctContestants": [
+            "Brandon"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Brandon",
+              "score": -200
+            },
+            {
+              "player": "Jeff",
+              "score": 1100
+            },
+            {
+              "player": "Desi",
+              "score": -1400
+            }
+          ]
+        },
+        {
+          "category": "ROCKET MAN",
+          "value": 600,
+          "clue": "His job as a test subject for space sickness on a 1985 shuttle flight got him dubbed \"Barfin' Jake\" in \"Doonesbury\"",
+          "answer": "Senator Jake Garn",
+          "isDailyDouble": false,
+          "orderNumber": 8,
+          "correctContestants": [
+            "Brandon"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Brandon",
+              "score": 400
+            },
+            {
+              "player": "Jeff",
+              "score": 1100
+            },
+            {
+              "player": "Desi",
+              "score": -1400
+            }
+          ]
+        },
+        {
+          "category": "ROCKET MAN",
+          "value": 800,
+          "clue": "The first non-Russian & non-American in space, Vladimir Remek, was from this country that broke up in 1993",
+          "answer": "Czechoslovakia",
+          "isDailyDouble": false,
+          "orderNumber": 9,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Brandon",
+              "score": 400
+            },
+            {
+              "player": "Jeff",
+              "score": 1100
+            },
+            {
+              "player": "Desi",
+              "score": -1400
+            }
+          ]
+        },
+        {
+          "category": "ROCKET MAN",
+          "value": 1000,
+          "clue": "After his splashdown 250 miles from the pick-up ship May 24, 1962, he never flew in space again",
+          "answer": "Scott Carpenter",
+          "isDailyDouble": false,
+          "orderNumber": 10,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Jeff"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Brandon",
+              "score": 400
+            },
+            {
+              "player": "Jeff",
+              "score": 100
+            },
+            {
+              "player": "Desi",
+              "score": -1400
+            }
+          ]
+        },
+        {
+          "category": "PHILADELPHIA FREEDOM",
+          "value": 1000,
+          "clue": "Here's a \"Thinker\": a Philadelphia museum houses the largest collection of his work outside of Paris",
+          "answer": "Auguste Rodin",
+          "isDailyDouble": false,
+          "orderNumber": 11,
+          "correctContestants": [
+            "Brandon"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Brandon",
+              "score": 1400
+            },
+            {
+              "player": "Jeff",
+              "score": 100
+            },
+            {
+              "player": "Desi",
+              "score": -1400
+            }
+          ]
+        },
+        {
+          "category": "DANIEL",
+          "value": 400,
+          "clue": "In Chapter 9, Daniel prays to God for an end to the desolation of this city, \"thy holy mountain\"",
+          "answer": "Jerusalem",
+          "isDailyDouble": false,
+          "orderNumber": 12,
+          "correctContestants": [
+            "Jeff"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Brandon",
+              "score": 1400
+            },
+            {
+              "player": "Jeff",
+              "score": 500
+            },
+            {
+              "player": "Desi",
+              "score": -1400
+            }
+          ]
+        },
+        {
+          "category": "DANIEL",
+          "value": 600,
+          "clue": "The name Daniel is from the Hebrew for \"God is my\" this; Deborah was one",
+          "answer": "judge",
+          "isDailyDouble": false,
+          "orderNumber": 13,
+          "correctContestants": [
+            "Jeff"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Brandon",
+              "score": 1400
+            },
+            {
+              "player": "Jeff",
+              "score": 1100
+            },
+            {
+              "player": "Desi",
+              "score": -1400
+            }
+          ]
+        },
+        {
+          "category": "HONKY \"CAT\"",
+          "value": 200,
+          "clue": "Tiffany published its first one of these in 1845 (online shopping came a little later)",
+          "answer": "catalog",
+          "isDailyDouble": false,
+          "orderNumber": 14,
+          "correctContestants": [
+            "Brandon"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Brandon",
+              "score": 1600
+            },
+            {
+              "player": "Jeff",
+              "score": 1100
+            },
+            {
+              "player": "Desi",
+              "score": -1400
+            }
+          ]
+        },
+        {
+          "category": "DON'T GO BREAKING MY HEART",
+          "value": 200,
+          "clue": "If your fiance doesn't show up at the church & moves to Tahiti alone, you've been \"left\" at this location",
+          "answer": "the altar",
+          "isDailyDouble": false,
+          "orderNumber": 15,
+          "correctContestants": [
+            "Brandon"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Brandon",
+              "score": 1800
+            },
+            {
+              "player": "Jeff",
+              "score": 1100
+            },
+            {
+              "player": "Desi",
+              "score": -1400
+            }
+          ]
+        },
+        {
+          "category": "DON'T GO BREAKING MY HEART",
+          "value": 400,
+          "clue": "On a 2002 TV series, \"The Bachelor\" rejected women by not offering them one of these",
+          "answer": "rose",
+          "isDailyDouble": false,
+          "orderNumber": 16,
+          "correctContestants": [
+            "Jeff"
+          ],
+          "incorrectContestants": [
+            "Desi"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Brandon",
+              "score": 1800
+            },
+            {
+              "player": "Jeff",
+              "score": 1500
+            },
+            {
+              "player": "Desi",
+              "score": -1800
+            }
+          ]
+        },
+        {
+          "category": "DANIEL",
+          "value": 800,
+          "clue": "For interpreting his dreams, this king made Daniel \"Chief of the Governors over all the Wise Men of Babylon\"",
+          "answer": "Nebuchadnezzar",
+          "isDailyDouble": false,
+          "orderNumber": 17,
+          "correctContestants": [
+            "Jeff"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Brandon",
+              "score": 1800
+            },
+            {
+              "player": "Jeff",
+              "score": 2300
+            },
+            {
+              "player": "Desi",
+              "score": -1800
+            }
+          ]
+        },
+        {
+          "category": "DANIEL",
+          "value": 1000,
+          "clue": "Much of the first half of the book of Daniel was written in this language spoken by Jesus, the rest in Hebrew",
+          "answer": "Aramaic",
+          "isDailyDouble": false,
+          "orderNumber": 18,
+          "correctContestants": [
+            "Jeff"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Brandon",
+              "score": 1800
+            },
+            {
+              "player": "Jeff",
+              "score": 3300
+            },
+            {
+              "player": "Desi",
+              "score": -1800
+            }
+          ]
+        },
+        {
+          "category": "HONKY \"CAT\"",
+          "value": 400,
+          "clue": "This tough, thin cord is used to string musical instruments & tennis rackets",
+          "answer": "catgut",
+          "isDailyDouble": false,
+          "orderNumber": 19,
+          "correctContestants": [
+            "Brandon"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Brandon",
+              "score": 2200
+            },
+            {
+              "player": "Jeff",
+              "score": 3300
+            },
+            {
+              "player": "Desi",
+              "score": -1800
+            }
+          ]
+        },
+        {
+          "category": "HONKY \"CAT\"",
+          "value": 600,
+          "clue": "It's a 2-hulled sailing boat",
+          "answer": "catamaran",
+          "isDailyDouble": false,
+          "orderNumber": 20,
+          "correctContestants": [
+            "Jeff"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Brandon",
+              "score": 2200
+            },
+            {
+              "player": "Jeff",
+              "score": 3900
+            },
+            {
+              "player": "Desi",
+              "score": -1800
+            }
+          ]
+        },
+        {
+          "category": "HONKY \"CAT\"",
+          "value": 800,
+          "clue": "The name of this ancient war device is partly from the Greek for \"hurl\"",
+          "answer": "catapult",
+          "isDailyDouble": false,
+          "orderNumber": 21,
+          "correctContestants": [
+            "Brandon"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Brandon",
+              "score": 3000
+            },
+            {
+              "player": "Jeff",
+              "score": 3900
+            },
+            {
+              "player": "Desi",
+              "score": -1800
+            }
+          ]
+        },
+        {
+          "category": "HONKY \"CAT\"",
+          "value": 1000,
+          "clue": "A book giving the basic principles of Christianity in Q-&-A form",
+          "answer": "catechism",
+          "isDailyDouble": false,
+          "orderNumber": 22,
+          "correctContestants": [
+            "Brandon"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Brandon",
+              "score": 4000
+            },
+            {
+              "player": "Jeff",
+              "score": 3900
+            },
+            {
+              "player": "Desi",
+              "score": -1800
+            }
+          ]
+        },
+        {
+          "category": "DON'T GO BREAKING MY HEART",
+          "value": 600,
+          "clue": "In French idioms, femme entretenue is a kept woman & this femme is one who breaks your heart",
+          "answer": "femme fatale",
+          "isDailyDouble": false,
+          "orderNumber": 23,
+          "correctContestants": [
+            "Brandon"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Brandon",
+              "score": 4600
+            },
+            {
+              "player": "Jeff",
+              "score": 3900
+            },
+            {
+              "player": "Desi",
+              "score": -1800
+            }
+          ]
+        },
+        {
+          "category": "DON'T GO BREAKING MY HEART",
+          "value": 800,
+          "clue": "These \"differences\" are grounds for divorce under the laws of several states",
+          "answer": "irreconcilable differences",
+          "isDailyDouble": false,
+          "orderNumber": 24,
+          "correctContestants": [
+            "Desi"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Brandon",
+              "score": 4600
+            },
+            {
+              "player": "Jeff",
+              "score": 3900
+            },
+            {
+              "player": "Desi",
+              "score": -1000
+            }
+          ]
+        },
+        {
+          "category": "DON'T GO BREAKING MY HEART",
+          "value": 1000,
+          "clue": "From the Latin for \"blazing\", it's used for catching one's partner being unfaithful as well as catching a crook red-handed",
+          "answer": "in flagrante delicto",
+          "isDailyDouble": false,
+          "orderNumber": 25,
+          "correctContestants": [
+            "Jeff"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Brandon",
+              "score": 4600
+            },
+            {
+              "player": "Jeff",
+              "score": 4900
+            },
+            {
+              "player": "Desi",
+              "score": -1000
+            }
+          ]
+        },
+        {
+          "category": "ELTON JOHN",
+          "value": 200,
+          "clue": "In 1997 Elton John recorded a new version of this song as a tribute to Princess Diana",
+          "answer": "\"Candle in the Wind\"",
+          "isDailyDouble": false,
+          "orderNumber": 26,
+          "correctContestants": [
+            "Brandon"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Brandon",
+              "score": 4800
+            },
+            {
+              "player": "Jeff",
+              "score": 4900
+            },
+            {
+              "player": "Desi",
+              "score": -1000
+            }
+          ]
+        },
+        {
+          "category": "ELTON JOHN",
+          "value": 400,
+          "clue": "Elton, Gladys Knight & Stevie Wonder were the \"friends\" who sang this song with Dionne Warwick",
+          "answer": "\"That's What Friends are for\"",
+          "isDailyDouble": false,
+          "orderNumber": 27,
+          "correctContestants": [
+            "Brandon"
+          ],
+          "incorrectContestants": [
+            "Jeff"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Brandon",
+              "score": 5200
+            },
+            {
+              "player": "Jeff",
+              "score": 4500
+            },
+            {
+              "player": "Desi",
+              "score": -1000
+            }
+          ]
+        },
+        {
+          "category": "ELTON JOHN",
+          "value": 600,
+          "clue": "An Elton John hit says, \"While the other kids were rocking 'round the clock, we were hopping and bopping to\" this",
+          "answer": "the \"Crocodile Rock\"",
+          "isDailyDouble": false,
+          "orderNumber": 28,
+          "correctContestants": [
+            "Jeff"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Brandon",
+              "score": 5200
+            },
+            {
+              "player": "Jeff",
+              "score": 5100
+            },
+            {
+              "player": "Desi",
+              "score": -1000
+            }
+          ]
+        },
+        {
+          "category": "ELTON JOHN",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Brandon",
+              "score": 5200
+            },
+            {
+              "player": "Jeff",
+              "score": 5100
+            },
+            {
+              "player": "Desi",
+              "score": -1000
+            }
+          ]
+        },
+        {
+          "category": "ELTON JOHN",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Brandon",
+              "score": 5200
+            },
+            {
+              "player": "Jeff",
+              "score": 5100
+            },
+            {
+              "player": "Desi",
+              "score": -1000
+            }
+          ]
+        }
+      ],
+      "firstBreakScores": [
+        {
+          "player": "Brandon",
+          "score": 1400
+        },
+        {
+          "player": "Jeff",
+          "score": 1100
+        },
+        {
+          "player": "Desi",
+          "score": -1400
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "Brandon",
+          "score": 5200
+        },
+        {
+          "player": "Jeff",
+          "score": 5100
+        },
+        {
+          "player": "Desi",
+          "score": -1000
+        }
+      ]
+    },
+    "doubleJeopardy": {
+      "categories": [
+        "U.S. PRESIDENTS",
+        "MOVIE MUSICALS",
+        "A SHAKESPEARE TOUR",
+        "ROCKS & MINERALS",
+        "YOU COULD PUT AN EYE OUT",
+        "\"OU\" 5-LETTER WORDS"
+      ],
+      "clues": [
+        {
+          "category": "MOVIE MUSICALS",
+          "value": 400,
+          "clue": "Elsa Lanchester played Katie Nanna, the nanny who walks out on the Banks family at the beginning of this film",
+          "answer": "Mary Poppins",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Brandon",
+              "score": 5200
+            },
+            {
+              "player": "Jeff",
+              "score": 5500
+            },
+            {
+              "player": "Desi",
+              "score": -1000
+            }
+          ]
+        },
+        {
+          "category": "A SHAKESPEARE TOUR",
+          "value": 400,
+          "clue": "A country:\"This precious stone set in the silver sea\"",
+          "answer": "England",
+          "isDailyDouble": false,
+          "orderNumber": 2,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Brandon",
+              "score": 5200
+            },
+            {
+              "player": "Jeff",
+              "score": 5900
+            },
+            {
+              "player": "Desi",
+              "score": -1000
+            }
+          ]
+        },
+        {
+          "category": "A SHAKESPEARE TOUR",
+          "value": 800,
+          "clue": "A city:\"What news on the Rialto?\"",
+          "answer": "Venice",
+          "isDailyDouble": false,
+          "orderNumber": 3,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Brandon",
+              "score": 5200
+            },
+            {
+              "player": "Jeff",
+              "score": 5900
+            },
+            {
+              "player": "Desi",
+              "score": -1000
+            }
+          ]
+        },
+        {
+          "category": "A SHAKESPEARE TOUR",
+          "value": 1200,
+          "clue": "A battlefield:\"I think there be six Richmonds in the field; five have I slain today instead of him\"",
+          "answer": "Bosworth Field",
+          "isDailyDouble": false,
+          "orderNumber": 4,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Brandon",
+              "score": 4000
+            },
+            {
+              "player": "Jeff",
+              "score": 7100
+            },
+            {
+              "player": "Desi",
+              "score": -1000
+            }
+          ]
+        },
+        {
+          "category": "MOVIE MUSICALS",
+          "value": 800,
+          "clue": "(Hi, I'm Jeff Probst [reporting from Thailand])  Here in Thailand, this 1956 movie musical was banned & so was the non-musical 1999 film covering the same story",
+          "answer": "The King and I",
+          "isDailyDouble": false,
+          "orderNumber": 5,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Brandon",
+              "score": 4000
+            },
+            {
+              "player": "Jeff",
+              "score": 7100
+            },
+            {
+              "player": "Desi",
+              "score": -200
+            }
+          ]
+        },
+        {
+          "category": "MOVIE MUSICALS",
+          "value": 1200,
+          "clue": "Natalie Wood does a mean striptease in this 1962 classic",
+          "answer": "Gypsy",
+          "isDailyDouble": false,
+          "orderNumber": 6,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Brandon",
+              "score": 5200
+            },
+            {
+              "player": "Jeff",
+              "score": 7100
+            },
+            {
+              "player": "Desi",
+              "score": -200
+            }
+          ]
+        },
+        {
+          "category": "U.S. PRESIDENTS",
+          "value": 400,
+          "clue": "Warren Harding was this political party's victorious presidential candidate in 1920",
+          "answer": "Republican",
+          "isDailyDouble": false,
+          "orderNumber": 7,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Brandon",
+              "score": 5600
+            },
+            {
+              "player": "Jeff",
+              "score": 7100
+            },
+            {
+              "player": "Desi",
+              "score": -200
+            }
+          ]
+        },
+        {
+          "category": "U.S. PRESIDENTS",
+          "value": 800,
+          "clue": "This man was president when the Warsaw Pact was signed",
+          "answer": "Dwight D. Eisenhower",
+          "isDailyDouble": false,
+          "orderNumber": 8,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Brandon",
+              "score": 5600
+            },
+            {
+              "player": "Jeff",
+              "score": 7900
+            },
+            {
+              "player": "Desi",
+              "score": -200
+            }
+          ]
+        },
+        {
+          "category": "U.S. PRESIDENTS",
+          "value": 1500,
+          "clue": "One of the 2 who were born in the 1920s",
+          "answer": "Jimmy Carter or George H.W. Bush",
+          "isDailyDouble": true,
+          "orderNumber": 9,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Brandon",
+              "score": 5600
+            },
+            {
+              "player": "Jeff",
+              "score": 6400
+            },
+            {
+              "player": "Desi",
+              "score": -200
+            }
+          ]
+        },
+        {
+          "category": "A SHAKESPEARE TOUR",
+          "value": 1600,
+          "clue": "A city:\"If ever you disturb our streets again, your lives shall pay the forfeit of the peace\"",
+          "answer": "Verona",
+          "isDailyDouble": false,
+          "orderNumber": 10,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Brandon",
+              "score": 7200
+            },
+            {
+              "player": "Jeff",
+              "score": 6400
+            },
+            {
+              "player": "Desi",
+              "score": -200
+            }
+          ]
+        },
+        {
+          "category": "U.S. PRESIDENTS",
+          "value": 1600,
+          "clue": "Upon his death in 1849, his last words were, \"I love you Sarah, for all eternity, I love you\"",
+          "answer": "James K. Polk",
+          "isDailyDouble": false,
+          "orderNumber": 11,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Brandon",
+              "score": 7200
+            },
+            {
+              "player": "Jeff",
+              "score": 6400
+            },
+            {
+              "player": "Desi",
+              "score": -200
+            }
+          ]
+        },
+        {
+          "category": "U.S. PRESIDENTS",
+          "value": 2000,
+          "clue": "The stepfather of Patsy & Jacky, he was also known as the \"Stepfather of His Country\"",
+          "answer": "George Washington",
+          "isDailyDouble": false,
+          "orderNumber": 12,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Brandon",
+              "score": 7200
+            },
+            {
+              "player": "Jeff",
+              "score": 6400
+            },
+            {
+              "player": "Desi",
+              "score": -200
+            }
+          ]
+        },
+        {
+          "category": "MOVIE MUSICALS",
+          "value": 1600,
+          "clue": "George Chakiris played Riff in the West End production of this musical, but played Bernardo in the 1961 film",
+          "answer": "West Side Story",
+          "isDailyDouble": false,
+          "orderNumber": 13,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Brandon",
+              "score": 7200
+            },
+            {
+              "player": "Jeff",
+              "score": 8000
+            },
+            {
+              "player": "Desi",
+              "score": -200
+            }
+          ]
+        },
+        {
+          "category": "A SHAKESPEARE TOUR",
+          "value": 2000,
+          "clue": "A castle:\"'Fear not, till Birnam Wood do come to'\" it",
+          "answer": "Dunsinane",
+          "isDailyDouble": false,
+          "orderNumber": 14,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Brandon",
+              "score": 7200
+            },
+            {
+              "player": "Jeff",
+              "score": 10000
+            },
+            {
+              "player": "Desi",
+              "score": -200
+            }
+          ]
+        },
+        {
+          "category": "YOU COULD PUT AN EYE OUT",
+          "value": 400,
+          "clue": "In a 1996 film, the character Karl Childers wields a lawn mower blade as well as this title \"blade\"",
+          "answer": "Sling Blade",
+          "isDailyDouble": false,
+          "orderNumber": 15,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Brandon",
+              "score": 7600
+            },
+            {
+              "player": "Jeff",
+              "score": 10000
+            },
+            {
+              "player": "Desi",
+              "score": -200
+            }
+          ]
+        },
+        {
+          "category": "MOVIE MUSICALS",
+          "value": 2000,
+          "clue": "We're sure that Vivian Blaine never lamented playing Adelaide in this 1955 hit",
+          "answer": "Guys and Dolls",
+          "isDailyDouble": false,
+          "orderNumber": 16,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Brandon",
+              "score": 7600
+            },
+            {
+              "player": "Jeff",
+              "score": 10000
+            },
+            {
+              "player": "Desi",
+              "score": -200
+            }
+          ]
+        },
+        {
+          "category": "YOU COULD PUT AN EYE OUT",
+          "value": 800,
+          "clue": "1964 saw the first time a man threw this 300 feet & the first time a woman threw it 200 feet",
+          "answer": "javelin",
+          "isDailyDouble": false,
+          "orderNumber": 17,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Brandon",
+              "score": 7600
+            },
+            {
+              "player": "Jeff",
+              "score": 10000
+            },
+            {
+              "player": "Desi",
+              "score": 600
+            }
+          ]
+        },
+        {
+          "category": "YOU COULD PUT AN EYE OUT",
+          "value": 1200,
+          "clue": "General term for a slender surgical instrument used to explore the body, as to look for a bullet",
+          "answer": "probe",
+          "isDailyDouble": false,
+          "orderNumber": 18,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Brandon",
+              "score": 7600
+            },
+            {
+              "player": "Jeff",
+              "score": 11200
+            },
+            {
+              "player": "Desi",
+              "score": 600
+            }
+          ]
+        },
+        {
+          "category": "YOU COULD PUT AN EYE OUT",
+          "value": 1600,
+          "clue": "A narrow, connecting part of some tools, it's also prison slang for a knifelike weapon",
+          "answer": "shank",
+          "isDailyDouble": false,
+          "orderNumber": 19,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Brandon",
+              "score": 6000
+            },
+            {
+              "player": "Jeff",
+              "score": 12800
+            },
+            {
+              "player": "Desi",
+              "score": 600
+            }
+          ]
+        },
+        {
+          "category": "YOU COULD PUT AN EYE OUT",
+          "value": 2000,
+          "clue": "From an Asian word, this type of \"stick\" is concealed in high grass to injure enemy soldiers",
+          "answer": "punji stick",
+          "isDailyDouble": false,
+          "orderNumber": 20,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Brandon",
+              "score": 6000
+            },
+            {
+              "player": "Jeff",
+              "score": 14800
+            },
+            {
+              "player": "Desi",
+              "score": 600
+            }
+          ]
+        },
+        {
+          "category": "ROCKS & MINERALS",
+          "value": 400,
+          "clue": "The sulfur from this mineral, also known as fool's gold, is used to make sulfuric acid",
+          "answer": "pyrite",
+          "isDailyDouble": false,
+          "orderNumber": 21,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Brandon",
+              "score": 6000
+            },
+            {
+              "player": "Jeff",
+              "score": 15200
+            },
+            {
+              "player": "Desi",
+              "score": 600
+            }
+          ]
+        },
+        {
+          "category": "ROCKS & MINERALS",
+          "value": 800,
+          "clue": "Its old name, plumbago, came from its use in lead pencils",
+          "answer": "graphite",
+          "isDailyDouble": false,
+          "orderNumber": 22,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Brandon",
+              "score": 6800
+            },
+            {
+              "player": "Jeff",
+              "score": 15200
+            },
+            {
+              "player": "Desi",
+              "score": 600
+            }
+          ]
+        },
+        {
+          "category": "ROCKS & MINERALS",
+          "value": 1200,
+          "clue": "Mount Pentelikon in Attica, Greece is known for the pentelic type of this statue material",
+          "answer": "marble",
+          "isDailyDouble": false,
+          "orderNumber": 23,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Brandon",
+              "score": 6800
+            },
+            {
+              "player": "Jeff",
+              "score": 16400
+            },
+            {
+              "player": "Desi",
+              "score": -600
+            }
+          ]
+        },
+        {
+          "category": "ROCKS & MINERALS",
+          "value": 2000,
+          "clue": "Around 1920 plates of this silicon mineral were first used to control radio frequencies",
+          "answer": "quartz",
+          "isDailyDouble": true,
+          "orderNumber": 24,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Brandon",
+              "score": 6800
+            },
+            {
+              "player": "Jeff",
+              "score": 14400
+            },
+            {
+              "player": "Desi",
+              "score": -600
+            }
+          ]
+        },
+        {
+          "category": "\"OU\" 5-LETTER WORDS",
+          "value": 400,
+          "clue": "Completes the expression \"In for a penny, in for a...\"",
+          "answer": "pound",
+          "isDailyDouble": false,
+          "orderNumber": 25,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Brandon",
+              "score": 7200
+            },
+            {
+              "player": "Jeff",
+              "score": 14400
+            },
+            {
+              "player": "Desi",
+              "score": -600
+            }
+          ]
+        },
+        {
+          "category": "ROCKS & MINERALS",
+          "value": 2000,
+          "clue": "With the dawn of this \"age\" the once considered almost worthless pitchblende became ever so sought after",
+          "answer": "Atomic Age",
+          "isDailyDouble": false,
+          "orderNumber": 26,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Jeff"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Brandon",
+              "score": 5200
+            },
+            {
+              "player": "Jeff",
+              "score": 12400
+            },
+            {
+              "player": "Desi",
+              "score": -600
+            }
+          ]
+        },
+        {
+          "category": "\"OU\" 5-LETTER WORDS",
+          "value": 2000,
+          "clue": "From the French, it's the small high-powered magnifying glass used by watchmakers & jewelers",
+          "answer": "loupe",
+          "isDailyDouble": false,
+          "orderNumber": 27,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Brandon",
+              "score": 7200
+            },
+            {
+              "player": "Jeff",
+              "score": 12400
+            },
+            {
+              "player": "Desi",
+              "score": -600
+            }
+          ]
+        },
+        {
+          "category": "\"OU\" 5-LETTER WORDS",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Brandon",
+              "score": 7200
+            },
+            {
+              "player": "Jeff",
+              "score": 12400
+            },
+            {
+              "player": "Desi",
+              "score": -600
+            }
+          ]
+        },
+        {
+          "category": "\"OU\" 5-LETTER WORDS",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Brandon",
+              "score": 7200
+            },
+            {
+              "player": "Jeff",
+              "score": 12400
+            },
+            {
+              "player": "Desi",
+              "score": -600
+            }
+          ]
+        },
+        {
+          "category": "\"OU\" 5-LETTER WORDS",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Brandon",
+              "score": 7200
+            },
+            {
+              "player": "Jeff",
+              "score": 12400
+            },
+            {
+              "player": "Desi",
+              "score": -600
+            }
+          ]
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "Brandon",
+          "score": 7200
+        },
+        {
+          "player": "Jeff",
+          "score": 12400
+        },
+        {
+          "player": "Desi",
+          "score": -600
+        }
+      ]
+    },
+    "finalJeopardy": {
+      "category": "U.S. STATES",
+      "clue": "It only has 3 communities with a population over 15,000 & is the least populous state east of the Mississippi",
+      "answer": "Vermont",
+      "responses": [
+        {
+          "contestant": "Brandon",
+          "response": "What is Maine?",
+          "isCorrect": false,
+          "isIncorrect": true,
+          "value": 5201,
+          "finalScore": 1999
+        },
+        {
+          "contestant": "Jeff",
+          "response": "What is West Virginia",
+          "isCorrect": false,
+          "isIncorrect": true,
+          "value": 2600,
+          "finalScore": 9800
+        }
+      ]
+    }
+  },
+  "finalScores": [
+    {
+      "player": "Brandon",
+      "score": "$1,999"
+    },
+    {
+      "player": "Jeff",
+      "score": "$9,800"
+    },
+    {
+      "player": "Desi",
+      "score": "-$600"
+    }
+  ],
+  "coryatScores": [
+    {
+      "player": "Brandon",
+      "score": 7200
+    },
+    {
+      "player": "Jeff",
+      "score": 16000
+    },
+    {
+      "player": "Desi",
+      "score": -600
+    }
+  ]
+}

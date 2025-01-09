@@ -1,0 +1,1700 @@
+{
+  "gameId": 325,
+  "showNumber": "3949",
+  "title": "Show #3949 - Thursday, November 1, 2001",
+  "date": "2001-11-01",
+  "comments": "2001 Tournament of Champions final game 1.",
+  "contestants": [
+    "Tad",
+    "Brad",
+    "Rick"
+  ],
+  "rounds": {
+    "jeopardy": {
+      "categories": [
+        "THE NEAREST CONTINENT",
+        "FEMINISM",
+        "SPACE",
+        "THEY GOT MILK, TOO?",
+        "NAME THE SPORT",
+        "QUASI-RELATED PAIRS"
+      ],
+      "clues": [
+        {
+          "category": "QUASI-RELATED PAIRS",
+          "value": 100,
+          "clue": "An Academy Award & a famous cartoon cat",
+          "answer": "Oscar & Felix",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [
+            "Rick"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tad",
+              "score": 0
+            },
+            {
+              "player": "Brad",
+              "score": 0
+            },
+            {
+              "player": "Rick",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "category": "QUASI-RELATED PAIRS",
+          "value": 200,
+          "clue": "Sodium chloride, for example, & a park at the southern tip of Manhattan",
+          "answer": "a salt & Battery",
+          "isDailyDouble": false,
+          "orderNumber": 2,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Tad"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Tad",
+              "score": -200
+            },
+            {
+              "player": "Brad",
+              "score": 0
+            },
+            {
+              "player": "Rick",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "category": "QUASI-RELATED PAIRS",
+          "value": 300,
+          "clue": "A postgraduate degree & Lithgow's male offspring",
+          "answer": "Master's & John's son",
+          "isDailyDouble": false,
+          "orderNumber": 3,
+          "correctContestants": [
+            "Rick"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tad",
+              "score": -200
+            },
+            {
+              "player": "Brad",
+              "score": 0
+            },
+            {
+              "player": "Rick",
+              "score": 400
+            }
+          ]
+        },
+        {
+          "category": "QUASI-RELATED PAIRS",
+          "value": 400,
+          "clue": "\"Lolita\" actor James & psychic Jeane",
+          "answer": "Mason & Dixon",
+          "isDailyDouble": false,
+          "orderNumber": 4,
+          "correctContestants": [
+            "Rick"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tad",
+              "score": -200
+            },
+            {
+              "player": "Brad",
+              "score": 0
+            },
+            {
+              "player": "Rick",
+              "score": 800
+            }
+          ]
+        },
+        {
+          "category": "QUASI-RELATED PAIRS",
+          "value": 500,
+          "clue": "A song on a CD & a chosen area of study",
+          "answer": "track & field",
+          "isDailyDouble": false,
+          "orderNumber": 5,
+          "correctContestants": [
+            "Brad"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tad",
+              "score": -200
+            },
+            {
+              "player": "Brad",
+              "score": 500
+            },
+            {
+              "player": "Rick",
+              "score": 800
+            }
+          ]
+        },
+        {
+          "category": "THE NEAREST CONTINENT",
+          "value": 100,
+          "clue": "Baffin Island",
+          "answer": "North America",
+          "isDailyDouble": false,
+          "orderNumber": 6,
+          "correctContestants": [
+            "Rick"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tad",
+              "score": -200
+            },
+            {
+              "player": "Brad",
+              "score": 500
+            },
+            {
+              "player": "Rick",
+              "score": 900
+            }
+          ]
+        },
+        {
+          "category": "THE NEAREST CONTINENT",
+          "value": 200,
+          "clue": "Hainan",
+          "answer": "Asia",
+          "isDailyDouble": false,
+          "orderNumber": 7,
+          "correctContestants": [
+            "Brad"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tad",
+              "score": -200
+            },
+            {
+              "player": "Brad",
+              "score": 700
+            },
+            {
+              "player": "Rick",
+              "score": 900
+            }
+          ]
+        },
+        {
+          "category": "THE NEAREST CONTINENT",
+          "value": 300,
+          "clue": "Trinidad & Tobago",
+          "answer": "South America",
+          "isDailyDouble": false,
+          "orderNumber": 8,
+          "correctContestants": [
+            "Tad"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tad",
+              "score": 100
+            },
+            {
+              "player": "Brad",
+              "score": 700
+            },
+            {
+              "player": "Rick",
+              "score": 900
+            }
+          ]
+        },
+        {
+          "category": "FEMINISM",
+          "value": 100,
+          "clue": "The 1848 feminist \"Declaration of Sentiments\" adds these 2 words to 1776's \"All men are created equal\"",
+          "answer": "\"and women\"",
+          "isDailyDouble": false,
+          "orderNumber": 9,
+          "correctContestants": [
+            "Tad"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tad",
+              "score": 200
+            },
+            {
+              "player": "Brad",
+              "score": 700
+            },
+            {
+              "player": "Rick",
+              "score": 900
+            }
+          ]
+        },
+        {
+          "category": "FEMINISM",
+          "value": 200,
+          "clue": "The Violence Against Women Act of 2000 addresses this behavior ranging from lying in wait to actual harassment",
+          "answer": "stalking",
+          "isDailyDouble": false,
+          "orderNumber": 10,
+          "correctContestants": [
+            "Rick"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tad",
+              "score": 200
+            },
+            {
+              "player": "Brad",
+              "score": 700
+            },
+            {
+              "player": "Rick",
+              "score": 1100
+            }
+          ]
+        },
+        {
+          "category": "FEMINISM",
+          "value": 300,
+          "clue": "This American tennis tournament evened men's & women's prize money in 1973; Wimbledon still hasn't",
+          "answer": "the U.S. Open",
+          "isDailyDouble": false,
+          "orderNumber": 11,
+          "correctContestants": [
+            "Tad"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tad",
+              "score": 500
+            },
+            {
+              "player": "Brad",
+              "score": 700
+            },
+            {
+              "player": "Rick",
+              "score": 1100
+            }
+          ]
+        },
+        {
+          "category": "FEMINISM",
+          "value": 400,
+          "clue": "Sometimes shortened to MCP, this negative term had a vogue with early women's libbers",
+          "answer": "male chauvinist pig",
+          "isDailyDouble": false,
+          "orderNumber": 12,
+          "correctContestants": [
+            "Rick"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tad",
+              "score": 500
+            },
+            {
+              "player": "Brad",
+              "score": 700
+            },
+            {
+              "player": "Rick",
+              "score": 1500
+            }
+          ]
+        },
+        {
+          "category": "FEMINISM",
+          "value": 1500,
+          "clue": "Secretary of State Bainbridge Colby signed it at home Aug. 26, 1920; his wife & daughters must have been excited",
+          "answer": "the 19th Amendment",
+          "isDailyDouble": true,
+          "orderNumber": 13,
+          "correctContestants": [
+            "Rick"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tad",
+              "score": 500
+            },
+            {
+              "player": "Brad",
+              "score": 700
+            },
+            {
+              "player": "Rick",
+              "score": 3000
+            }
+          ]
+        },
+        {
+          "category": "NAME THE SPORT",
+          "value": 100,
+          "clue": "Carpet, hazards, a windmill, a castle",
+          "answer": "putt-putt (or miniature golf)",
+          "isDailyDouble": false,
+          "orderNumber": 14,
+          "correctContestants": [
+            "Tad"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tad",
+              "score": 600
+            },
+            {
+              "player": "Brad",
+              "score": 700
+            },
+            {
+              "player": "Rick",
+              "score": 3000
+            }
+          ]
+        },
+        {
+          "category": "SPACE",
+          "value": 100,
+          "clue": "(Sofia of the Clue Crew hangs out with a probe replica at the Jet Propulsion Lab.)  In 1995 on Jupiter, this craft, named for a scientist, made the first direct measurements of a giant planet's atmosphere",
+          "answer": "Galileo",
+          "isDailyDouble": false,
+          "orderNumber": 15,
+          "correctContestants": [
+            "Rick"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tad",
+              "score": 600
+            },
+            {
+              "player": "Brad",
+              "score": 700
+            },
+            {
+              "player": "Rick",
+              "score": 3100
+            }
+          ]
+        },
+        {
+          "category": "NAME THE SPORT",
+          "value": 200,
+          "clue": "11 teammates, a center circle, a penalty area, a goal",
+          "answer": "soccer",
+          "isDailyDouble": false,
+          "orderNumber": 16,
+          "correctContestants": [
+            "Brad"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tad",
+              "score": 600
+            },
+            {
+              "player": "Brad",
+              "score": 900
+            },
+            {
+              "player": "Rick",
+              "score": 3100
+            }
+          ]
+        },
+        {
+          "category": "THE NEAREST CONTINENT",
+          "value": 400,
+          "clue": "East Frisian Islands",
+          "answer": "Europe",
+          "isDailyDouble": false,
+          "orderNumber": 17,
+          "correctContestants": [
+            "Brad"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tad",
+              "score": 600
+            },
+            {
+              "player": "Brad",
+              "score": 1300
+            },
+            {
+              "player": "Rick",
+              "score": 3100
+            }
+          ]
+        },
+        {
+          "category": "THE NEAREST CONTINENT",
+          "value": 500,
+          "clue": "Sao Tome & Principe",
+          "answer": "Africa",
+          "isDailyDouble": false,
+          "orderNumber": 18,
+          "correctContestants": [
+            "Tad"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tad",
+              "score": 1100
+            },
+            {
+              "player": "Brad",
+              "score": 1300
+            },
+            {
+              "player": "Rick",
+              "score": 3100
+            }
+          ]
+        },
+        {
+          "category": "NAME THE SPORT",
+          "value": 300,
+          "clue": "6 teammates, a center line, a blue line, a crease",
+          "answer": "ice hockey",
+          "isDailyDouble": false,
+          "orderNumber": 19,
+          "correctContestants": [
+            "Tad"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tad",
+              "score": 1400
+            },
+            {
+              "player": "Brad",
+              "score": 1300
+            },
+            {
+              "player": "Rick",
+              "score": 3100
+            }
+          ]
+        },
+        {
+          "category": "NAME THE SPORT",
+          "value": 400,
+          "clue": "4 teammates, a safety zone, a 40 yard mark, goal posts",
+          "answer": "polo",
+          "isDailyDouble": false,
+          "orderNumber": 20,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Brad"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Tad",
+              "score": 1400
+            },
+            {
+              "player": "Brad",
+              "score": 900
+            },
+            {
+              "player": "Rick",
+              "score": 3100
+            }
+          ]
+        },
+        {
+          "category": "NAME THE SPORT",
+          "value": 500,
+          "clue": "4 teammates, a house, a hog line, a tee line",
+          "answer": "curling",
+          "isDailyDouble": false,
+          "orderNumber": 21,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Tad",
+              "score": 1400
+            },
+            {
+              "player": "Brad",
+              "score": 900
+            },
+            {
+              "player": "Rick",
+              "score": 3100
+            }
+          ]
+        },
+        {
+          "category": "THEY GOT MILK, TOO?",
+          "value": 100,
+          "clue": "In their \"got milk?\" ad, these tennis sisters said, \"Make ours doubles\"",
+          "answer": "the Williams Sisters (Serena & Venus)",
+          "isDailyDouble": false,
+          "orderNumber": 22,
+          "correctContestants": [
+            "Rick"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tad",
+              "score": 1400
+            },
+            {
+              "player": "Brad",
+              "score": 900
+            },
+            {
+              "player": "Rick",
+              "score": 3200
+            }
+          ]
+        },
+        {
+          "category": "THEY GOT MILK, TOO?",
+          "value": 200,
+          "clue": "The \"Be a Dark Knight\" milk ad featured this comic book superhero",
+          "answer": "Batman",
+          "isDailyDouble": false,
+          "orderNumber": 23,
+          "correctContestants": [
+            "Tad"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tad",
+              "score": 1600
+            },
+            {
+              "player": "Brad",
+              "score": 900
+            },
+            {
+              "player": "Rick",
+              "score": 3200
+            }
+          ]
+        },
+        {
+          "category": "THEY GOT MILK, TOO?",
+          "value": 300,
+          "clue": "This animated kids' group had 2 ads; one had them \"in Paris\"",
+          "answer": "the Rugrats",
+          "isDailyDouble": false,
+          "orderNumber": 24,
+          "correctContestants": [
+            "Brad"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tad",
+              "score": 1600
+            },
+            {
+              "player": "Brad",
+              "score": 1200
+            },
+            {
+              "player": "Rick",
+              "score": 3200
+            }
+          ]
+        },
+        {
+          "category": "SPACE",
+          "value": 200,
+          "clue": "This is the largest of the terrestrial planets; it has one of the largest satellites as well",
+          "answer": "Earth",
+          "isDailyDouble": false,
+          "orderNumber": 25,
+          "correctContestants": [
+            "Tad"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tad",
+              "score": 1800
+            },
+            {
+              "player": "Brad",
+              "score": 1200
+            },
+            {
+              "player": "Rick",
+              "score": 3200
+            }
+          ]
+        },
+        {
+          "category": "SPACE",
+          "value": 300,
+          "clue": "(Sofia of the Clue Crew, dressed for a clean environment, delivers the clue from the Jet Propulsion Lab.)  You're looking at a Cassini spacecraft, like the one en route to study Titan, a moon of this planet",
+          "answer": "Saturn",
+          "isDailyDouble": false,
+          "orderNumber": 26,
+          "correctContestants": [
+            "Rick"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tad",
+              "score": 1800
+            },
+            {
+              "player": "Brad",
+              "score": 1200
+            },
+            {
+              "player": "Rick",
+              "score": 3500
+            }
+          ]
+        },
+        {
+          "category": "SPACE",
+          "value": 400,
+          "clue": "Johann Bode proposed the name of a mythological father for this planet",
+          "answer": "Uranus",
+          "isDailyDouble": false,
+          "orderNumber": 27,
+          "correctContestants": [
+            "Rick"
+          ],
+          "incorrectContestants": [
+            "Tad"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tad",
+              "score": 1400
+            },
+            {
+              "player": "Brad",
+              "score": 1200
+            },
+            {
+              "player": "Rick",
+              "score": 3900
+            }
+          ]
+        },
+        {
+          "category": "SPACE",
+          "value": 500,
+          "clue": "(Cheryl of the Clue Crew delivers the clue from the Jet Propulsion Lab.)  I'm in the Mars yard with a model of this Martian rover, whose name also means \"a visitor\"",
+          "answer": "Sojourner",
+          "isDailyDouble": false,
+          "orderNumber": 28,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Tad",
+              "score": 1400
+            },
+            {
+              "player": "Brad",
+              "score": 1200
+            },
+            {
+              "player": "Rick",
+              "score": 3900
+            }
+          ]
+        },
+        {
+          "category": "THEY GOT MILK, TOO?",
+          "value": 400,
+          "clue": "This rock group sported chocolate mustaches that could be seen on their white makeup",
+          "answer": "Kiss",
+          "isDailyDouble": false,
+          "orderNumber": 29,
+          "correctContestants": [
+            "Brad"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tad",
+              "score": 1400
+            },
+            {
+              "player": "Brad",
+              "score": 1600
+            },
+            {
+              "player": "Rick",
+              "score": 3900
+            }
+          ]
+        },
+        {
+          "category": "THEY GOT MILK, TOO?",
+          "value": 500,
+          "clue": "A 2000 ad showing this pop sensation at ages 3 & 18 was the 100th \"got milk?\" ad",
+          "answer": "Britney Spears",
+          "isDailyDouble": false,
+          "orderNumber": 30,
+          "correctContestants": [
+            "Tad"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tad",
+              "score": 1900
+            },
+            {
+              "player": "Brad",
+              "score": 1600
+            },
+            {
+              "player": "Rick",
+              "score": 3900
+            }
+          ]
+        }
+      ],
+      "firstBreakScores": [
+        {
+          "player": "Tad",
+          "score": 600
+        },
+        {
+          "player": "Brad",
+          "score": 700
+        },
+        {
+          "player": "Rick",
+          "score": 3100
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "Tad",
+          "score": 1900
+        },
+        {
+          "player": "Brad",
+          "score": 1600
+        },
+        {
+          "player": "Rick",
+          "score": 3900
+        }
+      ]
+    },
+    "doubleJeopardy": {
+      "categories": [
+        "SHAKESPEARE",
+        "DOGS OF WAR",
+        "THE BIG WHIGS",
+        "LAKES & RIVERS",
+        "THE BRITISH MUSEUM",
+        "FINISH THE \"LOVE\"LY LYRIC"
+      ],
+      "clues": [
+        {
+          "category": "THE BIG WHIGS",
+          "value": 200,
+          "clue": "In 1840 the 2 major political parties in the U.S. were the Whigs & this party",
+          "answer": "the Democrats",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tad",
+              "score": 1900
+            },
+            {
+              "player": "Brad",
+              "score": 1800
+            },
+            {
+              "player": "Rick",
+              "score": 3900
+            }
+          ]
+        },
+        {
+          "category": "THE BIG WHIGS",
+          "value": 400,
+          "clue": "With members like Daniel Webster & Henry Clay, the Whig party was formed about 1832 to oppose this president",
+          "answer": "Jackson",
+          "isDailyDouble": false,
+          "orderNumber": 2,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tad",
+              "score": 1900
+            },
+            {
+              "player": "Brad",
+              "score": 2200
+            },
+            {
+              "player": "Rick",
+              "score": 3900
+            }
+          ]
+        },
+        {
+          "category": "THE BIG WHIGS",
+          "value": 600,
+          "clue": "One big Whig of the 1840s was this founder of the New York Tribune who popularized the phrase \"Go west, young man\"",
+          "answer": "(Horace) Greeley",
+          "isDailyDouble": false,
+          "orderNumber": 3,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tad",
+              "score": 1900
+            },
+            {
+              "player": "Brad",
+              "score": 2200
+            },
+            {
+              "player": "Rick",
+              "score": 4500
+            }
+          ]
+        },
+        {
+          "category": "SHAKESPEARE",
+          "value": 200,
+          "clue": "\"Come on, and kiss me, Kate\" is actually a line in this comedy that inspired the musical \"Kiss Me, Kate\"",
+          "answer": "The Taming of the Shrew",
+          "isDailyDouble": false,
+          "orderNumber": 4,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tad",
+              "score": 1900
+            },
+            {
+              "player": "Brad",
+              "score": 2400
+            },
+            {
+              "player": "Rick",
+              "score": 4500
+            }
+          ]
+        },
+        {
+          "category": "THE BIG WHIGS",
+          "value": 800,
+          "clue": "He was the first Whig governor of New York & as Johnson's Secretary of State purchased Alaska for the U.S.",
+          "answer": "Seward",
+          "isDailyDouble": false,
+          "orderNumber": 5,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tad",
+              "score": 2700
+            },
+            {
+              "player": "Brad",
+              "score": 2400
+            },
+            {
+              "player": "Rick",
+              "score": 4500
+            }
+          ]
+        },
+        {
+          "category": "THE BIG WHIGS",
+          "value": 1000,
+          "clue": "He was the second Whig party member elected U.S. president who had also been a general",
+          "answer": "(Zachary) Taylor",
+          "isDailyDouble": true,
+          "orderNumber": 6,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tad",
+              "score": 3700
+            },
+            {
+              "player": "Brad",
+              "score": 2400
+            },
+            {
+              "player": "Rick",
+              "score": 4500
+            }
+          ]
+        },
+        {
+          "category": "DOGS OF WAR",
+          "value": 200,
+          "clue": "Stubby, a bull terrier, helped in the battles at Chateau Thierry, the Marne & the Meuse-Argonne in this war",
+          "answer": "World War I",
+          "isDailyDouble": false,
+          "orderNumber": 7,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tad",
+              "score": 3700
+            },
+            {
+              "player": "Brad",
+              "score": 2400
+            },
+            {
+              "player": "Rick",
+              "score": 4700
+            }
+          ]
+        },
+        {
+          "category": "FINISH THE \"LOVE\"LY LYRIC",
+          "value": 200,
+          "clue": "Stephen Stills:\"And the eagle flies with the dove, & if you can't be with the one you love, honey...\"",
+          "answer": "\"love the one you're with\"",
+          "isDailyDouble": false,
+          "orderNumber": 8,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tad",
+              "score": 3700
+            },
+            {
+              "player": "Brad",
+              "score": 2400
+            },
+            {
+              "player": "Rick",
+              "score": 4900
+            }
+          ]
+        },
+        {
+          "category": "FINISH THE \"LOVE\"LY LYRIC",
+          "value": 400,
+          "clue": "J. Geils Band:\"Love, it's gonna make you cry, I've had the blues, the reds & the pinks, one thing for sure...\"",
+          "answer": "\"love stinks\"",
+          "isDailyDouble": false,
+          "orderNumber": 9,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tad",
+              "score": 3700
+            },
+            {
+              "player": "Brad",
+              "score": 2800
+            },
+            {
+              "player": "Rick",
+              "score": 4900
+            }
+          ]
+        },
+        {
+          "category": "DOGS OF WAR",
+          "value": 400,
+          "clue": "Scout dog York completed 148 combat patrols in this \"police action\"",
+          "answer": "the Korean War",
+          "isDailyDouble": false,
+          "orderNumber": 10,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tad",
+              "score": 4100
+            },
+            {
+              "player": "Brad",
+              "score": 2800
+            },
+            {
+              "player": "Rick",
+              "score": 4900
+            }
+          ]
+        },
+        {
+          "category": "DOGS OF WAR",
+          "value": 600,
+          "clue": "In WWII Chips earned a Silver Star & a Purple Heart after landing at Licata on this European island",
+          "answer": "Sicily",
+          "isDailyDouble": false,
+          "orderNumber": 11,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tad",
+              "score": 4700
+            },
+            {
+              "player": "Brad",
+              "score": 2800
+            },
+            {
+              "player": "Rick",
+              "score": 4900
+            }
+          ]
+        },
+        {
+          "category": "DOGS OF WAR",
+          "value": 800,
+          "clue": "A memorial was erected for the 25 dobermans who gave their lives liberating this largest Mariana island in WWII",
+          "answer": "Guam",
+          "isDailyDouble": false,
+          "orderNumber": 12,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Brad",
+            "Rick"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Tad",
+              "score": 3900
+            },
+            {
+              "player": "Brad",
+              "score": 2000
+            },
+            {
+              "player": "Rick",
+              "score": 4100
+            }
+          ]
+        },
+        {
+          "category": "DOGS OF WAR",
+          "value": 1000,
+          "clue": "The dog Soter warned the citizens of an attack in this ancient Greek port city founded by Dorians",
+          "answer": "Corinth",
+          "isDailyDouble": false,
+          "orderNumber": 13,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Tad",
+              "score": 2900
+            },
+            {
+              "player": "Brad",
+              "score": 2000
+            },
+            {
+              "player": "Rick",
+              "score": 4100
+            }
+          ]
+        },
+        {
+          "category": "SHAKESPEARE",
+          "value": 1000,
+          "clue": "In \"King John\", King John's first words to her are \"Silence, good mother; hear the embassy\"",
+          "answer": "Eleanor of Aquitaine",
+          "isDailyDouble": true,
+          "orderNumber": 14,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tad",
+              "score": 1900
+            },
+            {
+              "player": "Brad",
+              "score": 2000
+            },
+            {
+              "player": "Rick",
+              "score": 4100
+            }
+          ]
+        },
+        {
+          "category": "SHAKESPEARE",
+          "value": 400,
+          "clue": "\"Henry VI, Part I\" features the master-gunner of Orleans & this woman known in the play as Joan la Pucelle",
+          "answer": "Joan of Arc",
+          "isDailyDouble": false,
+          "orderNumber": 15,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tad",
+              "score": 1900
+            },
+            {
+              "player": "Brad",
+              "score": 2400
+            },
+            {
+              "player": "Rick",
+              "score": 4100
+            }
+          ]
+        },
+        {
+          "category": "SHAKESPEARE",
+          "value": 800,
+          "clue": "Julius Caesar observes that this man \"has a lean and hungry look; he thinks too much: such men are dangerous\"",
+          "answer": "Cassius",
+          "isDailyDouble": false,
+          "orderNumber": 16,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tad",
+              "score": 1900
+            },
+            {
+              "player": "Brad",
+              "score": 3200
+            },
+            {
+              "player": "Rick",
+              "score": 4100
+            }
+          ]
+        },
+        {
+          "category": "SHAKESPEARE",
+          "value": 1000,
+          "clue": "Title character who says, \"Like an eagle in a dove-cote, I flutter'd your Volscians in Corioli\"",
+          "answer": "Coriolanus",
+          "isDailyDouble": false,
+          "orderNumber": 17,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tad",
+              "score": 1900
+            },
+            {
+              "player": "Brad",
+              "score": 3200
+            },
+            {
+              "player": "Rick",
+              "score": 5100
+            }
+          ]
+        },
+        {
+          "category": "FINISH THE \"LOVE\"LY LYRIC",
+          "value": 600,
+          "clue": "The Searchers:\"When I kissed a cop down on 34th and Vine, he broke my little bottle of...\"",
+          "answer": "\"Love Potion No. 9\"",
+          "isDailyDouble": false,
+          "orderNumber": 18,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tad",
+              "score": 1900
+            },
+            {
+              "player": "Brad",
+              "score": 3800
+            },
+            {
+              "player": "Rick",
+              "score": 5100
+            }
+          ]
+        },
+        {
+          "category": "FINISH THE \"LOVE\"LY LYRIC",
+          "value": 800,
+          "clue": "Bee Gees:\"Keep me warm in your love and then softly leave and it's me you need to show...\"",
+          "answer": "\"how deep is your love\"",
+          "isDailyDouble": false,
+          "orderNumber": 19,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tad",
+              "score": 1900
+            },
+            {
+              "player": "Brad",
+              "score": 4600
+            },
+            {
+              "player": "Rick",
+              "score": 5100
+            }
+          ]
+        },
+        {
+          "category": "FINISH THE \"LOVE\"LY LYRIC",
+          "value": 1000,
+          "clue": "Pat Benatar:\"We are young, heartache to heartache we stand, no promises, no demands...\"",
+          "answer": "\"love is a battlefield\"",
+          "isDailyDouble": false,
+          "orderNumber": 20,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tad",
+              "score": 1900
+            },
+            {
+              "player": "Brad",
+              "score": 5600
+            },
+            {
+              "player": "Rick",
+              "score": 5100
+            }
+          ]
+        },
+        {
+          "category": "LAKES & RIVERS",
+          "value": 200,
+          "clue": "World Book reports 3-foot-long trout are among the fish found in this lake that borders Peru & Bolivia",
+          "answer": "Lake Titicaca",
+          "isDailyDouble": false,
+          "orderNumber": 21,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tad",
+              "score": 2100
+            },
+            {
+              "player": "Brad",
+              "score": 5600
+            },
+            {
+              "player": "Rick",
+              "score": 4900
+            }
+          ]
+        },
+        {
+          "category": "THE BRITISH MUSEUM",
+          "value": 200,
+          "clue": "The museum once housed 2 copies of this 1215 document, now in the British Library",
+          "answer": "the Magna Carta",
+          "isDailyDouble": false,
+          "orderNumber": 22,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tad",
+              "score": 2100
+            },
+            {
+              "player": "Brad",
+              "score": 5600
+            },
+            {
+              "player": "Rick",
+              "score": 5100
+            }
+          ]
+        },
+        {
+          "category": "THE BRITISH MUSEUM",
+          "value": 400,
+          "clue": "You won't find this Egyptian monument's beard on the plains of Giza, but in the British Museum",
+          "answer": "the Sphinx",
+          "isDailyDouble": false,
+          "orderNumber": 23,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tad",
+              "score": 2500
+            },
+            {
+              "player": "Brad",
+              "score": 5600
+            },
+            {
+              "player": "Rick",
+              "score": 5100
+            }
+          ]
+        },
+        {
+          "category": "THE BRITISH MUSEUM",
+          "value": 600,
+          "clue": "It's the British Museum translator seen here",
+          "answer": "the Rosetta Stone",
+          "isDailyDouble": false,
+          "orderNumber": 24,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tad",
+              "score": 3100
+            },
+            {
+              "player": "Brad",
+              "score": 5600
+            },
+            {
+              "player": "Rick",
+              "score": 5100
+            }
+          ]
+        },
+        {
+          "category": "THE BRITISH MUSEUM",
+          "value": 800,
+          "clue": "In 1816 he didn't lose his \"Marbles\"; he sold them to the British Museum",
+          "answer": "Lord Elgin",
+          "isDailyDouble": false,
+          "orderNumber": 25,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tad",
+              "score": 2300
+            },
+            {
+              "player": "Brad",
+              "score": 6400
+            },
+            {
+              "player": "Rick",
+              "score": 5100
+            }
+          ]
+        },
+        {
+          "category": "THE BRITISH MUSEUM",
+          "value": 1000,
+          "clue": "Jonathan Harker studies up on Transylvania in the British Museum library at the beginning of this novel",
+          "answer": "Dracula",
+          "isDailyDouble": false,
+          "orderNumber": 26,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tad",
+              "score": 2300
+            },
+            {
+              "player": "Brad",
+              "score": 6400
+            },
+            {
+              "player": "Rick",
+              "score": 6100
+            }
+          ]
+        },
+        {
+          "category": "LAKES & RIVERS",
+          "value": 400,
+          "clue": "This New York City river is actually a tidal strait connecting upper New York Bay with Long Island Sound",
+          "answer": "the East River",
+          "isDailyDouble": false,
+          "orderNumber": 27,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tad",
+              "score": 2300
+            },
+            {
+              "player": "Brad",
+              "score": 6400
+            },
+            {
+              "player": "Rick",
+              "score": 6500
+            }
+          ]
+        },
+        {
+          "category": "LAKES & RIVERS",
+          "value": 600,
+          "clue": "336 rivers flow into this Siberian lake, but only one, the Angora, flows out of it",
+          "answer": "Lake Baikal",
+          "isDailyDouble": false,
+          "orderNumber": 28,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tad",
+              "score": 2300
+            },
+            {
+              "player": "Brad",
+              "score": 7000
+            },
+            {
+              "player": "Rick",
+              "score": 6500
+            }
+          ]
+        },
+        {
+          "category": "LAKES & RIVERS",
+          "value": 800,
+          "clue": "This river that flows to Lyon, France rises from a glacier of the same name in Switzerland",
+          "answer": "the Rhone",
+          "isDailyDouble": false,
+          "orderNumber": 29,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Tad",
+              "score": 2300
+            },
+            {
+              "player": "Brad",
+              "score": 7000
+            },
+            {
+              "player": "Rick",
+              "score": 6500
+            }
+          ]
+        },
+        {
+          "category": "LAKES & RIVERS",
+          "value": 1000,
+          "clue": "This largest Central American lake has several islands, including Ometepe, which has 2 volcanoes",
+          "answer": "Lake Nicaragua",
+          "isDailyDouble": false,
+          "orderNumber": 30,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tad",
+              "score": 3300
+            },
+            {
+              "player": "Brad",
+              "score": 6000
+            },
+            {
+              "player": "Rick",
+              "score": 6500
+            }
+          ]
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "Tad",
+          "score": 3300
+        },
+        {
+          "player": "Brad",
+          "score": 6000
+        },
+        {
+          "player": "Rick",
+          "score": 6500
+        }
+      ]
+    },
+    "finalJeopardy": {
+      "category": "AMERICAN LITERATURE",
+      "clue": "\"The Mute\" was the working title of this 1940 novel by a female author",
+      "answer": "The Heart Is a Lonely Hunter (by Carson McCullers)",
+      "responses": [
+        {
+          "contestant": "Tad",
+          "response": "What is Atlas Shrugged?",
+          "isCorrect": false,
+          "isIncorrect": true,
+          "value": 2000,
+          "finalScore": 1300
+        },
+        {
+          "contestant": "Brad",
+          "response": "What is The Miracle Worker?",
+          "isCorrect": false,
+          "isIncorrect": true,
+          "value": 3500,
+          "finalScore": 2500
+        },
+        {
+          "contestant": "Rick",
+          "response": "What is Giant?",
+          "isCorrect": false,
+          "isIncorrect": true,
+          "value": 3500,
+          "finalScore": 3000
+        }
+      ]
+    }
+  },
+  "finalScores": [
+    {
+      "player": "Tad",
+      "score": "$1,300"
+    },
+    {
+      "player": "Brad",
+      "score": "$2,500"
+    },
+    {
+      "player": "Rick",
+      "score": "$3,000"
+    }
+  ],
+  "coryatScores": [
+    {
+      "player": "Tad",
+      "score": 4300
+    },
+    {
+      "player": "Brad",
+      "score": 6000
+    },
+    {
+      "player": "Rick",
+      "score": 5500
+    }
+  ]
+}

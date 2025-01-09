@@ -1,0 +1,1690 @@
+{
+  "gameId": 8900,
+  "showNumber": "9082",
+  "title": "Show #9082 - Tuesday, April 16, 2024",
+  "date": "2024-04-16",
+  "comments": "Alison Betts game 4.",
+  "contestants": [
+    "Alison",
+    "Veronica",
+    "Eric"
+  ],
+  "rounds": {
+    "jeopardy": {
+      "categories": [
+        "LIVED PAST 100",
+        "THE MOVIES",
+        "PAGING THE FICTIONAL DRIVER",
+        "DON'T EAT THAT!",
+        "COUNTRIES OF THE WORLD",
+        "JUST FOR FUN \"Z\"s"
+      ],
+      "clues": [
+        {
+          "category": "COUNTRIES OF THE WORLD",
+          "value": 800,
+          "clue": "In 1960, this island country elected the world's first female prime minister, Sirimavo Bandaranaike",
+          "answer": "Sri Lanka",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [
+            "Veronica"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alison",
+              "score": 0
+            },
+            {
+              "player": "Veronica",
+              "score": 800
+            },
+            {
+              "player": "Eric",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "COUNTRIES OF THE WORLD",
+          "value": 1000,
+          "clue": "Tikal National Park is part of this country's Maya Biosphere Reserve",
+          "answer": "Guatemala",
+          "isDailyDouble": false,
+          "orderNumber": 2,
+          "correctContestants": [
+            "Alison"
+          ],
+          "incorrectContestants": [
+            "Veronica"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alison",
+              "score": 1000
+            },
+            {
+              "player": "Veronica",
+              "score": -200
+            },
+            {
+              "player": "Eric",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "LIVED PAST 100",
+          "value": 800,
+          "clue": "The first foreign-born citizen to hold the post of secretary of state, he lived 6 months past his 100th birthday",
+          "answer": "Henry Kissinger",
+          "isDailyDouble": false,
+          "orderNumber": 3,
+          "correctContestants": [
+            "Eric"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alison",
+              "score": 1000
+            },
+            {
+              "player": "Veronica",
+              "score": -200
+            },
+            {
+              "player": "Eric",
+              "score": 800
+            }
+          ]
+        },
+        {
+          "category": "LIVED PAST 100",
+          "value": 1000,
+          "clue": "This American folk painter who lived up to her byname was still working at the age of 100",
+          "answer": "Grandma Moses",
+          "isDailyDouble": false,
+          "orderNumber": 4,
+          "correctContestants": [
+            "Alison"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alison",
+              "score": 2000
+            },
+            {
+              "player": "Veronica",
+              "score": -200
+            },
+            {
+              "player": "Eric",
+              "score": 800
+            }
+          ]
+        },
+        {
+          "category": "LIVED PAST 100",
+          "value": 600,
+          "clue": "Dying at 101, this iconic producer of TV shows like \"All in the Family\" credited his longevity to work, lox & bagels",
+          "answer": "(Norman) Lear",
+          "isDailyDouble": false,
+          "orderNumber": 5,
+          "correctContestants": [
+            "Alison"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alison",
+              "score": 2600
+            },
+            {
+              "player": "Veronica",
+              "score": -200
+            },
+            {
+              "player": "Eric",
+              "score": 800
+            }
+          ]
+        },
+        {
+          "category": "DON'T EAT THAT!",
+          "value": 800,
+          "clue": "Binney & Smith began selling boxes of these, made from wax, in 1903; colors ranged from black to yellow",
+          "answer": "crayons",
+          "isDailyDouble": false,
+          "orderNumber": 6,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Veronica"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Alison",
+              "score": 2600
+            },
+            {
+              "player": "Veronica",
+              "score": -1000
+            },
+            {
+              "player": "Eric",
+              "score": 800
+            }
+          ]
+        },
+        {
+          "category": "DON'T EAT THAT!",
+          "value": 1000,
+          "clue": "This Peter Frampton band sang \"30 Days In The Hole\"",
+          "answer": "Humble Pie",
+          "isDailyDouble": false,
+          "orderNumber": 7,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Alison",
+              "score": 2600
+            },
+            {
+              "player": "Veronica",
+              "score": -1000
+            },
+            {
+              "player": "Eric",
+              "score": 800
+            }
+          ]
+        },
+        {
+          "category": "JUST FOR FUN \"Z\"s",
+          "value": 800,
+          "clue": "This rum cocktail was created in the 1930s for a tiki bar called Don the Beachcomber; it might be less fun after too many",
+          "answer": "the Zombie",
+          "isDailyDouble": false,
+          "orderNumber": 8,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Alison",
+              "score": 2600
+            },
+            {
+              "player": "Veronica",
+              "score": -1000
+            },
+            {
+              "player": "Eric",
+              "score": 800
+            }
+          ]
+        },
+        {
+          "category": "JUST FOR FUN \"Z\"s",
+          "value": 1000,
+          "clue": "Down South, cher, this traditional music heard here is also known as chanky-chank",
+          "answer": "zydeco",
+          "isDailyDouble": false,
+          "orderNumber": 9,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Alison",
+            "Eric"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Alison",
+              "score": 1600
+            },
+            {
+              "player": "Veronica",
+              "score": -1000
+            },
+            {
+              "player": "Eric",
+              "score": -200
+            }
+          ]
+        },
+        {
+          "category": "JUST FOR FUN \"Z\"s",
+          "value": 600,
+          "clue": "Shigeru Miyamoto designed a video game in which players try to defeat the evil Ganon & rescue this princess",
+          "answer": "Zelda",
+          "isDailyDouble": false,
+          "orderNumber": 10,
+          "correctContestants": [
+            "Veronica"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alison",
+              "score": 1600
+            },
+            {
+              "player": "Veronica",
+              "score": -400
+            },
+            {
+              "player": "Eric",
+              "score": -200
+            }
+          ]
+        },
+        {
+          "category": "JUST FOR FUN \"Z\"s",
+          "value": 400,
+          "clue": "As a 5-year-old hockey fan, Ariana Grande got hit twice with a puck & got to ride on one of these at a Florida Panthers game",
+          "answer": "a Zamboni",
+          "isDailyDouble": false,
+          "orderNumber": 11,
+          "correctContestants": [
+            "Eric"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alison",
+              "score": 1600
+            },
+            {
+              "player": "Veronica",
+              "score": -400
+            },
+            {
+              "player": "Eric",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "THE MOVIES",
+          "value": 600,
+          "clue": "Steve Carell getting his chest waxed is comedy gold in this 2005 film",
+          "answer": "The 40-Year-Old Virgin",
+          "isDailyDouble": false,
+          "orderNumber": 12,
+          "correctContestants": [
+            "Alison"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alison",
+              "score": 2200
+            },
+            {
+              "player": "Veronica",
+              "score": -400
+            },
+            {
+              "player": "Eric",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "THE MOVIES",
+          "value": 800,
+          "clue": "The first DVD that Netflix mailed was this spirited film starring Alec Baldwin & Geena Davis as a deceased married couple",
+          "answer": "Beetlejuice",
+          "isDailyDouble": false,
+          "orderNumber": 13,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Alison",
+              "score": 2200
+            },
+            {
+              "player": "Veronica",
+              "score": -400
+            },
+            {
+              "player": "Eric",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "THE MOVIES",
+          "value": 1000,
+          "clue": "Elvis hangs loose in Honolulu after a stint in the Army in this 1961 film",
+          "answer": "Blue Hawaii",
+          "isDailyDouble": false,
+          "orderNumber": 14,
+          "correctContestants": [
+            "Alison"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alison",
+              "score": 3200
+            },
+            {
+              "player": "Veronica",
+              "score": -400
+            },
+            {
+              "player": "Eric",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "COUNTRIES OF THE WORLD",
+          "value": 2000,
+          "clue": "The king of this country gets the official title \"Custodian of the Two Holy Mosques\"",
+          "answer": "Saudi Arabia",
+          "isDailyDouble": true,
+          "orderNumber": 15,
+          "correctContestants": [
+            "Alison"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alison",
+              "score": 5200
+            },
+            {
+              "player": "Veronica",
+              "score": -400
+            },
+            {
+              "player": "Eric",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "DON'T EAT THAT!",
+          "value": 600,
+          "clue": "Types of these devices include atomic & grandfather",
+          "answer": "clocks",
+          "isDailyDouble": false,
+          "orderNumber": 16,
+          "correctContestants": [
+            "Veronica"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alison",
+              "score": 5200
+            },
+            {
+              "player": "Veronica",
+              "score": 200
+            },
+            {
+              "player": "Eric",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "COUNTRIES OF THE WORLD",
+          "value": 400,
+          "clue": "The Strait of Gibraltar separates the mainlands of these 2 countries by about 8 miles",
+          "answer": "Spain & Morocco",
+          "isDailyDouble": false,
+          "orderNumber": 17,
+          "correctContestants": [
+            "Veronica"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alison",
+              "score": 5200
+            },
+            {
+              "player": "Veronica",
+              "score": 600
+            },
+            {
+              "player": "Eric",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "COUNTRIES OF THE WORLD",
+          "value": 200,
+          "clue": "This country on Hispaniola has 2 official languages--French & Creole",
+          "answer": "Haiti",
+          "isDailyDouble": false,
+          "orderNumber": 18,
+          "correctContestants": [
+            "Alison"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alison",
+              "score": 5400
+            },
+            {
+              "player": "Veronica",
+              "score": 600
+            },
+            {
+              "player": "Eric",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "PAGING THE FICTIONAL DRIVER",
+          "value": 200,
+          "clue": "Paging this 1925 title character who owns a cream Rolls-Royce \"terraced with a labyrinth of windshields\"; you're blocking a Prius",
+          "answer": "Gatsby",
+          "isDailyDouble": false,
+          "orderNumber": 19,
+          "correctContestants": [
+            "Veronica"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alison",
+              "score": 5400
+            },
+            {
+              "player": "Veronica",
+              "score": 800
+            },
+            {
+              "player": "Eric",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "PAGING THE FICTIONAL DRIVER",
+          "value": 400,
+          "clue": "Paging Denny in \"The Art of Racing in\" this condition; just letting you know your dog is in your BMW 3.0 CSi",
+          "answer": "the rain",
+          "isDailyDouble": false,
+          "orderNumber": 20,
+          "correctContestants": [
+            "Veronica"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alison",
+              "score": 5400
+            },
+            {
+              "player": "Veronica",
+              "score": 1200
+            },
+            {
+              "player": "Eric",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "PAGING THE FICTIONAL DRIVER",
+          "value": 600,
+          "clue": "Can you hear me, Stephen King teen Arnie Cunningham? Your 1958 Plymouth Fury nicknamed this has a bad muffler--& other issues",
+          "answer": "Christine",
+          "isDailyDouble": false,
+          "orderNumber": 21,
+          "correctContestants": [
+            "Veronica"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alison",
+              "score": 5400
+            },
+            {
+              "player": "Veronica",
+              "score": 1800
+            },
+            {
+              "player": "Eric",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "PAGING THE FICTIONAL DRIVER",
+          "value": 800,
+          "clue": "This Robert B. Parker detective, if that's your maroon MGB with whitewalls, your lights are on",
+          "answer": "Spenser",
+          "isDailyDouble": false,
+          "orderNumber": 22,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Alison",
+              "score": 5400
+            },
+            {
+              "player": "Veronica",
+              "score": 1800
+            },
+            {
+              "player": "Eric",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "PAGING THE FICTIONAL DRIVER",
+          "value": 1000,
+          "clue": "Dean Moriarty in this 1950s classic, as the title indicates, you're putting some miles on that 1949 Hudson",
+          "answer": "On the Road",
+          "isDailyDouble": false,
+          "orderNumber": 23,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Alison",
+              "score": 5400
+            },
+            {
+              "player": "Veronica",
+              "score": 1800
+            },
+            {
+              "player": "Eric",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "DON'T EAT THAT!",
+          "value": 200,
+          "clue": "It comes before poor, nap, cheap & bag",
+          "answer": "dirt",
+          "isDailyDouble": false,
+          "orderNumber": 24,
+          "correctContestants": [
+            "Alison"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alison",
+              "score": 5600
+            },
+            {
+              "player": "Veronica",
+              "score": 1800
+            },
+            {
+              "player": "Eric",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "DON'T EAT THAT!",
+          "value": 400,
+          "clue": "A rook is a type of this, another 4-letter fowl",
+          "answer": "crow",
+          "isDailyDouble": false,
+          "orderNumber": 25,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Veronica"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Alison",
+              "score": 5600
+            },
+            {
+              "player": "Veronica",
+              "score": 1400
+            },
+            {
+              "player": "Eric",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "LIVED PAST 100",
+          "value": 200,
+          "clue": "Tom Morello's Rock & Roll Hall of Fame acceptance speech on this band's behalf thanked Tom's mom, a centenarian teacher & activist",
+          "answer": "Rage Against the Machine",
+          "isDailyDouble": false,
+          "orderNumber": 26,
+          "correctContestants": [
+            "Eric"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alison",
+              "score": 5600
+            },
+            {
+              "player": "Veronica",
+              "score": 1400
+            },
+            {
+              "player": "Eric",
+              "score": 400
+            }
+          ]
+        },
+        {
+          "category": "LIVED PAST 100",
+          "value": 400,
+          "clue": "Known by this title, Elizabeth Bowes-Lyon made it to 101 in 2002",
+          "answer": "the \"Queen Mum\"",
+          "isDailyDouble": false,
+          "orderNumber": 27,
+          "correctContestants": [
+            "Alison"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alison",
+              "score": 6000
+            },
+            {
+              "player": "Veronica",
+              "score": 1400
+            },
+            {
+              "player": "Eric",
+              "score": 400
+            }
+          ]
+        },
+        {
+          "category": "THE MOVIES",
+          "value": 200,
+          "clue": "The title of this Billy Crystal-Meg Ryan film refers to 1977, driving from Chicago to New York together after college",
+          "answer": "When Harry Met Sally...",
+          "isDailyDouble": false,
+          "orderNumber": 28,
+          "correctContestants": [
+            "Alison"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alison",
+              "score": 6200
+            },
+            {
+              "player": "Veronica",
+              "score": 1400
+            },
+            {
+              "player": "Eric",
+              "score": 400
+            }
+          ]
+        },
+        {
+          "category": "THE MOVIES",
+          "value": 400,
+          "clue": "In 2023 this book by Judy Blume finally became a movie, with Rachel McAdams as the title girl's mom",
+          "answer": "Are You There God? It's Me, Margaret.",
+          "isDailyDouble": false,
+          "orderNumber": 29,
+          "correctContestants": [
+            "Alison"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alison",
+              "score": 6600
+            },
+            {
+              "player": "Veronica",
+              "score": 1400
+            },
+            {
+              "player": "Eric",
+              "score": 400
+            }
+          ]
+        },
+        {
+          "category": "JUST FOR FUN \"Z\"s",
+          "value": 200,
+          "clue": "At the Fremont St. Experience, take a thrill ride on one of these, 7 stories high & 2 blocks long; the zoom one is even bigger",
+          "answer": "a zip line",
+          "isDailyDouble": false,
+          "orderNumber": 30,
+          "correctContestants": [
+            "Alison"
+          ],
+          "incorrectContestants": [
+            "Veronica"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alison",
+              "score": 6800
+            },
+            {
+              "player": "Veronica",
+              "score": 1200
+            },
+            {
+              "player": "Eric",
+              "score": 400
+            }
+          ]
+        }
+      ],
+      "firstBreakScores": [
+        {
+          "player": "Alison",
+          "score": 5200
+        },
+        {
+          "player": "Veronica",
+          "score": -400
+        },
+        {
+          "player": "Eric",
+          "score": 200
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "Alison",
+          "score": 6800
+        },
+        {
+          "player": "Veronica",
+          "score": 1200
+        },
+        {
+          "player": "Eric",
+          "score": 400
+        }
+      ]
+    },
+    "doubleJeopardy": {
+      "categories": [
+        "VAL, HISTORY'S CLUMSIEST TIME TRAVELER",
+        "SIBLINGS IN POP CULTURE",
+        "MAKING NOISE",
+        "SAY IT IN SPANISH",
+        "LAND OF MILK & HONEY",
+        "A \"M\"EDICAL DICTIONARY"
+      ],
+      "clues": [
+        {
+          "category": "A \"M\"EDICAL DICTIONARY",
+          "value": 1200,
+          "clue": "This type of neuron conveys impulses from the brain or nervous system to a muscle, organ or gland to trigger an action",
+          "answer": "a motor neuron",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alison",
+              "score": 8000
+            },
+            {
+              "player": "Veronica",
+              "score": 1200
+            },
+            {
+              "player": "Eric",
+              "score": 400
+            }
+          ]
+        },
+        {
+          "category": "A \"M\"EDICAL DICTIONARY",
+          "value": 1600,
+          "clue": "Found in the ear, this small bone connects the tympanic membrane to the incus bone",
+          "answer": "the malleus",
+          "isDailyDouble": false,
+          "orderNumber": 2,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alison",
+              "score": 9600
+            },
+            {
+              "player": "Veronica",
+              "score": 1200
+            },
+            {
+              "player": "Eric",
+              "score": 400
+            }
+          ]
+        },
+        {
+          "category": "A \"M\"EDICAL DICTIONARY",
+          "value": 2000,
+          "clue": "Term for a type of large white blood cell that digests invading micro-organisms & also \"eats\" cell debris",
+          "answer": "a macrophage",
+          "isDailyDouble": false,
+          "orderNumber": 3,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alison",
+              "score": 9600
+            },
+            {
+              "player": "Veronica",
+              "score": 1200
+            },
+            {
+              "player": "Eric",
+              "score": 2400
+            }
+          ]
+        },
+        {
+          "category": "A \"M\"EDICAL DICTIONARY",
+          "value": 2400,
+          "clue": "Swelling of the parotid glands is a symptom of this acute viral disease",
+          "answer": "the mumps",
+          "isDailyDouble": true,
+          "orderNumber": 4,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alison",
+              "score": 9600
+            },
+            {
+              "player": "Veronica",
+              "score": 1200
+            },
+            {
+              "player": "Eric",
+              "score": 4800
+            }
+          ]
+        },
+        {
+          "category": "SAY IT IN SPANISH",
+          "value": 1200,
+          "clue": "The name of this dish literally means \"rice with chicken\"",
+          "answer": "arroz con pollo",
+          "isDailyDouble": false,
+          "orderNumber": 5,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alison",
+              "score": 9600
+            },
+            {
+              "player": "Veronica",
+              "score": 1200
+            },
+            {
+              "player": "Eric",
+              "score": 6000
+            }
+          ]
+        },
+        {
+          "category": "SAY IT IN SPANISH",
+          "value": 4000,
+          "clue": "A song often heard in Spanish-speaking countries at Christmastime is this \"Sabanero\", meaning \"My Little Savannah Donkey\"",
+          "answer": "Burrito",
+          "isDailyDouble": true,
+          "orderNumber": 6,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alison",
+              "score": 9600
+            },
+            {
+              "player": "Veronica",
+              "score": 1200
+            },
+            {
+              "player": "Eric",
+              "score": 2000
+            }
+          ]
+        },
+        {
+          "category": "SAY IT IN SPANISH",
+          "value": 2000,
+          "clue": "This beloved indie rock band took its name in 1984 from the way a Spanish-speaking outfielder says, \"I got it\"",
+          "answer": "Yo La Tengo",
+          "isDailyDouble": false,
+          "orderNumber": 7,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alison",
+              "score": 9600
+            },
+            {
+              "player": "Veronica",
+              "score": 1200
+            },
+            {
+              "player": "Eric",
+              "score": 4000
+            }
+          ]
+        },
+        {
+          "category": "SAY IT IN SPANISH",
+          "value": 800,
+          "clue": "Meaning \"aunt\", it precedes Maria in a liqueur order",
+          "answer": "Tia",
+          "isDailyDouble": false,
+          "orderNumber": 8,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alison",
+              "score": 10400
+            },
+            {
+              "player": "Veronica",
+              "score": 1200
+            },
+            {
+              "player": "Eric",
+              "score": 4000
+            }
+          ]
+        },
+        {
+          "category": "MAKING NOISE",
+          "value": 1200,
+          "clue": "OK, smart kid... the dog goes woof & the river-dwelling giant type of this weasel family member goes what? Coo, scream & many others is what!",
+          "answer": "the giant river otter",
+          "isDailyDouble": false,
+          "orderNumber": 9,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Eric"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Alison",
+              "score": 10400
+            },
+            {
+              "player": "Veronica",
+              "score": 0
+            },
+            {
+              "player": "Eric",
+              "score": 2800
+            }
+          ]
+        },
+        {
+          "category": "MAKING NOISE",
+          "value": 1600,
+          "clue": "This state dance of Kentucky is a bit like tap but most of the noise is made with the heels",
+          "answer": "clogging",
+          "isDailyDouble": false,
+          "orderNumber": 10,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Alison",
+              "score": 10400
+            },
+            {
+              "player": "Veronica",
+              "score": 0
+            },
+            {
+              "player": "Eric",
+              "score": 2800
+            }
+          ]
+        },
+        {
+          "category": "MAKING NOISE",
+          "value": 2000,
+          "clue": "Many thought \"The Rite of Spring\" was just noise, like the \"Augurs of Spring\" marked to be played this extra-loud way throughout",
+          "answer": "fortissimo",
+          "isDailyDouble": false,
+          "orderNumber": 11,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alison",
+              "score": 10400
+            },
+            {
+              "player": "Veronica",
+              "score": -2000
+            },
+            {
+              "player": "Eric",
+              "score": 4800
+            }
+          ]
+        },
+        {
+          "category": "LAND OF MILK & HONEY",
+          "value": 1200,
+          "clue": "Not far from the skyscrapers of this emirate metropolis is Camelicious, a company that provides camel milk, ghee & chocolate",
+          "answer": "Dubai",
+          "isDailyDouble": false,
+          "orderNumber": 12,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alison",
+              "score": 10400
+            },
+            {
+              "player": "Veronica",
+              "score": -800
+            },
+            {
+              "player": "Eric",
+              "score": 4800
+            }
+          ]
+        },
+        {
+          "category": "LAND OF MILK & HONEY",
+          "value": 1600,
+          "clue": "From Australia & New Zealand, this honey with a Maori name is said to have antibacterial properties",
+          "answer": "Manuka honey",
+          "isDailyDouble": false,
+          "orderNumber": 13,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Alison",
+              "score": 10400
+            },
+            {
+              "player": "Veronica",
+              "score": -800
+            },
+            {
+              "player": "Eric",
+              "score": 4800
+            }
+          ]
+        },
+        {
+          "category": "SIBLINGS IN POP CULTURE",
+          "value": 2000,
+          "clue": "Sid & Marty Krofft produced '70s Saturday morning TV like \"H.R. Pufnstuf\" & this one where a family ends up in a time with dinosaurs",
+          "answer": "Land of the Lost",
+          "isDailyDouble": false,
+          "orderNumber": 14,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Alison",
+              "score": 10400
+            },
+            {
+              "player": "Veronica",
+              "score": -800
+            },
+            {
+              "player": "Eric",
+              "score": 4800
+            }
+          ]
+        },
+        {
+          "category": "SIBLINGS IN POP CULTURE",
+          "value": 1600,
+          "clue": "In a 2001 film, these siblings played siblings Elizabeth & Donnie Darko",
+          "answer": "Jake & Maggie Gyllenhaal",
+          "isDailyDouble": false,
+          "orderNumber": 15,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alison",
+              "score": 10400
+            },
+            {
+              "player": "Veronica",
+              "score": -800
+            },
+            {
+              "player": "Eric",
+              "score": 6400
+            }
+          ]
+        },
+        {
+          "category": "SIBLINGS IN POP CULTURE",
+          "value": 1200,
+          "clue": "The Duffer brothers created this TV series that debuted in 2016",
+          "answer": "Stranger Things",
+          "isDailyDouble": false,
+          "orderNumber": 16,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alison",
+              "score": 10400
+            },
+            {
+              "player": "Veronica",
+              "score": 400
+            },
+            {
+              "player": "Eric",
+              "score": 6400
+            }
+          ]
+        },
+        {
+          "category": "SIBLINGS IN POP CULTURE",
+          "value": 800,
+          "clue": "They set the film \"A Serious Man\" in their native Minnesota",
+          "answer": "the Coen brothers",
+          "isDailyDouble": false,
+          "orderNumber": 17,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alison",
+              "score": 10400
+            },
+            {
+              "player": "Veronica",
+              "score": 400
+            },
+            {
+              "player": "Eric",
+              "score": 7200
+            }
+          ]
+        },
+        {
+          "category": "VAL, HISTORY'S CLUMSIEST TIME TRAVELER",
+          "value": 1200,
+          "clue": "Val's not at the 1922 discovery of Tut's tomb in this 4-word area but 100   later, sees Rüfüs Du Sol win a Grammy for \"Alive\"",
+          "answer": "the Valley of the Kings",
+          "isDailyDouble": false,
+          "orderNumber": 18,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alison",
+              "score": 11600
+            },
+            {
+              "player": "Veronica",
+              "score": 400
+            },
+            {
+              "player": "Eric",
+              "score": 7200
+            }
+          ]
+        },
+        {
+          "category": "VAL, HISTORY'S CLUMSIEST TIME TRAVELER",
+          "value": 1600,
+          "clue": "Not great with numbers, Val doesn't end up in 1966 watching the launch of Gemini 10 but in London, in this year of the Great Fire",
+          "answer": "1666",
+          "isDailyDouble": false,
+          "orderNumber": 19,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alison",
+              "score": 11600
+            },
+            {
+              "player": "Veronica",
+              "score": 400
+            },
+            {
+              "player": "Eric",
+              "score": 8800
+            }
+          ]
+        },
+        {
+          "category": "LAND OF MILK & HONEY",
+          "value": 2000,
+          "clue": "India, the leading milk producer in the world, gets almost half of it from this beast not considered cattle",
+          "answer": "a water buffalo",
+          "isDailyDouble": false,
+          "orderNumber": 20,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Alison",
+              "score": 9600
+            },
+            {
+              "player": "Veronica",
+              "score": 400
+            },
+            {
+              "player": "Eric",
+              "score": 8800
+            }
+          ]
+        },
+        {
+          "category": "VAL, HISTORY'S CLUMSIEST TIME TRAVELER",
+          "value": 2000,
+          "clue": "\"Where's the president?\" a blundering Val asks this senator from Louisiana with a different middle name, church & party",
+          "answer": "John Kennedy",
+          "isDailyDouble": false,
+          "orderNumber": 21,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alison",
+              "score": 9600
+            },
+            {
+              "player": "Veronica",
+              "score": 400
+            },
+            {
+              "player": "Eric",
+              "score": 10800
+            }
+          ]
+        },
+        {
+          "category": "VAL, HISTORY'S CLUMSIEST TIME TRAVELER",
+          "value": 800,
+          "clue": "Val wanted to visit the Moorish city in Spain in the 1400s but one misspelled letter has him on this isle of spice & a 1983 U.S. invasion",
+          "answer": "Grenada",
+          "isDailyDouble": false,
+          "orderNumber": 22,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alison",
+              "score": 10400
+            },
+            {
+              "player": "Veronica",
+              "score": 400
+            },
+            {
+              "player": "Eric",
+              "score": 10800
+            }
+          ]
+        },
+        {
+          "category": "VAL, HISTORY'S CLUMSIEST TIME TRAVELER",
+          "value": 400,
+          "clue": "Trying to go to 1492 but ending up in 1429, Val watches this peasant girl set out for the siege of Orléans--& glory--on April 27",
+          "answer": "Joan of Arc",
+          "isDailyDouble": false,
+          "orderNumber": 23,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alison",
+              "score": 10400
+            },
+            {
+              "player": "Veronica",
+              "score": 400
+            },
+            {
+              "player": "Eric",
+              "score": 11200
+            }
+          ]
+        },
+        {
+          "category": "MAKING NOISE",
+          "value": 800,
+          "clue": "Residents of East Hampton on this island have waged a battle against the noise of weekenders' helicopters",
+          "answer": "Long Island",
+          "isDailyDouble": false,
+          "orderNumber": 24,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alison",
+              "score": 11200
+            },
+            {
+              "player": "Veronica",
+              "score": 400
+            },
+            {
+              "player": "Eric",
+              "score": 11200
+            }
+          ]
+        },
+        {
+          "category": "LAND OF MILK & HONEY",
+          "value": 800,
+          "clue": "Known for healthy honey, the Greek isle Ikaria is this type of \"colorful\" place named for its population's longevity",
+          "answer": "a blue zone",
+          "isDailyDouble": false,
+          "orderNumber": 25,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Eric"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Alison",
+              "score": 11200
+            },
+            {
+              "player": "Veronica",
+              "score": -400
+            },
+            {
+              "player": "Eric",
+              "score": 10400
+            }
+          ]
+        },
+        {
+          "category": "A \"M\"EDICAL DICTIONARY",
+          "value": 400,
+          "clue": "The dilation of blood vessels is associated with this type of recurring vascular headache",
+          "answer": "migraine",
+          "isDailyDouble": false,
+          "orderNumber": 26,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alison",
+              "score": 11600
+            },
+            {
+              "player": "Veronica",
+              "score": -400
+            },
+            {
+              "player": "Eric",
+              "score": 10400
+            }
+          ]
+        },
+        {
+          "category": "SAY IT IN SPANISH",
+          "value": 400,
+          "clue": "Orange is anaranjado & red is this word also containing J",
+          "answer": "rojo",
+          "isDailyDouble": false,
+          "orderNumber": 27,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alison",
+              "score": 11600
+            },
+            {
+              "player": "Veronica",
+              "score": -400
+            },
+            {
+              "player": "Eric",
+              "score": 10800
+            }
+          ]
+        },
+        {
+          "category": "LAND OF MILK & HONEY",
+          "value": 400,
+          "clue": "Montbéliarde cows are part of the herds in this nation's milk-loving la Gruyère region",
+          "answer": "Switzerland",
+          "isDailyDouble": false,
+          "orderNumber": 28,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alison",
+              "score": 11200
+            },
+            {
+              "player": "Veronica",
+              "score": -400
+            },
+            {
+              "player": "Eric",
+              "score": 11200
+            }
+          ]
+        },
+        {
+          "category": "MAKING NOISE",
+          "value": 400,
+          "clue": "Some travel through the Arctic requires watching out for growlers, smallish but dangerous pieces of this",
+          "answer": "ice",
+          "isDailyDouble": false,
+          "orderNumber": 29,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alison",
+              "score": 11200
+            },
+            {
+              "player": "Veronica",
+              "score": 0
+            },
+            {
+              "player": "Eric",
+              "score": 11200
+            }
+          ]
+        },
+        {
+          "category": "SIBLINGS IN POP CULTURE",
+          "value": 400,
+          "clue": "These twin TV actresses & entrepreneurs were born June 13, 1986",
+          "answer": "Mary-Kate & Ashley Olsen",
+          "isDailyDouble": false,
+          "orderNumber": 30,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alison",
+              "score": 11200
+            },
+            {
+              "player": "Veronica",
+              "score": 0
+            },
+            {
+              "player": "Eric",
+              "score": 11600
+            }
+          ]
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "Alison",
+          "score": 11200
+        },
+        {
+          "player": "Veronica",
+          "score": 0
+        },
+        {
+          "player": "Eric",
+          "score": 11600
+        }
+      ]
+    },
+    "finalJeopardy": {
+      "category": "WORDS & THEIR MEANINGS",
+      "clue": "Churchill gave a word a new meaning when he called for a \"talk with Soviet Russia upon the highest level... a parley at\" this",
+      "answer": "the summit",
+      "responses": [
+        {
+          "contestant": "Alison",
+          "response": "What Yalta ♡ OJE",
+          "isCorrect": false,
+          "isIncorrect": true,
+          "value": 1000,
+          "finalScore": 10200
+        },
+        {
+          "contestant": "Eric",
+          "response": "What is the himeleas",
+          "isCorrect": false,
+          "isIncorrect": true,
+          "value": 11599,
+          "finalScore": 1
+        }
+      ]
+    }
+  },
+  "finalScores": [
+    {
+      "player": "Alison",
+      "score": "$10,200"
+    },
+    {
+      "player": "Veronica",
+      "score": "$0"
+    },
+    {
+      "player": "Eric",
+      "score": "$1"
+    }
+  ],
+  "coryatScores": [
+    {
+      "player": "Alison",
+      "score": 9800
+    },
+    {
+      "player": "Veronica",
+      "score": 0
+    },
+    {
+      "player": "Eric",
+      "score": 14000
+    }
+  ]
+}

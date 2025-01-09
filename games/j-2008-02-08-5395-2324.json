@@ -1,0 +1,1698 @@
+{
+  "gameId": 2324,
+  "showNumber": "5395",
+  "title": "Show #5395 - Friday, February 8, 2008",
+  "date": "2008-02-08",
+  "comments": "",
+  "contestants": [
+    "Alison",
+    "Aileen",
+    "Katie"
+  ],
+  "rounds": {
+    "jeopardy": {
+      "categories": [
+        "AFRICAN HISTORY",
+        "APOCALYPSE NOW: THE CATEGORY",
+        "CHARACTERS WITH MIDDLE NAMES",
+        "VALENTINE'S DAY CUISINE",
+        "BRIDGES",
+        "LETTER PERFECT"
+      ],
+      "clues": [
+        {
+          "category": "BRIDGES",
+          "value": 200,
+          "clue": "No longer \"falling down\", this bridge from England is now found in Lake Havasu City, Arizona",
+          "answer": "London Bridge",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [
+            "Alison"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alison",
+              "score": 200
+            },
+            {
+              "player": "Aileen",
+              "score": 0
+            },
+            {
+              "player": "Katie",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "BRIDGES",
+          "value": 400,
+          "clue": "On June 25, 1998 the Mackinac Bridge in this state celebrated its 100-millionth crossing",
+          "answer": "Michigan",
+          "isDailyDouble": false,
+          "orderNumber": 2,
+          "correctContestants": [
+            "Aileen"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alison",
+              "score": 200
+            },
+            {
+              "player": "Aileen",
+              "score": 400
+            },
+            {
+              "player": "Katie",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "BRIDGES",
+          "value": 600,
+          "clue": "One year older than the Golden Gate Bridge is the one connecting San Francisco & this city",
+          "answer": "Oakland",
+          "isDailyDouble": false,
+          "orderNumber": 3,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Alison",
+            "Aileen"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Alison",
+              "score": -400
+            },
+            {
+              "player": "Aileen",
+              "score": -200
+            },
+            {
+              "player": "Katie",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "BRIDGES",
+          "value": 800,
+          "clue": "The name of this bridge in Venice is said to have come from the lamentations of prisoners",
+          "answer": "the Bridge of Sighs",
+          "isDailyDouble": false,
+          "orderNumber": 4,
+          "correctContestants": [
+            "Katie"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alison",
+              "score": -400
+            },
+            {
+              "player": "Aileen",
+              "score": -200
+            },
+            {
+              "player": "Katie",
+              "score": 800
+            }
+          ]
+        },
+        {
+          "category": "VALENTINE'S DAY CUISINE",
+          "value": 200,
+          "clue": "(Bam! Emeril Lagasse from the Food Network delivers the first clue.)  Asparagus has long been thought to help in the romance department; for variety, try the European white type, grown in darkness so they lack this pigment",
+          "answer": "chlorophyll",
+          "isDailyDouble": false,
+          "orderNumber": 5,
+          "correctContestants": [
+            "Katie"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alison",
+              "score": -400
+            },
+            {
+              "player": "Aileen",
+              "score": -200
+            },
+            {
+              "player": "Katie",
+              "score": 1000
+            }
+          ]
+        },
+        {
+          "category": "VALENTINE'S DAY CUISINE",
+          "value": 400,
+          "clue": "The two of you can nibble on this Spanish array of appetizers that may include mussels & artichokes",
+          "answer": "tapas",
+          "isDailyDouble": false,
+          "orderNumber": 6,
+          "correctContestants": [
+            "Alison"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alison",
+              "score": 0
+            },
+            {
+              "player": "Aileen",
+              "score": -200
+            },
+            {
+              "player": "Katie",
+              "score": 1000
+            }
+          ]
+        },
+        {
+          "category": "VALENTINE'S DAY CUISINE",
+          "value": 600,
+          "clue": "(Emeril Lagasse reads.)  Make the evening really special with a luxurious parfait prepared with champagne cream & caviar from this fish, historically associated with the Caspian Sea",
+          "answer": "sturgeon",
+          "isDailyDouble": false,
+          "orderNumber": 7,
+          "correctContestants": [
+            "Alison"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alison",
+              "score": 600
+            },
+            {
+              "player": "Aileen",
+              "score": -200
+            },
+            {
+              "player": "Katie",
+              "score": 1000
+            }
+          ]
+        },
+        {
+          "category": "VALENTINE'S DAY CUISINE",
+          "value": 800,
+          "clue": "Top a steak with this eggy sauce named for an old province of southwestern France",
+          "answer": "bearnaise",
+          "isDailyDouble": false,
+          "orderNumber": 8,
+          "correctContestants": [
+            "Aileen"
+          ],
+          "incorrectContestants": [
+            "Alison"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alison",
+              "score": -200
+            },
+            {
+              "player": "Aileen",
+              "score": 600
+            },
+            {
+              "player": "Katie",
+              "score": 1000
+            }
+          ]
+        },
+        {
+          "category": "VALENTINE'S DAY CUISINE",
+          "value": 1000,
+          "clue": "These seductive chocolate treats got their name because they looked like a certain fungus",
+          "answer": "truffles",
+          "isDailyDouble": false,
+          "orderNumber": 9,
+          "correctContestants": [
+            "Katie"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alison",
+              "score": -200
+            },
+            {
+              "player": "Aileen",
+              "score": 600
+            },
+            {
+              "player": "Katie",
+              "score": 2000
+            }
+          ]
+        },
+        {
+          "category": "CHARACTERS WITH MIDDLE NAMES",
+          "value": 200,
+          "clue": "All the boys in this Dostoyevsky title brood have the middle name Fyodorovich, for their dad",
+          "answer": "The Brothers Karamazov",
+          "isDailyDouble": false,
+          "orderNumber": 10,
+          "correctContestants": [
+            "Alison"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alison",
+              "score": 0
+            },
+            {
+              "player": "Aileen",
+              "score": 600
+            },
+            {
+              "player": "Katie",
+              "score": 2000
+            }
+          ]
+        },
+        {
+          "category": "CHARACTERS WITH MIDDLE NAMES",
+          "value": 400,
+          "clue": "This detective calls blackmailer Charles Augustus Milverton the worst man in London",
+          "answer": "Sherlock Holmes",
+          "isDailyDouble": false,
+          "orderNumber": 11,
+          "correctContestants": [
+            "Katie"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alison",
+              "score": 0
+            },
+            {
+              "player": "Aileen",
+              "score": 600
+            },
+            {
+              "player": "Katie",
+              "score": 2400
+            }
+          ]
+        },
+        {
+          "category": "CHARACTERS WITH MIDDLE NAMES",
+          "value": 600,
+          "clue": "Jean Marie Latour has this religious title when \"Death Comes for\" him",
+          "answer": "the Archbishop",
+          "isDailyDouble": false,
+          "orderNumber": 12,
+          "correctContestants": [
+            "Aileen"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alison",
+              "score": 0
+            },
+            {
+              "player": "Aileen",
+              "score": 1200
+            },
+            {
+              "player": "Katie",
+              "score": 2400
+            }
+          ]
+        },
+        {
+          "category": "CHARACTERS WITH MIDDLE NAMES",
+          "value": 800,
+          "clue": "Jose Arcadio Buendia is a creation of this Colombian author who also goes by 3 names",
+          "answer": "Gabriel Garcia Marquez",
+          "isDailyDouble": false,
+          "orderNumber": 13,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Alison",
+              "score": 0
+            },
+            {
+              "player": "Aileen",
+              "score": 1200
+            },
+            {
+              "player": "Katie",
+              "score": 2400
+            }
+          ]
+        },
+        {
+          "category": "CHARACTERS WITH MIDDLE NAMES",
+          "value": 1000,
+          "clue": "Middle name of Nantucket narrator Arthur (or A.) Pym",
+          "answer": "Gordon",
+          "isDailyDouble": false,
+          "orderNumber": 14,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Katie"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Alison",
+              "score": 0
+            },
+            {
+              "player": "Aileen",
+              "score": 1200
+            },
+            {
+              "player": "Katie",
+              "score": 1400
+            }
+          ]
+        },
+        {
+          "category": "APOCALYPSE NOW: THE CATEGORY",
+          "value": 200,
+          "clue": "He directed \"Apocalypse Now\"",
+          "answer": "Coppola",
+          "isDailyDouble": false,
+          "orderNumber": 15,
+          "correctContestants": [
+            "Aileen"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alison",
+              "score": 0
+            },
+            {
+              "player": "Aileen",
+              "score": 1400
+            },
+            {
+              "player": "Katie",
+              "score": 1400
+            }
+          ]
+        },
+        {
+          "category": "APOCALYPSE NOW: THE CATEGORY",
+          "value": 400,
+          "clue": "He played the elusive renegade Col. Kurtz, who had become a godlike figure to jungle tribal natives",
+          "answer": "Brando",
+          "isDailyDouble": false,
+          "orderNumber": 16,
+          "correctContestants": [
+            "Katie"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alison",
+              "score": 0
+            },
+            {
+              "player": "Aileen",
+              "score": 1400
+            },
+            {
+              "player": "Katie",
+              "score": 1800
+            }
+          ]
+        },
+        {
+          "category": "APOCALYPSE NOW: THE CATEGORY",
+          "value": 600,
+          "clue": "It's what Robert Duvall's Col. Kilgore loves the smell of in the morning because it \"smells like victory\"",
+          "answer": "napalm",
+          "isDailyDouble": false,
+          "orderNumber": 17,
+          "correctContestants": [
+            "Alison"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alison",
+              "score": 600
+            },
+            {
+              "player": "Aileen",
+              "score": 1400
+            },
+            {
+              "player": "Katie",
+              "score": 1800
+            }
+          ]
+        },
+        {
+          "category": "BRIDGES",
+          "value": 1000,
+          "clue": "Carrying traffic from Fort Lee to New York City since 1931, its lower level opened in 1962",
+          "answer": "the George Washington Bridge",
+          "isDailyDouble": false,
+          "orderNumber": 18,
+          "correctContestants": [
+            "Alison"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alison",
+              "score": 1600
+            },
+            {
+              "player": "Aileen",
+              "score": 1400
+            },
+            {
+              "player": "Katie",
+              "score": 1800
+            }
+          ]
+        },
+        {
+          "category": "LETTER PERFECT",
+          "value": 200,
+          "clue": "With \"note\", it's slang for 100 bucks; it's also a lower-quality rating for a corporate bond",
+          "answer": "C",
+          "isDailyDouble": false,
+          "orderNumber": 19,
+          "correctContestants": [
+            "Aileen"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alison",
+              "score": 1600
+            },
+            {
+              "player": "Aileen",
+              "score": 1600
+            },
+            {
+              "player": "Katie",
+              "score": 1800
+            }
+          ]
+        },
+        {
+          "category": "LETTER PERFECT",
+          "value": 400,
+          "clue": "A jet pack & fake fingerprints are among the many gadgets he's supplied to James Bond",
+          "answer": "Q",
+          "isDailyDouble": false,
+          "orderNumber": 20,
+          "correctContestants": [
+            "Alison"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alison",
+              "score": 2000
+            },
+            {
+              "player": "Aileen",
+              "score": 1600
+            },
+            {
+              "player": "Katie",
+              "score": 1800
+            }
+          ]
+        },
+        {
+          "category": "LETTER PERFECT",
+          "value": 600,
+          "clue": "Ambrose Bierce called it \"the first thought of the mind, the first object of affection\"",
+          "answer": "I",
+          "isDailyDouble": false,
+          "orderNumber": 21,
+          "correctContestants": [
+            "Aileen"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alison",
+              "score": 2000
+            },
+            {
+              "player": "Aileen",
+              "score": 2200
+            },
+            {
+              "player": "Katie",
+              "score": 1800
+            }
+          ]
+        },
+        {
+          "category": "LETTER PERFECT",
+          "value": 800,
+          "clue": "It's the chemical symbol for the first element on the periodic table",
+          "answer": "H (for hydrogen)",
+          "isDailyDouble": false,
+          "orderNumber": 22,
+          "correctContestants": [
+            "Aileen"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alison",
+              "score": 2000
+            },
+            {
+              "player": "Aileen",
+              "score": 3000
+            },
+            {
+              "player": "Katie",
+              "score": 1800
+            }
+          ]
+        },
+        {
+          "category": "LETTER PERFECT",
+          "value": 1000,
+          "clue": "During the Civil War, soldiers who cut out on the army & went AWOL were often branded with this letter",
+          "answer": "D (for deserter)",
+          "isDailyDouble": true,
+          "orderNumber": 23,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Aileen"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alison",
+              "score": 2000
+            },
+            {
+              "player": "Aileen",
+              "score": 2000
+            },
+            {
+              "player": "Katie",
+              "score": 1800
+            }
+          ]
+        },
+        {
+          "category": "APOCALYPSE NOW: THE CATEGORY",
+          "value": 800,
+          "clue": "It's the country that Martin Sheen & his team must illegally enter in search of Col. Kurtz",
+          "answer": "Cambodia",
+          "isDailyDouble": false,
+          "orderNumber": 24,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Aileen"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Alison",
+              "score": 2000
+            },
+            {
+              "player": "Aileen",
+              "score": 1200
+            },
+            {
+              "player": "Katie",
+              "score": 1800
+            }
+          ]
+        },
+        {
+          "category": "APOCALYPSE NOW: THE CATEGORY",
+          "value": 1000,
+          "clue": "Veteran war photographer Tim Page inspired the whacked-out character played by this actor in the film",
+          "answer": "Dennis Hopper",
+          "isDailyDouble": false,
+          "orderNumber": 25,
+          "correctContestants": [
+            "Aileen"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alison",
+              "score": 2000
+            },
+            {
+              "player": "Aileen",
+              "score": 2200
+            },
+            {
+              "player": "Katie",
+              "score": 1800
+            }
+          ]
+        },
+        {
+          "category": "AFRICAN HISTORY",
+          "value": 200,
+          "clue": "The earliest humans in Gabon are believed to be the Babinga, a branch of these small-in-stature people",
+          "answer": "Pygmies",
+          "isDailyDouble": false,
+          "orderNumber": 26,
+          "correctContestants": [
+            "Katie"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alison",
+              "score": 2000
+            },
+            {
+              "player": "Aileen",
+              "score": 2200
+            },
+            {
+              "player": "Katie",
+              "score": 2000
+            }
+          ]
+        },
+        {
+          "category": "AFRICAN HISTORY",
+          "value": 400,
+          "clue": "In 1936, at the age of 16, Farouk succeeded his father King Fuad I as king of this country",
+          "answer": "Egypt",
+          "isDailyDouble": false,
+          "orderNumber": 27,
+          "correctContestants": [
+            "Aileen"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alison",
+              "score": 2000
+            },
+            {
+              "player": "Aileen",
+              "score": 2600
+            },
+            {
+              "player": "Katie",
+              "score": 2000
+            }
+          ]
+        },
+        {
+          "category": "AFRICAN HISTORY",
+          "value": 600,
+          "clue": "A 1978 U.N. resolution to decolonize this South African territory began to be implemented in 1989",
+          "answer": "Namibia",
+          "isDailyDouble": false,
+          "orderNumber": 28,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Alison",
+              "score": 2000
+            },
+            {
+              "player": "Aileen",
+              "score": 2600
+            },
+            {
+              "player": "Katie",
+              "score": 2000
+            }
+          ]
+        },
+        {
+          "category": "AFRICAN HISTORY",
+          "value": 800,
+          "clue": "In 1498 this Portuguese explorer rounded South Africa & became the first European to reach Mozambique",
+          "answer": "(Vasco) da Gama",
+          "isDailyDouble": false,
+          "orderNumber": 29,
+          "correctContestants": [
+            "Alison"
+          ],
+          "incorrectContestants": [
+            "Aileen"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alison",
+              "score": 2800
+            },
+            {
+              "player": "Aileen",
+              "score": 1800
+            },
+            {
+              "player": "Katie",
+              "score": 2000
+            }
+          ]
+        },
+        {
+          "category": "AFRICAN HISTORY",
+          "value": 1000,
+          "clue": "In 1890 this British financier & empire builder was elected prime minister of Cape Colony",
+          "answer": "Cecil Rhodes",
+          "isDailyDouble": false,
+          "orderNumber": 30,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Alison",
+              "score": 2800
+            },
+            {
+              "player": "Aileen",
+              "score": 1800
+            },
+            {
+              "player": "Katie",
+              "score": 2000
+            }
+          ]
+        }
+      ],
+      "firstBreakScores": [
+        {
+          "player": "Alison",
+          "score": 0
+        },
+        {
+          "player": "Aileen",
+          "score": 1200
+        },
+        {
+          "player": "Katie",
+          "score": 1400
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "Alison",
+          "score": 2800
+        },
+        {
+          "player": "Aileen",
+          "score": 1800
+        },
+        {
+          "player": "Katie",
+          "score": 2000
+        }
+      ]
+    },
+    "doubleJeopardy": {
+      "categories": [
+        "MILITARY AIRCRAFT",
+        "SONGS FROM MUSICALS",
+        "NOW IN STORE",
+        "BORN & DIED",
+        "EXITING GEORGE W. BUSH'S CABINET",
+        "\"B\" HAPPY"
+      ],
+      "clues": [
+        {
+          "category": "\"B\" HAPPY",
+          "value": 400,
+          "clue": "Your navel maneuvers will center on it",
+          "answer": "your belly button",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alison",
+              "score": 3200
+            },
+            {
+              "player": "Aileen",
+              "score": 1800
+            },
+            {
+              "player": "Katie",
+              "score": 2000
+            }
+          ]
+        },
+        {
+          "category": "\"B\" HAPPY",
+          "value": 800,
+          "clue": "Austin Powers knows this word means to comport oneself properly",
+          "answer": "behave",
+          "isDailyDouble": false,
+          "orderNumber": 2,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alison",
+              "score": 4000
+            },
+            {
+              "player": "Aileen",
+              "score": 1800
+            },
+            {
+              "player": "Katie",
+              "score": 2000
+            }
+          ]
+        },
+        {
+          "category": "\"B\" HAPPY",
+          "value": 1200,
+          "clue": "A hole made by a drill, or someone who natters on tediously",
+          "answer": "a bore",
+          "isDailyDouble": false,
+          "orderNumber": 3,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alison",
+              "score": 4000
+            },
+            {
+              "player": "Aileen",
+              "score": 1800
+            },
+            {
+              "player": "Katie",
+              "score": 3200
+            }
+          ]
+        },
+        {
+          "category": "\"B\" HAPPY",
+          "value": 1800,
+          "clue": "Over time, the ancient language of Akkadian split into 2 dialects, Assyrian & this",
+          "answer": "Babylonian",
+          "isDailyDouble": true,
+          "orderNumber": 4,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alison",
+              "score": 4000
+            },
+            {
+              "player": "Aileen",
+              "score": 1800
+            },
+            {
+              "player": "Katie",
+              "score": 1400
+            }
+          ]
+        },
+        {
+          "category": "\"B\" HAPPY",
+          "value": 2000,
+          "clue": "It sounds like a gun manufacturer, & it's the name for the stiff hat worn by Catholic bishops & cardinals",
+          "answer": "biretta",
+          "isDailyDouble": false,
+          "orderNumber": 5,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Alison",
+              "score": 4000
+            },
+            {
+              "player": "Aileen",
+              "score": 1800
+            },
+            {
+              "player": "Katie",
+              "score": 1400
+            }
+          ]
+        },
+        {
+          "category": "SONGS FROM MUSICALS",
+          "value": 400,
+          "clue": "\"If I Were A Rich Man\"",
+          "answer": "Fiddler on the Roof",
+          "isDailyDouble": false,
+          "orderNumber": 6,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alison",
+              "score": 4000
+            },
+            {
+              "player": "Aileen",
+              "score": 1800
+            },
+            {
+              "player": "Katie",
+              "score": 1800
+            }
+          ]
+        },
+        {
+          "category": "SONGS FROM MUSICALS",
+          "value": 800,
+          "clue": "\"One By One\" & \"Can You Feel The Love Tonight?\"",
+          "answer": "The Lion King",
+          "isDailyDouble": false,
+          "orderNumber": 7,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alison",
+              "score": 4000
+            },
+            {
+              "player": "Aileen",
+              "score": 2600
+            },
+            {
+              "player": "Katie",
+              "score": 1800
+            }
+          ]
+        },
+        {
+          "category": "SONGS FROM MUSICALS",
+          "value": 1200,
+          "clue": "\"When Velma Takes The Stand\"",
+          "answer": "Chicago",
+          "isDailyDouble": false,
+          "orderNumber": 8,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alison",
+              "score": 4000
+            },
+            {
+              "player": "Aileen",
+              "score": 3800
+            },
+            {
+              "player": "Katie",
+              "score": 1800
+            }
+          ]
+        },
+        {
+          "category": "SONGS FROM MUSICALS",
+          "value": 1600,
+          "clue": "\"Pilate's Dream\" & \"Hosanna\"",
+          "answer": "Jesus Christ Superstar",
+          "isDailyDouble": false,
+          "orderNumber": 9,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alison",
+              "score": 4000
+            },
+            {
+              "player": "Aileen",
+              "score": 5400
+            },
+            {
+              "player": "Katie",
+              "score": 1800
+            }
+          ]
+        },
+        {
+          "category": "SONGS FROM MUSICALS",
+          "value": 2000,
+          "clue": "\"Defying Gravity\"",
+          "answer": "Wicked",
+          "isDailyDouble": false,
+          "orderNumber": 10,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Alison",
+              "score": 4000
+            },
+            {
+              "player": "Aileen",
+              "score": 5400
+            },
+            {
+              "player": "Katie",
+              "score": 1800
+            }
+          ]
+        },
+        {
+          "category": "BORN & DIED",
+          "value": 400,
+          "clue": "A religious leader born June 1, 1801 in Whitingham, Vermont; died Aug. 29, 1877 in Salt Lake City",
+          "answer": "Brigham Young",
+          "isDailyDouble": false,
+          "orderNumber": 11,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alison",
+              "score": 3600
+            },
+            {
+              "player": "Aileen",
+              "score": 5400
+            },
+            {
+              "player": "Katie",
+              "score": 2200
+            }
+          ]
+        },
+        {
+          "category": "BORN & DIED",
+          "value": 800,
+          "clue": "An artist, born Sept. 7, 1860 in Greenwich, New York; died Dec. 13, 1961 in Hoosick Falls",
+          "answer": "Grandma Moses",
+          "isDailyDouble": false,
+          "orderNumber": 12,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alison",
+              "score": 3600
+            },
+            {
+              "player": "Aileen",
+              "score": 5400
+            },
+            {
+              "player": "Katie",
+              "score": 3000
+            }
+          ]
+        },
+        {
+          "category": "BORN & DIED",
+          "value": 1200,
+          "clue": "An actor, born Feb. 8, 1931 in Marion, Indiana; died Sept. 30, 1955 near Paso Robles, California",
+          "answer": "James Dean",
+          "isDailyDouble": false,
+          "orderNumber": 13,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alison",
+              "score": 3600
+            },
+            {
+              "player": "Aileen",
+              "score": 5400
+            },
+            {
+              "player": "Katie",
+              "score": 4200
+            }
+          ]
+        },
+        {
+          "category": "BORN & DIED",
+          "value": 1600,
+          "clue": "An author, born Nov. 13, 1850 in Edinburgh, Scotland; died Dec. 3, 1894 in Samoa",
+          "answer": "Robert Louis Stevenson",
+          "isDailyDouble": false,
+          "orderNumber": 14,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Alison",
+              "score": 3600
+            },
+            {
+              "player": "Aileen",
+              "score": 5400
+            },
+            {
+              "player": "Katie",
+              "score": 4200
+            }
+          ]
+        },
+        {
+          "category": "BORN & DIED",
+          "value": 2000,
+          "clue": "A statesman born March 19, 1860 in Salem, Illinois; died July 26, 1925 in Dayton, Tennessee",
+          "answer": "William Jennings Bryan",
+          "isDailyDouble": false,
+          "orderNumber": 15,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Alison",
+              "score": 3600
+            },
+            {
+              "player": "Aileen",
+              "score": 5400
+            },
+            {
+              "player": "Katie",
+              "score": 4200
+            }
+          ]
+        },
+        {
+          "category": "MILITARY AIRCRAFT",
+          "value": 400,
+          "clue": "The German Stuka was this type of plane named for the way it zoomed toward the ground to deliver its ordnance",
+          "answer": "a dive bomber",
+          "isDailyDouble": false,
+          "orderNumber": 16,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alison",
+              "score": 3600
+            },
+            {
+              "player": "Aileen",
+              "score": 5400
+            },
+            {
+              "player": "Katie",
+              "score": 4600
+            }
+          ]
+        },
+        {
+          "category": "MILITARY AIRCRAFT",
+          "value": 800,
+          "clue": "This country's big bomber of the 1950s was the TU-95 Bear",
+          "answer": "the Soviet Union",
+          "isDailyDouble": false,
+          "orderNumber": 17,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alison",
+              "score": 3600
+            },
+            {
+              "player": "Aileen",
+              "score": 5400
+            },
+            {
+              "player": "Katie",
+              "score": 5400
+            }
+          ]
+        },
+        {
+          "category": "MILITARY AIRCRAFT",
+          "value": 1200,
+          "clue": "McDonnell's F-4 fighter used in the United States in the Vietnam War was known as this... oops... hey, where'd it go?",
+          "answer": "the Phantom",
+          "isDailyDouble": false,
+          "orderNumber": 18,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Alison",
+              "score": 3600
+            },
+            {
+              "player": "Aileen",
+              "score": 5400
+            },
+            {
+              "player": "Katie",
+              "score": 5400
+            }
+          ]
+        },
+        {
+          "category": "MILITARY AIRCRAFT",
+          "value": 1600,
+          "clue": "Vertol, later Boeing Vertol, developed these, like the Sea Knight & the Chinook",
+          "answer": "helicopters",
+          "isDailyDouble": false,
+          "orderNumber": 19,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alison",
+              "score": 3600
+            },
+            {
+              "player": "Aileen",
+              "score": 7000
+            },
+            {
+              "player": "Katie",
+              "score": 5400
+            }
+          ]
+        },
+        {
+          "category": "MILITARY AIRCRAFT",
+          "value": 2000,
+          "clue": "(Sarah of the Clue Crew delivers the clue from Nellis Air Force Base in Las Vegas, Nevada.)  Used regularly in Iraq, this aircraft with an aggressive name is designated MQ-1; the 1 means it's the first of its kind, a long-range, unmanned, recon aircraft",
+          "answer": "the Predator",
+          "isDailyDouble": false,
+          "orderNumber": 20,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Alison",
+              "score": 3600
+            },
+            {
+              "player": "Aileen",
+              "score": 7000
+            },
+            {
+              "player": "Katie",
+              "score": 5400
+            }
+          ]
+        },
+        {
+          "category": "NOW IN STORE",
+          "value": 400,
+          "clue": "Models Marcus Schenkenberg & Jerry Hall helped cargo pants sail up the sales chart for this store",
+          "answer": "Old Navy",
+          "isDailyDouble": false,
+          "orderNumber": 21,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Alison",
+              "score": 3200
+            },
+            {
+              "player": "Aileen",
+              "score": 7000
+            },
+            {
+              "player": "Katie",
+              "score": 5400
+            }
+          ]
+        },
+        {
+          "category": "NOW IN STORE",
+          "value": 800,
+          "clue": "Mizrahi, Mossimo & Michael Graves are some of the designers making products for this retail chain",
+          "answer": "Target",
+          "isDailyDouble": false,
+          "orderNumber": 22,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alison",
+              "score": 3200
+            },
+            {
+              "player": "Aileen",
+              "score": 7000
+            },
+            {
+              "player": "Katie",
+              "score": 6200
+            }
+          ]
+        },
+        {
+          "category": "NOW IN STORE",
+          "value": 1200,
+          "clue": "Free People & Anthropologie are divisions of this company for \"city\" people",
+          "answer": "Urban Outfitters",
+          "isDailyDouble": false,
+          "orderNumber": 23,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alison",
+              "score": 3200
+            },
+            {
+              "player": "Aileen",
+              "score": 8200
+            },
+            {
+              "player": "Katie",
+              "score": 6200
+            }
+          ]
+        },
+        {
+          "category": "NOW IN STORE",
+          "value": 1600,
+          "clue": "This retailer got large names at closeout prices when it bought up Mac Frugal's & Pic 'n' Save",
+          "answer": "Big Lots",
+          "isDailyDouble": false,
+          "orderNumber": 24,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Alison",
+              "score": 3200
+            },
+            {
+              "player": "Aileen",
+              "score": 8200
+            },
+            {
+              "player": "Katie",
+              "score": 6200
+            }
+          ]
+        },
+        {
+          "category": "NOW IN STORE",
+          "value": 2000,
+          "clue": "Macy's, Inc. also owns this other large New York department store that's on 59th & Lexington",
+          "answer": "Bloomingdale's",
+          "isDailyDouble": false,
+          "orderNumber": 25,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alison",
+              "score": 5200
+            },
+            {
+              "player": "Aileen",
+              "score": 8200
+            },
+            {
+              "player": "Katie",
+              "score": 6200
+            }
+          ]
+        },
+        {
+          "category": "EXITING GEORGE W. BUSH'S CABINET",
+          "value": 400,
+          "clue": "His August 26, 2007 Attorney General resignation letter to the President ended with \"I remain by your side\"",
+          "answer": "(Alberto) Gonzales",
+          "isDailyDouble": false,
+          "orderNumber": 26,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alison",
+              "score": 5600
+            },
+            {
+              "player": "Aileen",
+              "score": 8200
+            },
+            {
+              "player": "Katie",
+              "score": 6200
+            }
+          ]
+        },
+        {
+          "category": "EXITING GEORGE W. BUSH'S CABINET",
+          "value": 800,
+          "clue": "His Nov. 12, 2004 letter read, \"I, therefore, resign as the 65th Secretary of State, effectve at your pleasure\"",
+          "answer": "(Colin) Powell",
+          "isDailyDouble": false,
+          "orderNumber": 27,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alison",
+              "score": 5600
+            },
+            {
+              "player": "Aileen",
+              "score": 8200
+            },
+            {
+              "player": "Katie",
+              "score": 7000
+            }
+          ]
+        },
+        {
+          "category": "EXITING GEORGE W. BUSH'S CABINET",
+          "value": 1200,
+          "clue": "Resigning as Atty. General in 2004, he remarked, \"The safety of Americans from crime and terror has been achieved\"",
+          "answer": "Ashcroft",
+          "isDailyDouble": false,
+          "orderNumber": 28,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alison",
+              "score": 6800
+            },
+            {
+              "player": "Aileen",
+              "score": 8200
+            },
+            {
+              "player": "Katie",
+              "score": 7000
+            }
+          ]
+        },
+        {
+          "category": "EXITING GEORGE W. BUSH'S CABINET",
+          "value": 800,
+          "clue": "His 2004 resignation letter cited the tragedy of Flight 93 & his thanks for \"the opportunity to fight back\"",
+          "answer": "Tom Ridge",
+          "isDailyDouble": true,
+          "orderNumber": 29,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alison",
+              "score": 6000
+            },
+            {
+              "player": "Aileen",
+              "score": 8200
+            },
+            {
+              "player": "Katie",
+              "score": 7000
+            }
+          ]
+        },
+        {
+          "category": "EXITING GEORGE W. BUSH'S CABINET",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alison",
+              "score": 6000
+            },
+            {
+              "player": "Aileen",
+              "score": 8200
+            },
+            {
+              "player": "Katie",
+              "score": 7000
+            }
+          ]
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "Alison",
+          "score": 6000
+        },
+        {
+          "player": "Aileen",
+          "score": 8200
+        },
+        {
+          "player": "Katie",
+          "score": 7000
+        }
+      ]
+    },
+    "finalJeopardy": {
+      "category": "NORTH AMERICAN GEOGRAPHY",
+      "clue": "This 1,980-mile river that starts in Canada is the longest in the Western Hemisphere that flows to the Pacific Ocean",
+      "answer": "the Yukon River",
+      "responses": [
+        {
+          "contestant": "Alison",
+          "response": "What is the Columbia River?",
+          "isCorrect": false,
+          "isIncorrect": true,
+          "value": 6000,
+          "finalScore": 0
+        },
+        {
+          "contestant": "Katie",
+          "response": "What is the Snake",
+          "isCorrect": false,
+          "isIncorrect": true,
+          "value": 7000,
+          "finalScore": 0
+        },
+        {
+          "contestant": "Aileen",
+          "response": "What is the Columbia?",
+          "isCorrect": false,
+          "isIncorrect": true,
+          "value": 5801,
+          "finalScore": 2399
+        }
+      ]
+    }
+  },
+  "finalScores": [
+    {
+      "player": "Alison",
+      "score": "$0"
+    },
+    {
+      "player": "Aileen",
+      "score": "$2,399"
+    },
+    {
+      "player": "Katie",
+      "score": "$0"
+    }
+  ],
+  "coryatScores": [
+    {
+      "player": "Alison",
+      "score": 6800
+    },
+    {
+      "player": "Aileen",
+      "score": 9200
+    },
+    {
+      "player": "Katie",
+      "score": 8800
+    }
+  ]
+}

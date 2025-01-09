@@ -1,0 +1,1697 @@
+{
+  "gameId": 118,
+  "showNumber": "4697",
+  "title": "Show #4697 - Tuesday, January 25, 2005",
+  "date": "2005-01-25",
+  "comments": "",
+  "contestants": [
+    "Ted",
+    "Bob",
+    "Leila"
+  ],
+  "rounds": {
+    "jeopardy": {
+      "categories": [
+        "THE SMALLEST IN AREA",
+        "CRAZY TOP 40 TUNES",
+        "WINEMAKING",
+        "AROUND THE COLOSSEUM WITH COWARDUS",
+        "WORN OUT",
+        "THE \"L\" I AM"
+      ],
+      "clues": [
+        {
+          "category": "WINEMAKING",
+          "value": 200,
+          "clue": "(Sarah of the Clue Crew dips a measurement device into a beaker of grape juice in Napa Valley, CA.) The refractometer tests the level of this carbohydrate which converts to alcohol during fermentation",
+          "answer": "sugar",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [
+            "Bob"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ted",
+              "score": 0
+            },
+            {
+              "player": "Bob",
+              "score": 200
+            },
+            {
+              "player": "Leila",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "THE SMALLEST IN AREA",
+          "value": 200,
+          "clue": "Canada,United States,Russia",
+          "answer": "the United States",
+          "isDailyDouble": false,
+          "orderNumber": 2,
+          "correctContestants": [
+            "Ted"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ted",
+              "score": 200
+            },
+            {
+              "player": "Bob",
+              "score": 200
+            },
+            {
+              "player": "Leila",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "THE SMALLEST IN AREA",
+          "value": 400,
+          "clue": "Australia,New Zealand,Indonesia",
+          "answer": "New Zealand",
+          "isDailyDouble": false,
+          "orderNumber": 3,
+          "correctContestants": [
+            "Leila"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ted",
+              "score": 200
+            },
+            {
+              "player": "Bob",
+              "score": 200
+            },
+            {
+              "player": "Leila",
+              "score": 400
+            }
+          ]
+        },
+        {
+          "category": "THE SMALLEST IN AREA",
+          "value": 600,
+          "clue": "Egypt,Libya,Algeria",
+          "answer": "Egypt",
+          "isDailyDouble": false,
+          "orderNumber": 4,
+          "correctContestants": [
+            "Leila"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ted",
+              "score": 200
+            },
+            {
+              "player": "Bob",
+              "score": 200
+            },
+            {
+              "player": "Leila",
+              "score": 1000
+            }
+          ]
+        },
+        {
+          "category": "THE SMALLEST IN AREA",
+          "value": 800,
+          "clue": "Sweden,Norway,Denmark",
+          "answer": "Denmark",
+          "isDailyDouble": false,
+          "orderNumber": 5,
+          "correctContestants": [
+            "Ted"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ted",
+              "score": 1000
+            },
+            {
+              "player": "Bob",
+              "score": 200
+            },
+            {
+              "player": "Leila",
+              "score": 1000
+            }
+          ]
+        },
+        {
+          "category": "THE SMALLEST IN AREA",
+          "value": 1000,
+          "clue": "Pakistan,India,Afghanistan",
+          "answer": "Afghanistan",
+          "isDailyDouble": false,
+          "orderNumber": 6,
+          "correctContestants": [
+            "Leila"
+          ],
+          "incorrectContestants": [
+            "Bob"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ted",
+              "score": 1000
+            },
+            {
+              "player": "Bob",
+              "score": -800
+            },
+            {
+              "player": "Leila",
+              "score": 2000
+            }
+          ]
+        },
+        {
+          "category": "WINEMAKING",
+          "value": 400,
+          "clue": "(Jimmy of the Clue Crew strolls through a cellar lined with barrels in Napa Valley, CA.)  This type of wood is traditionally used for aging primarily because of the flavor it imparts to wine",
+          "answer": "oak",
+          "isDailyDouble": false,
+          "orderNumber": 7,
+          "correctContestants": [
+            "Ted"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ted",
+              "score": 1400
+            },
+            {
+              "player": "Bob",
+              "score": -800
+            },
+            {
+              "player": "Leila",
+              "score": 2000
+            }
+          ]
+        },
+        {
+          "category": "WINEMAKING",
+          "value": 600,
+          "clue": "(Sarah of the Clue Crew points out a grape vine in the vineyard in Napa Valley, CA.)  Because American root stock & Europe vines resist different pests, growers combine them using this technique",
+          "answer": "grafting",
+          "isDailyDouble": false,
+          "orderNumber": 8,
+          "correctContestants": [
+            "Bob"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ted",
+              "score": 1400
+            },
+            {
+              "player": "Bob",
+              "score": -200
+            },
+            {
+              "player": "Leila",
+              "score": 2000
+            }
+          ]
+        },
+        {
+          "category": "THE \"L\" I AM",
+          "value": 200,
+          "clue": "I am using the \"Joy of Cooking\" recipe for broiled fillets of swordfish with olive oil and this juice",
+          "answer": "lemon",
+          "isDailyDouble": false,
+          "orderNumber": 9,
+          "correctContestants": [
+            "Ted"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ted",
+              "score": 1600
+            },
+            {
+              "player": "Bob",
+              "score": -200
+            },
+            {
+              "player": "Leila",
+              "score": 2000
+            }
+          ]
+        },
+        {
+          "category": "THE \"L\" I AM",
+          "value": 400,
+          "clue": "I am having a sky light made from this, a trademarked name for transparent plastic",
+          "answer": "Lucite",
+          "isDailyDouble": false,
+          "orderNumber": 10,
+          "correctContestants": [
+            "Leila"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ted",
+              "score": 1600
+            },
+            {
+              "player": "Bob",
+              "score": -200
+            },
+            {
+              "player": "Leila",
+              "score": 2400
+            }
+          ]
+        },
+        {
+          "category": "THE \"L\" I AM",
+          "value": 600,
+          "clue": "I am learning to play this instrument seen here",
+          "answer": "lute",
+          "isDailyDouble": false,
+          "orderNumber": 11,
+          "correctContestants": [
+            "Leila"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ted",
+              "score": 1600
+            },
+            {
+              "player": "Bob",
+              "score": -200
+            },
+            {
+              "player": "Leila",
+              "score": 3000
+            }
+          ]
+        },
+        {
+          "category": "THE \"L\" I AM",
+          "value": 800,
+          "clue": "I am an LL.D., which stands for doctor of this",
+          "answer": "laws",
+          "isDailyDouble": false,
+          "orderNumber": 12,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Ted",
+              "score": 1600
+            },
+            {
+              "player": "Bob",
+              "score": -200
+            },
+            {
+              "player": "Leila",
+              "score": 3000
+            }
+          ]
+        },
+        {
+          "category": "THE \"L\" I AM",
+          "value": 1000,
+          "clue": "I am from this republic that borders Russia, Poland & Belarus",
+          "answer": "Lithuania",
+          "isDailyDouble": false,
+          "orderNumber": 13,
+          "correctContestants": [
+            "Ted"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ted",
+              "score": 2600
+            },
+            {
+              "player": "Bob",
+              "score": -200
+            },
+            {
+              "player": "Leila",
+              "score": 3000
+            }
+          ]
+        },
+        {
+          "category": "CRAZY TOP 40 TUNES",
+          "value": 200,
+          "clue": "\"Crazy\" penned by Willie Nelson made the pop top 10 in 1961 for this singer",
+          "answer": "Patsy Cline",
+          "isDailyDouble": false,
+          "orderNumber": 14,
+          "correctContestants": [
+            "Bob"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ted",
+              "score": 2600
+            },
+            {
+              "player": "Bob",
+              "score": 0
+            },
+            {
+              "player": "Leila",
+              "score": 3000
+            }
+          ]
+        },
+        {
+          "category": "WORN OUT",
+          "value": 200,
+          "clue": "It's a south-of-the-border wool blanket made with a slit opening for the head",
+          "answer": "a poncho",
+          "isDailyDouble": false,
+          "orderNumber": 15,
+          "correctContestants": [
+            "Ted"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ted",
+              "score": 2800
+            },
+            {
+              "player": "Bob",
+              "score": 0
+            },
+            {
+              "player": "Leila",
+              "score": 3000
+            }
+          ]
+        },
+        {
+          "category": "WINEMAKING",
+          "value": 800,
+          "clue": "(Sarah of the Clue Crew reads the clue from a vineyard in Napa Valley, CA.)  Modern vineyards entwine the vines in this lattice structure to allow light & air to get to the plants",
+          "answer": "a trellis",
+          "isDailyDouble": false,
+          "orderNumber": 16,
+          "correctContestants": [
+            "Bob"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ted",
+              "score": 2800
+            },
+            {
+              "player": "Bob",
+              "score": 800
+            },
+            {
+              "player": "Leila",
+              "score": 3000
+            }
+          ]
+        },
+        {
+          "category": "WORN OUT",
+          "value": 400,
+          "clue": "British \"braces\" are the equivalent of these American trouser accessories",
+          "answer": "suspenders",
+          "isDailyDouble": false,
+          "orderNumber": 17,
+          "correctContestants": [
+            "Ted"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ted",
+              "score": 3200
+            },
+            {
+              "player": "Bob",
+              "score": 800
+            },
+            {
+              "player": "Leila",
+              "score": 3000
+            }
+          ]
+        },
+        {
+          "category": "CRAZY TOP 40 TUNES",
+          "value": 400,
+          "clue": "In 1993, this band was \"Cryin'\"; in '94 it went from \"Amazing\" to \"Crazy\"",
+          "answer": "Aerosmith",
+          "isDailyDouble": false,
+          "orderNumber": 18,
+          "correctContestants": [
+            "Ted"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ted",
+              "score": 3600
+            },
+            {
+              "player": "Bob",
+              "score": 800
+            },
+            {
+              "player": "Leila",
+              "score": 3000
+            }
+          ]
+        },
+        {
+          "category": "CRAZY TOP 40 TUNES",
+          "value": 600,
+          "clue": "In 1976, this Seattle band led by the Wilson sisters went \"Crazy On You\"",
+          "answer": "Heart",
+          "isDailyDouble": false,
+          "orderNumber": 19,
+          "correctContestants": [
+            "Bob"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ted",
+              "score": 3600
+            },
+            {
+              "player": "Bob",
+              "score": 1400
+            },
+            {
+              "player": "Leila",
+              "score": 3000
+            }
+          ]
+        },
+        {
+          "category": "WORN OUT",
+          "value": 1400,
+          "clue": "They were once measured in buttons; a one-button was wrist length, a 16-button, formal length",
+          "answer": "gloves",
+          "isDailyDouble": true,
+          "orderNumber": 20,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Bob"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ted",
+              "score": 3600
+            },
+            {
+              "player": "Bob",
+              "score": 0
+            },
+            {
+              "player": "Leila",
+              "score": 3000
+            }
+          ]
+        },
+        {
+          "category": "WORN OUT",
+          "value": 800,
+          "clue": "The soles of some footwear are made of this edible-sounding type of crinkly rubber",
+          "answer": "crepe",
+          "isDailyDouble": false,
+          "orderNumber": 21,
+          "correctContestants": [
+            "Leila"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ted",
+              "score": 3600
+            },
+            {
+              "player": "Bob",
+              "score": 0
+            },
+            {
+              "player": "Leila",
+              "score": 3800
+            }
+          ]
+        },
+        {
+          "category": "WORN OUT",
+          "value": 1000,
+          "clue": "The book \"Let There Be Clothes\" says the corset was replaced in the 1950s by the panty-style one of these",
+          "answer": "a girdle",
+          "isDailyDouble": false,
+          "orderNumber": 22,
+          "correctContestants": [
+            "Leila"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ted",
+              "score": 3600
+            },
+            {
+              "player": "Bob",
+              "score": 0
+            },
+            {
+              "player": "Leila",
+              "score": 4800
+            }
+          ]
+        },
+        {
+          "category": "AROUND THE COLOSSEUM WITH COWARDUS",
+          "value": 200,
+          "clue": "A reluctant young Cowardus was sent to train as a gladiator, a word from the Latin for this weapon that terrified him",
+          "answer": "a sword",
+          "isDailyDouble": false,
+          "orderNumber": 23,
+          "correctContestants": [
+            "Ted"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ted",
+              "score": 3800
+            },
+            {
+              "player": "Bob",
+              "score": 0
+            },
+            {
+              "player": "Leila",
+              "score": 4800
+            }
+          ]
+        },
+        {
+          "category": "AROUND THE COLOSSEUM WITH COWARDUS",
+          "value": 400,
+          "clue": "Cowardus coughed conveniently whenever his teammates cried, \"We who are about to\" do this, \"salute you!\"",
+          "answer": "die",
+          "isDailyDouble": false,
+          "orderNumber": 24,
+          "correctContestants": [
+            "Ted"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ted",
+              "score": 4200
+            },
+            {
+              "player": "Bob",
+              "score": 0
+            },
+            {
+              "player": "Leila",
+              "score": 4800
+            }
+          ]
+        },
+        {
+          "category": "AROUND THE COLOSSEUM WITH COWARDUS",
+          "value": 600,
+          "clue": "As the Colosseum was not built until 80 A.D., this 1st Roman emperor missed Cowardus' 1st panicked sprint to safety",
+          "answer": "Augustus",
+          "isDailyDouble": false,
+          "orderNumber": 25,
+          "correctContestants": [
+            "Ted"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ted",
+              "score": 4800
+            },
+            {
+              "player": "Bob",
+              "score": 0
+            },
+            {
+              "player": "Leila",
+              "score": 4800
+            }
+          ]
+        },
+        {
+          "category": "AROUND THE COLOSSEUM WITH COWARDUS",
+          "value": 800,
+          "clue": "Cowardus' duel with Timidius was so boring (they played chess) that this emperor started rereading his \"Meditations\"",
+          "answer": "Marcus Aurelius",
+          "isDailyDouble": false,
+          "orderNumber": 26,
+          "correctContestants": [
+            "Ted"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ted",
+              "score": 5600
+            },
+            {
+              "player": "Bob",
+              "score": 0
+            },
+            {
+              "player": "Leila",
+              "score": 4800
+            }
+          ]
+        },
+        {
+          "category": "AROUND THE COLOSSEUM WITH COWARDUS",
+          "value": 1000,
+          "clue": "Commodus was on the throne when this largest big cat started licking Cowardus, tragically scaring him to death",
+          "answer": "a tiger",
+          "isDailyDouble": false,
+          "orderNumber": 27,
+          "correctContestants": [
+            "Bob"
+          ],
+          "incorrectContestants": [
+            "Ted"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ted",
+              "score": 4600
+            },
+            {
+              "player": "Bob",
+              "score": 1000
+            },
+            {
+              "player": "Leila",
+              "score": 4800
+            }
+          ]
+        },
+        {
+          "category": "WINEMAKING",
+          "value": 1000,
+          "clue": "(Sarah of the Clue Crew tests a beaker of wine in an aging cellar in Napa Valley, CA.)  If this level in wine drops below about 3.0, the wine will be probably be a trifle sharp",
+          "answer": "pH",
+          "isDailyDouble": false,
+          "orderNumber": 28,
+          "correctContestants": [
+            "Bob"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ted",
+              "score": 4600
+            },
+            {
+              "player": "Bob",
+              "score": 2000
+            },
+            {
+              "player": "Leila",
+              "score": 4800
+            }
+          ]
+        },
+        {
+          "category": "CRAZY TOP 40 TUNES",
+          "value": 800,
+          "clue": "In 1980 Queen topped the U.S. pop charts for the first time with this \"amorous\" tune",
+          "answer": "\"Crazy Little Thing Called Love\"",
+          "isDailyDouble": false,
+          "orderNumber": 29,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Ted",
+              "score": 4600
+            },
+            {
+              "player": "Bob",
+              "score": 2000
+            },
+            {
+              "player": "Leila",
+              "score": 4800
+            }
+          ]
+        },
+        {
+          "category": "CRAZY TOP 40 TUNES",
+          "value": 1000,
+          "clue": "\"But we're never gonna survive unless\" you name this artist who hit the Top 10 in 1991 with \"Crazy\"",
+          "answer": "Seal",
+          "isDailyDouble": false,
+          "orderNumber": 30,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Ted",
+              "score": 4600
+            },
+            {
+              "player": "Bob",
+              "score": 2000
+            },
+            {
+              "player": "Leila",
+              "score": 4800
+            }
+          ]
+        }
+      ],
+      "firstBreakScores": [
+        {
+          "player": "Ted",
+          "score": 3200
+        },
+        {
+          "player": "Bob",
+          "score": 800
+        },
+        {
+          "player": "Leila",
+          "score": 3000
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "Ted",
+          "score": 4600
+        },
+        {
+          "player": "Bob",
+          "score": 2000
+        },
+        {
+          "player": "Leila",
+          "score": 4800
+        }
+      ]
+    },
+    "doubleJeopardy": {
+      "categories": [
+        "POLK-ER",
+        "STUD",
+        "DRAW",
+        "AUNTIE",
+        "3 OF A KIND",
+        "\"FULL\" HOUSE"
+      ],
+      "clues": [
+        {
+          "category": "\"FULL\" HOUSE",
+          "value": 400,
+          "clue": "Albeit clothed, Prince Charles reenacted one of the dance scenes from this popular flick on British TV",
+          "answer": "The Full Monty",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ted",
+              "score": 4600
+            },
+            {
+              "player": "Bob",
+              "score": 2400
+            },
+            {
+              "player": "Leila",
+              "score": 4800
+            }
+          ]
+        },
+        {
+          "category": "\"FULL\" HOUSE",
+          "value": 800,
+          "clue": "Jim Brown & Bronko Nagurski entered the Pro Football Hall of Fame at this position",
+          "answer": "fullback",
+          "isDailyDouble": false,
+          "orderNumber": 2,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ted",
+              "score": 5400
+            },
+            {
+              "player": "Bob",
+              "score": 2400
+            },
+            {
+              "player": "Leila",
+              "score": 4800
+            }
+          ]
+        },
+        {
+          "category": "\"FULL\" HOUSE",
+          "value": 1200,
+          "clue": "In the 1930s this designer introduced his 3-wheeled Dymaxion car that was eventually intended to fly",
+          "answer": "(R. Buckminster) Fuller",
+          "isDailyDouble": false,
+          "orderNumber": 3,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ted",
+              "score": 5400
+            },
+            {
+              "player": "Bob",
+              "score": 3600
+            },
+            {
+              "player": "Leila",
+              "score": 4800
+            }
+          ]
+        },
+        {
+          "category": "\"FULL\" HOUSE",
+          "value": 1600,
+          "clue": "In diving this maneuver is also known as a reverse or backwards somersault",
+          "answer": "a full gainer",
+          "isDailyDouble": false,
+          "orderNumber": 4,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ted",
+              "score": 5400
+            },
+            {
+              "player": "Bob",
+              "score": 5200
+            },
+            {
+              "player": "Leila",
+              "score": 4800
+            }
+          ]
+        },
+        {
+          "category": "\"FULL\" HOUSE",
+          "value": 2000,
+          "clue": "With people, this phrase means having achieved necessary rank or status; with birds, it means they're ready to fly",
+          "answer": "full-fledged",
+          "isDailyDouble": true,
+          "orderNumber": 5,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ted",
+              "score": 5400
+            },
+            {
+              "player": "Bob",
+              "score": 7200
+            },
+            {
+              "player": "Leila",
+              "score": 4800
+            }
+          ]
+        },
+        {
+          "category": "3 OF A KIND",
+          "value": 400,
+          "clue": "Othello,Pente,Trouble",
+          "answer": "games",
+          "isDailyDouble": false,
+          "orderNumber": 6,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ted",
+              "score": 5400
+            },
+            {
+              "player": "Bob",
+              "score": 7200
+            },
+            {
+              "player": "Leila",
+              "score": 5200
+            }
+          ]
+        },
+        {
+          "category": "3 OF A KIND",
+          "value": 800,
+          "clue": "Java,COBOL,Perl",
+          "answer": "programming languages",
+          "isDailyDouble": false,
+          "orderNumber": 7,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ted",
+              "score": 6200
+            },
+            {
+              "player": "Bob",
+              "score": 7200
+            },
+            {
+              "player": "Leila",
+              "score": 5200
+            }
+          ]
+        },
+        {
+          "category": "3 OF A KIND",
+          "value": 1200,
+          "clue": "Tate,Field, Rock & Roll",
+          "answer": "museums",
+          "isDailyDouble": false,
+          "orderNumber": 8,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ted",
+              "score": 7400
+            },
+            {
+              "player": "Bob",
+              "score": 7200
+            },
+            {
+              "player": "Leila",
+              "score": 5200
+            }
+          ]
+        },
+        {
+          "category": "3 OF A KIND",
+          "value": 1600,
+          "clue": "Thomas Jefferson,Cordell Hull,Lawrence Eagleburger",
+          "answer": "Secretaries of State",
+          "isDailyDouble": false,
+          "orderNumber": 9,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ted",
+              "score": 7400
+            },
+            {
+              "player": "Bob",
+              "score": 8800
+            },
+            {
+              "player": "Leila",
+              "score": 5200
+            }
+          ]
+        },
+        {
+          "category": "3 OF A KIND",
+          "value": 2000,
+          "clue": "Juventas,Arsenal,Ajax",
+          "answer": "soccer teams",
+          "isDailyDouble": false,
+          "orderNumber": 10,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ted",
+              "score": 9400
+            },
+            {
+              "player": "Bob",
+              "score": 8800
+            },
+            {
+              "player": "Leila",
+              "score": 5200
+            }
+          ]
+        },
+        {
+          "category": "AUNTIE",
+          "value": 400,
+          "clue": "Aunt Jemima pancake mixes & syrups are owned by this company named for a \"friend\"ly religion",
+          "answer": "Quaker Oats",
+          "isDailyDouble": false,
+          "orderNumber": 11,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ted",
+              "score": 9400
+            },
+            {
+              "player": "Bob",
+              "score": 9200
+            },
+            {
+              "player": "Leila",
+              "score": 5200
+            }
+          ]
+        },
+        {
+          "category": "AUNTIE",
+          "value": 800,
+          "clue": "Rosalind Russell & Lucille Ball both played this free-spirited movie aunt",
+          "answer": "(Auntie) Mame",
+          "isDailyDouble": false,
+          "orderNumber": 12,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ted",
+              "score": 9400
+            },
+            {
+              "player": "Bob",
+              "score": 9200
+            },
+            {
+              "player": "Leila",
+              "score": 6000
+            }
+          ]
+        },
+        {
+          "category": "AUNTIE",
+          "value": 1200,
+          "clue": "The 2 aunts that Clara Blandick played in 1930s movies based on characters by L. Frank Baum & Mark Twain",
+          "answer": "Auntie Em & Aunt Polly",
+          "isDailyDouble": false,
+          "orderNumber": 13,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Ted",
+              "score": 9400
+            },
+            {
+              "player": "Bob",
+              "score": 9200
+            },
+            {
+              "player": "Leila",
+              "score": 6000
+            }
+          ]
+        },
+        {
+          "category": "AUNTIE",
+          "value": 1600,
+          "clue": "On a fact-finding trip to Kentucky, this \"Sister Carrie\" author was entranced by singer \"Aunt Molly\" Jackson",
+          "answer": "(Theodore) Dreiser",
+          "isDailyDouble": false,
+          "orderNumber": 14,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ted",
+              "score": 11000
+            },
+            {
+              "player": "Bob",
+              "score": 9200
+            },
+            {
+              "player": "Leila",
+              "score": 6000
+            }
+          ]
+        },
+        {
+          "category": "AUNTIE",
+          "value": 2000,
+          "clue": "Around 68 B.C. Julius Caesar eulogized this relative, also found before \"and the Scriptwriter\" in a novel title",
+          "answer": "Aunt Julia",
+          "isDailyDouble": false,
+          "orderNumber": 15,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Ted",
+              "score": 11000
+            },
+            {
+              "player": "Bob",
+              "score": 9200
+            },
+            {
+              "player": "Leila",
+              "score": 6000
+            }
+          ]
+        },
+        {
+          "category": "DRAW",
+          "value": 400,
+          "clue": "This drawbridge was the only movable bridge spanning the Thames when completed in 1894",
+          "answer": "Tower Bridge",
+          "isDailyDouble": false,
+          "orderNumber": 16,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ted",
+              "score": 10600
+            },
+            {
+              "player": "Bob",
+              "score": 9200
+            },
+            {
+              "player": "Leila",
+              "score": 6400
+            }
+          ]
+        },
+        {
+          "category": "DRAW",
+          "value": 800,
+          "clue": "A possible origin for this imaginary U.S. WWII icon is a shipyard worker who signed his name on inspected craft",
+          "answer": "Kilroy",
+          "isDailyDouble": false,
+          "orderNumber": 17,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ted",
+              "score": 10600
+            },
+            {
+              "player": "Bob",
+              "score": 10000
+            },
+            {
+              "player": "Leila",
+              "score": 6400
+            }
+          ]
+        },
+        {
+          "category": "DRAW",
+          "value": 1200,
+          "clue": "Led Zeppelin had an album called \"Physical\" this, from the Latin for \"stylus\"",
+          "answer": "Graffiti",
+          "isDailyDouble": false,
+          "orderNumber": 18,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ted",
+              "score": 11800
+            },
+            {
+              "player": "Bob",
+              "score": 10000
+            },
+            {
+              "player": "Leila",
+              "score": 6400
+            }
+          ]
+        },
+        {
+          "category": "DRAW",
+          "value": 1600,
+          "clue": "A controversial draw in a '99 bout between Evander Holyfield & this Brit pugilist led to an inquiry by N.Y. Gov. Pataki",
+          "answer": "(Lennox) Lewis",
+          "isDailyDouble": false,
+          "orderNumber": 19,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ted",
+              "score": 11800
+            },
+            {
+              "player": "Bob",
+              "score": 11600
+            },
+            {
+              "player": "Leila",
+              "score": 6400
+            }
+          ]
+        },
+        {
+          "category": "DRAW",
+          "value": 2000,
+          "clue": "Also known as mechanical drawing, this term denotes the representation of buildings, engineering works & topography",
+          "answer": "drafting",
+          "isDailyDouble": false,
+          "orderNumber": 20,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ted",
+              "score": 13800
+            },
+            {
+              "player": "Bob",
+              "score": 11600
+            },
+            {
+              "player": "Leila",
+              "score": 6400
+            }
+          ]
+        },
+        {
+          "category": "STUD",
+          "value": 400,
+          "clue": "Using his own financing to bring his \"Passion\" to the screen, this stud had the largest-grossing indie film ever",
+          "answer": "(Mel) Gibson",
+          "isDailyDouble": false,
+          "orderNumber": 21,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ted",
+              "score": 13800
+            },
+            {
+              "player": "Bob",
+              "score": 12000
+            },
+            {
+              "player": "Leila",
+              "score": 6400
+            }
+          ]
+        },
+        {
+          "category": "POLK-ER",
+          "value": 1200,
+          "clue": "A big Texas city bears the name of this man, Polk's vice president",
+          "answer": "Dallas",
+          "isDailyDouble": false,
+          "orderNumber": 22,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ted",
+              "score": 15000
+            },
+            {
+              "player": "Bob",
+              "score": 12000
+            },
+            {
+              "player": "Leila",
+              "score": 6400
+            }
+          ]
+        },
+        {
+          "category": "POLK-ER",
+          "value": 6000,
+          "clue": "Polk sent John Slidell to offer this country about 30 million bucks for some territory, but he was rebuffed",
+          "answer": "Mexico",
+          "isDailyDouble": true,
+          "orderNumber": 23,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ted",
+              "score": 9000
+            },
+            {
+              "player": "Bob",
+              "score": 12000
+            },
+            {
+              "player": "Leila",
+              "score": 6400
+            }
+          ]
+        },
+        {
+          "category": "POLK-ER",
+          "value": 2000,
+          "clue": "Treasury Secy. Robert Walker drew up the first of these to be based on the value of imports, not the quantity",
+          "answer": "tariffs",
+          "isDailyDouble": false,
+          "orderNumber": 24,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ted",
+              "score": 9000
+            },
+            {
+              "player": "Bob",
+              "score": 14000
+            },
+            {
+              "player": "Leila",
+              "score": 6400
+            }
+          ]
+        },
+        {
+          "category": "STUD",
+          "value": 800,
+          "clue": "This \"Men in Black\" star turned down a scholarship offer at MIT to pursue his rapping career",
+          "answer": "(Will) Smith",
+          "isDailyDouble": false,
+          "orderNumber": 25,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ted",
+              "score": 9800
+            },
+            {
+              "player": "Bob",
+              "score": 14000
+            },
+            {
+              "player": "Leila",
+              "score": 6400
+            }
+          ]
+        },
+        {
+          "category": "STUD",
+          "value": 1200,
+          "clue": "Not just a pretty face, this crooner is a surfer & got his own series on Showtime",
+          "answer": "(Chris) Isaak",
+          "isDailyDouble": false,
+          "orderNumber": 26,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Ted",
+              "score": 9800
+            },
+            {
+              "player": "Bob",
+              "score": 14000
+            },
+            {
+              "player": "Leila",
+              "score": 6400
+            }
+          ]
+        },
+        {
+          "category": "STUD",
+          "value": 1600,
+          "clue": "This \"Lord of the Rings\" actor used his artistic & writing talent to create the book \"Recent Forgeries\"",
+          "answer": "(Viggo) Mortensen",
+          "isDailyDouble": false,
+          "orderNumber": 27,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ted",
+              "score": 9800
+            },
+            {
+              "player": "Bob",
+              "score": 14000
+            },
+            {
+              "player": "Leila",
+              "score": 8000
+            }
+          ]
+        },
+        {
+          "category": "STUD",
+          "value": 2000,
+          "clue": "Tea Leoni could tell you he's made an \"X\"-ceptional journey from Yale doctoral student to actor, writer & director",
+          "answer": "(David) Duchovny",
+          "isDailyDouble": false,
+          "orderNumber": 28,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ted",
+              "score": 11800
+            },
+            {
+              "player": "Bob",
+              "score": 14000
+            },
+            {
+              "player": "Leila",
+              "score": 8000
+            }
+          ]
+        },
+        {
+          "category": "POLK-ER",
+          "value": 800,
+          "clue": "James K. Polk's mom was a descendant of this man who founded Scottish Presbyterianism",
+          "answer": "Knox",
+          "isDailyDouble": false,
+          "orderNumber": 29,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ted",
+              "score": 12600
+            },
+            {
+              "player": "Bob",
+              "score": 14000
+            },
+            {
+              "player": "Leila",
+              "score": 8000
+            }
+          ]
+        },
+        {
+          "category": "POLK-ER",
+          "value": 400,
+          "clue": "Polk was a protege of this man whom his wife Sarah \"Uncle Andrew\"",
+          "answer": "(Andrew) Jackson",
+          "isDailyDouble": false,
+          "orderNumber": 30,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ted",
+              "score": 13000
+            },
+            {
+              "player": "Bob",
+              "score": 14000
+            },
+            {
+              "player": "Leila",
+              "score": 8000
+            }
+          ]
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "Ted",
+          "score": 13000
+        },
+        {
+          "player": "Bob",
+          "score": 14000
+        },
+        {
+          "player": "Leila",
+          "score": 8000
+        }
+      ]
+    },
+    "finalJeopardy": {
+      "category": "18th CENTURY POETRY",
+      "clue": "18th c. poem that says, \"Forever cursed be this detested day, Which snatched my best, my favorite curl away!\"",
+      "answer": "\"The Rape of the Lock\"",
+      "responses": [
+        {
+          "contestant": "Leila",
+          "response": "What is The Barber",
+          "isCorrect": false,
+          "isIncorrect": true,
+          "value": 5000,
+          "finalScore": 3000
+        },
+        {
+          "contestant": "Ted",
+          "response": "What is The Raven",
+          "isCorrect": false,
+          "isIncorrect": true,
+          "value": 7001,
+          "finalScore": 5999
+        },
+        {
+          "contestant": "Bob",
+          "response": "What is The Rape of the Lock",
+          "isCorrect": true,
+          "isIncorrect": false,
+          "value": 12001,
+          "finalScore": 26001
+        }
+      ]
+    }
+  },
+  "finalScores": [
+    {
+      "player": "Ted",
+      "score": "$5,999"
+    },
+    {
+      "player": "Bob",
+      "score": "$26,001"
+    },
+    {
+      "player": "Leila",
+      "score": "$3,000"
+    }
+  ],
+  "coryatScores": [
+    {
+      "player": "Ted",
+      "score": 19000
+    },
+    {
+      "player": "Bob",
+      "score": 15400
+    },
+    {
+      "player": "Leila",
+      "score": 8000
+    }
+  ]
+}

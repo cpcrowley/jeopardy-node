@@ -1,0 +1,1685 @@
+{
+  "gameId": 7530,
+  "showNumber": "1400",
+  "title": "Show #1400 - Friday, October 5, 1990",
+  "date": "1990-10-05",
+  "comments": "Game entered from audiorecording. Missing prizes.",
+  "contestants": [
+    "Cheryl",
+    "Pete",
+    "Kent"
+  ],
+  "rounds": {
+    "jeopardy": {
+      "categories": [
+        "WOMEN",
+        "LANGUAGES",
+        "ASTROLOGY",
+        "CHICAGO",
+        "INTERNATIONAL CUISINE",
+        "NUMBER, PLEASE"
+      ],
+      "clues": [
+        {
+          "category": "INTERNATIONAL CUISINE",
+          "value": 100,
+          "clue": "It describes several hot spicy dishes of India or the blend of spices in them",
+          "answer": "curry",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [
+            "Kent"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Cheryl",
+              "score": 0
+            },
+            {
+              "player": "Pete",
+              "score": 0
+            },
+            {
+              "player": "Kent",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "category": "INTERNATIONAL CUISINE",
+          "value": 200,
+          "clue": "The Mexican dish frijoles refritos is called this in English",
+          "answer": "refried beans",
+          "isDailyDouble": false,
+          "orderNumber": 2,
+          "correctContestants": [
+            "Pete"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Cheryl",
+              "score": 0
+            },
+            {
+              "player": "Pete",
+              "score": 200
+            },
+            {
+              "player": "Kent",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "category": "INTERNATIONAL CUISINE",
+          "value": 300,
+          "clue": "In the British dish bangers & mash, bangers are these",
+          "answer": "sausages",
+          "isDailyDouble": false,
+          "orderNumber": 3,
+          "correctContestants": [
+            "Cheryl"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Cheryl",
+              "score": 300
+            },
+            {
+              "player": "Pete",
+              "score": 200
+            },
+            {
+              "player": "Kent",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "category": "INTERNATIONAL CUISINE",
+          "value": 400,
+          "clue": "Italy's version of the omelet, it's cooked slowly & served flat, not folded",
+          "answer": "frittata",
+          "isDailyDouble": false,
+          "orderNumber": 4,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Cheryl",
+              "score": 300
+            },
+            {
+              "player": "Pete",
+              "score": 200
+            },
+            {
+              "player": "Kent",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "category": "INTERNATIONAL CUISINE",
+          "value": 500,
+          "clue": "Sold in slabs or bars, this confection is made from ground sesame seeds & honey",
+          "answer": "halva",
+          "isDailyDouble": false,
+          "orderNumber": 5,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Cheryl",
+              "score": 300
+            },
+            {
+              "player": "Pete",
+              "score": 200
+            },
+            {
+              "player": "Kent",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "category": "LANGUAGES",
+          "value": 100,
+          "clue": "Chinese dialect spoken by more people than any other language in the world",
+          "answer": "Mandarin",
+          "isDailyDouble": false,
+          "orderNumber": 6,
+          "correctContestants": [
+            "Pete"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Cheryl",
+              "score": 300
+            },
+            {
+              "player": "Pete",
+              "score": 300
+            },
+            {
+              "player": "Kent",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "category": "ASTROLOGY",
+          "value": 100,
+          "clue": "People born under this sign tend to weigh decisions too long; they don't want to become unbalanced",
+          "answer": "Libra",
+          "isDailyDouble": false,
+          "orderNumber": 7,
+          "correctContestants": [
+            "Cheryl"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Cheryl",
+              "score": 400
+            },
+            {
+              "player": "Pete",
+              "score": 300
+            },
+            {
+              "player": "Kent",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "category": "ASTROLOGY",
+          "value": 200,
+          "clue": "A horoscope is divided into this number of houses which represent health, friends, death, etc.",
+          "answer": "12",
+          "isDailyDouble": false,
+          "orderNumber": 8,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Pete"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Cheryl",
+              "score": 400
+            },
+            {
+              "player": "Pete",
+              "score": 100
+            },
+            {
+              "player": "Kent",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "category": "ASTROLOGY",
+          "value": 300,
+          "clue": "Scorpio is ruled by this violent planet, which may explain why Scorpios are aggressive",
+          "answer": "Mars",
+          "isDailyDouble": false,
+          "orderNumber": 9,
+          "correctContestants": [
+            "Cheryl"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Cheryl",
+              "score": 700
+            },
+            {
+              "player": "Pete",
+              "score": 100
+            },
+            {
+              "player": "Kent",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "category": "ASTROLOGY",
+          "value": 400,
+          "clue": "It's the faintest, most inconspicuous constellation in the zodiac, but it'll do in a pinch",
+          "answer": "Cancer",
+          "isDailyDouble": false,
+          "orderNumber": 10,
+          "correctContestants": [
+            "Cheryl"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Cheryl",
+              "score": 1100
+            },
+            {
+              "player": "Pete",
+              "score": 100
+            },
+            {
+              "player": "Kent",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "category": "ASTROLOGY",
+          "value": 500,
+          "clue": "This sign is identified with the animal who had the Golden Fleece",
+          "answer": "the Ram (Aries)",
+          "isDailyDouble": false,
+          "orderNumber": 11,
+          "correctContestants": [
+            "Kent"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Cheryl",
+              "score": 1100
+            },
+            {
+              "player": "Pete",
+              "score": 100
+            },
+            {
+              "player": "Kent",
+              "score": 600
+            }
+          ]
+        },
+        {
+          "category": "LANGUAGES",
+          "value": 200,
+          "clue": "In the 10th century Menahem ben Saruq wrote a biblical lexicon & the first dictionary in this language",
+          "answer": "Hebrew",
+          "isDailyDouble": false,
+          "orderNumber": 12,
+          "correctContestants": [
+            "Kent"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Cheryl",
+              "score": 1100
+            },
+            {
+              "player": "Pete",
+              "score": 100
+            },
+            {
+              "player": "Kent",
+              "score": 800
+            }
+          ]
+        },
+        {
+          "category": "LANGUAGES",
+          "value": 300,
+          "clue": "Though Brussels is located within a Flemish linguistic zone, most residents speak this language",
+          "answer": "French (or Walloon)",
+          "isDailyDouble": false,
+          "orderNumber": 13,
+          "correctContestants": [
+            "Cheryl"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Cheryl",
+              "score": 1400
+            },
+            {
+              "player": "Pete",
+              "score": 100
+            },
+            {
+              "player": "Kent",
+              "score": 800
+            }
+          ]
+        },
+        {
+          "category": "LANGUAGES",
+          "value": 400,
+          "clue": "This single letter represents the usual Spanish word for \"and\"",
+          "answer": "Y",
+          "isDailyDouble": false,
+          "orderNumber": 14,
+          "correctContestants": [
+            "Pete"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Cheryl",
+              "score": 1400
+            },
+            {
+              "player": "Pete",
+              "score": 500
+            },
+            {
+              "player": "Kent",
+              "score": 800
+            }
+          ]
+        },
+        {
+          "category": "CHICAGO",
+          "value": 100,
+          "clue": "Elevated train tracks encompassing downtown Chicago gave it this famous nickname",
+          "answer": "the Loop",
+          "isDailyDouble": false,
+          "orderNumber": 15,
+          "correctContestants": [
+            "Cheryl"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Cheryl",
+              "score": 1500
+            },
+            {
+              "player": "Pete",
+              "score": 500
+            },
+            {
+              "player": "Kent",
+              "score": 800
+            }
+          ]
+        },
+        {
+          "category": "LANGUAGES",
+          "value": 500,
+          "clue": "Greek & Turkish are the official languages of this island country",
+          "answer": "Cyprus",
+          "isDailyDouble": false,
+          "orderNumber": 16,
+          "correctContestants": [
+            "Cheryl"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Cheryl",
+              "score": 2000
+            },
+            {
+              "player": "Pete",
+              "score": 500
+            },
+            {
+              "player": "Kent",
+              "score": 800
+            }
+          ]
+        },
+        {
+          "category": "WOMEN",
+          "value": 100,
+          "clue": "In 1984, Ella Fitzgerald was inducted into the hall of fame which honors this genre of music",
+          "answer": "jazz",
+          "isDailyDouble": false,
+          "orderNumber": 17,
+          "correctContestants": [
+            "Cheryl"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Cheryl",
+              "score": 2100
+            },
+            {
+              "player": "Pete",
+              "score": 500
+            },
+            {
+              "player": "Kent",
+              "score": 800
+            }
+          ]
+        },
+        {
+          "category": "WOMEN",
+          "value": 200,
+          "clue": "Queen Elizabeth II's younger sister",
+          "answer": "Princess Margaret",
+          "isDailyDouble": false,
+          "orderNumber": 18,
+          "correctContestants": [
+            "Pete"
+          ],
+          "incorrectContestants": [
+            "Kent"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Cheryl",
+              "score": 2100
+            },
+            {
+              "player": "Pete",
+              "score": 700
+            },
+            {
+              "player": "Kent",
+              "score": 600
+            }
+          ]
+        },
+        {
+          "category": "CHICAGO",
+          "value": 200,
+          "clue": "Last name of Chicago's current mayor, he's a regular chip off the old block",
+          "answer": "Daley",
+          "isDailyDouble": false,
+          "orderNumber": 19,
+          "correctContestants": [
+            "Cheryl"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Cheryl",
+              "score": 2300
+            },
+            {
+              "player": "Pete",
+              "score": 700
+            },
+            {
+              "player": "Kent",
+              "score": 600
+            }
+          ]
+        },
+        {
+          "category": "CHICAGO",
+          "value": 300,
+          "clue": "In 1934 he met his death outside Chicago's Biograph Theater",
+          "answer": "(John) Dillinger",
+          "isDailyDouble": false,
+          "orderNumber": 20,
+          "correctContestants": [
+            "Pete"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Cheryl",
+              "score": 2300
+            },
+            {
+              "player": "Pete",
+              "score": 1000
+            },
+            {
+              "player": "Kent",
+              "score": 600
+            }
+          ]
+        },
+        {
+          "category": "CHICAGO",
+          "value": 900,
+          "clue": "This park, Chicago's largest, features beaches, lagoons & a zoo",
+          "answer": "Lincoln Park",
+          "isDailyDouble": true,
+          "orderNumber": 21,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Pete"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Cheryl",
+              "score": 2300
+            },
+            {
+              "player": "Pete",
+              "score": 100
+            },
+            {
+              "player": "Kent",
+              "score": 600
+            }
+          ]
+        },
+        {
+          "category": "CHICAGO",
+          "value": 500,
+          "clue": "In 1900 engineers completed this great & unusual feat with the Chicago River",
+          "answer": "they reversed the flow of the river",
+          "isDailyDouble": false,
+          "orderNumber": 22,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Pete",
+            "Kent"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Cheryl",
+              "score": 2300
+            },
+            {
+              "player": "Pete",
+              "score": -400
+            },
+            {
+              "player": "Kent",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "category": "NUMBER, PLEASE",
+          "value": 400,
+          "clue": "It's the total number of dots on a pair of dice",
+          "answer": "42",
+          "isDailyDouble": false,
+          "orderNumber": 23,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Pete"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Cheryl",
+              "score": 2300
+            },
+            {
+              "player": "Pete",
+              "score": -800
+            },
+            {
+              "player": "Kent",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "category": "NUMBER, PLEASE",
+          "value": 300,
+          "clue": "A dozen dozen",
+          "answer": "144",
+          "isDailyDouble": false,
+          "orderNumber": 24,
+          "correctContestants": [
+            "Cheryl"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Cheryl",
+              "score": 2600
+            },
+            {
+              "player": "Pete",
+              "score": -800
+            },
+            {
+              "player": "Kent",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "category": "NUMBER, PLEASE",
+          "value": 500,
+          "clue": "People generally work 40 hours out of this many in a week",
+          "answer": "168",
+          "isDailyDouble": false,
+          "orderNumber": 25,
+          "correctContestants": [
+            "Pete"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Cheryl",
+              "score": 2600
+            },
+            {
+              "player": "Pete",
+              "score": -300
+            },
+            {
+              "player": "Kent",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "category": "WOMEN",
+          "value": 400,
+          "clue": "Helen Gurley Brown has been the editor of this magazine since 1965",
+          "answer": "Cosmopolitan",
+          "isDailyDouble": false,
+          "orderNumber": 26,
+          "correctContestants": [
+            "Cheryl"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Cheryl",
+              "score": 3000
+            },
+            {
+              "player": "Pete",
+              "score": -300
+            },
+            {
+              "player": "Kent",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "category": "WOMEN",
+          "value": 500,
+          "clue": "This Irish-born woman studied horse-training in Argentina, but was more famous for training dogs",
+          "answer": "Barbara Woodhouse",
+          "isDailyDouble": false,
+          "orderNumber": 27,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Cheryl",
+              "score": 3000
+            },
+            {
+              "player": "Pete",
+              "score": -300
+            },
+            {
+              "player": "Kent",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "category": "NUMBER, PLEASE",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Cheryl",
+              "score": 3000
+            },
+            {
+              "player": "Pete",
+              "score": -300
+            },
+            {
+              "player": "Kent",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "category": "NUMBER, PLEASE",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Cheryl",
+              "score": 3000
+            },
+            {
+              "player": "Pete",
+              "score": -300
+            },
+            {
+              "player": "Kent",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "category": "WOMEN",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Cheryl",
+              "score": 3000
+            },
+            {
+              "player": "Pete",
+              "score": -300
+            },
+            {
+              "player": "Kent",
+              "score": 100
+            }
+          ]
+        }
+      ],
+      "firstBreakScores": [
+        {
+          "player": "Cheryl",
+          "score": 1400
+        },
+        {
+          "player": "Pete",
+          "score": 100
+        },
+        {
+          "player": "Kent",
+          "score": 800
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "Cheryl",
+          "score": 3000
+        },
+        {
+          "player": "Pete",
+          "score": -300
+        },
+        {
+          "player": "Kent",
+          "score": 100
+        }
+      ]
+    },
+    "doubleJeopardy": {
+      "categories": [
+        "AMERICAN HISTORY",
+        "WEATHER",
+        "MUSICALS",
+        "ENGLISH LITERATURE",
+        "BIOLOGY",
+        "EARLY CHRISTIANITY"
+      ],
+      "clues": [
+        {
+          "category": "AMERICAN HISTORY",
+          "value": 200,
+          "clue": "These Europeans founded a settlement at Winyah Bay, South Carolina, 81 years before England settled Jamestown",
+          "answer": "the Spaniards",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Cheryl",
+              "score": 3000
+            },
+            {
+              "player": "Pete",
+              "score": -300
+            },
+            {
+              "player": "Kent",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "category": "AMERICAN HISTORY",
+          "value": 400,
+          "clue": "In 1804, while still vice president, he ran for governor of New York & lost",
+          "answer": "(Aaron) Burr",
+          "isDailyDouble": false,
+          "orderNumber": 2,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Cheryl",
+              "score": 3000
+            },
+            {
+              "player": "Pete",
+              "score": 100
+            },
+            {
+              "player": "Kent",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "category": "AMERICAN HISTORY",
+          "value": 600,
+          "clue": "This brother of explorer William Clark was never paid for his service the Revolutionary War",
+          "answer": "George Rogers Clark",
+          "isDailyDouble": false,
+          "orderNumber": 3,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Cheryl",
+              "score": 3000
+            },
+            {
+              "player": "Pete",
+              "score": 700
+            },
+            {
+              "player": "Kent",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "category": "AMERICAN HISTORY",
+          "value": 800,
+          "clue": "If passed, his proviso would have forbidden slavery in territory gained from the Mexican War",
+          "answer": "Wilmot",
+          "isDailyDouble": false,
+          "orderNumber": 4,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Cheryl",
+              "score": 3000
+            },
+            {
+              "player": "Pete",
+              "score": 1500
+            },
+            {
+              "player": "Kent",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "category": "AMERICAN HISTORY",
+          "value": 1000,
+          "clue": "Mrs. Oveta Culp Hobby became the 1st person to head this new Cabinet dept. in 1953",
+          "answer": "Health, Education & Welfare",
+          "isDailyDouble": false,
+          "orderNumber": 5,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Cheryl",
+              "score": 3000
+            },
+            {
+              "player": "Pete",
+              "score": 2500
+            },
+            {
+              "player": "Kent",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "category": "WEATHER",
+          "value": 200,
+          "clue": "Air in motion at any speed, especially on a parallel with the earth, is called this",
+          "answer": "wind",
+          "isDailyDouble": false,
+          "orderNumber": 6,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Cheryl",
+              "score": 3000
+            },
+            {
+              "player": "Pete",
+              "score": 2700
+            },
+            {
+              "player": "Kent",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "category": "WEATHER",
+          "value": 400,
+          "clue": "Transition zone between two air masses, it was named for its resemblance to the lead troops in battle",
+          "answer": "a front",
+          "isDailyDouble": false,
+          "orderNumber": 7,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Cheryl",
+              "score": 3000
+            },
+            {
+              "player": "Pete",
+              "score": 3100
+            },
+            {
+              "player": "Kent",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "category": "WEATHER",
+          "value": 600,
+          "clue": "These rotating cone-like clouds aren't called tornadoes until they touch the ground",
+          "answer": "funnel clouds",
+          "isDailyDouble": false,
+          "orderNumber": 8,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Cheryl",
+              "score": 3000
+            },
+            {
+              "player": "Pete",
+              "score": 3700
+            },
+            {
+              "player": "Kent",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "category": "WEATHER",
+          "value": 800,
+          "clue": "Meteorological term for a tropical cyclone that occurs in the Western North Pacific Ocean",
+          "answer": "a typhoon",
+          "isDailyDouble": true,
+          "orderNumber": 9,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Cheryl",
+              "score": 3000
+            },
+            {
+              "player": "Pete",
+              "score": 4500
+            },
+            {
+              "player": "Kent",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "category": "WEATHER",
+          "value": 1000,
+          "clue": "Halos that appear around the Moon are caused by the refraction of light against these in the air",
+          "answer": "ice crystals",
+          "isDailyDouble": false,
+          "orderNumber": 10,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Cheryl",
+              "score": 3000
+            },
+            {
+              "player": "Pete",
+              "score": 3500
+            },
+            {
+              "player": "Kent",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "category": "EARLY CHRISTIANITY",
+          "value": 200,
+          "clue": "While he didn't retire there, this author of \"Confessions\" had a Florida city named for him",
+          "answer": "St. Augustine",
+          "isDailyDouble": false,
+          "orderNumber": 11,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Cheryl",
+              "score": 3000
+            },
+            {
+              "player": "Pete",
+              "score": 3700
+            },
+            {
+              "player": "Kent",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "category": "EARLY CHRISTIANITY",
+          "value": 400,
+          "clue": "By the beginning of the 7th century the bishop of this city was the Western world's spiritual leader",
+          "answer": "Rome",
+          "isDailyDouble": false,
+          "orderNumber": 12,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Cheryl",
+              "score": 3400
+            },
+            {
+              "player": "Pete",
+              "score": 3300
+            },
+            {
+              "player": "Kent",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "category": "MUSICALS",
+          "value": 200,
+          "clue": "\"Bring Back Birdie\", a sequel to this musical, opened March 5, 1981 & closed 2 days later",
+          "answer": "Bye Bye Birdie",
+          "isDailyDouble": false,
+          "orderNumber": 13,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Cheryl",
+              "score": 3600
+            },
+            {
+              "player": "Pete",
+              "score": 3300
+            },
+            {
+              "player": "Kent",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "category": "MUSICALS",
+          "value": 400,
+          "clue": "1 of the 2 current musicals on Broadway set in 19th century France",
+          "answer": "(1 of) Les Misérables (or Phantom of the Opera)",
+          "isDailyDouble": false,
+          "orderNumber": 14,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Cheryl",
+              "score": 3600
+            },
+            {
+              "player": "Pete",
+              "score": 3300
+            },
+            {
+              "player": "Kent",
+              "score": 500
+            }
+          ]
+        },
+        {
+          "category": "MUSICALS",
+          "value": 600,
+          "clue": "He starred in & co-wrote \"Stop the World – I Want to Get Off\"",
+          "answer": "Anthony Newley",
+          "isDailyDouble": false,
+          "orderNumber": 15,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Cheryl",
+              "score": 4200
+            },
+            {
+              "player": "Pete",
+              "score": 3300
+            },
+            {
+              "player": "Kent",
+              "score": 500
+            }
+          ]
+        },
+        {
+          "category": "MUSICALS",
+          "value": 800,
+          "clue": "Sondheim musical suggested by the Ingmar Bergman film \"Smiles of a Summer Night\"",
+          "answer": "A Little Night Music",
+          "isDailyDouble": false,
+          "orderNumber": 16,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Cheryl",
+              "score": 5000
+            },
+            {
+              "player": "Pete",
+              "score": 3300
+            },
+            {
+              "player": "Kent",
+              "score": -300
+            }
+          ]
+        },
+        {
+          "category": "MUSICALS",
+          "value": 1000,
+          "clue": "Lauren Bacall played Margo Channing in this musical based on the film \"All About Eve\"",
+          "answer": "Applause",
+          "isDailyDouble": false,
+          "orderNumber": 17,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Cheryl",
+              "score": 6000
+            },
+            {
+              "player": "Pete",
+              "score": 3300
+            },
+            {
+              "player": "Kent",
+              "score": -300
+            }
+          ]
+        },
+        {
+          "category": "ENGLISH LITERATURE",
+          "value": 200,
+          "clue": "In a 1719 sequel he & Friday revisited the island where he was first stranded",
+          "answer": "Robinson Crusoe",
+          "isDailyDouble": false,
+          "orderNumber": 18,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Cheryl",
+              "score": 6200
+            },
+            {
+              "player": "Pete",
+              "score": 3300
+            },
+            {
+              "player": "Kent",
+              "score": -300
+            }
+          ]
+        },
+        {
+          "category": "ENGLISH LITERATURE",
+          "value": 3000,
+          "clue": "After Shakespeare she's the most widely translated English author",
+          "answer": "Agatha Christie",
+          "isDailyDouble": true,
+          "orderNumber": 19,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Cheryl",
+              "score": 3200
+            },
+            {
+              "player": "Pete",
+              "score": 3300
+            },
+            {
+              "player": "Kent",
+              "score": -300
+            }
+          ]
+        },
+        {
+          "category": "ENGLISH LITERATURE",
+          "value": 600,
+          "clue": "In England, up to the 9th century, most prose was written in this language",
+          "answer": "Latin",
+          "isDailyDouble": false,
+          "orderNumber": 20,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Cheryl",
+              "score": 3800
+            },
+            {
+              "player": "Pete",
+              "score": 3300
+            },
+            {
+              "player": "Kent",
+              "score": -300
+            }
+          ]
+        },
+        {
+          "category": "ENGLISH LITERATURE",
+          "value": 800,
+          "clue": "In \"Ivanhoe\" Robin Hood appears under this name, the town in which he was born",
+          "answer": "Locksley",
+          "isDailyDouble": false,
+          "orderNumber": 21,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Cheryl",
+              "score": 3800
+            },
+            {
+              "player": "Pete",
+              "score": 3300
+            },
+            {
+              "player": "Kent",
+              "score": -300
+            }
+          ]
+        },
+        {
+          "category": "ENGLISH LITERATURE",
+          "value": 1000,
+          "clue": "Though written much earlier, her \"Northanger Abbey\" wasn't published until 1818, a year after her death",
+          "answer": "(Jane) Austen",
+          "isDailyDouble": false,
+          "orderNumber": 22,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Cheryl",
+              "score": 3800
+            },
+            {
+              "player": "Pete",
+              "score": 4300
+            },
+            {
+              "player": "Kent",
+              "score": -300
+            }
+          ]
+        },
+        {
+          "category": "EARLY CHRISTIANITY",
+          "value": 600,
+          "clue": "Dating from the 2nd century it begins \"I believe in God, the Father Almighty\"",
+          "answer": "the Apostles' Creed",
+          "isDailyDouble": false,
+          "orderNumber": 23,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Pete",
+            "Kent"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Cheryl",
+              "score": 3200
+            },
+            {
+              "player": "Pete",
+              "score": 3700
+            },
+            {
+              "player": "Kent",
+              "score": -900
+            }
+          ]
+        },
+        {
+          "category": "EARLY CHRISTIANITY",
+          "value": 1000,
+          "clue": "The First Ecumenical Council was convened in Nicaea in 325 by this emperor",
+          "answer": "Constantine",
+          "isDailyDouble": false,
+          "orderNumber": 24,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Cheryl",
+              "score": 3200
+            },
+            {
+              "player": "Pete",
+              "score": 3700
+            },
+            {
+              "player": "Kent",
+              "score": -900
+            }
+          ]
+        },
+        {
+          "category": "BIOLOGY",
+          "value": 1000,
+          "clue": "The ripened ovary of a flower, it can be true, false, simple, aggregate or multiple",
+          "answer": "fruit",
+          "isDailyDouble": false,
+          "orderNumber": 25,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Cheryl",
+              "score": 3200
+            },
+            {
+              "player": "Pete",
+              "score": 3700
+            },
+            {
+              "player": "Kent",
+              "score": -900
+            }
+          ]
+        },
+        {
+          "category": "BIOLOGY",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Cheryl",
+              "score": 3200
+            },
+            {
+              "player": "Pete",
+              "score": 3700
+            },
+            {
+              "player": "Kent",
+              "score": -900
+            }
+          ]
+        },
+        {
+          "category": "BIOLOGY",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Cheryl",
+              "score": 3200
+            },
+            {
+              "player": "Pete",
+              "score": 3700
+            },
+            {
+              "player": "Kent",
+              "score": -900
+            }
+          ]
+        },
+        {
+          "category": "BIOLOGY",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Cheryl",
+              "score": 3200
+            },
+            {
+              "player": "Pete",
+              "score": 3700
+            },
+            {
+              "player": "Kent",
+              "score": -900
+            }
+          ]
+        },
+        {
+          "category": "BIOLOGY",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Cheryl",
+              "score": 3200
+            },
+            {
+              "player": "Pete",
+              "score": 3700
+            },
+            {
+              "player": "Kent",
+              "score": -900
+            }
+          ]
+        },
+        {
+          "category": "EARLY CHRISTIANITY",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Cheryl",
+              "score": 3200
+            },
+            {
+              "player": "Pete",
+              "score": 3700
+            },
+            {
+              "player": "Kent",
+              "score": -900
+            }
+          ]
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "Cheryl",
+          "score": 3200
+        },
+        {
+          "player": "Pete",
+          "score": 3700
+        },
+        {
+          "player": "Kent",
+          "score": -900
+        }
+      ]
+    },
+    "finalJeopardy": {
+      "category": "BUSINESS & INDUSTRY",
+      "clue": "This New York company introduced the direct-mail sweepstakes concept in 1962",
+      "answer": "Reader's Digest",
+      "responses": [
+        {
+          "contestant": "Cheryl",
+          "response": "What is Publishers Clearing House",
+          "isCorrect": false,
+          "isIncorrect": true,
+          "value": 0,
+          "finalScore": 3200
+        },
+        {
+          "contestant": "Pete",
+          "response": "What is the Reader's Digest?",
+          "isCorrect": true,
+          "isIncorrect": false,
+          "value": 2701,
+          "finalScore": 6401
+        }
+      ]
+    }
+  },
+  "finalScores": [
+    {
+      "player": "Cheryl",
+      "score": "$3,200"
+    },
+    {
+      "player": "Pete",
+      "score": "$6,401"
+    },
+    {
+      "player": "Kent",
+      "score": "-$900"
+    }
+  ],
+  "coryatScores": [
+    {
+      "player": "Cheryl",
+      "score": 6200
+    },
+    {
+      "player": "Pete",
+      "score": 4600
+    },
+    {
+      "player": "Kent",
+      "score": -900
+    }
+  ]
+}

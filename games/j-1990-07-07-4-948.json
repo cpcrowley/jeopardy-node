@@ -1,0 +1,1697 @@
+{
+  "gameId": 948,
+  "showNumber": "4",
+  "title": "Super Jeopardy! show #4 - Saturday, July 7, 1990",
+  "date": "1990-07-07",
+  "comments": "Super Jeopardy! semifinal game 1.",
+  "contestants": [
+    "Bob",
+    "Eugene",
+    "Eric"
+  ],
+  "rounds": {
+    "jeopardy": {
+      "categories": [
+        "STATE CAPITALS",
+        "SAINTS & SINNERS",
+        "ARTISTS",
+        "WORLD HISTORY",
+        "HODGEPODGE",
+        "SMITHS"
+      ],
+      "clues": [
+        {
+          "category": "SMITHS",
+          "value": 1000,
+          "clue": "She wrote over 70 one-act plays but is best known for her first novel, \"A Tree Grows In Brooklyn\"",
+          "answer": "Betty Smith",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [
+            "Eric"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 0
+            },
+            {
+              "player": "Eugene",
+              "score": 0
+            },
+            {
+              "player": "Eric",
+              "score": 1000
+            }
+          ]
+        },
+        {
+          "category": "STATE CAPITALS",
+          "value": 1000,
+          "clue": "State capital closest to Philadelphia",
+          "answer": "Trenton, New Jersey",
+          "isDailyDouble": false,
+          "orderNumber": 2,
+          "correctContestants": [
+            "Bob"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 1000
+            },
+            {
+              "player": "Eugene",
+              "score": 0
+            },
+            {
+              "player": "Eric",
+              "score": 1000
+            }
+          ]
+        },
+        {
+          "category": "SMITHS",
+          "value": 800,
+          "clue": "Much of this British poet's works dealt with death including her most famous, \"Not Waving, But Drowning\"",
+          "answer": "Stevie Smith",
+          "isDailyDouble": false,
+          "orderNumber": 3,
+          "correctContestants": [
+            "Bob"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 1800
+            },
+            {
+              "player": "Eugene",
+              "score": 0
+            },
+            {
+              "player": "Eric",
+              "score": 1000
+            }
+          ]
+        },
+        {
+          "category": "SMITHS",
+          "value": 600,
+          "clue": "This New York Daily News columnist once said that gossip is \"news in a red satin dress\"",
+          "answer": "Liz Smith",
+          "isDailyDouble": false,
+          "orderNumber": 4,
+          "correctContestants": [
+            "Bob"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 2400
+            },
+            {
+              "player": "Eugene",
+              "score": 0
+            },
+            {
+              "player": "Eric",
+              "score": 1000
+            }
+          ]
+        },
+        {
+          "category": "SMITHS",
+          "value": 400,
+          "clue": "This former ABC News anchor played himself in \"Close Encounters of the Third Kind\" & \"The Candidate\"",
+          "answer": "Howard K. Smith",
+          "isDailyDouble": false,
+          "orderNumber": 5,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 2400
+            },
+            {
+              "player": "Eugene",
+              "score": 0
+            },
+            {
+              "player": "Eric",
+              "score": 1000
+            }
+          ]
+        },
+        {
+          "category": "SMITHS",
+          "value": 200,
+          "clue": "The Pilgrims used the maps & books of this founder of Virginia, but did not accept his services",
+          "answer": "Captain John Smith",
+          "isDailyDouble": false,
+          "orderNumber": 6,
+          "correctContestants": [
+            "Eric"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 2400
+            },
+            {
+              "player": "Eugene",
+              "score": 0
+            },
+            {
+              "player": "Eric",
+              "score": 1200
+            }
+          ]
+        },
+        {
+          "category": "ARTISTS",
+          "value": 1000,
+          "clue": "His 1863 work \"Luncheon on the Grass\" was based on \"Concert Champetre\", painted centuries earlier",
+          "answer": "Edouard Manet",
+          "isDailyDouble": false,
+          "orderNumber": 7,
+          "correctContestants": [
+            "Eric"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 2400
+            },
+            {
+              "player": "Eugene",
+              "score": 0
+            },
+            {
+              "player": "Eric",
+              "score": 2200
+            }
+          ]
+        },
+        {
+          "category": "WORLD HISTORY",
+          "value": 1000,
+          "clue": "This smallest Balkan country didn't become independent until the 20th century",
+          "answer": "Albania",
+          "isDailyDouble": false,
+          "orderNumber": 8,
+          "correctContestants": [
+            "Eric"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 2400
+            },
+            {
+              "player": "Eugene",
+              "score": 0
+            },
+            {
+              "player": "Eric",
+              "score": 3200
+            }
+          ]
+        },
+        {
+          "category": "WORLD HISTORY",
+          "value": 800,
+          "clue": "By 1906 British New Guinea had become a territory of Australia & was renamed this",
+          "answer": "Papua New Guinea",
+          "isDailyDouble": false,
+          "orderNumber": 9,
+          "correctContestants": [
+            "Bob"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 3200
+            },
+            {
+              "player": "Eugene",
+              "score": 0
+            },
+            {
+              "player": "Eric",
+              "score": 3200
+            }
+          ]
+        },
+        {
+          "category": "HODGEPODGE",
+          "value": 1000,
+          "clue": "\"All The King's Men\" can't bring this U.S. Poet Laureate back again; he died September 15, 1989",
+          "answer": "Robert Penn Warren",
+          "isDailyDouble": false,
+          "orderNumber": 10,
+          "correctContestants": [
+            "Eric"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 3200
+            },
+            {
+              "player": "Eugene",
+              "score": 0
+            },
+            {
+              "player": "Eric",
+              "score": 4200
+            }
+          ]
+        },
+        {
+          "category": "STATE CAPITALS",
+          "value": 800,
+          "clue": "These 2 capitals both end in \"-polis\"",
+          "answer": "Annapolis & Indianapolis",
+          "isDailyDouble": false,
+          "orderNumber": 11,
+          "correctContestants": [
+            "Eugene"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 3200
+            },
+            {
+              "player": "Eugene",
+              "score": 800
+            },
+            {
+              "player": "Eric",
+              "score": 4200
+            }
+          ]
+        },
+        {
+          "category": "WORLD HISTORY",
+          "value": 600,
+          "clue": "After discovering the Philippines in March of 1521, he stayed there for about a month & was killed",
+          "answer": "Ferdinand Magellan",
+          "isDailyDouble": false,
+          "orderNumber": 12,
+          "correctContestants": [
+            "Bob"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 3800
+            },
+            {
+              "player": "Eugene",
+              "score": 800
+            },
+            {
+              "player": "Eric",
+              "score": 4200
+            }
+          ]
+        },
+        {
+          "category": "SAINTS & SINNERS",
+          "value": 1000,
+          "clue": "The king who had St. Thomas of Becket put to death",
+          "answer": "Henry II",
+          "isDailyDouble": false,
+          "orderNumber": 13,
+          "correctContestants": [
+            "Eric"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 3800
+            },
+            {
+              "player": "Eugene",
+              "score": 800
+            },
+            {
+              "player": "Eric",
+              "score": 5200
+            }
+          ]
+        },
+        {
+          "category": "ARTISTS",
+          "value": 800,
+          "clue": "\"A Portrait of Dr. Gachet\" by this artist sold in 1990 for $82.5 million",
+          "answer": "Vincent Van Gogh",
+          "isDailyDouble": false,
+          "orderNumber": 14,
+          "correctContestants": [
+            "Bob"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 4600
+            },
+            {
+              "player": "Eugene",
+              "score": 800
+            },
+            {
+              "player": "Eric",
+              "score": 5200
+            }
+          ]
+        },
+        {
+          "category": "SAINTS & SINNERS",
+          "value": 800,
+          "clue": "The king who had St. Thomas More put to death",
+          "answer": "Henry VIII",
+          "isDailyDouble": false,
+          "orderNumber": 15,
+          "correctContestants": [
+            "Eric"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 4600
+            },
+            {
+              "player": "Eugene",
+              "score": 800
+            },
+            {
+              "player": "Eric",
+              "score": 6000
+            }
+          ]
+        },
+        {
+          "category": "HODGEPODGE",
+          "value": 800,
+          "clue": "This Scottish missionary explored the Kalahari Desert & discovered the Zambezi River in 1851",
+          "answer": "Dr. David Livingstone",
+          "isDailyDouble": false,
+          "orderNumber": 16,
+          "correctContestants": [
+            "Bob"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 5400
+            },
+            {
+              "player": "Eugene",
+              "score": 800
+            },
+            {
+              "player": "Eric",
+              "score": 6000
+            }
+          ]
+        },
+        {
+          "category": "SAINTS & SINNERS",
+          "value": 600,
+          "clue": "St. Monica's son, who lived a dissolute youth as he admitted in his \"Confessions\"",
+          "answer": "St. Augustine",
+          "isDailyDouble": false,
+          "orderNumber": 17,
+          "correctContestants": [
+            "Bob"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 6000
+            },
+            {
+              "player": "Eugene",
+              "score": 800
+            },
+            {
+              "player": "Eric",
+              "score": 6000
+            }
+          ]
+        },
+        {
+          "category": "ARTISTS",
+          "value": 600,
+          "clue": "Look around Goya's works & you'll spot several bichon frises, which are these",
+          "answer": "Dogs",
+          "isDailyDouble": false,
+          "orderNumber": 18,
+          "correctContestants": [
+            "Eugene"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 6000
+            },
+            {
+              "player": "Eugene",
+              "score": 1400
+            },
+            {
+              "player": "Eric",
+              "score": 6000
+            }
+          ]
+        },
+        {
+          "category": "SAINTS & SINNERS",
+          "value": 400,
+          "clue": "Mark's gospel says this woman whom Jesus cured of seven demons was the first to see him resurrected",
+          "answer": "Mary Magdalene",
+          "isDailyDouble": false,
+          "orderNumber": 19,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Eugene"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 6000
+            },
+            {
+              "player": "Eugene",
+              "score": 1000
+            },
+            {
+              "player": "Eric",
+              "score": 6000
+            }
+          ]
+        },
+        {
+          "category": "WORLD HISTORY",
+          "value": 400,
+          "clue": "On May 30, 1967 it declared itself a republic & seceded from Nigeria",
+          "answer": "Biafra",
+          "isDailyDouble": false,
+          "orderNumber": 20,
+          "correctContestants": [
+            "Eugene"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 6000
+            },
+            {
+              "player": "Eugene",
+              "score": 1400
+            },
+            {
+              "player": "Eric",
+              "score": 6000
+            }
+          ]
+        },
+        {
+          "category": "ARTISTS",
+          "value": 400,
+          "clue": "He was the subject of Gilbert Stuart's \"Vaughn\", \"Landsdowne\" & \"Athenaeum\" portraits",
+          "answer": "George Washington",
+          "isDailyDouble": false,
+          "orderNumber": 21,
+          "correctContestants": [
+            "Bob"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 6400
+            },
+            {
+              "player": "Eugene",
+              "score": 1400
+            },
+            {
+              "player": "Eric",
+              "score": 6000
+            }
+          ]
+        },
+        {
+          "category": "HODGEPODGE",
+          "value": 600,
+          "clue": "The Royal Opera House in London has staged this Beethoven opera over 100 times since World War II",
+          "answer": "Fidelio",
+          "isDailyDouble": false,
+          "orderNumber": 22,
+          "correctContestants": [
+            "Eugene"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 6400
+            },
+            {
+              "player": "Eugene",
+              "score": 2000
+            },
+            {
+              "player": "Eric",
+              "score": 6000
+            }
+          ]
+        },
+        {
+          "category": "HODGEPODGE",
+          "value": 400,
+          "clue": "In 1802 Napoleon instituted this award, France's highest",
+          "answer": "Legion of Honor",
+          "isDailyDouble": false,
+          "orderNumber": 23,
+          "correctContestants": [
+            "Bob"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 6800
+            },
+            {
+              "player": "Eugene",
+              "score": 2000
+            },
+            {
+              "player": "Eric",
+              "score": 6000
+            }
+          ]
+        },
+        {
+          "category": "ARTISTS",
+          "value": 200,
+          "clue": "Unlike other artists of the time, Leonardo based these angel parts on the ones that birds have",
+          "answer": "Wings",
+          "isDailyDouble": false,
+          "orderNumber": 24,
+          "correctContestants": [
+            "Eugene"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 6800
+            },
+            {
+              "player": "Eugene",
+              "score": 2200
+            },
+            {
+              "player": "Eric",
+              "score": 6000
+            }
+          ]
+        },
+        {
+          "category": "WORLD HISTORY",
+          "value": 200,
+          "clue": "In 1947 Britain's George VI dropped his title as emperor of this country",
+          "answer": "India",
+          "isDailyDouble": false,
+          "orderNumber": 25,
+          "correctContestants": [
+            "Bob"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 7000
+            },
+            {
+              "player": "Eugene",
+              "score": 2200
+            },
+            {
+              "player": "Eric",
+              "score": 6000
+            }
+          ]
+        },
+        {
+          "category": "STATE CAPITALS",
+          "value": 1000,
+          "clue": "Listing the states alphabetically, this is the capital of the state at the top of the list",
+          "answer": "Montgomery (Alabama)",
+          "isDailyDouble": true,
+          "orderNumber": 26,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Bob"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 6000
+            },
+            {
+              "player": "Eugene",
+              "score": 2200
+            },
+            {
+              "player": "Eric",
+              "score": 6000
+            }
+          ]
+        },
+        {
+          "category": "STATE CAPITALS",
+          "value": 400,
+          "clue": "It's named for a Maine general's daughter",
+          "answer": "Augusta",
+          "isDailyDouble": false,
+          "orderNumber": 27,
+          "correctContestants": [
+            "Bob"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 6400
+            },
+            {
+              "player": "Eugene",
+              "score": 2200
+            },
+            {
+              "player": "Eric",
+              "score": 6000
+            }
+          ]
+        },
+        {
+          "category": "SAINTS & SINNERS",
+          "value": 200,
+          "clue": "He expected a debate but didn't expect to start a new church when he posted his \"95 Theses\" in 1517",
+          "answer": "Martin Luther",
+          "isDailyDouble": false,
+          "orderNumber": 28,
+          "correctContestants": [
+            "Eric"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 6400
+            },
+            {
+              "player": "Eugene",
+              "score": 2200
+            },
+            {
+              "player": "Eric",
+              "score": 6200
+            }
+          ]
+        },
+        {
+          "category": "STATE CAPITALS",
+          "value": 200,
+          "clue": "When Houston became Texas' capital in 1842, this city kept the archives & forced a move back to it",
+          "answer": "Austin",
+          "isDailyDouble": false,
+          "orderNumber": 29,
+          "correctContestants": [
+            "Eugene"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 6400
+            },
+            {
+              "player": "Eugene",
+              "score": 2400
+            },
+            {
+              "player": "Eric",
+              "score": 6200
+            }
+          ]
+        },
+        {
+          "category": "HODGEPODGE",
+          "value": 200,
+          "clue": "\"Blow The Man Down\" is an example of this type of song sailors sang while working on sailing ships",
+          "answer": "Shanty",
+          "isDailyDouble": false,
+          "orderNumber": 30,
+          "correctContestants": [
+            "Eugene"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 6400
+            },
+            {
+              "player": "Eugene",
+              "score": 2600
+            },
+            {
+              "player": "Eric",
+              "score": 6200
+            }
+          ]
+        }
+      ],
+      "firstBreakScores": [
+        {
+          "player": "Bob",
+          "score": 5400
+        },
+        {
+          "player": "Eugene",
+          "score": 800
+        },
+        {
+          "player": "Eric",
+          "score": 6000
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "Bob",
+          "score": 6400
+        },
+        {
+          "player": "Eugene",
+          "score": 2600
+        },
+        {
+          "player": "Eric",
+          "score": 6200
+        }
+      ]
+    },
+    "doubleJeopardy": {
+      "categories": [
+        "THE ANIMAL KINGDOM",
+        "MUSICAL THEATRE",
+        "JAPAN",
+        "ARCHITECTURE",
+        "DEMOCRATS",
+        "CLASSICAL LITERATURE"
+      ],
+      "clues": [
+        {
+          "category": "CLASSICAL LITERATURE",
+          "value": 500,
+          "clue": "The people Aeneas led to Italy to found Rome were the losers in this war",
+          "answer": "the Trojan War",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 6400
+            },
+            {
+              "player": "Eugene",
+              "score": 2600
+            },
+            {
+              "player": "Eric",
+              "score": 6700
+            }
+          ]
+        },
+        {
+          "category": "JAPAN",
+          "value": 2000,
+          "clue": "The first Japanese film director to become famous internationally; his films include \"Rashomon\" & \"The Seven Samurai\"",
+          "answer": "Akira Kurosawa",
+          "isDailyDouble": false,
+          "orderNumber": 2,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 6400
+            },
+            {
+              "player": "Eugene",
+              "score": 2600
+            },
+            {
+              "player": "Eric",
+              "score": 8700
+            }
+          ]
+        },
+        {
+          "category": "JAPAN",
+          "value": 2500,
+          "clue": "The Ainu, most of whom live on this northernmost island, may have been Japan's first inhabitants",
+          "answer": "Hokkaido",
+          "isDailyDouble": false,
+          "orderNumber": 3,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 6400
+            },
+            {
+              "player": "Eugene",
+              "score": 2600
+            },
+            {
+              "player": "Eric",
+              "score": 11200
+            }
+          ]
+        },
+        {
+          "category": "JAPAN",
+          "value": 1500,
+          "clue": "In a traditional Japanese home, floors are covered with straw mats called these",
+          "answer": "Tatami",
+          "isDailyDouble": false,
+          "orderNumber": 4,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 6400
+            },
+            {
+              "player": "Eugene",
+              "score": 2600
+            },
+            {
+              "player": "Eric",
+              "score": 12700
+            }
+          ]
+        },
+        {
+          "category": "JAPAN",
+          "value": 1000,
+          "clue": "Occuring nearly 1,500 times a year, one of these led to more than 100,000 deaths in 1923",
+          "answer": "Earthquakes",
+          "isDailyDouble": false,
+          "orderNumber": 5,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 7400
+            },
+            {
+              "player": "Eugene",
+              "score": 2600
+            },
+            {
+              "player": "Eric",
+              "score": 12700
+            }
+          ]
+        },
+        {
+          "category": "MUSICAL THEATRE",
+          "value": 2500,
+          "clue": "Gertrude Lawrence was the \"lady\" in the title of this 1941 musical about psychoanalysis",
+          "answer": "Lady in the Dark",
+          "isDailyDouble": false,
+          "orderNumber": 6,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 9900
+            },
+            {
+              "player": "Eugene",
+              "score": 2600
+            },
+            {
+              "player": "Eric",
+              "score": 12700
+            }
+          ]
+        },
+        {
+          "category": "MUSICAL THEATRE",
+          "value": 9900,
+          "clue": "1-word title of the 1980 musical which featured the following:\"When the pills the doctor gave you turn your cold to the grippe /When a stitch to save nine others comes apart with a rip /When the rats invade your attic and start leaving your ship /Follow my tip /Come away on a trip /Just join the circus...\"",
+          "answer": "Barnum",
+          "isDailyDouble": true,
+          "orderNumber": 7,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 19800
+            },
+            {
+              "player": "Eugene",
+              "score": 2600
+            },
+            {
+              "player": "Eric",
+              "score": 12700
+            }
+          ]
+        },
+        {
+          "category": "MUSICAL THEATRE",
+          "value": 1500,
+          "clue": "The title character of this comical 1956 musical almost marries Apassionata Von Climax",
+          "answer": "Li'l Abner",
+          "isDailyDouble": false,
+          "orderNumber": 8,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 19800
+            },
+            {
+              "player": "Eugene",
+              "score": 4100
+            },
+            {
+              "player": "Eric",
+              "score": 12700
+            }
+          ]
+        },
+        {
+          "category": "MUSICAL THEATRE",
+          "value": 1000,
+          "clue": "The original cast album of this Broadway musical features a rose & a mask on the cover",
+          "answer": "Phantom of the Opera",
+          "isDailyDouble": false,
+          "orderNumber": 9,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 19800
+            },
+            {
+              "player": "Eugene",
+              "score": 4100
+            },
+            {
+              "player": "Eric",
+              "score": 13700
+            }
+          ]
+        },
+        {
+          "category": "DEMOCRATS",
+          "value": 2500,
+          "clue": "He lost the presidential nomination to Hubert Humphrey in 1968 & ran as an independent in 1976",
+          "answer": "Eugene McCarthy",
+          "isDailyDouble": false,
+          "orderNumber": 10,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 19800
+            },
+            {
+              "player": "Eugene",
+              "score": 6600
+            },
+            {
+              "player": "Eric",
+              "score": 13700
+            }
+          ]
+        },
+        {
+          "category": "DEMOCRATS",
+          "value": 2000,
+          "clue": "He's been an Arizona congressman since 1961 when his brother vacated the seat to join JFK's cabinet",
+          "answer": "Morris Udall",
+          "isDailyDouble": false,
+          "orderNumber": 11,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 19800
+            },
+            {
+              "player": "Eugene",
+              "score": 8600
+            },
+            {
+              "player": "Eric",
+              "score": 13700
+            }
+          ]
+        },
+        {
+          "category": "DEMOCRATS",
+          "value": 1500,
+          "clue": "William A. O'Neill has been governor of Connecticut since she resigned because of illness",
+          "answer": "Ella Grasso",
+          "isDailyDouble": false,
+          "orderNumber": 12,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 19800
+            },
+            {
+              "player": "Eugene",
+              "score": 10100
+            },
+            {
+              "player": "Eric",
+              "score": 13700
+            }
+          ]
+        },
+        {
+          "category": "DEMOCRATS",
+          "value": 1000,
+          "clue": "Colorado congresswoman who was an almost-ran in the 1988 presidential race",
+          "answer": "Pat Schroeder",
+          "isDailyDouble": false,
+          "orderNumber": 13,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 20800
+            },
+            {
+              "player": "Eugene",
+              "score": 10100
+            },
+            {
+              "player": "Eric",
+              "score": 13700
+            }
+          ]
+        },
+        {
+          "category": "MUSICAL THEATRE",
+          "value": 500,
+          "clue": "Last name shared by musical theatre greats Moss & Lawrence",
+          "answer": "Hart",
+          "isDailyDouble": false,
+          "orderNumber": 14,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 20800
+            },
+            {
+              "player": "Eugene",
+              "score": 10600
+            },
+            {
+              "player": "Eric",
+              "score": 13700
+            }
+          ]
+        },
+        {
+          "category": "DEMOCRATS",
+          "value": 500,
+          "clue": "In May 1990 Daniel Akaka became this state's new junior senator, replacing Spark Matsunaga",
+          "answer": "Hawaii",
+          "isDailyDouble": false,
+          "orderNumber": 15,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 20800
+            },
+            {
+              "player": "Eugene",
+              "score": 11100
+            },
+            {
+              "player": "Eric",
+              "score": 13700
+            }
+          ]
+        },
+        {
+          "category": "CLASSICAL LITERATURE",
+          "value": 1000,
+          "clue": "The Elder wrote natural history & the Younger, his nephew & adopted son, was known for his books of letters",
+          "answer": "Pliny",
+          "isDailyDouble": false,
+          "orderNumber": 16,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 21800
+            },
+            {
+              "player": "Eugene",
+              "score": 11100
+            },
+            {
+              "player": "Eric",
+              "score": 13700
+            }
+          ]
+        },
+        {
+          "category": "CLASSICAL LITERATURE",
+          "value": 1500,
+          "clue": "Philosopher who was grossly caricatured in Aristophanes' \"The Clouds\"",
+          "answer": "Socrates",
+          "isDailyDouble": false,
+          "orderNumber": 17,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 21800
+            },
+            {
+              "player": "Eugene",
+              "score": 12600
+            },
+            {
+              "player": "Eric",
+              "score": 13700
+            }
+          ]
+        },
+        {
+          "category": "CLASSICAL LITERATURE",
+          "value": 2000,
+          "clue": "This first Greek historian attempted to write a history of the world up to his own time",
+          "answer": "Herodotus",
+          "isDailyDouble": false,
+          "orderNumber": 18,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 19800
+            },
+            {
+              "player": "Eugene",
+              "score": 12600
+            },
+            {
+              "player": "Eric",
+              "score": 15700
+            }
+          ]
+        },
+        {
+          "category": "ARCHITECTURE",
+          "value": 2500,
+          "clue": "Chicagoan who has been called \"The Father of the American Skyscraper\"",
+          "answer": "Louis Sullivan",
+          "isDailyDouble": false,
+          "orderNumber": 19,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 22300
+            },
+            {
+              "player": "Eugene",
+              "score": 12600
+            },
+            {
+              "player": "Eric",
+              "score": 15700
+            }
+          ]
+        },
+        {
+          "category": "CLASSICAL LITERATURE",
+          "value": 2500,
+          "clue": "This Roman poet fought for Brutus before settling down to write his epodes & odes",
+          "answer": "Horace",
+          "isDailyDouble": false,
+          "orderNumber": 20,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 22300
+            },
+            {
+              "player": "Eugene",
+              "score": 15100
+            },
+            {
+              "player": "Eric",
+              "score": 15700
+            }
+          ]
+        },
+        {
+          "category": "ARCHITECTURE",
+          "value": 500,
+          "clue": "Wallace K. Harrison designed the Metropolitan Opera House as part of this NYC complex",
+          "answer": "Lincoln Center",
+          "isDailyDouble": false,
+          "orderNumber": 21,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 22800
+            },
+            {
+              "player": "Eugene",
+              "score": 15100
+            },
+            {
+              "player": "Eric",
+              "score": 15700
+            }
+          ]
+        },
+        {
+          "category": "ARCHITECTURE",
+          "value": 2000,
+          "clue": "Pseudonym of Swiss architect & city planner Charles-Edouard Jeanneret",
+          "answer": "Le Corbusier",
+          "isDailyDouble": false,
+          "orderNumber": 22,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 24800
+            },
+            {
+              "player": "Eugene",
+              "score": 15100
+            },
+            {
+              "player": "Eric",
+              "score": 15700
+            }
+          ]
+        },
+        {
+          "category": "ARCHITECTURE",
+          "value": 1500,
+          "clue": "At age 13 he emigrated from Finland to the United States with his architect father Eliel",
+          "answer": "Eero Saarinen",
+          "isDailyDouble": false,
+          "orderNumber": 23,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 24800
+            },
+            {
+              "player": "Eugene",
+              "score": 15100
+            },
+            {
+              "player": "Eric",
+              "score": 17200
+            }
+          ]
+        },
+        {
+          "category": "THE ANIMAL KINGDOM",
+          "value": 2000,
+          "clue": "The second-largest deer in the world, it's also called the wapiti",
+          "answer": "American elk",
+          "isDailyDouble": false,
+          "orderNumber": 24,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 24800
+            },
+            {
+              "player": "Eugene",
+              "score": 15100
+            },
+            {
+              "player": "Eric",
+              "score": 15200
+            }
+          ]
+        },
+        {
+          "category": "THE ANIMAL KINGDOM",
+          "value": 4800,
+          "clue": "The disease mixomatosis was introduced to Australia in the 1950s to control them",
+          "answer": "rabbits",
+          "isDailyDouble": true,
+          "orderNumber": 25,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 24800
+            },
+            {
+              "player": "Eugene",
+              "score": 15100
+            },
+            {
+              "player": "Eric",
+              "score": 10400
+            }
+          ]
+        },
+        {
+          "category": "ARCHITECTURE",
+          "value": 1000,
+          "clue": "The cathedral of Santa Maria del Fiore in Florence is called this after its massive dome",
+          "answer": "Il Duomo",
+          "isDailyDouble": false,
+          "orderNumber": 26,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 24800
+            },
+            {
+              "player": "Eugene",
+              "score": 16100
+            },
+            {
+              "player": "Eric",
+              "score": 10400
+            }
+          ]
+        },
+        {
+          "category": "THE ANIMAL KINGDOM",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 24800
+            },
+            {
+              "player": "Eugene",
+              "score": 16100
+            },
+            {
+              "player": "Eric",
+              "score": 10400
+            }
+          ]
+        },
+        {
+          "category": "JAPAN",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 24800
+            },
+            {
+              "player": "Eugene",
+              "score": 16100
+            },
+            {
+              "player": "Eric",
+              "score": 10400
+            }
+          ]
+        },
+        {
+          "category": "THE ANIMAL KINGDOM",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 24800
+            },
+            {
+              "player": "Eugene",
+              "score": 16100
+            },
+            {
+              "player": "Eric",
+              "score": 10400
+            }
+          ]
+        },
+        {
+          "category": "THE ANIMAL KINGDOM",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 24800
+            },
+            {
+              "player": "Eugene",
+              "score": 16100
+            },
+            {
+              "player": "Eric",
+              "score": 10400
+            }
+          ]
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "Bob",
+          "score": 24800
+        },
+        {
+          "player": "Eugene",
+          "score": 16100
+        },
+        {
+          "player": "Eric",
+          "score": 10400
+        }
+      ]
+    },
+    "finalJeopardy": {
+      "category": "GEOGRAPHY",
+      "clue": "In area, it's the second-largest country on the second-largest continent; both begin with the letter \"A\"",
+      "answer": "Algeria (in Africa)",
+      "responses": [
+        {
+          "contestant": "Eric",
+          "response": "What is Algeria?",
+          "isCorrect": true,
+          "isIncorrect": false,
+          "value": 10400,
+          "finalScore": 20800
+        },
+        {
+          "contestant": "Eugene",
+          "response": "What is Algeria?",
+          "isCorrect": true,
+          "isIncorrect": false,
+          "value": 5000,
+          "finalScore": 21100
+        },
+        {
+          "contestant": "Bob",
+          "response": "What is Algeria?",
+          "isCorrect": true,
+          "isIncorrect": false,
+          "value": 7401,
+          "finalScore": 32201
+        }
+      ]
+    }
+  },
+  "finalScores": [
+    {
+      "player": "Bob",
+      "score": "32,201"
+    },
+    {
+      "player": "Eugene",
+      "score": "21,100"
+    },
+    {
+      "player": "Eric",
+      "score": "20,800"
+    }
+  ],
+  "coryatScores": [
+    {
+      "player": "Bob",
+      "score": 17900
+    },
+    {
+      "player": "Eugene",
+      "score": 16100
+    },
+    {
+      "player": "Eric",
+      "score": 15200
+    }
+  ]
+}

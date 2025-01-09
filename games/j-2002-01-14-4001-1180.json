@@ -1,0 +1,1704 @@
+{
+  "gameId": 1180,
+  "showNumber": "4001",
+  "title": "Show #4001 - Monday, January 14, 2002",
+  "date": "2002-01-14",
+  "comments": "",
+  "contestants": [
+    "Michael",
+    "Nanette",
+    "Jay"
+  ],
+  "rounds": {
+    "jeopardy": {
+      "categories": [
+        "MEDICAL CENTER",
+        "THE MUSICAL FABRIC STORE",
+        "HERBS & SPICES",
+        "THE PLANETS",
+        "GO WITH THE FLOW",
+        "COMPLETES THE PROVERB"
+      ],
+      "clues": [
+        {
+          "category": "THE PLANETS",
+          "value": 200,
+          "clue": "One of the brightest of this sixth's planet's over 1,000 rings is only 500 feet thick",
+          "answer": "Saturn",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [
+            "Jay"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michael",
+              "score": 0
+            },
+            {
+              "player": "Nanette",
+              "score": 0
+            },
+            {
+              "player": "Jay",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "MEDICAL CENTER",
+          "value": 200,
+          "clue": "Used in surgery, this instrument whose name is from the Latin for \"small cutting tool\" can have a ruby edge",
+          "answer": "scalpel",
+          "isDailyDouble": false,
+          "orderNumber": 2,
+          "correctContestants": [
+            "Nanette"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michael",
+              "score": 0
+            },
+            {
+              "player": "Nanette",
+              "score": 200
+            },
+            {
+              "player": "Jay",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "THE PLANETS",
+          "value": 400,
+          "clue": "Though it's closest to the sun & has daytime temperatures of 800°, its polar craters seem to contain ice",
+          "answer": "Mercury",
+          "isDailyDouble": false,
+          "orderNumber": 3,
+          "correctContestants": [
+            "Michael"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michael",
+              "score": 400
+            },
+            {
+              "player": "Nanette",
+              "score": 200
+            },
+            {
+              "player": "Jay",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "THE PLANETS",
+          "value": 600,
+          "clue": "This planet was named in 1930 by an 11-year-old British girl, Venetia Burney, who won a \"Name Planet X\" contest",
+          "answer": "Pluto",
+          "isDailyDouble": false,
+          "orderNumber": 4,
+          "correctContestants": [
+            "Jay"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michael",
+              "score": 400
+            },
+            {
+              "player": "Nanette",
+              "score": 200
+            },
+            {
+              "player": "Jay",
+              "score": 800
+            }
+          ]
+        },
+        {
+          "category": "MEDICAL CENTER",
+          "value": 400,
+          "clue": "By definition, this medical specialty is concerned with the skin & its development, diseases & treatment",
+          "answer": "dermatology",
+          "isDailyDouble": false,
+          "orderNumber": 5,
+          "correctContestants": [
+            "Nanette"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michael",
+              "score": 400
+            },
+            {
+              "player": "Nanette",
+              "score": 600
+            },
+            {
+              "player": "Jay",
+              "score": 800
+            }
+          ]
+        },
+        {
+          "category": "THE PLANETS",
+          "value": 800,
+          "clue": "As seen from Earth, the Moon is the brightest object in the nighttime sky; this planet is second brightest",
+          "answer": "Venus",
+          "isDailyDouble": false,
+          "orderNumber": 6,
+          "correctContestants": [
+            "Michael"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michael",
+              "score": 1200
+            },
+            {
+              "player": "Nanette",
+              "score": 600
+            },
+            {
+              "player": "Jay",
+              "score": 800
+            }
+          ]
+        },
+        {
+          "category": "THE PLANETS",
+          "value": 1000,
+          "clue": "Planet whose symbol is seen here",
+          "answer": "Mars",
+          "isDailyDouble": false,
+          "orderNumber": 7,
+          "correctContestants": [
+            "Nanette"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michael",
+              "score": 1200
+            },
+            {
+              "player": "Nanette",
+              "score": 1600
+            },
+            {
+              "player": "Jay",
+              "score": 800
+            }
+          ]
+        },
+        {
+          "category": "THE MUSICAL FABRIC STORE",
+          "value": 200,
+          "clue": "Of The Orlons, The Nylons or The Polyesters, the group that gave us \"Kiss Him Goodbye\"",
+          "answer": "The Nylons",
+          "isDailyDouble": false,
+          "orderNumber": 8,
+          "correctContestants": [
+            "Nanette"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michael",
+              "score": 1200
+            },
+            {
+              "player": "Nanette",
+              "score": 1800
+            },
+            {
+              "player": "Jay",
+              "score": 800
+            }
+          ]
+        },
+        {
+          "category": "THE MUSICAL FABRIC STORE",
+          "value": 400,
+          "clue": "Richard Gere performed his own cornet solos for this film about a Harlem nightspot",
+          "answer": "The Cotton Club",
+          "isDailyDouble": false,
+          "orderNumber": 9,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Michael",
+              "score": 1200
+            },
+            {
+              "player": "Nanette",
+              "score": 1800
+            },
+            {
+              "player": "Jay",
+              "score": 800
+            }
+          ]
+        },
+        {
+          "category": "THE MUSICAL FABRIC STORE",
+          "value": 600,
+          "clue": "One of the biggest hits ever in the musical fabric store is this rock classic heard here:\"...Make me spend my money / Make me feel real loose like a long-necked goose / Like a girl / Oh, baby, that's a-what I like!...\"",
+          "answer": "\"Chantilly Lace\"",
+          "isDailyDouble": false,
+          "orderNumber": 10,
+          "correctContestants": [
+            "Nanette"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michael",
+              "score": 1200
+            },
+            {
+              "player": "Nanette",
+              "score": 2400
+            },
+            {
+              "player": "Jay",
+              "score": 800
+            }
+          ]
+        },
+        {
+          "category": "THE MUSICAL FABRIC STORE",
+          "value": 800,
+          "clue": "George Winston wrote the music for an audio CD of this beloved bunny book by Margery Williams",
+          "answer": "The Velveteen Rabbit",
+          "isDailyDouble": false,
+          "orderNumber": 11,
+          "correctContestants": [
+            "Nanette"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michael",
+              "score": 1200
+            },
+            {
+              "player": "Nanette",
+              "score": 3200
+            },
+            {
+              "player": "Jay",
+              "score": 800
+            }
+          ]
+        },
+        {
+          "category": "THE MUSICAL FABRIC STORE",
+          "value": 1000,
+          "clue": "\"I Have a Boyfriend\" was a 1964 hit for this \"He's So Fine\" group",
+          "answer": "The Chiffons",
+          "isDailyDouble": false,
+          "orderNumber": 12,
+          "correctContestants": [
+            "Jay"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michael",
+              "score": 1200
+            },
+            {
+              "player": "Nanette",
+              "score": 3200
+            },
+            {
+              "player": "Jay",
+              "score": 1800
+            }
+          ]
+        },
+        {
+          "category": "MEDICAL CENTER",
+          "value": 600,
+          "clue": "(Sofia of the Clue Crew reports from the doctor's office.)  Your blood pressure is measured during your heart's resting diastolic phase & this active phase",
+          "answer": "systolic",
+          "isDailyDouble": false,
+          "orderNumber": 13,
+          "correctContestants": [
+            "Michael"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michael",
+              "score": 1800
+            },
+            {
+              "player": "Nanette",
+              "score": 3200
+            },
+            {
+              "player": "Jay",
+              "score": 1800
+            }
+          ]
+        },
+        {
+          "category": "MEDICAL CENTER",
+          "value": 800,
+          "clue": "It's the body's process of breaking down food by chemical & mechanical means",
+          "answer": "digestion",
+          "isDailyDouble": false,
+          "orderNumber": 14,
+          "correctContestants": [
+            "Nanette"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michael",
+              "score": 1800
+            },
+            {
+              "player": "Nanette",
+              "score": 4000
+            },
+            {
+              "player": "Jay",
+              "score": 1800
+            }
+          ]
+        },
+        {
+          "category": "MEDICAL CENTER",
+          "value": 1000,
+          "clue": "It's the passing of an electric current through a hair root to remove unwanted hair",
+          "answer": "electrolysis",
+          "isDailyDouble": false,
+          "orderNumber": 15,
+          "correctContestants": [
+            "Nanette"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michael",
+              "score": 1800
+            },
+            {
+              "player": "Nanette",
+              "score": 5000
+            },
+            {
+              "player": "Jay",
+              "score": 1800
+            }
+          ]
+        },
+        {
+          "category": "GO WITH THE FLOW",
+          "value": 200,
+          "clue": "You can probably find books, music & more along its 4,000-mile route from glacier-fed lakes in Peru to the Atlantic",
+          "answer": "Amazon",
+          "isDailyDouble": false,
+          "orderNumber": 16,
+          "correctContestants": [
+            "Michael"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michael",
+              "score": 2000
+            },
+            {
+              "player": "Nanette",
+              "score": 5000
+            },
+            {
+              "player": "Jay",
+              "score": 1800
+            }
+          ]
+        },
+        {
+          "category": "GO WITH THE FLOW",
+          "value": 400,
+          "clue": "It flows from Mora county, New Mexico to the Rio Grande in Texas; Judge Roy Bean was the law west of it",
+          "answer": "Pecos",
+          "isDailyDouble": false,
+          "orderNumber": 17,
+          "correctContestants": [
+            "Nanette"
+          ],
+          "incorrectContestants": [
+            "Michael"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michael",
+              "score": 1600
+            },
+            {
+              "player": "Nanette",
+              "score": 5400
+            },
+            {
+              "player": "Jay",
+              "score": 1800
+            }
+          ]
+        },
+        {
+          "category": "GO WITH THE FLOW",
+          "value": 1400,
+          "clue": "This monster of a river flows from Catron County, New Mexico to the Colorado River in Arizona",
+          "answer": "Gila River",
+          "isDailyDouble": true,
+          "orderNumber": 18,
+          "correctContestants": [
+            "Nanette"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michael",
+              "score": 1600
+            },
+            {
+              "player": "Nanette",
+              "score": 6800
+            },
+            {
+              "player": "Jay",
+              "score": 1800
+            }
+          ]
+        },
+        {
+          "category": "GO WITH THE FLOW",
+          "value": 800,
+          "clue": "Known as \"blue\", it runs from the Black Forest to the Black Sea",
+          "answer": "Danube",
+          "isDailyDouble": false,
+          "orderNumber": 19,
+          "correctContestants": [
+            "Nanette"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michael",
+              "score": 1600
+            },
+            {
+              "player": "Nanette",
+              "score": 7600
+            },
+            {
+              "player": "Jay",
+              "score": 1800
+            }
+          ]
+        },
+        {
+          "category": "GO WITH THE FLOW",
+          "value": 1000,
+          "clue": "Flowing from Harlan County, Kentucky to the Ohio, careful you don't fall into the gap near it",
+          "answer": "Cumberland",
+          "isDailyDouble": false,
+          "orderNumber": 20,
+          "correctContestants": [
+            "Nanette"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michael",
+              "score": 1600
+            },
+            {
+              "player": "Nanette",
+              "score": 8600
+            },
+            {
+              "player": "Jay",
+              "score": 1800
+            }
+          ]
+        },
+        {
+          "category": "HERBS & SPICES",
+          "value": 200,
+          "clue": "The name of this spice can precede beer, bread & snap",
+          "answer": "ginger",
+          "isDailyDouble": false,
+          "orderNumber": 21,
+          "correctContestants": [
+            "Jay"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michael",
+              "score": 1600
+            },
+            {
+              "player": "Nanette",
+              "score": 8600
+            },
+            {
+              "player": "Jay",
+              "score": 2000
+            }
+          ]
+        },
+        {
+          "category": "HERBS & SPICES",
+          "value": 400,
+          "clue": "This expensive spice used in bouillabaisse comes from the yellow-orange stigmas of the purple crocus",
+          "answer": "saffron",
+          "isDailyDouble": false,
+          "orderNumber": 22,
+          "correctContestants": [
+            "Jay"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michael",
+              "score": 1600
+            },
+            {
+              "player": "Nanette",
+              "score": 8600
+            },
+            {
+              "player": "Jay",
+              "score": 2400
+            }
+          ]
+        },
+        {
+          "category": "HERBS & SPICES",
+          "value": 600,
+          "clue": "This spice is made by grinding aromatic red pepper pods; the Hungarian variety is said to be superior",
+          "answer": "paprika",
+          "isDailyDouble": false,
+          "orderNumber": 23,
+          "correctContestants": [
+            "Jay"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michael",
+              "score": 1600
+            },
+            {
+              "player": "Nanette",
+              "score": 8600
+            },
+            {
+              "player": "Jay",
+              "score": 3000
+            }
+          ]
+        },
+        {
+          "category": "HERBS & SPICES",
+          "value": 800,
+          "clue": "This \"wise\" member of the mint family is used in poultry stuffing",
+          "answer": "sage",
+          "isDailyDouble": false,
+          "orderNumber": 24,
+          "correctContestants": [
+            "Jay"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michael",
+              "score": 1600
+            },
+            {
+              "player": "Nanette",
+              "score": 8600
+            },
+            {
+              "player": "Jay",
+              "score": 3800
+            }
+          ]
+        },
+        {
+          "category": "HERBS & SPICES",
+          "value": 1000,
+          "clue": "This herb's seeds are often used to give candy a licorice flavor",
+          "answer": "anise",
+          "isDailyDouble": false,
+          "orderNumber": 25,
+          "correctContestants": [
+            "Nanette"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michael",
+              "score": 1600
+            },
+            {
+              "player": "Nanette",
+              "score": 9600
+            },
+            {
+              "player": "Jay",
+              "score": 3800
+            }
+          ]
+        },
+        {
+          "category": "COMPLETES THE PROVERB",
+          "value": 200,
+          "clue": "\"No news is...\"",
+          "answer": "good news",
+          "isDailyDouble": false,
+          "orderNumber": 26,
+          "correctContestants": [
+            "Nanette"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michael",
+              "score": 1600
+            },
+            {
+              "player": "Nanette",
+              "score": 9800
+            },
+            {
+              "player": "Jay",
+              "score": 3800
+            }
+          ]
+        },
+        {
+          "category": "COMPLETES THE PROVERB",
+          "value": 400,
+          "clue": "\"Early to bed, and early to rise, makes a man...\"",
+          "answer": "healthy, wealthy & wise",
+          "isDailyDouble": false,
+          "orderNumber": 27,
+          "correctContestants": [
+            "Jay"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michael",
+              "score": 1600
+            },
+            {
+              "player": "Nanette",
+              "score": 9800
+            },
+            {
+              "player": "Jay",
+              "score": 4200
+            }
+          ]
+        },
+        {
+          "category": "COMPLETES THE PROVERB",
+          "value": 600,
+          "clue": "\"You can't get blood...\"",
+          "answer": "from a stone",
+          "isDailyDouble": false,
+          "orderNumber": 28,
+          "correctContestants": [
+            "Michael"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michael",
+              "score": 2200
+            },
+            {
+              "player": "Nanette",
+              "score": 9800
+            },
+            {
+              "player": "Jay",
+              "score": 4200
+            }
+          ]
+        },
+        {
+          "category": "COMPLETES THE PROVERB",
+          "value": 800,
+          "clue": "\"The opera isn't over till...\"",
+          "answer": "the fat lady sings",
+          "isDailyDouble": false,
+          "orderNumber": 29,
+          "correctContestants": [
+            "Nanette"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michael",
+              "score": 2200
+            },
+            {
+              "player": "Nanette",
+              "score": 10600
+            },
+            {
+              "player": "Jay",
+              "score": 4200
+            }
+          ]
+        },
+        {
+          "category": "COMPLETES THE PROVERB",
+          "value": 1000,
+          "clue": "\"The hand that rocks the cradle...\"",
+          "answer": "rules the world",
+          "isDailyDouble": false,
+          "orderNumber": 30,
+          "correctContestants": [
+            "Jay"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michael",
+              "score": 2200
+            },
+            {
+              "player": "Nanette",
+              "score": 10600
+            },
+            {
+              "player": "Jay",
+              "score": 5200
+            }
+          ]
+        }
+      ],
+      "firstBreakScores": [
+        {
+          "player": "Michael",
+          "score": 1800
+        },
+        {
+          "player": "Nanette",
+          "score": 5000
+        },
+        {
+          "player": "Jay",
+          "score": 1800
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "Michael",
+          "score": 2200
+        },
+        {
+          "player": "Nanette",
+          "score": 10600
+        },
+        {
+          "player": "Jay",
+          "score": 5200
+        }
+      ]
+    },
+    "doubleJeopardy": {
+      "categories": [
+        "AUTHOR! AUTHOR!",
+        "WHERE YA FROM?",
+        "WHAT \"R\" YOU DOING?",
+        "COLORFUL MOVIE TITLES",
+        "PETER MARK ROGET",
+        "WEBSTERS"
+      ],
+      "clues": [
+        {
+          "category": "COLORFUL MOVIE TITLES",
+          "value": 400,
+          "clue": "Tom Hanks & David Morse are guards on death row in this 1999 film",
+          "answer": "The Green Mile",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michael",
+              "score": 2600
+            },
+            {
+              "player": "Nanette",
+              "score": 10600
+            },
+            {
+              "player": "Jay",
+              "score": 5200
+            }
+          ]
+        },
+        {
+          "category": "COLORFUL MOVIE TITLES",
+          "value": 800,
+          "clue": "(Hi, I'm Danny Nucci.)  I played petty officer first class Danny Rivetti in this 1995 submarine thriller that starred Denzel Washington",
+          "answer": "Crimson Tide",
+          "isDailyDouble": false,
+          "orderNumber": 2,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michael",
+              "score": 3400
+            },
+            {
+              "player": "Nanette",
+              "score": 10600
+            },
+            {
+              "player": "Jay",
+              "score": 5200
+            }
+          ]
+        },
+        {
+          "category": "COLORFUL MOVIE TITLES",
+          "value": 1200,
+          "clue": "Molly Ringwald longs to go to the prom with rich kid Andrew McCarthy in this teen angst film",
+          "answer": "Pretty in Pink",
+          "isDailyDouble": false,
+          "orderNumber": 3,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michael",
+              "score": 3400
+            },
+            {
+              "player": "Nanette",
+              "score": 10600
+            },
+            {
+              "player": "Jay",
+              "score": 6400
+            }
+          ]
+        },
+        {
+          "category": "WHERE YA FROM?",
+          "value": 400,
+          "clue": "In the Heartland:Hoosier",
+          "answer": "Indiana",
+          "isDailyDouble": false,
+          "orderNumber": 4,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michael",
+              "score": 3400
+            },
+            {
+              "player": "Nanette",
+              "score": 10600
+            },
+            {
+              "player": "Jay",
+              "score": 6800
+            }
+          ]
+        },
+        {
+          "category": "WHERE YA FROM?",
+          "value": 800,
+          "clue": "In England:Cestrian or cat",
+          "answer": "Cheshire",
+          "isDailyDouble": false,
+          "orderNumber": 5,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michael",
+              "score": 3400
+            },
+            {
+              "player": "Nanette",
+              "score": 11400
+            },
+            {
+              "player": "Jay",
+              "score": 6800
+            }
+          ]
+        },
+        {
+          "category": "WHERE YA FROM?",
+          "value": 1200,
+          "clue": "In Canada:Stampeder",
+          "answer": "Calgary",
+          "isDailyDouble": false,
+          "orderNumber": 6,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michael",
+              "score": 4600
+            },
+            {
+              "player": "Nanette",
+              "score": 11400
+            },
+            {
+              "player": "Jay",
+              "score": 6800
+            }
+          ]
+        },
+        {
+          "category": "COLORFUL MOVIE TITLES",
+          "value": 1600,
+          "clue": "Jessica Lange was named best actress for this film that had waited 3 years for release",
+          "answer": "Blue Sky",
+          "isDailyDouble": false,
+          "orderNumber": 7,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Michael",
+              "score": 4600
+            },
+            {
+              "player": "Nanette",
+              "score": 11400
+            },
+            {
+              "player": "Jay",
+              "score": 6800
+            }
+          ]
+        },
+        {
+          "category": "COLORFUL MOVIE TITLES",
+          "value": 2000,
+          "clue": "In this 1993 noir film, Nicolas Cage is mistaken for a contract killer hired to murder Lara Flynn Boyle",
+          "answer": "Red Rock West",
+          "isDailyDouble": false,
+          "orderNumber": 8,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Michael",
+              "score": 4600
+            },
+            {
+              "player": "Nanette",
+              "score": 11400
+            },
+            {
+              "player": "Jay",
+              "score": 6800
+            }
+          ]
+        },
+        {
+          "category": "WHERE YA FROM?",
+          "value": 4000,
+          "clue": "A U.S. state:Doubting Thomas",
+          "answer": "Missouri",
+          "isDailyDouble": true,
+          "orderNumber": 9,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michael",
+              "score": 600
+            },
+            {
+              "player": "Nanette",
+              "score": 11400
+            },
+            {
+              "player": "Jay",
+              "score": 6800
+            }
+          ]
+        },
+        {
+          "category": "WHERE YA FROM?",
+          "value": 2000,
+          "clue": "In Spain:Ibicenco",
+          "answer": "Ibiza",
+          "isDailyDouble": false,
+          "orderNumber": 10,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Michael",
+              "score": 600
+            },
+            {
+              "player": "Nanette",
+              "score": 11400
+            },
+            {
+              "player": "Jay",
+              "score": 6800
+            }
+          ]
+        },
+        {
+          "category": "AUTHOR! AUTHOR!",
+          "value": 400,
+          "clue": "Oakland, Calif.'s Heinold's First & Last Chance Saloon was a favorite bar of this \"White Fang\" author",
+          "answer": "Jack London",
+          "isDailyDouble": false,
+          "orderNumber": 11,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michael",
+              "score": 600
+            },
+            {
+              "player": "Nanette",
+              "score": 11800
+            },
+            {
+              "player": "Jay",
+              "score": 6800
+            }
+          ]
+        },
+        {
+          "category": "AUTHOR! AUTHOR!",
+          "value": 800,
+          "clue": "(Jimmy of the Clue Crew reports from New Orleans.)  What's now Preservation Hall was once the home of this \"Perry Mason\" author",
+          "answer": "Erle Stanley Gardner",
+          "isDailyDouble": false,
+          "orderNumber": 12,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Jay"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Michael",
+              "score": 600
+            },
+            {
+              "player": "Nanette",
+              "score": 11000
+            },
+            {
+              "player": "Jay",
+              "score": 6000
+            }
+          ]
+        },
+        {
+          "category": "AUTHOR! AUTHOR!",
+          "value": 1200,
+          "clue": "This author of \"Ethan Frome\" began her own \"Age of Innocence\" January 24, 1862 in New York City",
+          "answer": "Edith Wharton",
+          "isDailyDouble": false,
+          "orderNumber": 13,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michael",
+              "score": 600
+            },
+            {
+              "player": "Nanette",
+              "score": 12200
+            },
+            {
+              "player": "Jay",
+              "score": 6000
+            }
+          ]
+        },
+        {
+          "category": "AUTHOR! AUTHOR!",
+          "value": 1600,
+          "clue": "It's the last name of the twin brother authors who penned \"Sleuth\" & \"Amadeus\"",
+          "answer": "Shaffer",
+          "isDailyDouble": false,
+          "orderNumber": 14,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Michael",
+              "score": 600
+            },
+            {
+              "player": "Nanette",
+              "score": 12200
+            },
+            {
+              "player": "Jay",
+              "score": 6000
+            }
+          ]
+        },
+        {
+          "category": "AUTHOR! AUTHOR!",
+          "value": 2000,
+          "clue": "This 19th century female author had a brother named Branwell & sisters named Emily & Charlotte",
+          "answer": "Anne Brontë",
+          "isDailyDouble": false,
+          "orderNumber": 15,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michael",
+              "score": 600
+            },
+            {
+              "player": "Nanette",
+              "score": 14200
+            },
+            {
+              "player": "Jay",
+              "score": 6000
+            }
+          ]
+        },
+        {
+          "category": "PETER MARK ROGET",
+          "value": 400,
+          "clue": "In 1845 Roget designed a portable pocket version of this board game",
+          "answer": "chess",
+          "isDailyDouble": false,
+          "orderNumber": 16,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Michael",
+              "score": 600
+            },
+            {
+              "player": "Nanette",
+              "score": 14200
+            },
+            {
+              "player": "Jay",
+              "score": 6000
+            }
+          ]
+        },
+        {
+          "category": "PETER MARK ROGET",
+          "value": 800,
+          "clue": "Roget was a big contributor to the 7th edition of this Encyclopædia ; the entry on him in the current one is 6 sentences",
+          "answer": "Encyclopedia Britannica",
+          "isDailyDouble": false,
+          "orderNumber": 17,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michael",
+              "score": 600
+            },
+            {
+              "player": "Nanette",
+              "score": 15000
+            },
+            {
+              "player": "Jay",
+              "score": 6000
+            }
+          ]
+        },
+        {
+          "category": "PETER MARK ROGET",
+          "value": 1200,
+          "clue": "In 2002 Roget's thesaurus will celebrate this anniversary",
+          "answer": "150th",
+          "isDailyDouble": false,
+          "orderNumber": 18,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Nanette",
+            "Jay"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Michael",
+              "score": -600
+            },
+            {
+              "player": "Nanette",
+              "score": 13800
+            },
+            {
+              "player": "Jay",
+              "score": 4800
+            }
+          ]
+        },
+        {
+          "category": "PETER MARK ROGET",
+          "value": 2000,
+          "clue": "The popularity of these in the 1920s (& the prizes they offered!) made Roget's thesaurus a must-have",
+          "answer": "crossword puzzles",
+          "isDailyDouble": true,
+          "orderNumber": 19,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michael",
+              "score": -600
+            },
+            {
+              "player": "Nanette",
+              "score": 15800
+            },
+            {
+              "player": "Jay",
+              "score": 4800
+            }
+          ]
+        },
+        {
+          "category": "PETER MARK ROGET",
+          "value": 2000,
+          "clue": "Roget's description of this eye-brain phenomenon set the theoretical basis for movies",
+          "answer": "persistence of vision",
+          "isDailyDouble": false,
+          "orderNumber": 20,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Michael",
+              "score": -600
+            },
+            {
+              "player": "Nanette",
+              "score": 15800
+            },
+            {
+              "player": "Jay",
+              "score": 4800
+            }
+          ]
+        },
+        {
+          "category": "WEBSTERS",
+          "value": 400,
+          "clue": "Mankay, Enoch Sontonga & V.E. Webster did the music for Tanzania's one of these, basing it on a Bantu song",
+          "answer": "national anthem",
+          "isDailyDouble": false,
+          "orderNumber": 21,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michael",
+              "score": -200
+            },
+            {
+              "player": "Nanette",
+              "score": 15800
+            },
+            {
+              "player": "Jay",
+              "score": 4800
+            }
+          ]
+        },
+        {
+          "category": "WEBSTERS",
+          "value": 800,
+          "clue": "Like George Bush, William Webster was a director of this spy group",
+          "answer": "CIA",
+          "isDailyDouble": false,
+          "orderNumber": 22,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michael",
+              "score": 600
+            },
+            {
+              "player": "Nanette",
+              "score": 15800
+            },
+            {
+              "player": "Jay",
+              "score": 4800
+            }
+          ]
+        },
+        {
+          "category": "WEBSTERS",
+          "value": 1200,
+          "clue": "This 19th c. orator once spoke to the Society for the Diffusion of Useful Knowledge founded by Peter Mark Roget",
+          "answer": "Daniel Webster",
+          "isDailyDouble": false,
+          "orderNumber": 23,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Michael",
+              "score": 600
+            },
+            {
+              "player": "Nanette",
+              "score": 15800
+            },
+            {
+              "player": "Jay",
+              "score": 4800
+            }
+          ]
+        },
+        {
+          "category": "WEBSTERS",
+          "value": 1600,
+          "clue": "In 1988 he became the first American since Robert Webster in 1964 to repeat as Olympic platform diving champ",
+          "answer": "(Greg) Louganis",
+          "isDailyDouble": false,
+          "orderNumber": 24,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michael",
+              "score": 2200
+            },
+            {
+              "player": "Nanette",
+              "score": 15800
+            },
+            {
+              "player": "Jay",
+              "score": 4800
+            }
+          ]
+        },
+        {
+          "category": "WEBSTERS",
+          "value": 2000,
+          "clue": "Webster Thayer was the judge in the 1920s case in which this pair, a shoe worker & fish peddler, were tried for murder",
+          "answer": "Sacco & Vanzetti",
+          "isDailyDouble": false,
+          "orderNumber": 25,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michael",
+              "score": 4200
+            },
+            {
+              "player": "Nanette",
+              "score": 15800
+            },
+            {
+              "player": "Jay",
+              "score": 4800
+            }
+          ]
+        },
+        {
+          "category": "WHAT \"R\" YOU DOING?",
+          "value": 2000,
+          "clue": "When you literally do this \"over\" someone, you gallop using horseshoes studded with nails",
+          "answer": "ride roughshod",
+          "isDailyDouble": false,
+          "orderNumber": 26,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Michael",
+              "score": 2200
+            },
+            {
+              "player": "Nanette",
+              "score": 15800
+            },
+            {
+              "player": "Jay",
+              "score": 4800
+            }
+          ]
+        },
+        {
+          "category": "WHAT \"R\" YOU DOING?",
+          "value": 1600,
+          "clue": "It's the action being performed here",
+          "answer": "rappelling",
+          "isDailyDouble": false,
+          "orderNumber": 27,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michael",
+              "score": 3800
+            },
+            {
+              "player": "Nanette",
+              "score": 15800
+            },
+            {
+              "player": "Jay",
+              "score": 4800
+            }
+          ]
+        },
+        {
+          "category": "WHAT \"R\" YOU DOING?",
+          "value": 1200,
+          "clue": "To give a valid-sounding cause for something you actually did for other reasons",
+          "answer": "rationalize",
+          "isDailyDouble": false,
+          "orderNumber": 28,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michael",
+              "score": 5000
+            },
+            {
+              "player": "Nanette",
+              "score": 15800
+            },
+            {
+              "player": "Jay",
+              "score": 4800
+            }
+          ]
+        },
+        {
+          "category": "WHAT \"R\" YOU DOING?",
+          "value": 800,
+          "clue": "To do this with your saber means to make a threatening military display",
+          "answer": "rattle",
+          "isDailyDouble": false,
+          "orderNumber": 29,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michael",
+              "score": 5800
+            },
+            {
+              "player": "Nanette",
+              "score": 15800
+            },
+            {
+              "player": "Jay",
+              "score": 4800
+            }
+          ]
+        },
+        {
+          "category": "WHAT \"R\" YOU DOING?",
+          "value": 400,
+          "clue": "To say 9.23 instead of 9.227 is to do this",
+          "answer": "rounding",
+          "isDailyDouble": false,
+          "orderNumber": 30,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michael",
+              "score": 5800
+            },
+            {
+              "player": "Nanette",
+              "score": 15800
+            },
+            {
+              "player": "Jay",
+              "score": 5200
+            }
+          ]
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "Michael",
+          "score": 5800
+        },
+        {
+          "player": "Nanette",
+          "score": 15800
+        },
+        {
+          "player": "Jay",
+          "score": 5200
+        }
+      ]
+    },
+    "finalJeopardy": {
+      "category": "AWARDS",
+      "clue": "This food company sponsors the \"Very Best in Youth\" award",
+      "answer": "Nestlé's",
+      "responses": [
+        {
+          "contestant": "Jay",
+          "response": "What is Best Foods?",
+          "isCorrect": false,
+          "isIncorrect": true,
+          "value": 1000,
+          "finalScore": 4200
+        },
+        {
+          "contestant": "Michael",
+          "response": "What is Gerbers",
+          "isCorrect": false,
+          "isIncorrect": true,
+          "value": 4601,
+          "finalScore": 1199
+        },
+        {
+          "contestant": "Nanette",
+          "response": "What is Quaker Oats?",
+          "isCorrect": false,
+          "isIncorrect": true,
+          "value": 370,
+          "finalScore": 15430
+        }
+      ]
+    }
+  },
+  "finalScores": [
+    {
+      "player": "Michael",
+      "score": "$1,199"
+    },
+    {
+      "player": "Nanette",
+      "score": "$15,430"
+    },
+    {
+      "player": "Jay",
+      "score": "$4,200"
+    }
+  ],
+  "coryatScores": [
+    {
+      "player": "Michael",
+      "score": 9800
+    },
+    {
+      "player": "Nanette",
+      "score": 14600
+    },
+    {
+      "player": "Jay",
+      "score": 5200
+    }
+  ]
+}

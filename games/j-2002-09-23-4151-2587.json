@@ -1,0 +1,1708 @@
+{
+  "gameId": 2587,
+  "showNumber": "4151",
+  "title": "Show #4151 - Monday, September 23, 2002",
+  "date": "2002-09-23",
+  "comments": "",
+  "contestants": [
+    "Tom",
+    "Justine",
+    "Matt"
+  ],
+  "rounds": {
+    "jeopardy": {
+      "categories": [
+        "MUSICAL MATTERS",
+        "HORSE TALK",
+        "SPANISH CLASS",
+        "CLASSIC FILMS IN OTHER WORDS",
+        "WHAT GRADE DID YOU GET?",
+        "AN \"F\" IN HISTORY"
+      ],
+      "clues": [
+        {
+          "category": "SPANISH CLASS",
+          "value": 200,
+          "clue": "This farm animal is una vaca",
+          "answer": "cow",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [
+            "Tom"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 200
+            },
+            {
+              "player": "Justine",
+              "score": 0
+            },
+            {
+              "player": "Matt",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "SPANISH CLASS",
+          "value": 400,
+          "clue": "You can find libros at una libreria y una biblioteca, these 2 related places",
+          "answer": "library & bookstore",
+          "isDailyDouble": false,
+          "orderNumber": 2,
+          "correctContestants": [
+            "Matt"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 200
+            },
+            {
+              "player": "Justine",
+              "score": 0
+            },
+            {
+              "player": "Matt",
+              "score": 400
+            }
+          ]
+        },
+        {
+          "category": "SPANISH CLASS",
+          "value": 600,
+          "clue": "This color is azul",
+          "answer": "blue",
+          "isDailyDouble": false,
+          "orderNumber": 3,
+          "correctContestants": [
+            "Tom"
+          ],
+          "incorrectContestants": [
+            "Justine"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 800
+            },
+            {
+              "player": "Justine",
+              "score": -600
+            },
+            {
+              "player": "Matt",
+              "score": 400
+            }
+          ]
+        },
+        {
+          "category": "SPANISH CLASS",
+          "value": 800,
+          "clue": "The word \"alligator\" comes from the Spanish el lagarto, this reptile",
+          "answer": "lizard",
+          "isDailyDouble": false,
+          "orderNumber": 4,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Tom"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 0
+            },
+            {
+              "player": "Justine",
+              "score": -600
+            },
+            {
+              "player": "Matt",
+              "score": 400
+            }
+          ]
+        },
+        {
+          "category": "SPANISH CLASS",
+          "value": 1000,
+          "clue": "For spice, you use picante for this adjective; for climate, calido; for temperature, caliente",
+          "answer": "hot",
+          "isDailyDouble": true,
+          "orderNumber": 5,
+          "correctContestants": [
+            "Tom"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 1000
+            },
+            {
+              "player": "Justine",
+              "score": -600
+            },
+            {
+              "player": "Matt",
+              "score": 400
+            }
+          ]
+        },
+        {
+          "category": "AN \"F\" IN HISTORY",
+          "value": 200,
+          "clue": "Soon after Ataturk became Turkey's president in 1923, he banned the wearing of this traditional hat",
+          "answer": "fez",
+          "isDailyDouble": false,
+          "orderNumber": 6,
+          "correctContestants": [
+            "Tom"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 1200
+            },
+            {
+              "player": "Justine",
+              "score": -600
+            },
+            {
+              "player": "Matt",
+              "score": 400
+            }
+          ]
+        },
+        {
+          "category": "AN \"F\" IN HISTORY",
+          "value": 400,
+          "clue": "He founded Philly's first police force",
+          "answer": "Ben Franklin",
+          "isDailyDouble": false,
+          "orderNumber": 7,
+          "correctContestants": [
+            "Justine"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 1200
+            },
+            {
+              "player": "Justine",
+              "score": -200
+            },
+            {
+              "player": "Matt",
+              "score": 400
+            }
+          ]
+        },
+        {
+          "category": "AN \"F\" IN HISTORY",
+          "value": 600,
+          "clue": "The longest currently serving leader in the Western Hemisphere; he started in 1959",
+          "answer": "Fidel Castro",
+          "isDailyDouble": false,
+          "orderNumber": 8,
+          "correctContestants": [
+            "Tom"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 1800
+            },
+            {
+              "player": "Justine",
+              "score": -200
+            },
+            {
+              "player": "Matt",
+              "score": 400
+            }
+          ]
+        },
+        {
+          "category": "AN \"F\" IN HISTORY",
+          "value": 800,
+          "clue": "In 1976 Bob Dole was his running mate",
+          "answer": "Gerald Ford",
+          "isDailyDouble": false,
+          "orderNumber": 9,
+          "correctContestants": [
+            "Tom"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 2600
+            },
+            {
+              "player": "Justine",
+              "score": -200
+            },
+            {
+              "player": "Matt",
+              "score": 400
+            }
+          ]
+        },
+        {
+          "category": "AN \"F\" IN HISTORY",
+          "value": 1000,
+          "clue": "It's the other political party that, like the Whigs, elected only 2 U.S. presidents",
+          "answer": "Federalists",
+          "isDailyDouble": false,
+          "orderNumber": 10,
+          "correctContestants": [
+            "Tom"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 3600
+            },
+            {
+              "player": "Justine",
+              "score": -200
+            },
+            {
+              "player": "Matt",
+              "score": 400
+            }
+          ]
+        },
+        {
+          "category": "MUSICAL MATTERS",
+          "value": 200,
+          "clue": "At age 14 Wynton Marsalis performed Haydn's concerto for this instrument",
+          "answer": "trumpet",
+          "isDailyDouble": false,
+          "orderNumber": 11,
+          "correctContestants": [
+            "Matt"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 3600
+            },
+            {
+              "player": "Justine",
+              "score": -200
+            },
+            {
+              "player": "Matt",
+              "score": 600
+            }
+          ]
+        },
+        {
+          "category": "MUSICAL MATTERS",
+          "value": 400,
+          "clue": "The Dixie Chicks' first CD had the rhyming title \"Thank Heavens for\" this TV cowgirl",
+          "answer": "Dale Evans",
+          "isDailyDouble": false,
+          "orderNumber": 12,
+          "correctContestants": [
+            "Tom"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 4000
+            },
+            {
+              "player": "Justine",
+              "score": -200
+            },
+            {
+              "player": "Matt",
+              "score": 600
+            }
+          ]
+        },
+        {
+          "category": "MUSICAL MATTERS",
+          "value": 600,
+          "clue": "It sounds like a small trench around a castle, but it was the major type of late medieval composition",
+          "answer": "motet",
+          "isDailyDouble": false,
+          "orderNumber": 13,
+          "correctContestants": [
+            "Justine"
+          ],
+          "incorrectContestants": [
+            "Matt"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 4000
+            },
+            {
+              "player": "Justine",
+              "score": 400
+            },
+            {
+              "player": "Matt",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "MUSICAL MATTERS",
+          "value": 800,
+          "clue": "The 19th century composer of the following, he basically wrote for only one instrument",
+          "answer": "Frederic Chopin",
+          "isDailyDouble": false,
+          "orderNumber": 14,
+          "correctContestants": [
+            "Matt"
+          ],
+          "incorrectContestants": [
+            "Tom"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 3200
+            },
+            {
+              "player": "Justine",
+              "score": 400
+            },
+            {
+              "player": "Matt",
+              "score": 800
+            }
+          ]
+        },
+        {
+          "category": "MUSICAL MATTERS",
+          "value": 1000,
+          "clue": "James Blake, who wrote the song \"I'm Just Wild About Harry\", was better known by this nickname",
+          "answer": "Eubie",
+          "isDailyDouble": false,
+          "orderNumber": 15,
+          "correctContestants": [
+            "Tom"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 4200
+            },
+            {
+              "player": "Justine",
+              "score": 400
+            },
+            {
+              "player": "Matt",
+              "score": 800
+            }
+          ]
+        },
+        {
+          "category": "CLASSIC FILMS IN OTHER WORDS",
+          "value": 200,
+          "clue": "1992:\"Jigs Accompanied by Lupine Creatures\"",
+          "answer": "Dances with Wolves",
+          "isDailyDouble": false,
+          "orderNumber": 16,
+          "correctContestants": [
+            "Justine"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 4200
+            },
+            {
+              "player": "Justine",
+              "score": 600
+            },
+            {
+              "player": "Matt",
+              "score": 800
+            }
+          ]
+        },
+        {
+          "category": "CLASSIC FILMS IN OTHER WORDS",
+          "value": 400,
+          "clue": "1957:\"One Dozen Ticked-Off Dudes\"",
+          "answer": "12 Angry Men",
+          "isDailyDouble": false,
+          "orderNumber": 17,
+          "correctContestants": [
+            "Justine"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 4200
+            },
+            {
+              "player": "Justine",
+              "score": 1000
+            },
+            {
+              "player": "Matt",
+              "score": 800
+            }
+          ]
+        },
+        {
+          "category": "CLASSIC FILMS IN OTHER WORDS",
+          "value": 600,
+          "clue": "1969:\"12 O'Clock Herdsman\"",
+          "answer": "Midnight Cowboy",
+          "isDailyDouble": false,
+          "orderNumber": 18,
+          "correctContestants": [
+            "Tom"
+          ],
+          "incorrectContestants": [
+            "Justine"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 4800
+            },
+            {
+              "player": "Justine",
+              "score": 400
+            },
+            {
+              "player": "Matt",
+              "score": 800
+            }
+          ]
+        },
+        {
+          "category": "CLASSIC FILMS IN OTHER WORDS",
+          "value": 800,
+          "clue": "1973:\"Final Argentine Dance on the Banks of the Seine\"",
+          "answer": "Last Tango in Paris",
+          "isDailyDouble": false,
+          "orderNumber": 19,
+          "correctContestants": [
+            "Tom"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 5600
+            },
+            {
+              "player": "Justine",
+              "score": 400
+            },
+            {
+              "player": "Matt",
+              "score": 800
+            }
+          ]
+        },
+        {
+          "category": "CLASSIC FILMS IN OTHER WORDS",
+          "value": 1000,
+          "clue": "1992:\"Primal Impulse\"",
+          "answer": "Basic Instinct",
+          "isDailyDouble": false,
+          "orderNumber": 20,
+          "correctContestants": [
+            "Tom"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 6600
+            },
+            {
+              "player": "Justine",
+              "score": 400
+            },
+            {
+              "player": "Matt",
+              "score": 800
+            }
+          ]
+        },
+        {
+          "category": "WHAT GRADE DID YOU GET?",
+          "value": 200,
+          "clue": "Anthracite, the highest grade of this, is made almost entirely of carbon",
+          "answer": "coal",
+          "isDailyDouble": false,
+          "orderNumber": 21,
+          "correctContestants": [
+            "Tom"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 6800
+            },
+            {
+              "player": "Justine",
+              "score": 400
+            },
+            {
+              "player": "Matt",
+              "score": 800
+            }
+          ]
+        },
+        {
+          "category": "WHAT GRADE DID YOU GET?",
+          "value": 400,
+          "clue": "Grades of this potable range from doux to brut",
+          "answer": "champagne",
+          "isDailyDouble": false,
+          "orderNumber": 22,
+          "correctContestants": [
+            "Justine"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 6800
+            },
+            {
+              "player": "Justine",
+              "score": 800
+            },
+            {
+              "player": "Matt",
+              "score": 800
+            }
+          ]
+        },
+        {
+          "category": "WHAT GRADE DID YOU GET?",
+          "value": 600,
+          "clue": "A \"less than investment grade\" bond is usually referred to as this 4-letter term",
+          "answer": "junk",
+          "isDailyDouble": false,
+          "orderNumber": 23,
+          "correctContestants": [
+            "Matt"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 6800
+            },
+            {
+              "player": "Justine",
+              "score": 800
+            },
+            {
+              "player": "Matt",
+              "score": 1400
+            }
+          ]
+        },
+        {
+          "category": "WHAT GRADE DID YOU GET?",
+          "value": 800,
+          "clue": "Bond & book are grades of this product made from compressed cellulose",
+          "answer": "paper",
+          "isDailyDouble": false,
+          "orderNumber": 24,
+          "correctContestants": [
+            "Matt"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 6800
+            },
+            {
+              "player": "Justine",
+              "score": 800
+            },
+            {
+              "player": "Matt",
+              "score": 2200
+            }
+          ]
+        },
+        {
+          "category": "WHAT GRADE DID YOU GET?",
+          "value": 1000,
+          "clue": "Excelso is a grade of coffee from this country, perhaps from Medellin",
+          "answer": "Colombia",
+          "isDailyDouble": false,
+          "orderNumber": 25,
+          "correctContestants": [
+            "Tom"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 7800
+            },
+            {
+              "player": "Justine",
+              "score": 800
+            },
+            {
+              "player": "Matt",
+              "score": 2200
+            }
+          ]
+        },
+        {
+          "category": "HORSE TALK",
+          "value": 200,
+          "clue": "In the 1932 film \"Horse Feathers\", he remarked, \"I'd horsewhip you if I had a horse\"",
+          "answer": "Groucho Marx",
+          "isDailyDouble": false,
+          "orderNumber": 26,
+          "correctContestants": [
+            "Matt"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 7800
+            },
+            {
+              "player": "Justine",
+              "score": 800
+            },
+            {
+              "player": "Matt",
+              "score": 2400
+            }
+          ]
+        },
+        {
+          "category": "HORSE TALK",
+          "value": 400,
+          "clue": "On Oct. 19, 1924 Grantland Rice wrote that \"Their real names are Stuhldreher, Miller, Crowley, and Leyden\"",
+          "answer": "\"Four Horsemen of Notre Dame\"",
+          "isDailyDouble": false,
+          "orderNumber": 27,
+          "correctContestants": [
+            "Tom"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 8200
+            },
+            {
+              "player": "Justine",
+              "score": 800
+            },
+            {
+              "player": "Matt",
+              "score": 2400
+            }
+          ]
+        },
+        {
+          "category": "HORSE TALK",
+          "value": 600,
+          "clue": "\"For want of a nail the shoe is lost, for want of a shoe the horse is lost, for want of a horse\" this \"is lost\"",
+          "answer": "the rider",
+          "isDailyDouble": false,
+          "orderNumber": 28,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Tom",
+            "Justine"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 7600
+            },
+            {
+              "player": "Justine",
+              "score": 200
+            },
+            {
+              "player": "Matt",
+              "score": 2400
+            }
+          ]
+        },
+        {
+          "category": "HORSE TALK",
+          "value": 800,
+          "clue": "Dr. Johnson called it \"A grain which in England is generally given to horses, but in Scotland supports the people\"",
+          "answer": "oats",
+          "isDailyDouble": false,
+          "orderNumber": 29,
+          "correctContestants": [
+            "Justine"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 7600
+            },
+            {
+              "player": "Justine",
+              "score": 1000
+            },
+            {
+              "player": "Matt",
+              "score": 2400
+            }
+          ]
+        },
+        {
+          "category": "HORSE TALK",
+          "value": 1000,
+          "clue": "An old cliche says a difference of opinion is \"what makes\" these",
+          "answer": "horse races",
+          "isDailyDouble": false,
+          "orderNumber": 30,
+          "correctContestants": [
+            "Justine"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 7600
+            },
+            {
+              "player": "Justine",
+              "score": 2000
+            },
+            {
+              "player": "Matt",
+              "score": 2400
+            }
+          ]
+        }
+      ],
+      "firstBreakScores": [
+        {
+          "player": "Tom",
+          "score": 4200
+        },
+        {
+          "player": "Justine",
+          "score": 400
+        },
+        {
+          "player": "Matt",
+          "score": 800
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "Tom",
+          "score": 7600
+        },
+        {
+          "player": "Justine",
+          "score": 2000
+        },
+        {
+          "player": "Matt",
+          "score": 2400
+        }
+      ]
+    },
+    "doubleJeopardy": {
+      "categories": [
+        "CITY WALK",
+        "NO. 1 IN THE NFL DRAFT",
+        "CONTEMPORARY THEATRE",
+        "THE WRIGHT STUFF",
+        "BODY PARTS",
+        "ODD WORDS"
+      ],
+      "clues": [
+        {
+          "category": "ODD WORDS",
+          "value": 400,
+          "clue": "This synonym for gibberish comes from the name of a Lewis Carroll poem",
+          "answer": "jabberwocky",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 8000
+            },
+            {
+              "player": "Justine",
+              "score": 2000
+            },
+            {
+              "player": "Matt",
+              "score": 2400
+            }
+          ]
+        },
+        {
+          "category": "CONTEMPORARY THEATRE",
+          "value": 400,
+          "clue": "In 1998, more than a century after that incident with an ax, this accused murderess got her own musical",
+          "answer": "Lizzie Borden",
+          "isDailyDouble": false,
+          "orderNumber": 2,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 8000
+            },
+            {
+              "player": "Justine",
+              "score": 2400
+            },
+            {
+              "player": "Matt",
+              "score": 2400
+            }
+          ]
+        },
+        {
+          "category": "ODD WORDS",
+          "value": 800,
+          "clue": "A heptastich is a poem or stanza of this many lines",
+          "answer": "7",
+          "isDailyDouble": false,
+          "orderNumber": 3,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 8000
+            },
+            {
+              "player": "Justine",
+              "score": 2400
+            },
+            {
+              "player": "Matt",
+              "score": 3200
+            }
+          ]
+        },
+        {
+          "category": "ODD WORDS",
+          "value": 1200,
+          "clue": "Animal, vegetable or mineral: what kohlrabi is",
+          "answer": "vegetable",
+          "isDailyDouble": false,
+          "orderNumber": 4,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 8000
+            },
+            {
+              "player": "Justine",
+              "score": 2400
+            },
+            {
+              "player": "Matt",
+              "score": 4400
+            }
+          ]
+        },
+        {
+          "category": "ODD WORDS",
+          "value": 1600,
+          "clue": "This word that rhymes with rough is used for the skin of a snake that's been cast off",
+          "answer": "slough",
+          "isDailyDouble": false,
+          "orderNumber": 5,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 9600
+            },
+            {
+              "player": "Justine",
+              "score": 2400
+            },
+            {
+              "player": "Matt",
+              "score": 4400
+            }
+          ]
+        },
+        {
+          "category": "CONTEMPORARY THEATRE",
+          "value": 800,
+          "clue": "The 2001 play \"Snatches\" depicts snatches of phone conversations between Monica Lewinsky & this former friend",
+          "answer": "Linda Tripp",
+          "isDailyDouble": false,
+          "orderNumber": 6,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 10400
+            },
+            {
+              "player": "Justine",
+              "score": 2400
+            },
+            {
+              "player": "Matt",
+              "score": 4400
+            }
+          ]
+        },
+        {
+          "category": "CONTEMPORARY THEATRE",
+          "value": 1200,
+          "clue": "In 2001 Marlo Thomas got all dolled up to play this \"Valley of the Dolls\" author in the play \"Paper Doll\"",
+          "answer": "Jacqueline Susann",
+          "isDailyDouble": false,
+          "orderNumber": 7,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 10400
+            },
+            {
+              "player": "Justine",
+              "score": 3600
+            },
+            {
+              "player": "Matt",
+              "score": 4400
+            }
+          ]
+        },
+        {
+          "category": "ODD WORDS",
+          "value": 2000,
+          "clue": "Pandiculation is the act of yawning & doing this, especially first thing in the morning",
+          "answer": "stretching",
+          "isDailyDouble": false,
+          "orderNumber": 8,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 10400
+            },
+            {
+              "player": "Justine",
+              "score": 5600
+            },
+            {
+              "player": "Matt",
+              "score": 2400
+            }
+          ]
+        },
+        {
+          "category": "CITY WALK",
+          "value": 400,
+          "clue": "With a current population of 323,000 this North American national capital was founded in the early 1800s",
+          "answer": "Ottawa, Canada",
+          "isDailyDouble": false,
+          "orderNumber": 9,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 10800
+            },
+            {
+              "player": "Justine",
+              "score": 5600
+            },
+            {
+              "player": "Matt",
+              "score": 2400
+            }
+          ]
+        },
+        {
+          "category": "CONTEMPORARY THEATRE",
+          "value": 1600,
+          "clue": "Bob Gaudio of the 4 Seasons wrote the music for a new musical based on this Kathleen Turner-Nicolas Cage film",
+          "answer": "Peggy Sue Got Married",
+          "isDailyDouble": false,
+          "orderNumber": 10,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 12400
+            },
+            {
+              "player": "Justine",
+              "score": 5600
+            },
+            {
+              "player": "Matt",
+              "score": 800
+            }
+          ]
+        },
+        {
+          "category": "CONTEMPORARY THEATRE",
+          "value": 2000,
+          "clue": "John Cullum of \"Northern Exposure\" got more Broadway exposure as a toilet tycoon in this hit musical",
+          "answer": "Urinetown",
+          "isDailyDouble": false,
+          "orderNumber": 11,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 12400
+            },
+            {
+              "player": "Justine",
+              "score": 7600
+            },
+            {
+              "player": "Matt",
+              "score": 800
+            }
+          ]
+        },
+        {
+          "category": "CITY WALK",
+          "value": 800,
+          "clue": "The 1,000-year-old Al-Azhar University in this Middle East capital is an important center of Islamic learning",
+          "answer": "Cairo, Egypt",
+          "isDailyDouble": false,
+          "orderNumber": 12,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 12400
+            },
+            {
+              "player": "Justine",
+              "score": 8400
+            },
+            {
+              "player": "Matt",
+              "score": 800
+            }
+          ]
+        },
+        {
+          "category": "CITY WALK",
+          "value": 1200,
+          "clue": "(Sofia of the Clue Crew reports from Miami.)  Stretching from about 17th Avenue to 37th Avenue is this \"small\" area of Miami",
+          "answer": "\"Little Havana\"",
+          "isDailyDouble": false,
+          "orderNumber": 13,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 13600
+            },
+            {
+              "player": "Justine",
+              "score": 8400
+            },
+            {
+              "player": "Matt",
+              "score": 800
+            }
+          ]
+        },
+        {
+          "category": "CITY WALK",
+          "value": 1600,
+          "clue": "Pensione Erdarelli & the Hotel Hassler are both found in this capital city",
+          "answer": "Rome, Italy",
+          "isDailyDouble": false,
+          "orderNumber": 14,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 13600
+            },
+            {
+              "player": "Justine",
+              "score": 10000
+            },
+            {
+              "player": "Matt",
+              "score": 800
+            }
+          ]
+        },
+        {
+          "category": "CITY WALK",
+          "value": 5000,
+          "clue": "You'll find the Kenyatta Conference Center in this Kenyan city, one of Africa's largest & fastest growing",
+          "answer": "Nairobi",
+          "isDailyDouble": true,
+          "orderNumber": 15,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 13600
+            },
+            {
+              "player": "Justine",
+              "score": 15000
+            },
+            {
+              "player": "Matt",
+              "score": 800
+            }
+          ]
+        },
+        {
+          "category": "THE WRIGHT STUFF",
+          "value": 400,
+          "clue": "The Wright Brothers made almost 1,000 successful glider flights on a beach near this N.C. town in 1902",
+          "answer": "Kitty Hawk",
+          "isDailyDouble": false,
+          "orderNumber": 16,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 13600
+            },
+            {
+              "player": "Justine",
+              "score": 15000
+            },
+            {
+              "player": "Matt",
+              "score": 1200
+            }
+          ]
+        },
+        {
+          "category": "THE WRIGHT STUFF",
+          "value": 800,
+          "clue": "He designed the Imperial Hotel to withstand Tokyo's earthquakes; in 1923, it was one of the few buildings that did",
+          "answer": "Frank Lloyd Wright",
+          "isDailyDouble": false,
+          "orderNumber": 17,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 13600
+            },
+            {
+              "player": "Justine",
+              "score": 15800
+            },
+            {
+              "player": "Matt",
+              "score": 1200
+            }
+          ]
+        },
+        {
+          "category": "THE WRIGHT STUFF",
+          "value": 1200,
+          "clue": "In 1986 this Texan became House majority leader, succeeding Tip O'Neill",
+          "answer": "Jim Wright",
+          "isDailyDouble": false,
+          "orderNumber": 18,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 14800
+            },
+            {
+              "player": "Justine",
+              "score": 15800
+            },
+            {
+              "player": "Matt",
+              "score": 1200
+            }
+          ]
+        },
+        {
+          "category": "NO. 1 IN THE NFL DRAFT",
+          "value": 400,
+          "clue": "1989 by Dallas:this Bruin, seen here",
+          "answer": "Troy Aikman",
+          "isDailyDouble": false,
+          "orderNumber": 19,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 15200
+            },
+            {
+              "player": "Justine",
+              "score": 15800
+            },
+            {
+              "player": "Matt",
+              "score": 1200
+            }
+          ]
+        },
+        {
+          "category": "NO. 1 IN THE NFL DRAFT",
+          "value": 800,
+          "clue": "1978 by Houston:this Texas running back",
+          "answer": "Earl Campbell",
+          "isDailyDouble": false,
+          "orderNumber": 20,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 16000
+            },
+            {
+              "player": "Justine",
+              "score": 15800
+            },
+            {
+              "player": "Matt",
+              "score": 1200
+            }
+          ]
+        },
+        {
+          "category": "NO. 1 IN THE NFL DRAFT",
+          "value": 1200,
+          "clue": "1993 by New England:this quarterback",
+          "answer": "Drew Bledsoe",
+          "isDailyDouble": false,
+          "orderNumber": 21,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 17200
+            },
+            {
+              "player": "Justine",
+              "score": 15800
+            },
+            {
+              "player": "Matt",
+              "score": 1200
+            }
+          ]
+        },
+        {
+          "category": "NO. 1 IN THE NFL DRAFT",
+          "value": 1600,
+          "clue": "1998 by this team:Peyton Manning",
+          "answer": "Indianapolis Colts",
+          "isDailyDouble": false,
+          "orderNumber": 22,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 18800
+            },
+            {
+              "player": "Justine",
+              "score": 15800
+            },
+            {
+              "player": "Matt",
+              "score": 1200
+            }
+          ]
+        },
+        {
+          "category": "NO. 1 IN THE NFL DRAFT",
+          "value": 2000,
+          "clue": "1949 by Philadelphia:this man, \"Concrete Charlie\", the NFL's last 60-minute player",
+          "answer": "Chuck Bednarik",
+          "isDailyDouble": false,
+          "orderNumber": 23,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 20800
+            },
+            {
+              "player": "Justine",
+              "score": 15800
+            },
+            {
+              "player": "Matt",
+              "score": 1200
+            }
+          ]
+        },
+        {
+          "category": "THE WRIGHT STUFF",
+          "value": 1600,
+          "clue": "Benjamin Wright, & not a mule named Sal, was chief engineer for the construction of this waterway from 1817 to 1825",
+          "answer": "Erie Canal",
+          "isDailyDouble": false,
+          "orderNumber": 24,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 22400
+            },
+            {
+              "player": "Justine",
+              "score": 15800
+            },
+            {
+              "player": "Matt",
+              "score": 1200
+            }
+          ]
+        },
+        {
+          "category": "THE WRIGHT STUFF",
+          "value": 2000,
+          "clue": "A black Chicago youth is victimized by a white-dominated society in this novelist's \"Native Son\"",
+          "answer": "Richard Wright",
+          "isDailyDouble": false,
+          "orderNumber": 25,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 24400
+            },
+            {
+              "player": "Justine",
+              "score": 15800
+            },
+            {
+              "player": "Matt",
+              "score": 1200
+            }
+          ]
+        },
+        {
+          "category": "BODY PARTS",
+          "value": 400,
+          "clue": "A fighter might \"take it on\" this body part without flinching",
+          "answer": "the chin",
+          "isDailyDouble": false,
+          "orderNumber": 26,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 24400
+            },
+            {
+              "player": "Justine",
+              "score": 15800
+            },
+            {
+              "player": "Matt",
+              "score": 1600
+            }
+          ]
+        },
+        {
+          "category": "BODY PARTS",
+          "value": 800,
+          "clue": "Some of these have been dubbed middle, little or ring",
+          "answer": "fingers",
+          "isDailyDouble": false,
+          "orderNumber": 27,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 24400
+            },
+            {
+              "player": "Justine",
+              "score": 15800
+            },
+            {
+              "player": "Matt",
+              "score": 2400
+            }
+          ]
+        },
+        {
+          "category": "BODY PARTS",
+          "value": 1200,
+          "clue": "This long & winding portion of the alimentary canal is divided into small & large sections",
+          "answer": "intestines",
+          "isDailyDouble": false,
+          "orderNumber": 28,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 24400
+            },
+            {
+              "player": "Justine",
+              "score": 17000
+            },
+            {
+              "player": "Matt",
+              "score": 2400
+            }
+          ]
+        },
+        {
+          "category": "BODY PARTS",
+          "value": 2000,
+          "clue": "12 of these 33 bones are thoracic",
+          "answer": "vertebrae",
+          "isDailyDouble": true,
+          "orderNumber": 29,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 24400
+            },
+            {
+              "player": "Justine",
+              "score": 15000
+            },
+            {
+              "player": "Matt",
+              "score": 2400
+            }
+          ]
+        },
+        {
+          "category": "BODY PARTS",
+          "value": 2000,
+          "clue": "This shoulder muscle is ready when you are",
+          "answer": "deltoid muscle",
+          "isDailyDouble": false,
+          "orderNumber": 30,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 24400
+            },
+            {
+              "player": "Justine",
+              "score": 15000
+            },
+            {
+              "player": "Matt",
+              "score": 2400
+            }
+          ]
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "Tom",
+          "score": 24400
+        },
+        {
+          "player": "Justine",
+          "score": 15000
+        },
+        {
+          "player": "Matt",
+          "score": 2400
+        }
+      ]
+    },
+    "finalJeopardy": {
+      "category": "INAUGURAL ADDRESSES",
+      "clue": "A New Deal Democrat in his youth, this president stated, \"Government is not the solution to our problem\"",
+      "answer": "Ronald Reagan",
+      "responses": [
+        {
+          "contestant": "Matt",
+          "response": "Who is James Carter?",
+          "isCorrect": false,
+          "isIncorrect": true,
+          "value": 600,
+          "finalScore": 1800
+        },
+        {
+          "contestant": "Justine",
+          "response": "Who is Ronald Reagan?",
+          "isCorrect": true,
+          "isIncorrect": false,
+          "value": 5000,
+          "finalScore": 20000
+        },
+        {
+          "contestant": "Tom",
+          "response": "Who was R. Reagan?",
+          "isCorrect": true,
+          "isIncorrect": false,
+          "value": 5601,
+          "finalScore": 30001
+        }
+      ]
+    }
+  },
+  "finalScores": [
+    {
+      "player": "Tom",
+      "score": "$30,001"
+    },
+    {
+      "player": "Justine",
+      "score": "$20,000"
+    },
+    {
+      "player": "Matt",
+      "score": "$1,800"
+    }
+  ],
+  "coryatScores": [
+    {
+      "player": "Tom",
+      "score": 24400
+    },
+    {
+      "player": "Justine",
+      "score": 14000
+    },
+    {
+      "player": "Matt",
+      "score": 2400
+    }
+  ]
+}

@@ -1,0 +1,1703 @@
+{
+  "gameId": 7548,
+  "showNumber": "1568",
+  "title": "Show #1568 - Wednesday, May 29, 1991",
+  "date": "1991-05-29",
+  "comments": "Game entered from audiorecording. Missing prizes.",
+  "contestants": [
+    "Michael",
+    "Marc",
+    "Beth"
+  ],
+  "rounds": {
+    "jeopardy": {
+      "categories": [
+        "THE OLD WEST",
+        "SANDWICHES",
+        "ANATOMY",
+        "1990s TV",
+        "ECONOMICS",
+        "NOT SO FAMOUS QUOTES"
+      ],
+      "clues": [
+        {
+          "category": "THE OLD WEST",
+          "value": 100,
+          "clue": "As deputy marshal of Dodge City he was known for batting some of his enemies with his cane",
+          "answer": "Bat Masterson",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [
+            "Michael"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michael",
+              "score": 100
+            },
+            {
+              "player": "Marc",
+              "score": 0
+            },
+            {
+              "player": "Beth",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "THE OLD WEST",
+          "value": 200,
+          "clue": "These Indians called themselves Dakota, \"allies\", but the French called them this, for \"enemy\"",
+          "answer": "the Sioux",
+          "isDailyDouble": false,
+          "orderNumber": 2,
+          "correctContestants": [
+            "Beth"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michael",
+              "score": 100
+            },
+            {
+              "player": "Marc",
+              "score": 0
+            },
+            {
+              "player": "Beth",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "ANATOMY",
+          "value": 100,
+          "clue": "The flat panels on the sides of the head, or the places some head to pray",
+          "answer": "temples",
+          "isDailyDouble": false,
+          "orderNumber": 3,
+          "correctContestants": [
+            "Beth"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michael",
+              "score": 100
+            },
+            {
+              "player": "Marc",
+              "score": 0
+            },
+            {
+              "player": "Beth",
+              "score": 300
+            }
+          ]
+        },
+        {
+          "category": "ANATOMY",
+          "value": 200,
+          "clue": "It's the joint that allows the foot to pivot up & down",
+          "answer": "ankles",
+          "isDailyDouble": false,
+          "orderNumber": 4,
+          "correctContestants": [
+            "Beth"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michael",
+              "score": 100
+            },
+            {
+              "player": "Marc",
+              "score": 0
+            },
+            {
+              "player": "Beth",
+              "score": 500
+            }
+          ]
+        },
+        {
+          "category": "ANATOMY",
+          "value": 300,
+          "clue": "The stomach is part of this canal",
+          "answer": "the alimentary canal",
+          "isDailyDouble": false,
+          "orderNumber": 5,
+          "correctContestants": [
+            "Beth"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michael",
+              "score": 100
+            },
+            {
+              "player": "Marc",
+              "score": 0
+            },
+            {
+              "player": "Beth",
+              "score": 800
+            }
+          ]
+        },
+        {
+          "category": "ANATOMY",
+          "value": 400,
+          "clue": "This part of the eye is the site of the greatest concentration of pain receptive nerves",
+          "answer": "the cornea",
+          "isDailyDouble": false,
+          "orderNumber": 6,
+          "correctContestants": [
+            "Beth"
+          ],
+          "incorrectContestants": [
+            "Marc"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michael",
+              "score": 100
+            },
+            {
+              "player": "Marc",
+              "score": -400
+            },
+            {
+              "player": "Beth",
+              "score": 1200
+            }
+          ]
+        },
+        {
+          "category": "ANATOMY",
+          "value": 500,
+          "clue": "In osteoarthritis this tissue disintegrates & bones rub against one another",
+          "answer": "the cartilage",
+          "isDailyDouble": false,
+          "orderNumber": 7,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Michael",
+              "score": 100
+            },
+            {
+              "player": "Marc",
+              "score": -400
+            },
+            {
+              "player": "Beth",
+              "score": 1200
+            }
+          ]
+        },
+        {
+          "category": "NOT SO FAMOUS QUOTES",
+          "value": 100,
+          "clue": "Thomas Hardy said this \"makes rattling good history, but peace is poor reading\"",
+          "answer": "war",
+          "isDailyDouble": false,
+          "orderNumber": 8,
+          "correctContestants": [
+            "Marc"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michael",
+              "score": 100
+            },
+            {
+              "player": "Marc",
+              "score": -300
+            },
+            {
+              "player": "Beth",
+              "score": 1200
+            }
+          ]
+        },
+        {
+          "category": "ECONOMICS",
+          "value": 100,
+          "clue": "In \"Das Kapital\" he wrote that free enterprise would lead to depressions & revolution",
+          "answer": "Karl Marx",
+          "isDailyDouble": false,
+          "orderNumber": 9,
+          "correctContestants": [
+            "Marc"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michael",
+              "score": 100
+            },
+            {
+              "player": "Marc",
+              "score": -200
+            },
+            {
+              "player": "Beth",
+              "score": 1200
+            }
+          ]
+        },
+        {
+          "category": "ECONOMICS",
+          "value": 200,
+          "clue": "The government official who determines the value of your taxable valuables",
+          "answer": "an assessor",
+          "isDailyDouble": false,
+          "orderNumber": 10,
+          "correctContestants": [
+            "Marc"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michael",
+              "score": 100
+            },
+            {
+              "player": "Marc",
+              "score": 0
+            },
+            {
+              "player": "Beth",
+              "score": 1200
+            }
+          ]
+        },
+        {
+          "category": "ECONOMICS",
+          "value": 300,
+          "clue": "This company, D&B for short, is the leading firm hired for corporate credit investigation",
+          "answer": "Dun & Bradstreet",
+          "isDailyDouble": false,
+          "orderNumber": 11,
+          "correctContestants": [
+            "Beth"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michael",
+              "score": 100
+            },
+            {
+              "player": "Marc",
+              "score": 0
+            },
+            {
+              "player": "Beth",
+              "score": 1500
+            }
+          ]
+        },
+        {
+          "category": "NOT SO FAMOUS QUOTES",
+          "value": 200,
+          "clue": "This emperor reportedly described Talleyrand as \"a silk stocking filled with mud\"",
+          "answer": "Napoleon",
+          "isDailyDouble": false,
+          "orderNumber": 12,
+          "correctContestants": [
+            "Marc"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michael",
+              "score": 100
+            },
+            {
+              "player": "Marc",
+              "score": 200
+            },
+            {
+              "player": "Beth",
+              "score": 1500
+            }
+          ]
+        },
+        {
+          "category": "ECONOMICS",
+          "value": 400,
+          "clue": "An authorized outlet that's a link in a business chain like a McDonald's or major league ball club",
+          "answer": "a franchise",
+          "isDailyDouble": false,
+          "orderNumber": 13,
+          "correctContestants": [
+            "Beth"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michael",
+              "score": 100
+            },
+            {
+              "player": "Marc",
+              "score": 200
+            },
+            {
+              "player": "Beth",
+              "score": 1900
+            }
+          ]
+        },
+        {
+          "category": "1990s TV",
+          "value": 100,
+          "clue": "In 1990, this William Conrad series said aloha to Hawaii & returned to Southern California",
+          "answer": "Jake and the Fatman",
+          "isDailyDouble": false,
+          "orderNumber": 14,
+          "correctContestants": [
+            "Marc"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michael",
+              "score": 100
+            },
+            {
+              "player": "Marc",
+              "score": 300
+            },
+            {
+              "player": "Beth",
+              "score": 1900
+            }
+          ]
+        },
+        {
+          "category": "1990s TV",
+          "value": 200,
+          "clue": "It's Sharon Gless' occupation on \"The Trials of Rosie O'Neill\"",
+          "answer": "an attorney",
+          "isDailyDouble": false,
+          "orderNumber": 15,
+          "correctContestants": [
+            "Beth"
+          ],
+          "incorrectContestants": [
+            "Michael"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michael",
+              "score": -100
+            },
+            {
+              "player": "Marc",
+              "score": 300
+            },
+            {
+              "player": "Beth",
+              "score": 2100
+            }
+          ]
+        },
+        {
+          "category": "SANDWICHES",
+          "value": 100,
+          "clue": "Comic character whose 1st sandwich April 16, 1936 had tongue, onion, mustard, sardines & horseradish",
+          "answer": "Dagwood (Bumstead)",
+          "isDailyDouble": false,
+          "orderNumber": 16,
+          "correctContestants": [
+            "Beth"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michael",
+              "score": -100
+            },
+            {
+              "player": "Marc",
+              "score": 300
+            },
+            {
+              "player": "Beth",
+              "score": 2200
+            }
+          ]
+        },
+        {
+          "category": "SANDWICHES",
+          "value": 200,
+          "clue": "The pocket bread that Middle Easterners stuff with all sorts of stuff",
+          "answer": "pita",
+          "isDailyDouble": false,
+          "orderNumber": 17,
+          "correctContestants": [
+            "Marc"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michael",
+              "score": -100
+            },
+            {
+              "player": "Marc",
+              "score": 500
+            },
+            {
+              "player": "Beth",
+              "score": 2200
+            }
+          ]
+        },
+        {
+          "category": "SANDWICHES",
+          "value": 500,
+          "clue": "Popularized at the 1904 St. Louis World's Fair it was named for a German seaport",
+          "answer": "a hamburger",
+          "isDailyDouble": true,
+          "orderNumber": 18,
+          "correctContestants": [
+            "Marc"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michael",
+              "score": -100
+            },
+            {
+              "player": "Marc",
+              "score": 1000
+            },
+            {
+              "player": "Beth",
+              "score": 2200
+            }
+          ]
+        },
+        {
+          "category": "THE OLD WEST",
+          "value": 300,
+          "clue": "The nugget James Marshall found at this locale on the American River was the size of a dime",
+          "answer": "Sutter's Mill",
+          "isDailyDouble": false,
+          "orderNumber": 19,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Beth"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Michael",
+              "score": -100
+            },
+            {
+              "player": "Marc",
+              "score": 1000
+            },
+            {
+              "player": "Beth",
+              "score": 1900
+            }
+          ]
+        },
+        {
+          "category": "THE OLD WEST",
+          "value": 400,
+          "clue": "A greenhorn in the old West, or the lowest rank of a Boy Scout",
+          "answer": "a tenderfoot",
+          "isDailyDouble": false,
+          "orderNumber": 20,
+          "correctContestants": [
+            "Michael"
+          ],
+          "incorrectContestants": [
+            "Marc"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michael",
+              "score": 300
+            },
+            {
+              "player": "Marc",
+              "score": 600
+            },
+            {
+              "player": "Beth",
+              "score": 1900
+            }
+          ]
+        },
+        {
+          "category": "THE OLD WEST",
+          "value": 500,
+          "clue": "Term for an unbranded cow from a man who lost his cattle to rustlers by not branding them",
+          "answer": "a maverick",
+          "isDailyDouble": false,
+          "orderNumber": 21,
+          "correctContestants": [
+            "Beth"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michael",
+              "score": 300
+            },
+            {
+              "player": "Marc",
+              "score": 600
+            },
+            {
+              "player": "Beth",
+              "score": 2400
+            }
+          ]
+        },
+        {
+          "category": "SANDWICHES",
+          "value": 400,
+          "clue": "Grilled corned beef, Swiss cheese & sauerkraut on rye",
+          "answer": "a Reuben",
+          "isDailyDouble": false,
+          "orderNumber": 22,
+          "correctContestants": [
+            "Beth"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michael",
+              "score": 300
+            },
+            {
+              "player": "Marc",
+              "score": 600
+            },
+            {
+              "player": "Beth",
+              "score": 2800
+            }
+          ]
+        },
+        {
+          "category": "SANDWICHES",
+          "value": 500,
+          "clue": "This member of the mustard family is served on crustless bread to accompany a British tea",
+          "answer": "watercress",
+          "isDailyDouble": false,
+          "orderNumber": 23,
+          "correctContestants": [
+            "Marc"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michael",
+              "score": 300
+            },
+            {
+              "player": "Marc",
+              "score": 1100
+            },
+            {
+              "player": "Beth",
+              "score": 2800
+            }
+          ]
+        },
+        {
+          "category": "1990s TV",
+          "value": 300,
+          "clue": "A 1989 John Candy film inspired this avuncular sitcom",
+          "answer": "Uncle Buck",
+          "isDailyDouble": false,
+          "orderNumber": 24,
+          "correctContestants": [
+            "Beth"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michael",
+              "score": 300
+            },
+            {
+              "player": "Marc",
+              "score": 1100
+            },
+            {
+              "player": "Beth",
+              "score": 3100
+            }
+          ]
+        },
+        {
+          "category": "NOT SO FAMOUS QUOTES",
+          "value": 300,
+          "clue": "Ralph Waldo Emerson said this \"is not so short that there is always time for courtesy\"",
+          "answer": "life",
+          "isDailyDouble": false,
+          "orderNumber": 25,
+          "correctContestants": [
+            "Beth"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michael",
+              "score": 300
+            },
+            {
+              "player": "Marc",
+              "score": 1100
+            },
+            {
+              "player": "Beth",
+              "score": 3400
+            }
+          ]
+        },
+        {
+          "category": "NOT SO FAMOUS QUOTES",
+          "value": 400,
+          "clue": "Ogden Nash wrote, \"A dog is perpetually on the wrong side of\" one of these",
+          "answer": "a door",
+          "isDailyDouble": false,
+          "orderNumber": 26,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Michael"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Michael",
+              "score": -100
+            },
+            {
+              "player": "Marc",
+              "score": 1100
+            },
+            {
+              "player": "Beth",
+              "score": 3400
+            }
+          ]
+        },
+        {
+          "category": "NOT SO FAMOUS QUOTES",
+          "value": 500,
+          "clue": "Percy Bysshe Shelley called this European country \"thou paradise of exile\"",
+          "answer": "Italy",
+          "isDailyDouble": false,
+          "orderNumber": 27,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Michael",
+            "Marc",
+            "Beth"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Michael",
+              "score": -600
+            },
+            {
+              "player": "Marc",
+              "score": 600
+            },
+            {
+              "player": "Beth",
+              "score": 2900
+            }
+          ]
+        },
+        {
+          "category": "ECONOMICS",
+          "value": 500,
+          "clue": "Insurance firms charging more to those living in high-risk areas are guilty of this colorful practice",
+          "answer": "redlining",
+          "isDailyDouble": false,
+          "orderNumber": 28,
+          "correctContestants": [
+            "Beth"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michael",
+              "score": -600
+            },
+            {
+              "player": "Marc",
+              "score": 600
+            },
+            {
+              "player": "Beth",
+              "score": 3400
+            }
+          ]
+        },
+        {
+          "category": "1990s TV",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michael",
+              "score": -600
+            },
+            {
+              "player": "Marc",
+              "score": 600
+            },
+            {
+              "player": "Beth",
+              "score": 3400
+            }
+          ]
+        },
+        {
+          "category": "1990s TV",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michael",
+              "score": -600
+            },
+            {
+              "player": "Marc",
+              "score": 600
+            },
+            {
+              "player": "Beth",
+              "score": 3400
+            }
+          ]
+        }
+      ],
+      "firstBreakScores": [
+        {
+          "player": "Michael",
+          "score": -100
+        },
+        {
+          "player": "Marc",
+          "score": 300
+        },
+        {
+          "player": "Beth",
+          "score": 2100
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "Michael",
+          "score": -600
+        },
+        {
+          "player": "Marc",
+          "score": 600
+        },
+        {
+          "player": "Beth",
+          "score": 3400
+        }
+      ]
+    },
+    "doubleJeopardy": {
+      "categories": [
+        "FILE UNDER \"Z\"",
+        "SPAIN",
+        "OPERETTAS",
+        "HISTORY",
+        "PHOTOGRAPHY",
+        "NAME THE AUTHOR"
+      ],
+      "clues": [
+        {
+          "category": "FILE UNDER \"Z\"",
+          "value": 200,
+          "clue": "The B.F. Goodrich Co. coined this name for Whitcomb Judson's fly fasteners",
+          "answer": "zippers",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michael",
+              "score": -400
+            },
+            {
+              "player": "Marc",
+              "score": 600
+            },
+            {
+              "player": "Beth",
+              "score": 3400
+            }
+          ]
+        },
+        {
+          "category": "FILE UNDER \"Z\"",
+          "value": 400,
+          "clue": "The national one is maintained by the Smithsonian Institution & located along Washington D.C.'s Rock Creek",
+          "answer": "a zoo",
+          "isDailyDouble": false,
+          "orderNumber": 2,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michael",
+              "score": 0
+            },
+            {
+              "player": "Marc",
+              "score": 600
+            },
+            {
+              "player": "Beth",
+              "score": 3400
+            }
+          ]
+        },
+        {
+          "category": "FILE UNDER \"Z\"",
+          "value": 600,
+          "clue": "From 1810-1812 it was Ohio's capital",
+          "answer": "Zanesville",
+          "isDailyDouble": false,
+          "orderNumber": 3,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michael",
+              "score": 600
+            },
+            {
+              "player": "Marc",
+              "score": 600
+            },
+            {
+              "player": "Beth",
+              "score": 3400
+            }
+          ]
+        },
+        {
+          "category": "FILE UNDER \"Z\"",
+          "value": 800,
+          "clue": "He started in the penny arcade business in 1903, some 13 years later, he took charge of Paramount Pictures",
+          "answer": "Adolph Zukor",
+          "isDailyDouble": false,
+          "orderNumber": 4,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Marc"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Michael",
+              "score": -200
+            },
+            {
+              "player": "Marc",
+              "score": -200
+            },
+            {
+              "player": "Beth",
+              "score": 3400
+            }
+          ]
+        },
+        {
+          "category": "FILE UNDER \"Z\"",
+          "value": 1000,
+          "clue": "The Tower of Babel may have been one of these temple towers",
+          "answer": "a ziggurat",
+          "isDailyDouble": false,
+          "orderNumber": 5,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michael",
+              "score": 800
+            },
+            {
+              "player": "Marc",
+              "score": -1200
+            },
+            {
+              "player": "Beth",
+              "score": 3400
+            }
+          ]
+        },
+        {
+          "category": "SPAIN",
+          "value": 200,
+          "clue": "To usher in this day the Spanish eat a grape for each stroke of the clock at midnight",
+          "answer": "New Year's",
+          "isDailyDouble": false,
+          "orderNumber": 6,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michael",
+              "score": 800
+            },
+            {
+              "player": "Marc",
+              "score": -1000
+            },
+            {
+              "player": "Beth",
+              "score": 3400
+            }
+          ]
+        },
+        {
+          "category": "SPAIN",
+          "value": 400,
+          "clue": "The correct Spanish word for this is torero, not toreador",
+          "answer": "a bullfighter",
+          "isDailyDouble": false,
+          "orderNumber": 7,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michael",
+              "score": 800
+            },
+            {
+              "player": "Marc",
+              "score": -1000
+            },
+            {
+              "player": "Beth",
+              "score": 3800
+            }
+          ]
+        },
+        {
+          "category": "NAME THE AUTHOR",
+          "value": 200,
+          "clue": "\"How I Found Livingstone\"",
+          "answer": "Stanley",
+          "isDailyDouble": false,
+          "orderNumber": 8,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michael",
+              "score": 1000
+            },
+            {
+              "player": "Marc",
+              "score": -1000
+            },
+            {
+              "player": "Beth",
+              "score": 3800
+            }
+          ]
+        },
+        {
+          "category": "NAME THE AUTHOR",
+          "value": 400,
+          "clue": "“The Choir Boys\"",
+          "answer": "(Joe) Wambaugh",
+          "isDailyDouble": false,
+          "orderNumber": 9,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michael",
+              "score": 1400
+            },
+            {
+              "player": "Marc",
+              "score": -1000
+            },
+            {
+              "player": "Beth",
+              "score": 3800
+            }
+          ]
+        },
+        {
+          "category": "NAME THE AUTHOR",
+          "value": 600,
+          "clue": "\"Murder in the Supreme Court\"",
+          "answer": "Margaret Truman",
+          "isDailyDouble": false,
+          "orderNumber": 10,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michael",
+              "score": 2000
+            },
+            {
+              "player": "Marc",
+              "score": -1000
+            },
+            {
+              "player": "Beth",
+              "score": 3800
+            }
+          ]
+        },
+        {
+          "category": "NAME THE AUTHOR",
+          "value": 800,
+          "clue": "\"Scruples\"",
+          "answer": "Judith Krantz",
+          "isDailyDouble": false,
+          "orderNumber": 11,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Michael",
+              "score": 2000
+            },
+            {
+              "player": "Marc",
+              "score": -1000
+            },
+            {
+              "player": "Beth",
+              "score": 3800
+            }
+          ]
+        },
+        {
+          "category": "NAME THE AUTHOR",
+          "value": 1000,
+          "clue": "\"Crossings\"",
+          "answer": "Danielle Steel",
+          "isDailyDouble": false,
+          "orderNumber": 12,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Michael",
+              "score": 2000
+            },
+            {
+              "player": "Marc",
+              "score": -1000
+            },
+            {
+              "player": "Beth",
+              "score": 3800
+            }
+          ]
+        },
+        {
+          "category": "HISTORY",
+          "value": 200,
+          "clue": "This dynasty's name comes from one of its 1st castles, Habichtsburg, or Hawk's Castle, in Switzerland",
+          "answer": "Hapsburg",
+          "isDailyDouble": false,
+          "orderNumber": 13,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michael",
+              "score": 2200
+            },
+            {
+              "player": "Marc",
+              "score": -1000
+            },
+            {
+              "player": "Beth",
+              "score": 3800
+            }
+          ]
+        },
+        {
+          "category": "HISTORY",
+          "value": 400,
+          "clue": "In the 6th century B.C. the lawmaker Solon arranged this Greek city's citizens into 4 classes by income",
+          "answer": "Athens",
+          "isDailyDouble": false,
+          "orderNumber": 14,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michael",
+              "score": 2200
+            },
+            {
+              "player": "Marc",
+              "score": -1000
+            },
+            {
+              "player": "Beth",
+              "score": 4200
+            }
+          ]
+        },
+        {
+          "category": "PHOTOGRAPHY",
+          "value": 200,
+          "clue": "This company introduced the Brownie camera in 1900, pricing it at $1",
+          "answer": "Kodak",
+          "isDailyDouble": false,
+          "orderNumber": 15,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michael",
+              "score": 2400
+            },
+            {
+              "player": "Marc",
+              "score": -1000
+            },
+            {
+              "player": "Beth",
+              "score": 4200
+            }
+          ]
+        },
+        {
+          "category": "PHOTOGRAPHY",
+          "value": 400,
+          "clue": "Photographic image in which the light areas appear dark & vice versa",
+          "answer": "a negative",
+          "isDailyDouble": false,
+          "orderNumber": 16,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michael",
+              "score": 2400
+            },
+            {
+              "player": "Marc",
+              "score": -600
+            },
+            {
+              "player": "Beth",
+              "score": 4200
+            }
+          ]
+        },
+        {
+          "category": "HISTORY",
+          "value": 600,
+          "clue": "Protestant Dutch ruler invited by political leaders in 1688 to take the English throne",
+          "answer": "William of Orange",
+          "isDailyDouble": false,
+          "orderNumber": 17,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michael",
+              "score": 3000
+            },
+            {
+              "player": "Marc",
+              "score": -600
+            },
+            {
+              "player": "Beth",
+              "score": 4200
+            }
+          ]
+        },
+        {
+          "category": "HISTORY",
+          "value": 800,
+          "clue": "Charlemagne spent Christmas Day 800 in this city",
+          "answer": "Rome",
+          "isDailyDouble": false,
+          "orderNumber": 18,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michael",
+              "score": 3800
+            },
+            {
+              "player": "Marc",
+              "score": -600
+            },
+            {
+              "player": "Beth",
+              "score": 4200
+            }
+          ]
+        },
+        {
+          "category": "HISTORY",
+          "value": 1000,
+          "clue": "In 911, Charles III of France gave Rollo the Viking this duchy",
+          "answer": "Normandy",
+          "isDailyDouble": false,
+          "orderNumber": 19,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michael",
+              "score": 3800
+            },
+            {
+              "player": "Marc",
+              "score": 400
+            },
+            {
+              "player": "Beth",
+              "score": 4200
+            }
+          ]
+        },
+        {
+          "category": "SPAIN",
+          "value": 1000,
+          "clue": "Spain's oldest surviving epic poem is about the exploits of this hero who died in 1099",
+          "answer": "El Cid",
+          "isDailyDouble": true,
+          "orderNumber": 20,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michael",
+              "score": 3800
+            },
+            {
+              "player": "Marc",
+              "score": 1400
+            },
+            {
+              "player": "Beth",
+              "score": 4200
+            }
+          ]
+        },
+        {
+          "category": "SPAIN",
+          "value": 1000,
+          "clue": "This wild coast in Spain's northeast is one of Europe's most popular resort areas",
+          "answer": "the Costa Brava",
+          "isDailyDouble": false,
+          "orderNumber": 21,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michael",
+              "score": 3800
+            },
+            {
+              "player": "Marc",
+              "score": 2400
+            },
+            {
+              "player": "Beth",
+              "score": 4200
+            }
+          ]
+        },
+        {
+          "category": "SPAIN",
+          "value": 600,
+          "clue": "Tapas bars specialize in serving this course of food",
+          "answer": "hors d'oeuvres (appetizers)",
+          "isDailyDouble": false,
+          "orderNumber": 22,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michael",
+              "score": 4400
+            },
+            {
+              "player": "Marc",
+              "score": 2400
+            },
+            {
+              "player": "Beth",
+              "score": 4200
+            }
+          ]
+        },
+        {
+          "category": "PHOTOGRAPHY",
+          "value": 600,
+          "clue": "One early form of this was magnesium powder poured in a trough & fired by a percussion cap",
+          "answer": "a flash bulb (flash)",
+          "isDailyDouble": false,
+          "orderNumber": 23,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michael",
+              "score": 5000
+            },
+            {
+              "player": "Marc",
+              "score": 2400
+            },
+            {
+              "player": "Beth",
+              "score": 4200
+            }
+          ]
+        },
+        {
+          "category": "PHOTOGRAPHY",
+          "value": 800,
+          "clue": "It describes photos taken with too much light, or someone whose photos are seen too much in the press",
+          "answer": "overexposed",
+          "isDailyDouble": false,
+          "orderNumber": 24,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michael",
+              "score": 5000
+            },
+            {
+              "player": "Marc",
+              "score": 3200
+            },
+            {
+              "player": "Beth",
+              "score": 4200
+            }
+          ]
+        },
+        {
+          "category": "PHOTOGRAPHY",
+          "value": 1000,
+          "clue": "Aptly, this Sierra Club's director's 1st portfolio was 1927's \"Parmelian Prints of the High Sierras\"",
+          "answer": "Ansel Adams",
+          "isDailyDouble": false,
+          "orderNumber": 25,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michael",
+              "score": 5000
+            },
+            {
+              "player": "Marc",
+              "score": 3200
+            },
+            {
+              "player": "Beth",
+              "score": 5200
+            }
+          ]
+        },
+        {
+          "category": "OPERETTAS",
+          "value": 200,
+          "clue": "It completes Sigmund Romberg's title \"The Student\"",
+          "answer": "Prince",
+          "isDailyDouble": false,
+          "orderNumber": 26,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michael",
+              "score": 5000
+            },
+            {
+              "player": "Marc",
+              "score": 3400
+            },
+            {
+              "player": "Beth",
+              "score": 5200
+            }
+          ]
+        },
+        {
+          "category": "OPERETTAS",
+          "value": 400,
+          "clue": "Ko-Ko, Poo-Bah, Yum-Yum & Peep-Bo are not just baby talk but characters in this operetta",
+          "answer": "The Mikado",
+          "isDailyDouble": false,
+          "orderNumber": 27,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michael",
+              "score": 5000
+            },
+            {
+              "player": "Marc",
+              "score": 3400
+            },
+            {
+              "player": "Beth",
+              "score": 5600
+            }
+          ]
+        },
+        {
+          "category": "OPERETTAS",
+          "value": 600,
+          "clue": "Offenbach wrote one of the first operettas about this character's adventures in the underworld",
+          "answer": "Orpheus",
+          "isDailyDouble": false,
+          "orderNumber": 28,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michael",
+              "score": 5000
+            },
+            {
+              "player": "Marc",
+              "score": 3400
+            },
+            {
+              "player": "Beth",
+              "score": 6200
+            }
+          ]
+        },
+        {
+          "category": "OPERETTAS",
+          "value": 2000,
+          "clue": "Naughty Marietta is wooed at her window by Captain Dick singing this song:",
+          "answer": "\"Ah, Sweet Mystery Of Life\"",
+          "isDailyDouble": true,
+          "orderNumber": 29,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michael",
+              "score": 5000
+            },
+            {
+              "player": "Marc",
+              "score": 3400
+            },
+            {
+              "player": "Beth",
+              "score": 8200
+            }
+          ]
+        },
+        {
+          "category": "OPERETTAS",
+          "value": 1000,
+          "clue": "This title heroine helped her lover escape by singing the \"Indian Love Call\"",
+          "answer": "Rose-Marie",
+          "isDailyDouble": false,
+          "orderNumber": 30,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michael",
+              "score": 5000
+            },
+            {
+              "player": "Marc",
+              "score": 4400
+            },
+            {
+              "player": "Beth",
+              "score": 8200
+            }
+          ]
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "Michael",
+          "score": 5000
+        },
+        {
+          "player": "Marc",
+          "score": 4400
+        },
+        {
+          "player": "Beth",
+          "score": 8200
+        }
+      ]
+    },
+    "finalJeopardy": {
+      "category": "U.S. PRESIDENTS",
+      "clue": "He served as president during the 49th, 50th, 53rd & 54th Congresses",
+      "answer": "Grover Cleveland",
+      "responses": [
+        {
+          "contestant": "Marc",
+          "response": "Who is Ronald Reagan?",
+          "isCorrect": false,
+          "isIncorrect": true,
+          "value": 2100,
+          "finalScore": 2300
+        },
+        {
+          "contestant": "Michael",
+          "response": "Who was Grover Cleveland?",
+          "isCorrect": true,
+          "isIncorrect": false,
+          "value": 4500,
+          "finalScore": 9500
+        },
+        {
+          "contestant": "Beth",
+          "response": "Who was Grover Cleveland?",
+          "isCorrect": true,
+          "isIncorrect": false,
+          "value": 1900,
+          "finalScore": 10100
+        }
+      ]
+    }
+  },
+  "finalScores": [
+    {
+      "player": "Michael",
+      "score": "$9,500"
+    },
+    {
+      "player": "Marc",
+      "score": "$2,300"
+    },
+    {
+      "player": "Beth",
+      "score": "$10,100"
+    }
+  ],
+  "coryatScores": [
+    {
+      "player": "Michael",
+      "score": 5000
+    },
+    {
+      "player": "Marc",
+      "score": 4000
+    },
+    {
+      "player": "Beth",
+      "score": 7000
+    }
+  ]
+}

@@ -1,7 +1,6 @@
 const axios = require("axios");
 const cheerio = require("cheerio");
 const fs = require("fs");
-const path = require("path");
 
 //------------------------------------------------------------------------------
 //------------------------------------------------------------------------------
@@ -183,7 +182,6 @@ function modifyGame(gameData) {
   }
 }
 
-
 //------------------------------------------------------------------------------
 //------------------------------------------------------------------------------
 function parseGameDate(dateString) {
@@ -206,7 +204,8 @@ async function scrapeJeopardyGame(gameId) {
     console.log(`Fetching game data from ${url}`);
 
     const response = await axios.get(url, {headers});
-    const $ = cheerio.load(response.data);
+    const html = response.data;
+    const $ = cheerio.load(html);
 
     // Parse the date from the title
     const fullTitle = $("#game_title h1").text();
@@ -250,9 +249,13 @@ async function scrapeJeopardyGame(gameId) {
     modifyGame(gameData);
 
     // Save to JSON file using the formatted date
-    const filename = `games/j-${formattedDate}-${showNumber}-${gameId}.json`;
-    fs.writeFileSync(filename, JSON.stringify(gameData, null, 2));
-    console.log(`Game data saved to ${filename}`);
+    const basename = `j-${formattedDate}-${showNumber}-${gameId}`;
+    fs.writeFileSync(
+      `games/${basename}.json`,
+      JSON.stringify(gameData, null, 2)
+    );
+    fs.writeFileSync(`html/${basename}.html`, html);
+    console.log(`Game html saved to ${`<html,games>/${basename}.<html,json>`}`);
 
     return gameData;
   } catch (error) {
@@ -282,14 +285,16 @@ function parseResponses($, elem) {
   const correct = [];
   const incorrect = [];
 
-  $(elem).find("table td").each((i, td) => {
-    const contestant = $(td).text();
-    if ($(td).hasClass("right")) {
-      correct.push(contestant);
-    } else if ($(td).hasClass("wrong")) {
-      incorrect.push(contestant);
-    }
-  });
+  $(elem)
+    .find("table td")
+    .each((i, td) => {
+      const contestant = $(td).text();
+      if ($(td).hasClass("right")) {
+        correct.push(contestant);
+      } else if ($(td).hasClass("wrong")) {
+        incorrect.push(contestant);
+      }
+    });
 
   return {
     correct,
@@ -418,7 +423,7 @@ function parseScoreTable($, tableTitle) {
     for (let i = 0; i < 3; i++) {
       players.push({
         player: names.eq(i).text(),
-        score: parseInt(scores.eq(i).text().replace(/[$,]/g, ""))
+        score: parseInt(scores.eq(i).text().replace(/[$,]/g, "")),
       });
     }
   }
@@ -458,24 +463,25 @@ async function scrapeGames(gameIds) {
 // Array of game IDs to scrape 1 to 9086
 //------------------------------------------------------------------------------
 const ranges = [
-  [9001, 9086], // 0
-  [8501, 9000], // 1
-  [8001, 8500], // 2
-  [7501, 8000], // 3
-  [7001, 7500], // 4
-  [6501, 7000], // 5
-  [6001, 6500], // 6
-  [5501, 6000], // 7
-  [5001, 5500], // 8
-  [4501, 5000], // 9
-  [4001, 4500], // 10
-  [3501, 4000], // 11
-  [3001, 3500], // 12
-  [2501, 3000], // 13
-  [2001, 2500], // 14
-  [1501, 2000], // 15
-  [501, 1000], // 16
-  [1, 500], // 17
+  [9001, 9086], // 0xxx
+  [8501, 9000], // 1xxx
+  [8001, 8500], // 2xxx
+  [7501, 8000], // 3xxx
+  [7001, 7500], // 4xxx
+  [6501, 7000], // 5xxx
+  [6001, 6500], // 6xxx
+  [5501, 6000], // 7xxx
+  [5001, 5500], // 8xxx
+  [4501, 5000], // 9xxx
+  [4001, 4500], // 10xxx
+  [3501, 4000], // 11xxx
+  [3001, 3500], // 12xxx
+  [2501, 3000], // 13xxx
+  [2001, 2500], // 14xxx
+  [1501, 2000], // 15xxx
+  [1001, 1500], // 16xxx
+  [501, 1000], // 17xxx
+  [1, 500], // 18xxx
 ];
 
 //------------------------------------------------------------------------------
@@ -489,7 +495,7 @@ let gameIds = Array.from(
   (_, i) => firstGameId + i
 );
 console.log(`Scraping games ${firstGameId} to ${lastGameId}`);
-// gameIds = [8501, 8502];
+// gameIds = [];
 
 //------------------------------------------------------------------------------
 //------------------------------------------------------------------------------

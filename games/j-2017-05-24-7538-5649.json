@@ -1,0 +1,1692 @@
+{
+  "gameId": 5649,
+  "showNumber": "7538",
+  "title": "Show #7538 - Wednesday, May 24, 2017",
+  "date": "2017-05-24",
+  "comments": "",
+  "contestants": [
+    "Tanya",
+    "Mackenzie",
+    "Matthew"
+  ],
+  "rounds": {
+    "jeopardy": {
+      "categories": [
+        "AT THE SMITHSONIAN NATIONAL POSTAL MUSEUM",
+        "MUSICAL NUMBERS",
+        "GEOGRAPHIC FORMATIONS",
+        "COME TOGETHER",
+        "CRIME RHYME",
+        "HEARST STORY"
+      ],
+      "clues": [
+        {
+          "category": "HEARST STORY",
+          "value": 200,
+          "clue": "The Albany Times-Union, April 16, 1912: \"436 on Carpathia Comprise All Who Were Saved\" from this disaster",
+          "answer": "the Titanic",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [
+            "Mackenzie"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tanya",
+              "score": 0
+            },
+            {
+              "player": "Mackenzie",
+              "score": 200
+            },
+            {
+              "player": "Matthew",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "HEARST STORY",
+          "value": 400,
+          "clue": "The New York Journal-American, Oct. 29, 1956: this pop star \"Would Quit Singing If He Aided Delinquency\"",
+          "answer": "Elvis Presley",
+          "isDailyDouble": false,
+          "orderNumber": 2,
+          "correctContestants": [
+            "Matthew"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tanya",
+              "score": 0
+            },
+            {
+              "player": "Mackenzie",
+              "score": 200
+            },
+            {
+              "player": "Matthew",
+              "score": 400
+            }
+          ]
+        },
+        {
+          "category": "HEARST STORY",
+          "value": 600,
+          "clue": "The Seattle Post-Intelligencer, April 30, 1975: \"Vietnam War is Over\"; this city (as then called) \"Surrenders\"",
+          "answer": "Saigon",
+          "isDailyDouble": false,
+          "orderNumber": 3,
+          "correctContestants": [
+            "Tanya"
+          ],
+          "incorrectContestants": [
+            "Mackenzie",
+            "Matthew"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tanya",
+              "score": 600
+            },
+            {
+              "player": "Mackenzie",
+              "score": -400
+            },
+            {
+              "player": "Matthew",
+              "score": -200
+            }
+          ]
+        },
+        {
+          "category": "HEARST STORY",
+          "value": 1000,
+          "clue": "The Boston American, July 31, 1942: \"Reds Halt Nazis at\" this Russian city (as then called)",
+          "answer": "Stalingrad",
+          "isDailyDouble": true,
+          "orderNumber": 4,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Tanya"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tanya",
+              "score": -400
+            },
+            {
+              "player": "Mackenzie",
+              "score": -400
+            },
+            {
+              "player": "Matthew",
+              "score": -200
+            }
+          ]
+        },
+        {
+          "category": "HEARST STORY",
+          "value": 1000,
+          "clue": "The Los Angeles Examiner, August 20, 1953: this man \"Reveals 'Sex Life of Women'\"",
+          "answer": "Kinsey",
+          "isDailyDouble": false,
+          "orderNumber": 5,
+          "correctContestants": [
+            "Mackenzie"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tanya",
+              "score": -400
+            },
+            {
+              "player": "Mackenzie",
+              "score": 600
+            },
+            {
+              "player": "Matthew",
+              "score": -200
+            }
+          ]
+        },
+        {
+          "category": "CRIME RHYME",
+          "value": 200,
+          "clue": "A cantaloupe that's the perpetrator of a serious misdeed",
+          "answer": "a felon melon",
+          "isDailyDouble": false,
+          "orderNumber": 6,
+          "correctContestants": [
+            "Mackenzie"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tanya",
+              "score": -400
+            },
+            {
+              "player": "Mackenzie",
+              "score": 800
+            },
+            {
+              "player": "Matthew",
+              "score": -200
+            }
+          ]
+        },
+        {
+          "category": "CRIME RHYME",
+          "value": 400,
+          "clue": "Stealing that little indentation in someone's chin",
+          "answer": "a cleft theft",
+          "isDailyDouble": false,
+          "orderNumber": 7,
+          "correctContestants": [
+            "Matthew"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tanya",
+              "score": -400
+            },
+            {
+              "player": "Mackenzie",
+              "score": 800
+            },
+            {
+              "player": "Matthew",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "CRIME RHYME",
+          "value": 600,
+          "clue": "The illegal killing of the guy who moves the cattle",
+          "answer": "a herder murder",
+          "isDailyDouble": false,
+          "orderNumber": 8,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Tanya",
+              "score": -400
+            },
+            {
+              "player": "Mackenzie",
+              "score": 800
+            },
+            {
+              "player": "Matthew",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "COME TOGETHER",
+          "value": 200,
+          "clue": "\"Entomological\" term for a gathering with a specific purpose, like a spelling competition",
+          "answer": "a bee",
+          "isDailyDouble": false,
+          "orderNumber": 9,
+          "correctContestants": [
+            "Mackenzie"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tanya",
+              "score": -400
+            },
+            {
+              "player": "Mackenzie",
+              "score": 1000
+            },
+            {
+              "player": "Matthew",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "COME TOGETHER",
+          "value": 400,
+          "clue": "The name of this type of banquet that's often accompanied by entertainment is Hawaiian for \"young taro tops\"",
+          "answer": "a luau",
+          "isDailyDouble": false,
+          "orderNumber": 10,
+          "correctContestants": [
+            "Mackenzie"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tanya",
+              "score": -400
+            },
+            {
+              "player": "Mackenzie",
+              "score": 1400
+            },
+            {
+              "player": "Matthew",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "COME TOGETHER",
+          "value": 600,
+          "clue": "This meal served at the beginning of Passover celebrates the Israelites' liberation from bondage",
+          "answer": "a seder",
+          "isDailyDouble": false,
+          "orderNumber": 11,
+          "correctContestants": [
+            "Matthew"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tanya",
+              "score": -400
+            },
+            {
+              "player": "Mackenzie",
+              "score": 1400
+            },
+            {
+              "player": "Matthew",
+              "score": 800
+            }
+          ]
+        },
+        {
+          "category": "COME TOGETHER",
+          "value": 800,
+          "clue": "Based on a character in the \"Li'l Abner\" comic strip, a Sadie Hawkins dance has this main feature",
+          "answer": "the women ask the men",
+          "isDailyDouble": false,
+          "orderNumber": 12,
+          "correctContestants": [
+            "Tanya"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tanya",
+              "score": 400
+            },
+            {
+              "player": "Mackenzie",
+              "score": 1400
+            },
+            {
+              "player": "Matthew",
+              "score": 800
+            }
+          ]
+        },
+        {
+          "category": "COME TOGETHER",
+          "value": 1000,
+          "clue": "This word for a religious festival devoted to a saint precedes Spain's \"de San Fermin\"",
+          "answer": "fiesta",
+          "isDailyDouble": false,
+          "orderNumber": 13,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Tanya",
+              "score": 400
+            },
+            {
+              "player": "Mackenzie",
+              "score": 1400
+            },
+            {
+              "player": "Matthew",
+              "score": 800
+            }
+          ]
+        },
+        {
+          "category": "MUSICAL NUMBERS",
+          "value": 200,
+          "clue": "\"Don't Wanna Know\" by Maroon ____ featuring Kendrick Lamar",
+          "answer": "5",
+          "isDailyDouble": false,
+          "orderNumber": 14,
+          "correctContestants": [
+            "Mackenzie"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tanya",
+              "score": 400
+            },
+            {
+              "player": "Mackenzie",
+              "score": 1600
+            },
+            {
+              "player": "Matthew",
+              "score": 800
+            }
+          ]
+        },
+        {
+          "category": "MUSICAL NUMBERS",
+          "value": 400,
+          "clue": "\"____K Magic\" by Bruno Mars",
+          "answer": "24",
+          "isDailyDouble": false,
+          "orderNumber": 15,
+          "correctContestants": [
+            "Mackenzie"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tanya",
+              "score": 400
+            },
+            {
+              "player": "Mackenzie",
+              "score": 2000
+            },
+            {
+              "player": "Matthew",
+              "score": 800
+            }
+          ]
+        },
+        {
+          "category": "MUSICAL NUMBERS",
+          "value": 600,
+          "clue": "\"____ Inch\" by Beyonce",
+          "answer": "6",
+          "isDailyDouble": false,
+          "orderNumber": 16,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Mackenzie"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Tanya",
+              "score": 400
+            },
+            {
+              "player": "Mackenzie",
+              "score": 1400
+            },
+            {
+              "player": "Matthew",
+              "score": 800
+            }
+          ]
+        },
+        {
+          "category": "MUSICAL NUMBERS",
+          "value": 800,
+          "clue": "\"Heathens\" by ____ ____ Pilots",
+          "answer": "21",
+          "isDailyDouble": false,
+          "orderNumber": 17,
+          "correctContestants": [
+            "Tanya"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tanya",
+              "score": 1200
+            },
+            {
+              "player": "Mackenzie",
+              "score": 1400
+            },
+            {
+              "player": "Matthew",
+              "score": 800
+            }
+          ]
+        },
+        {
+          "category": "MUSICAL NUMBERS",
+          "value": 1000,
+          "clue": "\"Summer ____\" by Drake",
+          "answer": "\"Summer Sixteen\"",
+          "isDailyDouble": false,
+          "orderNumber": 18,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Tanya",
+              "score": 1200
+            },
+            {
+              "player": "Mackenzie",
+              "score": 1400
+            },
+            {
+              "player": "Matthew",
+              "score": 800
+            }
+          ]
+        },
+        {
+          "category": "AT THE SMITHSONIAN NATIONAL POSTAL MUSEUM",
+          "value": 200,
+          "clue": "Visitors to the museum are greeted by a statue of this first postmaster general in the foyer",
+          "answer": "Benjamin Franklin",
+          "isDailyDouble": false,
+          "orderNumber": 19,
+          "correctContestants": [
+            "Matthew"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tanya",
+              "score": 1200
+            },
+            {
+              "player": "Mackenzie",
+              "score": 1400
+            },
+            {
+              "player": "Matthew",
+              "score": 1000
+            }
+          ]
+        },
+        {
+          "category": "AT THE SMITHSONIAN NATIONAL POSTAL MUSEUM",
+          "value": 400,
+          "clue": "In the early days, snow was no problem for rural letter carriers  who converted this Ford model into a snowmobile",
+          "answer": "a Model T",
+          "isDailyDouble": false,
+          "orderNumber": 20,
+          "correctContestants": [
+            "Mackenzie"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tanya",
+              "score": 1200
+            },
+            {
+              "player": "Mackenzie",
+              "score": 1800
+            },
+            {
+              "player": "Matthew",
+              "score": 1000
+            }
+          ]
+        },
+        {
+          "category": "AT THE SMITHSONIAN NATIONAL POSTAL MUSEUM",
+          "value": 600,
+          "clue": "Beginning in the 1850s, a machine like this one was used to put these holes between stamps for easier separation",
+          "answer": "perforations",
+          "isDailyDouble": false,
+          "orderNumber": 21,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Mackenzie"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Tanya",
+              "score": 1200
+            },
+            {
+              "player": "Mackenzie",
+              "score": 1200
+            },
+            {
+              "player": "Matthew",
+              "score": 1000
+            }
+          ]
+        },
+        {
+          "category": "AT THE SMITHSONIAN NATIONAL POSTAL MUSEUM",
+          "value": 800,
+          "clue": "The character seen here made his public debut in January of 1963 to remind Americans to add this to each address",
+          "answer": "the zip code",
+          "isDailyDouble": false,
+          "orderNumber": 22,
+          "correctContestants": [
+            "Tanya"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tanya",
+              "score": 2000
+            },
+            {
+              "player": "Mackenzie",
+              "score": 1200
+            },
+            {
+              "player": "Matthew",
+              "score": 1000
+            }
+          ]
+        },
+        {
+          "category": "AT THE SMITHSONIAN NATIONAL POSTAL MUSEUM",
+          "value": 1000,
+          "clue": "Here's one of the rare U.S. airmail stamps known as this inverted biplane because of a printing error",
+          "answer": "a jenny",
+          "isDailyDouble": false,
+          "orderNumber": 23,
+          "correctContestants": [
+            "Mackenzie"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tanya",
+              "score": 2000
+            },
+            {
+              "player": "Mackenzie",
+              "score": 2200
+            },
+            {
+              "player": "Matthew",
+              "score": 1000
+            }
+          ]
+        },
+        {
+          "category": "CRIME RHYME",
+          "value": 800,
+          "clue": "Responsibility for that sudden unprovoked attack",
+          "answer": "an assault fault",
+          "isDailyDouble": false,
+          "orderNumber": 24,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Tanya",
+              "score": 2000
+            },
+            {
+              "player": "Mackenzie",
+              "score": 2200
+            },
+            {
+              "player": "Matthew",
+              "score": 1000
+            }
+          ]
+        },
+        {
+          "category": "GEOGRAPHIC FORMATIONS",
+          "value": 200,
+          "clue": "The triangular Deccan Plateau makes up most of the south of this nation, including Andhra Pradesh",
+          "answer": "India",
+          "isDailyDouble": false,
+          "orderNumber": 25,
+          "correctContestants": [
+            "Mackenzie"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tanya",
+              "score": 2000
+            },
+            {
+              "player": "Mackenzie",
+              "score": 2400
+            },
+            {
+              "player": "Matthew",
+              "score": 1000
+            }
+          ]
+        },
+        {
+          "category": "GEOGRAPHIC FORMATIONS",
+          "value": 400,
+          "clue": "Most of Norway's western coastline is made up of these steep narrow inlets created by glacial erosion",
+          "answer": "fjords",
+          "isDailyDouble": false,
+          "orderNumber": 26,
+          "correctContestants": [
+            "Matthew"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tanya",
+              "score": 2000
+            },
+            {
+              "player": "Mackenzie",
+              "score": 2400
+            },
+            {
+              "player": "Matthew",
+              "score": 1400
+            }
+          ]
+        },
+        {
+          "category": "GEOGRAPHIC FORMATIONS",
+          "value": 600,
+          "clue": "(Sarah of the Clue Crew shows a reservoir on the monitor.) Canada's Manicouagan Reservoir was formed by an asteroid impact 200 million years ago and because of its shape, is often called the eye of this province",
+          "answer": "Quebec",
+          "isDailyDouble": false,
+          "orderNumber": 27,
+          "correctContestants": [
+            "Mackenzie"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tanya",
+              "score": 2000
+            },
+            {
+              "player": "Mackenzie",
+              "score": 3000
+            },
+            {
+              "player": "Matthew",
+              "score": 1400
+            }
+          ]
+        },
+        {
+          "category": "GEOGRAPHIC FORMATIONS",
+          "value": 800,
+          "clue": "The remnants of an ancient lake, these U.S. salt flats are often used to set land speed records",
+          "answer": "the Bonneville Salt Flats",
+          "isDailyDouble": false,
+          "orderNumber": 28,
+          "correctContestants": [
+            "Mackenzie"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tanya",
+              "score": 2000
+            },
+            {
+              "player": "Mackenzie",
+              "score": 3800
+            },
+            {
+              "player": "Matthew",
+              "score": 1400
+            }
+          ]
+        },
+        {
+          "category": "GEOGRAPHIC FORMATIONS",
+          "value": 1000,
+          "clue": "Up to 750' feet high, the highest sand dunes in the US. are in Great Sand Dunes National Park in this Rocky Mountain state",
+          "answer": "Colorado",
+          "isDailyDouble": false,
+          "orderNumber": 29,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Tanya",
+              "score": 2000
+            },
+            {
+              "player": "Mackenzie",
+              "score": 3800
+            },
+            {
+              "player": "Matthew",
+              "score": 1400
+            }
+          ]
+        },
+        {
+          "category": "CRIME RHYME",
+          "value": 1000,
+          "clue": "Unlawfully lingers outside the offices of that British news agency",
+          "answer": "loiters Reuters",
+          "isDailyDouble": false,
+          "orderNumber": 30,
+          "correctContestants": [
+            "Mackenzie"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tanya",
+              "score": 2000
+            },
+            {
+              "player": "Mackenzie",
+              "score": 4800
+            },
+            {
+              "player": "Matthew",
+              "score": 1400
+            }
+          ]
+        }
+      ],
+      "firstBreakScores": [
+        {
+          "player": "Tanya",
+          "score": 400
+        },
+        {
+          "player": "Mackenzie",
+          "score": 2000
+        },
+        {
+          "player": "Matthew",
+          "score": 800
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "Tanya",
+          "score": 2000
+        },
+        {
+          "player": "Mackenzie",
+          "score": 4800
+        },
+        {
+          "player": "Matthew",
+          "score": 1400
+        }
+      ]
+    },
+    "doubleJeopardy": {
+      "categories": [
+        "THE WORLD OF TENNIS",
+        "20th CENTURY NOVELS",
+        "WHO SAID WHAT?",
+        "\"HAT\" BOX",
+        "NUMBER THAT AMENDMENT",
+        "HEART SURGERY WITH DR. OZ"
+      ],
+      "clues": [
+        {
+          "category": "HEART SURGERY WITH DR. OZ",
+          "value": 400,
+          "clue": "(Dr. Oz delivers the clue.) When a coronary artery is blocked, & drugs & angioplasty can't fix it, we go in for this type of surgery where new blood vessels go around the artery, maybe even a triple or quadruple version",
+          "answer": "a bypass",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tanya",
+              "score": 2400
+            },
+            {
+              "player": "Mackenzie",
+              "score": 4800
+            },
+            {
+              "player": "Matthew",
+              "score": 1400
+            }
+          ]
+        },
+        {
+          "category": "HEART SURGERY WITH DR. OZ",
+          "value": 800,
+          "clue": "(Dr. Oz delivers the clue.) As director of a center for integrative medicine, I appreciate a pioneer of integrated medicine, the African-American surgeon Daniel Hale Williams, who in 1893 sutured a man's pericardium, becoming one of the first Americans to perform this then-risky type of surgery",
+          "answer": "open-heart surgery",
+          "isDailyDouble": false,
+          "orderNumber": 2,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Tanya",
+              "score": 2400
+            },
+            {
+              "player": "Mackenzie",
+              "score": 4800
+            },
+            {
+              "player": "Matthew",
+              "score": 1400
+            }
+          ]
+        },
+        {
+          "category": "HEART SURGERY WITH DR. OZ",
+          "value": 1200,
+          "clue": "(Dr. Oz delivers the clue.) All the skill & technology that go into a heart transplant are no use without a donor; in 1996 it was a young man in the Bronx whose heart I put in this Yankee manager's brother Frank in a story that made a lot of hearts warmer in New York City & beyond",
+          "answer": "(Joe) Torre",
+          "isDailyDouble": false,
+          "orderNumber": 3,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tanya",
+              "score": 2400
+            },
+            {
+              "player": "Mackenzie",
+              "score": 4800
+            },
+            {
+              "player": "Matthew",
+              "score": 2600
+            }
+          ]
+        },
+        {
+          "category": "HEART SURGERY WITH DR. OZ",
+          "value": 2200,
+          "clue": "(Dr. Oz delivers the clue.) Replacement of these gateways that open & close is by far most common with the aortic & the mitral; they're on the left side of the heart so they endure higher pressure & wear out sooner than the other 2",
+          "answer": "valves",
+          "isDailyDouble": true,
+          "orderNumber": 4,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tanya",
+              "score": 2400
+            },
+            {
+              "player": "Mackenzie",
+              "score": 4800
+            },
+            {
+              "player": "Matthew",
+              "score": 4800
+            }
+          ]
+        },
+        {
+          "category": "HEART SURGERY WITH DR. OZ",
+          "value": 2000,
+          "clue": "(Dr. Oz delivers the clue.) Major heart surgery may involve an incision down the midline of the breastbone, medically called this; it's not as bad as it sounds because there are relatively few nerves in that area",
+          "answer": "the sternum",
+          "isDailyDouble": false,
+          "orderNumber": 5,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tanya",
+              "score": 4400
+            },
+            {
+              "player": "Mackenzie",
+              "score": 4800
+            },
+            {
+              "player": "Matthew",
+              "score": 4800
+            }
+          ]
+        },
+        {
+          "category": "20th CENTURY NOVELS",
+          "value": 400,
+          "clue": "The title of this Aldous Huxley novel comes from a line of Miranda's in \"The Tempest\"",
+          "answer": "Brave New World",
+          "isDailyDouble": false,
+          "orderNumber": 6,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tanya",
+              "score": 4400
+            },
+            {
+              "player": "Mackenzie",
+              "score": 5200
+            },
+            {
+              "player": "Matthew",
+              "score": 4800
+            }
+          ]
+        },
+        {
+          "category": "THE WORLD OF TENNIS",
+          "value": 400,
+          "clue": "In 2014 at age 33 he led Switzerland to its first Davis Cup title",
+          "answer": "Federer",
+          "isDailyDouble": false,
+          "orderNumber": 7,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tanya",
+              "score": 4400
+            },
+            {
+              "player": "Mackenzie",
+              "score": 5600
+            },
+            {
+              "player": "Matthew",
+              "score": 4800
+            }
+          ]
+        },
+        {
+          "category": "THE WORLD OF TENNIS",
+          "value": 800,
+          "clue": "Andy Murray hails from this U.K. country",
+          "answer": "Scotland",
+          "isDailyDouble": false,
+          "orderNumber": 8,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tanya",
+              "score": 4400
+            },
+            {
+              "player": "Mackenzie",
+              "score": 6400
+            },
+            {
+              "player": "Matthew",
+              "score": 4800
+            }
+          ]
+        },
+        {
+          "category": "THE WORLD OF TENNIS",
+          "value": 1200,
+          "clue": "He's \"The Matador of Manacor\", Spain",
+          "answer": "Nadal",
+          "isDailyDouble": false,
+          "orderNumber": 9,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tanya",
+              "score": 4400
+            },
+            {
+              "player": "Mackenzie",
+              "score": 7600
+            },
+            {
+              "player": "Matthew",
+              "score": 4800
+            }
+          ]
+        },
+        {
+          "category": "THE WORLD OF TENNIS",
+          "value": 1600,
+          "clue": "Ex-Czech, please! In 1990 she won Wimbledon singles title no. 9",
+          "answer": "Navratilova",
+          "isDailyDouble": false,
+          "orderNumber": 10,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tanya",
+              "score": 4400
+            },
+            {
+              "player": "Mackenzie",
+              "score": 7600
+            },
+            {
+              "player": "Matthew",
+              "score": 6400
+            }
+          ]
+        },
+        {
+          "category": "20th CENTURY NOVELS",
+          "value": 800,
+          "clue": "\"Mrs. Woolf\", about Virginia, is one section of this \"timely\" Michael Cunningham novel",
+          "answer": "The Hours",
+          "isDailyDouble": false,
+          "orderNumber": 11,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tanya",
+              "score": 5200
+            },
+            {
+              "player": "Mackenzie",
+              "score": 7600
+            },
+            {
+              "player": "Matthew",
+              "score": 6400
+            }
+          ]
+        },
+        {
+          "category": "20th CENTURY NOVELS",
+          "value": 2000,
+          "clue": "Trotter is the last name of the title boy in this book by Roald Dahl",
+          "answer": "James and the Giant Peach",
+          "isDailyDouble": true,
+          "orderNumber": 12,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tanya",
+              "score": 3200
+            },
+            {
+              "player": "Mackenzie",
+              "score": 7600
+            },
+            {
+              "player": "Matthew",
+              "score": 6400
+            }
+          ]
+        },
+        {
+          "category": "20th CENTURY NOVELS",
+          "value": 1600,
+          "clue": "A 1969 novel says, \"His reward...the respectful title of 'Don', and sometimes the more affectionate salutation of\" this",
+          "answer": "Godfather",
+          "isDailyDouble": false,
+          "orderNumber": 13,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tanya",
+              "score": 3200
+            },
+            {
+              "player": "Mackenzie",
+              "score": 9200
+            },
+            {
+              "player": "Matthew",
+              "score": 6400
+            }
+          ]
+        },
+        {
+          "category": "THE WORLD OF TENNIS",
+          "value": 2000,
+          "clue": "Homeland of Gabriela Sabatini & Juan Martin Del Potro",
+          "answer": "Argentina",
+          "isDailyDouble": false,
+          "orderNumber": 14,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Tanya",
+              "score": 3200
+            },
+            {
+              "player": "Mackenzie",
+              "score": 9200
+            },
+            {
+              "player": "Matthew",
+              "score": 6400
+            }
+          ]
+        },
+        {
+          "category": "20th CENTURY NOVELS",
+          "value": 2000,
+          "clue": "This novel by Czech writer Milan Kundera was first published in French, as \"L'Insoutenable Légèreté de L'Être\"",
+          "answer": "The Unbearable Lightness of Being",
+          "isDailyDouble": false,
+          "orderNumber": 15,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tanya",
+              "score": 3200
+            },
+            {
+              "player": "Mackenzie",
+              "score": 9200
+            },
+            {
+              "player": "Matthew",
+              "score": 8400
+            }
+          ]
+        },
+        {
+          "category": "WHO SAID WHAT?",
+          "value": 400,
+          "clue": "In 2016 to her supporters: \"We must accept this result and then look to the future\"",
+          "answer": "Hillary Clinton",
+          "isDailyDouble": false,
+          "orderNumber": 16,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tanya",
+              "score": 3600
+            },
+            {
+              "player": "Mackenzie",
+              "score": 9200
+            },
+            {
+              "player": "Matthew",
+              "score": 8400
+            }
+          ]
+        },
+        {
+          "category": "WHO SAID WHAT?",
+          "value": 800,
+          "clue": "Karl Marx: \"A spectre is haunting Europe--the spectre of\" this",
+          "answer": "Communism",
+          "isDailyDouble": false,
+          "orderNumber": 17,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tanya",
+              "score": 3600
+            },
+            {
+              "player": "Mackenzie",
+              "score": 10000
+            },
+            {
+              "player": "Matthew",
+              "score": 8400
+            }
+          ]
+        },
+        {
+          "category": "WHO SAID WHAT?",
+          "value": 1200,
+          "clue": "Lou Gehrig, July 4, 1939: \"Today I consider myself\" these 9 words",
+          "answer": "the luckiest man on the face of the Earth",
+          "isDailyDouble": false,
+          "orderNumber": 18,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tanya",
+              "score": 3600
+            },
+            {
+              "player": "Mackenzie",
+              "score": 10000
+            },
+            {
+              "player": "Matthew",
+              "score": 9600
+            }
+          ]
+        },
+        {
+          "category": "WHO SAID WHAT?",
+          "value": 1600,
+          "clue": "On his crowning in 1804: \"I am the successor not of Louis XVI, but of Charlemagne\"",
+          "answer": "Napoleon",
+          "isDailyDouble": false,
+          "orderNumber": 19,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tanya",
+              "score": 3600
+            },
+            {
+              "player": "Mackenzie",
+              "score": 11600
+            },
+            {
+              "player": "Matthew",
+              "score": 9600
+            }
+          ]
+        },
+        {
+          "category": "WHO SAID WHAT?",
+          "value": 2000,
+          "clue": "Queen Victoria to Arthur Balfour in 1899: \"We are not interested in the possibilities of\" this",
+          "answer": "defeat",
+          "isDailyDouble": false,
+          "orderNumber": 20,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Tanya",
+              "score": 3600
+            },
+            {
+              "player": "Mackenzie",
+              "score": 11600
+            },
+            {
+              "player": "Matthew",
+              "score": 9600
+            }
+          ]
+        },
+        {
+          "category": "\"HAT\" BOX",
+          "value": 400,
+          "clue": "Fans at the game seen here know a player has just accomplished this",
+          "answer": "a hat trick",
+          "isDailyDouble": false,
+          "orderNumber": 21,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tanya",
+              "score": 3600
+            },
+            {
+              "player": "Mackenzie",
+              "score": 12000
+            },
+            {
+              "player": "Matthew",
+              "score": 9600
+            }
+          ]
+        },
+        {
+          "category": "\"HAT\" BOX",
+          "value": 1200,
+          "clue": "The U.S.S. Monitor sank off this East Coast promontory on New Years Eve 1862",
+          "answer": "Cape Hatteras",
+          "isDailyDouble": false,
+          "orderNumber": 22,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tanya",
+              "score": 3600
+            },
+            {
+              "player": "Mackenzie",
+              "score": 13200
+            },
+            {
+              "player": "Matthew",
+              "score": 9600
+            }
+          ]
+        },
+        {
+          "category": "\"HAT\" BOX",
+          "value": 1600,
+          "clue": "Meaning \"The Hope\", it's the national anthem of Israel",
+          "answer": "\"Hatikvah\"",
+          "isDailyDouble": false,
+          "orderNumber": 23,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tanya",
+              "score": 3600
+            },
+            {
+              "player": "Mackenzie",
+              "score": 13200
+            },
+            {
+              "player": "Matthew",
+              "score": 11200
+            }
+          ]
+        },
+        {
+          "category": "\"HAT\" BOX",
+          "value": 2000,
+          "clue": "This ancient Egyptian queen erected granite obelisks at Karnak, one of which is still standing",
+          "answer": "Hatshepsut",
+          "isDailyDouble": false,
+          "orderNumber": 24,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tanya",
+              "score": 5600
+            },
+            {
+              "player": "Mackenzie",
+              "score": 13200
+            },
+            {
+              "player": "Matthew",
+              "score": 9200
+            }
+          ]
+        },
+        {
+          "category": "\"HAT\" BOX",
+          "value": 800,
+          "clue": "Commercial setting where Rhode Island Reds might be born",
+          "answer": "a hatchery",
+          "isDailyDouble": false,
+          "orderNumber": 25,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tanya",
+              "score": 5600
+            },
+            {
+              "player": "Mackenzie",
+              "score": 14000
+            },
+            {
+              "player": "Matthew",
+              "score": 9200
+            }
+          ]
+        },
+        {
+          "category": "NUMBER THAT AMENDMENT",
+          "value": 400,
+          "clue": "Covers the right to bear arms",
+          "answer": "the Second Amendment",
+          "isDailyDouble": false,
+          "orderNumber": 26,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tanya",
+              "score": 5600
+            },
+            {
+              "player": "Mackenzie",
+              "score": 14400
+            },
+            {
+              "player": "Matthew",
+              "score": 9200
+            }
+          ]
+        },
+        {
+          "category": "NUMBER THAT AMENDMENT",
+          "value": 800,
+          "clue": "Tony \"Big Tuna\" Accardo invoked it 172 times in one hearing in 1958",
+          "answer": "the Fifth",
+          "isDailyDouble": false,
+          "orderNumber": 27,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tanya",
+              "score": 6400
+            },
+            {
+              "player": "Mackenzie",
+              "score": 14400
+            },
+            {
+              "player": "Matthew",
+              "score": 9200
+            }
+          ]
+        },
+        {
+          "category": "NUMBER THAT AMENDMENT",
+          "value": 1200,
+          "clue": "Contains the Establishment Clause",
+          "answer": "the First",
+          "isDailyDouble": false,
+          "orderNumber": 28,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tanya",
+              "score": 6400
+            },
+            {
+              "player": "Mackenzie",
+              "score": 15600
+            },
+            {
+              "player": "Matthew",
+              "score": 9200
+            }
+          ]
+        },
+        {
+          "category": "NUMBER THAT AMENDMENT",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tanya",
+              "score": 6400
+            },
+            {
+              "player": "Mackenzie",
+              "score": 15600
+            },
+            {
+              "player": "Matthew",
+              "score": 9200
+            }
+          ]
+        },
+        {
+          "category": "NUMBER THAT AMENDMENT",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tanya",
+              "score": 6400
+            },
+            {
+              "player": "Mackenzie",
+              "score": 15600
+            },
+            {
+              "player": "Matthew",
+              "score": 9200
+            }
+          ]
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "Tanya",
+          "score": 6400
+        },
+        {
+          "player": "Mackenzie",
+          "score": 15600
+        },
+        {
+          "player": "Matthew",
+          "score": 9200
+        }
+      ]
+    },
+    "finalJeopardy": {
+      "category": "DOG BREEDS",
+      "clue": "This popular small dog breed is named for the man who was the Vicar of Swimbridge for almost 50 years, beginning in 1832",
+      "answer": "the Jack Russell Terrier",
+      "responses": [
+        {
+          "contestant": "Tanya",
+          "response": "What is a yorkie?",
+          "isCorrect": false,
+          "isIncorrect": true,
+          "value": 3000,
+          "finalScore": 3400
+        },
+        {
+          "contestant": "Matthew",
+          "response": "What is a Jack Russel Terrier?",
+          "isCorrect": true,
+          "isIncorrect": false,
+          "value": 3000,
+          "finalScore": 12200
+        },
+        {
+          "contestant": "Mackenzie",
+          "response": "What is a Cavlier King Charles Spaniel?",
+          "isCorrect": false,
+          "isIncorrect": true,
+          "value": 3000,
+          "finalScore": 12600
+        }
+      ]
+    }
+  },
+  "finalScores": [
+    {
+      "player": "Tanya",
+      "score": "$3,400"
+    },
+    {
+      "player": "Mackenzie",
+      "score": "$12,600"
+    },
+    {
+      "player": "Matthew",
+      "score": "$12,200"
+    }
+  ],
+  "coryatScores": [
+    {
+      "player": "Tanya",
+      "score": 9400
+    },
+    {
+      "player": "Mackenzie",
+      "score": 15600
+    },
+    {
+      "player": "Matthew",
+      "score": 8600
+    }
+  ]
+}

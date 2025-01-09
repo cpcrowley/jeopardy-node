@@ -1,0 +1,1701 @@
+{
+  "gameId": 2090,
+  "showNumber": "5300",
+  "title": "Show #5300 - Friday, September 28, 2007",
+  "date": "2007-09-28",
+  "comments": "",
+  "contestants": [
+    "Richard",
+    "Sharon",
+    "Joseph"
+  ],
+  "rounds": {
+    "jeopardy": {
+      "categories": [
+        "STATE BORDERS",
+        "MORGAN FREEMAN",
+        "LEFTOVERS",
+        "PRESIDENTIAL ALMA MATERS",
+        "-OLOGIES",
+        "LETTERS"
+      ],
+      "clues": [
+        {
+          "category": "PRESIDENTIAL ALMA MATERS",
+          "value": 200,
+          "clue": "U.S. Military Academy(class of 1915)",
+          "answer": "(Dwight) Eisenhower",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [
+            "Richard"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Richard",
+              "score": 200
+            },
+            {
+              "player": "Sharon",
+              "score": 0
+            },
+            {
+              "player": "Joseph",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "PRESIDENTIAL ALMA MATERS",
+          "value": 400,
+          "clue": "U.S. Naval Academy(class of 1946)",
+          "answer": "Jimmy Carter",
+          "isDailyDouble": false,
+          "orderNumber": 2,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Richard"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Richard",
+              "score": -200
+            },
+            {
+              "player": "Sharon",
+              "score": 0
+            },
+            {
+              "player": "Joseph",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "PRESIDENTIAL ALMA MATERS",
+          "value": 600,
+          "clue": "Georgetown(class of 1968)",
+          "answer": "(Bill) Clinton",
+          "isDailyDouble": false,
+          "orderNumber": 3,
+          "correctContestants": [
+            "Sharon"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Richard",
+              "score": -200
+            },
+            {
+              "player": "Sharon",
+              "score": 600
+            },
+            {
+              "player": "Joseph",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "PRESIDENTIAL ALMA MATERS",
+          "value": 800,
+          "clue": "Harvard University(class of 1904)",
+          "answer": "Franklin Roosevelt",
+          "isDailyDouble": false,
+          "orderNumber": 4,
+          "correctContestants": [
+            "Sharon"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Richard",
+              "score": -200
+            },
+            {
+              "player": "Sharon",
+              "score": 1400
+            },
+            {
+              "player": "Joseph",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "PRESIDENTIAL ALMA MATERS",
+          "value": 1000,
+          "clue": "Eureka College(class of 1932)",
+          "answer": "Ronald Reagan",
+          "isDailyDouble": false,
+          "orderNumber": 5,
+          "correctContestants": [
+            "Richard"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Richard",
+              "score": 800
+            },
+            {
+              "player": "Sharon",
+              "score": 1400
+            },
+            {
+              "player": "Joseph",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "STATE BORDERS",
+          "value": 200,
+          "clue": "Of \"the Four Corners states\", this is the southwestern one",
+          "answer": "Arizona",
+          "isDailyDouble": false,
+          "orderNumber": 6,
+          "correctContestants": [
+            "Richard"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Richard",
+              "score": 1000
+            },
+            {
+              "player": "Sharon",
+              "score": 1400
+            },
+            {
+              "player": "Joseph",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "STATE BORDERS",
+          "value": 400,
+          "clue": "You probably know what's on North Dakota's southern border; on its western border is this state",
+          "answer": "Montana",
+          "isDailyDouble": false,
+          "orderNumber": 7,
+          "correctContestants": [
+            "Joseph"
+          ],
+          "incorrectContestants": [
+            "Richard"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Richard",
+              "score": 600
+            },
+            {
+              "player": "Sharon",
+              "score": 1400
+            },
+            {
+              "player": "Joseph",
+              "score": 400
+            }
+          ]
+        },
+        {
+          "category": "STATE BORDERS",
+          "value": 600,
+          "clue": "Delaware's southern border is with this state",
+          "answer": "Maryland",
+          "isDailyDouble": false,
+          "orderNumber": 8,
+          "correctContestants": [
+            "Sharon"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Richard",
+              "score": 600
+            },
+            {
+              "player": "Sharon",
+              "score": 2000
+            },
+            {
+              "player": "Joseph",
+              "score": 400
+            }
+          ]
+        },
+        {
+          "category": "STATE BORDERS",
+          "value": 800,
+          "clue": "You'll find these 2 states on Colorado's eastern border",
+          "answer": "Kansas and Nebraska",
+          "isDailyDouble": false,
+          "orderNumber": 9,
+          "correctContestants": [
+            "Richard"
+          ],
+          "incorrectContestants": [
+            "Sharon"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Richard",
+              "score": 1400
+            },
+            {
+              "player": "Sharon",
+              "score": 1200
+            },
+            {
+              "player": "Joseph",
+              "score": 400
+            }
+          ]
+        },
+        {
+          "category": "STATE BORDERS",
+          "value": 1000,
+          "clue": "It's the number of states that border the Gulf of Mexico",
+          "answer": "5 (Texas, Louisiana, Alabama, Mississippi & Florida)",
+          "isDailyDouble": false,
+          "orderNumber": 10,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Richard",
+              "score": 1400
+            },
+            {
+              "player": "Sharon",
+              "score": 1200
+            },
+            {
+              "player": "Joseph",
+              "score": 400
+            }
+          ]
+        },
+        {
+          "category": "MORGAN FREEMAN",
+          "value": 200,
+          "clue": "(Morgan Freeman gives the clue.) I received my second Oscar nomination for this 1989 film set in the mid-20th century South",
+          "answer": "Driving Miss Daisy",
+          "isDailyDouble": false,
+          "orderNumber": 11,
+          "correctContestants": [
+            "Sharon"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Richard",
+              "score": 1400
+            },
+            {
+              "player": "Sharon",
+              "score": 1400
+            },
+            {
+              "player": "Joseph",
+              "score": 400
+            }
+          ]
+        },
+        {
+          "category": "LEFTOVERS",
+          "value": 200,
+          "clue": "Tasmanian-born Harold Gatty taught navigation to Anne Morrow, the wife of this \"Lone Eagle\"",
+          "answer": "Charles Lindbergh",
+          "isDailyDouble": false,
+          "orderNumber": 12,
+          "correctContestants": [
+            "Sharon"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Richard",
+              "score": 1400
+            },
+            {
+              "player": "Sharon",
+              "score": 1600
+            },
+            {
+              "player": "Joseph",
+              "score": 400
+            }
+          ]
+        },
+        {
+          "category": "LEFTOVERS",
+          "value": 400,
+          "clue": "Joan Miro designed 2 of these artworks for the UNESCO building in Paris",
+          "answer": "murals",
+          "isDailyDouble": false,
+          "orderNumber": 13,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Richard",
+              "score": 1400
+            },
+            {
+              "player": "Sharon",
+              "score": 1600
+            },
+            {
+              "player": "Joseph",
+              "score": 400
+            }
+          ]
+        },
+        {
+          "category": "LEFTOVERS",
+          "value": 600,
+          "clue": "Brit Nick Faldo has made his name as one of these",
+          "answer": "a golfer",
+          "isDailyDouble": false,
+          "orderNumber": 14,
+          "correctContestants": [
+            "Sharon"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Richard",
+              "score": 1400
+            },
+            {
+              "player": "Sharon",
+              "score": 2200
+            },
+            {
+              "player": "Joseph",
+              "score": 400
+            }
+          ]
+        },
+        {
+          "category": "LEFTOVERS",
+          "value": 800,
+          "clue": "In Latvian myth, Lacplesis was the slayer of these; we don't know if he started killing them when he was 3",
+          "answer": "bears (giants later accepted)",
+          "isDailyDouble": false,
+          "orderNumber": 15,
+          "correctContestants": [
+            "Sharon"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Richard",
+              "score": 1400
+            },
+            {
+              "player": "Sharon",
+              "score": 3000
+            },
+            {
+              "player": "Joseph",
+              "score": 400
+            }
+          ]
+        },
+        {
+          "category": "-OLOGIES",
+          "value": 200,
+          "clue": "The art or profession of applying makeup",
+          "answer": "cosmetology",
+          "isDailyDouble": false,
+          "orderNumber": 16,
+          "correctContestants": [
+            "Sharon"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Richard",
+              "score": 1400
+            },
+            {
+              "player": "Sharon",
+              "score": 3200
+            },
+            {
+              "player": "Joseph",
+              "score": 400
+            }
+          ]
+        },
+        {
+          "category": "-OLOGIES",
+          "value": 400,
+          "clue": "The branch of astronomy that deals with the structure & evolution of the universe",
+          "answer": "cosmology",
+          "isDailyDouble": false,
+          "orderNumber": 17,
+          "correctContestants": [
+            "Joseph"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Richard",
+              "score": 1400
+            },
+            {
+              "player": "Sharon",
+              "score": 3200
+            },
+            {
+              "player": "Joseph",
+              "score": 800
+            }
+          ]
+        },
+        {
+          "category": "-OLOGIES",
+          "value": 600,
+          "clue": "An expression of regret",
+          "answer": "an apology",
+          "isDailyDouble": false,
+          "orderNumber": 18,
+          "correctContestants": [
+            "Joseph"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Richard",
+              "score": 1400
+            },
+            {
+              "player": "Sharon",
+              "score": 3200
+            },
+            {
+              "player": "Joseph",
+              "score": 1400
+            }
+          ]
+        },
+        {
+          "category": "-OLOGIES",
+          "value": 800,
+          "clue": "A book with a mix of various authors writing on various topics",
+          "answer": "an anthology",
+          "isDailyDouble": false,
+          "orderNumber": 19,
+          "correctContestants": [
+            "Sharon"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Richard",
+              "score": 1400
+            },
+            {
+              "player": "Sharon",
+              "score": 4000
+            },
+            {
+              "player": "Joseph",
+              "score": 1400
+            }
+          ]
+        },
+        {
+          "category": "-OLOGIES",
+          "value": 1000,
+          "clue": "The study of fossils, as from a T-rex",
+          "answer": "paleontology",
+          "isDailyDouble": false,
+          "orderNumber": 20,
+          "correctContestants": [
+            "Richard"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Richard",
+              "score": 2400
+            },
+            {
+              "player": "Sharon",
+              "score": 4000
+            },
+            {
+              "player": "Joseph",
+              "score": 1400
+            }
+          ]
+        },
+        {
+          "category": "MORGAN FREEMAN",
+          "value": 400,
+          "clue": "(Morgan Freeman reads once again.) I've been in 2 films directed by Clint Eastwood: \"Unforgiven\" & this one, for which I won an Oscar",
+          "answer": "Million Dollar Baby",
+          "isDailyDouble": false,
+          "orderNumber": 21,
+          "correctContestants": [
+            "Richard"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Richard",
+              "score": 2800
+            },
+            {
+              "player": "Sharon",
+              "score": 4000
+            },
+            {
+              "player": "Joseph",
+              "score": 1400
+            }
+          ]
+        },
+        {
+          "category": "MORGAN FREEMAN",
+          "value": 1000,
+          "clue": "(Morgan gives the clue again.) I've narrated 2 Oscar-winning feature-length documentaries: \"The Long Way Home\" & this 2005 film",
+          "answer": "March of the Penguins",
+          "isDailyDouble": true,
+          "orderNumber": 22,
+          "correctContestants": [
+            "Richard"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Richard",
+              "score": 3800
+            },
+            {
+              "player": "Sharon",
+              "score": 4000
+            },
+            {
+              "player": "Joseph",
+              "score": 1400
+            }
+          ]
+        },
+        {
+          "category": "MORGAN FREEMAN",
+          "value": 800,
+          "clue": "(Morgan Freeman reads once more.) To answer your question, Jack...as Lucius Fox, it turns out I'm the one who gets this title guy \"those wonderful toys\" when he \"begins\"",
+          "answer": "Batman",
+          "isDailyDouble": false,
+          "orderNumber": 23,
+          "correctContestants": [
+            "Joseph"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Richard",
+              "score": 3800
+            },
+            {
+              "player": "Sharon",
+              "score": 4000
+            },
+            {
+              "player": "Joseph",
+              "score": 2200
+            }
+          ]
+        },
+        {
+          "category": "LETTERS",
+          "value": 200,
+          "clue": "It equals a 2.0 GPA",
+          "answer": "a C",
+          "isDailyDouble": false,
+          "orderNumber": 24,
+          "correctContestants": [
+            "Joseph"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Richard",
+              "score": 3800
+            },
+            {
+              "player": "Sharon",
+              "score": 4000
+            },
+            {
+              "player": "Joseph",
+              "score": 2400
+            }
+          ]
+        },
+        {
+          "category": "LETTERS",
+          "value": 400,
+          "clue": "The letter in the means of transport seen here",
+          "answer": "T (t-bar)",
+          "isDailyDouble": false,
+          "orderNumber": 25,
+          "correctContestants": [
+            "Sharon"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Richard",
+              "score": 3800
+            },
+            {
+              "player": "Sharon",
+              "score": 4400
+            },
+            {
+              "player": "Joseph",
+              "score": 2400
+            }
+          ]
+        },
+        {
+          "category": "LEFTOVERS",
+          "value": 1000,
+          "clue": "Opened in 1936, this bridge links Manhattan, Queens & the Bronx",
+          "answer": "the Triborough Bridge",
+          "isDailyDouble": false,
+          "orderNumber": 26,
+          "correctContestants": [
+            "Joseph"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Richard",
+              "score": 3800
+            },
+            {
+              "player": "Sharon",
+              "score": 4400
+            },
+            {
+              "player": "Joseph",
+              "score": 3400
+            }
+          ]
+        },
+        {
+          "category": "LETTERS",
+          "value": 600,
+          "clue": "It stands for a metric unit equal to about a quarter gallon",
+          "answer": "L (liter)",
+          "isDailyDouble": false,
+          "orderNumber": 27,
+          "correctContestants": [
+            "Joseph"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Richard",
+              "score": 3800
+            },
+            {
+              "player": "Sharon",
+              "score": 4400
+            },
+            {
+              "player": "Joseph",
+              "score": 4000
+            }
+          ]
+        },
+        {
+          "category": "LETTERS",
+          "value": 800,
+          "clue": "When signing the alphabet in American Sign Language, only two letters require actual finger movement: the Z, and this",
+          "answer": "J",
+          "isDailyDouble": false,
+          "orderNumber": 28,
+          "correctContestants": [
+            "Sharon"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Richard",
+              "score": 3800
+            },
+            {
+              "player": "Sharon",
+              "score": 5200
+            },
+            {
+              "player": "Joseph",
+              "score": 4000
+            }
+          ]
+        },
+        {
+          "category": "LETTERS",
+          "value": 1000,
+          "clue": "If your trademark application is okayed, you can follow the trademarked item with this letter in a circle",
+          "answer": "an R (registered trademark)",
+          "isDailyDouble": false,
+          "orderNumber": 29,
+          "correctContestants": [
+            "Joseph"
+          ],
+          "incorrectContestants": [
+            "Richard"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Richard",
+              "score": 2800
+            },
+            {
+              "player": "Sharon",
+              "score": 5200
+            },
+            {
+              "player": "Joseph",
+              "score": 5000
+            }
+          ]
+        },
+        {
+          "category": "MORGAN FREEMAN",
+          "value": 1000,
+          "clue": "(Morgan gives the last clue.) John Quincy Adams & Martin Van Buren were characters in this 1997 film in which I starred with Djimon Hounsou",
+          "answer": "Amistad",
+          "isDailyDouble": false,
+          "orderNumber": 30,
+          "correctContestants": [
+            "Richard"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Richard",
+              "score": 3800
+            },
+            {
+              "player": "Sharon",
+              "score": 5200
+            },
+            {
+              "player": "Joseph",
+              "score": 5000
+            }
+          ]
+        }
+      ],
+      "firstBreakScores": [
+        {
+          "player": "Richard",
+          "score": 1400
+        },
+        {
+          "player": "Sharon",
+          "score": 3000
+        },
+        {
+          "player": "Joseph",
+          "score": 400
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "Richard",
+          "score": 3800
+        },
+        {
+          "player": "Sharon",
+          "score": 5200
+        },
+        {
+          "player": "Joseph",
+          "score": 5000
+        }
+      ]
+    },
+    "doubleJeopardy": {
+      "categories": [
+        "WORLD HISTORY",
+        "SITCOM QUOTES",
+        "CATS & DOGS",
+        "FILL IN THE BOOK TITLE",
+        "\"ORANGE\" YOU GLAD",
+        "MEASURE TIME"
+      ],
+      "clues": [
+        {
+          "category": "SITCOM QUOTES",
+          "value": 400,
+          "clue": "\"2, 4, 6, 8 /Homer's crime was very great /'Great'  meaning large or immense /We use it in the pejorative sense\"",
+          "answer": "The Simpsons",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Richard",
+              "score": 4200
+            },
+            {
+              "player": "Sharon",
+              "score": 5200
+            },
+            {
+              "player": "Joseph",
+              "score": 5000
+            }
+          ]
+        },
+        {
+          "category": "SITCOM QUOTES",
+          "value": 800,
+          "clue": "\"My name is George.  I'm unemployed and I live with my parents\"",
+          "answer": "Seinfeld",
+          "isDailyDouble": false,
+          "orderNumber": 2,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Richard",
+              "score": 4200
+            },
+            {
+              "player": "Sharon",
+              "score": 6000
+            },
+            {
+              "player": "Joseph",
+              "score": 5000
+            }
+          ]
+        },
+        {
+          "category": "SITCOM QUOTES",
+          "value": 1200,
+          "clue": "\"You don't take relationship advice from Karen.  You get advice on, I don't know, what wine goes with mood stabilizers\"",
+          "answer": "Will & Grace",
+          "isDailyDouble": false,
+          "orderNumber": 3,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Richard",
+              "score": 4200
+            },
+            {
+              "player": "Sharon",
+              "score": 7200
+            },
+            {
+              "player": "Joseph",
+              "score": 5000
+            }
+          ]
+        },
+        {
+          "category": "SITCOM QUOTES",
+          "value": 1600,
+          "clue": "\"The Opera Guild's annual football tournament...Well, I'm the quarterback\"",
+          "answer": "Frasier",
+          "isDailyDouble": false,
+          "orderNumber": 4,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Richard",
+              "score": 4200
+            },
+            {
+              "player": "Sharon",
+              "score": 8800
+            },
+            {
+              "player": "Joseph",
+              "score": 5000
+            }
+          ]
+        },
+        {
+          "category": "SITCOM QUOTES",
+          "value": 2000,
+          "clue": "\"You have reached the transmitting signal for the Big Giant Head. All big giant circuits are busy... please stay on the line\"",
+          "answer": "3rd Rock from the Sun",
+          "isDailyDouble": false,
+          "orderNumber": 5,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Richard",
+              "score": 4200
+            },
+            {
+              "player": "Sharon",
+              "score": 10800
+            },
+            {
+              "player": "Joseph",
+              "score": 5000
+            }
+          ]
+        },
+        {
+          "category": "FILL IN THE BOOK TITLE",
+          "value": 400,
+          "clue": "\"T.J.\"by Henry Fielding",
+          "answer": "Tom Jones",
+          "isDailyDouble": false,
+          "orderNumber": 6,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Richard",
+              "score": 4200
+            },
+            {
+              "player": "Sharon",
+              "score": 11200
+            },
+            {
+              "player": "Joseph",
+              "score": 5000
+            }
+          ]
+        },
+        {
+          "category": "FILL IN THE BOOK TITLE",
+          "value": 800,
+          "clue": "\"J.T.O.\"by Thomas Hardy",
+          "answer": "Jude the Obscure",
+          "isDailyDouble": false,
+          "orderNumber": 7,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Richard",
+              "score": 4200
+            },
+            {
+              "player": "Sharon",
+              "score": 11200
+            },
+            {
+              "player": "Joseph",
+              "score": 5800
+            }
+          ]
+        },
+        {
+          "category": "FILL IN THE BOOK TITLE",
+          "value": 1200,
+          "clue": "\"A.A.T.\"by Theodore Dreiser",
+          "answer": "An American Tragedy",
+          "isDailyDouble": false,
+          "orderNumber": 8,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Richard",
+              "score": 4200
+            },
+            {
+              "player": "Sharon",
+              "score": 10000
+            },
+            {
+              "player": "Joseph",
+              "score": 5800
+            }
+          ]
+        },
+        {
+          "category": "FILL IN THE BOOK TITLE",
+          "value": 2200,
+          "clue": "\"T.B.A.D.\"by F. Scott Fitzgerald",
+          "answer": "The Beautiful And Damned",
+          "isDailyDouble": true,
+          "orderNumber": 9,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Richard",
+              "score": 4200
+            },
+            {
+              "player": "Sharon",
+              "score": 10000
+            },
+            {
+              "player": "Joseph",
+              "score": 3600
+            }
+          ]
+        },
+        {
+          "category": "FILL IN THE BOOK TITLE",
+          "value": 2000,
+          "clue": "\"T.M.O.T.F.\"by George Eliot",
+          "answer": "The Mill On The Floss",
+          "isDailyDouble": false,
+          "orderNumber": 10,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Richard",
+              "score": 4200
+            },
+            {
+              "player": "Sharon",
+              "score": 12000
+            },
+            {
+              "player": "Joseph",
+              "score": 3600
+            }
+          ]
+        },
+        {
+          "category": "\"ORANGE\" YOU GLAD",
+          "value": 400,
+          "clue": "Infamous herbicide of 1960s wartime Indochina",
+          "answer": "Agent Orange",
+          "isDailyDouble": false,
+          "orderNumber": 11,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Richard",
+              "score": 4200
+            },
+            {
+              "player": "Sharon",
+              "score": 12000
+            },
+            {
+              "player": "Joseph",
+              "score": 4000
+            }
+          ]
+        },
+        {
+          "category": "\"ORANGE\" YOU GLAD",
+          "value": 800,
+          "clue": "Prominent among Protestants in northern Ireland, the Orange Order was formed in 1795 to honor this monarch",
+          "answer": "William of Orange",
+          "isDailyDouble": false,
+          "orderNumber": 12,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Richard",
+              "score": 4200
+            },
+            {
+              "player": "Sharon",
+              "score": 12000
+            },
+            {
+              "player": "Joseph",
+              "score": 4000
+            }
+          ]
+        },
+        {
+          "category": "\"ORANGE\" YOU GLAD",
+          "value": 1200,
+          "clue": "Dystopian Anthony Burgess novel of punks & pathology",
+          "answer": "A Clockwork Orange",
+          "isDailyDouble": false,
+          "orderNumber": 13,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Richard",
+              "score": 4200
+            },
+            {
+              "player": "Sharon",
+              "score": 12000
+            },
+            {
+              "player": "Joseph",
+              "score": 5200
+            }
+          ]
+        },
+        {
+          "category": "\"ORANGE\" YOU GLAD",
+          "value": 1600,
+          "clue": "In the British children's rhyme, the pair that are said by \"the bells of St. Clement's\"",
+          "answer": "oranges and lemons",
+          "isDailyDouble": false,
+          "orderNumber": 14,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Richard",
+              "score": 4200
+            },
+            {
+              "player": "Sharon",
+              "score": 13600
+            },
+            {
+              "player": "Joseph",
+              "score": 5200
+            }
+          ]
+        },
+        {
+          "category": "\"ORANGE\" YOU GLAD",
+          "value": 2000,
+          "clue": "Sherlock Holmes solves a mystery involving the KKK & sailing ships in \"The Case of\" these",
+          "answer": "\"The Five Orange Pips\"",
+          "isDailyDouble": false,
+          "orderNumber": 15,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Richard",
+              "score": 4200
+            },
+            {
+              "player": "Sharon",
+              "score": 13600
+            },
+            {
+              "player": "Joseph",
+              "score": 5200
+            }
+          ]
+        },
+        {
+          "category": "CATS & DOGS",
+          "value": 400,
+          "clue": "Siamese kittens develop their full adult color within a few months but are born mostly this color",
+          "answer": "white",
+          "isDailyDouble": false,
+          "orderNumber": 16,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Richard",
+              "score": 4600
+            },
+            {
+              "player": "Sharon",
+              "score": 13600
+            },
+            {
+              "player": "Joseph",
+              "score": 5200
+            }
+          ]
+        },
+        {
+          "category": "WORLD HISTORY",
+          "value": 400,
+          "clue": "In 1071 the Seljuk Turks, who practiced this religion, defeated the Byzantine Army at the Battle of Manzikert",
+          "answer": "Islam",
+          "isDailyDouble": false,
+          "orderNumber": 17,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Richard",
+              "score": 4600
+            },
+            {
+              "player": "Sharon",
+              "score": 13600
+            },
+            {
+              "player": "Joseph",
+              "score": 5600
+            }
+          ]
+        },
+        {
+          "category": "WORLD HISTORY",
+          "value": 800,
+          "clue": "This King of Aragon freed the Catalan Serfs in 1486 & captured Granada in 1492",
+          "answer": "King Ferdinand",
+          "isDailyDouble": false,
+          "orderNumber": 18,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Richard",
+              "score": 4600
+            },
+            {
+              "player": "Sharon",
+              "score": 14400
+            },
+            {
+              "player": "Joseph",
+              "score": 5600
+            }
+          ]
+        },
+        {
+          "category": "WORLD HISTORY",
+          "value": 1200,
+          "clue": "Now in Poland, in 1361 this shipbuilding city became a member of the Hanseatic League",
+          "answer": "Gdansk",
+          "isDailyDouble": false,
+          "orderNumber": 19,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Richard",
+              "score": 5800
+            },
+            {
+              "player": "Sharon",
+              "score": 14400
+            },
+            {
+              "player": "Joseph",
+              "score": 5600
+            }
+          ]
+        },
+        {
+          "category": "WORLD HISTORY",
+          "value": 1600,
+          "clue": "Around 2500 B.C. the Harappan Civilization sprung up around this river in Pakistan & northwestern India",
+          "answer": "the Indus",
+          "isDailyDouble": false,
+          "orderNumber": 20,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Richard",
+              "score": 4200
+            },
+            {
+              "player": "Sharon",
+              "score": 14400
+            },
+            {
+              "player": "Joseph",
+              "score": 7200
+            }
+          ]
+        },
+        {
+          "category": "WORLD HISTORY",
+          "value": 2000,
+          "clue": "An economic crisis forced this Indonesian leader to resign on May 21, 1998, ending 32 years of autocratic rule",
+          "answer": "Suharto",
+          "isDailyDouble": false,
+          "orderNumber": 21,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Richard",
+              "score": 4200
+            },
+            {
+              "player": "Sharon",
+              "score": 14400
+            },
+            {
+              "player": "Joseph",
+              "score": 9200
+            }
+          ]
+        },
+        {
+          "category": "MEASURE TIME",
+          "value": 400,
+          "clue": "The waist of this British Queen was measured at 46 inches when she died in 1901",
+          "answer": "Queen Victoria",
+          "isDailyDouble": false,
+          "orderNumber": 22,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Richard",
+              "score": 4200
+            },
+            {
+              "player": "Sharon",
+              "score": 14400
+            },
+            {
+              "player": "Joseph",
+              "score": 9600
+            }
+          ]
+        },
+        {
+          "category": "MEASURE TIME",
+          "value": 800,
+          "clue": "Arabian horses are generally 14 to 15 of these horse measurements tall",
+          "answer": "hands",
+          "isDailyDouble": false,
+          "orderNumber": 23,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Richard",
+              "score": 4200
+            },
+            {
+              "player": "Sharon",
+              "score": 15200
+            },
+            {
+              "player": "Joseph",
+              "score": 9600
+            }
+          ]
+        },
+        {
+          "category": "MEASURE TIME",
+          "value": 1200,
+          "clue": "Computer printer image quality is measured in DPI, which stands for this",
+          "answer": "dots per inch",
+          "isDailyDouble": false,
+          "orderNumber": 24,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Richard",
+              "score": 4200
+            },
+            {
+              "player": "Sharon",
+              "score": 16400
+            },
+            {
+              "player": "Joseph",
+              "score": 9600
+            }
+          ]
+        },
+        {
+          "category": "CATS & DOGS",
+          "value": 800,
+          "clue": "The Bombay cat, a cross between a Burmese & a Black American shorthair, originated in this largest KY. city",
+          "answer": "Louisville",
+          "isDailyDouble": false,
+          "orderNumber": 25,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Richard",
+              "score": 5000
+            },
+            {
+              "player": "Sharon",
+              "score": 16400
+            },
+            {
+              "player": "Joseph",
+              "score": 9600
+            }
+          ]
+        },
+        {
+          "category": "CATS & DOGS",
+          "value": 1200,
+          "clue": "In England, this cat breed was once known as a \"foreign blue\"",
+          "answer": "a Russian blue",
+          "isDailyDouble": false,
+          "orderNumber": 26,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Richard",
+              "score": 5000
+            },
+            {
+              "player": "Sharon",
+              "score": 17600
+            },
+            {
+              "player": "Joseph",
+              "score": 9600
+            }
+          ]
+        },
+        {
+          "category": "CATS & DOGS",
+          "value": 3000,
+          "clue": "This dog that derives its name from a place on the eastern shore of the Adriatic is also called a coach dog",
+          "answer": "Dalmatian",
+          "isDailyDouble": true,
+          "orderNumber": 27,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Richard",
+              "score": 5000
+            },
+            {
+              "player": "Sharon",
+              "score": 14600
+            },
+            {
+              "player": "Joseph",
+              "score": 9600
+            }
+          ]
+        },
+        {
+          "category": "CATS & DOGS",
+          "value": 2000,
+          "clue": "Corgis come in 2 breeds: Cardigan Welsh Corgi & this one",
+          "answer": "Pembroke",
+          "isDailyDouble": false,
+          "orderNumber": 28,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Richard",
+              "score": 3000
+            },
+            {
+              "player": "Sharon",
+              "score": 14600
+            },
+            {
+              "player": "Joseph",
+              "score": 9600
+            }
+          ]
+        },
+        {
+          "category": "MEASURE TIME",
+          "value": 1600,
+          "clue": "In her sonnet \"How Do I Love Thee\", the 2 measurements with breadth that Browning's \"soul can reach\"",
+          "answer": "depth & height",
+          "isDailyDouble": false,
+          "orderNumber": 29,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Richard",
+              "score": 3000
+            },
+            {
+              "player": "Sharon",
+              "score": 14600
+            },
+            {
+              "player": "Joseph",
+              "score": 9600
+            }
+          ]
+        },
+        {
+          "category": "MEASURE TIME",
+          "value": 2000,
+          "clue": "Myanmar & this African country are the only 2 besides the U.S. still not officially using the Metric System",
+          "answer": "Liberia",
+          "isDailyDouble": false,
+          "orderNumber": 30,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Richard",
+              "score": 5000
+            },
+            {
+              "player": "Sharon",
+              "score": 14600
+            },
+            {
+              "player": "Joseph",
+              "score": 9600
+            }
+          ]
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "Richard",
+          "score": 5000
+        },
+        {
+          "player": "Sharon",
+          "score": 14600
+        },
+        {
+          "player": "Joseph",
+          "score": 9600
+        }
+      ]
+    },
+    "finalJeopardy": {
+      "category": "NATIONAL HOLIDAYS",
+      "clue": "June 23, National Day in this country, began as a celebration of the birthday of Grand Duchess Charlotte",
+      "answer": "Luxembourg",
+      "responses": [
+        {
+          "contestant": "Richard",
+          "response": "What is Luxembourg",
+          "isCorrect": true,
+          "isIncorrect": false,
+          "value": 4999,
+          "finalScore": 9999
+        },
+        {
+          "contestant": "Joseph",
+          "response": "What is Austria?",
+          "isCorrect": false,
+          "isIncorrect": true,
+          "value": 9500,
+          "finalScore": 100
+        },
+        {
+          "contestant": "Sharon",
+          "response": "What is Belgium?",
+          "isCorrect": false,
+          "isIncorrect": true,
+          "value": 4599,
+          "finalScore": 10001
+        }
+      ]
+    }
+  },
+  "finalScores": [
+    {
+      "player": "Richard",
+      "score": "$9,999"
+    },
+    {
+      "player": "Sharon",
+      "score": "$10,001"
+    },
+    {
+      "player": "Joseph",
+      "score": "$100"
+    }
+  ],
+  "coryatScores": [
+    {
+      "player": "Richard",
+      "score": 4600
+    },
+    {
+      "player": "Sharon",
+      "score": 17600
+    },
+    {
+      "player": "Joseph",
+      "score": 11800
+    }
+  ]
+}

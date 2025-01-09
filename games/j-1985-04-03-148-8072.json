@@ -1,0 +1,1707 @@
+{
+  "gameId": 8072,
+  "showNumber": "148",
+  "title": "Show #148 - Wednesday, April 3, 1985",
+  "date": "1985-04-03",
+  "comments": "",
+  "contestants": [
+    "Sal",
+    "Susan",
+    "George"
+  ],
+  "rounds": {
+    "jeopardy": {
+      "categories": [
+        "U.S. GOVERNMENT",
+        "BASKETBALL",
+        "FLOWERS",
+        "TELEVISION",
+        "GEOGRAPHY",
+        "SCHOOL DAYS"
+      ],
+      "clues": [
+        {
+          "category": "BASKETBALL",
+          "value": 100,
+          "clue": "Sounds like the favorite shot of Peter Pan's nemesis",
+          "answer": "a hook shot",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [
+            "Susan"
+          ],
+          "incorrectContestants": [
+            "Sal"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Sal",
+              "score": -100
+            },
+            {
+              "player": "Susan",
+              "score": 100
+            },
+            {
+              "player": "George",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "SCHOOL DAYS",
+          "value": 100,
+          "clue": "It followed Mary to school one day, \"which was against the rules\"",
+          "answer": "her (little) lamb",
+          "isDailyDouble": false,
+          "orderNumber": 2,
+          "correctContestants": [
+            "Susan"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Sal",
+              "score": -100
+            },
+            {
+              "player": "Susan",
+              "score": 200
+            },
+            {
+              "player": "George",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "SCHOOL DAYS",
+          "value": 200,
+          "clue": "Defined as school activities outside the regular course of study",
+          "answer": "extracurricular",
+          "isDailyDouble": false,
+          "orderNumber": 3,
+          "correctContestants": [
+            "George"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Sal",
+              "score": -100
+            },
+            {
+              "player": "Susan",
+              "score": 200
+            },
+            {
+              "player": "George",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "SCHOOL DAYS",
+          "value": 300,
+          "clue": "Federal preschool program for the poor that gives kids what its title promises",
+          "answer": "head start",
+          "isDailyDouble": false,
+          "orderNumber": 4,
+          "correctContestants": [
+            "Sal"
+          ],
+          "incorrectContestants": [
+            "George"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Sal",
+              "score": 200
+            },
+            {
+              "player": "Susan",
+              "score": 200
+            },
+            {
+              "player": "George",
+              "score": -100
+            }
+          ]
+        },
+        {
+          "category": "BASKETBALL",
+          "value": 200,
+          "clue": "Height of the basket",
+          "answer": "10 feet",
+          "isDailyDouble": false,
+          "orderNumber": 5,
+          "correctContestants": [
+            "George"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Sal",
+              "score": 200
+            },
+            {
+              "player": "Susan",
+              "score": 200
+            },
+            {
+              "player": "George",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "category": "BASKETBALL",
+          "value": 300,
+          "clue": "Atlanta's basketball \"birds\"",
+          "answer": "the Hawks",
+          "isDailyDouble": false,
+          "orderNumber": 6,
+          "correctContestants": [
+            "Sal"
+          ],
+          "incorrectContestants": [
+            "Susan"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Sal",
+              "score": 500
+            },
+            {
+              "player": "Susan",
+              "score": -100
+            },
+            {
+              "player": "George",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "category": "BASKETBALL",
+          "value": 400,
+          "clue": "Making it is called a \"conversion\"",
+          "answer": "a foul shot (free throw)",
+          "isDailyDouble": false,
+          "orderNumber": 7,
+          "correctContestants": [
+            "Sal"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Sal",
+              "score": 900
+            },
+            {
+              "player": "Susan",
+              "score": -100
+            },
+            {
+              "player": "George",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "category": "BASKETBALL",
+          "value": 500,
+          "clue": "He was NBA scoring champ for 7 straight years",
+          "answer": "Wilt Chamberlain",
+          "isDailyDouble": false,
+          "orderNumber": 8,
+          "correctContestants": [
+            "George"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Sal",
+              "score": 900
+            },
+            {
+              "player": "Susan",
+              "score": -100
+            },
+            {
+              "player": "George",
+              "score": 600
+            }
+          ]
+        },
+        {
+          "category": "SCHOOL DAYS",
+          "value": 600,
+          "clue": "According to title of 1963 Beach Boys' hit, what you should do if someone puts down your school",
+          "answer": "\"Be True To Your School\"",
+          "isDailyDouble": true,
+          "orderNumber": 9,
+          "correctContestants": [
+            "George"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Sal",
+              "score": 900
+            },
+            {
+              "player": "Susan",
+              "score": -100
+            },
+            {
+              "player": "George",
+              "score": 1200
+            }
+          ]
+        },
+        {
+          "category": "FLOWERS",
+          "value": 100,
+          "clue": "Holland, Michigan holds an annual festival dedicated to these flowers",
+          "answer": "tulips",
+          "isDailyDouble": false,
+          "orderNumber": 10,
+          "correctContestants": [
+            "George"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Sal",
+              "score": 900
+            },
+            {
+              "player": "Susan",
+              "score": -100
+            },
+            {
+              "player": "George",
+              "score": 1300
+            }
+          ]
+        },
+        {
+          "category": "FLOWERS",
+          "value": 200,
+          "clue": "Varieties of this flower include \"mariposa\", \"tiger\" & \"of the valley\"",
+          "answer": "lilies",
+          "isDailyDouble": false,
+          "orderNumber": 11,
+          "correctContestants": [
+            "Susan"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Sal",
+              "score": 900
+            },
+            {
+              "player": "Susan",
+              "score": 100
+            },
+            {
+              "player": "George",
+              "score": 1300
+            }
+          ]
+        },
+        {
+          "category": "TELEVISION",
+          "value": 100,
+          "clue": "\"Captain Kangaroo\", Bob Keeshan, formerly played this role on \"Howdy Doody\"",
+          "answer": "Clarabell",
+          "isDailyDouble": false,
+          "orderNumber": 12,
+          "correctContestants": [
+            "Sal"
+          ],
+          "incorrectContestants": [
+            "Susan"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Sal",
+              "score": 1000
+            },
+            {
+              "player": "Susan",
+              "score": 0
+            },
+            {
+              "player": "George",
+              "score": 1300
+            }
+          ]
+        },
+        {
+          "category": "U.S. GOVERNMENT",
+          "value": 100,
+          "clue": "Number of major parties in the American \"system\"",
+          "answer": "two",
+          "isDailyDouble": false,
+          "orderNumber": 13,
+          "correctContestants": [
+            "George"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Sal",
+              "score": 1000
+            },
+            {
+              "player": "Susan",
+              "score": 0
+            },
+            {
+              "player": "George",
+              "score": 1400
+            }
+          ]
+        },
+        {
+          "category": "U.S. GOVERNMENT",
+          "value": 200,
+          "clue": "A limping mallard, or a president who loses his re-election bid",
+          "answer": "a lame duck",
+          "isDailyDouble": false,
+          "orderNumber": 14,
+          "correctContestants": [
+            "Susan"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Sal",
+              "score": 1000
+            },
+            {
+              "player": "Susan",
+              "score": 200
+            },
+            {
+              "player": "George",
+              "score": 1400
+            }
+          ]
+        },
+        {
+          "category": "TELEVISION",
+          "value": 200,
+          "clue": "For 4 years in this series, Lt. Philip Gerard chased Dr. Richard Kimble who chased Fred Johnson",
+          "answer": "The Fugitive",
+          "isDailyDouble": false,
+          "orderNumber": 15,
+          "correctContestants": [
+            "Sal"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Sal",
+              "score": 1200
+            },
+            {
+              "player": "Susan",
+              "score": 200
+            },
+            {
+              "player": "George",
+              "score": 1400
+            }
+          ]
+        },
+        {
+          "category": "U.S. GOVERNMENT",
+          "value": 300,
+          "clue": "Of right to bear arms, right of suffrage & right of assembly, the one not guaranteed in the Bill of Rights",
+          "answer": "the right of suffrage",
+          "isDailyDouble": false,
+          "orderNumber": 16,
+          "correctContestants": [
+            "George"
+          ],
+          "incorrectContestants": [
+            "Sal"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Sal",
+              "score": 900
+            },
+            {
+              "player": "Susan",
+              "score": 200
+            },
+            {
+              "player": "George",
+              "score": 1700
+            }
+          ]
+        },
+        {
+          "category": "FLOWERS",
+          "value": 300,
+          "clue": "In 1960 film, Doris Day didn't want anybody to eat these",
+          "answer": "the daisies",
+          "isDailyDouble": false,
+          "orderNumber": 17,
+          "correctContestants": [
+            "Susan"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Sal",
+              "score": 900
+            },
+            {
+              "player": "Susan",
+              "score": 500
+            },
+            {
+              "player": "George",
+              "score": 1700
+            }
+          ]
+        },
+        {
+          "category": "FLOWERS",
+          "value": 400,
+          "clue": "Ironically, not a rose at all, though this flower's name means \"first rose\"",
+          "answer": "primrose",
+          "isDailyDouble": false,
+          "orderNumber": 18,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "George"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Sal",
+              "score": 900
+            },
+            {
+              "player": "Susan",
+              "score": 500
+            },
+            {
+              "player": "George",
+              "score": 1300
+            }
+          ]
+        },
+        {
+          "category": "FLOWERS",
+          "value": 500,
+          "clue": "3-petaled iris that served as emblem of French kings & is now part of Boy Scout badge",
+          "answer": "the fleur-de-lis",
+          "isDailyDouble": false,
+          "orderNumber": 19,
+          "correctContestants": [
+            "Susan"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Sal",
+              "score": 900
+            },
+            {
+              "player": "Susan",
+              "score": 1000
+            },
+            {
+              "player": "George",
+              "score": 1300
+            }
+          ]
+        },
+        {
+          "category": "SCHOOL DAYS",
+          "value": 500,
+          "clue": "In America a gymnasium is a gym, but in Germany it's this",
+          "answer": "a high school",
+          "isDailyDouble": false,
+          "orderNumber": 20,
+          "correctContestants": [
+            "Sal"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Sal",
+              "score": 1400
+            },
+            {
+              "player": "Susan",
+              "score": 1000
+            },
+            {
+              "player": "George",
+              "score": 1300
+            }
+          ]
+        },
+        {
+          "category": "U.S. GOVERNMENT",
+          "value": 400,
+          "clue": "The 23rd Amendment, ratified in 1961, gave 3 electoral votes to this region",
+          "answer": "Washington, D.C. (the District of Columbia)",
+          "isDailyDouble": false,
+          "orderNumber": 21,
+          "correctContestants": [
+            "Susan"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Sal",
+              "score": 1400
+            },
+            {
+              "player": "Susan",
+              "score": 1400
+            },
+            {
+              "player": "George",
+              "score": 1300
+            }
+          ]
+        },
+        {
+          "category": "TELEVISION",
+          "value": 300,
+          "clue": "The villain Egghead on \"Batman\", he now hosts \"Mystery!\" on PBS",
+          "answer": "Vincent Price",
+          "isDailyDouble": false,
+          "orderNumber": 22,
+          "correctContestants": [
+            "Susan"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Sal",
+              "score": 1400
+            },
+            {
+              "player": "Susan",
+              "score": 1700
+            },
+            {
+              "player": "George",
+              "score": 1300
+            }
+          ]
+        },
+        {
+          "category": "TELEVISION",
+          "value": 400,
+          "clue": "He was Topper on \"Topper\" & Mr. Waverly on \"The Man from U.N.C.L.E.\"",
+          "answer": "Leo G. Carroll",
+          "isDailyDouble": false,
+          "orderNumber": 23,
+          "correctContestants": [
+            "Susan"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Sal",
+              "score": 1400
+            },
+            {
+              "player": "Susan",
+              "score": 2100
+            },
+            {
+              "player": "George",
+              "score": 1300
+            }
+          ]
+        },
+        {
+          "category": "TELEVISION",
+          "value": 500,
+          "clue": "Nicknames of the kids on \"Double Trouble\", or Saint James & Curtin in their series",
+          "answer": "Kate and Allie",
+          "isDailyDouble": false,
+          "orderNumber": 24,
+          "correctContestants": [
+            "Susan"
+          ],
+          "incorrectContestants": [
+            "Sal"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Sal",
+              "score": 900
+            },
+            {
+              "player": "Susan",
+              "score": 2600
+            },
+            {
+              "player": "George",
+              "score": 1300
+            }
+          ]
+        },
+        {
+          "category": "GEOGRAPHY",
+          "value": 100,
+          "clue": "State that's trying to recover Ellis Island from New York",
+          "answer": "New Jersey",
+          "isDailyDouble": false,
+          "orderNumber": 25,
+          "correctContestants": [
+            "Sal"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Sal",
+              "score": 1000
+            },
+            {
+              "player": "Susan",
+              "score": 2600
+            },
+            {
+              "player": "George",
+              "score": 1300
+            }
+          ]
+        },
+        {
+          "category": "U.S. GOVERNMENT",
+          "value": 500,
+          "clue": "Term for number of members of a legislative body necessary to conduct official business",
+          "answer": "a quorum",
+          "isDailyDouble": false,
+          "orderNumber": 26,
+          "correctContestants": [
+            "Sal"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Sal",
+              "score": 1500
+            },
+            {
+              "player": "Susan",
+              "score": 2600
+            },
+            {
+              "player": "George",
+              "score": 1300
+            }
+          ]
+        },
+        {
+          "category": "GEOGRAPHY",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Sal",
+              "score": 1500
+            },
+            {
+              "player": "Susan",
+              "score": 2600
+            },
+            {
+              "player": "George",
+              "score": 1300
+            }
+          ]
+        },
+        {
+          "category": "GEOGRAPHY",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Sal",
+              "score": 1500
+            },
+            {
+              "player": "Susan",
+              "score": 2600
+            },
+            {
+              "player": "George",
+              "score": 1300
+            }
+          ]
+        },
+        {
+          "category": "GEOGRAPHY",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Sal",
+              "score": 1500
+            },
+            {
+              "player": "Susan",
+              "score": 2600
+            },
+            {
+              "player": "George",
+              "score": 1300
+            }
+          ]
+        },
+        {
+          "category": "GEOGRAPHY",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Sal",
+              "score": 1500
+            },
+            {
+              "player": "Susan",
+              "score": 2600
+            },
+            {
+              "player": "George",
+              "score": 1300
+            }
+          ]
+        }
+      ],
+      "firstBreakScores": [
+        {
+          "player": "Sal",
+          "score": 900
+        },
+        {
+          "player": "Susan",
+          "score": -100
+        },
+        {
+          "player": "George",
+          "score": 1300
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "Sal",
+          "score": 1500
+        },
+        {
+          "player": "Susan",
+          "score": 2600
+        },
+        {
+          "player": "George",
+          "score": 1300
+        }
+      ]
+    },
+    "doubleJeopardy": {
+      "categories": [
+        "SCIENCE",
+        "JOURNALISM",
+        "ROYALTY",
+        "CLASSIC CINEMA",
+        "STATE CAPITALS",
+        "DIAMONDS"
+      ],
+      "clues": [
+        {
+          "category": "SCIENCE",
+          "value": 200,
+          "clue": "These stargazers are also called \"astrophysicists\"",
+          "answer": "astronomers",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Sal",
+              "score": 1700
+            },
+            {
+              "player": "Susan",
+              "score": 2600
+            },
+            {
+              "player": "George",
+              "score": 1300
+            }
+          ]
+        },
+        {
+          "category": "JOURNALISM",
+          "value": 200,
+          "clue": "Because Janet Cooke's story about an 8-year-old addict was a hoax, the Washington Post gave this back",
+          "answer": "the Pulitzer Prize",
+          "isDailyDouble": false,
+          "orderNumber": 2,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Sal",
+              "score": 1900
+            },
+            {
+              "player": "Susan",
+              "score": 2600
+            },
+            {
+              "player": "George",
+              "score": 1300
+            }
+          ]
+        },
+        {
+          "category": "JOURNALISM",
+          "value": 400,
+          "clue": "National paper that's the Gannett chain's largest",
+          "answer": "USA Today",
+          "isDailyDouble": false,
+          "orderNumber": 3,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Sal",
+              "score": 1900
+            },
+            {
+              "player": "Susan",
+              "score": 2600
+            },
+            {
+              "player": "George",
+              "score": 900
+            }
+          ]
+        },
+        {
+          "category": "JOURNALISM",
+          "value": 600,
+          "clue": "Jack Anderson was this late columnist's assistant",
+          "answer": "Drew Pearson",
+          "isDailyDouble": false,
+          "orderNumber": 4,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Sal",
+              "score": 2500
+            },
+            {
+              "player": "Susan",
+              "score": 2600
+            },
+            {
+              "player": "George",
+              "score": 900
+            }
+          ]
+        },
+        {
+          "category": "JOURNALISM",
+          "value": 1200,
+          "clue": "One of two California newspapers published by the Hearst Corp.",
+          "answer": "the Los Angeles Herald-Examiner (or the San Francisco Examiner)",
+          "isDailyDouble": true,
+          "orderNumber": 5,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Sal",
+              "score": 3700
+            },
+            {
+              "player": "Susan",
+              "score": 2600
+            },
+            {
+              "player": "George",
+              "score": 900
+            }
+          ]
+        },
+        {
+          "category": "JOURNALISM",
+          "value": 1000,
+          "clue": "Originally sending out dispatches via homing pigeon, he founded Britain's major news agency",
+          "answer": "(Paul Julius) Reuter (Reuters accepted)",
+          "isDailyDouble": false,
+          "orderNumber": 6,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Sal",
+              "score": 4700
+            },
+            {
+              "player": "Susan",
+              "score": 2600
+            },
+            {
+              "player": "George",
+              "score": 900
+            }
+          ]
+        },
+        {
+          "category": "CLASSIC CINEMA",
+          "value": 200,
+          "clue": "1939 Steinbeck classic in which George tells Lenny about the rabbits",
+          "answer": "Of Mice and Men",
+          "isDailyDouble": false,
+          "orderNumber": 7,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Sal",
+              "score": 4900
+            },
+            {
+              "player": "Susan",
+              "score": 2600
+            },
+            {
+              "player": "George",
+              "score": 900
+            }
+          ]
+        },
+        {
+          "category": "CLASSIC CINEMA",
+          "value": 400,
+          "clue": "Before winning Best Actress for \"Mildred Pierce\", she was labeled box office poison",
+          "answer": "Joan Crawford",
+          "isDailyDouble": false,
+          "orderNumber": 8,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "George"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Sal",
+              "score": 4500
+            },
+            {
+              "player": "Susan",
+              "score": 3000
+            },
+            {
+              "player": "George",
+              "score": 500
+            }
+          ]
+        },
+        {
+          "category": "CLASSIC CINEMA",
+          "value": 600,
+          "clue": "First called \"Night Bus\", this '34 film drove away with Best Picture, acting, Director & Writing Oscars",
+          "answer": "It Happened One Night",
+          "isDailyDouble": false,
+          "orderNumber": 9,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Sal",
+              "score": 5100
+            },
+            {
+              "player": "Susan",
+              "score": 3000
+            },
+            {
+              "player": "George",
+              "score": 500
+            }
+          ]
+        },
+        {
+          "category": "CLASSIC CINEMA",
+          "value": 800,
+          "clue": "Later a TV star, this actor self-destructed as a barrack's spy in \"Stalag 17\"",
+          "answer": "Peter Graves",
+          "isDailyDouble": false,
+          "orderNumber": 10,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Sal",
+              "score": 5100
+            },
+            {
+              "player": "Susan",
+              "score": 3000
+            },
+            {
+              "player": "George",
+              "score": 500
+            }
+          ]
+        },
+        {
+          "category": "CLASSIC CINEMA",
+          "value": 1000,
+          "clue": "In '57, this English star cross-examined the \"Witness for the Prosecution\"",
+          "answer": "Charles Lawton",
+          "isDailyDouble": false,
+          "orderNumber": 11,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Sal",
+              "score": 5100
+            },
+            {
+              "player": "Susan",
+              "score": 3000
+            },
+            {
+              "player": "George",
+              "score": 500
+            }
+          ]
+        },
+        {
+          "category": "ROYALTY",
+          "value": 200,
+          "clue": "\"Merry old soul\" with \"fiddlers 3\"",
+          "answer": "Old King Cole",
+          "isDailyDouble": false,
+          "orderNumber": 12,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Sal",
+              "score": 5100
+            },
+            {
+              "player": "Susan",
+              "score": 3200
+            },
+            {
+              "player": "George",
+              "score": 500
+            }
+          ]
+        },
+        {
+          "category": "ROYALTY",
+          "value": 400,
+          "clue": "All Biblical kings of Judah descended from this king of Israel",
+          "answer": "David",
+          "isDailyDouble": false,
+          "orderNumber": 13,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Sal",
+              "score": 5100
+            },
+            {
+              "player": "Susan",
+              "score": 3200
+            },
+            {
+              "player": "George",
+              "score": 900
+            }
+          ]
+        },
+        {
+          "category": "ROYALTY",
+          "value": 600,
+          "clue": "Taking the crown from the Pope, he crowned himself emperor in 1804",
+          "answer": "Napoleon",
+          "isDailyDouble": false,
+          "orderNumber": 14,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Sal",
+              "score": 5700
+            },
+            {
+              "player": "Susan",
+              "score": 3200
+            },
+            {
+              "player": "George",
+              "score": 900
+            }
+          ]
+        },
+        {
+          "category": "STATE CAPITALS",
+          "value": 200,
+          "clue": "At nearly 7,000 feet, this capital of New Mexico is the highest",
+          "answer": "Santa Fe",
+          "isDailyDouble": false,
+          "orderNumber": 15,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Sal",
+              "score": 5700
+            },
+            {
+              "player": "Susan",
+              "score": 3400
+            },
+            {
+              "player": "George",
+              "score": 700
+            }
+          ]
+        },
+        {
+          "category": "STATE CAPITALS",
+          "value": 400,
+          "clue": "The capital with the smallest population is Montpelier in this state",
+          "answer": "Vermont",
+          "isDailyDouble": false,
+          "orderNumber": 16,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Sal",
+              "score": 5700
+            },
+            {
+              "player": "Susan",
+              "score": 3400
+            },
+            {
+              "player": "George",
+              "score": 1100
+            }
+          ]
+        },
+        {
+          "category": "SCIENCE",
+          "value": 400,
+          "clue": "Its chemical symbol is C",
+          "answer": "carbon",
+          "isDailyDouble": false,
+          "orderNumber": 17,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Sal",
+              "score": 5700
+            },
+            {
+              "player": "Susan",
+              "score": 3400
+            },
+            {
+              "player": "George",
+              "score": 1500
+            }
+          ]
+        },
+        {
+          "category": "SCIENCE",
+          "value": 600,
+          "clue": "According to Neil Young, this \"hydrated ferric oxide\" never sleeps",
+          "answer": "rust",
+          "isDailyDouble": false,
+          "orderNumber": 18,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Sal",
+              "score": 5700
+            },
+            {
+              "player": "Susan",
+              "score": 3400
+            },
+            {
+              "player": "George",
+              "score": 2100
+            }
+          ]
+        },
+        {
+          "category": "SCIENCE",
+          "value": 800,
+          "clue": "Both athlete's foot & truffles are types of this kind of plant",
+          "answer": "a fungus",
+          "isDailyDouble": false,
+          "orderNumber": 19,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Sal",
+              "score": 5700
+            },
+            {
+              "player": "Susan",
+              "score": 4200
+            },
+            {
+              "player": "George",
+              "score": 2100
+            }
+          ]
+        },
+        {
+          "category": "ROYALTY",
+          "value": 800,
+          "clue": "Both Morocco's Hassan & Jordan's Hussein claim direct descent from him",
+          "answer": "Muhammad",
+          "isDailyDouble": false,
+          "orderNumber": 20,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Sal",
+              "score": 5700
+            },
+            {
+              "player": "Susan",
+              "score": 5000
+            },
+            {
+              "player": "George",
+              "score": 2100
+            }
+          ]
+        },
+        {
+          "category": "ROYALTY",
+          "value": 1000,
+          "clue": "This family, which at times ruled Spain & the Holy Roman Empire, ruled Austria until 1918",
+          "answer": "the Hapsburgs",
+          "isDailyDouble": false,
+          "orderNumber": 21,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Sal",
+              "score": 5700
+            },
+            {
+              "player": "Susan",
+              "score": 6000
+            },
+            {
+              "player": "George",
+              "score": 2100
+            }
+          ]
+        },
+        {
+          "category": "STATE CAPITALS",
+          "value": 600,
+          "clue": "The southernmost of all state capitals",
+          "answer": "Honolulu",
+          "isDailyDouble": false,
+          "orderNumber": 22,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Susan"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Sal",
+              "score": 5100
+            },
+            {
+              "player": "Susan",
+              "score": 5400
+            },
+            {
+              "player": "George",
+              "score": 2100
+            }
+          ]
+        },
+        {
+          "category": "DIAMONDS",
+          "value": 200,
+          "clue": "200 milligrams, not a bunny's brunch",
+          "answer": "a carat",
+          "isDailyDouble": false,
+          "orderNumber": 23,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Sal",
+              "score": 5100
+            },
+            {
+              "player": "Susan",
+              "score": 5400
+            },
+            {
+              "player": "George",
+              "score": 2300
+            }
+          ]
+        },
+        {
+          "category": "DIAMONDS",
+          "value": 400,
+          "clue": "Actress known for statements like, \"I never hated a man enough to give him his diamonds back\"",
+          "answer": "Zsa Zsa Gabor",
+          "isDailyDouble": false,
+          "orderNumber": 24,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Sal",
+              "score": 5100
+            },
+            {
+              "player": "Susan",
+              "score": 5800
+            },
+            {
+              "player": "George",
+              "score": 1900
+            }
+          ]
+        },
+        {
+          "category": "DIAMONDS",
+          "value": 1800,
+          "clue": "In '73, this song really shone for Seals & Crofts:\"Oh, my love / You're like a precious stone / Part of earth where / Heaven has rained on\"",
+          "answer": "\"Diamond Girl\"",
+          "isDailyDouble": true,
+          "orderNumber": 25,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Sal",
+              "score": 5100
+            },
+            {
+              "player": "Susan",
+              "score": 7600
+            },
+            {
+              "player": "George",
+              "score": 1900
+            }
+          ]
+        },
+        {
+          "category": "STATE CAPITALS",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Sal",
+              "score": 5100
+            },
+            {
+              "player": "Susan",
+              "score": 7600
+            },
+            {
+              "player": "George",
+              "score": 1900
+            }
+          ]
+        },
+        {
+          "category": "DIAMONDS",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Sal",
+              "score": 5100
+            },
+            {
+              "player": "Susan",
+              "score": 7600
+            },
+            {
+              "player": "George",
+              "score": 1900
+            }
+          ]
+        },
+        {
+          "category": "SCIENCE",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Sal",
+              "score": 5100
+            },
+            {
+              "player": "Susan",
+              "score": 7600
+            },
+            {
+              "player": "George",
+              "score": 1900
+            }
+          ]
+        },
+        {
+          "category": "STATE CAPITALS",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Sal",
+              "score": 5100
+            },
+            {
+              "player": "Susan",
+              "score": 7600
+            },
+            {
+              "player": "George",
+              "score": 1900
+            }
+          ]
+        },
+        {
+          "category": "DIAMONDS",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Sal",
+              "score": 5100
+            },
+            {
+              "player": "Susan",
+              "score": 7600
+            },
+            {
+              "player": "George",
+              "score": 1900
+            }
+          ]
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "Sal",
+          "score": 5100
+        },
+        {
+          "player": "Susan",
+          "score": 7600
+        },
+        {
+          "player": "George",
+          "score": 1900
+        }
+      ]
+    },
+    "finalJeopardy": {
+      "category": "GAMES",
+      "clue": "In a standard deck of playing cards, the only suit that does not have a one-eyed face card",
+      "answer": "clubs",
+      "responses": [
+        {
+          "contestant": "George",
+          "response": "What is hearts",
+          "isCorrect": false,
+          "isIncorrect": true,
+          "value": 900,
+          "finalScore": 1000
+        },
+        {
+          "contestant": "Sal",
+          "response": "What is hearts?",
+          "isCorrect": false,
+          "isIncorrect": true,
+          "value": 5100,
+          "finalScore": 0
+        },
+        {
+          "contestant": "Susan",
+          "response": "What is hearts?",
+          "isCorrect": false,
+          "isIncorrect": true,
+          "value": 2700,
+          "finalScore": 4900
+        }
+      ]
+    }
+  },
+  "finalScores": [
+    {
+      "player": "Sal",
+      "score": "$0"
+    },
+    {
+      "player": "Susan",
+      "score": "$4,900"
+    },
+    {
+      "player": "George",
+      "score": "$1,000"
+    }
+  ],
+  "coryatScores": [
+    {
+      "player": "Sal",
+      "score": 4700
+    },
+    {
+      "player": "Susan",
+      "score": 6400
+    },
+    {
+      "player": "George",
+      "score": 1700
+    }
+  ]
+}

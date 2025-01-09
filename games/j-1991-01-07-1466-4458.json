@@ -1,0 +1,1713 @@
+{
+  "gameId": 4458,
+  "showNumber": "1466",
+  "title": "Show #1466 - Monday, January 7, 1991",
+  "date": "1991-01-07",
+  "comments": "",
+  "contestants": [
+    "Jerry",
+    "John",
+    "Lorraine"
+  ],
+  "rounds": {
+    "jeopardy": {
+      "categories": [
+        "1972",
+        "11-LETTER WORDS",
+        "INVENTIONS",
+        "COMPOSERS",
+        "TV TRIVIA",
+        "FISH"
+      ],
+      "clues": [
+        {
+          "category": "TV TRIVIA",
+          "value": 100,
+          "clue": "In the 1960s TV series \"Combat\", Vic Morrow & Rick Jason were fighting this war",
+          "answer": "World War II",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [
+            "Jerry"
+          ],
+          "incorrectContestants": [
+            "Lorraine"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jerry",
+              "score": 100
+            },
+            {
+              "player": "John",
+              "score": 0
+            },
+            {
+              "player": "Lorraine",
+              "score": -100
+            }
+          ]
+        },
+        {
+          "category": "TV TRIVIA",
+          "value": 200,
+          "clue": "Sitcom in which Suzanne Sugarbaker had a pet pig named Noel who ran away",
+          "answer": "Designing Women",
+          "isDailyDouble": false,
+          "orderNumber": 2,
+          "correctContestants": [
+            "Jerry"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jerry",
+              "score": 300
+            },
+            {
+              "player": "John",
+              "score": 0
+            },
+            {
+              "player": "Lorraine",
+              "score": -100
+            }
+          ]
+        },
+        {
+          "category": "TV TRIVIA",
+          "value": 300,
+          "clue": "A 1980 salary dispute led to her departure from \"Three's Company\"",
+          "answer": "Suzanne Somers",
+          "isDailyDouble": false,
+          "orderNumber": 3,
+          "correctContestants": [
+            "Lorraine"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jerry",
+              "score": 300
+            },
+            {
+              "player": "John",
+              "score": 0
+            },
+            {
+              "player": "Lorraine",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "TV TRIVIA",
+          "value": 400,
+          "clue": "Carolyn Jones played this macabre mom whose maiden name was Frump",
+          "answer": "Morticia Addams",
+          "isDailyDouble": false,
+          "orderNumber": 4,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "John",
+            "Lorraine"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Jerry",
+              "score": 300
+            },
+            {
+              "player": "John",
+              "score": -400
+            },
+            {
+              "player": "Lorraine",
+              "score": -200
+            }
+          ]
+        },
+        {
+          "category": "TV TRIVIA",
+          "value": 400,
+          "clue": "This actor co-wrote the following theme & was the star of the show that featured it:",
+          "answer": "Richard Boone (as \"Paladin\" in Have Gun – Will Travel)",
+          "isDailyDouble": true,
+          "orderNumber": 5,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Lorraine"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jerry",
+              "score": 300
+            },
+            {
+              "player": "John",
+              "score": -400
+            },
+            {
+              "player": "Lorraine",
+              "score": -600
+            }
+          ]
+        },
+        {
+          "category": "FISH",
+          "value": 100,
+          "clue": "A sea horse uses this long, prehensile body part to cling to seaweed",
+          "answer": "tail",
+          "isDailyDouble": false,
+          "orderNumber": 6,
+          "correctContestants": [
+            "Jerry"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jerry",
+              "score": 400
+            },
+            {
+              "player": "John",
+              "score": -400
+            },
+            {
+              "player": "Lorraine",
+              "score": -600
+            }
+          ]
+        },
+        {
+          "category": "FISH",
+          "value": 200,
+          "clue": "Catfish usually have 2 to 4 pairs of barbels, which are these",
+          "answer": "whiskers",
+          "isDailyDouble": false,
+          "orderNumber": 7,
+          "correctContestants": [
+            "Jerry"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jerry",
+              "score": 600
+            },
+            {
+              "player": "John",
+              "score": -400
+            },
+            {
+              "player": "Lorraine",
+              "score": -600
+            }
+          ]
+        },
+        {
+          "category": "FISH",
+          "value": 300,
+          "clue": "Many fish have an organ called a \"swim\" one of these which helps keep them buoyant",
+          "answer": "bladder",
+          "isDailyDouble": false,
+          "orderNumber": 8,
+          "correctContestants": [
+            "Jerry"
+          ],
+          "incorrectContestants": [
+            "Lorraine"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jerry",
+              "score": 900
+            },
+            {
+              "player": "John",
+              "score": -400
+            },
+            {
+              "player": "Lorraine",
+              "score": -900
+            }
+          ]
+        },
+        {
+          "category": "FISH",
+          "value": 400,
+          "clue": "Unlike most of these fish, the nurse species doesn't have to swim constantly & often lies motionless",
+          "answer": "shark",
+          "isDailyDouble": false,
+          "orderNumber": 9,
+          "correctContestants": [
+            "Jerry"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jerry",
+              "score": 1300
+            },
+            {
+              "player": "John",
+              "score": -400
+            },
+            {
+              "player": "Lorraine",
+              "score": -900
+            }
+          ]
+        },
+        {
+          "category": "FISH",
+          "value": 500,
+          "clue": "The skeleton of a ray is made of this substance, not bone",
+          "answer": "cartilage",
+          "isDailyDouble": false,
+          "orderNumber": 10,
+          "correctContestants": [
+            "Jerry"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jerry",
+              "score": 1800
+            },
+            {
+              "player": "John",
+              "score": -400
+            },
+            {
+              "player": "Lorraine",
+              "score": -900
+            }
+          ]
+        },
+        {
+          "category": "1972",
+          "value": 100,
+          "clue": "L. Patrick Gray announced that this bureau would begin to recruit women as special agents for the 1st time",
+          "answer": "the FBI",
+          "isDailyDouble": false,
+          "orderNumber": 11,
+          "correctContestants": [
+            "Jerry"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jerry",
+              "score": 1900
+            },
+            {
+              "player": "John",
+              "score": -400
+            },
+            {
+              "player": "Lorraine",
+              "score": -900
+            }
+          ]
+        },
+        {
+          "category": "1972",
+          "value": 200,
+          "clue": "This reclusive billionaire left his hdqrs. in the Bahamas & reportedly moved to Nicaragua",
+          "answer": "Howard Hughes",
+          "isDailyDouble": false,
+          "orderNumber": 12,
+          "correctContestants": [
+            "Jerry"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jerry",
+              "score": 2100
+            },
+            {
+              "player": "John",
+              "score": -400
+            },
+            {
+              "player": "Lorraine",
+              "score": -900
+            }
+          ]
+        },
+        {
+          "category": "1972",
+          "value": 300,
+          "clue": "He won the Michigan & Maryland Democratic primaries 1 day after he was shot",
+          "answer": "George Wallace",
+          "isDailyDouble": false,
+          "orderNumber": 13,
+          "correctContestants": [
+            "John"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jerry",
+              "score": 2100
+            },
+            {
+              "player": "John",
+              "score": -100
+            },
+            {
+              "player": "Lorraine",
+              "score": -900
+            }
+          ]
+        },
+        {
+          "category": "1972",
+          "value": 400,
+          "clue": "President Nixon named John Warner secretary of this branch of the armed forces",
+          "answer": "the Navy",
+          "isDailyDouble": false,
+          "orderNumber": 14,
+          "correctContestants": [
+            "John"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jerry",
+              "score": 2100
+            },
+            {
+              "player": "John",
+              "score": 300
+            },
+            {
+              "player": "Lorraine",
+              "score": -900
+            }
+          ]
+        },
+        {
+          "category": "1972",
+          "value": 500,
+          "clue": "This tennis star was a lieutenant in the Romanian army when he won the U.S. Open",
+          "answer": "Ilie Nastase",
+          "isDailyDouble": false,
+          "orderNumber": 15,
+          "correctContestants": [
+            "Jerry"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jerry",
+              "score": 2600
+            },
+            {
+              "player": "John",
+              "score": 300
+            },
+            {
+              "player": "Lorraine",
+              "score": -900
+            }
+          ]
+        },
+        {
+          "category": "INVENTIONS",
+          "value": 100,
+          "clue": "Among his lesser-known inventions are the mimeograph machine & wax paper",
+          "answer": "(Thomas) Edison",
+          "isDailyDouble": false,
+          "orderNumber": 16,
+          "correctContestants": [
+            "Jerry"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jerry",
+              "score": 2700
+            },
+            {
+              "player": "John",
+              "score": 300
+            },
+            {
+              "player": "Lorraine",
+              "score": -900
+            }
+          ]
+        },
+        {
+          "category": "INVENTIONS",
+          "value": 200,
+          "clue": "The first one, built by the Otis Elevator Co., was installed in Gimbel's Philadelphia store in 1901",
+          "answer": "escalator",
+          "isDailyDouble": false,
+          "orderNumber": 17,
+          "correctContestants": [
+            "John"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jerry",
+              "score": 2700
+            },
+            {
+              "player": "John",
+              "score": 500
+            },
+            {
+              "player": "Lorraine",
+              "score": -900
+            }
+          ]
+        },
+        {
+          "category": "INVENTIONS",
+          "value": 300,
+          "clue": "This 1853 invention by Charles Pravaz enables doctors to administer drugs more easily",
+          "answer": "(hypodermic) needle",
+          "isDailyDouble": false,
+          "orderNumber": 18,
+          "correctContestants": [
+            "John"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jerry",
+              "score": 2700
+            },
+            {
+              "player": "John",
+              "score": 800
+            },
+            {
+              "player": "Lorraine",
+              "score": -900
+            }
+          ]
+        },
+        {
+          "category": "INVENTIONS",
+          "value": 400,
+          "clue": "Joseph Aspdin, a bricklayer, invented the \"Portland\" variety of this substance",
+          "answer": "cement",
+          "isDailyDouble": false,
+          "orderNumber": 19,
+          "correctContestants": [
+            "Jerry"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jerry",
+              "score": 3100
+            },
+            {
+              "player": "John",
+              "score": 800
+            },
+            {
+              "player": "Lorraine",
+              "score": -900
+            }
+          ]
+        },
+        {
+          "category": "INVENTIONS",
+          "value": 500,
+          "clue": "While in prison for debt, he began experiments that led him to vulcanize rubber",
+          "answer": "Charles Goodyear",
+          "isDailyDouble": false,
+          "orderNumber": 20,
+          "correctContestants": [
+            "Jerry"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jerry",
+              "score": 3600
+            },
+            {
+              "player": "John",
+              "score": 800
+            },
+            {
+              "player": "Lorraine",
+              "score": -900
+            }
+          ]
+        },
+        {
+          "category": "COMPOSERS",
+          "value": 100,
+          "clue": "Gian Carlo Menotti wrote an opera called \"The Old Maid and the Thief\" for this medium in 1939",
+          "answer": "radio",
+          "isDailyDouble": false,
+          "orderNumber": 21,
+          "correctContestants": [
+            "Lorraine"
+          ],
+          "incorrectContestants": [
+            "Jerry"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jerry",
+              "score": 3500
+            },
+            {
+              "player": "John",
+              "score": 800
+            },
+            {
+              "player": "Lorraine",
+              "score": -800
+            }
+          ]
+        },
+        {
+          "category": "11-LETTER WORDS",
+          "value": 100,
+          "clue": "The yearly celebration of any event, commonly of a wedding",
+          "answer": "anniversary",
+          "isDailyDouble": false,
+          "orderNumber": 22,
+          "correctContestants": [
+            "Jerry"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jerry",
+              "score": 3600
+            },
+            {
+              "player": "John",
+              "score": 800
+            },
+            {
+              "player": "Lorraine",
+              "score": -800
+            }
+          ]
+        },
+        {
+          "category": "11-LETTER WORDS",
+          "value": 200,
+          "clue": "A magician's incantation or a 1982 No. 1 hit for the Steve Miller Band",
+          "answer": "\"Abracadabra\"",
+          "isDailyDouble": false,
+          "orderNumber": 23,
+          "correctContestants": [
+            "Lorraine"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jerry",
+              "score": 3600
+            },
+            {
+              "player": "John",
+              "score": 800
+            },
+            {
+              "player": "Lorraine",
+              "score": -600
+            }
+          ]
+        },
+        {
+          "category": "11-LETTER WORDS",
+          "value": 300,
+          "clue": "Before school starts, students may go thru this process to familiarize them with the institution",
+          "answer": "orientation",
+          "isDailyDouble": false,
+          "orderNumber": 24,
+          "correctContestants": [
+            "John"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jerry",
+              "score": 3600
+            },
+            {
+              "player": "John",
+              "score": 1100
+            },
+            {
+              "player": "Lorraine",
+              "score": -600
+            }
+          ]
+        },
+        {
+          "category": "11-LETTER WORDS",
+          "value": 400,
+          "clue": "Speaking, knowing & using only one language",
+          "answer": "monolingual",
+          "isDailyDouble": false,
+          "orderNumber": 25,
+          "correctContestants": [
+            "Lorraine"
+          ],
+          "incorrectContestants": [
+            "Jerry"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jerry",
+              "score": 3200
+            },
+            {
+              "player": "John",
+              "score": 1100
+            },
+            {
+              "player": "Lorraine",
+              "score": -200
+            }
+          ]
+        },
+        {
+          "category": "11-LETTER WORDS",
+          "value": 500,
+          "clue": "Type of force that moves a body toward an axis--the equal & opposite of centrifugal force",
+          "answer": "centripetal force",
+          "isDailyDouble": false,
+          "orderNumber": 26,
+          "correctContestants": [
+            "Jerry"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jerry",
+              "score": 3700
+            },
+            {
+              "player": "John",
+              "score": 1100
+            },
+            {
+              "player": "Lorraine",
+              "score": -200
+            }
+          ]
+        },
+        {
+          "category": "COMPOSERS",
+          "value": 200,
+          "clue": "After Italian operas became unpopular in England, Handel began to write these, such as \"Messiah\"",
+          "answer": "oratorios",
+          "isDailyDouble": false,
+          "orderNumber": 27,
+          "correctContestants": [
+            "John"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jerry",
+              "score": 3700
+            },
+            {
+              "player": "John",
+              "score": 1300
+            },
+            {
+              "player": "Lorraine",
+              "score": -200
+            }
+          ]
+        },
+        {
+          "category": "COMPOSERS",
+          "value": 300,
+          "clue": "Richard Strauss conducted his own \"Olympische Hymne\" at the opening of the Olympic Games in this city in 1936",
+          "answer": "Berlin",
+          "isDailyDouble": false,
+          "orderNumber": 28,
+          "correctContestants": [
+            "Jerry"
+          ],
+          "incorrectContestants": [
+            "Lorraine"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jerry",
+              "score": 4000
+            },
+            {
+              "player": "John",
+              "score": 1300
+            },
+            {
+              "player": "Lorraine",
+              "score": -500
+            }
+          ]
+        },
+        {
+          "category": "COMPOSERS",
+          "value": 400,
+          "clue": "The first of his own compositions he took to #1 on the pop charts was \"Superstition\" in 1973",
+          "answer": "Stevie Wonder",
+          "isDailyDouble": false,
+          "orderNumber": 29,
+          "correctContestants": [
+            "Jerry"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jerry",
+              "score": 4400
+            },
+            {
+              "player": "John",
+              "score": 1300
+            },
+            {
+              "player": "Lorraine",
+              "score": -500
+            }
+          ]
+        },
+        {
+          "category": "COMPOSERS",
+          "value": 500,
+          "clue": "Born in 1879 in Prague, this famous Rudolf was a published composer by the age of 10",
+          "answer": "Rudolf Friml",
+          "isDailyDouble": false,
+          "orderNumber": 30,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Jerry",
+              "score": 4400
+            },
+            {
+              "player": "John",
+              "score": 1300
+            },
+            {
+              "player": "Lorraine",
+              "score": -500
+            }
+          ]
+        }
+      ],
+      "firstBreakScores": [
+        {
+          "player": "Jerry",
+          "score": 2100
+        },
+        {
+          "player": "John",
+          "score": -100
+        },
+        {
+          "player": "Lorraine",
+          "score": -900
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "Jerry",
+          "score": 4400
+        },
+        {
+          "player": "John",
+          "score": 1300
+        },
+        {
+          "player": "Lorraine",
+          "score": -500
+        }
+      ]
+    },
+    "doubleJeopardy": {
+      "categories": [
+        "CONTEMPORARY BOOKS",
+        "SCULPTURE",
+        "COLLEGES & UNIVERSITIES",
+        "INDIA",
+        "GEOLOGY",
+        "SOUP DU JOUR"
+      ],
+      "clues": [
+        {
+          "category": "SOUP DU JOUR",
+          "value": 200,
+          "clue": "An Italian word for \"medley\", this soup contains a medley of vegetables",
+          "answer": "minestrone",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jerry",
+              "score": 4400
+            },
+            {
+              "player": "John",
+              "score": 1500
+            },
+            {
+              "player": "Lorraine",
+              "score": -500
+            }
+          ]
+        },
+        {
+          "category": "SOUP DU JOUR",
+          "value": 400,
+          "clue": "Variety of clam chowder that's made with milk rather than tomatoes",
+          "answer": "New England clam chowder",
+          "isDailyDouble": false,
+          "orderNumber": 2,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jerry",
+              "score": 4400
+            },
+            {
+              "player": "John",
+              "score": 1900
+            },
+            {
+              "player": "Lorraine",
+              "score": -500
+            }
+          ]
+        },
+        {
+          "category": "SOUP DU JOUR",
+          "value": 600,
+          "clue": "Potage St. Germain is a fancy name for this type of vegetable soup",
+          "answer": "pea soup",
+          "isDailyDouble": false,
+          "orderNumber": 3,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "John",
+            "Lorraine"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Jerry",
+              "score": 3800
+            },
+            {
+              "player": "John",
+              "score": 1300
+            },
+            {
+              "player": "Lorraine",
+              "score": -1100
+            }
+          ]
+        },
+        {
+          "category": "SOUP DU JOUR",
+          "value": 800,
+          "clue": "Traditional Scottish soup named for its two main ingredients, chicken & leeks",
+          "answer": "cock-a-leekie",
+          "isDailyDouble": false,
+          "orderNumber": 4,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Jerry",
+              "score": 3800
+            },
+            {
+              "player": "John",
+              "score": 1300
+            },
+            {
+              "player": "Lorraine",
+              "score": -1100
+            }
+          ]
+        },
+        {
+          "category": "INDIA",
+          "value": 200,
+          "clue": "The Bhagirathi & Alaknada rivers join to form this sacred river",
+          "answer": "the Ganges",
+          "isDailyDouble": false,
+          "orderNumber": 5,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jerry",
+              "score": 3800
+            },
+            {
+              "player": "John",
+              "score": 1500
+            },
+            {
+              "player": "Lorraine",
+              "score": -1100
+            }
+          ]
+        },
+        {
+          "category": "INDIA",
+          "value": 400,
+          "clue": "Teen Murti House, this first prime minister's Delhi home, is now a museum",
+          "answer": "Nehru",
+          "isDailyDouble": false,
+          "orderNumber": 6,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jerry",
+              "score": 3400
+            },
+            {
+              "player": "John",
+              "score": 1500
+            },
+            {
+              "player": "Lorraine",
+              "score": -700
+            }
+          ]
+        },
+        {
+          "category": "INDIA",
+          "value": 600,
+          "clue": "This city, India's chief port, is the center of the country's motion picture industry",
+          "answer": "Bombay (Mumbai)",
+          "isDailyDouble": false,
+          "orderNumber": 7,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jerry",
+              "score": 3400
+            },
+            {
+              "player": "John",
+              "score": 2100
+            },
+            {
+              "player": "Lorraine",
+              "score": -700
+            }
+          ]
+        },
+        {
+          "category": "INDIA",
+          "value": 800,
+          "clue": "When India & Pakistan were separated, this region had a Muslim majority & a Hindu maharajah",
+          "answer": "Kashmir",
+          "isDailyDouble": false,
+          "orderNumber": 8,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Jerry",
+              "score": 3400
+            },
+            {
+              "player": "John",
+              "score": 2100
+            },
+            {
+              "player": "Lorraine",
+              "score": -700
+            }
+          ]
+        },
+        {
+          "category": "COLLEGES & UNIVERSITIES",
+          "value": 200,
+          "clue": "Congress chartered this city's American Univ. in 1893, but instruction didn't begin until 1914",
+          "answer": "Washington, D.C.",
+          "isDailyDouble": false,
+          "orderNumber": 9,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jerry",
+              "score": 3600
+            },
+            {
+              "player": "John",
+              "score": 2100
+            },
+            {
+              "player": "Lorraine",
+              "score": -700
+            }
+          ]
+        },
+        {
+          "category": "COLLEGES & UNIVERSITIES",
+          "value": 400,
+          "clue": "Located in Philadelphia, it was the first U.S. institution officially designated a university",
+          "answer": "the University of Pennsylvania",
+          "isDailyDouble": false,
+          "orderNumber": 10,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Jerry",
+              "score": 3600
+            },
+            {
+              "player": "John",
+              "score": 1700
+            },
+            {
+              "player": "Lorraine",
+              "score": -700
+            }
+          ]
+        },
+        {
+          "category": "COLLEGES & UNIVERSITIES",
+          "value": 600,
+          "clue": "As you might expect, Old Dominion University is in this state",
+          "answer": "Virginia",
+          "isDailyDouble": false,
+          "orderNumber": 11,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jerry",
+              "score": 4200
+            },
+            {
+              "player": "John",
+              "score": 1700
+            },
+            {
+              "player": "Lorraine",
+              "score": -700
+            }
+          ]
+        },
+        {
+          "category": "COLLEGES & UNIVERSITIES",
+          "value": 800,
+          "clue": "Chartered in 1764, Brown University is in this state capital",
+          "answer": "Providence, Rhode Island",
+          "isDailyDouble": false,
+          "orderNumber": 12,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jerry",
+              "score": 4200
+            },
+            {
+              "player": "John",
+              "score": 2500
+            },
+            {
+              "player": "Lorraine",
+              "score": -700
+            }
+          ]
+        },
+        {
+          "category": "COLLEGES & UNIVERSITIES",
+          "value": 1000,
+          "clue": "Emily Dickinson's grandfather was one of the founders of this college",
+          "answer": "Amherst",
+          "isDailyDouble": false,
+          "orderNumber": 13,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Jerry",
+              "score": 4200
+            },
+            {
+              "player": "John",
+              "score": 1500
+            },
+            {
+              "player": "Lorraine",
+              "score": -700
+            }
+          ]
+        },
+        {
+          "category": "SCULPTURE",
+          "value": 200,
+          "clue": "On May 29, 1990, when he would have turned 73, a statue of this pres. was placed outside the state house in Boston",
+          "answer": "(John F.) Kennedy",
+          "isDailyDouble": false,
+          "orderNumber": 14,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jerry",
+              "score": 4200
+            },
+            {
+              "player": "John",
+              "score": 1700
+            },
+            {
+              "player": "Lorraine",
+              "score": -700
+            }
+          ]
+        },
+        {
+          "category": "SCULPTURE",
+          "value": 400,
+          "clue": "There's a statue of this character in Kensington Gardens, London, near the home of James Barrie",
+          "answer": "Peter Pan",
+          "isDailyDouble": false,
+          "orderNumber": 15,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jerry",
+              "score": 4600
+            },
+            {
+              "player": "John",
+              "score": 1700
+            },
+            {
+              "player": "Lorraine",
+              "score": -700
+            }
+          ]
+        },
+        {
+          "category": "INDIA",
+          "value": 1000,
+          "clue": "The separate state of Punjab was created in 1966 for members of this religious group",
+          "answer": "Sikhs",
+          "isDailyDouble": false,
+          "orderNumber": 16,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jerry",
+              "score": 5600
+            },
+            {
+              "player": "John",
+              "score": 1700
+            },
+            {
+              "player": "Lorraine",
+              "score": -700
+            }
+          ]
+        },
+        {
+          "category": "GEOLOGY",
+          "value": 200,
+          "clue": "The one near the Mariana Islands is the deepest of these long, narrow submarine depressions",
+          "answer": "trenches",
+          "isDailyDouble": false,
+          "orderNumber": 17,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jerry",
+              "score": 5600
+            },
+            {
+              "player": "John",
+              "score": 1700
+            },
+            {
+              "player": "Lorraine",
+              "score": -500
+            }
+          ]
+        },
+        {
+          "category": "GEOLOGY",
+          "value": 400,
+          "clue": "These are formed from glaciers by a process called calving",
+          "answer": "icebergs",
+          "isDailyDouble": false,
+          "orderNumber": 18,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jerry",
+              "score": 6000
+            },
+            {
+              "player": "John",
+              "score": 1700
+            },
+            {
+              "player": "Lorraine",
+              "score": -500
+            }
+          ]
+        },
+        {
+          "category": "GEOLOGY",
+          "value": 600,
+          "clue": "A large, diversified corporation, or a rock with pebbles & gravel embedded in it",
+          "answer": "a conglomerate",
+          "isDailyDouble": false,
+          "orderNumber": 19,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Lorraine"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Jerry",
+              "score": 6000
+            },
+            {
+              "player": "John",
+              "score": 1100
+            },
+            {
+              "player": "Lorraine",
+              "score": -1100
+            }
+          ]
+        },
+        {
+          "category": "GEOLOGY",
+          "value": 800,
+          "clue": "Any naturally occurring material from which a valuable mineral can be extracted",
+          "answer": "ore",
+          "isDailyDouble": false,
+          "orderNumber": 20,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jerry",
+              "score": 6000
+            },
+            {
+              "player": "John",
+              "score": 1900
+            },
+            {
+              "player": "Lorraine",
+              "score": -1100
+            }
+          ]
+        },
+        {
+          "category": "GEOLOGY",
+          "value": 1000,
+          "clue": "The Cenozoic era is called \"the Age of\" this class of animals, since they became prominent then",
+          "answer": "mammals",
+          "isDailyDouble": false,
+          "orderNumber": 21,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jerry",
+              "score": 7000
+            },
+            {
+              "player": "John",
+              "score": 1900
+            },
+            {
+              "player": "Lorraine",
+              "score": -1100
+            }
+          ]
+        },
+        {
+          "category": "SCULPTURE",
+          "value": 2500,
+          "clue": "His piece \"Bronco Buster\" is considered the most famous of American Western art bronzes",
+          "answer": "(Frederic) Remington",
+          "isDailyDouble": true,
+          "orderNumber": 22,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jerry",
+              "score": 9500
+            },
+            {
+              "player": "John",
+              "score": 1900
+            },
+            {
+              "player": "Lorraine",
+              "score": -1100
+            }
+          ]
+        },
+        {
+          "category": "SCULPTURE",
+          "value": 800,
+          "clue": "In the 1880s this French artist turned from painting ballerinas to casting them in bronze",
+          "answer": "Degas",
+          "isDailyDouble": false,
+          "orderNumber": 23,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jerry",
+              "score": 10300
+            },
+            {
+              "player": "John",
+              "score": 1900
+            },
+            {
+              "player": "Lorraine",
+              "score": -1100
+            }
+          ]
+        },
+        {
+          "category": "SCULPTURE",
+          "value": 1000,
+          "clue": "Sculptures by Rodin & Brancusi of a couple embracing are both named this",
+          "answer": "The Kiss",
+          "isDailyDouble": false,
+          "orderNumber": 24,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jerry",
+              "score": 10300
+            },
+            {
+              "player": "John",
+              "score": 2900
+            },
+            {
+              "player": "Lorraine",
+              "score": -1100
+            }
+          ]
+        },
+        {
+          "category": "SOUP DU JOUR",
+          "value": 1000,
+          "clue": "Spanish for \"meatballs\", it's a spicy meatball soup",
+          "answer": "albondigas",
+          "isDailyDouble": false,
+          "orderNumber": 25,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jerry",
+              "score": 10300
+            },
+            {
+              "player": "John",
+              "score": 2900
+            },
+            {
+              "player": "Lorraine",
+              "score": -100
+            }
+          ]
+        },
+        {
+          "category": "CONTEMPORARY BOOKS",
+          "value": 200,
+          "clue": "Chapter 1 of Harold T.P. Hayes' book about this primatologist is titled \"A Murder in Rwanda\"",
+          "answer": "Dian Fossey",
+          "isDailyDouble": false,
+          "orderNumber": 26,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jerry",
+              "score": 10500
+            },
+            {
+              "player": "John",
+              "score": 2900
+            },
+            {
+              "player": "Lorraine",
+              "score": -100
+            }
+          ]
+        },
+        {
+          "category": "CONTEMPORARY BOOKS",
+          "value": 4000,
+          "clue": "Princess Marguerite Alexandrovna Valensky is the title character of this J. Krantz novel",
+          "answer": "Princess Daisy",
+          "isDailyDouble": true,
+          "orderNumber": 27,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jerry",
+              "score": 14500
+            },
+            {
+              "player": "John",
+              "score": 2900
+            },
+            {
+              "player": "Lorraine",
+              "score": -100
+            }
+          ]
+        },
+        {
+          "category": "CONTEMPORARY BOOKS",
+          "value": 600,
+          "clue": "This best-selling author of \"The Prize Pulitzer\" set her novel \"Twins\" in Palm Beach",
+          "answer": "Roxanne Pulitzer",
+          "isDailyDouble": false,
+          "orderNumber": 28,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jerry",
+              "score": 14500
+            },
+            {
+              "player": "John",
+              "score": 2900
+            },
+            {
+              "player": "Lorraine",
+              "score": 500
+            }
+          ]
+        },
+        {
+          "category": "CONTEMPORARY BOOKS",
+          "value": 800,
+          "clue": "This novelist who wrote \"The Cardinal Virtues\" & \"The Cardinal Sins\" is also a priest",
+          "answer": "(Andrew) Greeley",
+          "isDailyDouble": false,
+          "orderNumber": 29,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jerry",
+              "score": 14500
+            },
+            {
+              "player": "John",
+              "score": 2900
+            },
+            {
+              "player": "Lorraine",
+              "score": 1300
+            }
+          ]
+        },
+        {
+          "category": "CONTEMPORARY BOOKS",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jerry",
+              "score": 14500
+            },
+            {
+              "player": "John",
+              "score": 2900
+            },
+            {
+              "player": "Lorraine",
+              "score": 1300
+            }
+          ]
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "Jerry",
+          "score": 14500
+        },
+        {
+          "player": "John",
+          "score": 2900
+        },
+        {
+          "player": "Lorraine",
+          "score": 1300
+        }
+      ]
+    },
+    "finalJeopardy": {
+      "category": "ISLANDS",
+      "clue": "3 of the world's 10 largest islands are in the Arctic Ocean & belong to this country",
+      "answer": "Canada",
+      "responses": [
+        {
+          "contestant": "Lorraine",
+          "response": "What is Russia?",
+          "isCorrect": false,
+          "isIncorrect": true,
+          "value": 350,
+          "finalScore": 950
+        },
+        {
+          "contestant": "John",
+          "response": "What is Canada?",
+          "isCorrect": true,
+          "isIncorrect": false,
+          "value": 2800,
+          "finalScore": 5700
+        },
+        {
+          "contestant": "Jerry",
+          "response": "What is Denmark?",
+          "isCorrect": false,
+          "isIncorrect": true,
+          "value": 8000,
+          "finalScore": 6500
+        }
+      ]
+    }
+  },
+  "finalScores": [
+    {
+      "player": "Jerry",
+      "score": "$6,500"
+    },
+    {
+      "player": "John",
+      "score": "$5,700"
+    },
+    {
+      "player": "Lorraine",
+      "score": "$950"
+    }
+  ],
+  "coryatScores": [
+    {
+      "player": "Jerry",
+      "score": 9000
+    },
+    {
+      "player": "John",
+      "score": 2900
+    },
+    {
+      "player": "Lorraine",
+      "score": 1700
+    }
+  ]
+}

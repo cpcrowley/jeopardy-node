@@ -1,0 +1,1710 @@
+{
+  "gameId": 8077,
+  "showNumber": "2667",
+  "title": "Show #2667 - Tuesday, March 19, 1996",
+  "date": "1996-03-19",
+  "comments": "",
+  "contestants": [
+    "Elliot",
+    "Betsy",
+    "Don"
+  ],
+  "rounds": {
+    "jeopardy": {
+      "categories": [
+        "THE 1930s",
+        "THE MOVIES",
+        "INVENTORS",
+        "NEW YORK CITY",
+        "GARNISHES",
+        "\"Y\"s GUYS"
+      ],
+      "clues": [
+        {
+          "category": "INVENTORS",
+          "value": 100,
+          "clue": "Inventor Christiaan Huygens described the pendulum type of this device in 1658's \"Horologium\"",
+          "answer": "a clock",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [
+            "Elliot"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Elliot",
+              "score": 100
+            },
+            {
+              "player": "Betsy",
+              "score": 0
+            },
+            {
+              "player": "Don",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "INVENTORS",
+          "value": 200,
+          "clue": "This steamboat pioneer studied painting in London under Benjamin West",
+          "answer": "(Robert) Fulton",
+          "isDailyDouble": false,
+          "orderNumber": 2,
+          "correctContestants": [
+            "Elliot"
+          ],
+          "incorrectContestants": [
+            "Betsy",
+            "Don"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Elliot",
+              "score": 300
+            },
+            {
+              "player": "Betsy",
+              "score": -200
+            },
+            {
+              "player": "Don",
+              "score": -200
+            }
+          ]
+        },
+        {
+          "category": "INVENTORS",
+          "value": 300,
+          "clue": "Joseph Boyce received a patent on one of these devices decades before Cyrus McCormick",
+          "answer": "A reaper",
+          "isDailyDouble": false,
+          "orderNumber": 3,
+          "correctContestants": [
+            "Don"
+          ],
+          "incorrectContestants": [
+            "Elliot"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Elliot",
+              "score": 0
+            },
+            {
+              "player": "Betsy",
+              "score": -200
+            },
+            {
+              "player": "Don",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "category": "INVENTORS",
+          "value": 400,
+          "clue": "Working for Du Pont, W.H. Carothers invented this, the first successful truly synthetic fiber",
+          "answer": "nylon",
+          "isDailyDouble": false,
+          "orderNumber": 4,
+          "correctContestants": [
+            "Don"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Elliot",
+              "score": 0
+            },
+            {
+              "player": "Betsy",
+              "score": -200
+            },
+            {
+              "player": "Don",
+              "score": 500
+            }
+          ]
+        },
+        {
+          "category": "INVENTORS",
+          "value": 500,
+          "clue": "Vannevar Bush invented the differential analyzer, a predecessor of the analog type of this device",
+          "answer": "a computer",
+          "isDailyDouble": false,
+          "orderNumber": 5,
+          "correctContestants": [
+            "Don"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Elliot",
+              "score": 0
+            },
+            {
+              "player": "Betsy",
+              "score": -200
+            },
+            {
+              "player": "Don",
+              "score": 1000
+            }
+          ]
+        },
+        {
+          "category": "THE 1930s",
+          "value": 100,
+          "clue": "In 1936 this Spanish general was exiled to the Canary Islands by the Popular Front government",
+          "answer": "Franco",
+          "isDailyDouble": false,
+          "orderNumber": 6,
+          "correctContestants": [
+            "Elliot"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Elliot",
+              "score": 100
+            },
+            {
+              "player": "Betsy",
+              "score": -200
+            },
+            {
+              "player": "Don",
+              "score": 1000
+            }
+          ]
+        },
+        {
+          "category": "THE 1930s",
+          "value": 200,
+          "clue": "This Communist leader divorced Ho Tzu-Chen in 1937 & married Chiang Ch'ing in 1939",
+          "answer": "Mao",
+          "isDailyDouble": false,
+          "orderNumber": 7,
+          "correctContestants": [
+            "Elliot"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Elliot",
+              "score": 300
+            },
+            {
+              "player": "Betsy",
+              "score": -200
+            },
+            {
+              "player": "Don",
+              "score": 1000
+            }
+          ]
+        },
+        {
+          "category": "THE 1930s",
+          "value": 300,
+          "clue": "In 1934 this \"Public Enemy Number One\" fought his way out of a police trap in Wisconsin",
+          "answer": "(John) Dillinger",
+          "isDailyDouble": false,
+          "orderNumber": 8,
+          "correctContestants": [
+            "Betsy"
+          ],
+          "incorrectContestants": [
+            "Don"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Elliot",
+              "score": 300
+            },
+            {
+              "player": "Betsy",
+              "score": 100
+            },
+            {
+              "player": "Don",
+              "score": 700
+            }
+          ]
+        },
+        {
+          "category": "THE 1930s",
+          "value": 400,
+          "clue": "In 1932 the Winter Olympic Games were held in this New York town",
+          "answer": "Lake Placid",
+          "isDailyDouble": false,
+          "orderNumber": 9,
+          "correctContestants": [
+            "Don"
+          ],
+          "incorrectContestants": [
+            "Betsy"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Elliot",
+              "score": 300
+            },
+            {
+              "player": "Betsy",
+              "score": -300
+            },
+            {
+              "player": "Don",
+              "score": 1100
+            }
+          ]
+        },
+        {
+          "category": "NEW YORK CITY",
+          "value": 100,
+          "clue": "A TV transmission tower added to this building in 1951 made it 1,472 feet tall",
+          "answer": "the Empire State Building",
+          "isDailyDouble": false,
+          "orderNumber": 10,
+          "correctContestants": [
+            "Don"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Elliot",
+              "score": 300
+            },
+            {
+              "player": "Betsy",
+              "score": -300
+            },
+            {
+              "player": "Don",
+              "score": 1200
+            }
+          ]
+        },
+        {
+          "category": "NEW YORK CITY",
+          "value": 200,
+          "clue": "This railroad terminal on 42nd Street was built between 1903 & 1913",
+          "answer": "Grand Central Station",
+          "isDailyDouble": false,
+          "orderNumber": 11,
+          "correctContestants": [
+            "Elliot"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Elliot",
+              "score": 500
+            },
+            {
+              "player": "Betsy",
+              "score": -300
+            },
+            {
+              "player": "Don",
+              "score": 1200
+            }
+          ]
+        },
+        {
+          "category": "NEW YORK CITY",
+          "value": 300,
+          "clue": "This legendary Harlem theatre was reopened in 1986 after extensive restoration",
+          "answer": "the Apollo",
+          "isDailyDouble": false,
+          "orderNumber": 12,
+          "correctContestants": [
+            "Elliot"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Elliot",
+              "score": 800
+            },
+            {
+              "player": "Betsy",
+              "score": -300
+            },
+            {
+              "player": "Don",
+              "score": 1200
+            }
+          ]
+        },
+        {
+          "category": "NEW YORK CITY",
+          "value": 400,
+          "clue": "In this \"District\" of the city, 7th Avenue is also known as Fashion Avenue",
+          "answer": "the Garment District",
+          "isDailyDouble": false,
+          "orderNumber": 13,
+          "correctContestants": [
+            "Elliot"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Elliot",
+              "score": 1200
+            },
+            {
+              "player": "Betsy",
+              "score": -300
+            },
+            {
+              "player": "Don",
+              "score": 1200
+            }
+          ]
+        },
+        {
+          "category": "NEW YORK CITY",
+          "value": 200,
+          "clue": "This hotel, a meeting place of Dorothy Parker & Robert Benchley, is located at 59 W. 44th Street",
+          "answer": "the Algonquin",
+          "isDailyDouble": true,
+          "orderNumber": 14,
+          "correctContestants": [
+            "Elliot"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Elliot",
+              "score": 1400
+            },
+            {
+              "player": "Betsy",
+              "score": -300
+            },
+            {
+              "player": "Don",
+              "score": 1200
+            }
+          ]
+        },
+        {
+          "category": "THE 1930s",
+          "value": 500,
+          "clue": "This poet began writing \"Four Quartets\", his most important later work, in 1935",
+          "answer": "T.S. Eliot",
+          "isDailyDouble": false,
+          "orderNumber": 15,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Betsy"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Elliot",
+              "score": 1400
+            },
+            {
+              "player": "Betsy",
+              "score": -800
+            },
+            {
+              "player": "Don",
+              "score": 1200
+            }
+          ]
+        },
+        {
+          "category": "THE MOVIES",
+          "value": 100,
+          "clue": "Before directing & acting in \"Citizen Kane\", he provided narration for 1940's \"Swiss Family Robinson\"",
+          "answer": "Orson Welles",
+          "isDailyDouble": false,
+          "orderNumber": 16,
+          "correctContestants": [
+            "Elliot"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Elliot",
+              "score": 1500
+            },
+            {
+              "player": "Betsy",
+              "score": -800
+            },
+            {
+              "player": "Don",
+              "score": 1200
+            }
+          ]
+        },
+        {
+          "category": "THE MOVIES",
+          "value": 200,
+          "clue": "This singer played singer Breathless Mahoney in \"Dick Tracy\"",
+          "answer": "Madonna",
+          "isDailyDouble": false,
+          "orderNumber": 17,
+          "correctContestants": [
+            "Elliot"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Elliot",
+              "score": 1700
+            },
+            {
+              "player": "Betsy",
+              "score": -800
+            },
+            {
+              "player": "Don",
+              "score": 1200
+            }
+          ]
+        },
+        {
+          "category": "THE MOVIES",
+          "value": 300,
+          "clue": "A wookie named Chewbacca is the sidekick of this \"Star Wars\" character",
+          "answer": "Han Solo",
+          "isDailyDouble": false,
+          "orderNumber": 18,
+          "correctContestants": [
+            "Elliot"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Elliot",
+              "score": 2000
+            },
+            {
+              "player": "Betsy",
+              "score": -800
+            },
+            {
+              "player": "Don",
+              "score": 1200
+            }
+          ]
+        },
+        {
+          "category": "THE MOVIES",
+          "value": 400,
+          "clue": "Film in which Gene Kelly & Leslie Caron found their \"Love is here to stay. Not for a year, but ever and a day\"",
+          "answer": "An American in Paris",
+          "isDailyDouble": false,
+          "orderNumber": 19,
+          "correctContestants": [
+            "Don"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Elliot",
+              "score": 2000
+            },
+            {
+              "player": "Betsy",
+              "score": -800
+            },
+            {
+              "player": "Don",
+              "score": 1600
+            }
+          ]
+        },
+        {
+          "category": "\"Y\"s GUYS",
+          "value": 100,
+          "clue": "In 1992 this Russian leader addressed a joint session of our Congress",
+          "answer": "Yeltsin",
+          "isDailyDouble": false,
+          "orderNumber": 20,
+          "correctContestants": [
+            "Don"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Elliot",
+              "score": 2000
+            },
+            {
+              "player": "Betsy",
+              "score": -800
+            },
+            {
+              "player": "Don",
+              "score": 1700
+            }
+          ]
+        },
+        {
+          "category": "\"Y\"s GUYS",
+          "value": 200,
+          "clue": "Following his donation to the Collegiate School in New Haven in 1718, the school was renamed for him",
+          "answer": "Yale",
+          "isDailyDouble": false,
+          "orderNumber": 21,
+          "correctContestants": [
+            "Elliot"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Elliot",
+              "score": 2200
+            },
+            {
+              "player": "Betsy",
+              "score": -800
+            },
+            {
+              "player": "Don",
+              "score": 1700
+            }
+          ]
+        },
+        {
+          "category": "\"Y\"s GUYS",
+          "value": 300,
+          "clue": "This Irish poet & playwright helped found what's now known as the Abbey Theatre",
+          "answer": "Yeats",
+          "isDailyDouble": false,
+          "orderNumber": 22,
+          "correctContestants": [
+            "Don"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Elliot",
+              "score": 2200
+            },
+            {
+              "player": "Betsy",
+              "score": -800
+            },
+            {
+              "player": "Don",
+              "score": 2000
+            }
+          ]
+        },
+        {
+          "category": "\"Y\"s GUYS",
+          "value": 400,
+          "clue": "During WWI this soldier of the 328th Infantry, 82nd Division captured a German machine-gun battalion",
+          "answer": "(Alvin) York",
+          "isDailyDouble": false,
+          "orderNumber": 23,
+          "correctContestants": [
+            "Elliot"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Elliot",
+              "score": 2600
+            },
+            {
+              "player": "Betsy",
+              "score": -800
+            },
+            {
+              "player": "Don",
+              "score": 2000
+            }
+          ]
+        },
+        {
+          "category": "\"Y\"s GUYS",
+          "value": 500,
+          "clue": "In 1947 he flew faster than the speed at which my words are reaching the people in this studio",
+          "answer": "(Chuck) Yeager",
+          "isDailyDouble": false,
+          "orderNumber": 24,
+          "correctContestants": [
+            "Don"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Elliot",
+              "score": 2600
+            },
+            {
+              "player": "Betsy",
+              "score": -800
+            },
+            {
+              "player": "Don",
+              "score": 2500
+            }
+          ]
+        },
+        {
+          "category": "GARNISHES",
+          "value": 100,
+          "clue": "These cubes of fried or toasted bread sit atop soups & salads",
+          "answer": "croutons",
+          "isDailyDouble": false,
+          "orderNumber": 25,
+          "correctContestants": [
+            "Don"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Elliot",
+              "score": 2600
+            },
+            {
+              "player": "Betsy",
+              "score": -800
+            },
+            {
+              "player": "Don",
+              "score": 2600
+            }
+          ]
+        },
+        {
+          "category": "GARNISHES",
+          "value": 200,
+          "clue": "French chefs garnish some dishes with cocks' kidneys & these items found atop roosters' heads",
+          "answer": "combs",
+          "isDailyDouble": false,
+          "orderNumber": 26,
+          "correctContestants": [
+            "Betsy"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Elliot",
+              "score": 2600
+            },
+            {
+              "player": "Betsy",
+              "score": -600
+            },
+            {
+              "player": "Don",
+              "score": 2600
+            }
+          ]
+        },
+        {
+          "category": "GARNISHES",
+          "value": 300,
+          "clue": "These potato toppers are the leaves of a grasslike herb, Allium schoenoprasum",
+          "answer": "chives",
+          "isDailyDouble": false,
+          "orderNumber": 27,
+          "correctContestants": [
+            "Betsy"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Elliot",
+              "score": 2600
+            },
+            {
+              "player": "Betsy",
+              "score": -300
+            },
+            {
+              "player": "Don",
+              "score": 2600
+            }
+          ]
+        },
+        {
+          "category": "GARNISHES",
+          "value": 400,
+          "clue": "When this common green garnish is fried, the French call it persil frit",
+          "answer": "parsley",
+          "isDailyDouble": false,
+          "orderNumber": 28,
+          "correctContestants": [
+            "Elliot"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Elliot",
+              "score": 3000
+            },
+            {
+              "player": "Betsy",
+              "score": -300
+            },
+            {
+              "player": "Don",
+              "score": 2600
+            }
+          ]
+        },
+        {
+          "category": "THE MOVIES",
+          "value": 500,
+          "clue": "Ben Johnson & Cloris Leachman won Oscars for this 1971 Peter Bogdanovich film",
+          "answer": "The Last Picture Show",
+          "isDailyDouble": false,
+          "orderNumber": 29,
+          "correctContestants": [
+            "Don"
+          ],
+          "incorrectContestants": [
+            "Elliot"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Elliot",
+              "score": 2500
+            },
+            {
+              "player": "Betsy",
+              "score": -300
+            },
+            {
+              "player": "Don",
+              "score": 3100
+            }
+          ]
+        },
+        {
+          "category": "GARNISHES",
+          "value": 500,
+          "clue": "Lamb chops a la Marechale are garnished with truffle slices & the tips of this green vegetable",
+          "answer": "asparagus",
+          "isDailyDouble": false,
+          "orderNumber": 30,
+          "correctContestants": [
+            "Don"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Elliot",
+              "score": 2500
+            },
+            {
+              "player": "Betsy",
+              "score": -300
+            },
+            {
+              "player": "Don",
+              "score": 3600
+            }
+          ]
+        }
+      ],
+      "firstBreakScores": [
+        {
+          "player": "Elliot",
+          "score": 1400
+        },
+        {
+          "player": "Betsy",
+          "score": -300
+        },
+        {
+          "player": "Don",
+          "score": 1200
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "Elliot",
+          "score": 2500
+        },
+        {
+          "player": "Betsy",
+          "score": -300
+        },
+        {
+          "player": "Don",
+          "score": 3600
+        }
+      ]
+    },
+    "doubleJeopardy": {
+      "categories": [
+        "WORLD FLAGS",
+        "ARTISTS",
+        "VOCABULARY",
+        "COLONIAL AMERICANS",
+        "NEWSPAPERS",
+        "SHAKESPEAREAN LAST SCENES"
+      ],
+      "clues": [
+        {
+          "category": "VOCABULARY",
+          "value": 200,
+          "clue": "Bifid, as in the case of a snake's tongue, means this",
+          "answer": "forked",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Elliot",
+              "score": 2700
+            },
+            {
+              "player": "Betsy",
+              "score": -300
+            },
+            {
+              "player": "Don",
+              "score": 3600
+            }
+          ]
+        },
+        {
+          "category": "VOCABULARY",
+          "value": 400,
+          "clue": "While this bed cover can be any color, it takes its name from the French word for white",
+          "answer": "blanket",
+          "isDailyDouble": false,
+          "orderNumber": 2,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Elliot",
+              "score": 3100
+            },
+            {
+              "player": "Betsy",
+              "score": -300
+            },
+            {
+              "player": "Don",
+              "score": 3600
+            }
+          ]
+        },
+        {
+          "category": "VOCABULARY",
+          "value": 600,
+          "clue": "It's the term for a word or phrase that reads the same way backwards & forwards",
+          "answer": "a palindrome",
+          "isDailyDouble": false,
+          "orderNumber": 3,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Elliot",
+              "score": 3100
+            },
+            {
+              "player": "Betsy",
+              "score": -300
+            },
+            {
+              "player": "Don",
+              "score": 4200
+            }
+          ]
+        },
+        {
+          "category": "VOCABULARY",
+          "value": 800,
+          "clue": "It's the more common term for a dactylogram; yours is unique",
+          "answer": "a fingerprint",
+          "isDailyDouble": false,
+          "orderNumber": 4,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Elliot",
+              "score": 3900
+            },
+            {
+              "player": "Betsy",
+              "score": -300
+            },
+            {
+              "player": "Don",
+              "score": 4200
+            }
+          ]
+        },
+        {
+          "category": "VOCABULARY",
+          "value": 1000,
+          "clue": "This word meaning to wind & turn or wander aimlessly comes from the name of a river in Asia Minor",
+          "answer": "meander",
+          "isDailyDouble": false,
+          "orderNumber": 5,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Elliot",
+              "score": 4900
+            },
+            {
+              "player": "Betsy",
+              "score": -300
+            },
+            {
+              "player": "Don",
+              "score": 4200
+            }
+          ]
+        },
+        {
+          "category": "WORLD FLAGS",
+          "value": 200,
+          "clue": "The white band on Chile's flag symbolizes the snow of these mountains",
+          "answer": "the Andes",
+          "isDailyDouble": false,
+          "orderNumber": 6,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Elliot",
+              "score": 4900
+            },
+            {
+              "player": "Betsy",
+              "score": -100
+            },
+            {
+              "player": "Don",
+              "score": 4200
+            }
+          ]
+        },
+        {
+          "category": "WORLD FLAGS",
+          "value": 400,
+          "clue": "This country's present flag, red & white with a maple leaf, was adopted in 1965",
+          "answer": "Canada",
+          "isDailyDouble": false,
+          "orderNumber": 7,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Elliot",
+              "score": 4900
+            },
+            {
+              "player": "Betsy",
+              "score": 300
+            },
+            {
+              "player": "Don",
+              "score": 4200
+            }
+          ]
+        },
+        {
+          "category": "WORLD FLAGS",
+          "value": 600,
+          "clue": "Adopted in 1993, Eritrea's flag shows this branch, a symbol of peace, on a red, blue & green field",
+          "answer": "an olive branch",
+          "isDailyDouble": false,
+          "orderNumber": 8,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Elliot",
+              "score": 4900
+            },
+            {
+              "player": "Betsy",
+              "score": 300
+            },
+            {
+              "player": "Don",
+              "score": 4800
+            }
+          ]
+        },
+        {
+          "category": "ARTISTS",
+          "value": 200,
+          "clue": "He was 25 when he painted \"Les Demoiselles d'Avignon\", a departure from his Rose Period",
+          "answer": "Picasso",
+          "isDailyDouble": false,
+          "orderNumber": 9,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Elliot",
+              "score": 4900
+            },
+            {
+              "player": "Betsy",
+              "score": 300
+            },
+            {
+              "player": "Don",
+              "score": 5000
+            }
+          ]
+        },
+        {
+          "category": "ARTISTS",
+          "value": 400,
+          "clue": "This artist famous for his works of the Moulin Rouge was the son of a French nobleman",
+          "answer": "Toulouse-Lautrec",
+          "isDailyDouble": false,
+          "orderNumber": 10,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Elliot",
+              "score": 5300
+            },
+            {
+              "player": "Betsy",
+              "score": 300
+            },
+            {
+              "player": "Don",
+              "score": 5000
+            }
+          ]
+        },
+        {
+          "category": "ARTISTS",
+          "value": 600,
+          "clue": "In 1891 he auctioned off his paintings & used the proceeds to move to Tahiti",
+          "answer": "Gauguin",
+          "isDailyDouble": false,
+          "orderNumber": 11,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Elliot",
+              "score": 5300
+            },
+            {
+              "player": "Betsy",
+              "score": 900
+            },
+            {
+              "player": "Don",
+              "score": 5000
+            }
+          ]
+        },
+        {
+          "category": "ARTISTS",
+          "value": 800,
+          "clue": "At his death in 1891, this pointillist was working on a painting of \"The Circus\"",
+          "answer": "Seurat",
+          "isDailyDouble": false,
+          "orderNumber": 12,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Elliot",
+              "score": 5300
+            },
+            {
+              "player": "Betsy",
+              "score": 900
+            },
+            {
+              "player": "Don",
+              "score": 5800
+            }
+          ]
+        },
+        {
+          "category": "ARTISTS",
+          "value": 1000,
+          "clue": "This Venetian who painted \"The Rape of Europa\" probably lived past the age of 90",
+          "answer": "Titian",
+          "isDailyDouble": false,
+          "orderNumber": 13,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Elliot",
+              "score": 6300
+            },
+            {
+              "player": "Betsy",
+              "score": 900
+            },
+            {
+              "player": "Don",
+              "score": 5800
+            }
+          ]
+        },
+        {
+          "category": "WORLD FLAGS",
+          "value": 800,
+          "clue": "The \"R\" on its flag stands for republic, referendum & revolution, as well as the country's name",
+          "answer": "Rwanda",
+          "isDailyDouble": false,
+          "orderNumber": 14,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Elliot",
+              "score": 6300
+            },
+            {
+              "player": "Betsy",
+              "score": 900
+            },
+            {
+              "player": "Don",
+              "score": 5800
+            }
+          ]
+        },
+        {
+          "category": "WORLD FLAGS",
+          "value": 1000,
+          "clue": "This Mediterranean island country's flag is red & white with a George Cross",
+          "answer": "Malta",
+          "isDailyDouble": false,
+          "orderNumber": 15,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Elliot",
+              "score": 6300
+            },
+            {
+              "player": "Betsy",
+              "score": 900
+            },
+            {
+              "player": "Don",
+              "score": 6800
+            }
+          ]
+        },
+        {
+          "category": "COLONIAL AMERICANS",
+          "value": 200,
+          "clue": "In 1774 this Pennsylvanian was stripped of his deputy Postmaster General's office",
+          "answer": "Benjamin Franklin",
+          "isDailyDouble": false,
+          "orderNumber": 16,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Elliot",
+              "score": 6300
+            },
+            {
+              "player": "Betsy",
+              "score": 900
+            },
+            {
+              "player": "Don",
+              "score": 7000
+            }
+          ]
+        },
+        {
+          "category": "COLONIAL AMERICANS",
+          "value": 400,
+          "clue": "In 1622 John Rolfe, widower of this Indian princess, was presumed killed in an Indian massacre",
+          "answer": "Pocahontas",
+          "isDailyDouble": false,
+          "orderNumber": 17,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Elliot",
+              "score": 6700
+            },
+            {
+              "player": "Betsy",
+              "score": 900
+            },
+            {
+              "player": "Don",
+              "score": 7000
+            }
+          ]
+        },
+        {
+          "category": "COLONIAL AMERICANS",
+          "value": 600,
+          "clue": "From 1733 to 1743 this future British general served as Georgia's first governor",
+          "answer": "(James) Oglethorpe",
+          "isDailyDouble": false,
+          "orderNumber": 18,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Elliot",
+              "score": 6100
+            },
+            {
+              "player": "Betsy",
+              "score": 900
+            },
+            {
+              "player": "Don",
+              "score": 7600
+            }
+          ]
+        },
+        {
+          "category": "COLONIAL AMERICANS",
+          "value": 1500,
+          "clue": "In 1636 he bought land at the head of Narragansett Bay",
+          "answer": "Roger Williams",
+          "isDailyDouble": true,
+          "orderNumber": 19,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Elliot",
+              "score": 6100
+            },
+            {
+              "player": "Betsy",
+              "score": 900
+            },
+            {
+              "player": "Don",
+              "score": 9100
+            }
+          ]
+        },
+        {
+          "category": "COLONIAL AMERICANS",
+          "value": 1000,
+          "clue": "Tradition says he was the first Pilgrim to set foot on Plymouth Rock",
+          "answer": "John Alden",
+          "isDailyDouble": false,
+          "orderNumber": 20,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Elliot",
+              "score": 5100
+            },
+            {
+              "player": "Betsy",
+              "score": 900
+            },
+            {
+              "player": "Don",
+              "score": 9100
+            }
+          ]
+        },
+        {
+          "category": "SHAKESPEAREAN LAST SCENES",
+          "value": 200,
+          "clue": "At the end of the play, the only part of this title Scotsman that's onstage is his severed head",
+          "answer": "Macbeth",
+          "isDailyDouble": false,
+          "orderNumber": 21,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Elliot",
+              "score": 5100
+            },
+            {
+              "player": "Betsy",
+              "score": 1100
+            },
+            {
+              "player": "Don",
+              "score": 9100
+            }
+          ]
+        },
+        {
+          "category": "SHAKESPEAREAN LAST SCENES",
+          "value": 400,
+          "clue": "Gertrude, Laertes, Claudius & this man all die in the same scene— something must be rotten",
+          "answer": "Hamlet",
+          "isDailyDouble": false,
+          "orderNumber": 22,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Elliot",
+              "score": 5100
+            },
+            {
+              "player": "Betsy",
+              "score": 1100
+            },
+            {
+              "player": "Don",
+              "score": 9500
+            }
+          ]
+        },
+        {
+          "category": "SHAKESPEAREAN LAST SCENES",
+          "value": 600,
+          "clue": "Emilia calls him a \"dull Moor\" for suspecting Desdemona of hanky-panky",
+          "answer": "Othello",
+          "isDailyDouble": false,
+          "orderNumber": 23,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Elliot",
+              "score": 5100
+            },
+            {
+              "player": "Betsy",
+              "score": 1100
+            },
+            {
+              "player": "Don",
+              "score": 10100
+            }
+          ]
+        },
+        {
+          "category": "SHAKESPEAREAN LAST SCENES",
+          "value": 800,
+          "clue": "In this comedy Anne Page & some boys dress up like fairies to pinch Falstaff & burn him with tapers",
+          "answer": "The Merry Wives of Windsor",
+          "isDailyDouble": false,
+          "orderNumber": 24,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Elliot",
+              "score": 5100
+            },
+            {
+              "player": "Betsy",
+              "score": 1100
+            },
+            {
+              "player": "Don",
+              "score": 10900
+            }
+          ]
+        },
+        {
+          "category": "SHAKESPEAREAN LAST SCENES",
+          "value": 1000,
+          "clue": "These 2 plays end with Octavius discussing funerals",
+          "answer": "Julius Caesar & Antony and Cleopatra",
+          "isDailyDouble": true,
+          "orderNumber": 25,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Elliot",
+              "score": 5100
+            },
+            {
+              "player": "Betsy",
+              "score": 1100
+            },
+            {
+              "player": "Don",
+              "score": 11900
+            }
+          ]
+        },
+        {
+          "category": "NEWSPAPERS",
+          "value": 200,
+          "clue": "Mainichi Shimbun has the third-highest circulation of this nation's 5 national newspapers",
+          "answer": "Japan",
+          "isDailyDouble": false,
+          "orderNumber": 26,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Elliot",
+              "score": 5100
+            },
+            {
+              "player": "Betsy",
+              "score": 1300
+            },
+            {
+              "player": "Don",
+              "score": 11900
+            }
+          ]
+        },
+        {
+          "category": "NEWSPAPERS",
+          "value": 400,
+          "clue": "The Walter family wholly or partly owned this London newspaper from its founding in 1785 until 1966",
+          "answer": "The London Times",
+          "isDailyDouble": false,
+          "orderNumber": 27,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Elliot",
+              "score": 5100
+            },
+            {
+              "player": "Betsy",
+              "score": 1300
+            },
+            {
+              "player": "Don",
+              "score": 12300
+            }
+          ]
+        },
+        {
+          "category": "NEWSPAPERS",
+          "value": 600,
+          "clue": "Joseph Stalin served as an editor of this Communist Party newspaper",
+          "answer": "Pravda",
+          "isDailyDouble": false,
+          "orderNumber": 28,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Elliot",
+              "score": 5700
+            },
+            {
+              "player": "Betsy",
+              "score": 1300
+            },
+            {
+              "player": "Don",
+              "score": 12300
+            }
+          ]
+        },
+        {
+          "category": "NEWSPAPERS",
+          "value": 800,
+          "clue": "This tiny European country has its own daily newspaper— L'Osservatore Romano",
+          "answer": "the Vatican",
+          "isDailyDouble": false,
+          "orderNumber": 29,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Elliot",
+              "score": 5700
+            },
+            {
+              "player": "Betsy",
+              "score": 1300
+            },
+            {
+              "player": "Don",
+              "score": 13100
+            }
+          ]
+        },
+        {
+          "category": "NEWSPAPERS",
+          "value": 1000,
+          "clue": "England's Guardian newspaper dropped this city's name from its title in 1959",
+          "answer": "Manchester",
+          "isDailyDouble": false,
+          "orderNumber": 30,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Elliot",
+              "score": 5700
+            },
+            {
+              "player": "Betsy",
+              "score": 1300
+            },
+            {
+              "player": "Don",
+              "score": 14100
+            }
+          ]
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "Elliot",
+          "score": 5700
+        },
+        {
+          "player": "Betsy",
+          "score": 1300
+        },
+        {
+          "player": "Don",
+          "score": 14100
+        }
+      ]
+    },
+    "finalJeopardy": {
+      "category": "THE AMERICAS",
+      "clue": "It's the only country in the Americas currently headed by a woman president & vice president",
+      "answer": "Nicaragua",
+      "responses": [
+        {
+          "contestant": "Betsy",
+          "response": "What is Nicarauga?",
+          "isCorrect": true,
+          "isIncorrect": false,
+          "value": 1299,
+          "finalScore": 2599
+        },
+        {
+          "contestant": "Elliot",
+          "response": "What is Nicaragua",
+          "isCorrect": true,
+          "isIncorrect": false,
+          "value": 3100,
+          "finalScore": 8800
+        },
+        {
+          "contestant": "Don",
+          "response": "What Nicaragua?",
+          "isCorrect": true,
+          "isIncorrect": false,
+          "value": 2600,
+          "finalScore": 16700
+        }
+      ]
+    }
+  },
+  "finalScores": [
+    {
+      "player": "Elliot",
+      "score": "$8,800"
+    },
+    {
+      "player": "Betsy",
+      "score": "$2,599"
+    },
+    {
+      "player": "Don",
+      "score": "$16,700"
+    }
+  ],
+  "coryatScores": [
+    {
+      "player": "Elliot",
+      "score": 6000
+    },
+    {
+      "player": "Betsy",
+      "score": 1300
+    },
+    {
+      "player": "Don",
+      "score": 13400
+    }
+  ]
+}

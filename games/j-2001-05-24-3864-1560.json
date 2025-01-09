@@ -1,0 +1,1700 @@
+{
+  "gameId": 1560,
+  "showNumber": "3864",
+  "title": "Show #3864 - Thursday, May 24, 2001",
+  "date": "2001-05-24",
+  "comments": "",
+  "contestants": [
+    "Ken",
+    "Bridget",
+    "Carl"
+  ],
+  "rounds": {
+    "jeopardy": {
+      "categories": [
+        "SHAKESPEARE PITCHES TO HOLLYWOOD",
+        "SALAD DRESSING",
+        "OLYMPIC EVENTS",
+        "STARS ON FLAGS",
+        "QUEENS",
+        "JUST FOR THE \"HALL\" OF IT"
+      ],
+      "clues": [
+        {
+          "category": "SHAKESPEARE PITCHES TO HOLLYWOOD",
+          "value": 100,
+          "clue": "This one's about a wannabe Scottish king & his wife, right, & he kills King Duncan... is Connery available?",
+          "answer": "Macbeth",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [
+            "Bridget"
+          ],
+          "incorrectContestants": [
+            "Carl"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ken",
+              "score": 0
+            },
+            {
+              "player": "Bridget",
+              "score": 100
+            },
+            {
+              "player": "Carl",
+              "score": -100
+            }
+          ]
+        },
+        {
+          "category": "SHAKESPEARE PITCHES TO HOLLYWOOD",
+          "value": 200,
+          "clue": "2 young lovers, families keep 'em apart -- it'd be a teen flick but we won't shoot in Verona; too expensive",
+          "answer": "Romeo and Juliet",
+          "isDailyDouble": false,
+          "orderNumber": 2,
+          "correctContestants": [
+            "Bridget"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ken",
+              "score": 0
+            },
+            {
+              "player": "Bridget",
+              "score": 300
+            },
+            {
+              "player": "Carl",
+              "score": -100
+            }
+          ]
+        },
+        {
+          "category": "SHAKESPEARE PITCHES TO HOLLYWOOD",
+          "value": 300,
+          "clue": "So this king is crying about his kingdom for a horse &... oh, you already made it in '55 with Olivier?  Nuts!",
+          "answer": "Richard III",
+          "isDailyDouble": false,
+          "orderNumber": 3,
+          "correctContestants": [
+            "Ken"
+          ],
+          "incorrectContestants": [
+            "Bridget",
+            "Carl"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ken",
+              "score": 300
+            },
+            {
+              "player": "Bridget",
+              "score": 0
+            },
+            {
+              "player": "Carl",
+              "score": -400
+            }
+          ]
+        },
+        {
+          "category": "SHAKESPEARE PITCHES TO HOLLYWOOD",
+          "value": 400,
+          "clue": "Okay, this military guy marries a younger woman named Desdemona -- now the ending's sad, but that means Oscar!",
+          "answer": "Othello",
+          "isDailyDouble": false,
+          "orderNumber": 4,
+          "correctContestants": [
+            "Ken"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ken",
+              "score": 700
+            },
+            {
+              "player": "Bridget",
+              "score": 0
+            },
+            {
+              "player": "Carl",
+              "score": -400
+            }
+          ]
+        },
+        {
+          "category": "SHAKESPEARE PITCHES TO HOLLYWOOD",
+          "value": 500,
+          "clue": "\"Battle of the sexes\" story, Katharina vs. Petruchio; she's tough but love wins out... it's a blockbuster!",
+          "answer": "The Taming of the Shrew",
+          "isDailyDouble": false,
+          "orderNumber": 5,
+          "correctContestants": [
+            "Carl"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ken",
+              "score": 700
+            },
+            {
+              "player": "Bridget",
+              "score": 0
+            },
+            {
+              "player": "Carl",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "category": "JUST FOR THE \"HALL\" OF IT",
+          "value": 100,
+          "clue": "It's a feature that distinguishes something from other things",
+          "answer": "Hallmark",
+          "isDailyDouble": false,
+          "orderNumber": 6,
+          "correctContestants": [
+            "Bridget"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ken",
+              "score": 700
+            },
+            {
+              "player": "Bridget",
+              "score": 100
+            },
+            {
+              "player": "Carl",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "category": "OLYMPIC EVENTS",
+          "value": 100,
+          "clue": "Downhill & slalom",
+          "answer": "Skiing",
+          "isDailyDouble": false,
+          "orderNumber": 7,
+          "correctContestants": [
+            "Bridget"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ken",
+              "score": 700
+            },
+            {
+              "player": "Bridget",
+              "score": 200
+            },
+            {
+              "player": "Carl",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "category": "OLYMPIC EVENTS",
+          "value": 200,
+          "clue": "100-meter butterfly & 100-meter freestyle",
+          "answer": "Swimming",
+          "isDailyDouble": false,
+          "orderNumber": 8,
+          "correctContestants": [
+            "Ken"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ken",
+              "score": 900
+            },
+            {
+              "player": "Bridget",
+              "score": 200
+            },
+            {
+              "player": "Carl",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "category": "QUEENS",
+          "value": 100,
+          "clue": "A current queen, she's Prince Philip's wife",
+          "answer": "Queen Elizabeth II",
+          "isDailyDouble": false,
+          "orderNumber": 9,
+          "correctContestants": [
+            "Bridget"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ken",
+              "score": 900
+            },
+            {
+              "player": "Bridget",
+              "score": 300
+            },
+            {
+              "player": "Carl",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "category": "QUEENS",
+          "value": 200,
+          "clue": "She's the powerful & passionate queen of ancient times depicted here",
+          "answer": "Cleopatra",
+          "isDailyDouble": false,
+          "orderNumber": 10,
+          "correctContestants": [
+            "Ken"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ken",
+              "score": 1100
+            },
+            {
+              "player": "Bridget",
+              "score": 300
+            },
+            {
+              "player": "Carl",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "category": "QUEENS",
+          "value": 300,
+          "clue": "This queen's marriage to Ferdinand in 1469 brought about the unification of Spain",
+          "answer": "Isabella",
+          "isDailyDouble": false,
+          "orderNumber": 11,
+          "correctContestants": [
+            "Bridget"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ken",
+              "score": 1100
+            },
+            {
+              "player": "Bridget",
+              "score": 600
+            },
+            {
+              "player": "Carl",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "category": "QUEENS",
+          "value": 500,
+          "clue": "This queen was the mother of France's Louis XVII",
+          "answer": "Marie Antoinette",
+          "isDailyDouble": true,
+          "orderNumber": 12,
+          "correctContestants": [
+            "Bridget"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ken",
+              "score": 1100
+            },
+            {
+              "player": "Bridget",
+              "score": 1100
+            },
+            {
+              "player": "Carl",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "category": "QUEENS",
+          "value": 500,
+          "clue": "The Australian state of Queensland was named for her",
+          "answer": "Queen Victoria",
+          "isDailyDouble": false,
+          "orderNumber": 13,
+          "correctContestants": [
+            "Bridget"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ken",
+              "score": 1100
+            },
+            {
+              "player": "Bridget",
+              "score": 1600
+            },
+            {
+              "player": "Carl",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "category": "OLYMPIC EVENTS",
+          "value": 300,
+          "clue": "10,000 meters & javelin",
+          "answer": "Track & field",
+          "isDailyDouble": false,
+          "orderNumber": 14,
+          "correctContestants": [
+            "Bridget"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ken",
+              "score": 1100
+            },
+            {
+              "player": "Bridget",
+              "score": 1900
+            },
+            {
+              "player": "Carl",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "category": "OLYMPIC EVENTS",
+          "value": 400,
+          "clue": "Individual epee & individual foil",
+          "answer": "Fencing",
+          "isDailyDouble": false,
+          "orderNumber": 15,
+          "correctContestants": [
+            "Bridget"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ken",
+              "score": 1100
+            },
+            {
+              "player": "Bridget",
+              "score": 2300
+            },
+            {
+              "player": "Carl",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "category": "OLYMPIC EVENTS",
+          "value": 500,
+          "clue": "Trap & skeet",
+          "answer": "Shooting",
+          "isDailyDouble": false,
+          "orderNumber": 16,
+          "correctContestants": [
+            "Bridget"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ken",
+              "score": 1100
+            },
+            {
+              "player": "Bridget",
+              "score": 2800
+            },
+            {
+              "player": "Carl",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "category": "SALAD DRESSING",
+          "value": 100,
+          "clue": "This stuff is the basis of tartar sauce as well as thousand island & many cole slaw dressings",
+          "answer": "Mayonnaise",
+          "isDailyDouble": false,
+          "orderNumber": 17,
+          "correctContestants": [
+            "Carl"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ken",
+              "score": 1100
+            },
+            {
+              "player": "Bridget",
+              "score": 2800
+            },
+            {
+              "player": "Carl",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "JUST FOR THE \"HALL\" OF IT",
+          "value": 200,
+          "clue": "Ex-wife of Mick",
+          "answer": "Jerry Hall",
+          "isDailyDouble": false,
+          "orderNumber": 18,
+          "correctContestants": [
+            "Ken"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ken",
+              "score": 1300
+            },
+            {
+              "player": "Bridget",
+              "score": 2800
+            },
+            {
+              "player": "Carl",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "JUST FOR THE \"HALL\" OF IT",
+          "value": 300,
+          "clue": "Literally it means \"Praise ye the Lord\" in Hebrew",
+          "answer": "Hallelujah",
+          "isDailyDouble": false,
+          "orderNumber": 19,
+          "correctContestants": [
+            "Ken"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ken",
+              "score": 1600
+            },
+            {
+              "player": "Bridget",
+              "score": 2800
+            },
+            {
+              "player": "Carl",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "JUST FOR THE \"HALL\" OF IT",
+          "value": 400,
+          "clue": "This actor first gained attention as a likable geek in \"Sixteen Candles\"",
+          "answer": "Anthony Michael Hall",
+          "isDailyDouble": false,
+          "orderNumber": 20,
+          "correctContestants": [
+            "Carl"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ken",
+              "score": 1600
+            },
+            {
+              "player": "Bridget",
+              "score": 2800
+            },
+            {
+              "player": "Carl",
+              "score": 600
+            }
+          ]
+        },
+        {
+          "category": "JUST FOR THE \"HALL\" OF IT",
+          "value": 500,
+          "clue": "It's a false perception when no external stimulus exists",
+          "answer": "Hallucination",
+          "isDailyDouble": false,
+          "orderNumber": 21,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Ken",
+              "score": 1600
+            },
+            {
+              "player": "Bridget",
+              "score": 2800
+            },
+            {
+              "player": "Carl",
+              "score": 600
+            }
+          ]
+        },
+        {
+          "category": "STARS ON FLAGS",
+          "value": 100,
+          "clue": "Number of stars on the flag of Syria, or number of fingers in a peace sign",
+          "answer": "2",
+          "isDailyDouble": false,
+          "orderNumber": 22,
+          "correctContestants": [
+            "Bridget"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ken",
+              "score": 1600
+            },
+            {
+              "player": "Bridget",
+              "score": 2900
+            },
+            {
+              "player": "Carl",
+              "score": 600
+            }
+          ]
+        },
+        {
+          "category": "STARS ON FLAGS",
+          "value": 200,
+          "clue": "To guess this number of stars on the flag of Somalia, close your eyes & think of Texas",
+          "answer": "1",
+          "isDailyDouble": false,
+          "orderNumber": 23,
+          "correctContestants": [
+            "Ken"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ken",
+              "score": 1800
+            },
+            {
+              "player": "Bridget",
+              "score": 2900
+            },
+            {
+              "player": "Carl",
+              "score": 600
+            }
+          ]
+        },
+        {
+          "category": "STARS ON FLAGS",
+          "value": 300,
+          "clue": "Hey!  Gimme this number of stars on the flag of Singapore or the Solomon Islands",
+          "answer": "5",
+          "isDailyDouble": false,
+          "orderNumber": 24,
+          "correctContestants": [
+            "Bridget"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ken",
+              "score": 1800
+            },
+            {
+              "player": "Bridget",
+              "score": 3200
+            },
+            {
+              "player": "Carl",
+              "score": 600
+            }
+          ]
+        },
+        {
+          "category": "STARS ON FLAGS",
+          "value": 400,
+          "clue": "Tuvalu's flag has this many stars, enough to fill the Hollywood Squares",
+          "answer": "9",
+          "isDailyDouble": false,
+          "orderNumber": 25,
+          "correctContestants": [
+            "Ken"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ken",
+              "score": 2200
+            },
+            {
+              "player": "Bridget",
+              "score": 3200
+            },
+            {
+              "player": "Carl",
+              "score": 600
+            }
+          ]
+        },
+        {
+          "category": "STARS ON FLAGS",
+          "value": 500,
+          "clue": "It's the greatest number of stars found on a national flag",
+          "answer": "50 (USA)",
+          "isDailyDouble": false,
+          "orderNumber": 26,
+          "correctContestants": [
+            "Carl"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ken",
+              "score": 2200
+            },
+            {
+              "player": "Bridget",
+              "score": 3200
+            },
+            {
+              "player": "Carl",
+              "score": 1100
+            }
+          ]
+        },
+        {
+          "category": "SALAD DRESSING",
+          "value": 200,
+          "clue": "The cartoon seen here is on the label of Paul Newman's dressing for this salad:\"Don't dilute us, Brutus...\"",
+          "answer": "Caesar salad",
+          "isDailyDouble": false,
+          "orderNumber": 27,
+          "correctContestants": [
+            "Carl"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ken",
+              "score": 2200
+            },
+            {
+              "player": "Bridget",
+              "score": 3200
+            },
+            {
+              "player": "Carl",
+              "score": 1300
+            }
+          ]
+        },
+        {
+          "category": "SALAD DRESSING",
+          "value": 300,
+          "clue": "This national-named dressing often made with ketchup is found in deli sandwiches",
+          "answer": "Russian dressing",
+          "isDailyDouble": false,
+          "orderNumber": 28,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Ken"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Ken",
+              "score": 1900
+            },
+            {
+              "player": "Bridget",
+              "score": 3200
+            },
+            {
+              "player": "Carl",
+              "score": 1300
+            }
+          ]
+        },
+        {
+          "category": "SALAD DRESSING",
+          "value": 400,
+          "clue": "Type of oil used to make traditional Italian dressing",
+          "answer": "Olive oil",
+          "isDailyDouble": false,
+          "orderNumber": 29,
+          "correctContestants": [
+            "Bridget"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ken",
+              "score": 1900
+            },
+            {
+              "player": "Bridget",
+              "score": 3600
+            },
+            {
+              "player": "Carl",
+              "score": 1300
+            }
+          ]
+        },
+        {
+          "category": "SALAD DRESSING",
+          "value": 500,
+          "clue": "Classic French dressing also has this 1-word name, from a key ingredient",
+          "answer": "Vinaigrette",
+          "isDailyDouble": false,
+          "orderNumber": 30,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Ken",
+              "score": 1900
+            },
+            {
+              "player": "Bridget",
+              "score": 3600
+            },
+            {
+              "player": "Carl",
+              "score": 1300
+            }
+          ]
+        }
+      ],
+      "firstBreakScores": [
+        {
+          "player": "Ken",
+          "score": 1100
+        },
+        {
+          "player": "Bridget",
+          "score": 1900
+        },
+        {
+          "player": "Carl",
+          "score": 100
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "Ken",
+          "score": 1900
+        },
+        {
+          "player": "Bridget",
+          "score": 3600
+        },
+        {
+          "player": "Carl",
+          "score": 1300
+        }
+      ]
+    },
+    "doubleJeopardy": {
+      "categories": [
+        "GENERAL SCIENCE",
+        "OSCAR'S SUPPORTING ACTORS",
+        "VICE PRESIDENT & SENATOR",
+        "BEAUTY",
+        "ROCK ME, AMADEUS",
+        "CRAC"
+      ],
+      "clues": [
+        {
+          "category": "ROCK ME, AMADEUS",
+          "value": 200,
+          "clue": "The Austrian city where Mozart died",
+          "answer": "Vienna",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ken",
+              "score": 1900
+            },
+            {
+              "player": "Bridget",
+              "score": 3800
+            },
+            {
+              "player": "Carl",
+              "score": 1300
+            }
+          ]
+        },
+        {
+          "category": "OSCAR'S SUPPORTING ACTORS",
+          "value": 200,
+          "clue": "Nominated for Best Actor for \"Good Morning, Vietnam\", he won for support in \"Good Will Hunting\"",
+          "answer": "Robin Williams",
+          "isDailyDouble": false,
+          "orderNumber": 2,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ken",
+              "score": 1900
+            },
+            {
+              "player": "Bridget",
+              "score": 4000
+            },
+            {
+              "player": "Carl",
+              "score": 1300
+            }
+          ]
+        },
+        {
+          "category": "OSCAR'S SUPPORTING ACTORS",
+          "value": 400,
+          "clue": "Mister Robards won for \"Julia\"; he won for \"Mister Roberts\"",
+          "answer": "Jack Lemmon",
+          "isDailyDouble": false,
+          "orderNumber": 3,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ken",
+              "score": 1900
+            },
+            {
+              "player": "Bridget",
+              "score": 3600
+            },
+            {
+              "player": "Carl",
+              "score": 1700
+            }
+          ]
+        },
+        {
+          "category": "ROCK ME, AMADEUS",
+          "value": 400,
+          "clue": "The Austrian city where he was born",
+          "answer": "Salzburg",
+          "isDailyDouble": false,
+          "orderNumber": 4,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ken",
+              "score": 1900
+            },
+            {
+              "player": "Bridget",
+              "score": 3600
+            },
+            {
+              "player": "Carl",
+              "score": 2100
+            }
+          ]
+        },
+        {
+          "category": "ROCK ME, AMADEUS",
+          "value": 600,
+          "clue": "\"Planetary\" nickname of Mozart's Symphony No. 41 in C Major",
+          "answer": "\"Jupiter Symphony\"",
+          "isDailyDouble": false,
+          "orderNumber": 5,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ken",
+              "score": 2500
+            },
+            {
+              "player": "Bridget",
+              "score": 3600
+            },
+            {
+              "player": "Carl",
+              "score": 2100
+            }
+          ]
+        },
+        {
+          "category": "OSCAR'S SUPPORTING ACTORS",
+          "value": 600,
+          "clue": "He served up a Best Supporting Actor performance in \"Arthur\"",
+          "answer": "Sir John Gielgud",
+          "isDailyDouble": false,
+          "orderNumber": 6,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ken",
+              "score": 2500
+            },
+            {
+              "player": "Bridget",
+              "score": 4200
+            },
+            {
+              "player": "Carl",
+              "score": 2100
+            }
+          ]
+        },
+        {
+          "category": "OSCAR'S SUPPORTING ACTORS",
+          "value": 800,
+          "clue": "Kevin Kline \"caught\" a 1988 supporting Oscar for his role in this comedy",
+          "answer": "A Fish Called Wanda",
+          "isDailyDouble": false,
+          "orderNumber": 7,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ken",
+              "score": 2500
+            },
+            {
+              "player": "Bridget",
+              "score": 5000
+            },
+            {
+              "player": "Carl",
+              "score": 2100
+            }
+          ]
+        },
+        {
+          "category": "OSCAR'S SUPPORTING ACTORS",
+          "value": 1000,
+          "clue": "In the '70s he was in his 70s when he \"earned\" an Oscar as Professor Kingsfield in \"The Paper Chase\"",
+          "answer": "John Houseman",
+          "isDailyDouble": false,
+          "orderNumber": 8,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ken",
+              "score": 2500
+            },
+            {
+              "player": "Bridget",
+              "score": 5000
+            },
+            {
+              "player": "Carl",
+              "score": 3100
+            }
+          ]
+        },
+        {
+          "category": "ROCK ME, AMADEUS",
+          "value": 800,
+          "clue": "Title of the familiar Mozart piece heard here",
+          "answer": "Eine kleine Nachtmusik",
+          "isDailyDouble": false,
+          "orderNumber": 9,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ken",
+              "score": 3300
+            },
+            {
+              "player": "Bridget",
+              "score": 5000
+            },
+            {
+              "player": "Carl",
+              "score": 3100
+            }
+          ]
+        },
+        {
+          "category": "VICE PRESIDENT & SENATOR",
+          "value": 600,
+          "clue": "He resigned as vice president in 1832 (a first!) & was named a senator by South Carolina",
+          "answer": "John C. Calhoun",
+          "isDailyDouble": false,
+          "orderNumber": 10,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ken",
+              "score": 3300
+            },
+            {
+              "player": "Bridget",
+              "score": 5000
+            },
+            {
+              "player": "Carl",
+              "score": 3700
+            }
+          ]
+        },
+        {
+          "category": "ROCK ME, AMADEUS",
+          "value": 1500,
+          "clue": "Composer whose name completes the title of Rimsky-Korsakov's opera \"Mozart and...\"",
+          "answer": "Salieri",
+          "isDailyDouble": true,
+          "orderNumber": 11,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ken",
+              "score": 3300
+            },
+            {
+              "player": "Bridget",
+              "score": 5000
+            },
+            {
+              "player": "Carl",
+              "score": 2200
+            }
+          ]
+        },
+        {
+          "category": "VICE PRESIDENT & SENATOR",
+          "value": 200,
+          "clue": "This longtime senator who became VP in 1965 went back to the Senate in 1970 after losing a presidential bid",
+          "answer": "Hubert Humphrey",
+          "isDailyDouble": false,
+          "orderNumber": 12,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ken",
+              "score": 3500
+            },
+            {
+              "player": "Bridget",
+              "score": 5000
+            },
+            {
+              "player": "Carl",
+              "score": 2000
+            }
+          ]
+        },
+        {
+          "category": "VICE PRESIDENT & SENATOR",
+          "value": 400,
+          "clue": "A senator during most of the 1790s, he came out of the election of 1800 as vice president",
+          "answer": "Aaron Burr",
+          "isDailyDouble": false,
+          "orderNumber": 13,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ken",
+              "score": 3900
+            },
+            {
+              "player": "Bridget",
+              "score": 5000
+            },
+            {
+              "player": "Carl",
+              "score": 2000
+            }
+          ]
+        },
+        {
+          "category": "VICE PRESIDENT & SENATOR",
+          "value": 800,
+          "clue": "As of 2000 he was the oldest senator turned vice president still alive",
+          "answer": "Walter Mondale",
+          "isDailyDouble": false,
+          "orderNumber": 14,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Ken",
+              "score": 3900
+            },
+            {
+              "player": "Bridget",
+              "score": 5000
+            },
+            {
+              "player": "Carl",
+              "score": 2000
+            }
+          ]
+        },
+        {
+          "category": "VICE PRESIDENT & SENATOR",
+          "value": 1000,
+          "clue": "Years after Charles Fairbanks in 1905, he was the next Indianan to go from the Senate  to the vice presidency",
+          "answer": "Dan Quayle",
+          "isDailyDouble": false,
+          "orderNumber": 15,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ken",
+              "score": 3900
+            },
+            {
+              "player": "Bridget",
+              "score": 6000
+            },
+            {
+              "player": "Carl",
+              "score": 2000
+            }
+          ]
+        },
+        {
+          "category": "CRAC",
+          "value": 200,
+          "clue": "AAMOF equals \"As a matter of\" this",
+          "answer": "Fact",
+          "isDailyDouble": false,
+          "orderNumber": 16,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ken",
+              "score": 3900
+            },
+            {
+              "player": "Bridget",
+              "score": 6200
+            },
+            {
+              "player": "Carl",
+              "score": 2000
+            }
+          ]
+        },
+        {
+          "category": "CRAC",
+          "value": 400,
+          "clue": "If you're feeling smiley, send HAND, \"Have\" this",
+          "answer": "A Nice Day",
+          "isDailyDouble": false,
+          "orderNumber": 17,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Ken",
+              "score": 3900
+            },
+            {
+              "player": "Bridget",
+              "score": 6200
+            },
+            {
+              "player": "Carl",
+              "score": 2000
+            }
+          ]
+        },
+        {
+          "category": "CRAC",
+          "value": 600,
+          "clue": "You can sign off with TTFN, this \"for now\"",
+          "answer": "Ta Ta",
+          "isDailyDouble": false,
+          "orderNumber": 18,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Ken",
+              "score": 3900
+            },
+            {
+              "player": "Bridget",
+              "score": 6200
+            },
+            {
+              "player": "Carl",
+              "score": 2000
+            }
+          ]
+        },
+        {
+          "category": "BEAUTY",
+          "value": 200,
+          "clue": "B.C. (British Columbia) beauties include this actress & sometime wife of Tommy Lee",
+          "answer": "Pamela Anderson",
+          "isDailyDouble": false,
+          "orderNumber": 19,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ken",
+              "score": 4100
+            },
+            {
+              "player": "Bridget",
+              "score": 6200
+            },
+            {
+              "player": "Carl",
+              "score": 2000
+            }
+          ]
+        },
+        {
+          "category": "GENERAL SCIENCE",
+          "value": 600,
+          "clue": "Zacharias Janssen is said to have invented the compound this by placing convex lenses at both ends of a tube",
+          "answer": "Microscope",
+          "isDailyDouble": false,
+          "orderNumber": 20,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ken",
+              "score": 4700
+            },
+            {
+              "player": "Bridget",
+              "score": 6200
+            },
+            {
+              "player": "Carl",
+              "score": 2000
+            }
+          ]
+        },
+        {
+          "category": "GENERAL SCIENCE",
+          "value": 400,
+          "clue": "Charles Darwin wrote, \"The voyage of\" this ship \"has been by far the most important event in my life\"",
+          "answer": "The Beagle",
+          "isDailyDouble": false,
+          "orderNumber": 21,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ken",
+              "score": 5100
+            },
+            {
+              "player": "Bridget",
+              "score": 6200
+            },
+            {
+              "player": "Carl",
+              "score": 2000
+            }
+          ]
+        },
+        {
+          "category": "GENERAL SCIENCE",
+          "value": 1000,
+          "clue": "This plant-eating dinosaur's name, which means \"cover lizard\", refers to the triangular plates along its back",
+          "answer": "Stegosaurus",
+          "isDailyDouble": true,
+          "orderNumber": 22,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ken",
+              "score": 6100
+            },
+            {
+              "player": "Bridget",
+              "score": 6200
+            },
+            {
+              "player": "Carl",
+              "score": 2000
+            }
+          ]
+        },
+        {
+          "category": "GENERAL SCIENCE",
+          "value": 1000,
+          "clue": "This brownish-black pigment gives the iris in the eye its color",
+          "answer": "melanin",
+          "isDailyDouble": false,
+          "orderNumber": 23,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Ken",
+              "score": 6100
+            },
+            {
+              "player": "Bridget",
+              "score": 6200
+            },
+            {
+              "player": "Carl",
+              "score": 2000
+            }
+          ]
+        },
+        {
+          "category": "GENERAL SCIENCE",
+          "value": 200,
+          "clue": "It's the celestial object on which you'd find Tycho, Oceanus Procellarum & Mare Imbrium",
+          "answer": "Moon",
+          "isDailyDouble": false,
+          "orderNumber": 24,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ken",
+              "score": 6100
+            },
+            {
+              "player": "Bridget",
+              "score": 6400
+            },
+            {
+              "player": "Carl",
+              "score": 2000
+            }
+          ]
+        },
+        {
+          "category": "BEAUTY",
+          "value": 400,
+          "clue": "B.C. (Before Christ) beauties include this woman who married King David 1 verse after mourning her previous husband",
+          "answer": "Bathsheba",
+          "isDailyDouble": false,
+          "orderNumber": 25,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ken",
+              "score": 6500
+            },
+            {
+              "player": "Bridget",
+              "score": 6400
+            },
+            {
+              "player": "Carl",
+              "score": 2000
+            }
+          ]
+        },
+        {
+          "category": "CRAC",
+          "value": 800,
+          "clue": "The suggestion RTM means \"read\" this",
+          "answer": "the manual",
+          "isDailyDouble": false,
+          "orderNumber": 26,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Ken",
+              "score": 6500
+            },
+            {
+              "player": "Bridget",
+              "score": 5600
+            },
+            {
+              "player": "Carl",
+              "score": 2000
+            }
+          ]
+        },
+        {
+          "category": "BEAUTY",
+          "value": 600,
+          "clue": "Seen here, this actress of stage, screen & tube is a native of Ozone Park, New York",
+          "answer": "Bernadette Peters",
+          "isDailyDouble": false,
+          "orderNumber": 27,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ken",
+              "score": 6500
+            },
+            {
+              "player": "Bridget",
+              "score": 6200
+            },
+            {
+              "player": "Carl",
+              "score": 2000
+            }
+          ]
+        },
+        {
+          "category": "BEAUTY",
+          "value": 800,
+          "clue": "The bird seen here, or the first name of actress Cates",
+          "answer": "Phoebe",
+          "isDailyDouble": false,
+          "orderNumber": 28,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ken",
+              "score": 7300
+            },
+            {
+              "player": "Bridget",
+              "score": 6200
+            },
+            {
+              "player": "Carl",
+              "score": 2000
+            }
+          ]
+        },
+        {
+          "category": "BEAUTY",
+          "value": 1000,
+          "clue": "In 2000 you could see all 6' 3\" of this volleyball player & Coppertone model in the pages of Playboy",
+          "answer": "Gabrielle Reece",
+          "isDailyDouble": false,
+          "orderNumber": 29,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ken",
+              "score": 7300
+            },
+            {
+              "player": "Bridget",
+              "score": 7200
+            },
+            {
+              "player": "Carl",
+              "score": 2000
+            }
+          ]
+        },
+        {
+          "category": "CRAC",
+          "value": 1000,
+          "clue": "Some advice comes with IANAL, \"I am not\" this professional",
+          "answer": "A Lawyer",
+          "isDailyDouble": false,
+          "orderNumber": 30,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Ken",
+              "score": 7300
+            },
+            {
+              "player": "Bridget",
+              "score": 7200
+            },
+            {
+              "player": "Carl",
+              "score": 2000
+            }
+          ]
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "Ken",
+          "score": 7300
+        },
+        {
+          "player": "Bridget",
+          "score": 7200
+        },
+        {
+          "player": "Carl",
+          "score": 2000
+        }
+      ]
+    },
+    "finalJeopardy": {
+      "category": "STATE MOTTOES",
+      "clue": "General John Stark coined this 4-word motto about the 1777 Battle of Bennington, in which he led 1,400 N.H. volunteers",
+      "answer": "\"Live Free or Die\"",
+      "responses": [
+        {
+          "contestant": "Carl",
+          "response": "What is \"Live free or die!\"",
+          "isCorrect": true,
+          "isIncorrect": false,
+          "value": 1000,
+          "finalScore": 3000
+        },
+        {
+          "contestant": "Bridget",
+          "response": "What is ?",
+          "isCorrect": false,
+          "isIncorrect": true,
+          "value": 6200,
+          "finalScore": 1000
+        },
+        {
+          "contestant": "Ken",
+          "response": "What is In God We Trust",
+          "isCorrect": false,
+          "isIncorrect": true,
+          "value": 7101,
+          "finalScore": 199
+        }
+      ]
+    }
+  },
+  "finalScores": [
+    {
+      "player": "Ken",
+      "score": "$199"
+    },
+    {
+      "player": "Bridget",
+      "score": "$1,000"
+    },
+    {
+      "player": "Carl",
+      "score": "$3,000"
+    }
+  ],
+  "coryatScores": [
+    {
+      "player": "Ken",
+      "score": 7100
+    },
+    {
+      "player": "Bridget",
+      "score": 7100
+    },
+    {
+      "player": "Carl",
+      "score": 3500
+    }
+  ]
+}

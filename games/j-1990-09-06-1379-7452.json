@@ -1,0 +1,1705 @@
+{
+  "gameId": 7452,
+  "showNumber": "1379",
+  "title": "Show #1379 - Thursday, September 6, 1990",
+  "date": "1990-09-06",
+  "comments": "Game entered from audiorecording.\nMissing prizes.",
+  "contestants": [
+    "Dave",
+    "Sue",
+    "Rick"
+  ],
+  "rounds": {
+    "jeopardy": {
+      "categories": [
+        "THE OLD WEST",
+        "TENNIS",
+        "ODD JOBS",
+        "SCIENCE",
+        "KIDDIE LIT",
+        "FILE UNDER LETTER \"I\""
+      ],
+      "clues": [
+        {
+          "category": "TENNIS",
+          "value": 100,
+          "clue": "To decide which player serves first, this piece of equipment is usually tossed",
+          "answer": "a racket",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [
+            "Sue"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Dave",
+              "score": 0
+            },
+            {
+              "player": "Sue",
+              "score": 100
+            },
+            {
+              "player": "Rick",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "TENNIS",
+          "value": 200,
+          "clue": "3 of them are the continental serve, Eastern forehand & Eastern backhand",
+          "answer": "grips",
+          "isDailyDouble": false,
+          "orderNumber": 2,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Rick"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Dave",
+              "score": 0
+            },
+            {
+              "player": "Sue",
+              "score": 100
+            },
+            {
+              "player": "Rick",
+              "score": -200
+            }
+          ]
+        },
+        {
+          "category": "TENNIS",
+          "value": 300,
+          "clue": "In tournament play this official sits on a high chair alongside center court",
+          "answer": "the umpire",
+          "isDailyDouble": false,
+          "orderNumber": 3,
+          "correctContestants": [
+            "Dave"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Dave",
+              "score": 300
+            },
+            {
+              "player": "Sue",
+              "score": 100
+            },
+            {
+              "player": "Rick",
+              "score": -200
+            }
+          ]
+        },
+        {
+          "category": "TENNIS",
+          "value": 400,
+          "clue": "In 1988, this West German became only the third woman to win the Grand Slam",
+          "answer": "Steffi Graf",
+          "isDailyDouble": false,
+          "orderNumber": 4,
+          "correctContestants": [
+            "Rick"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Dave",
+              "score": 300
+            },
+            {
+              "player": "Sue",
+              "score": 100
+            },
+            {
+              "player": "Rick",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "SCIENCE",
+          "value": 100,
+          "clue": "A magnetron is used to generate this type of energy that can transmit sound, or cook",
+          "answer": "microwave energy",
+          "isDailyDouble": false,
+          "orderNumber": 5,
+          "correctContestants": [
+            "Rick"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Dave",
+              "score": 300
+            },
+            {
+              "player": "Sue",
+              "score": 100
+            },
+            {
+              "player": "Rick",
+              "score": 300
+            }
+          ]
+        },
+        {
+          "category": "SCIENCE",
+          "value": 200,
+          "clue": "Studying data from one of these occurrences, Mohorovicic discovered the crust-mantle boundary",
+          "answer": "earthquakes",
+          "isDailyDouble": false,
+          "orderNumber": 6,
+          "correctContestants": [
+            "Dave"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Dave",
+              "score": 500
+            },
+            {
+              "player": "Sue",
+              "score": 100
+            },
+            {
+              "player": "Rick",
+              "score": 300
+            }
+          ]
+        },
+        {
+          "category": "TENNIS",
+          "value": 500,
+          "clue": "This term refers to a score of 40-40",
+          "answer": "deuce",
+          "isDailyDouble": false,
+          "orderNumber": 7,
+          "correctContestants": [
+            "Rick"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Dave",
+              "score": 500
+            },
+            {
+              "player": "Sue",
+              "score": 100
+            },
+            {
+              "player": "Rick",
+              "score": 800
+            }
+          ]
+        },
+        {
+          "category": "SCIENCE",
+          "value": 300,
+          "clue": "Used in making soap & margarine, copra is the dried meat of this",
+          "answer": "the coconut",
+          "isDailyDouble": false,
+          "orderNumber": 8,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Dave",
+              "score": 500
+            },
+            {
+              "player": "Sue",
+              "score": 100
+            },
+            {
+              "player": "Rick",
+              "score": 800
+            }
+          ]
+        },
+        {
+          "category": "SCIENCE",
+          "value": 400,
+          "clue": "The small explosive device that sets off the main explosive charge",
+          "answer": "the primer (detonator)",
+          "isDailyDouble": false,
+          "orderNumber": 9,
+          "correctContestants": [
+            "Dave"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Dave",
+              "score": 900
+            },
+            {
+              "player": "Sue",
+              "score": 100
+            },
+            {
+              "player": "Rick",
+              "score": 800
+            }
+          ]
+        },
+        {
+          "category": "SCIENCE",
+          "value": 500,
+          "clue": "Also called gristle, found between your vertebrae, & also shapes your ears & nose",
+          "answer": "cartilage",
+          "isDailyDouble": false,
+          "orderNumber": 10,
+          "correctContestants": [
+            "Rick"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Dave",
+              "score": 900
+            },
+            {
+              "player": "Sue",
+              "score": 100
+            },
+            {
+              "player": "Rick",
+              "score": 1300
+            }
+          ]
+        },
+        {
+          "category": "ODD JOBS",
+          "value": 100,
+          "clue": "Known in France as Légion étrangère, you can still sign up",
+          "answer": "the French Foreign Legion",
+          "isDailyDouble": false,
+          "orderNumber": 11,
+          "correctContestants": [
+            "Rick"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Dave",
+              "score": 900
+            },
+            {
+              "player": "Sue",
+              "score": 100
+            },
+            {
+              "player": "Rick",
+              "score": 1400
+            }
+          ]
+        },
+        {
+          "category": "ODD JOBS",
+          "value": 200,
+          "clue": "Mystic warrior in feudal Japan trained in espionage & both armed & unarmed combat",
+          "answer": "a ninja",
+          "isDailyDouble": false,
+          "orderNumber": 12,
+          "correctContestants": [
+            "Rick"
+          ],
+          "incorrectContestants": [
+            "Dave"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Dave",
+              "score": 700
+            },
+            {
+              "player": "Sue",
+              "score": 100
+            },
+            {
+              "player": "Rick",
+              "score": 1600
+            }
+          ]
+        },
+        {
+          "category": "ODD JOBS",
+          "value": 300,
+          "clue": "Last seen in 1982, he's once again replying to consumer questions in Shell TV commercials",
+          "answer": "the (Shell) Answer Man",
+          "isDailyDouble": false,
+          "orderNumber": 13,
+          "correctContestants": [
+            "Sue"
+          ],
+          "incorrectContestants": [
+            "Rick"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Dave",
+              "score": 700
+            },
+            {
+              "player": "Sue",
+              "score": 400
+            },
+            {
+              "player": "Rick",
+              "score": 1300
+            }
+          ]
+        },
+        {
+          "category": "ODD JOBS",
+          "value": 400,
+          "clue": "The master of these leads fox hunters",
+          "answer": "the master of the hounds",
+          "isDailyDouble": false,
+          "orderNumber": 14,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Sue"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Dave",
+              "score": 700
+            },
+            {
+              "player": "Sue",
+              "score": 0
+            },
+            {
+              "player": "Rick",
+              "score": 1300
+            }
+          ]
+        },
+        {
+          "category": "ODD JOBS",
+          "value": 500,
+          "clue": "A prospector doing this might find gold, a critic didn't",
+          "answer": "panning",
+          "isDailyDouble": false,
+          "orderNumber": 15,
+          "correctContestants": [
+            "Dave"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Dave",
+              "score": 1200
+            },
+            {
+              "player": "Sue",
+              "score": 0
+            },
+            {
+              "player": "Rick",
+              "score": 1300
+            }
+          ]
+        },
+        {
+          "category": "THE OLD WEST",
+          "value": 100,
+          "clue": "Horace Smith's partner in  the gun trade",
+          "answer": "(Daniel B.) Wesson",
+          "isDailyDouble": false,
+          "orderNumber": 16,
+          "correctContestants": [
+            "Rick"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Dave",
+              "score": 1200
+            },
+            {
+              "player": "Sue",
+              "score": 0
+            },
+            {
+              "player": "Rick",
+              "score": 1400
+            }
+          ]
+        },
+        {
+          "category": "THE OLD WEST",
+          "value": 200,
+          "clue": "Spanish for \"prosperity\", Lorne Greene could have told you it meant a lucky find of gold",
+          "answer": "bonanza",
+          "isDailyDouble": false,
+          "orderNumber": 17,
+          "correctContestants": [
+            "Sue"
+          ],
+          "incorrectContestants": [
+            "Rick"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Dave",
+              "score": 1200
+            },
+            {
+              "player": "Sue",
+              "score": 200
+            },
+            {
+              "player": "Rick",
+              "score": 1200
+            }
+          ]
+        },
+        {
+          "category": "THE OLD WEST",
+          "value": 300,
+          "clue": "He captured Billy the Kid, lost him, tracked him down again & killed him",
+          "answer": "Pat Garrett",
+          "isDailyDouble": false,
+          "orderNumber": 18,
+          "correctContestants": [
+            "Dave"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Dave",
+              "score": 1500
+            },
+            {
+              "player": "Sue",
+              "score": 200
+            },
+            {
+              "player": "Rick",
+              "score": 1200
+            }
+          ]
+        },
+        {
+          "category": "THE OLD WEST",
+          "value": 400,
+          "clue": "Before the invention of this, West Texas had very few fences",
+          "answer": "barbed wire",
+          "isDailyDouble": false,
+          "orderNumber": 19,
+          "correctContestants": [
+            "Rick"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Dave",
+              "score": 1500
+            },
+            {
+              "player": "Sue",
+              "score": 200
+            },
+            {
+              "player": "Rick",
+              "score": 1600
+            }
+          ]
+        },
+        {
+          "category": "THE OLD WEST",
+          "value": 500,
+          "clue": "In the 19th century 130 million acres of federal land were granted to these companies",
+          "answer": "the railroad",
+          "isDailyDouble": false,
+          "orderNumber": 20,
+          "correctContestants": [
+            "Dave"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Dave",
+              "score": 2000
+            },
+            {
+              "player": "Sue",
+              "score": 200
+            },
+            {
+              "player": "Rick",
+              "score": 1600
+            }
+          ]
+        },
+        {
+          "category": "FILE UNDER LETTER \"I\"",
+          "value": 100,
+          "clue": "Thomas Gray wrote, \"Where\" this \"is bliss, Tis folly to be wise\"",
+          "answer": "ignorance",
+          "isDailyDouble": false,
+          "orderNumber": 21,
+          "correctContestants": [
+            "Rick"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Dave",
+              "score": 2000
+            },
+            {
+              "player": "Sue",
+              "score": 200
+            },
+            {
+              "player": "Rick",
+              "score": 1700
+            }
+          ]
+        },
+        {
+          "category": "FILE UNDER LETTER \"I\"",
+          "value": 200,
+          "clue": "A first baseman, as opposed to the guy out in right",
+          "answer": "an infielder",
+          "isDailyDouble": false,
+          "orderNumber": 22,
+          "correctContestants": [
+            "Sue"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Dave",
+              "score": 2000
+            },
+            {
+              "player": "Sue",
+              "score": 400
+            },
+            {
+              "player": "Rick",
+              "score": 1700
+            }
+          ]
+        },
+        {
+          "category": "FILE UNDER LETTER \"I\"",
+          "value": 300,
+          "clue": "It refers to a verb that doesn't require a direct object",
+          "answer": "intransitive verb",
+          "isDailyDouble": false,
+          "orderNumber": 23,
+          "correctContestants": [
+            "Sue"
+          ],
+          "incorrectContestants": [
+            "Rick"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Dave",
+              "score": 2000
+            },
+            {
+              "player": "Sue",
+              "score": 700
+            },
+            {
+              "player": "Rick",
+              "score": 1400
+            }
+          ]
+        },
+        {
+          "category": "FILE UNDER LETTER \"I\"",
+          "value": 400,
+          "clue": "On the ancient Roman calendar it was the 15 of May, too",
+          "answer": "ides",
+          "isDailyDouble": false,
+          "orderNumber": 24,
+          "correctContestants": [
+            "Rick"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Dave",
+              "score": 2000
+            },
+            {
+              "player": "Sue",
+              "score": 700
+            },
+            {
+              "player": "Rick",
+              "score": 1800
+            }
+          ]
+        },
+        {
+          "category": "FILE UNDER LETTER \"I\"",
+          "value": 1200,
+          "clue": "It's the official newspaper of the Soviet government",
+          "answer": "Izvestia",
+          "isDailyDouble": true,
+          "orderNumber": 25,
+          "correctContestants": [
+            "Rick"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Dave",
+              "score": 2000
+            },
+            {
+              "player": "Sue",
+              "score": 700
+            },
+            {
+              "player": "Rick",
+              "score": 3000
+            }
+          ]
+        },
+        {
+          "category": "KIDDIE LIT",
+          "value": 100,
+          "clue": "Hansel & Gretel spent some time in a gingerbread one of these",
+          "answer": "a house",
+          "isDailyDouble": false,
+          "orderNumber": 26,
+          "correctContestants": [
+            "Sue"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Dave",
+              "score": 2000
+            },
+            {
+              "player": "Sue",
+              "score": 800
+            },
+            {
+              "player": "Rick",
+              "score": 3000
+            }
+          ]
+        },
+        {
+          "category": "KIDDIE LIT",
+          "value": 200,
+          "clue": "In Peter Pan it was John, Michael & Wendy's last name, dear",
+          "answer": "Darling",
+          "isDailyDouble": false,
+          "orderNumber": 27,
+          "correctContestants": [
+            "Rick"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Dave",
+              "score": 2000
+            },
+            {
+              "player": "Sue",
+              "score": 800
+            },
+            {
+              "player": "Rick",
+              "score": 3200
+            }
+          ]
+        },
+        {
+          "category": "KIDDIE LIT",
+          "value": 300,
+          "clue": "In an E.B. White tale Frederick C. Little's second son looked & acted like one of these",
+          "answer": "a mouse",
+          "isDailyDouble": false,
+          "orderNumber": 28,
+          "correctContestants": [
+            "Dave"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Dave",
+              "score": 2300
+            },
+            {
+              "player": "Sue",
+              "score": 800
+            },
+            {
+              "player": "Rick",
+              "score": 3200
+            }
+          ]
+        },
+        {
+          "category": "KIDDIE LIT",
+          "value": 400,
+          "clue": "Animal mentioned in both Jack & the Beanstalk & Little Boy Blue",
+          "answer": "a cow",
+          "isDailyDouble": false,
+          "orderNumber": 29,
+          "correctContestants": [
+            "Dave"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Dave",
+              "score": 2700
+            },
+            {
+              "player": "Sue",
+              "score": 800
+            },
+            {
+              "player": "Rick",
+              "score": 3200
+            }
+          ]
+        },
+        {
+          "category": "KIDDIE LIT",
+          "value": 500,
+          "clue": "In a 1987 film Amy Irving played the miller's daughter & this character was played by Billy Barty",
+          "answer": "Rumpelstiltskin",
+          "isDailyDouble": false,
+          "orderNumber": 30,
+          "correctContestants": [
+            "Rick"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Dave",
+              "score": 2700
+            },
+            {
+              "player": "Sue",
+              "score": 800
+            },
+            {
+              "player": "Rick",
+              "score": 3700
+            }
+          ]
+        }
+      ],
+      "firstBreakScores": [
+        {
+          "player": "Dave",
+          "score": 1200
+        },
+        {
+          "player": "Sue",
+          "score": 0
+        },
+        {
+          "player": "Rick",
+          "score": 1300
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "Dave",
+          "score": 2700
+        },
+        {
+          "player": "Sue",
+          "score": 800
+        },
+        {
+          "player": "Rick",
+          "score": 3700
+        }
+      ]
+    },
+    "doubleJeopardy": {
+      "categories": [
+        "COMPOSERS",
+        "EUROPEAN CITIES",
+        "RULERS",
+        "POETRY",
+        "SHIPS",
+        "THE MOVIES"
+      ],
+      "clues": [
+        {
+          "category": "POETRY",
+          "value": 200,
+          "clue": "He wrote, \"Poems are made by fools like me, but only God can make a tree\"",
+          "answer": "(Joyce) Kilmer",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Dave",
+              "score": 2700
+            },
+            {
+              "player": "Sue",
+              "score": 800
+            },
+            {
+              "player": "Rick",
+              "score": 3900
+            }
+          ]
+        },
+        {
+          "category": "EUROPEAN CITIES",
+          "value": 200,
+          "clue": "In 1596, King Sigismund III moved the capital of Poland from Krakow to this city",
+          "answer": "Warsaw",
+          "isDailyDouble": false,
+          "orderNumber": 2,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Dave",
+              "score": 2700
+            },
+            {
+              "player": "Sue",
+              "score": 800
+            },
+            {
+              "player": "Rick",
+              "score": 4100
+            }
+          ]
+        },
+        {
+          "category": "EUROPEAN CITIES",
+          "value": 400,
+          "clue": "Gustave Eiffel was born in this city, perhaps with a mustard spoon in his mouth",
+          "answer": "Dijon",
+          "isDailyDouble": false,
+          "orderNumber": 3,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Dave",
+              "score": 2700
+            },
+            {
+              "player": "Sue",
+              "score": 1200
+            },
+            {
+              "player": "Rick",
+              "score": 4100
+            }
+          ]
+        },
+        {
+          "category": "EUROPEAN CITIES",
+          "value": 600,
+          "clue": "Dubrovnik, in this country, was founded in the 7th century by Roman refugees from the sacked town of Epidaurus",
+          "answer": "Yugoslavia",
+          "isDailyDouble": false,
+          "orderNumber": 4,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Dave",
+              "score": 2700
+            },
+            {
+              "player": "Sue",
+              "score": 1200
+            },
+            {
+              "player": "Rick",
+              "score": 4700
+            }
+          ]
+        },
+        {
+          "category": "EUROPEAN CITIES",
+          "value": 800,
+          "clue": "Shakespeare might have told you this Danish city is the site of Hamlet's castle",
+          "answer": "Elsinore",
+          "isDailyDouble": false,
+          "orderNumber": 5,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Dave",
+              "score": 2700
+            },
+            {
+              "player": "Sue",
+              "score": 1200
+            },
+            {
+              "player": "Rick",
+              "score": 3900
+            }
+          ]
+        },
+        {
+          "category": "EUROPEAN CITIES",
+          "value": 1000,
+          "clue": "In the 1800s Bergen was the cultural center of this country",
+          "answer": "Norway",
+          "isDailyDouble": false,
+          "orderNumber": 6,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Dave",
+              "score": 3700
+            },
+            {
+              "player": "Sue",
+              "score": 1200
+            },
+            {
+              "player": "Rick",
+              "score": 3900
+            }
+          ]
+        },
+        {
+          "category": "SHIPS",
+          "value": 200,
+          "clue": "In 1961, the USS Long Beach became the 1st naval surface ship using this type of power",
+          "answer": "nuclear power",
+          "isDailyDouble": false,
+          "orderNumber": 7,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Dave",
+              "score": 3700
+            },
+            {
+              "player": "Sue",
+              "score": 1400
+            },
+            {
+              "player": "Rick",
+              "score": 3900
+            }
+          ]
+        },
+        {
+          "category": "SHIPS",
+          "value": 400,
+          "clue": "In 1791 the HMS Pandora sailed into the harbor at Tahiti in search of this ship's crew",
+          "answer": "the Bounty",
+          "isDailyDouble": false,
+          "orderNumber": 8,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Dave",
+              "score": 3700
+            },
+            {
+              "player": "Sue",
+              "score": 1800
+            },
+            {
+              "player": "Rick",
+              "score": 3900
+            }
+          ]
+        },
+        {
+          "category": "SHIPS",
+          "value": 600,
+          "clue": "Robert Fulton called it the North River's Steamboat; we refer to it by this name",
+          "answer": "the Clermont",
+          "isDailyDouble": false,
+          "orderNumber": 9,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Dave",
+              "score": 3700
+            },
+            {
+              "player": "Sue",
+              "score": 2400
+            },
+            {
+              "player": "Rick",
+              "score": 3900
+            }
+          ]
+        },
+        {
+          "category": "SHIPS",
+          "value": 800,
+          "clue": "Sir Francis Drake's 100-ton ship, the Pelican, was renamed this, from the crest of one of his backers",
+          "answer": "the Golden Hind",
+          "isDailyDouble": false,
+          "orderNumber": 10,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Dave",
+              "score": 3700
+            },
+            {
+              "player": "Sue",
+              "score": 3200
+            },
+            {
+              "player": "Rick",
+              "score": 3100
+            }
+          ]
+        },
+        {
+          "category": "SHIPS",
+          "value": 1000,
+          "clue": "When launched in 1907, this British liner was the fastest ship afloat, but it was sunk 8 years later",
+          "answer": "the Lusitania",
+          "isDailyDouble": false,
+          "orderNumber": 11,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Dave",
+              "score": 3700
+            },
+            {
+              "player": "Sue",
+              "score": 4200
+            },
+            {
+              "player": "Rick",
+              "score": 3100
+            }
+          ]
+        },
+        {
+          "category": "POETRY",
+          "value": 400,
+          "clue": "\"I was prince of the apple towns\", this poet wrote of his Welsh childhood in \"Fern Hill\"",
+          "answer": "Dylan Thomas",
+          "isDailyDouble": false,
+          "orderNumber": 12,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Dave",
+              "score": 3700
+            },
+            {
+              "player": "Sue",
+              "score": 4200
+            },
+            {
+              "player": "Rick",
+              "score": 3500
+            }
+          ]
+        },
+        {
+          "category": "RULERS",
+          "value": 200,
+          "clue": "In spite of his dreadful reputation, this czar's first marriage in 1547 was apparently a happy one",
+          "answer": "Ivan the Terrible",
+          "isDailyDouble": false,
+          "orderNumber": 13,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Dave",
+              "score": 3700
+            },
+            {
+              "player": "Sue",
+              "score": 4200
+            },
+            {
+              "player": "Rick",
+              "score": 3700
+            }
+          ]
+        },
+        {
+          "category": "RULERS",
+          "value": 400,
+          "clue": "Ferdinand the Handsome, also known as Ferdinand the Fickle, was the 9th king of this small Iberian country",
+          "answer": "Portugal",
+          "isDailyDouble": false,
+          "orderNumber": 14,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Dave",
+              "score": 3700
+            },
+            {
+              "player": "Sue",
+              "score": 4200
+            },
+            {
+              "player": "Rick",
+              "score": 4100
+            }
+          ]
+        },
+        {
+          "category": "RULERS",
+          "value": 600,
+          "clue": "This French emperor was the grandson of Empress Josephine by her first husband, not by Napoleon",
+          "answer": "Louis-Napoléon (Napoleon III)",
+          "isDailyDouble": false,
+          "orderNumber": 15,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Dave",
+              "score": 3700
+            },
+            {
+              "player": "Sue",
+              "score": 4200
+            },
+            {
+              "player": "Rick",
+              "score": 4100
+            }
+          ]
+        },
+        {
+          "category": "RULERS",
+          "value": 800,
+          "clue": "She was invested in Amsterdam in 1898 and gave up her throne 50 years later",
+          "answer": "Wilhelmina",
+          "isDailyDouble": false,
+          "orderNumber": 16,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Dave",
+              "score": 3700
+            },
+            {
+              "player": "Sue",
+              "score": 5000
+            },
+            {
+              "player": "Rick",
+              "score": 3300
+            }
+          ]
+        },
+        {
+          "category": "RULERS",
+          "value": 2000,
+          "clue": "Philip V was the first Bourbon king of this country",
+          "answer": "Spain",
+          "isDailyDouble": true,
+          "orderNumber": 17,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Dave",
+              "score": 3700
+            },
+            {
+              "player": "Sue",
+              "score": 7000
+            },
+            {
+              "player": "Rick",
+              "score": 3300
+            }
+          ]
+        },
+        {
+          "category": "COMPOSERS",
+          "value": 200,
+          "clue": "In the 1790s, when he was in his 20s, he began to lose his hearing & it tormented him",
+          "answer": "Beethoven",
+          "isDailyDouble": false,
+          "orderNumber": 18,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Dave",
+              "score": 3700
+            },
+            {
+              "player": "Sue",
+              "score": 7000
+            },
+            {
+              "player": "Rick",
+              "score": 3500
+            }
+          ]
+        },
+        {
+          "category": "COMPOSERS",
+          "value": 800,
+          "clue": "This leading composer of lieder set Goethe's poem \"Gretchen at the Spinning Wheel\", to music",
+          "answer": "Schubert",
+          "isDailyDouble": false,
+          "orderNumber": 19,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Dave",
+              "score": 2900
+            },
+            {
+              "player": "Sue",
+              "score": 7800
+            },
+            {
+              "player": "Rick",
+              "score": 3500
+            }
+          ]
+        },
+        {
+          "category": "COMPOSERS",
+          "value": 400,
+          "clue": "Though German by birth, Handel became a naturalized subject of this country",
+          "answer": "England",
+          "isDailyDouble": false,
+          "orderNumber": 20,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Dave",
+              "score": 3300
+            },
+            {
+              "player": "Sue",
+              "score": 7800
+            },
+            {
+              "player": "Rick",
+              "score": 3500
+            }
+          ]
+        },
+        {
+          "category": "THE MOVIES",
+          "value": 200,
+          "clue": "Movie whose title is derived from Mozart's middle name",
+          "answer": "Amadeus",
+          "isDailyDouble": false,
+          "orderNumber": 21,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Dave",
+              "score": 3300
+            },
+            {
+              "player": "Sue",
+              "score": 7800
+            },
+            {
+              "player": "Rick",
+              "score": 3700
+            }
+          ]
+        },
+        {
+          "category": "COMPOSERS",
+          "value": 600,
+          "clue": "This \"Barber of Seville\" composer spent his later years in Paris & became as a host",
+          "answer": "(Gioachino) Rossini",
+          "isDailyDouble": false,
+          "orderNumber": 22,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Dave",
+              "score": 3300
+            },
+            {
+              "player": "Sue",
+              "score": 7800
+            },
+            {
+              "player": "Rick",
+              "score": 4300
+            }
+          ]
+        },
+        {
+          "category": "COMPOSERS",
+          "value": 3000,
+          "clue": "He based his \"Kullervo\", a symphonic poem, on the \"Kalevala\", the Finnish national epic",
+          "answer": "Sibelius",
+          "isDailyDouble": true,
+          "orderNumber": 23,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Dave",
+              "score": 3300
+            },
+            {
+              "player": "Sue",
+              "score": 7800
+            },
+            {
+              "player": "Rick",
+              "score": 7300
+            }
+          ]
+        },
+        {
+          "category": "THE MOVIES",
+          "value": 400,
+          "clue": "Director Francois Truffaut played a UFO researcher in this 1977 Spielberg film",
+          "answer": "Close Encounters of the Third Kind",
+          "isDailyDouble": false,
+          "orderNumber": 24,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Dave",
+              "score": 3300
+            },
+            {
+              "player": "Sue",
+              "score": 7800
+            },
+            {
+              "player": "Rick",
+              "score": 7700
+            }
+          ]
+        },
+        {
+          "category": "THE MOVIES",
+          "value": 600,
+          "clue": "Twyla Tharp choreographed both hippies & horses in New York's Central Park for this movie musical",
+          "answer": "Hair",
+          "isDailyDouble": false,
+          "orderNumber": 25,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Dave",
+              "score": 3300
+            },
+            {
+              "player": "Sue",
+              "score": 7800
+            },
+            {
+              "player": "Rick",
+              "score": 8300
+            }
+          ]
+        },
+        {
+          "category": "THE MOVIES",
+          "value": 800,
+          "clue": "This New York critic titled one of her books of reviews, \"I Lost It at the Movies\"",
+          "answer": "Pauline Kael",
+          "isDailyDouble": false,
+          "orderNumber": 26,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Dave",
+              "score": 4100
+            },
+            {
+              "player": "Sue",
+              "score": 7800
+            },
+            {
+              "player": "Rick",
+              "score": 8300
+            }
+          ]
+        },
+        {
+          "category": "THE MOVIES",
+          "value": 1000,
+          "clue": "Jack Webb produced, directed & starred in this jazz film of the '50s",
+          "answer": "Pete Kelly's Blues",
+          "isDailyDouble": false,
+          "orderNumber": 27,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Dave",
+              "score": 4100
+            },
+            {
+              "player": "Sue",
+              "score": 7800
+            },
+            {
+              "player": "Rick",
+              "score": 8300
+            }
+          ]
+        },
+        {
+          "category": "POETRY",
+          "value": 1000,
+          "clue": "3-line Japanese poem with 5 syllables in the first & third line, & 7 syllables in the second",
+          "answer": "haiku",
+          "isDailyDouble": false,
+          "orderNumber": 28,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Dave",
+              "score": 4100
+            },
+            {
+              "player": "Sue",
+              "score": 7800
+            },
+            {
+              "player": "Rick",
+              "score": 9300
+            }
+          ]
+        },
+        {
+          "category": "POETRY",
+          "value": 600,
+          "clue": "Gwendolyn Brooks was the first Black poet to win this award in 1950 for \"Annie Allen\"",
+          "answer": "the Pulitzer Prize",
+          "isDailyDouble": false,
+          "orderNumber": 29,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Dave",
+              "score": 4100
+            },
+            {
+              "player": "Sue",
+              "score": 8400
+            },
+            {
+              "player": "Rick",
+              "score": 9300
+            }
+          ]
+        },
+        {
+          "category": "POETRY",
+          "value": 800,
+          "clue": "His poem, \"The Tyger\", begins \"Tyger Tyger, burning bright, In the forests of the night\"",
+          "answer": "(William) Blake",
+          "isDailyDouble": false,
+          "orderNumber": 30,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Dave",
+              "score": 4100
+            },
+            {
+              "player": "Sue",
+              "score": 9200
+            },
+            {
+              "player": "Rick",
+              "score": 9300
+            }
+          ]
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "Dave",
+          "score": 4100
+        },
+        {
+          "player": "Sue",
+          "score": 9200
+        },
+        {
+          "player": "Rick",
+          "score": 9300
+        }
+      ]
+    },
+    "finalJeopardy": {
+      "category": "ORGANIZATIONS",
+      "clue": "Its 1st 2 headquarters were Central Hall in London & Hunter College in the Bronx",
+      "answer": "the United Nations",
+      "responses": [
+        {
+          "contestant": "Dave",
+          "response": "What is the United Nations?",
+          "isCorrect": true,
+          "isIncorrect": false,
+          "value": 100,
+          "finalScore": 4200
+        },
+        {
+          "contestant": "Sue",
+          "response": "What is the Red Cross?",
+          "isCorrect": false,
+          "isIncorrect": true,
+          "value": 9100,
+          "finalScore": 100
+        },
+        {
+          "contestant": "Rick",
+          "response": "What is the United Nations?",
+          "isCorrect": true,
+          "isIncorrect": false,
+          "value": 9101,
+          "finalScore": 18401
+        }
+      ]
+    }
+  },
+  "finalScores": [
+    {
+      "player": "Dave",
+      "score": "$4,200"
+    },
+    {
+      "player": "Sue",
+      "score": "$100"
+    },
+    {
+      "player": "Rick",
+      "score": "$18,401"
+    }
+  ],
+  "coryatScores": [
+    {
+      "player": "Dave",
+      "score": 4100
+    },
+    {
+      "player": "Sue",
+      "score": 8200
+    },
+    {
+      "player": "Rick",
+      "score": 6600
+    }
+  ]
+}

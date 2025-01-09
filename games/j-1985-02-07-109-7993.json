@@ -1,0 +1,1703 @@
+{
+  "gameId": 7993,
+  "showNumber": "109",
+  "title": "Show #109 - Thursday, February 7, 1985",
+  "date": "1985-02-07",
+  "comments": "Missing part of one incorrect response in Double Jeopardy! Round.",
+  "contestants": [
+    "Alan",
+    "Tony",
+    "Alison"
+  ],
+  "rounds": {
+    "jeopardy": {
+      "categories": [
+        "SCHOOL DAYS",
+        "LEGENDS",
+        "SKIING",
+        "\"LAST\" MOVIES",
+        "4-LETTER WORDS",
+        "TIME"
+      ],
+      "clues": [
+        {
+          "category": "\"LAST\" MOVIES",
+          "value": 100,
+          "clue": "The Band's 1st film & final concert",
+          "answer": "The Last Waltz",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [
+            "Tony"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alan",
+              "score": 0
+            },
+            {
+              "player": "Tony",
+              "score": 100
+            },
+            {
+              "player": "Alison",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "LEGENDS",
+          "value": 100,
+          "clue": "In Roman myth he was originally god of just water, not the sea",
+          "answer": "Neptune",
+          "isDailyDouble": false,
+          "orderNumber": 2,
+          "correctContestants": [
+            "Tony"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alan",
+              "score": 0
+            },
+            {
+              "player": "Tony",
+              "score": 200
+            },
+            {
+              "player": "Alison",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "LEGENDS",
+          "value": 200,
+          "clue": "Gorgon who might have kept up her permanent wave by feeding it mice",
+          "answer": "Medusa",
+          "isDailyDouble": false,
+          "orderNumber": 3,
+          "correctContestants": [
+            "Tony"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alan",
+              "score": 0
+            },
+            {
+              "player": "Tony",
+              "score": 400
+            },
+            {
+              "player": "Alison",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "LEGENDS",
+          "value": 300,
+          "clue": "As Mt. Olympus was to the Greeks, Asgard was to them",
+          "answer": "the Norsemen",
+          "isDailyDouble": false,
+          "orderNumber": 4,
+          "correctContestants": [
+            "Alan"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alan",
+              "score": 300
+            },
+            {
+              "player": "Tony",
+              "score": 400
+            },
+            {
+              "player": "Alison",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "\"LAST\" MOVIES",
+          "value": 200,
+          "clue": "Smooth-talking Robt. Preston recruited this teenage galaxy saver",
+          "answer": "The Last Starfighter",
+          "isDailyDouble": false,
+          "orderNumber": 5,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Tony"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Alan",
+              "score": 300
+            },
+            {
+              "player": "Tony",
+              "score": 200
+            },
+            {
+              "player": "Alison",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "\"LAST\" MOVIES",
+          "value": 300,
+          "clue": "See decadence! see persecution! see Vesuvius erupt!!!",
+          "answer": "The Last Days of Pompeii",
+          "isDailyDouble": false,
+          "orderNumber": 6,
+          "correctContestants": [
+            "Alison"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alan",
+              "score": 300
+            },
+            {
+              "player": "Tony",
+              "score": 200
+            },
+            {
+              "player": "Alison",
+              "score": 300
+            }
+          ]
+        },
+        {
+          "category": "4-LETTER WORDS",
+          "value": 100,
+          "clue": "Moo juice",
+          "answer": "milk",
+          "isDailyDouble": false,
+          "orderNumber": 7,
+          "correctContestants": [
+            "Tony"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alan",
+              "score": 300
+            },
+            {
+              "player": "Tony",
+              "score": 300
+            },
+            {
+              "player": "Alison",
+              "score": 300
+            }
+          ]
+        },
+        {
+          "category": "4-LETTER WORDS",
+          "value": 200,
+          "clue": "With this thing, I thee wed",
+          "answer": "a ring",
+          "isDailyDouble": false,
+          "orderNumber": 8,
+          "correctContestants": [
+            "Alan"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alan",
+              "score": 500
+            },
+            {
+              "player": "Tony",
+              "score": 300
+            },
+            {
+              "player": "Alison",
+              "score": 300
+            }
+          ]
+        },
+        {
+          "category": "SKIING",
+          "value": 100,
+          "clue": "Tubular ski equipment used for balance, or residents of Warsaw",
+          "answer": "a pole",
+          "isDailyDouble": false,
+          "orderNumber": 9,
+          "correctContestants": [
+            "Alan"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alan",
+              "score": 600
+            },
+            {
+              "player": "Tony",
+              "score": 300
+            },
+            {
+              "player": "Alison",
+              "score": 300
+            }
+          ]
+        },
+        {
+          "category": "SKIING",
+          "value": 200,
+          "clue": "This type of skiing is divided into cross country & jumping",
+          "answer": "Nordic skiing",
+          "isDailyDouble": false,
+          "orderNumber": 10,
+          "correctContestants": [
+            "Tony"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alan",
+              "score": 600
+            },
+            {
+              "player": "Tony",
+              "score": 500
+            },
+            {
+              "player": "Alison",
+              "score": 300
+            }
+          ]
+        },
+        {
+          "category": "LEGENDS",
+          "value": 400,
+          "clue": "The muse of epic poetry, or merry-go-round organs",
+          "answer": "Calliope",
+          "isDailyDouble": false,
+          "orderNumber": 11,
+          "correctContestants": [
+            "Tony"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alan",
+              "score": 600
+            },
+            {
+              "player": "Tony",
+              "score": 900
+            },
+            {
+              "player": "Alison",
+              "score": 300
+            }
+          ]
+        },
+        {
+          "category": "LEGENDS",
+          "value": 500,
+          "clue": "Loved by Leander or wanted by Bonnie Tyler",
+          "answer": "Hero",
+          "isDailyDouble": false,
+          "orderNumber": 12,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Alan",
+              "score": 600
+            },
+            {
+              "player": "Tony",
+              "score": 900
+            },
+            {
+              "player": "Alison",
+              "score": 300
+            }
+          ]
+        },
+        {
+          "category": "4-LETTER WORDS",
+          "value": 300,
+          "clue": "The weakest part of the strongest chain",
+          "answer": "a link",
+          "isDailyDouble": false,
+          "orderNumber": 13,
+          "correctContestants": [
+            "Alison"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alan",
+              "score": 600
+            },
+            {
+              "player": "Tony",
+              "score": 900
+            },
+            {
+              "player": "Alison",
+              "score": 600
+            }
+          ]
+        },
+        {
+          "category": "4-LETTER WORDS",
+          "value": 400,
+          "clue": "To prepare for action, one can do this to one's loins",
+          "answer": "gird",
+          "isDailyDouble": false,
+          "orderNumber": 14,
+          "correctContestants": [
+            "Alison"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alan",
+              "score": 600
+            },
+            {
+              "player": "Tony",
+              "score": 900
+            },
+            {
+              "player": "Alison",
+              "score": 1000
+            }
+          ]
+        },
+        {
+          "category": "4-LETTER WORDS",
+          "value": 500,
+          "clue": "A 4-letter way to glide through the air",
+          "answer": "soar",
+          "isDailyDouble": false,
+          "orderNumber": 15,
+          "correctContestants": [
+            "Alison"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alan",
+              "score": 600
+            },
+            {
+              "player": "Tony",
+              "score": 900
+            },
+            {
+              "player": "Alison",
+              "score": 1500
+            }
+          ]
+        },
+        {
+          "category": "SCHOOL DAYS",
+          "value": 100,
+          "clue": "In college & high school, a second year student",
+          "answer": "a sophomore",
+          "isDailyDouble": false,
+          "orderNumber": 16,
+          "correctContestants": [
+            "Tony"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alan",
+              "score": 600
+            },
+            {
+              "player": "Tony",
+              "score": 1000
+            },
+            {
+              "player": "Alison",
+              "score": 1500
+            }
+          ]
+        },
+        {
+          "category": "SCHOOL DAYS",
+          "value": 200,
+          "clue": "Traditional term for officials who investigate AWOL students",
+          "answer": "truant officers",
+          "isDailyDouble": false,
+          "orderNumber": 17,
+          "correctContestants": [
+            "Tony"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alan",
+              "score": 600
+            },
+            {
+              "player": "Tony",
+              "score": 1200
+            },
+            {
+              "player": "Alison",
+              "score": 1500
+            }
+          ]
+        },
+        {
+          "category": "SCHOOL DAYS",
+          "value": 300,
+          "clue": "Grammar school activity that might be called \"exhibit & elucidate\"",
+          "answer": "show & tell",
+          "isDailyDouble": false,
+          "orderNumber": 18,
+          "correctContestants": [
+            "Alison"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alan",
+              "score": 600
+            },
+            {
+              "player": "Tony",
+              "score": 1200
+            },
+            {
+              "player": "Alison",
+              "score": 1800
+            }
+          ]
+        },
+        {
+          "category": "SCHOOL DAYS",
+          "value": 400,
+          "clue": "This educator's \"Eclectic Reader\" sold millions of copies in the 19th century",
+          "answer": "McGuffey",
+          "isDailyDouble": false,
+          "orderNumber": 19,
+          "correctContestants": [
+            "Tony"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alan",
+              "score": 600
+            },
+            {
+              "player": "Tony",
+              "score": 1600
+            },
+            {
+              "player": "Alison",
+              "score": 1800
+            }
+          ]
+        },
+        {
+          "category": "SCHOOL DAYS",
+          "value": 500,
+          "clue": "Learning disability in which sufferers reverse words like \"was\" & \"saw\", for example",
+          "answer": "dyslexia",
+          "isDailyDouble": false,
+          "orderNumber": 20,
+          "correctContestants": [
+            "Alison"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alan",
+              "score": 600
+            },
+            {
+              "player": "Tony",
+              "score": 1600
+            },
+            {
+              "player": "Alison",
+              "score": 2300
+            }
+          ]
+        },
+        {
+          "category": "TIME",
+          "value": 100,
+          "clue": "Nat King Cole said it had \"lazy, hazy, crazy days\"",
+          "answer": "summertime",
+          "isDailyDouble": false,
+          "orderNumber": 21,
+          "correctContestants": [
+            "Tony"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alan",
+              "score": 600
+            },
+            {
+              "player": "Tony",
+              "score": 1700
+            },
+            {
+              "player": "Alison",
+              "score": 2300
+            }
+          ]
+        },
+        {
+          "category": "TIME",
+          "value": 200,
+          "clue": "They can be split, lieutenants, or sold in discount stores",
+          "answer": "seconds",
+          "isDailyDouble": false,
+          "orderNumber": 22,
+          "correctContestants": [
+            "Alan"
+          ],
+          "incorrectContestants": [
+            "Alison"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alan",
+              "score": 800
+            },
+            {
+              "player": "Tony",
+              "score": 1700
+            },
+            {
+              "player": "Alison",
+              "score": 2100
+            }
+          ]
+        },
+        {
+          "category": "SKIING",
+          "value": 300,
+          "clue": "Frenchman who won all 3 Alpine gold medals in 1968 Olympics",
+          "answer": "Jean-Claude Killy",
+          "isDailyDouble": false,
+          "orderNumber": 23,
+          "correctContestants": [
+            "Alan"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alan",
+              "score": 1100
+            },
+            {
+              "player": "Tony",
+              "score": 1700
+            },
+            {
+              "player": "Alison",
+              "score": 2100
+            }
+          ]
+        },
+        {
+          "category": "SKIING",
+          "value": 400,
+          "clue": "Gerald Ford's favorite Colorado ski spot",
+          "answer": "Vail",
+          "isDailyDouble": false,
+          "orderNumber": 24,
+          "correctContestants": [
+            "Tony"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alan",
+              "score": 1100
+            },
+            {
+              "player": "Tony",
+              "score": 2100
+            },
+            {
+              "player": "Alison",
+              "score": 2100
+            }
+          ]
+        },
+        {
+          "category": "SKIING",
+          "value": 500,
+          "clue": "A way for a politician to avoid an issue, or to climb a hill on skis",
+          "answer": "to sidestep",
+          "isDailyDouble": false,
+          "orderNumber": 25,
+          "correctContestants": [
+            "Tony"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alan",
+              "score": 1100
+            },
+            {
+              "player": "Tony",
+              "score": 2600
+            },
+            {
+              "player": "Alison",
+              "score": 2100
+            }
+          ]
+        },
+        {
+          "category": "\"LAST\" MOVIES",
+          "value": 400,
+          "clue": "Peter Bogdanovich's somber '71 tale of Texas",
+          "answer": "The Last Picture Show",
+          "isDailyDouble": false,
+          "orderNumber": 26,
+          "correctContestants": [
+            "Tony"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alan",
+              "score": 1100
+            },
+            {
+              "player": "Tony",
+              "score": 3000
+            },
+            {
+              "player": "Alison",
+              "score": 2100
+            }
+          ]
+        },
+        {
+          "category": "\"LAST\" MOVIES",
+          "value": 500,
+          "clue": "Neil Simon's middle class, middle-aged Don Juan",
+          "answer": "The Last of the Red Hot Lovers",
+          "isDailyDouble": false,
+          "orderNumber": 27,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Alison"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Alan",
+              "score": 1100
+            },
+            {
+              "player": "Tony",
+              "score": 3000
+            },
+            {
+              "player": "Alison",
+              "score": 1600
+            }
+          ]
+        },
+        {
+          "category": "TIME",
+          "value": 300,
+          "clue": "Said one way, it's a small part of an hour, the other way, just a small part",
+          "answer": "minute",
+          "isDailyDouble": false,
+          "orderNumber": 28,
+          "correctContestants": [
+            "Alan"
+          ],
+          "incorrectContestants": [
+            "Tony"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alan",
+              "score": 1400
+            },
+            {
+              "player": "Tony",
+              "score": 2700
+            },
+            {
+              "player": "Alison",
+              "score": 1600
+            }
+          ]
+        },
+        {
+          "category": "TIME",
+          "value": 1000,
+          "clue": "Time mentioned in the rhyme \"Hickory Dickory Dock\"",
+          "answer": "one",
+          "isDailyDouble": true,
+          "orderNumber": 29,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Alan"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alan",
+              "score": 400
+            },
+            {
+              "player": "Tony",
+              "score": 2700
+            },
+            {
+              "player": "Alison",
+              "score": 1600
+            }
+          ]
+        },
+        {
+          "category": "TIME",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alan",
+              "score": 400
+            },
+            {
+              "player": "Tony",
+              "score": 2700
+            },
+            {
+              "player": "Alison",
+              "score": 1600
+            }
+          ]
+        }
+      ],
+      "firstBreakScores": [
+        {
+          "player": "Alan",
+          "score": 600
+        },
+        {
+          "player": "Tony",
+          "score": 900
+        },
+        {
+          "player": "Alison",
+          "score": 300
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "Alan",
+          "score": 400
+        },
+        {
+          "player": "Tony",
+          "score": 2700
+        },
+        {
+          "player": "Alison",
+          "score": 1600
+        }
+      ]
+    },
+    "doubleJeopardy": {
+      "categories": [
+        "BOTANY",
+        "WORD ORIGINS",
+        "TOUGH TRIVIA",
+        "AMERICAN HISTORY",
+        "JOURNALISM",
+        "CLASSICAL MUSIC"
+      ],
+      "clues": [
+        {
+          "category": "AMERICAN HISTORY",
+          "value": 200,
+          "clue": "Miners headed for the Rockies vowed to make it this far \"or bust\"",
+          "answer": "Pike's Peak",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Tony"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alan",
+              "score": 200
+            },
+            {
+              "player": "Tony",
+              "score": 2500
+            },
+            {
+              "player": "Alison",
+              "score": 1800
+            }
+          ]
+        },
+        {
+          "category": "WORD ORIGINS",
+          "value": 200,
+          "clue": "To kidnap someone especially for naval service, from name of large Chinese city",
+          "answer": "Shanghai",
+          "isDailyDouble": false,
+          "orderNumber": 2,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alan",
+              "score": 200
+            },
+            {
+              "player": "Tony",
+              "score": 2500
+            },
+            {
+              "player": "Alison",
+              "score": 2000
+            }
+          ]
+        },
+        {
+          "category": "WORD ORIGINS",
+          "value": 400,
+          "clue": "Mental derangement associated with certain phases of the moon",
+          "answer": "lunacy",
+          "isDailyDouble": false,
+          "orderNumber": 3,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alan",
+              "score": 200
+            },
+            {
+              "player": "Tony",
+              "score": 2500
+            },
+            {
+              "player": "Alison",
+              "score": 2400
+            }
+          ]
+        },
+        {
+          "category": "WORD ORIGINS",
+          "value": 600,
+          "clue": "From German town, Nieder Selters, which had an effervescent spring",
+          "answer": "seltzer",
+          "isDailyDouble": false,
+          "orderNumber": 4,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alan",
+              "score": 200
+            },
+            {
+              "player": "Tony",
+              "score": 3100
+            },
+            {
+              "player": "Alison",
+              "score": 2400
+            }
+          ]
+        },
+        {
+          "category": "AMERICAN HISTORY",
+          "value": 400,
+          "clue": "America's 1st national flag had this country's flag in its upper corner",
+          "answer": "England",
+          "isDailyDouble": false,
+          "orderNumber": 5,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alan",
+              "score": 200
+            },
+            {
+              "player": "Tony",
+              "score": 2700
+            },
+            {
+              "player": "Alison",
+              "score": 2800
+            }
+          ]
+        },
+        {
+          "category": "WORD ORIGINS",
+          "value": 800,
+          "clue": "From Persian \"Shir-o-shakar\" meaning milk & sugar, it's a puckered, striped cloth",
+          "answer": "seersucker",
+          "isDailyDouble": false,
+          "orderNumber": 6,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alan",
+              "score": 1000
+            },
+            {
+              "player": "Tony",
+              "score": 2700
+            },
+            {
+              "player": "Alison",
+              "score": 2800
+            }
+          ]
+        },
+        {
+          "category": "WORD ORIGINS",
+          "value": 1000,
+          "clue": "Murderer of a prominent person, from Arabic term for hashish addict",
+          "answer": "assassin",
+          "isDailyDouble": true,
+          "orderNumber": 7,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alan",
+              "score": 2000
+            },
+            {
+              "player": "Tony",
+              "score": 2700
+            },
+            {
+              "player": "Alison",
+              "score": 2800
+            }
+          ]
+        },
+        {
+          "category": "TOUGH TRIVIA",
+          "value": 200,
+          "clue": "What a Moscow resident is properly called",
+          "answer": "Muscovite",
+          "isDailyDouble": false,
+          "orderNumber": 8,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alan",
+              "score": 2000
+            },
+            {
+              "player": "Tony",
+              "score": 2700
+            },
+            {
+              "player": "Alison",
+              "score": 3000
+            }
+          ]
+        },
+        {
+          "category": "TOUGH TRIVIA",
+          "value": 400,
+          "clue": "It is said that for every living one of these, there are about 30 dead & buried",
+          "answer": "human beings (people)",
+          "isDailyDouble": false,
+          "orderNumber": 9,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alan",
+              "score": 2000
+            },
+            {
+              "player": "Tony",
+              "score": 3100
+            },
+            {
+              "player": "Alison",
+              "score": 2600
+            }
+          ]
+        },
+        {
+          "category": "TOUGH TRIVIA",
+          "value": 600,
+          "clue": "What phobophobes fear",
+          "answer": "everything",
+          "isDailyDouble": false,
+          "orderNumber": 10,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alan",
+              "score": 2000
+            },
+            {
+              "player": "Tony",
+              "score": 3700
+            },
+            {
+              "player": "Alison",
+              "score": 2600
+            }
+          ]
+        },
+        {
+          "category": "TOUGH TRIVIA",
+          "value": 800,
+          "clue": "The 2 U.S. states that have no snakes naturally",
+          "answer": "Alaska & Hawaii",
+          "isDailyDouble": false,
+          "orderNumber": 11,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alan",
+              "score": 2000
+            },
+            {
+              "player": "Tony",
+              "score": 4500
+            },
+            {
+              "player": "Alison",
+              "score": 1800
+            }
+          ]
+        },
+        {
+          "category": "TOUGH TRIVIA",
+          "value": 1000,
+          "clue": "In 1899, Henry H. Bliss had dubious honor of being 1st to die on NYC street as result of this",
+          "answer": "an automobile accident",
+          "isDailyDouble": false,
+          "orderNumber": 12,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alan",
+              "score": 2000
+            },
+            {
+              "player": "Tony",
+              "score": 5500
+            },
+            {
+              "player": "Alison",
+              "score": 1800
+            }
+          ]
+        },
+        {
+          "category": "AMERICAN HISTORY",
+          "value": 600,
+          "clue": "The camel was appropriate 1920 symbol for the party pushing for this",
+          "answer": "prohibition",
+          "isDailyDouble": false,
+          "orderNumber": 13,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alan",
+              "score": 2000
+            },
+            {
+              "player": "Tony",
+              "score": 6100
+            },
+            {
+              "player": "Alison",
+              "score": 1800
+            }
+          ]
+        },
+        {
+          "category": "AMERICAN HISTORY",
+          "value": 800,
+          "clue": "When the Antebellum period occurred in American history",
+          "answer": "before the Civil War",
+          "isDailyDouble": false,
+          "orderNumber": 14,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alan",
+              "score": 2000
+            },
+            {
+              "player": "Tony",
+              "score": 6900
+            },
+            {
+              "player": "Alison",
+              "score": 1800
+            }
+          ]
+        },
+        {
+          "category": "AMERICAN HISTORY",
+          "value": 1000,
+          "clue": "Henry David Thoreau refused to pay taxes to support this war",
+          "answer": "Mexican-American War",
+          "isDailyDouble": false,
+          "orderNumber": 15,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Alison"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alan",
+              "score": 3000
+            },
+            {
+              "player": "Tony",
+              "score": 5900
+            },
+            {
+              "player": "Alison",
+              "score": 800
+            }
+          ]
+        },
+        {
+          "category": "CLASSICAL MUSIC",
+          "value": 200,
+          "clue": "Eugene Ormandy conducts this famous Pennsylvania symphony",
+          "answer": "the Philadelphia (Orchestra)",
+          "isDailyDouble": false,
+          "orderNumber": 16,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alan",
+              "score": 3200
+            },
+            {
+              "player": "Tony",
+              "score": 5900
+            },
+            {
+              "player": "Alison",
+              "score": 800
+            }
+          ]
+        },
+        {
+          "category": "CLASSICAL MUSIC",
+          "value": 400,
+          "clue": "Aaron Copland's ballet music keeps this outlaw on his toes",
+          "answer": "Billy the Kid",
+          "isDailyDouble": false,
+          "orderNumber": 17,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Alan",
+              "score": 3200
+            },
+            {
+              "player": "Tony",
+              "score": 5500
+            },
+            {
+              "player": "Alison",
+              "score": 800
+            }
+          ]
+        },
+        {
+          "category": "CLASSICAL MUSIC",
+          "value": 600,
+          "clue": "Geographical subtitle for this Dvorak symphony[Instrumental music plays]",
+          "answer": "\"Symphony From The New World\"",
+          "isDailyDouble": true,
+          "orderNumber": 18,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alan",
+              "score": 2600
+            },
+            {
+              "player": "Tony",
+              "score": 5500
+            },
+            {
+              "player": "Alison",
+              "score": 800
+            }
+          ]
+        },
+        {
+          "category": "BOTANY",
+          "value": 200,
+          "clue": "Acorns are the fruit of this tree",
+          "answer": "an oak tree",
+          "isDailyDouble": false,
+          "orderNumber": 19,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alan",
+              "score": 2600
+            },
+            {
+              "player": "Tony",
+              "score": 5500
+            },
+            {
+              "player": "Alison",
+              "score": 1000
+            }
+          ]
+        },
+        {
+          "category": "JOURNALISM",
+          "value": 200,
+          "clue": "Host of TV's \"Firing Line\", his syndicated column is called \"On the Right\"",
+          "answer": "William F. Buckley",
+          "isDailyDouble": false,
+          "orderNumber": 20,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alan",
+              "score": 2600
+            },
+            {
+              "player": "Tony",
+              "score": 5700
+            },
+            {
+              "player": "Alison",
+              "score": 1000
+            }
+          ]
+        },
+        {
+          "category": "BOTANY",
+          "value": 400,
+          "clue": "Most American grown ginseng is exported to this country",
+          "answer": "China",
+          "isDailyDouble": false,
+          "orderNumber": 21,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Alan",
+              "score": 2200
+            },
+            {
+              "player": "Tony",
+              "score": 5700
+            },
+            {
+              "player": "Alison",
+              "score": 1000
+            }
+          ]
+        },
+        {
+          "category": "BOTANY",
+          "value": 600,
+          "clue": "From the Spanish word for \"raft\", this wood is twice as buoyant as cork",
+          "answer": "balsa",
+          "isDailyDouble": false,
+          "orderNumber": 22,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alan",
+              "score": 2800
+            },
+            {
+              "player": "Tony",
+              "score": 5700
+            },
+            {
+              "player": "Alison",
+              "score": 1000
+            }
+          ]
+        },
+        {
+          "category": "JOURNALISM",
+          "value": 1000,
+          "clue": "In \"Continental Divide\", John Belushi played character modeled on this Chicago columnist",
+          "answer": "Mike Royko",
+          "isDailyDouble": false,
+          "orderNumber": 23,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alan",
+              "score": 2800
+            },
+            {
+              "player": "Tony",
+              "score": 6700
+            },
+            {
+              "player": "Alison",
+              "score": 1000
+            }
+          ]
+        },
+        {
+          "category": "BOTANY",
+          "value": 800,
+          "clue": "Ferns reproduce by means of these",
+          "answer": "spores",
+          "isDailyDouble": false,
+          "orderNumber": 24,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alan",
+              "score": 2800
+            },
+            {
+              "player": "Tony",
+              "score": 7500
+            },
+            {
+              "player": "Alison",
+              "score": 1000
+            }
+          ]
+        },
+        {
+          "category": "JOURNALISM",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alan",
+              "score": 2800
+            },
+            {
+              "player": "Tony",
+              "score": 7500
+            },
+            {
+              "player": "Alison",
+              "score": 1000
+            }
+          ]
+        },
+        {
+          "category": "JOURNALISM",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alan",
+              "score": 2800
+            },
+            {
+              "player": "Tony",
+              "score": 7500
+            },
+            {
+              "player": "Alison",
+              "score": 1000
+            }
+          ]
+        },
+        {
+          "category": "JOURNALISM",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alan",
+              "score": 2800
+            },
+            {
+              "player": "Tony",
+              "score": 7500
+            },
+            {
+              "player": "Alison",
+              "score": 1000
+            }
+          ]
+        },
+        {
+          "category": "CLASSICAL MUSIC",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alan",
+              "score": 2800
+            },
+            {
+              "player": "Tony",
+              "score": 7500
+            },
+            {
+              "player": "Alison",
+              "score": 1000
+            }
+          ]
+        },
+        {
+          "category": "BOTANY",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alan",
+              "score": 2800
+            },
+            {
+              "player": "Tony",
+              "score": 7500
+            },
+            {
+              "player": "Alison",
+              "score": 1000
+            }
+          ]
+        },
+        {
+          "category": "CLASSICAL MUSIC",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alan",
+              "score": 2800
+            },
+            {
+              "player": "Tony",
+              "score": 7500
+            },
+            {
+              "player": "Alison",
+              "score": 1000
+            }
+          ]
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "Alan",
+          "score": 2800
+        },
+        {
+          "player": "Tony",
+          "score": 7500
+        },
+        {
+          "player": "Alison",
+          "score": 1000
+        }
+      ]
+    },
+    "finalJeopardy": {
+      "category": "PRESIDENTS",
+      "clue": "Last President to appoint a Chief Justice of the Supreme Court",
+      "answer": "Richard Nixon",
+      "responses": [
+        {
+          "contestant": "Alison",
+          "response": "Who is Ford?",
+          "isCorrect": false,
+          "isIncorrect": true,
+          "value": 999,
+          "finalScore": 1
+        },
+        {
+          "contestant": "Alan",
+          "response": "Who is Reagan Joh",
+          "isCorrect": false,
+          "isIncorrect": true,
+          "value": 2799,
+          "finalScore": 1
+        },
+        {
+          "contestant": "Tony",
+          "response": "Who was Nixon?",
+          "isCorrect": true,
+          "isIncorrect": false,
+          "value": 1000,
+          "finalScore": 8500
+        }
+      ]
+    }
+  },
+  "finalScores": [
+    {
+      "player": "Alan",
+      "score": "$1"
+    },
+    {
+      "player": "Tony",
+      "score": "$8,500"
+    },
+    {
+      "player": "Alison",
+      "score": "$1"
+    }
+  ],
+  "coryatScores": [
+    {
+      "player": "Alan",
+      "score": 4400
+    },
+    {
+      "player": "Tony",
+      "score": 7500
+    },
+    {
+      "player": "Alison",
+      "score": 1000
+    }
+  ]
+}

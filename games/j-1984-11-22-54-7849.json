@@ -1,0 +1,1689 @@
+{
+  "gameId": 7849,
+  "showNumber": "54",
+  "title": "Show #54 - Thursday, November 22, 1984",
+  "date": "1984-11-22",
+  "comments": "Game entered from audiorecording. Missing prizes.",
+  "contestants": [
+    "Richard",
+    "Veronica",
+    "Alan"
+  ],
+  "rounds": {
+    "jeopardy": {
+      "categories": [
+        "FOREIGN CITIES",
+        "POTENT POTABLES",
+        "ETIQUETTE",
+        "TELEVISION",
+        "FLAGS",
+        "\"CAT\"EGORY"
+      ],
+      "clues": [
+        {
+          "category": "FOREIGN CITIES",
+          "value": 100,
+          "clue": "Name of French national anthem comes from the name of this French city",
+          "answer": "Marseille",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [
+            "Richard"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Richard",
+              "score": 100
+            },
+            {
+              "player": "Veronica",
+              "score": 0
+            },
+            {
+              "player": "Alan",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "FOREIGN CITIES",
+          "value": 200,
+          "clue": "Noted for its Harbour Bridge & shell-shaped opera house",
+          "answer": "Sydney",
+          "isDailyDouble": false,
+          "orderNumber": 2,
+          "correctContestants": [
+            "Veronica"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Richard",
+              "score": 100
+            },
+            {
+              "player": "Veronica",
+              "score": 200
+            },
+            {
+              "player": "Alan",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "FOREIGN CITIES",
+          "value": 100,
+          "clue": "Its baseball team is named for '67 World's Fair held there",
+          "answer": "Montreal",
+          "isDailyDouble": true,
+          "orderNumber": 3,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Veronica"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Richard",
+              "score": 100
+            },
+            {
+              "player": "Veronica",
+              "score": 100
+            },
+            {
+              "player": "Alan",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "ETIQUETTE",
+          "value": 100,
+          "clue": "At the theater they should still take the aisle seat",
+          "answer": "men",
+          "isDailyDouble": false,
+          "orderNumber": 4,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Richard"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Richard",
+              "score": 0
+            },
+            {
+              "player": "Veronica",
+              "score": 100
+            },
+            {
+              "player": "Alan",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "ETIQUETTE",
+          "value": 200,
+          "clue": "2-letter title many modern women prefer",
+          "answer": "Ms.",
+          "isDailyDouble": false,
+          "orderNumber": 5,
+          "correctContestants": [
+            "Veronica"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Richard",
+              "score": 0
+            },
+            {
+              "player": "Veronica",
+              "score": 300
+            },
+            {
+              "player": "Alan",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "ETIQUETTE",
+          "value": 300,
+          "clue": "Standard tip for a flight attendant",
+          "answer": "nothing",
+          "isDailyDouble": false,
+          "orderNumber": 6,
+          "correctContestants": [
+            "Richard"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Richard",
+              "score": 300
+            },
+            {
+              "player": "Veronica",
+              "score": 300
+            },
+            {
+              "player": "Alan",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "FOREIGN CITIES",
+          "value": 400,
+          "clue": "Black urban complex outside Johannesburg, acronym of South Western Townships",
+          "answer": "Soweto",
+          "isDailyDouble": false,
+          "orderNumber": 7,
+          "correctContestants": [
+            "Richard"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Richard",
+              "score": 700
+            },
+            {
+              "player": "Veronica",
+              "score": 300
+            },
+            {
+              "player": "Alan",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "FOREIGN CITIES",
+          "value": 500,
+          "clue": "Chinese city that's a Portuguese colony",
+          "answer": "Macau",
+          "isDailyDouble": false,
+          "orderNumber": 8,
+          "correctContestants": [
+            "Richard"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Richard",
+              "score": 1200
+            },
+            {
+              "player": "Veronica",
+              "score": 300
+            },
+            {
+              "player": "Alan",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "FLAGS",
+          "value": 100,
+          "clue": "Since '64 it's waved for Richard Petty 7 times at Daytona",
+          "answer": "the checkered flag",
+          "isDailyDouble": false,
+          "orderNumber": 9,
+          "correctContestants": [
+            "Alan"
+          ],
+          "incorrectContestants": [
+            "Richard"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Richard",
+              "score": 1100
+            },
+            {
+              "player": "Veronica",
+              "score": 300
+            },
+            {
+              "player": "Alan",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "category": "TELEVISION",
+          "value": 100,
+          "clue": "Traded his female finery on \"M*A*S*H\" for a suit & tie on \"AfterMASH\"",
+          "answer": "Jamie Farr",
+          "isDailyDouble": false,
+          "orderNumber": 10,
+          "correctContestants": [
+            "Richard"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Richard",
+              "score": 1200
+            },
+            {
+              "player": "Veronica",
+              "score": 300
+            },
+            {
+              "player": "Alan",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "category": "FLAGS",
+          "value": 200,
+          "clue": "Monochromatic flag appropriate for Lee at Appomattox & Napoleon at Waterloo",
+          "answer": "a white flag",
+          "isDailyDouble": false,
+          "orderNumber": 11,
+          "correctContestants": [
+            "Richard"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Richard",
+              "score": 1400
+            },
+            {
+              "player": "Veronica",
+              "score": 300
+            },
+            {
+              "player": "Alan",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "category": "FLAGS",
+          "value": 300,
+          "clue": "The only state flag with a picture of George Washington",
+          "answer": "Washington",
+          "isDailyDouble": false,
+          "orderNumber": 12,
+          "correctContestants": [
+            "Alan"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Richard",
+              "score": 1400
+            },
+            {
+              "player": "Veronica",
+              "score": 300
+            },
+            {
+              "player": "Alan",
+              "score": 400
+            }
+          ]
+        },
+        {
+          "category": "TELEVISION",
+          "value": 200,
+          "clue": "Meredith Baxter Birney is hippie mom to straight-laced Michael Fox in this series",
+          "answer": "Family Ties",
+          "isDailyDouble": false,
+          "orderNumber": 13,
+          "correctContestants": [
+            "Veronica"
+          ],
+          "incorrectContestants": [
+            "Richard"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Richard",
+              "score": 1200
+            },
+            {
+              "player": "Veronica",
+              "score": 500
+            },
+            {
+              "player": "Alan",
+              "score": 400
+            }
+          ]
+        },
+        {
+          "category": "TELEVISION",
+          "value": 300,
+          "clue": "Left his \"Prairie\" home for a \"Highway to Heaven\"",
+          "answer": "Michael Landon",
+          "isDailyDouble": false,
+          "orderNumber": 14,
+          "correctContestants": [
+            "Alan"
+          ],
+          "incorrectContestants": [
+            "Veronica"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Richard",
+              "score": 1200
+            },
+            {
+              "player": "Veronica",
+              "score": 200
+            },
+            {
+              "player": "Alan",
+              "score": 700
+            }
+          ]
+        },
+        {
+          "category": "TELEVISION",
+          "value": 400,
+          "clue": "Toothsome twosome who are \"Partners in Crime\" this season on NBC",
+          "answer": "Lynda Carter & Loni Anderson",
+          "isDailyDouble": false,
+          "orderNumber": 15,
+          "correctContestants": [
+            "Alan"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Richard",
+              "score": 1200
+            },
+            {
+              "player": "Veronica",
+              "score": 200
+            },
+            {
+              "player": "Alan",
+              "score": 1100
+            }
+          ]
+        },
+        {
+          "category": "TELEVISION",
+          "value": 500,
+          "clue": "Though she lost her \"Hart\", she stars in miniseries \"Mistral's Daughter\"",
+          "answer": "Stefanie Powers",
+          "isDailyDouble": false,
+          "orderNumber": 16,
+          "correctContestants": [
+            "Richard"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Richard",
+              "score": 1700
+            },
+            {
+              "player": "Veronica",
+              "score": 200
+            },
+            {
+              "player": "Alan",
+              "score": 1100
+            }
+          ]
+        },
+        {
+          "category": "FLAGS",
+          "value": 400,
+          "clue": "It bears the crosses of St. Andrew, St. George & St. Patrick",
+          "answer": "the Union Jack (the flag of Great Britain)",
+          "isDailyDouble": false,
+          "orderNumber": 17,
+          "correctContestants": [
+            "Veronica"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Richard",
+              "score": 1700
+            },
+            {
+              "player": "Veronica",
+              "score": 600
+            },
+            {
+              "player": "Alan",
+              "score": 1100
+            }
+          ]
+        },
+        {
+          "category": "FLAGS",
+          "value": 500,
+          "clue": "System of signaling using handheld flags",
+          "answer": "the semaphore",
+          "isDailyDouble": false,
+          "orderNumber": 18,
+          "correctContestants": [
+            "Alan"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Richard",
+              "score": 1700
+            },
+            {
+              "player": "Veronica",
+              "score": 600
+            },
+            {
+              "player": "Alan",
+              "score": 1600
+            }
+          ]
+        },
+        {
+          "category": "\"CAT\"EGORY",
+          "value": 100,
+          "clue": "Chapeau-ed Dr. Seuss' hero",
+          "answer": "the Cat in the Hat",
+          "isDailyDouble": false,
+          "orderNumber": 19,
+          "correctContestants": [
+            "Alan"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Richard",
+              "score": 1700
+            },
+            {
+              "player": "Veronica",
+              "score": 600
+            },
+            {
+              "player": "Alan",
+              "score": 1700
+            }
+          ]
+        },
+        {
+          "category": "\"CAT\"EGORY",
+          "value": 200,
+          "clue": "Fingered game with a loop of string",
+          "answer": "cat's cradle",
+          "isDailyDouble": false,
+          "orderNumber": 20,
+          "correctContestants": [
+            "Richard"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Richard",
+              "score": 1900
+            },
+            {
+              "player": "Veronica",
+              "score": 600
+            },
+            {
+              "player": "Alan",
+              "score": 1700
+            }
+          ]
+        },
+        {
+          "category": "\"CAT\"EGORY",
+          "value": 300,
+          "clue": "Felonious felines, Batman!  She's been played by 3 different actresses",
+          "answer": "the Catwoman",
+          "isDailyDouble": false,
+          "orderNumber": 21,
+          "correctContestants": [
+            "Alan"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Richard",
+              "score": 1900
+            },
+            {
+              "player": "Veronica",
+              "score": 600
+            },
+            {
+              "player": "Alan",
+              "score": 2000
+            }
+          ]
+        },
+        {
+          "category": "POTENT POTABLES",
+          "value": 100,
+          "clue": "French word for a drink or wine taken as an appetizer",
+          "answer": "aperitif",
+          "isDailyDouble": false,
+          "orderNumber": 22,
+          "correctContestants": [
+            "Alan"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Richard",
+              "score": 1900
+            },
+            {
+              "player": "Veronica",
+              "score": 600
+            },
+            {
+              "player": "Alan",
+              "score": 2100
+            }
+          ]
+        },
+        {
+          "category": "POTENT POTABLES",
+          "value": 200,
+          "clue": "It's what makes a whiskey sour, sour",
+          "answer": "lemon juice",
+          "isDailyDouble": false,
+          "orderNumber": 23,
+          "correctContestants": [
+            "Alan"
+          ],
+          "incorrectContestants": [
+            "Veronica"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Richard",
+              "score": 1900
+            },
+            {
+              "player": "Veronica",
+              "score": 400
+            },
+            {
+              "player": "Alan",
+              "score": 2300
+            }
+          ]
+        },
+        {
+          "category": "POTENT POTABLES",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Richard",
+              "score": 1900
+            },
+            {
+              "player": "Veronica",
+              "score": 400
+            },
+            {
+              "player": "Alan",
+              "score": 2300
+            }
+          ]
+        },
+        {
+          "category": "POTENT POTABLES",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Richard",
+              "score": 1900
+            },
+            {
+              "player": "Veronica",
+              "score": 400
+            },
+            {
+              "player": "Alan",
+              "score": 2300
+            }
+          ]
+        },
+        {
+          "category": "ETIQUETTE",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Richard",
+              "score": 1900
+            },
+            {
+              "player": "Veronica",
+              "score": 400
+            },
+            {
+              "player": "Alan",
+              "score": 2300
+            }
+          ]
+        },
+        {
+          "category": "\"CAT\"EGORY",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Richard",
+              "score": 1900
+            },
+            {
+              "player": "Veronica",
+              "score": 400
+            },
+            {
+              "player": "Alan",
+              "score": 2300
+            }
+          ]
+        },
+        {
+          "category": "POTENT POTABLES",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Richard",
+              "score": 1900
+            },
+            {
+              "player": "Veronica",
+              "score": 400
+            },
+            {
+              "player": "Alan",
+              "score": 2300
+            }
+          ]
+        },
+        {
+          "category": "ETIQUETTE",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Richard",
+              "score": 1900
+            },
+            {
+              "player": "Veronica",
+              "score": 400
+            },
+            {
+              "player": "Alan",
+              "score": 2300
+            }
+          ]
+        },
+        {
+          "category": "\"CAT\"EGORY",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Richard",
+              "score": 1900
+            },
+            {
+              "player": "Veronica",
+              "score": 400
+            },
+            {
+              "player": "Alan",
+              "score": 2300
+            }
+          ]
+        }
+      ],
+      "firstBreakScores": [
+        {
+          "player": "Richard",
+          "score": 700
+        },
+        {
+          "player": "Veronica",
+          "score": 300
+        },
+        {
+          "player": "Alan",
+          "score": 0
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "Richard",
+          "score": 1900
+        },
+        {
+          "player": "Veronica",
+          "score": 400
+        },
+        {
+          "player": "Alan",
+          "score": 2300
+        }
+      ]
+    },
+    "doubleJeopardy": {
+      "categories": [
+        "CHEMISTRY",
+        "WORLD WAR II",
+        "WOMEN",
+        "SPORTS",
+        "PRESIDENTS",
+        "THE BIG TOP"
+      ],
+      "clues": [
+        {
+          "category": "WORLD WAR II",
+          "value": 200,
+          "clue": "Second A-bomb used in the war used on this city",
+          "answer": "Nagasaki",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Richard",
+              "score": 1900
+            },
+            {
+              "player": "Veronica",
+              "score": 400
+            },
+            {
+              "player": "Alan",
+              "score": 2500
+            }
+          ]
+        },
+        {
+          "category": "SPORTS",
+          "value": 200,
+          "clue": "Number of games to win a normal set in tennis",
+          "answer": "6",
+          "isDailyDouble": false,
+          "orderNumber": 2,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Richard",
+              "score": 2100
+            },
+            {
+              "player": "Veronica",
+              "score": 400
+            },
+            {
+              "player": "Alan",
+              "score": 2500
+            }
+          ]
+        },
+        {
+          "category": "WORLD WAR II",
+          "value": 400,
+          "clue": "In '43 this country quit the Axis & declared war on Germany",
+          "answer": "Italy",
+          "isDailyDouble": false,
+          "orderNumber": 3,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Richard",
+              "score": 2100
+            },
+            {
+              "player": "Veronica",
+              "score": 800
+            },
+            {
+              "player": "Alan",
+              "score": 2500
+            }
+          ]
+        },
+        {
+          "category": "WORLD WAR II",
+          "value": 600,
+          "clue": "It took 5 destroyers, 2 battleships, a cruiser & air assistance to sink this German battleship",
+          "answer": "the Bismarck",
+          "isDailyDouble": false,
+          "orderNumber": 4,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Richard",
+              "score": 2700
+            },
+            {
+              "player": "Veronica",
+              "score": 800
+            },
+            {
+              "player": "Alan",
+              "score": 2500
+            }
+          ]
+        },
+        {
+          "category": "WORLD WAR II",
+          "value": 800,
+          "clue": "Under Hitler Joseph Goebbels was minister of this",
+          "answer": "propaganda",
+          "isDailyDouble": false,
+          "orderNumber": 5,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Richard",
+              "score": 3500
+            },
+            {
+              "player": "Veronica",
+              "score": 800
+            },
+            {
+              "player": "Alan",
+              "score": 2500
+            }
+          ]
+        },
+        {
+          "category": "WORLD WAR II",
+          "value": 1000,
+          "clue": "After betraying Norway to the Nazis, his name became synonymous with traitor",
+          "answer": "(Vidkun) Quisling",
+          "isDailyDouble": false,
+          "orderNumber": 6,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Richard",
+              "score": 4500
+            },
+            {
+              "player": "Veronica",
+              "score": 800
+            },
+            {
+              "player": "Alan",
+              "score": 2500
+            }
+          ]
+        },
+        {
+          "category": "SPORTS",
+          "value": 400,
+          "clue": "Indoor sport dominated by Willie Mosconi from 1941-57",
+          "answer": "billiards (pool)",
+          "isDailyDouble": false,
+          "orderNumber": 7,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Richard",
+              "score": 4900
+            },
+            {
+              "player": "Veronica",
+              "score": 800
+            },
+            {
+              "player": "Alan",
+              "score": 2500
+            }
+          ]
+        },
+        {
+          "category": "SPORTS",
+          "value": 600,
+          "clue": "Number of completed innings which make a baseball game official",
+          "answer": "5",
+          "isDailyDouble": false,
+          "orderNumber": 8,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Richard",
+              "score": 4900
+            },
+            {
+              "player": "Veronica",
+              "score": 800
+            },
+            {
+              "player": "Alan",
+              "score": 3100
+            }
+          ]
+        },
+        {
+          "category": "SPORTS",
+          "value": 800,
+          "clue": "Though goaltending in hockey is essential, in this sport it's illegal",
+          "answer": "basketball",
+          "isDailyDouble": false,
+          "orderNumber": 9,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Richard",
+              "score": 5700
+            },
+            {
+              "player": "Veronica",
+              "score": 800
+            },
+            {
+              "player": "Alan",
+              "score": 3100
+            }
+          ]
+        },
+        {
+          "category": "SPORTS",
+          "value": 1000,
+          "clue": "Length of a polo field",
+          "answer": "300 yards",
+          "isDailyDouble": false,
+          "orderNumber": 10,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Richard",
+              "score": 5700
+            },
+            {
+              "player": "Veronica",
+              "score": 800
+            },
+            {
+              "player": "Alan",
+              "score": 3100
+            }
+          ]
+        },
+        {
+          "category": "CHEMISTRY",
+          "value": 200,
+          "clue": "Boiling point of H2O on the Celsius scale",
+          "answer": "100 degrees",
+          "isDailyDouble": false,
+          "orderNumber": 11,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Richard",
+              "score": 5900
+            },
+            {
+              "player": "Veronica",
+              "score": 800
+            },
+            {
+              "player": "Alan",
+              "score": 3100
+            }
+          ]
+        },
+        {
+          "category": "CHEMISTRY",
+          "value": 400,
+          "clue": "Primary gas component in air",
+          "answer": "nitrogen",
+          "isDailyDouble": false,
+          "orderNumber": 12,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Alan"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Richard",
+              "score": 6300
+            },
+            {
+              "player": "Veronica",
+              "score": 400
+            },
+            {
+              "player": "Alan",
+              "score": 2700
+            }
+          ]
+        },
+        {
+          "category": "CHEMISTRY",
+          "value": 600,
+          "clue": "Chart of elements arranged by atomic number",
+          "answer": "the periodic table",
+          "isDailyDouble": false,
+          "orderNumber": 13,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Richard",
+              "score": 6900
+            },
+            {
+              "player": "Veronica",
+              "score": -200
+            },
+            {
+              "player": "Alan",
+              "score": 2700
+            }
+          ]
+        },
+        {
+          "category": "CHEMISTRY",
+          "value": 800,
+          "clue": "Sodium hydroxide used in making pretzels & unclogging drains",
+          "answer": "lye",
+          "isDailyDouble": false,
+          "orderNumber": 14,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Alan"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Richard",
+              "score": 6100
+            },
+            {
+              "player": "Veronica",
+              "score": -200
+            },
+            {
+              "player": "Alan",
+              "score": 1900
+            }
+          ]
+        },
+        {
+          "category": "PRESIDENTS",
+          "value": 200,
+          "clue": "Number of presidents born outside North America",
+          "answer": "none",
+          "isDailyDouble": false,
+          "orderNumber": 15,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Richard",
+              "score": 6100
+            },
+            {
+              "player": "Veronica",
+              "score": 0
+            },
+            {
+              "player": "Alan",
+              "score": 1900
+            }
+          ]
+        },
+        {
+          "category": "WOMEN",
+          "value": 200,
+          "clue": "Newsweek described her as proving gymnasts don't all have to be anorexic",
+          "answer": "Mary Lou Retton",
+          "isDailyDouble": false,
+          "orderNumber": 16,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Richard",
+              "score": 6300
+            },
+            {
+              "player": "Veronica",
+              "score": 0
+            },
+            {
+              "player": "Alan",
+              "score": 1900
+            }
+          ]
+        },
+        {
+          "category": "CHEMISTRY",
+          "value": 1000,
+          "clue": "Neutral number on the pH scale",
+          "answer": "7",
+          "isDailyDouble": false,
+          "orderNumber": 17,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Richard",
+              "score": 5300
+            },
+            {
+              "player": "Veronica",
+              "score": 0
+            },
+            {
+              "player": "Alan",
+              "score": 1900
+            }
+          ]
+        },
+        {
+          "category": "PRESIDENTS",
+          "value": 400,
+          "clue": "William Henry Harrison's grandson who was also a president",
+          "answer": "Benjamin Harrison",
+          "isDailyDouble": false,
+          "orderNumber": 18,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Richard",
+              "score": 5300
+            },
+            {
+              "player": "Veronica",
+              "score": -400
+            },
+            {
+              "player": "Alan",
+              "score": 2300
+            }
+          ]
+        },
+        {
+          "category": "WOMEN",
+          "value": 400,
+          "clue": "Molly Pitcher was awarded a pension for having fought in this war",
+          "answer": "the Revolutionary War",
+          "isDailyDouble": false,
+          "orderNumber": 19,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Richard",
+              "score": 5300
+            },
+            {
+              "player": "Veronica",
+              "score": 0
+            },
+            {
+              "player": "Alan",
+              "score": 2300
+            }
+          ]
+        },
+        {
+          "category": "WOMEN",
+          "value": 600,
+          "clue": "Earned law degree at age 54 after having founded an Eagle Forum & stopped ERA",
+          "answer": "Phyllis Schlafly",
+          "isDailyDouble": false,
+          "orderNumber": 20,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Richard",
+              "score": 5300
+            },
+            {
+              "player": "Veronica",
+              "score": 600
+            },
+            {
+              "player": "Alan",
+              "score": 2300
+            }
+          ]
+        },
+        {
+          "category": "WOMEN",
+          "value": 1000,
+          "clue": "Largest American city to ever have a woman mayor",
+          "answer": "Chicago",
+          "isDailyDouble": true,
+          "orderNumber": 21,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Richard",
+              "score": 5300
+            },
+            {
+              "player": "Veronica",
+              "score": -400
+            },
+            {
+              "player": "Alan",
+              "score": 2300
+            }
+          ]
+        },
+        {
+          "category": "WOMEN",
+          "value": 1000,
+          "clue": "Author of \"The Feminine Mystique\"; many consider her the founder of women's lib movement",
+          "answer": "Betty Friedan",
+          "isDailyDouble": false,
+          "orderNumber": 22,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Richard",
+              "score": 6300
+            },
+            {
+              "player": "Veronica",
+              "score": -400
+            },
+            {
+              "player": "Alan",
+              "score": 2300
+            }
+          ]
+        },
+        {
+          "category": "PRESIDENTS",
+          "value": 600,
+          "clue": "When the Gregorian calendar was adopted his birth date changed from Feb. 11 to Feb. 22",
+          "answer": "George Washington",
+          "isDailyDouble": false,
+          "orderNumber": 23,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Richard",
+              "score": 6300
+            },
+            {
+              "player": "Veronica",
+              "score": -400
+            },
+            {
+              "player": "Alan",
+              "score": 2900
+            }
+          ]
+        },
+        {
+          "category": "PRESIDENTS",
+          "value": 800,
+          "clue": "1st president to wear a beard",
+          "answer": "Abraham Lincoln",
+          "isDailyDouble": false,
+          "orderNumber": 24,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Richard",
+              "score": 7100
+            },
+            {
+              "player": "Veronica",
+              "score": -400
+            },
+            {
+              "player": "Alan",
+              "score": 2900
+            }
+          ]
+        },
+        {
+          "category": "PRESIDENTS",
+          "value": 1500,
+          "clue": "\"Rough & Ready\" president whose son-in-law was pres. of the Confederacy",
+          "answer": "President Zachary Taylor",
+          "isDailyDouble": true,
+          "orderNumber": 25,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Richard",
+              "score": 8600
+            },
+            {
+              "player": "Veronica",
+              "score": -400
+            },
+            {
+              "player": "Alan",
+              "score": 2900
+            }
+          ]
+        },
+        {
+          "category": "THE BIG TOP",
+          "value": 200,
+          "clue": "Barnum's famous pachyderm he said died on railroad tracks to save a friend",
+          "answer": "Jumbo",
+          "isDailyDouble": false,
+          "orderNumber": 26,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Richard",
+              "score": 8600
+            },
+            {
+              "player": "Veronica",
+              "score": -400
+            },
+            {
+              "player": "Alan",
+              "score": 2700
+            }
+          ]
+        },
+        {
+          "category": "THE BIG TOP",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Richard",
+              "score": 8600
+            },
+            {
+              "player": "Veronica",
+              "score": -400
+            },
+            {
+              "player": "Alan",
+              "score": 2700
+            }
+          ]
+        },
+        {
+          "category": "THE BIG TOP",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Richard",
+              "score": 8600
+            },
+            {
+              "player": "Veronica",
+              "score": -400
+            },
+            {
+              "player": "Alan",
+              "score": 2700
+            }
+          ]
+        },
+        {
+          "category": "THE BIG TOP",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Richard",
+              "score": 8600
+            },
+            {
+              "player": "Veronica",
+              "score": -400
+            },
+            {
+              "player": "Alan",
+              "score": 2700
+            }
+          ]
+        },
+        {
+          "category": "THE BIG TOP",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Richard",
+              "score": 8600
+            },
+            {
+              "player": "Veronica",
+              "score": -400
+            },
+            {
+              "player": "Alan",
+              "score": 2700
+            }
+          ]
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "Richard",
+          "score": 8600
+        },
+        {
+          "player": "Veronica",
+          "score": -400
+        },
+        {
+          "player": "Alan",
+          "score": 2700
+        }
+      ]
+    },
+    "finalJeopardy": {
+      "category": "DANCE",
+      "clue": "Balanchine called him \"the most interesting, inventive & elegant dancer of our time\"",
+      "answer": "Fred Astaire",
+      "responses": [
+        {
+          "contestant": "Alan",
+          "response": "Who is Fred Astaire?",
+          "isCorrect": true,
+          "isIncorrect": false,
+          "value": 2600,
+          "finalScore": 5300
+        },
+        {
+          "contestant": "Richard",
+          "response": "Who is Fred Astaire?",
+          "isCorrect": true,
+          "isIncorrect": false,
+          "value": 400,
+          "finalScore": 9000
+        }
+      ]
+    }
+  },
+  "finalScores": [
+    {
+      "player": "Richard",
+      "score": "$9,000"
+    },
+    {
+      "player": "Veronica",
+      "score": "-$400"
+    },
+    {
+      "player": "Alan",
+      "score": "$5,300"
+    }
+  ],
+  "coryatScores": [
+    {
+      "player": "Richard",
+      "score": 8100
+    },
+    {
+      "player": "Veronica",
+      "score": 700
+    },
+    {
+      "player": "Alan",
+      "score": 2700
+    }
+  ]
+}

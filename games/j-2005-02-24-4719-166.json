@@ -1,0 +1,1697 @@
+{
+  "gameId": 166,
+  "showNumber": "4719",
+  "title": "Show #4719 - Thursday, February 24, 2005",
+  "date": "2005-02-24",
+  "comments": "2005 Ultimate Tournament of Champions Round 1, game 12.",
+  "contestants": [
+    "John",
+    "Tom",
+    "Carolyn"
+  ],
+  "rounds": {
+    "jeopardy": {
+      "categories": [
+        "SPINGARN MEDAL WINNERS",
+        "WOODY ALLEN'S MANHATTAN",
+        "ISLAND HOPPING",
+        "THE GREAT EXHIBITION OF 1851",
+        "DRINKS",
+        "SAME FIRST & LAST LETTER"
+      ],
+      "clues": [
+        {
+          "category": "SAME FIRST & LAST LETTER",
+          "value": 600,
+          "clue": "A pill, or a pad of paper",
+          "answer": "a tablet",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [
+            "John"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "John",
+              "score": 600
+            },
+            {
+              "player": "Tom",
+              "score": 0
+            },
+            {
+              "player": "Carolyn",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "SAME FIRST & LAST LETTER",
+          "value": 800,
+          "clue": "It's the home of Northern Arizona University",
+          "answer": "Flagstaff",
+          "isDailyDouble": false,
+          "orderNumber": 2,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "John",
+              "score": 600
+            },
+            {
+              "player": "Tom",
+              "score": 0
+            },
+            {
+              "player": "Carolyn",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "SAME FIRST & LAST LETTER",
+          "value": 1000,
+          "clue": "This coin is the Russian equivalent of a penny",
+          "answer": "a kopek",
+          "isDailyDouble": false,
+          "orderNumber": 3,
+          "correctContestants": [
+            "Tom"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "John",
+              "score": 600
+            },
+            {
+              "player": "Tom",
+              "score": 1000
+            },
+            {
+              "player": "Carolyn",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "ISLAND HOPPING",
+          "value": 200,
+          "clue": "Of the world's 10 largest islands, 3 belong all or in part to Indonesia: New Guinea, Sumatra, & this one",
+          "answer": "Borneo",
+          "isDailyDouble": false,
+          "orderNumber": 4,
+          "correctContestants": [
+            "Carolyn"
+          ],
+          "incorrectContestants": [
+            "John"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "John",
+              "score": 400
+            },
+            {
+              "player": "Tom",
+              "score": 1000
+            },
+            {
+              "player": "Carolyn",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "ISLAND HOPPING",
+          "value": 400,
+          "clue": "This Caribbean nation was named because it reminded Spanish sailors of a province back home in Spain",
+          "answer": "Grenada",
+          "isDailyDouble": false,
+          "orderNumber": 5,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Carolyn"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "John",
+              "score": 400
+            },
+            {
+              "player": "Tom",
+              "score": 1000
+            },
+            {
+              "player": "Carolyn",
+              "score": -200
+            }
+          ]
+        },
+        {
+          "category": "ISLAND HOPPING",
+          "value": 600,
+          "clue": "The largest area of flatland on this mountainous island is the Kanto Plain where Tokyo lies",
+          "answer": "Honshu",
+          "isDailyDouble": false,
+          "orderNumber": 6,
+          "correctContestants": [
+            "Carolyn"
+          ],
+          "incorrectContestants": [
+            "John"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "John",
+              "score": -200
+            },
+            {
+              "player": "Tom",
+              "score": 1000
+            },
+            {
+              "player": "Carolyn",
+              "score": 400
+            }
+          ]
+        },
+        {
+          "category": "ISLAND HOPPING",
+          "value": 800,
+          "clue": "This 640-square-mile coral island is part of Tanzania",
+          "answer": "Zanzibar",
+          "isDailyDouble": false,
+          "orderNumber": 7,
+          "correctContestants": [
+            "Tom"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "John",
+              "score": -200
+            },
+            {
+              "player": "Tom",
+              "score": 1800
+            },
+            {
+              "player": "Carolyn",
+              "score": 400
+            }
+          ]
+        },
+        {
+          "category": "ISLAND HOPPING",
+          "value": 1000,
+          "clue": "The highest point in this Persian Gulf island nation is 443-foot-high Jabal ad Dukhan",
+          "answer": "Bahrain",
+          "isDailyDouble": false,
+          "orderNumber": 8,
+          "correctContestants": [
+            "Carolyn"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "John",
+              "score": -200
+            },
+            {
+              "player": "Tom",
+              "score": 1800
+            },
+            {
+              "player": "Carolyn",
+              "score": 1400
+            }
+          ]
+        },
+        {
+          "category": "SAME FIRST & LAST LETTER",
+          "value": 400,
+          "clue": "This sauce made from a root is a traditional accompaniment to prime rib",
+          "answer": "horseradish",
+          "isDailyDouble": false,
+          "orderNumber": 9,
+          "correctContestants": [
+            "John"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "John",
+              "score": 200
+            },
+            {
+              "player": "Tom",
+              "score": 1800
+            },
+            {
+              "player": "Carolyn",
+              "score": 1400
+            }
+          ]
+        },
+        {
+          "category": "WOODY ALLEN'S MANHATTAN",
+          "value": 600,
+          "clue": "In this film, the bitter artist played by Max von Sydow naturally lives in the artsy area of SoHo",
+          "answer": "Hannah and Her Sisters",
+          "isDailyDouble": false,
+          "orderNumber": 10,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "John",
+              "score": 200
+            },
+            {
+              "player": "Tom",
+              "score": 1800
+            },
+            {
+              "player": "Carolyn",
+              "score": 1400
+            }
+          ]
+        },
+        {
+          "category": "WOODY ALLEN'S MANHATTAN",
+          "value": 800,
+          "clue": "Early in \"Manhattan\", Woody, Mariel & friends dine at this eatery run by & named for Ms. Kaufman",
+          "answer": "Elaine's",
+          "isDailyDouble": false,
+          "orderNumber": 11,
+          "correctContestants": [
+            "John"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "John",
+              "score": 1000
+            },
+            {
+              "player": "Tom",
+              "score": 1800
+            },
+            {
+              "player": "Carolyn",
+              "score": 1400
+            }
+          ]
+        },
+        {
+          "category": "WOODY ALLEN'S MANHATTAN",
+          "value": 1000,
+          "clue": "(Jimmy of the Clue Crew stands in Times Square, New York.)  A group of celebrities gaze out on Times Square at the end of this Valentine to '40s broadcasting",
+          "answer": "Radio Days",
+          "isDailyDouble": false,
+          "orderNumber": 12,
+          "correctContestants": [
+            "Carolyn"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "John",
+              "score": 1000
+            },
+            {
+              "player": "Tom",
+              "score": 1800
+            },
+            {
+              "player": "Carolyn",
+              "score": 2400
+            }
+          ]
+        },
+        {
+          "category": "DRINKS",
+          "value": 200,
+          "clue": "Traditionally, the Turkish type of this is made in a long-handled brass pot called a jezve or ibrik",
+          "answer": "coffee",
+          "isDailyDouble": false,
+          "orderNumber": 13,
+          "correctContestants": [
+            "Tom"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "John",
+              "score": 1000
+            },
+            {
+              "player": "Tom",
+              "score": 2000
+            },
+            {
+              "player": "Carolyn",
+              "score": 2400
+            }
+          ]
+        },
+        {
+          "category": "DRINKS",
+          "value": 400,
+          "clue": "Its distillery is in Lynchburg, Tennessee, population 361",
+          "answer": "Jack Daniels",
+          "isDailyDouble": false,
+          "orderNumber": 14,
+          "correctContestants": [
+            "Carolyn"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "John",
+              "score": 1000
+            },
+            {
+              "player": "Tom",
+              "score": 2000
+            },
+            {
+              "player": "Carolyn",
+              "score": 2800
+            }
+          ]
+        },
+        {
+          "category": "DRINKS",
+          "value": 600,
+          "clue": "In a diner, a hot spot isn't a popular nightclub; it's a spot of this hot drink",
+          "answer": "tea",
+          "isDailyDouble": false,
+          "orderNumber": 15,
+          "correctContestants": [
+            "Tom"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "John",
+              "score": 1000
+            },
+            {
+              "player": "Tom",
+              "score": 2600
+            },
+            {
+              "player": "Carolyn",
+              "score": 2800
+            }
+          ]
+        },
+        {
+          "category": "DRINKS",
+          "value": 800,
+          "clue": "The song \"Drops Of Jupiter\" by Train mentions \"The best\" one of these espresso drinks \"you ever had\"",
+          "answer": "a soy latte",
+          "isDailyDouble": false,
+          "orderNumber": 16,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "John",
+              "score": 1000
+            },
+            {
+              "player": "Tom",
+              "score": 2600
+            },
+            {
+              "player": "Carolyn",
+              "score": 2800
+            }
+          ]
+        },
+        {
+          "category": "DRINKS",
+          "value": 1000,
+          "clue": "Kumis, first made from mare's milk, is cousin to this yogurt-like liquid originally made from camel's milk",
+          "answer": "kefir",
+          "isDailyDouble": false,
+          "orderNumber": 17,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Carolyn"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "John",
+              "score": 1000
+            },
+            {
+              "player": "Tom",
+              "score": 2600
+            },
+            {
+              "player": "Carolyn",
+              "score": 1800
+            }
+          ]
+        },
+        {
+          "category": "SPINGARN MEDAL WINNERS",
+          "value": 1000,
+          "clue": "1945:An actor, singer, activist & football All-American",
+          "answer": "Paul Robeson",
+          "isDailyDouble": false,
+          "orderNumber": 18,
+          "correctContestants": [
+            "John"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "John",
+              "score": 2000
+            },
+            {
+              "player": "Tom",
+              "score": 2600
+            },
+            {
+              "player": "Carolyn",
+              "score": 1800
+            }
+          ]
+        },
+        {
+          "category": "SPINGARN MEDAL WINNERS",
+          "value": 800,
+          "clue": "1989:A minister, politician & civil rights leader",
+          "answer": "Jesse Jackson",
+          "isDailyDouble": false,
+          "orderNumber": 19,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "John",
+              "score": 2000
+            },
+            {
+              "player": "Tom",
+              "score": 2600
+            },
+            {
+              "player": "Carolyn",
+              "score": 1800
+            }
+          ]
+        },
+        {
+          "category": "SPINGARN MEDAL WINNERS",
+          "value": 600,
+          "clue": "1991:A U.S. Army general & government official",
+          "answer": "Colin Powell",
+          "isDailyDouble": false,
+          "orderNumber": 20,
+          "correctContestants": [
+            "John"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "John",
+              "score": 2600
+            },
+            {
+              "player": "Tom",
+              "score": 2600
+            },
+            {
+              "player": "Carolyn",
+              "score": 1800
+            }
+          ]
+        },
+        {
+          "category": "SPINGARN MEDAL WINNERS",
+          "value": 400,
+          "clue": "1956:A baseball player",
+          "answer": "Jackie Robinson",
+          "isDailyDouble": false,
+          "orderNumber": 21,
+          "correctContestants": [
+            "Tom"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "John",
+              "score": 2600
+            },
+            {
+              "player": "Tom",
+              "score": 3000
+            },
+            {
+              "player": "Carolyn",
+              "score": 1800
+            }
+          ]
+        },
+        {
+          "category": "SPINGARN MEDAL WINNERS",
+          "value": 200,
+          "clue": "2000:A TV host & media personality",
+          "answer": "Oprah Winfrey",
+          "isDailyDouble": false,
+          "orderNumber": 22,
+          "correctContestants": [
+            "John"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "John",
+              "score": 2800
+            },
+            {
+              "player": "Tom",
+              "score": 3000
+            },
+            {
+              "player": "Carolyn",
+              "score": 1800
+            }
+          ]
+        },
+        {
+          "category": "WOODY ALLEN'S MANHATTAN",
+          "value": 400,
+          "clue": "The Carnegie Deli is the location where several comics remember this dismal failure of a manager in a 1984 movie",
+          "answer": "Broadway Danny Rose",
+          "isDailyDouble": false,
+          "orderNumber": 23,
+          "correctContestants": [
+            "John"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "John",
+              "score": 3200
+            },
+            {
+              "player": "Tom",
+              "score": 3000
+            },
+            {
+              "player": "Carolyn",
+              "score": 1800
+            }
+          ]
+        },
+        {
+          "category": "WOODY ALLEN'S MANHATTAN",
+          "value": 200,
+          "clue": "(Cheryl of the Clue Crew strolls through Washington Square Park in New York.)  Alvy Singer & the title shiksa stroll past Washington Square in this Oscar-winning picture",
+          "answer": "Annie Hall",
+          "isDailyDouble": false,
+          "orderNumber": 24,
+          "correctContestants": [
+            "John"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "John",
+              "score": 3400
+            },
+            {
+              "player": "Tom",
+              "score": 3000
+            },
+            {
+              "player": "Carolyn",
+              "score": 1800
+            }
+          ]
+        },
+        {
+          "category": "THE GREAT EXHIBITION OF 1851",
+          "value": 1000,
+          "clue": "The exhibits ranged alphabetically from absynthium to these musical instruments",
+          "answer": "zithers",
+          "isDailyDouble": true,
+          "orderNumber": 25,
+          "correctContestants": [
+            "John"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "John",
+              "score": 4400
+            },
+            {
+              "player": "Tom",
+              "score": 3000
+            },
+            {
+              "player": "Carolyn",
+              "score": 1800
+            }
+          ]
+        },
+        {
+          "category": "THE GREAT EXHIBITION OF 1851",
+          "value": 800,
+          "clue": "The India exhibit had a stuffed one of these with a howdah on it",
+          "answer": "an elephant",
+          "isDailyDouble": false,
+          "orderNumber": 26,
+          "correctContestants": [
+            "John"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "John",
+              "score": 5200
+            },
+            {
+              "player": "Tom",
+              "score": 3000
+            },
+            {
+              "player": "Carolyn",
+              "score": 1800
+            }
+          ]
+        },
+        {
+          "category": "THE GREAT EXHIBITION OF 1851",
+          "value": 1000,
+          "clue": "Chance Brothers supplied the glass for this centerpiece building of the exhibition",
+          "answer": "the Crystal Palace",
+          "isDailyDouble": false,
+          "orderNumber": 27,
+          "correctContestants": [
+            "Carolyn"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "John",
+              "score": 5200
+            },
+            {
+              "player": "Tom",
+              "score": 3000
+            },
+            {
+              "player": "Carolyn",
+              "score": 2800
+            }
+          ]
+        },
+        {
+          "category": "THE GREAT EXHIBITION OF 1851",
+          "value": 400,
+          "clue": "There were many peepers at this American's reapers",
+          "answer": "McCormick",
+          "isDailyDouble": false,
+          "orderNumber": 28,
+          "correctContestants": [
+            "John"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "John",
+              "score": 5600
+            },
+            {
+              "player": "Tom",
+              "score": 3000
+            },
+            {
+              "player": "Carolyn",
+              "score": 2800
+            }
+          ]
+        },
+        {
+          "category": "SAME FIRST & LAST LETTER",
+          "value": 200,
+          "clue": "4-syllable word for someone who can't get enough of Hershey's, Nestle or Cadbury",
+          "answer": "chocoholic",
+          "isDailyDouble": false,
+          "orderNumber": 29,
+          "correctContestants": [
+            "John"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "John",
+              "score": 5800
+            },
+            {
+              "player": "Tom",
+              "score": 3000
+            },
+            {
+              "player": "Carolyn",
+              "score": 2800
+            }
+          ]
+        },
+        {
+          "category": "THE GREAT EXHIBITION OF 1851",
+          "value": 200,
+          "clue": "This prince was president of the exhibition commission",
+          "answer": "Prince Albert",
+          "isDailyDouble": false,
+          "orderNumber": 30,
+          "correctContestants": [
+            "Tom"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "John",
+              "score": 5800
+            },
+            {
+              "player": "Tom",
+              "score": 3200
+            },
+            {
+              "player": "Carolyn",
+              "score": 2800
+            }
+          ]
+        }
+      ],
+      "firstBreakScores": [
+        {
+          "player": "John",
+          "score": 1000
+        },
+        {
+          "player": "Tom",
+          "score": 1800
+        },
+        {
+          "player": "Carolyn",
+          "score": 2400
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "John",
+          "score": 5800
+        },
+        {
+          "player": "Tom",
+          "score": 3200
+        },
+        {
+          "player": "Carolyn",
+          "score": 2800
+        }
+      ]
+    },
+    "doubleJeopardy": {
+      "categories": [
+        "DESPERATE HOUSEWIVES",
+        "WITHOUT A TRACE",
+        "CSI",
+        "ACCORDING TO JIM",
+        "\"COLD\" CASE",
+        "HIT TV"
+      ],
+      "clues": [
+        {
+          "category": "CSI",
+          "value": 400,
+          "clue": "In a process referred to as dactyloscopy, a CSI team uses brushes to apply powder in search of these",
+          "answer": "fingerprints",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "John",
+              "score": 5800
+            },
+            {
+              "player": "Tom",
+              "score": 3200
+            },
+            {
+              "player": "Carolyn",
+              "score": 3200
+            }
+          ]
+        },
+        {
+          "category": "CSI",
+          "value": 800,
+          "clue": "A microspectrophotometer is used by a CSI team in analyzing these, a word from the Latin for \"filament\"",
+          "answer": "fibers",
+          "isDailyDouble": false,
+          "orderNumber": 2,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "John",
+              "score": 5000
+            },
+            {
+              "player": "Tom",
+              "score": 3200
+            },
+            {
+              "player": "Carolyn",
+              "score": 3200
+            }
+          ]
+        },
+        {
+          "category": "CSI",
+          "value": 1200,
+          "clue": "The TV show \"Forensic Files\" from this cable network examines crimes from an investigative point of view",
+          "answer": "Court TV",
+          "isDailyDouble": false,
+          "orderNumber": 3,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "John",
+              "score": 5000
+            },
+            {
+              "player": "Tom",
+              "score": 3200
+            },
+            {
+              "player": "Carolyn",
+              "score": 4400
+            }
+          ]
+        },
+        {
+          "category": "CSI",
+          "value": 1600,
+          "clue": "By ID'ing ejector marks & rifling, I.B.I.S. imaging is part of this science of the propulsion of projectiles",
+          "answer": "ballistics",
+          "isDailyDouble": false,
+          "orderNumber": 4,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "John",
+              "score": 5000
+            },
+            {
+              "player": "Tom",
+              "score": 4800
+            },
+            {
+              "player": "Carolyn",
+              "score": 4400
+            }
+          ]
+        },
+        {
+          "category": "ACCORDING TO JIM",
+          "value": 400,
+          "clue": "He wrote the line, \"Why Deerslayer... a man meets with inimies easier than he meets with fri'nds\"",
+          "answer": "(James Fenimore) Cooper",
+          "isDailyDouble": false,
+          "orderNumber": 5,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "John",
+              "score": 5000
+            },
+            {
+              "player": "Tom",
+              "score": 5200
+            },
+            {
+              "player": "Carolyn",
+              "score": 4400
+            }
+          ]
+        },
+        {
+          "category": "ACCORDING TO JIM",
+          "value": 800,
+          "clue": "\"Bartlett's\" credits him with \"It's the economy, stupid\"",
+          "answer": "James Carville",
+          "isDailyDouble": false,
+          "orderNumber": 6,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Carolyn"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "John",
+              "score": 5000
+            },
+            {
+              "player": "Tom",
+              "score": 4400
+            },
+            {
+              "player": "Carolyn",
+              "score": 3600
+            }
+          ]
+        },
+        {
+          "category": "ACCORDING TO JIM",
+          "value": 1200,
+          "clue": "In \"The Federalist\" he wrote, \"A bad cause seldom fails to betray itself\"",
+          "answer": "James Madison",
+          "isDailyDouble": false,
+          "orderNumber": 7,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "John",
+              "score": 6200
+            },
+            {
+              "player": "Tom",
+              "score": 4400
+            },
+            {
+              "player": "Carolyn",
+              "score": 3600
+            }
+          ]
+        },
+        {
+          "category": "ACCORDING TO JIM",
+          "value": 1600,
+          "clue": "One day in 1765 \"The idea came into my mind, that as steam was an elastic body it would rush into a vacuum...\"",
+          "answer": "(James) Watt",
+          "isDailyDouble": false,
+          "orderNumber": 8,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "John",
+              "score": 6200
+            },
+            {
+              "player": "Tom",
+              "score": 6000
+            },
+            {
+              "player": "Carolyn",
+              "score": 3600
+            }
+          ]
+        },
+        {
+          "category": "ACCORDING TO JIM",
+          "value": 2500,
+          "clue": "A humorist: \"Every person carries... the... scar, or the fresh wound, of some harrowing misadventure with a contraption\"",
+          "answer": "James Thurber",
+          "isDailyDouble": true,
+          "orderNumber": 9,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "John",
+              "score": 6200
+            },
+            {
+              "player": "Tom",
+              "score": 3500
+            },
+            {
+              "player": "Carolyn",
+              "score": 3600
+            }
+          ]
+        },
+        {
+          "category": "CSI",
+          "value": 2000,
+          "clue": "CSI investigators spray this chemiluminescent compound to reveal traces of blood even on cleaned surfaces",
+          "answer": "Luminol",
+          "isDailyDouble": false,
+          "orderNumber": 10,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "John",
+              "score": 6200
+            },
+            {
+              "player": "Tom",
+              "score": 3500
+            },
+            {
+              "player": "Carolyn",
+              "score": 5600
+            }
+          ]
+        },
+        {
+          "category": "\"COLD\" CASE",
+          "value": 400,
+          "clue": "Post-WWII conflict between the U.S. & Russia",
+          "answer": "the Cold War",
+          "isDailyDouble": false,
+          "orderNumber": 11,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "John",
+              "score": 6200
+            },
+            {
+              "player": "Tom",
+              "score": 3500
+            },
+            {
+              "player": "Carolyn",
+              "score": 6000
+            }
+          ]
+        },
+        {
+          "category": "\"COLD\" CASE",
+          "value": 800,
+          "clue": "A selection of sliced meat for sandwiches",
+          "answer": "cold cuts",
+          "isDailyDouble": false,
+          "orderNumber": 12,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "John",
+              "score": 7000
+            },
+            {
+              "player": "Tom",
+              "score": 3500
+            },
+            {
+              "player": "Carolyn",
+              "score": 6000
+            }
+          ]
+        },
+        {
+          "category": "\"COLD\" CASE",
+          "value": 1200,
+          "clue": "Adjective used to describe ruthless killers & ectothermic animals",
+          "answer": "cold-blooded",
+          "isDailyDouble": false,
+          "orderNumber": 13,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "John",
+              "score": 7000
+            },
+            {
+              "player": "Tom",
+              "score": 3500
+            },
+            {
+              "player": "Carolyn",
+              "score": 7200
+            }
+          ]
+        },
+        {
+          "category": "\"COLD\" CASE",
+          "value": 1600,
+          "clue": "A fever blister",
+          "answer": "a cold sore",
+          "isDailyDouble": false,
+          "orderNumber": 14,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "John",
+              "score": 8600
+            },
+            {
+              "player": "Tom",
+              "score": 3500
+            },
+            {
+              "player": "Carolyn",
+              "score": 7200
+            }
+          ]
+        },
+        {
+          "category": "\"COLD\" CASE",
+          "value": 2000,
+          "clue": "Abrupt withdrawal from addictive drugs",
+          "answer": "cold turkey",
+          "isDailyDouble": false,
+          "orderNumber": 15,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "John",
+              "score": 10600
+            },
+            {
+              "player": "Tom",
+              "score": 3500
+            },
+            {
+              "player": "Carolyn",
+              "score": 7200
+            }
+          ]
+        },
+        {
+          "category": "HIT TV",
+          "value": 1200,
+          "clue": "His namesake TV show was No. 1 in the ratings for 4 years in a row from 1985 to 1989",
+          "answer": "Bill Cosby",
+          "isDailyDouble": false,
+          "orderNumber": 16,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "John",
+              "score": 10600
+            },
+            {
+              "player": "Tom",
+              "score": 3500
+            },
+            {
+              "player": "Carolyn",
+              "score": 8400
+            }
+          ]
+        },
+        {
+          "category": "HIT TV",
+          "value": 1600,
+          "clue": "A November 1980 episode of this drama scored a 53.3, the second highest modern rating",
+          "answer": "Dallas",
+          "isDailyDouble": false,
+          "orderNumber": 17,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "John",
+              "score": 12200
+            },
+            {
+              "player": "Tom",
+              "score": 3500
+            },
+            {
+              "player": "Carolyn",
+              "score": 6800
+            }
+          ]
+        },
+        {
+          "category": "HIT TV",
+          "value": 2000,
+          "clue": "The eighth & final installment of this miniseries notched a 51.1, third place on the modern list",
+          "answer": "Roots",
+          "isDailyDouble": false,
+          "orderNumber": 18,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "John",
+              "score": 12200
+            },
+            {
+              "player": "Tom",
+              "score": 5500
+            },
+            {
+              "player": "Carolyn",
+              "score": 6800
+            }
+          ]
+        },
+        {
+          "category": "WITHOUT A TRACE",
+          "value": 400,
+          "clue": "The Dept. of the Navy says over 70 ships & aircraft have vanished in this infamous Atlantic Ocean region",
+          "answer": "the Bermuda Triangle",
+          "isDailyDouble": false,
+          "orderNumber": 19,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "John",
+              "score": 12200
+            },
+            {
+              "player": "Tom",
+              "score": 5500
+            },
+            {
+              "player": "Carolyn",
+              "score": 7200
+            }
+          ]
+        },
+        {
+          "category": "HIT TV",
+          "value": 800,
+          "clue": "4 of the top 10 shows since 1961 are telecasts of this sporting event in different years",
+          "answer": "the Super Bowl",
+          "isDailyDouble": false,
+          "orderNumber": 20,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "John",
+              "score": 12200
+            },
+            {
+              "player": "Tom",
+              "score": 6300
+            },
+            {
+              "player": "Carolyn",
+              "score": 7200
+            }
+          ]
+        },
+        {
+          "category": "WITHOUT A TRACE",
+          "value": 800,
+          "clue": "Rumors of his body being buried near a Giants Stadium end zone led to a Playboy magazine headline, he \"Goes Deep\"",
+          "answer": "(Jimmy) Hoffa",
+          "isDailyDouble": false,
+          "orderNumber": 21,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "John",
+              "score": 12200
+            },
+            {
+              "player": "Tom",
+              "score": 7100
+            },
+            {
+              "player": "Carolyn",
+              "score": 7200
+            }
+          ]
+        },
+        {
+          "category": "WITHOUT A TRACE",
+          "value": 1200,
+          "clue": "During WWII this \"In The Mood\" bandleader's plane went down over the English Channel without a trace",
+          "answer": "Glenn Miller",
+          "isDailyDouble": false,
+          "orderNumber": 22,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "John",
+              "score": 12200
+            },
+            {
+              "player": "Tom",
+              "score": 8300
+            },
+            {
+              "player": "Carolyn",
+              "score": 7200
+            }
+          ]
+        },
+        {
+          "category": "WITHOUT A TRACE",
+          "value": 1600,
+          "clue": "Roderick, the last Visigoth king, mysteriously disappeared in 711 & became a subject for this \"Waverley\" author",
+          "answer": "Scott",
+          "isDailyDouble": false,
+          "orderNumber": 23,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "John",
+              "score": 13800
+            },
+            {
+              "player": "Tom",
+              "score": 8300
+            },
+            {
+              "player": "Carolyn",
+              "score": 7200
+            }
+          ]
+        },
+        {
+          "category": "WITHOUT A TRACE",
+          "value": 2000,
+          "clue": "On Aug. 28, 1995 a note on this famous atheist's door said she'd be right back; she was found buried 6 years later",
+          "answer": "(Madalyn Murray) O'Hair",
+          "isDailyDouble": false,
+          "orderNumber": 24,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "John",
+              "score": 15800
+            },
+            {
+              "player": "Tom",
+              "score": 8300
+            },
+            {
+              "player": "Carolyn",
+              "score": 7200
+            }
+          ]
+        },
+        {
+          "category": "HIT TV",
+          "value": 400,
+          "clue": "Now TV's highest-rated daytime soap opera, it was originally to be titled \"The Innocent Years\"",
+          "answer": "The Young and the Restless",
+          "isDailyDouble": false,
+          "orderNumber": 25,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "John",
+              "score": 15400
+            },
+            {
+              "player": "Tom",
+              "score": 8300
+            },
+            {
+              "player": "Carolyn",
+              "score": 7200
+            }
+          ]
+        },
+        {
+          "category": "DESPERATE HOUSEWIVES",
+          "value": 1600,
+          "clue": "This organization was founded by 214-pound housewife Jean Nidetch in the early 1960s",
+          "answer": "Weight Watchers",
+          "isDailyDouble": true,
+          "orderNumber": 26,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "John",
+              "score": 17000
+            },
+            {
+              "player": "Tom",
+              "score": 8300
+            },
+            {
+              "player": "Carolyn",
+              "score": 7200
+            }
+          ]
+        },
+        {
+          "category": "DESPERATE HOUSEWIVES",
+          "value": 400,
+          "clue": "Housewives desperate for lipstick still call upon the door-to-door cosmetics company named this in 1939",
+          "answer": "Avon",
+          "isDailyDouble": false,
+          "orderNumber": 27,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "John",
+              "score": 17400
+            },
+            {
+              "player": "Tom",
+              "score": 8300
+            },
+            {
+              "player": "Carolyn",
+              "score": 7200
+            }
+          ]
+        },
+        {
+          "category": "DESPERATE HOUSEWIVES",
+          "value": 800,
+          "clue": "These appliances introduced by Raytheon in 1947 aid the work of desperate housewives in the kitchen",
+          "answer": "a microwave",
+          "isDailyDouble": false,
+          "orderNumber": 28,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "John",
+              "score": 17400
+            },
+            {
+              "player": "Tom",
+              "score": 9100
+            },
+            {
+              "player": "Carolyn",
+              "score": 7200
+            }
+          ]
+        },
+        {
+          "category": "DESPERATE HOUSEWIVES",
+          "value": 1600,
+          "clue": "The online home for this magazine designed to help housewives solve their problems is lhj.com",
+          "answer": "Ladies' Home Journal",
+          "isDailyDouble": false,
+          "orderNumber": 29,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "John",
+              "score": 19000
+            },
+            {
+              "player": "Tom",
+              "score": 9100
+            },
+            {
+              "player": "Carolyn",
+              "score": 7200
+            }
+          ]
+        },
+        {
+          "category": "DESPERATE HOUSEWIVES",
+          "value": 2000,
+          "clue": "Her popular newspaper columns & books celebrated the trials & tribulations of housewives",
+          "answer": "Erma Bombeck",
+          "isDailyDouble": false,
+          "orderNumber": 30,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "John",
+              "score": 19000
+            },
+            {
+              "player": "Tom",
+              "score": 9100
+            },
+            {
+              "player": "Carolyn",
+              "score": 9200
+            }
+          ]
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "John",
+          "score": 19000
+        },
+        {
+          "player": "Tom",
+          "score": 9100
+        },
+        {
+          "player": "Carolyn",
+          "score": 9200
+        }
+      ]
+    },
+    "finalJeopardy": {
+      "category": "THE U.S. CENSUS OF 1790",
+      "clue": "It was the only state in the 1790 census to claim a slave population of zero",
+      "answer": "Massachusetts",
+      "responses": [
+        {
+          "contestant": "Tom",
+          "response": "What is New Hampshire",
+          "isCorrect": false,
+          "isIncorrect": true,
+          "value": 9100,
+          "finalScore": 0
+        },
+        {
+          "contestant": "Carolyn",
+          "response": "What is Rhode Island?",
+          "isCorrect": false,
+          "isIncorrect": true,
+          "value": 9200,
+          "finalScore": 0
+        },
+        {
+          "contestant": "John",
+          "response": "What is Rhode Island?",
+          "isCorrect": false,
+          "isIncorrect": true,
+          "value": 0,
+          "finalScore": 19000
+        }
+      ]
+    }
+  },
+  "finalScores": [
+    {
+      "player": "John",
+      "score": "$19,000"
+    },
+    {
+      "player": "Tom",
+      "score": "$0"
+    },
+    {
+      "player": "Carolyn",
+      "score": "$0"
+    }
+  ],
+  "coryatScores": [
+    {
+      "player": "John",
+      "score": 18200
+    },
+    {
+      "player": "Tom",
+      "score": 11600
+    },
+    {
+      "player": "Carolyn",
+      "score": 9200
+    }
+  ]
+}

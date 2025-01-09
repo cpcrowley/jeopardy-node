@@ -1,0 +1,1700 @@
+{
+  "gameId": 3679,
+  "showNumber": "1655",
+  "title": "Show #1655 - Friday, November 8, 1991",
+  "date": "1991-11-08",
+  "comments": "1991 Tournament of Champions quarterfinal game 5.",
+  "contestants": [
+    "Mark",
+    "Steve",
+    "Jim"
+  ],
+  "rounds": {
+    "jeopardy": {
+      "categories": [
+        "U.S. GEOGRAPHY",
+        "SCIENCE FICTION",
+        "BASEBALL",
+        "FASHION DESIGNERS",
+        "BOTANY",
+        "FILE UNDER \"Y\""
+      ],
+      "clues": [
+        {
+          "category": "U.S. GEOGRAPHY",
+          "value": 100,
+          "clue": "This city was founded near rapids on the Ohio River & named for Louis XVI of France",
+          "answer": "Louisville (Kentucky)",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [
+            "Jim"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mark",
+              "score": 0
+            },
+            {
+              "player": "Steve",
+              "score": 0
+            },
+            {
+              "player": "Jim",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "category": "U.S. GEOGRAPHY",
+          "value": 200,
+          "clue": "In 1989 voters in this town where Wild Bill Hickok died legalized gambling",
+          "answer": "Deadwood (South Dakota)",
+          "isDailyDouble": false,
+          "orderNumber": 2,
+          "correctContestants": [
+            "Mark"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mark",
+              "score": 200
+            },
+            {
+              "player": "Steve",
+              "score": 0
+            },
+            {
+              "player": "Jim",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "category": "U.S. GEOGRAPHY",
+          "value": 300,
+          "clue": "This city some 30 miles west of Dallas began as an army post on the Trinity River",
+          "answer": "Fort Worth",
+          "isDailyDouble": false,
+          "orderNumber": 3,
+          "correctContestants": [
+            "Mark"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mark",
+              "score": 500
+            },
+            {
+              "player": "Steve",
+              "score": 0
+            },
+            {
+              "player": "Jim",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "category": "U.S. GEOGRAPHY",
+          "value": 400,
+          "clue": "A cog railroad, the first built in the U.S., runs up this New Hampshire mountain",
+          "answer": "Mount Washington",
+          "isDailyDouble": false,
+          "orderNumber": 4,
+          "correctContestants": [
+            "Jim"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mark",
+              "score": 500
+            },
+            {
+              "player": "Steve",
+              "score": 0
+            },
+            {
+              "player": "Jim",
+              "score": 500
+            }
+          ]
+        },
+        {
+          "category": "U.S. GEOGRAPHY",
+          "value": 500,
+          "clue": "This state borders two Canadian provinces: Manitoba & Saskatchewan",
+          "answer": "North Dakota",
+          "isDailyDouble": false,
+          "orderNumber": 5,
+          "correctContestants": [
+            "Jim"
+          ],
+          "incorrectContestants": [
+            "Mark",
+            "Steve"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mark",
+              "score": 0
+            },
+            {
+              "player": "Steve",
+              "score": -500
+            },
+            {
+              "player": "Jim",
+              "score": 1000
+            }
+          ]
+        },
+        {
+          "category": "BASEBALL",
+          "value": 100,
+          "clue": "Say hey! This Giants centerfielder appeared in a record-tying 24 All-Star games",
+          "answer": "Willie Mays",
+          "isDailyDouble": false,
+          "orderNumber": 6,
+          "correctContestants": [
+            "Mark"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mark",
+              "score": 100
+            },
+            {
+              "player": "Steve",
+              "score": -500
+            },
+            {
+              "player": "Jim",
+              "score": 1000
+            }
+          ]
+        },
+        {
+          "category": "BASEBALL",
+          "value": 200,
+          "clue": "This former Yankee home run hitter served as the Dodgers first base coach in 1938",
+          "answer": "Babe Ruth",
+          "isDailyDouble": false,
+          "orderNumber": 7,
+          "correctContestants": [
+            "Steve"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mark",
+              "score": 100
+            },
+            {
+              "player": "Steve",
+              "score": -300
+            },
+            {
+              "player": "Jim",
+              "score": 1000
+            }
+          ]
+        },
+        {
+          "category": "FASHION DESIGNERS",
+          "value": 100,
+          "clue": "In the 1930s Balenciaga moved to Paris after civil war broke out in this, his native country",
+          "answer": "Spain",
+          "isDailyDouble": false,
+          "orderNumber": 8,
+          "correctContestants": [
+            "Mark"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mark",
+              "score": 200
+            },
+            {
+              "player": "Steve",
+              "score": -300
+            },
+            {
+              "player": "Jim",
+              "score": 1000
+            }
+          ]
+        },
+        {
+          "category": "BASEBALL",
+          "value": 300,
+          "clue": "In 1990 this Royals third baseman became the 1st to win batting titles in 3 different decades",
+          "answer": "George Brett",
+          "isDailyDouble": false,
+          "orderNumber": 9,
+          "correctContestants": [
+            "Mark"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mark",
+              "score": 500
+            },
+            {
+              "player": "Steve",
+              "score": -300
+            },
+            {
+              "player": "Jim",
+              "score": 1000
+            }
+          ]
+        },
+        {
+          "category": "BASEBALL",
+          "value": 400,
+          "clue": "\"Number 1\" was the autobiography of this 5-time Yankee manager",
+          "answer": "Billy Martin",
+          "isDailyDouble": false,
+          "orderNumber": 10,
+          "correctContestants": [
+            "Mark"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mark",
+              "score": 900
+            },
+            {
+              "player": "Steve",
+              "score": -300
+            },
+            {
+              "player": "Jim",
+              "score": 1000
+            }
+          ]
+        },
+        {
+          "category": "BASEBALL",
+          "value": 500,
+          "clue": "The 2 teams that won their divisions in 1991 after finishing last in 1990",
+          "answer": "Braves and Twins",
+          "isDailyDouble": false,
+          "orderNumber": 11,
+          "correctContestants": [
+            "Jim"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mark",
+              "score": 900
+            },
+            {
+              "player": "Steve",
+              "score": -300
+            },
+            {
+              "player": "Jim",
+              "score": 1500
+            }
+          ]
+        },
+        {
+          "category": "BOTANY",
+          "value": 100,
+          "clue": "The scientific name of this vegetable is Rheum rhabarbarum",
+          "answer": "rhubarb",
+          "isDailyDouble": false,
+          "orderNumber": 12,
+          "correctContestants": [
+            "Steve"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mark",
+              "score": 900
+            },
+            {
+              "player": "Steve",
+              "score": -200
+            },
+            {
+              "player": "Jim",
+              "score": 1500
+            }
+          ]
+        },
+        {
+          "category": "FASHION DESIGNERS",
+          "value": 200,
+          "clue": "He launched Safari, his new fragrance, in 1990; we don't know if he celebrated with a game of polo",
+          "answer": "Ralph Lauren",
+          "isDailyDouble": false,
+          "orderNumber": 13,
+          "correctContestants": [
+            "Steve"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mark",
+              "score": 900
+            },
+            {
+              "player": "Steve",
+              "score": 0
+            },
+            {
+              "player": "Jim",
+              "score": 1500
+            }
+          ]
+        },
+        {
+          "category": "FASHION DESIGNERS",
+          "value": 300,
+          "clue": "This couturier featured long, full skirts in his \"New Look\" of 1947",
+          "answer": "(Christian) Dior",
+          "isDailyDouble": false,
+          "orderNumber": 14,
+          "correctContestants": [
+            "Jim"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mark",
+              "score": 900
+            },
+            {
+              "player": "Steve",
+              "score": 0
+            },
+            {
+              "player": "Jim",
+              "score": 1800
+            }
+          ]
+        },
+        {
+          "category": "FASHION DESIGNERS",
+          "value": 400,
+          "clue": "This Italian often marks his clothes with his signature V; how \"sheik\"",
+          "answer": "Valentino",
+          "isDailyDouble": false,
+          "orderNumber": 15,
+          "correctContestants": [
+            "Mark"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mark",
+              "score": 1300
+            },
+            {
+              "player": "Steve",
+              "score": 0
+            },
+            {
+              "player": "Jim",
+              "score": 1800
+            }
+          ]
+        },
+        {
+          "category": "FASHION DESIGNERS",
+          "value": 500,
+          "clue": "She founded the Betsey, Bunky & Nini Boutique with her partners in 1969; she got first billing",
+          "answer": "Betsey Lee Johnson",
+          "isDailyDouble": false,
+          "orderNumber": 16,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Mark",
+              "score": 1300
+            },
+            {
+              "player": "Steve",
+              "score": 0
+            },
+            {
+              "player": "Jim",
+              "score": 1800
+            }
+          ]
+        },
+        {
+          "category": "FILE UNDER \"Y\"",
+          "value": 100,
+          "clue": "Turkish word for a popular food made of milk curdled by bacteria",
+          "answer": "yogurt",
+          "isDailyDouble": false,
+          "orderNumber": 17,
+          "correctContestants": [
+            "Steve"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mark",
+              "score": 1300
+            },
+            {
+              "player": "Steve",
+              "score": 100
+            },
+            {
+              "player": "Jim",
+              "score": 1800
+            }
+          ]
+        },
+        {
+          "category": "BOTANY",
+          "value": 200,
+          "clue": "Kelp, the largest seaweed known, is a brown form of this primitive plant",
+          "answer": "algae",
+          "isDailyDouble": false,
+          "orderNumber": 18,
+          "correctContestants": [
+            "Mark"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mark",
+              "score": 1500
+            },
+            {
+              "player": "Steve",
+              "score": 100
+            },
+            {
+              "player": "Jim",
+              "score": 1800
+            }
+          ]
+        },
+        {
+          "category": "BOTANY",
+          "value": 300,
+          "clue": "Shortly after formulating the principles of heredity, he became abbot of Brunn Monastery",
+          "answer": "Mendel",
+          "isDailyDouble": false,
+          "orderNumber": 19,
+          "correctContestants": [
+            "Steve"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mark",
+              "score": 1500
+            },
+            {
+              "player": "Steve",
+              "score": 400
+            },
+            {
+              "player": "Jim",
+              "score": 1800
+            }
+          ]
+        },
+        {
+          "category": "BOTANY",
+          "value": 400,
+          "clue": "This fungal tree infection, Ceratocystis ulmi, was 1st identified in the Netherlands around 1919",
+          "answer": "Dutch elm disease",
+          "isDailyDouble": false,
+          "orderNumber": 20,
+          "correctContestants": [
+            "Jim"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mark",
+              "score": 1500
+            },
+            {
+              "player": "Steve",
+              "score": 400
+            },
+            {
+              "player": "Jim",
+              "score": 2200
+            }
+          ]
+        },
+        {
+          "category": "BOTANY",
+          "value": 500,
+          "clue": "This fragrant flower is named for the youth Apollo accidentally killed with his discus",
+          "answer": "Hyacinth",
+          "isDailyDouble": false,
+          "orderNumber": 21,
+          "correctContestants": [
+            "Mark"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mark",
+              "score": 2000
+            },
+            {
+              "player": "Steve",
+              "score": 400
+            },
+            {
+              "player": "Jim",
+              "score": 2200
+            }
+          ]
+        },
+        {
+          "category": "FILE UNDER \"Y\"",
+          "value": 200,
+          "clue": "Abstinence from food, drink, sex & work is a part of the observance of this Jewish holiday",
+          "answer": "Yom Kippur",
+          "isDailyDouble": false,
+          "orderNumber": 22,
+          "correctContestants": [
+            "Steve"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mark",
+              "score": 2000
+            },
+            {
+              "player": "Steve",
+              "score": 600
+            },
+            {
+              "player": "Jim",
+              "score": 2200
+            }
+          ]
+        },
+        {
+          "category": "FILE UNDER \"Y\"",
+          "value": 300,
+          "clue": "A sycophant is this type of \"man\"",
+          "answer": "yes man",
+          "isDailyDouble": false,
+          "orderNumber": 23,
+          "correctContestants": [
+            "Steve"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mark",
+              "score": 2000
+            },
+            {
+              "player": "Steve",
+              "score": 900
+            },
+            {
+              "player": "Jim",
+              "score": 2200
+            }
+          ]
+        },
+        {
+          "category": "FILE UNDER \"Y\"",
+          "value": 400,
+          "clue": "In 1862 he introduced the dial combination lock",
+          "answer": "Yale",
+          "isDailyDouble": false,
+          "orderNumber": 24,
+          "correctContestants": [
+            "Mark"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mark",
+              "score": 2400
+            },
+            {
+              "player": "Steve",
+              "score": 900
+            },
+            {
+              "player": "Jim",
+              "score": 2200
+            }
+          ]
+        },
+        {
+          "category": "FILE UNDER \"Y\"",
+          "value": 500,
+          "clue": "The last name of the 4 brothers who rode with the Jesse James gang between 1866-1874",
+          "answer": "Younger",
+          "isDailyDouble": false,
+          "orderNumber": 25,
+          "correctContestants": [
+            "Steve"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mark",
+              "score": 2400
+            },
+            {
+              "player": "Steve",
+              "score": 1400
+            },
+            {
+              "player": "Jim",
+              "score": 2200
+            }
+          ]
+        },
+        {
+          "category": "SCIENCE FICTION",
+          "value": 100,
+          "clue": "\"The Other Log of Phileas Fogg\" was a 1973 sci-fi retelling of this novel written a century earlier",
+          "answer": "Around the World in 80 Days",
+          "isDailyDouble": false,
+          "orderNumber": 26,
+          "correctContestants": [
+            "Steve"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mark",
+              "score": 2400
+            },
+            {
+              "player": "Steve",
+              "score": 1500
+            },
+            {
+              "player": "Jim",
+              "score": 2200
+            }
+          ]
+        },
+        {
+          "category": "SCIENCE FICTION",
+          "value": 200,
+          "clue": "Walter Tevis' first sci-fi novel was \"The Man Who Fell To\" this planet",
+          "answer": "Earth",
+          "isDailyDouble": false,
+          "orderNumber": 27,
+          "correctContestants": [
+            "Mark"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mark",
+              "score": 2600
+            },
+            {
+              "player": "Steve",
+              "score": 1500
+            },
+            {
+              "player": "Jim",
+              "score": 2200
+            }
+          ]
+        },
+        {
+          "category": "SCIENCE FICTION",
+          "value": 300,
+          "clue": "The novel \"Do Androids Dream of Electric Sheep?\" inspired this Harrison Ford film",
+          "answer": "Blade Runner",
+          "isDailyDouble": false,
+          "orderNumber": 28,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Steve"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Mark",
+              "score": 2600
+            },
+            {
+              "player": "Steve",
+              "score": 1200
+            },
+            {
+              "player": "Jim",
+              "score": 2200
+            }
+          ]
+        },
+        {
+          "category": "SCIENCE FICTION",
+          "value": 400,
+          "clue": "\"Ballroom of the Skies\" is a sci-fi novel by this creator of Travis McGee",
+          "answer": "(John) MacDonald",
+          "isDailyDouble": false,
+          "orderNumber": 29,
+          "correctContestants": [
+            "Steve"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mark",
+              "score": 2600
+            },
+            {
+              "player": "Steve",
+              "score": 1600
+            },
+            {
+              "player": "Jim",
+              "score": 2200
+            }
+          ]
+        },
+        {
+          "category": "SCIENCE FICTION",
+          "value": 1000,
+          "clue": "The sci-fi thriller, \"Altered States\" was this \"Network\" screenwriter's first novel",
+          "answer": "Paddy Chayefsky",
+          "isDailyDouble": true,
+          "orderNumber": 30,
+          "correctContestants": [
+            "Steve"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mark",
+              "score": 2600
+            },
+            {
+              "player": "Steve",
+              "score": 2600
+            },
+            {
+              "player": "Jim",
+              "score": 2200
+            }
+          ]
+        }
+      ],
+      "firstBreakScores": [
+        {
+          "player": "Mark",
+          "score": 900
+        },
+        {
+          "player": "Steve",
+          "score": 0
+        },
+        {
+          "player": "Jim",
+          "score": 1800
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "Mark",
+          "score": 2600
+        },
+        {
+          "player": "Steve",
+          "score": 2600
+        },
+        {
+          "player": "Jim",
+          "score": 2200
+        }
+      ]
+    },
+    "doubleJeopardy": {
+      "categories": [
+        "NICKNAMES",
+        "FAMOUS SCIENTISTS",
+        "PLAYS & PLAYWRIGHTS",
+        "BLACK AMERICA",
+        "HISTORIC QUOTES",
+        "OPERA"
+      ],
+      "clues": [
+        {
+          "category": "BLACK AMERICA",
+          "value": 200,
+          "clue": "Established in 1944, it's a nonprofit fund-raising association of 41 educational institutions",
+          "answer": "United Negro College Fund",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mark",
+              "score": 2600
+            },
+            {
+              "player": "Steve",
+              "score": 2800
+            },
+            {
+              "player": "Jim",
+              "score": 2200
+            }
+          ]
+        },
+        {
+          "category": "PLAYS & PLAYWRIGHTS",
+          "value": 200,
+          "clue": "Of \"The Bride\", \"The Groom\" or \"The Best Man\", the one that's a play by Gore Vidal",
+          "answer": "The Best Man",
+          "isDailyDouble": false,
+          "orderNumber": 2,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mark",
+              "score": 2600
+            },
+            {
+              "player": "Steve",
+              "score": 3000
+            },
+            {
+              "player": "Jim",
+              "score": 2200
+            }
+          ]
+        },
+        {
+          "category": "PLAYS & PLAYWRIGHTS",
+          "value": 400,
+          "clue": "Pirandello play in which the father says, \"We are here in search of an author\"",
+          "answer": "Six Characters In Search of an Author",
+          "isDailyDouble": false,
+          "orderNumber": 3,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mark",
+              "score": 2600
+            },
+            {
+              "player": "Steve",
+              "score": 3400
+            },
+            {
+              "player": "Jim",
+              "score": 2200
+            }
+          ]
+        },
+        {
+          "category": "PLAYS & PLAYWRIGHTS",
+          "value": 600,
+          "clue": "The ancient Roman playwright Terence based all his comedies on plays from this country",
+          "answer": "Greece",
+          "isDailyDouble": false,
+          "orderNumber": 4,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mark",
+              "score": 3200
+            },
+            {
+              "player": "Steve",
+              "score": 3400
+            },
+            {
+              "player": "Jim",
+              "score": 2200
+            }
+          ]
+        },
+        {
+          "category": "PLAYS & PLAYWRIGHTS",
+          "value": 800,
+          "clue": "Late southern playwright who co-wrote \"You Touched Me!\", a comedy based on a story by D.H. Lawrence",
+          "answer": "Tennessee Williams",
+          "isDailyDouble": false,
+          "orderNumber": 5,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Mark",
+              "score": 3200
+            },
+            {
+              "player": "Steve",
+              "score": 2600
+            },
+            {
+              "player": "Jim",
+              "score": 2200
+            }
+          ]
+        },
+        {
+          "category": "PLAYS & PLAYWRIGHTS",
+          "value": 1200,
+          "clue": "Spanish playwright who set his 1936 play in \"The House of Bernarda Alba\"",
+          "answer": "(Federico Garcia) Lorca",
+          "isDailyDouble": true,
+          "orderNumber": 6,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mark",
+              "score": 4400
+            },
+            {
+              "player": "Steve",
+              "score": 2600
+            },
+            {
+              "player": "Jim",
+              "score": 2200
+            }
+          ]
+        },
+        {
+          "category": "OPERA",
+          "value": 200,
+          "clue": "This opera set in Nagasaki was first performed in Italian in Milan in 1904",
+          "answer": "Madama Butterfly",
+          "isDailyDouble": false,
+          "orderNumber": 7,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mark",
+              "score": 4400
+            },
+            {
+              "player": "Steve",
+              "score": 2800
+            },
+            {
+              "player": "Jim",
+              "score": 2000
+            }
+          ]
+        },
+        {
+          "category": "OPERA",
+          "value": 400,
+          "clue": "Common translation of the Wagner title \"Der Fliegende Hollander\"",
+          "answer": "The Flying Dutchman",
+          "isDailyDouble": false,
+          "orderNumber": 8,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mark",
+              "score": 4400
+            },
+            {
+              "player": "Steve",
+              "score": 3200
+            },
+            {
+              "player": "Jim",
+              "score": 2000
+            }
+          ]
+        },
+        {
+          "category": "OPERA",
+          "value": 600,
+          "clue": "In \"La Boheme\" Rodolfo lights her fire; they meet when she asks him to light her candle",
+          "answer": "Mimi",
+          "isDailyDouble": false,
+          "orderNumber": 9,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mark",
+              "score": 5000
+            },
+            {
+              "player": "Steve",
+              "score": 3200
+            },
+            {
+              "player": "Jim",
+              "score": 2000
+            }
+          ]
+        },
+        {
+          "category": "OPERA",
+          "value": 800,
+          "clue": "He wrote the libretto for Dessau's \"The Trial of Lucullus\" & Weill's \"The Threepenny Opera\"",
+          "answer": "Bertolt Brecht",
+          "isDailyDouble": false,
+          "orderNumber": 10,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mark",
+              "score": 5000
+            },
+            {
+              "player": "Steve",
+              "score": 4000
+            },
+            {
+              "player": "Jim",
+              "score": 2000
+            }
+          ]
+        },
+        {
+          "category": "OPERA",
+          "value": 1500,
+          "clue": "\"The Mother Of Us All\", by Virgil Thomson & Gertrude Stein, is about this American feminist",
+          "answer": "Susan B. Anthony",
+          "isDailyDouble": true,
+          "orderNumber": 11,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mark",
+              "score": 5000
+            },
+            {
+              "player": "Steve",
+              "score": 5500
+            },
+            {
+              "player": "Jim",
+              "score": 2000
+            }
+          ]
+        },
+        {
+          "category": "NICKNAMES",
+          "value": 200,
+          "clue": "This British prime minister was called \"The Grocer's Daughter\"",
+          "answer": "Margaret Thatcher",
+          "isDailyDouble": false,
+          "orderNumber": 12,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mark",
+              "score": 5200
+            },
+            {
+              "player": "Steve",
+              "score": 5500
+            },
+            {
+              "player": "Jim",
+              "score": 2000
+            }
+          ]
+        },
+        {
+          "category": "NICKNAMES",
+          "value": 400,
+          "clue": "This Egyptian president was called \"Nasser's Poodle\" before succeeding him",
+          "answer": "Sadat",
+          "isDailyDouble": false,
+          "orderNumber": 13,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mark",
+              "score": 5200
+            },
+            {
+              "player": "Steve",
+              "score": 5500
+            },
+            {
+              "player": "Jim",
+              "score": 2400
+            }
+          ]
+        },
+        {
+          "category": "NICKNAMES",
+          "value": 600,
+          "clue": "As a ferry operator, this future railroad magnate was dubbed \"The Commodore\"",
+          "answer": "(Cornelius) Vanderbilt",
+          "isDailyDouble": false,
+          "orderNumber": 14,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mark",
+              "score": 5800
+            },
+            {
+              "player": "Steve",
+              "score": 5500
+            },
+            {
+              "player": "Jim",
+              "score": 2400
+            }
+          ]
+        },
+        {
+          "category": "NICKNAMES",
+          "value": 800,
+          "clue": "General Joe Stilwell disdainfully called this generalissimo \"Peanut\"",
+          "answer": "Chiang Kai-shek",
+          "isDailyDouble": false,
+          "orderNumber": 15,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mark",
+              "score": 5800
+            },
+            {
+              "player": "Steve",
+              "score": 6300
+            },
+            {
+              "player": "Jim",
+              "score": 2400
+            }
+          ]
+        },
+        {
+          "category": "NICKNAMES",
+          "value": 1000,
+          "clue": "This second lord protector of England was called \"Queen Dick\" for his timidity",
+          "answer": "Richard Cromwell",
+          "isDailyDouble": false,
+          "orderNumber": 16,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mark",
+              "score": 6800
+            },
+            {
+              "player": "Steve",
+              "score": 6300
+            },
+            {
+              "player": "Jim",
+              "score": 2400
+            }
+          ]
+        },
+        {
+          "category": "FAMOUS SCIENTISTS",
+          "value": 200,
+          "clue": "His only Nobel Prize was for the discovery of the law of the photoelectric effect, not relativity",
+          "answer": "Einstein",
+          "isDailyDouble": false,
+          "orderNumber": 17,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mark",
+              "score": 7000
+            },
+            {
+              "player": "Steve",
+              "score": 6300
+            },
+            {
+              "player": "Jim",
+              "score": 2400
+            }
+          ]
+        },
+        {
+          "category": "FAMOUS SCIENTISTS",
+          "value": 400,
+          "clue": "Our main source of knowledge of Greek astronomy is his \"Almagest\", completed in the 2nd century",
+          "answer": "Ptolemy",
+          "isDailyDouble": false,
+          "orderNumber": 18,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mark",
+              "score": 7400
+            },
+            {
+              "player": "Steve",
+              "score": 6300
+            },
+            {
+              "player": "Jim",
+              "score": 2400
+            }
+          ]
+        },
+        {
+          "category": "FAMOUS SCIENTISTS",
+          "value": 600,
+          "clue": "The son of anthropologists Louis & Mary, he found an almost complete homo erectus skeleton in 1984",
+          "answer": "Richard Leakey",
+          "isDailyDouble": false,
+          "orderNumber": 19,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mark",
+              "score": 7400
+            },
+            {
+              "player": "Steve",
+              "score": 6900
+            },
+            {
+              "player": "Jim",
+              "score": 2400
+            }
+          ]
+        },
+        {
+          "category": "FAMOUS SCIENTISTS",
+          "value": 800,
+          "clue": "A visit to the Keeling Islands led to his 1842 work \"The Structure and Distribution of Coral Reefs\"",
+          "answer": "Darwin",
+          "isDailyDouble": false,
+          "orderNumber": 20,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mark",
+              "score": 7400
+            },
+            {
+              "player": "Steve",
+              "score": 6900
+            },
+            {
+              "player": "Jim",
+              "score": 3200
+            }
+          ]
+        },
+        {
+          "category": "BLACK AMERICA",
+          "value": 400,
+          "clue": "He was killed in 1965, months after founding the Organization of Afro-American Unity",
+          "answer": "Malcolm X",
+          "isDailyDouble": false,
+          "orderNumber": 21,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mark",
+              "score": 7400
+            },
+            {
+              "player": "Steve",
+              "score": 6900
+            },
+            {
+              "player": "Jim",
+              "score": 3600
+            }
+          ]
+        },
+        {
+          "category": "BLACK AMERICA",
+          "value": 600,
+          "clue": "The bus boycott Martin L. King, Jr. began over the treatment of Rosa Parks lasted over a year in this city",
+          "answer": "Montgomery (Alabama)",
+          "isDailyDouble": false,
+          "orderNumber": 22,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mark",
+              "score": 7400
+            },
+            {
+              "player": "Steve",
+              "score": 6900
+            },
+            {
+              "player": "Jim",
+              "score": 4200
+            }
+          ]
+        },
+        {
+          "category": "BLACK AMERICA",
+          "value": 800,
+          "clue": "He's the first elected black governor in the U.S.",
+          "answer": "(Douglas) Wilder",
+          "isDailyDouble": false,
+          "orderNumber": 23,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mark",
+              "score": 6600
+            },
+            {
+              "player": "Steve",
+              "score": 7700
+            },
+            {
+              "player": "Jim",
+              "score": 4200
+            }
+          ]
+        },
+        {
+          "category": "FAMOUS SCIENTISTS",
+          "value": 1000,
+          "clue": "In 1848 this astronomer became the 1st woman member of the American Academy of Arts & Sciences",
+          "answer": "Maria Mitchell",
+          "isDailyDouble": false,
+          "orderNumber": 24,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Mark",
+              "score": 6600
+            },
+            {
+              "player": "Steve",
+              "score": 7700
+            },
+            {
+              "player": "Jim",
+              "score": 4200
+            }
+          ]
+        },
+        {
+          "category": "BLACK AMERICA",
+          "value": 1000,
+          "clue": "A 1950 Ebony cover called this U.N. statesman \"America's Most-Honored Negro\"",
+          "answer": "Ralph Bunche",
+          "isDailyDouble": false,
+          "orderNumber": 25,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mark",
+              "score": 7600
+            },
+            {
+              "player": "Steve",
+              "score": 7700
+            },
+            {
+              "player": "Jim",
+              "score": 4200
+            }
+          ]
+        },
+        {
+          "category": "HISTORIC QUOTES",
+          "value": 200,
+          "clue": "In his \"Advice to a Young Tradesman\", he said, \"Remember that time is money\"",
+          "answer": "Franklin",
+          "isDailyDouble": false,
+          "orderNumber": 26,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mark",
+              "score": 7600
+            },
+            {
+              "player": "Steve",
+              "score": 7700
+            },
+            {
+              "player": "Jim",
+              "score": 4400
+            }
+          ]
+        },
+        {
+          "category": "HISTORIC QUOTES",
+          "value": 400,
+          "clue": "Addressing the parliament, Louis XIV reportedly said, \"L'Etat c'est moi\", which means this",
+          "answer": "I am the state",
+          "isDailyDouble": false,
+          "orderNumber": 27,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mark",
+              "score": 7600
+            },
+            {
+              "player": "Steve",
+              "score": 7700
+            },
+            {
+              "player": "Jim",
+              "score": 4800
+            }
+          ]
+        },
+        {
+          "category": "HISTORIC QUOTES",
+          "value": 600,
+          "clue": "Speaking before the Continental Congress, Patrick Henry said, \"I am not a Virginian, but\" this",
+          "answer": "American",
+          "isDailyDouble": false,
+          "orderNumber": 28,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mark",
+              "score": 7600
+            },
+            {
+              "player": "Steve",
+              "score": 8300
+            },
+            {
+              "player": "Jim",
+              "score": 4800
+            }
+          ]
+        },
+        {
+          "category": "HISTORIC QUOTES",
+          "value": 800,
+          "clue": "In \"The Rights of Man\" he wrote, \"My country is the world and my religion is to do good\"",
+          "answer": "Thomas Paine",
+          "isDailyDouble": false,
+          "orderNumber": 29,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Mark",
+              "score": 7600
+            },
+            {
+              "player": "Steve",
+              "score": 8300
+            },
+            {
+              "player": "Jim",
+              "score": 4800
+            }
+          ]
+        },
+        {
+          "category": "HISTORIC QUOTES",
+          "value": 1000,
+          "clue": "At the Battle of Copenhagen he said, \"I have only one eye, I have a right to be blind sometimes\"",
+          "answer": "(Horatio) Nelson",
+          "isDailyDouble": false,
+          "orderNumber": 30,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mark",
+              "score": 8600
+            },
+            {
+              "player": "Steve",
+              "score": 8300
+            },
+            {
+              "player": "Jim",
+              "score": 4800
+            }
+          ]
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "Mark",
+          "score": 8600
+        },
+        {
+          "player": "Steve",
+          "score": 8300
+        },
+        {
+          "player": "Jim",
+          "score": 4800
+        }
+      ]
+    },
+    "finalJeopardy": {
+      "category": "ACTRESSES & THEIR ROLES",
+      "clue": "This American actress won a 1960 Tony & a 1962 Oscar for playing the same teacher",
+      "answer": "Anne Bancroft",
+      "responses": [
+        {
+          "contestant": "Jim",
+          "response": "Who is Bancroft",
+          "isCorrect": true,
+          "isIncorrect": false,
+          "value": 4750,
+          "finalScore": 9550
+        },
+        {
+          "contestant": "Steve",
+          "response": "Who is Anne Bancroft",
+          "isCorrect": true,
+          "isIncorrect": false,
+          "value": 6000,
+          "finalScore": 14300
+        },
+        {
+          "contestant": "Mark",
+          "response": "Who is Bancroft",
+          "isCorrect": true,
+          "isIncorrect": false,
+          "value": 8001,
+          "finalScore": 16601
+        }
+      ]
+    }
+  },
+  "finalScores": [
+    {
+      "player": "Mark",
+      "score": "$16,601"
+    },
+    {
+      "player": "Steve",
+      "score": "$14,300"
+    },
+    {
+      "player": "Jim",
+      "score": "$9,550"
+    }
+  ],
+  "coryatScores": [
+    {
+      "player": "Mark",
+      "score": 8400
+    },
+    {
+      "player": "Steve",
+      "score": 7300
+    },
+    {
+      "player": "Jim",
+      "score": 4800
+    }
+  ]
+}

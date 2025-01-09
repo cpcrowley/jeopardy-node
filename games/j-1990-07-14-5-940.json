@@ -1,0 +1,1951 @@
+{
+  "gameId": 940,
+  "showNumber": "5",
+  "title": "Super Jeopardy! show #5 - Saturday, July 14, 1990",
+  "date": "1990-07-14",
+  "comments": "Super Jeopardy! quarterfinal game 4.",
+  "contestants": [
+    "Mark",
+    "Paul",
+    "Cathy"
+  ],
+  "rounds": {
+    "jeopardy": {
+      "categories": [
+        "1980s ROCK",
+        "LITERATURE",
+        "PLANTS",
+        "GEOMETRY",
+        "DESIGN",
+        "THE DODGERS"
+      ],
+      "clues": [
+        {
+          "category": "1980s ROCK",
+          "value": 200,
+          "clue": "In 1989 \"Express Yourself\" became this singer's 15th straight Top 5 hit, a record for females",
+          "answer": "Madonna",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [
+            "Mark"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mark",
+              "score": 200
+            },
+            {
+              "player": "Paul",
+              "score": 0
+            },
+            {
+              "player": "Cathy",
+              "score": 0
+            },
+            {
+              "player": "Keith",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "LITERATURE",
+          "value": 200,
+          "clue": "This encyclopedia originated as part of the Scottish Enlightenment of the 18th century",
+          "answer": "Encyclopedia Brittanica",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [
+            "Paul"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mark",
+              "score": 200
+            },
+            {
+              "player": "Paul",
+              "score": 200
+            },
+            {
+              "player": "Cathy",
+              "score": 0
+            },
+            {
+              "player": "Keith",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "PLANTS",
+          "value": 200,
+          "clue": "Indican, a colorless substance in this plant, turns blue in air & is used as a dye",
+          "answer": "indigo",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [
+            "Cathy"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mark",
+              "score": 200
+            },
+            {
+              "player": "Paul",
+              "score": 200
+            },
+            {
+              "player": "Cathy",
+              "score": 200
+            },
+            {
+              "player": "Keith",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "GEOMETRY",
+          "value": 200,
+          "clue": "A single straight line forms an angle of this many degrees",
+          "answer": "180",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [
+            "Keith"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mark",
+              "score": 200
+            },
+            {
+              "player": "Paul",
+              "score": 200
+            },
+            {
+              "player": "Cathy",
+              "score": 200
+            },
+            {
+              "player": "Keith",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "DESIGN",
+          "value": 200,
+          "clue": "A Schwartzlot is a German painted decoration using enamel of this color on glass",
+          "answer": "black",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [
+            "Paul"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mark",
+              "score": 200
+            },
+            {
+              "player": "Paul",
+              "score": 400
+            },
+            {
+              "player": "Cathy",
+              "score": 200
+            },
+            {
+              "player": "Keith",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "THE DODGERS",
+          "value": 200,
+          "clue": "It's said that when manager Tommy Lasorda cuts himself shaving, he bleeds this color",
+          "answer": "Dodger blue",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [
+            "Paul"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mark",
+              "score": 200
+            },
+            {
+              "player": "Paul",
+              "score": 600
+            },
+            {
+              "player": "Cathy",
+              "score": 200
+            },
+            {
+              "player": "Keith",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "1980s ROCK",
+          "value": 400,
+          "clue": "This Scottish singer appeared in the opening credits of \"For Your Eyes Only\", singing the title tune",
+          "answer": "Sheena Easton",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [
+            "Mark"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mark",
+              "score": 600
+            },
+            {
+              "player": "Paul",
+              "score": 600
+            },
+            {
+              "player": "Cathy",
+              "score": 200
+            },
+            {
+              "player": "Keith",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "LITERATURE",
+          "value": 2000,
+          "clue": "The girls who were part of \"The Group\", by Mary McCarthy, attended this college",
+          "answer": "Vassar",
+          "isDailyDouble": true,
+          "orderNumber": null,
+          "correctContestants": [
+            "Mark"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mark",
+              "score": 2600
+            },
+            {
+              "player": "Paul",
+              "score": 600
+            },
+            {
+              "player": "Cathy",
+              "score": 200
+            },
+            {
+              "player": "Keith",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "PLANTS",
+          "value": 400,
+          "clue": "The plantain is a species of this fruit",
+          "answer": "banana",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [
+            "Paul"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mark",
+              "score": 2600
+            },
+            {
+              "player": "Paul",
+              "score": 1000
+            },
+            {
+              "player": "Cathy",
+              "score": 200
+            },
+            {
+              "player": "Keith",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "GEOMETRY",
+          "value": 400,
+          "clue": "In a right triangle, the side opposite the right angle is called this",
+          "answer": "hypotenuse",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [
+            "Mark"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mark",
+              "score": 3000
+            },
+            {
+              "player": "Paul",
+              "score": 1000
+            },
+            {
+              "player": "Cathy",
+              "score": 200
+            },
+            {
+              "player": "Keith",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "DESIGN",
+          "value": 400,
+          "clue": "Juniper trees are sometimes used to build chests known by the name of this other wood",
+          "answer": "cedar",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [
+            "Paul"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mark",
+              "score": 3000
+            },
+            {
+              "player": "Paul",
+              "score": 1400
+            },
+            {
+              "player": "Cathy",
+              "score": 200
+            },
+            {
+              "player": "Keith",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "THE DODGERS",
+          "value": 400,
+          "clue": "His 23 wins in 1988 were the most by a Dodger pitcher since Sandy Koufax's 27 in 1966",
+          "answer": "Orel Hershiser",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [
+            "Mark"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mark",
+              "score": 3400
+            },
+            {
+              "player": "Paul",
+              "score": 1400
+            },
+            {
+              "player": "Cathy",
+              "score": 200
+            },
+            {
+              "player": "Keith",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "1980s ROCK",
+          "value": 600,
+          "clue": "This group's \"5150\" album was the first with Sammy Hagar as lead singer",
+          "answer": "Van Halen",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [
+            "Paul"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mark",
+              "score": 3400
+            },
+            {
+              "player": "Paul",
+              "score": 2000
+            },
+            {
+              "player": "Cathy",
+              "score": 200
+            },
+            {
+              "player": "Keith",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "LITERATURE",
+          "value": 600,
+          "clue": "As James Jones could tell you, this completes Kipling's line from \"Gentlemen-Rankers\", \"Damned from...\"",
+          "answer": "here to eternity",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [
+            "Mark"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mark",
+              "score": 4000
+            },
+            {
+              "player": "Paul",
+              "score": 2000
+            },
+            {
+              "player": "Cathy",
+              "score": 200
+            },
+            {
+              "player": "Keith",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "PLANTS",
+          "value": 600,
+          "clue": "Among the most primitive plants with chlorophyll, it is the main plant life in both seawater & freshwater",
+          "answer": "algae",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [
+            "Paul"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mark",
+              "score": 4000
+            },
+            {
+              "player": "Paul",
+              "score": 2600
+            },
+            {
+              "player": "Cathy",
+              "score": 200
+            },
+            {
+              "player": "Keith",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "GEOMETRY",
+          "value": 600,
+          "clue": "To determine the area of a circle, you multiply pi X this",
+          "answer": "radius squared",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [
+            "Cathy"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mark",
+              "score": 4000
+            },
+            {
+              "player": "Paul",
+              "score": 2600
+            },
+            {
+              "player": "Cathy",
+              "score": 800
+            },
+            {
+              "player": "Keith",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "DESIGN",
+          "value": 600,
+          "clue": "The Griffin originated as a design in this \"land between two rivers\"",
+          "answer": "Mesopotamia",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [
+            "Keith"
+          ],
+          "incorrectContestants": [
+            "Mark"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mark",
+              "score": 3400
+            },
+            {
+              "player": "Paul",
+              "score": 2600
+            },
+            {
+              "player": "Cathy",
+              "score": 800
+            },
+            {
+              "player": "Keith",
+              "score": 800
+            }
+          ]
+        },
+        {
+          "category": "THE DODGERS",
+          "value": 600,
+          "clue": "In 1981 this Dodger pitcher won the Rookie of the Year & the Cy Young Awards",
+          "answer": "Fernando Valenzuela",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [
+            "Paul"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mark",
+              "score": 3400
+            },
+            {
+              "player": "Paul",
+              "score": 3200
+            },
+            {
+              "player": "Cathy",
+              "score": 800
+            },
+            {
+              "player": "Keith",
+              "score": 800
+            }
+          ]
+        },
+        {
+          "category": "1980s ROCK",
+          "value": 800,
+          "clue": "She joined Tom Petty and the Heartbreakers in the 1981 smash \"Stop Draggin' My Heart Around\"",
+          "answer": "Stevie Nicks",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [
+            "Paul"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mark",
+              "score": 3400
+            },
+            {
+              "player": "Paul",
+              "score": 4000
+            },
+            {
+              "player": "Cathy",
+              "score": 800
+            },
+            {
+              "player": "Keith",
+              "score": 800
+            }
+          ]
+        },
+        {
+          "category": "LITERATURE",
+          "value": 800,
+          "clue": "Her poem \"I Never Saw A Moor\" didn't refer to her missing a production of \"Othello\"",
+          "answer": "Emily Dickinson",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Quadruple Stumper"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mark",
+              "score": 3400
+            },
+            {
+              "player": "Paul",
+              "score": 4000
+            },
+            {
+              "player": "Cathy",
+              "score": 800
+            },
+            {
+              "player": "Keith",
+              "score": 800
+            }
+          ]
+        },
+        {
+          "category": "PLANTS",
+          "value": 800,
+          "clue": "Carrots are root vegetables while potatoes are examples of these underground stems",
+          "answer": "tubers",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [
+            "Mark"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mark",
+              "score": 4200
+            },
+            {
+              "player": "Paul",
+              "score": 4000
+            },
+            {
+              "player": "Cathy",
+              "score": 800
+            },
+            {
+              "player": "Keith",
+              "score": 800
+            }
+          ]
+        },
+        {
+          "category": "GEOMETRY",
+          "value": 800,
+          "clue": "2 or more circles that share the same center are said to be this",
+          "answer": "concentric",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [
+            "Cathy"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mark",
+              "score": 4200
+            },
+            {
+              "player": "Paul",
+              "score": 4000
+            },
+            {
+              "player": "Cathy",
+              "score": 1600
+            },
+            {
+              "player": "Keith",
+              "score": 800
+            }
+          ]
+        },
+        {
+          "category": "DESIGN",
+          "value": 800,
+          "clue": "This group of buildings formed the Great Fortified Palace of the Moorish kings of Spain",
+          "answer": "Alhambra",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [
+            "Mark"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mark",
+              "score": 5000
+            },
+            {
+              "player": "Paul",
+              "score": 4000
+            },
+            {
+              "player": "Cathy",
+              "score": 1600
+            },
+            {
+              "player": "Keith",
+              "score": 800
+            }
+          ]
+        },
+        {
+          "category": "THE DODGERS",
+          "value": 800,
+          "clue": "In 1969 this catcher, whose career was cut short by a 1958 auto accident, was voted into the Hall of Fame",
+          "answer": "Roy Campanella",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [
+            "Paul"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mark",
+              "score": 5000
+            },
+            {
+              "player": "Paul",
+              "score": 4800
+            },
+            {
+              "player": "Cathy",
+              "score": 1600
+            },
+            {
+              "player": "Keith",
+              "score": 800
+            }
+          ]
+        },
+        {
+          "category": "1980s ROCK",
+          "value": 1000,
+          "clue": "In 1985 this group had its first No. 1 single with \"I Want To Know What Love Is\"",
+          "answer": "Foreigner",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [
+            "Mark"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mark",
+              "score": 6000
+            },
+            {
+              "player": "Paul",
+              "score": 4800
+            },
+            {
+              "player": "Cathy",
+              "score": 1600
+            },
+            {
+              "player": "Keith",
+              "score": 800
+            }
+          ]
+        },
+        {
+          "category": "LITERATURE",
+          "value": 1000,
+          "clue": "Among his \"Mosses From An Old Manse\" is \"Rappachini's Daughter\"",
+          "answer": "Nathaniel Hawthorne",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [
+            "Cathy"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mark",
+              "score": 6000
+            },
+            {
+              "player": "Paul",
+              "score": 4800
+            },
+            {
+              "player": "Cathy",
+              "score": 2600
+            },
+            {
+              "player": "Keith",
+              "score": 800
+            }
+          ]
+        },
+        {
+          "category": "PLANTS",
+          "value": 1000,
+          "clue": "This cactus can grow to 50' tall & the white flower that grows on top is Arizona's state flower",
+          "answer": "saguaro",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [
+            "Paul"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mark",
+              "score": 6000
+            },
+            {
+              "player": "Paul",
+              "score": 5800
+            },
+            {
+              "player": "Cathy",
+              "score": 2600
+            },
+            {
+              "player": "Keith",
+              "score": 800
+            }
+          ]
+        },
+        {
+          "category": "GEOMETRY",
+          "value": 1000,
+          "clue": "An oblique angle is one that is either acute or this",
+          "answer": "obtuse",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [
+            "Keith"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mark",
+              "score": 6000
+            },
+            {
+              "player": "Paul",
+              "score": 5800
+            },
+            {
+              "player": "Cathy",
+              "score": 2600
+            },
+            {
+              "player": "Keith",
+              "score": 1800
+            }
+          ]
+        },
+        {
+          "category": "DESIGN",
+          "value": 1000,
+          "clue": "2 of the 3 classical orders of columns developed by the Greeks",
+          "answer": "Doric, Ionic & Corinthian",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [
+            "Paul"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mark",
+              "score": 6000
+            },
+            {
+              "player": "Paul",
+              "score": 6800
+            },
+            {
+              "player": "Cathy",
+              "score": 2600
+            },
+            {
+              "player": "Keith",
+              "score": 1800
+            }
+          ]
+        },
+        {
+          "category": "THE DODGERS",
+          "value": 1000,
+          "clue": "A Brooklyn bridge is named for this Dodger who lived in Brooklyn & later managed the Mets",
+          "answer": "Gil Hodges",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [
+            "Paul"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mark",
+              "score": 6000
+            },
+            {
+              "player": "Paul",
+              "score": 7800
+            },
+            {
+              "player": "Cathy",
+              "score": 2600
+            },
+            {
+              "player": "Keith",
+              "score": 1800
+            }
+          ]
+        }
+      ],
+      "firstBreakScores": [
+        {
+          "player": "Mark",
+          "score": 4600
+        },
+        {
+          "player": "Paul",
+          "score": 1600
+        },
+        {
+          "player": "Cathy",
+          "score": 2400
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "Mark",
+          "score": 6000
+        },
+        {
+          "player": "Paul",
+          "score": 7800
+        },
+        {
+          "player": "Cathy",
+          "score": 2600
+        }
+      ]
+    },
+    "doubleJeopardy": {
+      "categories": [
+        "CIVIL WAR",
+        "COMMUNICATIONS",
+        "OPERA",
+        "INSECTS",
+        "WORLD GEOGRAPHY",
+        "KINGS NAMED ED"
+      ],
+      "clues": [
+        {
+          "category": "CIVIL WAR",
+          "value": 500,
+          "clue": "You're hot as a pistol if you know the Union bought over 146,000 of this company's pistols",
+          "answer": "Colt",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mark",
+              "score": 6000
+            },
+            {
+              "player": "Paul",
+              "score": 7800
+            },
+            {
+              "player": "Cathy",
+              "score": 2600
+            },
+            {
+              "player": "Keith",
+              "score": 2300
+            }
+          ]
+        },
+        {
+          "category": "COMMUNICATIONS",
+          "value": 500,
+          "clue": "In 1989, for this medium's 50th anniversary, a plaque was put in a museum at the site of the 1939 World's Fair",
+          "answer": "Television",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mark",
+              "score": 6500
+            },
+            {
+              "player": "Paul",
+              "score": 7800
+            },
+            {
+              "player": "Cathy",
+              "score": 2600
+            },
+            {
+              "player": "Keith",
+              "score": 2300
+            }
+          ]
+        },
+        {
+          "category": "OPERA",
+          "value": 500,
+          "clue": "English translation of the title of Berlioz's opera \"Le Troyen\"",
+          "answer": "The Trojans",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mark",
+              "score": 6500
+            },
+            {
+              "player": "Paul",
+              "score": 8300
+            },
+            {
+              "player": "Cathy",
+              "score": 2600
+            },
+            {
+              "player": "Keith",
+              "score": 2300
+            }
+          ]
+        },
+        {
+          "category": "INSECTS",
+          "value": 500,
+          "clue": "When hunting, this carnivore whose name means \"prophet\" raises its forelegs into a pious position",
+          "answer": "a praying mantis",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mark",
+              "score": 7000
+            },
+            {
+              "player": "Paul",
+              "score": 8300
+            },
+            {
+              "player": "Cathy",
+              "score": 2600
+            },
+            {
+              "player": "Keith",
+              "score": 2300
+            }
+          ]
+        },
+        {
+          "category": "WORLD GEOGRAPHY",
+          "value": 500,
+          "clue": "This country's deserts include the Gibson, Great Sandy & Great Victoria",
+          "answer": "Australia",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mark",
+              "score": 7000
+            },
+            {
+              "player": "Paul",
+              "score": 8300
+            },
+            {
+              "player": "Cathy",
+              "score": 2600
+            },
+            {
+              "player": "Keith",
+              "score": 2800
+            }
+          ]
+        },
+        {
+          "category": "KINGS NAMED ED",
+          "value": 500,
+          "clue": "In 1939 he visited England for the first time since his abdication",
+          "answer": "Edward VIII",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mark",
+              "score": 7000
+            },
+            {
+              "player": "Paul",
+              "score": 8300
+            },
+            {
+              "player": "Cathy",
+              "score": 2600
+            },
+            {
+              "player": "Keith",
+              "score": 3300
+            }
+          ]
+        },
+        {
+          "category": "CIVIL WAR",
+          "value": 1000,
+          "clue": "In contrast to the \"Stars and Stripes\", the 1861 Confederate flag was nicknamed this",
+          "answer": "\"Stars and Bars\"",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mark",
+              "score": 7000
+            },
+            {
+              "player": "Paul",
+              "score": 8300
+            },
+            {
+              "player": "Cathy",
+              "score": 2600
+            },
+            {
+              "player": "Keith",
+              "score": 4300
+            }
+          ]
+        },
+        {
+          "category": "COMMUNICATIONS",
+          "value": 1000,
+          "clue": "Communications satellite launched in 1962 that was the first privately owned Earth satellite",
+          "answer": "Telstar",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mark",
+              "score": 7000
+            },
+            {
+              "player": "Paul",
+              "score": 9300
+            },
+            {
+              "player": "Cathy",
+              "score": 2600
+            },
+            {
+              "player": "Keith",
+              "score": 4300
+            }
+          ]
+        },
+        {
+          "category": "OPERA",
+          "value": 1000,
+          "clue": "Placido Domingo played Radames in a 1987 production of this Verdi opera staged at the Temple of Luxor",
+          "answer": "Aida",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mark",
+              "score": 8000
+            },
+            {
+              "player": "Paul",
+              "score": 9300
+            },
+            {
+              "player": "Cathy",
+              "score": 2600
+            },
+            {
+              "player": "Keith",
+              "score": 4300
+            }
+          ]
+        },
+        {
+          "category": "INSECTS",
+          "value": 1000,
+          "clue": "The German variety of this household pest is also called the Croton bug, after New York City's Croton Reservoir",
+          "answer": "a cockroach",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mark",
+              "score": 8000
+            },
+            {
+              "player": "Paul",
+              "score": 10300
+            },
+            {
+              "player": "Cathy",
+              "score": 2600
+            },
+            {
+              "player": "Keith",
+              "score": 4300
+            }
+          ]
+        },
+        {
+          "category": "WORLD GEOGRAPHY",
+          "value": 1000,
+          "clue": "Jamestown is the capital of this British island where Napoleon died",
+          "answer": "St. Helena",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mark",
+              "score": 9000
+            },
+            {
+              "player": "Paul",
+              "score": 10300
+            },
+            {
+              "player": "Cathy",
+              "score": 2600
+            },
+            {
+              "player": "Keith",
+              "score": 4300
+            }
+          ]
+        },
+        {
+          "category": "KINGS NAMED ED",
+          "value": 1000,
+          "clue": "This country's King Edward supported exploration projects of his brother Henry the Navigator",
+          "answer": "Portugal",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mark",
+              "score": 9000
+            },
+            {
+              "player": "Paul",
+              "score": 10300
+            },
+            {
+              "player": "Cathy",
+              "score": 2600
+            },
+            {
+              "player": "Keith",
+              "score": 5300
+            }
+          ]
+        },
+        {
+          "category": "CIVIL WAR",
+          "value": 1500,
+          "clue": "After failing to stop this general in Atlanta, General Hood asked to be relieved from duty",
+          "answer": "William T. Sherman",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mark",
+              "score": 9000
+            },
+            {
+              "player": "Paul",
+              "score": 10300
+            },
+            {
+              "player": "Cathy",
+              "score": 4100
+            },
+            {
+              "player": "Keith",
+              "score": 5300
+            }
+          ]
+        },
+        {
+          "category": "COMMUNICATIONS",
+          "value": 1500,
+          "clue": "U Thant spoke to the U.N. general assembly in English, although this was his native tongue",
+          "answer": "Burmese",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mark",
+              "score": 10500
+            },
+            {
+              "player": "Paul",
+              "score": 10300
+            },
+            {
+              "player": "Cathy",
+              "score": 4100
+            },
+            {
+              "player": "Keith",
+              "score": 5300
+            }
+          ]
+        },
+        {
+          "category": "OPERA",
+          "value": 1500,
+          "clue": "This Russian novel inspired the opera \"Raskolnikov\"",
+          "answer": "Crime and Punishment",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mark",
+              "score": 10500
+            },
+            {
+              "player": "Paul",
+              "score": 11800
+            },
+            {
+              "player": "Cathy",
+              "score": 4100
+            },
+            {
+              "player": "Keith",
+              "score": 5300
+            }
+          ]
+        },
+        {
+          "category": "INSECTS",
+          "value": 1500,
+          "clue": "Bubonic plague is spread by these insects who bite infected rats",
+          "answer": "fleas",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mark",
+              "score": 10500
+            },
+            {
+              "player": "Paul",
+              "score": 13300
+            },
+            {
+              "player": "Cathy",
+              "score": 4100
+            },
+            {
+              "player": "Keith",
+              "score": 5300
+            }
+          ]
+        },
+        {
+          "category": "WORLD GEOGRAPHY",
+          "value": 1500,
+          "clue": "In population, it's the largest city in South America",
+          "answer": "São Paulo",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mark",
+              "score": 10500
+            },
+            {
+              "player": "Paul",
+              "score": 13300
+            },
+            {
+              "player": "Cathy",
+              "score": 5600
+            },
+            {
+              "player": "Keith",
+              "score": 5300
+            }
+          ]
+        },
+        {
+          "category": "KINGS NAMED ED",
+          "value": 1500,
+          "clue": "Edward IV's symbol wasn't the tulip, though he fled to Holland before returning to fight this war",
+          "answer": "War of the Roses",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mark",
+              "score": 12000
+            },
+            {
+              "player": "Paul",
+              "score": 13300
+            },
+            {
+              "player": "Cathy",
+              "score": 5600
+            },
+            {
+              "player": "Keith",
+              "score": 5300
+            }
+          ]
+        },
+        {
+          "category": "CIVIL WAR",
+          "value": 2000,
+          "clue": "After he resigned as treasury secretary, he was named Chief Justice by Lincoln, who never got along with him",
+          "answer": "Salmon P. Chase",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mark",
+              "score": 14000
+            },
+            {
+              "player": "Paul",
+              "score": 13300
+            },
+            {
+              "player": "Cathy",
+              "score": 5600
+            },
+            {
+              "player": "Keith",
+              "score": 5300
+            }
+          ]
+        },
+        {
+          "category": "COMMUNICATIONS",
+          "value": 2000,
+          "clue": "The most often used letter in English text, it is also the quickest to send in Morse code",
+          "answer": "E",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mark",
+              "score": 14000
+            },
+            {
+              "player": "Paul",
+              "score": 13300
+            },
+            {
+              "player": "Cathy",
+              "score": 5600
+            },
+            {
+              "player": "Keith",
+              "score": 7300
+            }
+          ]
+        },
+        {
+          "category": "OPERA",
+          "value": 2000,
+          "clue": "Ping, Pang & Pong are characters in this Puccini opera set in Peking",
+          "answer": "Turandot",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mark",
+              "score": 14000
+            },
+            {
+              "player": "Paul",
+              "score": 13300
+            },
+            {
+              "player": "Cathy",
+              "score": 5600
+            },
+            {
+              "player": "Keith",
+              "score": 9300
+            }
+          ]
+        },
+        {
+          "category": "INSECTS",
+          "value": 2000,
+          "clue": "The dreaded Dutch Elm Disease is spread from tree to tree by this insect",
+          "answer": "a beetle",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mark",
+              "score": 14000
+            },
+            {
+              "player": "Paul",
+              "score": 13300
+            },
+            {
+              "player": "Cathy",
+              "score": 5600
+            },
+            {
+              "player": "Keith",
+              "score": 9300
+            }
+          ]
+        },
+        {
+          "category": "WORLD GEOGRAPHY",
+          "value": 2000,
+          "clue": "Found mostly in the Soviet Union, this belt of grassland runs 5,000 miles from Hungary to Manchuria",
+          "answer": "Steppes",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mark",
+              "score": 16000
+            },
+            {
+              "player": "Paul",
+              "score": 13300
+            },
+            {
+              "player": "Cathy",
+              "score": 5600
+            },
+            {
+              "player": "Keith",
+              "score": 9300
+            }
+          ]
+        },
+        {
+          "category": "KINGS NAMED ED",
+          "value": 8500,
+          "clue": "At his death he named Harold his successor though he allegedly promised the crown to William of Normandy",
+          "answer": "Edward the Confessor (Edward III)",
+          "isDailyDouble": true,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mark",
+              "score": 24500
+            },
+            {
+              "player": "Paul",
+              "score": 13300
+            },
+            {
+              "player": "Cathy",
+              "score": 5600
+            },
+            {
+              "player": "Keith",
+              "score": 9300
+            }
+          ]
+        },
+        {
+          "category": "CIVIL WAR",
+          "value": 2500,
+          "clue": "On August 21, 1863 Quantrill's Raiders descended on this city in Kansas",
+          "answer": "Lawrence",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mark",
+              "score": 27000
+            },
+            {
+              "player": "Paul",
+              "score": 13300
+            },
+            {
+              "player": "Cathy",
+              "score": 5600
+            },
+            {
+              "player": "Keith",
+              "score": 9300
+            }
+          ]
+        },
+        {
+          "category": "COMMUNICATIONS",
+          "value": 2500,
+          "clue": "This M.I.T. linguist claims every human knows the general principles of language at birth",
+          "answer": "Noam Chomsky",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mark",
+              "score": 29500
+            },
+            {
+              "player": "Paul",
+              "score": 13300
+            },
+            {
+              "player": "Cathy",
+              "score": 5600
+            },
+            {
+              "player": "Keith",
+              "score": 9300
+            }
+          ]
+        },
+        {
+          "category": "OPERA",
+          "value": 5800,
+          "clue": "Donizetti opera that includes the following, perhaps the most famous mad scene in opera:",
+          "answer": "Lucia di Lammermoor",
+          "isDailyDouble": true,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mark",
+              "score": 29500
+            },
+            {
+              "player": "Paul",
+              "score": 13300
+            },
+            {
+              "player": "Cathy",
+              "score": 5600
+            },
+            {
+              "player": "Keith",
+              "score": 15100
+            }
+          ]
+        },
+        {
+          "category": "INSECTS",
+          "value": 2500,
+          "clue": "Some have called the dragonfly this, in the belief that it sews up people's lips",
+          "answer": "a darning needle",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mark",
+              "score": 29500
+            },
+            {
+              "player": "Paul",
+              "score": 13300
+            },
+            {
+              "player": "Cathy",
+              "score": 5600
+            },
+            {
+              "player": "Keith",
+              "score": 17600
+            }
+          ]
+        },
+        {
+          "category": "WORLD GEOGRAPHY",
+          "value": 2500,
+          "clue": "Iona is part of this Scottish island group",
+          "answer": "Hebrides",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mark",
+              "score": 29500
+            },
+            {
+              "player": "Paul",
+              "score": 10800
+            },
+            {
+              "player": "Cathy",
+              "score": 5600
+            },
+            {
+              "player": "Keith",
+              "score": 20100
+            }
+          ]
+        },
+        {
+          "category": "KINGS NAMED ED",
+          "value": 2500,
+          "clue": "King for 3 months in 1483, Shakespeare's \"Richard III\" tells of his death in the tower",
+          "answer": "Edward V",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Quadruple Stumper"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mark",
+              "score": 27000
+            },
+            {
+              "player": "Paul",
+              "score": 10800
+            },
+            {
+              "player": "Cathy",
+              "score": 5600
+            },
+            {
+              "player": "Keith",
+              "score": 20100
+            }
+          ]
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "Mark",
+          "score": 27000
+        },
+        {
+          "player": "Paul",
+          "score": 10800
+        },
+        {
+          "player": "Cathy",
+          "score": 5600
+        }
+      ]
+    },
+    "finalJeopardy": {
+      "category": "SCIENCE",
+      "clue": "Martin Klaproth named uranium after Uranus & this element after Uranus' children",
+      "answer": "titanium",
+      "responses": [
+        {
+          "contestant": "Cathy",
+          "response": "What is titanium?",
+          "isCorrect": true,
+          "isIncorrect": false,
+          "value": 5600,
+          "finalScore": 11200
+        },
+        {
+          "contestant": "Paul",
+          "response": "What is plutonium?",
+          "isCorrect": false,
+          "isIncorrect": true,
+          "value": 10800,
+          "finalScore": 0
+        },
+        {
+          "contestant": "Keith",
+          "response": "What is titanium?",
+          "isCorrect": true,
+          "isIncorrect": false,
+          "value": 7000,
+          "finalScore": 27100
+        },
+        {
+          "contestant": "Mark",
+          "response": "What is deuterium?",
+          "isCorrect": false,
+          "isIncorrect": true,
+          "value": 13300,
+          "finalScore": 13700
+        }
+      ]
+    }
+  },
+  "finalScores": [
+    {
+      "player": "Mark",
+      "score": "13,700"
+    },
+    {
+      "player": "Paul",
+      "score": "0"
+    },
+    {
+      "player": "Cathy",
+      "score": "11,200"
+    }
+  ],
+  "coryatScores": [
+    {
+      "player": "Mark",
+      "score": 18900
+    },
+    {
+      "player": "Paul",
+      "score": 10800
+    },
+    {
+      "player": "Cathy",
+      "score": 5600
+    }
+  ]
+}

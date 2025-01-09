@@ -1,0 +1,1702 @@
+{
+  "gameId": 18,
+  "showNumber": "4613",
+  "title": "Show #4613 - Wednesday, September 29, 2004",
+  "date": "2004-09-29",
+  "comments": "2004 Tournament of Champions semifinal game 3.",
+  "contestants": [
+    "Tom",
+    "Arthur",
+    "Steve"
+  ],
+  "rounds": {
+    "jeopardy": {
+      "categories": [
+        "ANCIENT ROMAN STAND-UP COMEDY",
+        "THE 3rd FILM IN THE SERIES",
+        "WEBSITES",
+        "YANGTZE DOODLE",
+        "GO ON A DIET",
+        "PROVERBIOS EN ESPAÑOL"
+      ],
+      "clues": [
+        {
+          "category": "PROVERBIOS EN ESPAÑOL",
+          "value": 200,
+          "clue": "\"El silencio es oro\"",
+          "answer": "silence is golden",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [
+            "Steve"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 0
+            },
+            {
+              "player": "Arthur",
+              "score": 0
+            },
+            {
+              "player": "Steve",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "PROVERBIOS EN ESPAÑOL",
+          "value": 400,
+          "clue": "\"El fin justifica los medios\"",
+          "answer": "the end justifies the means",
+          "isDailyDouble": false,
+          "orderNumber": 2,
+          "correctContestants": [
+            "Tom"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 400
+            },
+            {
+              "player": "Arthur",
+              "score": 0
+            },
+            {
+              "player": "Steve",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "PROVERBIOS EN ESPAÑOL",
+          "value": 600,
+          "clue": "\"El amor es ciego\"",
+          "answer": "love is blind",
+          "isDailyDouble": false,
+          "orderNumber": 3,
+          "correctContestants": [
+            "Steve"
+          ],
+          "incorrectContestants": [
+            "Tom"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": -200
+            },
+            {
+              "player": "Arthur",
+              "score": 0
+            },
+            {
+              "player": "Steve",
+              "score": 800
+            }
+          ]
+        },
+        {
+          "category": "PROVERBIOS EN ESPAÑOL",
+          "value": 800,
+          "clue": "\"La pluma es mas poderosa que la espada\"",
+          "answer": "the pen is mightier than the sword",
+          "isDailyDouble": false,
+          "orderNumber": 4,
+          "correctContestants": [
+            "Arthur"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": -200
+            },
+            {
+              "player": "Arthur",
+              "score": 800
+            },
+            {
+              "player": "Steve",
+              "score": 800
+            }
+          ]
+        },
+        {
+          "category": "PROVERBIOS EN ESPAÑOL",
+          "value": 1000,
+          "clue": "\"Las malas noticias viajan rapido\"",
+          "answer": "bad news travels fast",
+          "isDailyDouble": true,
+          "orderNumber": 5,
+          "correctContestants": [
+            "Arthur"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": -200
+            },
+            {
+              "player": "Arthur",
+              "score": 1800
+            },
+            {
+              "player": "Steve",
+              "score": 800
+            }
+          ]
+        },
+        {
+          "category": "YANGTZE DOODLE",
+          "value": 200,
+          "clue": "The Grand Canal connects the Yangtze River to this other major river",
+          "answer": "the Yellow River",
+          "isDailyDouble": false,
+          "orderNumber": 6,
+          "correctContestants": [
+            "Steve"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": -200
+            },
+            {
+              "player": "Arthur",
+              "score": 1800
+            },
+            {
+              "player": "Steve",
+              "score": 1000
+            }
+          ]
+        },
+        {
+          "category": "THE 3rd FILM IN THE SERIES",
+          "value": 200,
+          "clue": "The year Stallone debuted the first of the 3 \"Rambo\" films he also appeared in the 3rd film in this series",
+          "answer": "Rocky",
+          "isDailyDouble": false,
+          "orderNumber": 7,
+          "correctContestants": [
+            "Arthur"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": -200
+            },
+            {
+              "player": "Arthur",
+              "score": 2000
+            },
+            {
+              "player": "Steve",
+              "score": 1000
+            }
+          ]
+        },
+        {
+          "category": "YANGTZE DOODLE",
+          "value": 400,
+          "clue": "The 2 rivers in the world that are longer than the Yangtze",
+          "answer": "the Amazon and the Nile",
+          "isDailyDouble": false,
+          "orderNumber": 8,
+          "correctContestants": [
+            "Arthur"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": -200
+            },
+            {
+              "player": "Arthur",
+              "score": 2400
+            },
+            {
+              "player": "Steve",
+              "score": 1000
+            }
+          ]
+        },
+        {
+          "category": "YANGTZE DOODLE",
+          "value": 600,
+          "clue": "The Yangtze flows through this province that's China's most populous & known for its spicy cuisine",
+          "answer": "Szechuan",
+          "isDailyDouble": false,
+          "orderNumber": 9,
+          "correctContestants": [
+            "Tom"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 400
+            },
+            {
+              "player": "Arthur",
+              "score": 2400
+            },
+            {
+              "player": "Steve",
+              "score": 1000
+            }
+          ]
+        },
+        {
+          "category": "YANGTZE DOODLE",
+          "value": 800,
+          "clue": "Native to the Yangtze river valley, this fruit is also known as a Chinese gooseberry",
+          "answer": "a kiwi",
+          "isDailyDouble": false,
+          "orderNumber": 10,
+          "correctContestants": [
+            "Steve"
+          ],
+          "incorrectContestants": [
+            "Tom"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": -400
+            },
+            {
+              "player": "Arthur",
+              "score": 2400
+            },
+            {
+              "player": "Steve",
+              "score": 1800
+            }
+          ]
+        },
+        {
+          "category": "THE 3rd FILM IN THE SERIES",
+          "value": 400,
+          "clue": "This character was the object of the title search in \"Star Trek III\"",
+          "answer": "Spock",
+          "isDailyDouble": false,
+          "orderNumber": 11,
+          "correctContestants": [
+            "Tom"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 0
+            },
+            {
+              "player": "Arthur",
+              "score": 2400
+            },
+            {
+              "player": "Steve",
+              "score": 1800
+            }
+          ]
+        },
+        {
+          "category": "ANCIENT ROMAN STAND-UP COMEDY",
+          "value": 200,
+          "clue": "(Jimmy of the Clue Crew delivers from an open mic in a small club.)  I tell you it was so cold today... (How cold was it?) It was so cold, I wished we were back in 64 when he was emperor. Hot times, if you know what I mean!",
+          "answer": "Nero",
+          "isDailyDouble": false,
+          "orderNumber": 12,
+          "correctContestants": [
+            "Arthur"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 0
+            },
+            {
+              "player": "Arthur",
+              "score": 2600
+            },
+            {
+              "player": "Steve",
+              "score": 1800
+            }
+          ]
+        },
+        {
+          "category": "ANCIENT ROMAN STAND-UP COMEDY",
+          "value": 400,
+          "clue": "(Jimmy of the Clue Crew delivers from an open mic in a small club.)  Boy, in the old days we knew how to par-tay.  You know what they say--if you can remember this festival of the god Bacchus, you weren't there!",
+          "answer": "a bacchanalia",
+          "isDailyDouble": false,
+          "orderNumber": 13,
+          "correctContestants": [
+            "Arthur"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 0
+            },
+            {
+              "player": "Arthur",
+              "score": 3000
+            },
+            {
+              "player": "Steve",
+              "score": 1800
+            }
+          ]
+        },
+        {
+          "category": "ANCIENT ROMAN STAND-UP COMEDY",
+          "value": 600,
+          "clue": "(Jimmy of the Clue Crew delivers from an open mic in a small club.)  See, in this place, I like to stay in the calderium; avoid the frigidarium.  I like my tenaculum the size it is!",
+          "answer": "the baths",
+          "isDailyDouble": false,
+          "orderNumber": 14,
+          "correctContestants": [
+            "Tom"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 600
+            },
+            {
+              "player": "Arthur",
+              "score": 3000
+            },
+            {
+              "player": "Steve",
+              "score": 1800
+            }
+          ]
+        },
+        {
+          "category": "ANCIENT ROMAN STAND-UP COMEDY",
+          "value": 800,
+          "clue": "(Jimmy of the Clue Crew delivers from an open mic in a small club.)  Talk about a terrible cook!  My wife's pretty bad, but at least she never gave me poisoned figs like Livia gave this guy",
+          "answer": "Augustus Caesar",
+          "isDailyDouble": false,
+          "orderNumber": 15,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Tom",
+            "Arthur"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": -200
+            },
+            {
+              "player": "Arthur",
+              "score": 2200
+            },
+            {
+              "player": "Steve",
+              "score": 1800
+            }
+          ]
+        },
+        {
+          "category": "ANCIENT ROMAN STAND-UP COMEDY",
+          "value": 1000,
+          "clue": "(Jimmy of the Clue Crew delivers from an open mic in a small club.)  How about Varis's army being wiped out in the forest in this country?  That's like me being in the arena against Spartacus!",
+          "answer": "Germany",
+          "isDailyDouble": false,
+          "orderNumber": 16,
+          "correctContestants": [
+            "Arthur"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": -200
+            },
+            {
+              "player": "Arthur",
+              "score": 3200
+            },
+            {
+              "player": "Steve",
+              "score": 1800
+            }
+          ]
+        },
+        {
+          "category": "YANGTZE DOODLE",
+          "value": 1000,
+          "clue": "This dam, one of the world's largest when completed, is being built on the Yangtze to control flooding",
+          "answer": "the Three Gorges Dam",
+          "isDailyDouble": false,
+          "orderNumber": 17,
+          "correctContestants": [
+            "Tom"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 800
+            },
+            {
+              "player": "Arthur",
+              "score": 3200
+            },
+            {
+              "player": "Steve",
+              "score": 1800
+            }
+          ]
+        },
+        {
+          "category": "GO ON A DIET",
+          "value": 200,
+          "clue": "The company named for this woman, co-founder with her husband Sid, urges a balanced food, body & mind approach",
+          "answer": "Jenny Craig",
+          "isDailyDouble": false,
+          "orderNumber": 18,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 800
+            },
+            {
+              "player": "Arthur",
+              "score": 3200
+            },
+            {
+              "player": "Steve",
+              "score": 1800
+            }
+          ]
+        },
+        {
+          "category": "GO ON A DIET",
+          "value": 400,
+          "clue": "All foods have a point value & you're given an assigned daily point total at a meeting in this Heinz-owned plan",
+          "answer": "Weight Watchers",
+          "isDailyDouble": false,
+          "orderNumber": 19,
+          "correctContestants": [
+            "Steve"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 800
+            },
+            {
+              "player": "Arthur",
+              "score": 3200
+            },
+            {
+              "player": "Steve",
+              "score": 2200
+            }
+          ]
+        },
+        {
+          "category": "GO ON A DIET",
+          "value": 600,
+          "clue": "Whoopi Goldberg's a big loser on this \"shake\"y product & diet",
+          "answer": "Slim·Fast",
+          "isDailyDouble": false,
+          "orderNumber": 20,
+          "correctContestants": [
+            "Tom"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 1400
+            },
+            {
+              "player": "Arthur",
+              "score": 3200
+            },
+            {
+              "player": "Steve",
+              "score": 2200
+            }
+          ]
+        },
+        {
+          "category": "GO ON A DIET",
+          "value": 800,
+          "clue": "Eating the proper balance of low-fat proteins, carbs & good fat is the key to this Dr. Sears diet",
+          "answer": "The Zone",
+          "isDailyDouble": false,
+          "orderNumber": 21,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Tom"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 600
+            },
+            {
+              "player": "Arthur",
+              "score": 3200
+            },
+            {
+              "player": "Steve",
+              "score": 2200
+            }
+          ]
+        },
+        {
+          "category": "GO ON A DIET",
+          "value": 1000,
+          "clue": "This geographic diet's name comes from the Greek & Southern Italian consumption of grain, fruit, veggies & fish",
+          "answer": "the Mediterranean Diet",
+          "isDailyDouble": false,
+          "orderNumber": 22,
+          "correctContestants": [
+            "Tom"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 1600
+            },
+            {
+              "player": "Arthur",
+              "score": 3200
+            },
+            {
+              "player": "Steve",
+              "score": 2200
+            }
+          ]
+        },
+        {
+          "category": "THE 3rd FILM IN THE SERIES",
+          "value": 600,
+          "clue": "In a 1990 film in this series, Marty travels to 1885 to save Doc Brown",
+          "answer": "Back to the Future",
+          "isDailyDouble": false,
+          "orderNumber": 23,
+          "correctContestants": [
+            "Tom"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 2200
+            },
+            {
+              "player": "Arthur",
+              "score": 3200
+            },
+            {
+              "player": "Steve",
+              "score": 2200
+            }
+          ]
+        },
+        {
+          "category": "THE 3rd FILM IN THE SERIES",
+          "value": 800,
+          "clue": "\"With a Vengeance\", not \"III\", came after this in the title of a 1995 film",
+          "answer": "Die Hard",
+          "isDailyDouble": false,
+          "orderNumber": 24,
+          "correctContestants": [
+            "Tom"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 3000
+            },
+            {
+              "player": "Arthur",
+              "score": 3200
+            },
+            {
+              "player": "Steve",
+              "score": 2200
+            }
+          ]
+        },
+        {
+          "category": "THE 3rd FILM IN THE SERIES",
+          "value": 1000,
+          "clue": "Lorraine Axeman, one of our researchers, was an extra in \"Army of Darkness\", Sam Raimi's 3rd film in this Series",
+          "answer": "The Evil Dead",
+          "isDailyDouble": false,
+          "orderNumber": 25,
+          "correctContestants": [
+            "Steve"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 3000
+            },
+            {
+              "player": "Arthur",
+              "score": 3200
+            },
+            {
+              "player": "Steve",
+              "score": 3200
+            }
+          ]
+        },
+        {
+          "category": "WEBSITES",
+          "value": 200,
+          "clue": "Look up your car's trade-in value & get new car pricing at kbb.com; KBB, short for this",
+          "answer": "Kelley Blue Book",
+          "isDailyDouble": false,
+          "orderNumber": 26,
+          "correctContestants": [
+            "Arthur"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 3000
+            },
+            {
+              "player": "Arthur",
+              "score": 3400
+            },
+            {
+              "player": "Steve",
+              "score": 3200
+            }
+          ]
+        },
+        {
+          "category": "WEBSITES",
+          "value": 400,
+          "clue": "\"Bush regales dinner guests with impromptu oratory on Virgil's minor works\", this satirical news website headlined",
+          "answer": "The Onion",
+          "isDailyDouble": false,
+          "orderNumber": 27,
+          "correctContestants": [
+            "Tom"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 3400
+            },
+            {
+              "player": "Arthur",
+              "score": 3400
+            },
+            {
+              "player": "Steve",
+              "score": 3200
+            }
+          ]
+        },
+        {
+          "category": "WEBSITES",
+          "value": 600,
+          "clue": "This 6-letter .com claims to find \"the right answer for... every one\" of the 200 million queries its users have daily",
+          "answer": "Google",
+          "isDailyDouble": false,
+          "orderNumber": 28,
+          "correctContestants": [
+            "Arthur"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 3400
+            },
+            {
+              "player": "Arthur",
+              "score": 4000
+            },
+            {
+              "player": "Steve",
+              "score": 3200
+            }
+          ]
+        },
+        {
+          "category": "WEBSITES",
+          "value": 800,
+          "clue": "At him online.com, visitors have hit a link to his golf club, applied for a job on his NBC show & basked in his excess",
+          "answer": "Trump",
+          "isDailyDouble": false,
+          "orderNumber": 29,
+          "correctContestants": [
+            "Arthur"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 3400
+            },
+            {
+              "player": "Arthur",
+              "score": 4800
+            },
+            {
+              "player": "Steve",
+              "score": 3200
+            }
+          ]
+        },
+        {
+          "category": "WEBSITES",
+          "value": 1000,
+          "clue": "This abbreviation .gov promises that the organization is \"bringing safety to America's skies\"",
+          "answer": "FAA",
+          "isDailyDouble": false,
+          "orderNumber": 30,
+          "correctContestants": [
+            "Tom"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 4400
+            },
+            {
+              "player": "Arthur",
+              "score": 4800
+            },
+            {
+              "player": "Steve",
+              "score": 3200
+            }
+          ]
+        }
+      ],
+      "firstBreakScores": [
+        {
+          "player": "Tom",
+          "score": -200
+        },
+        {
+          "player": "Arthur",
+          "score": 3200
+        },
+        {
+          "player": "Steve",
+          "score": 1800
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "Tom",
+          "score": 4400
+        },
+        {
+          "player": "Arthur",
+          "score": 4800
+        },
+        {
+          "player": "Steve",
+          "score": 3200
+        }
+      ]
+    },
+    "doubleJeopardy": {
+      "categories": [
+        "FLOWERS",
+        "THE GREAT AMERICAN SONGBOOK",
+        "MUSEUMS",
+        "LITERATURE",
+        "THE WOMEN OF CONGRESS",
+        "JEOPORTMANTEAU!"
+      ],
+      "clues": [
+        {
+          "category": "THE WOMEN OF CONGRESS",
+          "value": 400,
+          "clue": "\"An Invitation to the White House\" is a bestseller by this current senator",
+          "answer": "(Hillary) Clinton",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 4800
+            },
+            {
+              "player": "Arthur",
+              "score": 4800
+            },
+            {
+              "player": "Steve",
+              "score": 3200
+            }
+          ]
+        },
+        {
+          "category": "LITERATURE",
+          "value": 400,
+          "clue": "Her career as a novelist dawned with \"Dawn O'Hara\"; \"Show Boat\" showed up later",
+          "answer": "Edna Ferber",
+          "isDailyDouble": false,
+          "orderNumber": 2,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 5200
+            },
+            {
+              "player": "Arthur",
+              "score": 4800
+            },
+            {
+              "player": "Steve",
+              "score": 3200
+            }
+          ]
+        },
+        {
+          "category": "LITERATURE",
+          "value": 800,
+          "clue": "Gom Gut & Plick et Plock were pseudonyms of this Inspector Maigret creator",
+          "answer": "Georges Simenon",
+          "isDailyDouble": false,
+          "orderNumber": 3,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 5200
+            },
+            {
+              "player": "Arthur",
+              "score": 4800
+            },
+            {
+              "player": "Steve",
+              "score": 3200
+            }
+          ]
+        },
+        {
+          "category": "LITERATURE",
+          "value": 1200,
+          "clue": "Hmm... he dedicated his 1820 poem \"The Witch of Atlas\" to his wife Mary",
+          "answer": "(Percy Bysshe) Shelley",
+          "isDailyDouble": false,
+          "orderNumber": 4,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 5200
+            },
+            {
+              "player": "Arthur",
+              "score": 4800
+            },
+            {
+              "player": "Steve",
+              "score": 4400
+            }
+          ]
+        },
+        {
+          "category": "LITERATURE",
+          "value": 1600,
+          "clue": "Lloyd Brown, once an inmate of this city's Alleghany County jail, based his novel \"Iron City\" on life there",
+          "answer": "Pittsburgh",
+          "isDailyDouble": false,
+          "orderNumber": 5,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 5200
+            },
+            {
+              "player": "Arthur",
+              "score": 6400
+            },
+            {
+              "player": "Steve",
+              "score": 4400
+            }
+          ]
+        },
+        {
+          "category": "THE WOMEN OF CONGRESS",
+          "value": 800,
+          "clue": "Judy Biggert represents this state's 13th District, which includes parts of DuPage, Will & Cook counties",
+          "answer": "Illinois",
+          "isDailyDouble": false,
+          "orderNumber": 6,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 5200
+            },
+            {
+              "player": "Arthur",
+              "score": 7200
+            },
+            {
+              "player": "Steve",
+              "score": 4400
+            }
+          ]
+        },
+        {
+          "category": "THE WOMEN OF CONGRESS",
+          "value": 1200,
+          "clue": "In 2003 Republican Lisa Murkowski took the oath of office as this state's sixth U.S. Senator since statehood",
+          "answer": "Alaska",
+          "isDailyDouble": true,
+          "orderNumber": 7,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 5200
+            },
+            {
+              "player": "Arthur",
+              "score": 8400
+            },
+            {
+              "player": "Steve",
+              "score": 4400
+            }
+          ]
+        },
+        {
+          "category": "THE WOMEN OF CONGRESS",
+          "value": 1600,
+          "clue": "Republican Barbara Cubin represents this state in the House all by herself",
+          "answer": "Wyoming",
+          "isDailyDouble": false,
+          "orderNumber": 8,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 6800
+            },
+            {
+              "player": "Arthur",
+              "score": 8400
+            },
+            {
+              "player": "Steve",
+              "score": 4400
+            }
+          ]
+        },
+        {
+          "category": "LITERATURE",
+          "value": 2000,
+          "clue": "\"I shouldn't mind being a bride... if I could be one without having a husband\", says Bathsheba in this Hardy novel",
+          "answer": "Far From the Madding Crowd",
+          "isDailyDouble": false,
+          "orderNumber": 9,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 4800
+            },
+            {
+              "player": "Arthur",
+              "score": 8400
+            },
+            {
+              "player": "Steve",
+              "score": 4400
+            }
+          ]
+        },
+        {
+          "category": "FLOWERS",
+          "value": 400,
+          "clue": "In Shakespeare's \"Romeo & Juliet\" we learn that this flower \"by any other name would smell as sweet\"",
+          "answer": "a rose",
+          "isDailyDouble": false,
+          "orderNumber": 10,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 4800
+            },
+            {
+              "player": "Arthur",
+              "score": 8800
+            },
+            {
+              "player": "Steve",
+              "score": 4400
+            }
+          ]
+        },
+        {
+          "category": "FLOWERS",
+          "value": 800,
+          "clue": "The Italians call this flower girasole because its head turns to follow the light",
+          "answer": "a sunflower",
+          "isDailyDouble": false,
+          "orderNumber": 11,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 4800
+            },
+            {
+              "player": "Arthur",
+              "score": 9600
+            },
+            {
+              "player": "Steve",
+              "score": 4400
+            }
+          ]
+        },
+        {
+          "category": "FLOWERS",
+          "value": 1200,
+          "clue": "It's believed that this flower's scientific name Papaver came from \"pap\" because its juice was used to make babies sleepy",
+          "answer": "the poppy",
+          "isDailyDouble": false,
+          "orderNumber": 12,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 6000
+            },
+            {
+              "player": "Arthur",
+              "score": 9600
+            },
+            {
+              "player": "Steve",
+              "score": 4400
+            }
+          ]
+        },
+        {
+          "category": "FLOWERS",
+          "value": 1600,
+          "clue": "Known as a \"fairy flower\", this bloom of the genus Digitalis has a darker side; large doses of it can be poisonous",
+          "answer": "foxglove",
+          "isDailyDouble": false,
+          "orderNumber": 13,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 4400
+            },
+            {
+              "player": "Arthur",
+              "score": 9600
+            },
+            {
+              "player": "Steve",
+              "score": 4400
+            }
+          ]
+        },
+        {
+          "category": "FLOWERS",
+          "value": 2000,
+          "clue": "Certain orchids, genus Cypripedium, are known by this feminine name, from their resemblance to delicate footwear",
+          "answer": "lady's slippers",
+          "isDailyDouble": false,
+          "orderNumber": 14,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 4400
+            },
+            {
+              "player": "Arthur",
+              "score": 9600
+            },
+            {
+              "player": "Steve",
+              "score": 6400
+            }
+          ]
+        },
+        {
+          "category": "THE WOMEN OF CONGRESS",
+          "value": 2000,
+          "clue": "It's the last name of California Reps. Loretta & Linda, the first sisters in Congress",
+          "answer": "Sanchez",
+          "isDailyDouble": false,
+          "orderNumber": 15,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 4400
+            },
+            {
+              "player": "Arthur",
+              "score": 9600
+            },
+            {
+              "player": "Steve",
+              "score": 4400
+            }
+          ]
+        },
+        {
+          "category": "THE GREAT AMERICAN SONGBOOK",
+          "value": 400,
+          "clue": "His first published song was 1909's \"Marie from Sunny Italy\"; later ones include \"Cheek to Cheek\" & \"Easter Parade\"",
+          "answer": "Irving Berlin",
+          "isDailyDouble": false,
+          "orderNumber": 16,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 4400
+            },
+            {
+              "player": "Arthur",
+              "score": 10000
+            },
+            {
+              "player": "Steve",
+              "score": 4400
+            }
+          ]
+        },
+        {
+          "category": "MUSEUMS",
+          "value": 1200,
+          "clue": "Appropriately, this vast Russian art museum houses the icon of St. Nicholas seen here",
+          "answer": "the Hermitage",
+          "isDailyDouble": false,
+          "orderNumber": 17,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 4400
+            },
+            {
+              "player": "Arthur",
+              "score": 11200
+            },
+            {
+              "player": "Steve",
+              "score": 4400
+            }
+          ]
+        },
+        {
+          "category": "MUSEUMS",
+          "value": 1600,
+          "clue": "The Vasamuseet in Stockholm houses one of the oldest complete examples of these, the Vasa",
+          "answer": "a ship",
+          "isDailyDouble": false,
+          "orderNumber": 18,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 6000
+            },
+            {
+              "player": "Arthur",
+              "score": 11200
+            },
+            {
+              "player": "Steve",
+              "score": 4400
+            }
+          ]
+        },
+        {
+          "category": "MUSEUMS",
+          "value": 6000,
+          "clue": "There are museums devoted to this writer in Nairobi, Kenya & in Rungstedlund, Denmark",
+          "answer": "Isak Dinesen (aka Karen Blixen, author of Out of Africa)",
+          "isDailyDouble": true,
+          "orderNumber": 19,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 12000
+            },
+            {
+              "player": "Arthur",
+              "score": 11200
+            },
+            {
+              "player": "Steve",
+              "score": 4400
+            }
+          ]
+        },
+        {
+          "category": "MUSEUMS",
+          "value": 400,
+          "clue": "A museum dedicated to this literary character is located, where else, but at \"221B\" Baker Street in London",
+          "answer": "Sherlock Holmes",
+          "isDailyDouble": false,
+          "orderNumber": 20,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 12000
+            },
+            {
+              "player": "Arthur",
+              "score": 11600
+            },
+            {
+              "player": "Steve",
+              "score": 4400
+            }
+          ]
+        },
+        {
+          "category": "MUSEUMS",
+          "value": 800,
+          "clue": "For nearly 4 centuries, what is now the Topkapi Palace Museum was the residence of this empire's sultans",
+          "answer": "the Ottoman Empire",
+          "isDailyDouble": false,
+          "orderNumber": 21,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 12800
+            },
+            {
+              "player": "Arthur",
+              "score": 11600
+            },
+            {
+              "player": "Steve",
+              "score": 4400
+            }
+          ]
+        },
+        {
+          "category": "THE GREAT AMERICAN SONGBOOK",
+          "value": 800,
+          "clue": "This song complains, \"Since my gal and I ain't together keeps raining all the time\"",
+          "answer": "\"Stormy Weather\"",
+          "isDailyDouble": false,
+          "orderNumber": 22,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 13600
+            },
+            {
+              "player": "Arthur",
+              "score": 11600
+            },
+            {
+              "player": "Steve",
+              "score": 4400
+            }
+          ]
+        },
+        {
+          "category": "THE GREAT AMERICAN SONGBOOK",
+          "value": 1200,
+          "clue": "Dorothy Fields, the most successful female theater lyricist of the 20th century, wrote the words to this classic",
+          "answer": "\"A Fine Romance\"",
+          "isDailyDouble": false,
+          "orderNumber": 23,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 13600
+            },
+            {
+              "player": "Arthur",
+              "score": 11600
+            },
+            {
+              "player": "Steve",
+              "score": 4400
+            }
+          ]
+        },
+        {
+          "category": "THE GREAT AMERICAN SONGBOOK",
+          "value": 1600,
+          "clue": "The last song George Gershwin composed, its title is followed by the line \"not for a year, but ever and a day\"",
+          "answer": "\"Our Love Is Here To Stay\"",
+          "isDailyDouble": false,
+          "orderNumber": 24,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 15200
+            },
+            {
+              "player": "Arthur",
+              "score": 11600
+            },
+            {
+              "player": "Steve",
+              "score": 4400
+            }
+          ]
+        },
+        {
+          "category": "THE GREAT AMERICAN SONGBOOK",
+          "value": 2000,
+          "clue": "In \"You're The Top\", this American wrote, \"But if this ditty is not so pretty, at least it'll tell you how great you are\"",
+          "answer": "Cole Porter",
+          "isDailyDouble": false,
+          "orderNumber": 25,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 15200
+            },
+            {
+              "player": "Arthur",
+              "score": 11600
+            },
+            {
+              "player": "Steve",
+              "score": 6400
+            }
+          ]
+        },
+        {
+          "category": "JEOPORTMANTEAU!",
+          "value": 400,
+          "clue": "Meatpacking \"Jungle\" city plus burrowing rodent",
+          "answer": "Chicagopher",
+          "isDailyDouble": false,
+          "orderNumber": 26,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 15200
+            },
+            {
+              "player": "Arthur",
+              "score": 12000
+            },
+            {
+              "player": "Steve",
+              "score": 6400
+            }
+          ]
+        },
+        {
+          "category": "JEOPORTMANTEAU!",
+          "value": 800,
+          "clue": "Thane of Cawdor plus birthplace of Jesus",
+          "answer": "Macbethlehem",
+          "isDailyDouble": false,
+          "orderNumber": 27,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 15200
+            },
+            {
+              "player": "Arthur",
+              "score": 12800
+            },
+            {
+              "player": "Steve",
+              "score": 6400
+            }
+          ]
+        },
+        {
+          "category": "JEOPORTMANTEAU!",
+          "value": 1200,
+          "clue": "\"Book\"ish nickname of fictional young detective Leroy Brown plus the doctor he might see for a check-up",
+          "answer": "Encyclopediatrician",
+          "isDailyDouble": false,
+          "orderNumber": 28,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 15200
+            },
+            {
+              "player": "Arthur",
+              "score": 12800
+            },
+            {
+              "player": "Steve",
+              "score": 7600
+            }
+          ]
+        },
+        {
+          "category": "JEOPORTMANTEAU!",
+          "value": 1600,
+          "clue": "17-year migratory insect plus creamy egg-based dessert",
+          "answer": "Locustard",
+          "isDailyDouble": false,
+          "orderNumber": 29,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 15200
+            },
+            {
+              "player": "Arthur",
+              "score": 14400
+            },
+            {
+              "player": "Steve",
+              "score": 7600
+            }
+          ]
+        },
+        {
+          "category": "JEOPORTMANTEAU!",
+          "value": 2000,
+          "clue": "Kubla Khan's stately pleasure dome site plus a quilt",
+          "answer": "Xanaduvet",
+          "isDailyDouble": false,
+          "orderNumber": 30,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 15200
+            },
+            {
+              "player": "Arthur",
+              "score": 16400
+            },
+            {
+              "player": "Steve",
+              "score": 7600
+            }
+          ]
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "Tom",
+          "score": 15200
+        },
+        {
+          "player": "Arthur",
+          "score": 16400
+        },
+        {
+          "player": "Steve",
+          "score": 7600
+        }
+      ]
+    },
+    "finalJeopardy": {
+      "category": "19th CENTURY NAMES",
+      "clue": "Once known as \"the handsomest man in America\", he performed his last play, \"The Apostate\", on March 18, 1865",
+      "answer": "John Wilkes Booth",
+      "responses": [
+        {
+          "contestant": "Steve",
+          "response": "Who is Edwin Booth?",
+          "isCorrect": false,
+          "isIncorrect": true,
+          "value": 0,
+          "finalScore": 7600
+        },
+        {
+          "contestant": "Tom",
+          "response": "Who was [a zigzag that resembles WVthm]",
+          "isCorrect": false,
+          "isIncorrect": true,
+          "value": 15200,
+          "finalScore": 0
+        },
+        {
+          "contestant": "Arthur",
+          "response": "Who is John Wilkes Booth?",
+          "isCorrect": true,
+          "isIncorrect": false,
+          "value": 15000,
+          "finalScore": 31400
+        }
+      ]
+    }
+  },
+  "finalScores": [
+    {
+      "player": "Tom",
+      "score": "$0"
+    },
+    {
+      "player": "Arthur",
+      "score": "$31,400"
+    },
+    {
+      "player": "Steve",
+      "score": "$7,600"
+    }
+  ],
+  "coryatScores": [
+    {
+      "player": "Tom",
+      "score": 11200
+    },
+    {
+      "player": "Arthur",
+      "score": 16400
+    },
+    {
+      "player": "Steve",
+      "score": 7600
+    }
+  ]
+}

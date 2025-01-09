@@ -1,0 +1,1693 @@
+{
+  "gameId": 3327,
+  "showNumber": "5863",
+  "title": "Show #5863 - Wednesday, February 24, 2010",
+  "date": "2010-02-24",
+  "comments": "",
+  "contestants": [
+    "Tom",
+    "Graham",
+    "Leslie"
+  ],
+  "rounds": {
+    "jeopardy": {
+      "categories": [
+        "WHEN WE WERE KINGS",
+        "THAT'S IN BRITOONICA",
+        "MEET YOUR NEW GODFATHER!",
+        "CELEBRITIES' FAVORITE BOOKS",
+        "STATE CAPITALS",
+        "\"L.L.\", SEE"
+      ],
+      "clues": [
+        {
+          "category": "STATE CAPITALS",
+          "value": 200,
+          "clue": "This site was uninhabited woods when James Doty persuaded the Wisconsin legislature to put the capital there",
+          "answer": "Madison",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [
+            "Tom"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 200
+            },
+            {
+              "player": "Graham",
+              "score": 0
+            },
+            {
+              "player": "Leslie",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "STATE CAPITALS",
+          "value": 400,
+          "clue": "It's home to Grand Canyon university",
+          "answer": "Phoenix",
+          "isDailyDouble": false,
+          "orderNumber": 2,
+          "correctContestants": [
+            "Graham"
+          ],
+          "incorrectContestants": [
+            "Tom"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": -200
+            },
+            {
+              "player": "Graham",
+              "score": 400
+            },
+            {
+              "player": "Leslie",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "STATE CAPITALS",
+          "value": 600,
+          "clue": "Troy & Schenectady are part of this state capital's metropolitan area",
+          "answer": "Albany",
+          "isDailyDouble": false,
+          "orderNumber": 3,
+          "correctContestants": [
+            "Leslie"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": -200
+            },
+            {
+              "player": "Graham",
+              "score": 400
+            },
+            {
+              "player": "Leslie",
+              "score": 600
+            }
+          ]
+        },
+        {
+          "category": "STATE CAPITALS",
+          "value": 1000,
+          "clue": "This capital closest to Sutter's Mill served as a supply center for the Forty-Niners",
+          "answer": "Sacramento",
+          "isDailyDouble": true,
+          "orderNumber": 4,
+          "correctContestants": [
+            "Leslie"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": -200
+            },
+            {
+              "player": "Graham",
+              "score": 400
+            },
+            {
+              "player": "Leslie",
+              "score": 1600
+            }
+          ]
+        },
+        {
+          "category": "STATE CAPITALS",
+          "value": 1000,
+          "clue": "This capital was created when adjoining settlements, East Alabama & Alabama, merged in 1819",
+          "answer": "Montgomery",
+          "isDailyDouble": false,
+          "orderNumber": 5,
+          "correctContestants": [
+            "Graham"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": -200
+            },
+            {
+              "player": "Graham",
+              "score": 1400
+            },
+            {
+              "player": "Leslie",
+              "score": 1600
+            }
+          ]
+        },
+        {
+          "category": "CELEBRITIES' FAVORITE BOOKS",
+          "value": 200,
+          "clue": "(I'm Jack Ford.)  I couldn't choose just one; my favorite books are \"Trinity\", Leon Uris' novel of Ireland, & this Margaret Mitchell novel with an Irish-American heroine",
+          "answer": "Gone with the Wind",
+          "isDailyDouble": false,
+          "orderNumber": 6,
+          "correctContestants": [
+            "Tom"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 0
+            },
+            {
+              "player": "Graham",
+              "score": 1400
+            },
+            {
+              "player": "Leslie",
+              "score": 1600
+            }
+          ]
+        },
+        {
+          "category": "CELEBRITIES' FAVORITE BOOKS",
+          "value": 400,
+          "clue": "(I'm Kareem Abdul-Jabbar.)  Alexandre Dumas' 1844 novel about this swashbuckling title trio is for adventure lovers of all ages",
+          "answer": "The Three Musketeers",
+          "isDailyDouble": false,
+          "orderNumber": 7,
+          "correctContestants": [
+            "Tom"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 400
+            },
+            {
+              "player": "Graham",
+              "score": 1400
+            },
+            {
+              "player": "Leslie",
+              "score": 1600
+            }
+          ]
+        },
+        {
+          "category": "CELEBRITIES' FAVORITE BOOKS",
+          "value": 600,
+          "clue": "(Hi, I'm Doug Savant.)  John Irving moved me with his look at good & evil in the novel \"A Prayer for\" this Christ-like character",
+          "answer": "Owen Meany",
+          "isDailyDouble": false,
+          "orderNumber": 8,
+          "correctContestants": [
+            "Graham"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 400
+            },
+            {
+              "player": "Graham",
+              "score": 2000
+            },
+            {
+              "player": "Leslie",
+              "score": 1600
+            }
+          ]
+        },
+        {
+          "category": "CELEBRITIES' FAVORITE BOOKS",
+          "value": 1000,
+          "clue": "(Hi, I'm Christopher Meloni.)  The promiscuous Mara is one of many fascinating women in \"Sexus\", by this author who wrote 2 famous books about the tropics",
+          "answer": "(Henry) Miller",
+          "isDailyDouble": false,
+          "orderNumber": 9,
+          "correctContestants": [
+            "Tom"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 1400
+            },
+            {
+              "player": "Graham",
+              "score": 2000
+            },
+            {
+              "player": "Leslie",
+              "score": 1600
+            }
+          ]
+        },
+        {
+          "category": "CELEBRITIES' FAVORITE BOOKS",
+          "value": 800,
+          "clue": "(Bill Clinton delivers the clue.)  My favorite novel is this book by Gabriel Garcia Marquez in which one sees the history of Latin America reflected in the town of Macondo",
+          "answer": "One Hundred Years of Solitude",
+          "isDailyDouble": false,
+          "orderNumber": 10,
+          "correctContestants": [
+            "Tom"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 2200
+            },
+            {
+              "player": "Graham",
+              "score": 2000
+            },
+            {
+              "player": "Leslie",
+              "score": 1600
+            }
+          ]
+        },
+        {
+          "category": "MEET YOUR NEW GODFATHER!",
+          "value": 200,
+          "clue": "I'll make you an offer you can't refuse: name one of the 2 U.S. senators from Connecticut & I'll give you $200",
+          "answer": "(Christopher) Dodd (or Joseph Lieberman)",
+          "isDailyDouble": false,
+          "orderNumber": 11,
+          "correctContestants": [
+            "Tom"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 2400
+            },
+            {
+              "player": "Graham",
+              "score": 2000
+            },
+            {
+              "player": "Leslie",
+              "score": 1600
+            }
+          ]
+        },
+        {
+          "category": "MEET YOUR NEW GODFATHER!",
+          "value": 400,
+          "clue": "Don't ask me about my business; it's this \"Australian for beer\" brand, but don't ask me about it",
+          "answer": "Foster's",
+          "isDailyDouble": false,
+          "orderNumber": 12,
+          "correctContestants": [
+            "Leslie"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 2400
+            },
+            {
+              "player": "Graham",
+              "score": 2000
+            },
+            {
+              "player": "Leslie",
+              "score": 2000
+            }
+          ]
+        },
+        {
+          "category": "\"L.L.\", SEE",
+          "value": 200,
+          "clue": "Different from a wireless, this is a term for a phone with physical connection between 2 devices",
+          "answer": "a landline",
+          "isDailyDouble": false,
+          "orderNumber": 13,
+          "correctContestants": [
+            "Graham"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 2400
+            },
+            {
+              "player": "Graham",
+              "score": 2200
+            },
+            {
+              "player": "Leslie",
+              "score": 2000
+            }
+          ]
+        },
+        {
+          "category": "MEET YOUR NEW GODFATHER!",
+          "value": 600,
+          "clue": "I'm a Lakers fan.  You like this Mark Cuban-owned NBA team.  OK, but don't ever take sides against the family again.  Ever",
+          "answer": "the Mavericks",
+          "isDailyDouble": false,
+          "orderNumber": 14,
+          "correctContestants": [
+            "Graham"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 2400
+            },
+            {
+              "player": "Graham",
+              "score": 2800
+            },
+            {
+              "player": "Leslie",
+              "score": 2000
+            }
+          ]
+        },
+        {
+          "category": "MEET YOUR NEW GODFATHER!",
+          "value": 800,
+          "clue": "I gift you a 528i sedan from this company; someday--& that day may never come--I'll call upon you to do a service for me",
+          "answer": "BMW",
+          "isDailyDouble": false,
+          "orderNumber": 15,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 2400
+            },
+            {
+              "player": "Graham",
+              "score": 2800
+            },
+            {
+              "player": "Leslie",
+              "score": 2000
+            }
+          ]
+        },
+        {
+          "category": "MEET YOUR NEW GODFATHER!",
+          "value": 1000,
+          "clue": "You balk at a trip to Mogadishu, this country's capital?  What have I ever done to make you treat me so disrespectfully?",
+          "answer": "Somalia",
+          "isDailyDouble": false,
+          "orderNumber": 16,
+          "correctContestants": [
+            "Graham"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 2400
+            },
+            {
+              "player": "Graham",
+              "score": 3800
+            },
+            {
+              "player": "Leslie",
+              "score": 2000
+            }
+          ]
+        },
+        {
+          "category": "\"L.L.\", SEE",
+          "value": 400,
+          "clue": "This villain's obsession with Superman goes back to Action Comics No. 23 in 1940",
+          "answer": "Lex Luthor",
+          "isDailyDouble": false,
+          "orderNumber": 17,
+          "correctContestants": [
+            "Graham"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 2400
+            },
+            {
+              "player": "Graham",
+              "score": 4200
+            },
+            {
+              "player": "Leslie",
+              "score": 2000
+            }
+          ]
+        },
+        {
+          "category": "\"L.L.\", SEE",
+          "value": 600,
+          "clue": "2 of the unalienable rights set forth in the Declaration of Independence",
+          "answer": "life & liberty",
+          "isDailyDouble": false,
+          "orderNumber": 18,
+          "correctContestants": [
+            "Leslie"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 2400
+            },
+            {
+              "player": "Graham",
+              "score": 4200
+            },
+            {
+              "player": "Leslie",
+              "score": 2600
+            }
+          ]
+        },
+        {
+          "category": "\"L.L.\", SEE",
+          "value": 800,
+          "clue": "Edward Craven Walker created this device that undulates as light heats it",
+          "answer": "a lava lamp",
+          "isDailyDouble": false,
+          "orderNumber": 19,
+          "correctContestants": [
+            "Tom"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 3200
+            },
+            {
+              "player": "Graham",
+              "score": 4200
+            },
+            {
+              "player": "Leslie",
+              "score": 2600
+            }
+          ]
+        },
+        {
+          "category": "\"L.L.\", SEE",
+          "value": 1000,
+          "clue": "The 2 \"L\"s in the corporate abbreviation LLC stand for these 2 words",
+          "answer": "limited & liability",
+          "isDailyDouble": false,
+          "orderNumber": 20,
+          "correctContestants": [
+            "Tom"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 4200
+            },
+            {
+              "player": "Graham",
+              "score": 4200
+            },
+            {
+              "player": "Leslie",
+              "score": 2600
+            }
+          ]
+        },
+        {
+          "category": "THAT'S IN BRITOONICA",
+          "value": 200,
+          "clue": "Britannica notes that his owner Shaggy was \"one of the first serial abusers of the word 'like'\"",
+          "answer": "Scooby-Doo",
+          "isDailyDouble": false,
+          "orderNumber": 21,
+          "correctContestants": [
+            "Leslie"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 4200
+            },
+            {
+              "player": "Graham",
+              "score": 4200
+            },
+            {
+              "player": "Leslie",
+              "score": 2800
+            }
+          ]
+        },
+        {
+          "category": "THAT'S IN BRITOONICA",
+          "value": 400,
+          "clue": "This \"ill-tempered squawking\" duck wears a sailor's hat, \"at the drop of which he often explodes into a rage\"",
+          "answer": "Donald Duck",
+          "isDailyDouble": false,
+          "orderNumber": 22,
+          "correctContestants": [
+            "Leslie"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 4200
+            },
+            {
+              "player": "Graham",
+              "score": 4200
+            },
+            {
+              "player": "Leslie",
+              "score": 3200
+            }
+          ]
+        },
+        {
+          "category": "THAT'S IN BRITOONICA",
+          "value": 600,
+          "clue": "This \"walking, talking bear in a necktie and a porkpie hat... roamed fictional Jellystone National Park\"",
+          "answer": "Yogi (Bear)",
+          "isDailyDouble": false,
+          "orderNumber": 23,
+          "correctContestants": [
+            "Tom"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 4800
+            },
+            {
+              "player": "Graham",
+              "score": 4200
+            },
+            {
+              "player": "Leslie",
+              "score": 3200
+            }
+          ]
+        },
+        {
+          "category": "THAT'S IN BRITOONICA",
+          "value": 800,
+          "clue": "This coquette was the first cartoon character to be censored by the Hayes Office",
+          "answer": "Betty Boop",
+          "isDailyDouble": false,
+          "orderNumber": 24,
+          "correctContestants": [
+            "Tom"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 5600
+            },
+            {
+              "player": "Graham",
+              "score": 4200
+            },
+            {
+              "player": "Leslie",
+              "score": 3200
+            }
+          ]
+        },
+        {
+          "category": "THAT'S IN BRITOONICA",
+          "value": 1000,
+          "clue": "Britannica calls him \"perhaps the most celebrated lagomorph in worldwide popular culture\"",
+          "answer": "Bugs Bunny",
+          "isDailyDouble": false,
+          "orderNumber": 25,
+          "correctContestants": [
+            "Tom"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 6600
+            },
+            {
+              "player": "Graham",
+              "score": 4200
+            },
+            {
+              "player": "Leslie",
+              "score": 3200
+            }
+          ]
+        },
+        {
+          "category": "WHEN WE WERE KINGS",
+          "value": 1000,
+          "clue": "1567 to 1625, in Scotland; 1603 to 1625, in England",
+          "answer": "James VI of Scotland/James I of England",
+          "isDailyDouble": false,
+          "orderNumber": 26,
+          "correctContestants": [
+            "Tom"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 7600
+            },
+            {
+              "player": "Graham",
+              "score": 4200
+            },
+            {
+              "player": "Leslie",
+              "score": 3200
+            }
+          ]
+        },
+        {
+          "category": "WHEN WE WERE KINGS",
+          "value": 800,
+          "clue": "1973 to present, in Sweden",
+          "answer": "Carl Gustaf",
+          "isDailyDouble": false,
+          "orderNumber": 27,
+          "correctContestants": [
+            "Tom"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 8400
+            },
+            {
+              "player": "Graham",
+              "score": 4200
+            },
+            {
+              "player": "Leslie",
+              "score": 3200
+            }
+          ]
+        },
+        {
+          "category": "WHEN WE WERE KINGS",
+          "value": 600,
+          "clue": "1888 to 1918, in Prussia",
+          "answer": "Kaiser Wilhelm II",
+          "isDailyDouble": false,
+          "orderNumber": 28,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 8400
+            },
+            {
+              "player": "Graham",
+              "score": 4200
+            },
+            {
+              "player": "Leslie",
+              "score": 3200
+            }
+          ]
+        },
+        {
+          "category": "WHEN WE WERE KINGS",
+          "value": 400,
+          "clue": "1643 to 1715, in France",
+          "answer": "Louis XIV",
+          "isDailyDouble": false,
+          "orderNumber": 29,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 8400
+            },
+            {
+              "player": "Graham",
+              "score": 4200
+            },
+            {
+              "player": "Leslie",
+              "score": 3200
+            }
+          ]
+        },
+        {
+          "category": "WHEN WE WERE KINGS",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 8400
+            },
+            {
+              "player": "Graham",
+              "score": 4200
+            },
+            {
+              "player": "Leslie",
+              "score": 3200
+            }
+          ]
+        }
+      ],
+      "firstBreakScores": [
+        {
+          "player": "Tom",
+          "score": 2400
+        },
+        {
+          "player": "Graham",
+          "score": 2000
+        },
+        {
+          "player": "Leslie",
+          "score": 2000
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "Tom",
+          "score": 8400
+        },
+        {
+          "player": "Graham",
+          "score": 4200
+        },
+        {
+          "player": "Leslie",
+          "score": 3200
+        }
+      ]
+    },
+    "doubleJeopardy": {
+      "categories": [
+        "VIETNAM",
+        "THE SAME OLD TUNE",
+        "AN AFFAIR TO REMEMBER",
+        "THE KISSING BOOTH",
+        "FLOAT LIKE A BUTTERFLY...",
+        "STING LIKE A \"BE\""
+      ],
+      "clues": [
+        {
+          "category": "THE SAME OLD TUNE",
+          "value": 400,
+          "clue": "\"John Brown's Republic\"",
+          "answer": "\"The Battle Hymn Of The Republic\" & \"John Brown's Body\"",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 8800
+            },
+            {
+              "player": "Graham",
+              "score": 4200
+            },
+            {
+              "player": "Leslie",
+              "score": 3200
+            }
+          ]
+        },
+        {
+          "category": "THE SAME OLD TUNE",
+          "value": 800,
+          "clue": "\"My Country 'Tis Of Queen\"",
+          "answer": "\"My Country, 'Tis Of Thee\" & \"God Save The Queen\"",
+          "isDailyDouble": false,
+          "orderNumber": 2,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 8800
+            },
+            {
+              "player": "Graham",
+              "score": 3400
+            },
+            {
+              "player": "Leslie",
+              "score": 4000
+            }
+          ]
+        },
+        {
+          "category": "THE SAME OLD TUNE",
+          "value": 1200,
+          "clue": "\"Baa Baa Little Star\"",
+          "answer": "\"Baa Baa Black Sheep\" & \"Twinkle Twinkle Little Star\"",
+          "isDailyDouble": false,
+          "orderNumber": 3,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 8800
+            },
+            {
+              "player": "Graham",
+              "score": 4600
+            },
+            {
+              "player": "Leslie",
+              "score": 4000
+            }
+          ]
+        },
+        {
+          "category": "THE SAME OLD TUNE",
+          "value": 1600,
+          "clue": "\"It's Now or Mio\"",
+          "answer": "\"It's Now Or Never\" & \"O Sole Mio\"",
+          "isDailyDouble": false,
+          "orderNumber": 4,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 10400
+            },
+            {
+              "player": "Graham",
+              "score": 4600
+            },
+            {
+              "player": "Leslie",
+              "score": 4000
+            }
+          ]
+        },
+        {
+          "category": "THE SAME OLD TUNE",
+          "value": 2000,
+          "clue": "\"For He's Gone Over the Mountain\"",
+          "answer": "\"For He's A Jolly Good Fellow\" & \"The Bear Went Over The Mountain\"",
+          "isDailyDouble": false,
+          "orderNumber": 5,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 10400
+            },
+            {
+              "player": "Graham",
+              "score": 4600
+            },
+            {
+              "player": "Leslie",
+              "score": 6000
+            }
+          ]
+        },
+        {
+          "category": "STING LIKE A \"BE\"",
+          "value": 400,
+          "clue": "Your garden variety this veggie is often eaten pickled; the sugar type, not",
+          "answer": "a beet",
+          "isDailyDouble": false,
+          "orderNumber": 6,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 10800
+            },
+            {
+              "player": "Graham",
+              "score": 4600
+            },
+            {
+              "player": "Leslie",
+              "score": 6000
+            }
+          ]
+        },
+        {
+          "category": "STING LIKE A \"BE\"",
+          "value": 800,
+          "clue": "Meaning small, round & glittering, this adjective is usually applied to the eyes of the untrustworthy",
+          "answer": "beady",
+          "isDailyDouble": false,
+          "orderNumber": 7,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 11600
+            },
+            {
+              "player": "Graham",
+              "score": 4600
+            },
+            {
+              "player": "Leslie",
+              "score": 6000
+            }
+          ]
+        },
+        {
+          "category": "STING LIKE A \"BE\"",
+          "value": 1200,
+          "clue": "A warning signal or radar device that helps you determine your position",
+          "answer": "a beacon",
+          "isDailyDouble": false,
+          "orderNumber": 8,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 11600
+            },
+            {
+              "player": "Graham",
+              "score": 4600
+            },
+            {
+              "player": "Leslie",
+              "score": 6000
+            }
+          ]
+        },
+        {
+          "category": "STING LIKE A \"BE\"",
+          "value": 1600,
+          "clue": "Not Paul or Ringo, but a synagogue caretaker or a minor church official",
+          "answer": "a beadle",
+          "isDailyDouble": false,
+          "orderNumber": 9,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 13200
+            },
+            {
+              "player": "Graham",
+              "score": 4600
+            },
+            {
+              "player": "Leslie",
+              "score": 6000
+            }
+          ]
+        },
+        {
+          "category": "STING LIKE A \"BE\"",
+          "value": 2000,
+          "clue": "This name is combined with Hawker in a Wichita-based airplane company",
+          "answer": "Beechcraft",
+          "isDailyDouble": false,
+          "orderNumber": 10,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 13200
+            },
+            {
+              "player": "Graham",
+              "score": 4600
+            },
+            {
+              "player": "Leslie",
+              "score": 6000
+            }
+          ]
+        },
+        {
+          "category": "AN AFFAIR TO REMEMBER",
+          "value": 400,
+          "clue": "National Security Advisor John Poindexter got in trouble for his role in this 1980s arms-for-hostages arrangement",
+          "answer": "Iran-Contra",
+          "isDailyDouble": false,
+          "orderNumber": 11,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 13600
+            },
+            {
+              "player": "Graham",
+              "score": 4600
+            },
+            {
+              "player": "Leslie",
+              "score": 6000
+            }
+          ]
+        },
+        {
+          "category": "AN AFFAIR TO REMEMBER",
+          "value": 800,
+          "clue": "This political scandal divided France following the 1894 espionage conviction of a Jewish army officer",
+          "answer": "the Dreyfus Affair",
+          "isDailyDouble": false,
+          "orderNumber": 12,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 13600
+            },
+            {
+              "player": "Graham",
+              "score": 4600
+            },
+            {
+              "player": "Leslie",
+              "score": 6800
+            }
+          ]
+        },
+        {
+          "category": "FLOAT LIKE A BUTTERFLY...",
+          "value": 800,
+          "clue": "Seen here are scores of these butterflies at their winter camp in Michoacan, Mexico",
+          "answer": "monarchs",
+          "isDailyDouble": false,
+          "orderNumber": 13,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 14400
+            },
+            {
+              "player": "Graham",
+              "score": 4600
+            },
+            {
+              "player": "Leslie",
+              "score": 6800
+            }
+          ]
+        },
+        {
+          "category": "FLOAT LIKE A BUTTERFLY...",
+          "value": 400,
+          "clue": "Quick! butterflies have this many wings",
+          "answer": "4",
+          "isDailyDouble": false,
+          "orderNumber": 14,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 14400
+            },
+            {
+              "player": "Graham",
+              "score": 4600
+            },
+            {
+              "player": "Leslie",
+              "score": 7200
+            }
+          ]
+        },
+        {
+          "category": "FLOAT LIKE A BUTTERFLY...",
+          "value": 1200,
+          "clue": "The main function of butterfly antennae is to facilitate this sense",
+          "answer": "scent (smell)",
+          "isDailyDouble": false,
+          "orderNumber": 15,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 14400
+            },
+            {
+              "player": "Graham",
+              "score": 4600
+            },
+            {
+              "player": "Leslie",
+              "score": 8400
+            }
+          ]
+        },
+        {
+          "category": "FLOAT LIKE A BUTTERFLY...",
+          "value": 1600,
+          "clue": "Seen here is this stage of a butterfly's life, also the name of a record company bought by EMI",
+          "answer": "the chrysalis",
+          "isDailyDouble": false,
+          "orderNumber": 16,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 14400
+            },
+            {
+              "player": "Graham",
+              "score": 4600
+            },
+            {
+              "player": "Leslie",
+              "score": 10000
+            }
+          ]
+        },
+        {
+          "category": "FLOAT LIKE A BUTTERFLY...",
+          "value": 6000,
+          "clue": "A main job of butterflies is this task whose name is derived from the Latin for \"fine flour or dust\"",
+          "answer": "pollination",
+          "isDailyDouble": true,
+          "orderNumber": 17,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 14400
+            },
+            {
+              "player": "Graham",
+              "score": 4600
+            },
+            {
+              "player": "Leslie",
+              "score": 16000
+            }
+          ]
+        },
+        {
+          "category": "THE KISSING BOOTH",
+          "value": 400,
+          "clue": "A line from this movie song says, \"You must remember this, a kiss is still a kiss\"",
+          "answer": "\"As Time Goes By\"",
+          "isDailyDouble": false,
+          "orderNumber": 18,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 14800
+            },
+            {
+              "player": "Graham",
+              "score": 4600
+            },
+            {
+              "player": "Leslie",
+              "score": 16000
+            }
+          ]
+        },
+        {
+          "category": "THE KISSING BOOTH",
+          "value": 800,
+          "clue": "His sculpture of \"The Kiss\" was originally intended to be part of \"The Gates of Hell\"",
+          "answer": "Rodin",
+          "isDailyDouble": false,
+          "orderNumber": 19,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 14800
+            },
+            {
+              "player": "Graham",
+              "score": 5400
+            },
+            {
+              "player": "Leslie",
+              "score": 16000
+            }
+          ]
+        },
+        {
+          "category": "THE KISSING BOOTH",
+          "value": 2000,
+          "clue": "They're the aptly named Asiatic fish seen here",
+          "answer": "kissing gourami",
+          "isDailyDouble": false,
+          "orderNumber": 20,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 14800
+            },
+            {
+              "player": "Graham",
+              "score": 3400
+            },
+            {
+              "player": "Leslie",
+              "score": 16000
+            }
+          ]
+        },
+        {
+          "category": "AN AFFAIR TO REMEMBER",
+          "value": 2000,
+          "clue": "A 1963 affair (in every sense of the word) rocked the British govt, & led to the resignation of this war secretary",
+          "answer": "(John) Profumo",
+          "isDailyDouble": false,
+          "orderNumber": 21,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 16800
+            },
+            {
+              "player": "Graham",
+              "score": 3400
+            },
+            {
+              "player": "Leslie",
+              "score": 16000
+            }
+          ]
+        },
+        {
+          "category": "AN AFFAIR TO REMEMBER",
+          "value": 800,
+          "clue": "This 1797 incident centered on a $250,000 bribe request from 3 French agents",
+          "answer": "(the) XYZ (Affair)",
+          "isDailyDouble": true,
+          "orderNumber": 22,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 17600
+            },
+            {
+              "player": "Graham",
+              "score": 3400
+            },
+            {
+              "player": "Leslie",
+              "score": 16000
+            }
+          ]
+        },
+        {
+          "category": "AN AFFAIR TO REMEMBER",
+          "value": 1200,
+          "clue": "The Trent Affair was a naval incident that almost brought Britain into this conflict",
+          "answer": "the Civil War",
+          "isDailyDouble": false,
+          "orderNumber": 23,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 17600
+            },
+            {
+              "player": "Graham",
+              "score": 3400
+            },
+            {
+              "player": "Leslie",
+              "score": 16000
+            }
+          ]
+        },
+        {
+          "category": "VIETNAM",
+          "value": 400,
+          "clue": "Hanoi is the capital, but this city is the most populous",
+          "answer": "Ho Chi Minh City",
+          "isDailyDouble": false,
+          "orderNumber": 24,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 17600
+            },
+            {
+              "player": "Graham",
+              "score": 3000
+            },
+            {
+              "player": "Leslie",
+              "score": 16400
+            }
+          ]
+        },
+        {
+          "category": "THE KISSING BOOTH",
+          "value": 1600,
+          "clue": "In 2008 90-year-old Edith Shain re-enacted a famous kiss, claiming she's the one in that 1945 V-J Day pic by this photographer",
+          "answer": "Eisenstaedt",
+          "isDailyDouble": false,
+          "orderNumber": 25,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 19200
+            },
+            {
+              "player": "Graham",
+              "score": 3000
+            },
+            {
+              "player": "Leslie",
+              "score": 16400
+            }
+          ]
+        },
+        {
+          "category": "THE KISSING BOOTH",
+          "value": 1200,
+          "clue": "In the Bible a rare instance of a man kissing a woman is when Jacob kissed her \"and wept\"",
+          "answer": "Rachel",
+          "isDailyDouble": false,
+          "orderNumber": 26,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 19200
+            },
+            {
+              "player": "Graham",
+              "score": 1800
+            },
+            {
+              "player": "Leslie",
+              "score": 16400
+            }
+          ]
+        },
+        {
+          "category": "VIETNAM",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 19200
+            },
+            {
+              "player": "Graham",
+              "score": 1800
+            },
+            {
+              "player": "Leslie",
+              "score": 16400
+            }
+          ]
+        },
+        {
+          "category": "VIETNAM",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 19200
+            },
+            {
+              "player": "Graham",
+              "score": 1800
+            },
+            {
+              "player": "Leslie",
+              "score": 16400
+            }
+          ]
+        },
+        {
+          "category": "VIETNAM",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 19200
+            },
+            {
+              "player": "Graham",
+              "score": 1800
+            },
+            {
+              "player": "Leslie",
+              "score": 16400
+            }
+          ]
+        },
+        {
+          "category": "VIETNAM",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 19200
+            },
+            {
+              "player": "Graham",
+              "score": 1800
+            },
+            {
+              "player": "Leslie",
+              "score": 16400
+            }
+          ]
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "Tom",
+          "score": 19200
+        },
+        {
+          "player": "Graham",
+          "score": 1800
+        },
+        {
+          "player": "Leslie",
+          "score": 16400
+        }
+      ]
+    },
+    "finalJeopardy": {
+      "category": "THE ACADEMY AWARDS",
+      "clue": "He was nominated for 8 Best Actor Oscars, including one for a 1961 film; his only win came for its 1986 sequel",
+      "answer": "Paul Newman",
+      "responses": [
+        {
+          "contestant": "Graham",
+          "response": "Who is Paul Newman",
+          "isCorrect": true,
+          "isIncorrect": false,
+          "value": 13,
+          "finalScore": 1813
+        },
+        {
+          "contestant": "Leslie",
+          "response": "Who was Paul Newman",
+          "isCorrect": true,
+          "isIncorrect": false,
+          "value": 12799,
+          "finalScore": 29199
+        },
+        {
+          "contestant": "Tom",
+          "response": "Who is Paul Newman?",
+          "isCorrect": true,
+          "isIncorrect": false,
+          "value": 13600,
+          "finalScore": 32800
+        }
+      ]
+    }
+  },
+  "finalScores": [
+    {
+      "player": "Tom",
+      "score": "$32,800"
+    },
+    {
+      "player": "Graham",
+      "score": "$1,813"
+    },
+    {
+      "player": "Leslie",
+      "score": "$29,199"
+    }
+  ],
+  "coryatScores": [
+    {
+      "player": "Tom",
+      "score": 20000
+    },
+    {
+      "player": "Graham",
+      "score": 1800
+    },
+    {
+      "player": "Leslie",
+      "score": 12200
+    }
+  ]
+}

@@ -1,0 +1,1703 @@
+{
+  "gameId": 8733,
+  "showNumber": "2000",
+  "title": "Show #2000 - Friday, April 23, 1993",
+  "date": "1993-04-23",
+  "comments": "",
+  "contestants": [
+    "Carl",
+    "Con",
+    "Bill"
+  ],
+  "rounds": {
+    "jeopardy": {
+      "categories": [
+        "SHAKESPEARE",
+        "FOOD & DRINK",
+        "NATURE",
+        "CITY SONGS",
+        "BUSINESS & INDUSTRY",
+        "MIDDLE NAMES"
+      ],
+      "clues": [
+        {
+          "category": "SHAKESPEARE",
+          "value": 100,
+          "clue": "Hamlet describes this country as \"a prison\"; \"something is rotten in\" it, too",
+          "answer": "Denmark",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [
+            "Bill"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Carl",
+              "score": 0
+            },
+            {
+              "player": "Con",
+              "score": 0
+            },
+            {
+              "player": "Bill",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "category": "SHAKESPEARE",
+          "value": 200,
+          "clue": "Richard Burbage, who's been called the first great English actor, was the first to play this Moor",
+          "answer": "Othello",
+          "isDailyDouble": false,
+          "orderNumber": 2,
+          "correctContestants": [
+            "Bill"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Carl",
+              "score": 0
+            },
+            {
+              "player": "Con",
+              "score": 0
+            },
+            {
+              "player": "Bill",
+              "score": 300
+            }
+          ]
+        },
+        {
+          "category": "SHAKESPEARE",
+          "value": 300,
+          "clue": "Macbeth calls them \"filthy hags!\"--how rude",
+          "answer": "the three witches",
+          "isDailyDouble": false,
+          "orderNumber": 3,
+          "correctContestants": [
+            "Carl"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Carl",
+              "score": 300
+            },
+            {
+              "player": "Con",
+              "score": 0
+            },
+            {
+              "player": "Bill",
+              "score": 300
+            }
+          ]
+        },
+        {
+          "category": "SHAKESPEARE",
+          "value": 400,
+          "clue": "The play in which Shylock asks, \"What news on the Rialto?\"",
+          "answer": "The Merchant of Venice",
+          "isDailyDouble": false,
+          "orderNumber": 4,
+          "correctContestants": [
+            "Bill"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Carl",
+              "score": 300
+            },
+            {
+              "player": "Con",
+              "score": 0
+            },
+            {
+              "player": "Bill",
+              "score": 700
+            }
+          ]
+        },
+        {
+          "category": "SHAKESPEARE",
+          "value": 500,
+          "clue": "In \"Julius Caesar\" this man is the last of the conspirators to stab Caesar",
+          "answer": "Brutus",
+          "isDailyDouble": false,
+          "orderNumber": 5,
+          "correctContestants": [
+            "Bill"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Carl",
+              "score": 300
+            },
+            {
+              "player": "Con",
+              "score": 0
+            },
+            {
+              "player": "Bill",
+              "score": 1200
+            }
+          ]
+        },
+        {
+          "category": "FOOD & DRINK",
+          "value": 100,
+          "clue": "In the U.S. there are 4 basic types of these: long white, round white, round red & russet",
+          "answer": "potatoes",
+          "isDailyDouble": false,
+          "orderNumber": 6,
+          "correctContestants": [
+            "Bill"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Carl",
+              "score": 300
+            },
+            {
+              "player": "Con",
+              "score": 0
+            },
+            {
+              "player": "Bill",
+              "score": 1300
+            }
+          ]
+        },
+        {
+          "category": "FOOD & DRINK",
+          "value": 200,
+          "clue": "Mulligatawny, an East Indian soup, is seasoned with this multi-spice powder",
+          "answer": "curry",
+          "isDailyDouble": false,
+          "orderNumber": 7,
+          "correctContestants": [
+            "Carl"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Carl",
+              "score": 500
+            },
+            {
+              "player": "Con",
+              "score": 0
+            },
+            {
+              "player": "Bill",
+              "score": 1300
+            }
+          ]
+        },
+        {
+          "category": "FOOD & DRINK",
+          "value": 300,
+          "clue": "Royal Brabant, a Limburger-type cheese, is made in this Low Country",
+          "answer": "Belgium",
+          "isDailyDouble": false,
+          "orderNumber": 8,
+          "correctContestants": [
+            "Bill"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Carl",
+              "score": 500
+            },
+            {
+              "player": "Con",
+              "score": 0
+            },
+            {
+              "player": "Bill",
+              "score": 1600
+            }
+          ]
+        },
+        {
+          "category": "FOOD & DRINK",
+          "value": 400,
+          "clue": "Hydromel, a mixture of this ingredient & water, becomes mead if allowed to ferment",
+          "answer": "honey",
+          "isDailyDouble": false,
+          "orderNumber": 9,
+          "correctContestants": [
+            "Carl"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Carl",
+              "score": 900
+            },
+            {
+              "player": "Con",
+              "score": 0
+            },
+            {
+              "player": "Bill",
+              "score": 1600
+            }
+          ]
+        },
+        {
+          "category": "FOOD & DRINK",
+          "value": 500,
+          "clue": "The lemon type of this herb, popular in Thai cooking, is not the best type for pesto",
+          "answer": "basil",
+          "isDailyDouble": false,
+          "orderNumber": 10,
+          "correctContestants": [
+            "Carl"
+          ],
+          "incorrectContestants": [
+            "Con"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Carl",
+              "score": 1400
+            },
+            {
+              "player": "Con",
+              "score": -500
+            },
+            {
+              "player": "Bill",
+              "score": 1600
+            }
+          ]
+        },
+        {
+          "category": "CITY SONGS",
+          "value": 100,
+          "clue": "\"Lovers that bless the dark on benches in Central Park greet autumn in\" this city",
+          "answer": "New York",
+          "isDailyDouble": false,
+          "orderNumber": 11,
+          "correctContestants": [
+            "Carl"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Carl",
+              "score": 1500
+            },
+            {
+              "player": "Con",
+              "score": -500
+            },
+            {
+              "player": "Bill",
+              "score": 1600
+            }
+          ]
+        },
+        {
+          "category": "CITY SONGS",
+          "value": 200,
+          "clue": "The Monkees sang, \"Take the last train to\" this city \"and I'll meet you at the station\"",
+          "answer": "Clarksville",
+          "isDailyDouble": false,
+          "orderNumber": 12,
+          "correctContestants": [
+            "Bill"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Carl",
+              "score": 1500
+            },
+            {
+              "player": "Con",
+              "score": -500
+            },
+            {
+              "player": "Bill",
+              "score": 1800
+            }
+          ]
+        },
+        {
+          "category": "CITY SONGS",
+          "value": 300,
+          "clue": "\"Within a half an hour, you'll look like Tyrone Power! Hooray for\" this place",
+          "answer": "Hollywood",
+          "isDailyDouble": false,
+          "orderNumber": 13,
+          "correctContestants": [
+            "Bill"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Carl",
+              "score": 1500
+            },
+            {
+              "player": "Con",
+              "score": -500
+            },
+            {
+              "player": "Bill",
+              "score": 2100
+            }
+          ]
+        },
+        {
+          "category": "CITY SONGS",
+          "value": 400,
+          "clue": "In a song from \"Hans Christian Andersen\", this capital city is the \"salty Old Queen of the Sea\"",
+          "answer": "Copenhagen",
+          "isDailyDouble": false,
+          "orderNumber": 14,
+          "correctContestants": [
+            "Con"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Carl",
+              "score": 1500
+            },
+            {
+              "player": "Con",
+              "score": -100
+            },
+            {
+              "player": "Bill",
+              "score": 2100
+            }
+          ]
+        },
+        {
+          "category": "CITY SONGS",
+          "value": 500,
+          "clue": "This title precedes \"Chestnuts in blossom, holiday tables under the trees\"",
+          "answer": "\"April In Paris\"",
+          "isDailyDouble": false,
+          "orderNumber": 15,
+          "correctContestants": [
+            "Con"
+          ],
+          "incorrectContestants": [
+            "Bill"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Carl",
+              "score": 1500
+            },
+            {
+              "player": "Con",
+              "score": 400
+            },
+            {
+              "player": "Bill",
+              "score": 1600
+            }
+          ]
+        },
+        {
+          "category": "MIDDLE NAMES",
+          "value": 100,
+          "clue": "Edgar ____ Poe",
+          "answer": "Allan",
+          "isDailyDouble": false,
+          "orderNumber": 16,
+          "correctContestants": [
+            "Bill"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Carl",
+              "score": 1500
+            },
+            {
+              "player": "Con",
+              "score": 400
+            },
+            {
+              "player": "Bill",
+              "score": 1700
+            }
+          ]
+        },
+        {
+          "category": "MIDDLE NAMES",
+          "value": 200,
+          "clue": "John ____ Audubon",
+          "answer": "James",
+          "isDailyDouble": false,
+          "orderNumber": 17,
+          "correctContestants": [
+            "Bill"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Carl",
+              "score": 1500
+            },
+            {
+              "player": "Con",
+              "score": 400
+            },
+            {
+              "player": "Bill",
+              "score": 1900
+            }
+          ]
+        },
+        {
+          "category": "MIDDLE NAMES",
+          "value": 300,
+          "clue": "Margaret ____ Smith",
+          "answer": "Chase",
+          "isDailyDouble": false,
+          "orderNumber": 18,
+          "correctContestants": [
+            "Carl"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Carl",
+              "score": 1800
+            },
+            {
+              "player": "Con",
+              "score": 400
+            },
+            {
+              "player": "Bill",
+              "score": 1900
+            }
+          ]
+        },
+        {
+          "category": "MIDDLE NAMES",
+          "value": 400,
+          "clue": "Isaac ____ Singer",
+          "answer": "Bashevis",
+          "isDailyDouble": false,
+          "orderNumber": 19,
+          "correctContestants": [
+            "Bill"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Carl",
+              "score": 1800
+            },
+            {
+              "player": "Con",
+              "score": 400
+            },
+            {
+              "player": "Bill",
+              "score": 2300
+            }
+          ]
+        },
+        {
+          "category": "MIDDLE NAMES",
+          "value": 500,
+          "clue": "Elizabeth ____ Stanton",
+          "answer": "Cady",
+          "isDailyDouble": false,
+          "orderNumber": 20,
+          "correctContestants": [
+            "Con"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Carl",
+              "score": 1800
+            },
+            {
+              "player": "Con",
+              "score": 900
+            },
+            {
+              "player": "Bill",
+              "score": 2300
+            }
+          ]
+        },
+        {
+          "category": "BUSINESS & INDUSTRY",
+          "value": 100,
+          "clue": "This car rental company is Detroit's biggest customer",
+          "answer": "Hertz",
+          "isDailyDouble": false,
+          "orderNumber": 21,
+          "correctContestants": [
+            "Carl"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Carl",
+              "score": 1900
+            },
+            {
+              "player": "Con",
+              "score": 900
+            },
+            {
+              "player": "Bill",
+              "score": 2300
+            }
+          ]
+        },
+        {
+          "category": "BUSINESS & INDUSTRY",
+          "value": 200,
+          "clue": "This firm prepares about 10% of all individual tax returns in the U.S.",
+          "answer": "H&R Block",
+          "isDailyDouble": false,
+          "orderNumber": 22,
+          "correctContestants": [
+            "Bill"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Carl",
+              "score": 1900
+            },
+            {
+              "player": "Con",
+              "score": 900
+            },
+            {
+              "player": "Bill",
+              "score": 2500
+            }
+          ]
+        },
+        {
+          "category": "BUSINESS & INDUSTRY",
+          "value": 300,
+          "clue": "Scotch Tape is just one of 50,000 products made by this company",
+          "answer": "3M",
+          "isDailyDouble": false,
+          "orderNumber": 23,
+          "correctContestants": [
+            "Carl"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Carl",
+              "score": 2200
+            },
+            {
+              "player": "Con",
+              "score": 900
+            },
+            {
+              "player": "Bill",
+              "score": 2500
+            }
+          ]
+        },
+        {
+          "category": "BUSINESS & INDUSTRY",
+          "value": 400,
+          "clue": "This firm which makes Air Jordan athletic shoes was originally called Blue Ribbon Sports",
+          "answer": "Nike",
+          "isDailyDouble": false,
+          "orderNumber": 24,
+          "correctContestants": [
+            "Con"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Carl",
+              "score": 2200
+            },
+            {
+              "player": "Con",
+              "score": 1300
+            },
+            {
+              "player": "Bill",
+              "score": 2500
+            }
+          ]
+        },
+        {
+          "category": "BUSINESS & INDUSTRY",
+          "value": 500,
+          "clue": "This Seattle firm is Washington State's largest employer",
+          "answer": "Boeing",
+          "isDailyDouble": false,
+          "orderNumber": 25,
+          "correctContestants": [
+            "Carl"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Carl",
+              "score": 2700
+            },
+            {
+              "player": "Con",
+              "score": 1300
+            },
+            {
+              "player": "Bill",
+              "score": 2500
+            }
+          ]
+        },
+        {
+          "category": "NATURE",
+          "value": 100,
+          "clue": "Like fireflies, many tropical click beetles have this unusual ability",
+          "answer": "giving off light",
+          "isDailyDouble": false,
+          "orderNumber": 26,
+          "correctContestants": [
+            "Carl"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Carl",
+              "score": 2800
+            },
+            {
+              "player": "Con",
+              "score": 1300
+            },
+            {
+              "player": "Bill",
+              "score": 2500
+            }
+          ]
+        },
+        {
+          "category": "NATURE",
+          "value": 200,
+          "clue": "Now classified as a salmon, this colorful trout becomes bluish in salt water & is then called a steelhead",
+          "answer": "a rainbow trout",
+          "isDailyDouble": false,
+          "orderNumber": 27,
+          "correctContestants": [
+            "Carl"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Carl",
+              "score": 3000
+            },
+            {
+              "player": "Con",
+              "score": 1300
+            },
+            {
+              "player": "Bill",
+              "score": 2500
+            }
+          ]
+        },
+        {
+          "category": "NATURE",
+          "value": 300,
+          "clue": "The bald type of this tree grows mainly in swampy areas like the Everglades",
+          "answer": "the cypress",
+          "isDailyDouble": false,
+          "orderNumber": 28,
+          "correctContestants": [
+            "Bill"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Carl",
+              "score": 3000
+            },
+            {
+              "player": "Con",
+              "score": 1300
+            },
+            {
+              "player": "Bill",
+              "score": 2800
+            }
+          ]
+        },
+        {
+          "category": "NATURE",
+          "value": 400,
+          "clue": "The larva of this insect makes a Mexican jumping bean jump",
+          "answer": "the moth",
+          "isDailyDouble": false,
+          "orderNumber": 29,
+          "correctContestants": [
+            "Bill"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Carl",
+              "score": 3000
+            },
+            {
+              "player": "Con",
+              "score": 1300
+            },
+            {
+              "player": "Bill",
+              "score": 3200
+            }
+          ]
+        },
+        {
+          "category": "NATURE",
+          "value": 1000,
+          "clue": "A type of ficus, the Banyan tree grows a variety of this fruit, which is then eaten by bats",
+          "answer": "the fig",
+          "isDailyDouble": true,
+          "orderNumber": 30,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Bill"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Carl",
+              "score": 3000
+            },
+            {
+              "player": "Con",
+              "score": 1300
+            },
+            {
+              "player": "Bill",
+              "score": 2200
+            }
+          ]
+        }
+      ],
+      "firstBreakScores": [
+        {
+          "player": "Carl",
+          "score": 1500
+        },
+        {
+          "player": "Con",
+          "score": 400
+        },
+        {
+          "player": "Bill",
+          "score": 1600
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "Carl",
+          "score": 3000
+        },
+        {
+          "player": "Con",
+          "score": 1300
+        },
+        {
+          "player": "Bill",
+          "score": 2200
+        }
+      ]
+    },
+    "doubleJeopardy": {
+      "categories": [
+        "AMERICAN HISTORY",
+        "DENTISTRY",
+        "CLASSICAL MUSIC",
+        "SAINTS",
+        "NEW WORLD CITIES",
+        "7-LETTER WORDS"
+      ],
+      "clues": [
+        {
+          "category": "AMERICAN HISTORY",
+          "value": 200,
+          "clue": "\"Never before have we had so little time in which to do so much\", he said in a 1942 fireside chat",
+          "answer": "Franklin Delano Roosevelt",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Carl",
+              "score": 3000
+            },
+            {
+              "player": "Con",
+              "score": 1300
+            },
+            {
+              "player": "Bill",
+              "score": 2400
+            }
+          ]
+        },
+        {
+          "category": "AMERICAN HISTORY",
+          "value": 400,
+          "clue": "General Ambrose Burnside wasn't famous for his sideburns alone; he also served as governor of this tiny state",
+          "answer": "Rhode Island",
+          "isDailyDouble": false,
+          "orderNumber": 2,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Carl",
+              "score": 3000
+            },
+            {
+              "player": "Con",
+              "score": 1700
+            },
+            {
+              "player": "Bill",
+              "score": 2400
+            }
+          ]
+        },
+        {
+          "category": "AMERICAN HISTORY",
+          "value": 600,
+          "clue": "He's considered the founder of Philadelphia",
+          "answer": "William Penn",
+          "isDailyDouble": false,
+          "orderNumber": 3,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Carl",
+              "score": 3000
+            },
+            {
+              "player": "Con",
+              "score": 2300
+            },
+            {
+              "player": "Bill",
+              "score": 2400
+            }
+          ]
+        },
+        {
+          "category": "AMERICAN HISTORY",
+          "value": 800,
+          "clue": "Aaron Burr's father was the 2nd president of the College of New Jersey, which is now this Ivy League university",
+          "answer": "Princeton",
+          "isDailyDouble": false,
+          "orderNumber": 4,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Carl",
+              "score": 3000
+            },
+            {
+              "player": "Con",
+              "score": 2300
+            },
+            {
+              "player": "Bill",
+              "score": 3200
+            }
+          ]
+        },
+        {
+          "category": "AMERICAN HISTORY",
+          "value": 1000,
+          "clue": "After Pocahontas, his 2nd wife, died, he returned to Virginia & married Jane Pierce",
+          "answer": "John Rolfe",
+          "isDailyDouble": false,
+          "orderNumber": 5,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Carl",
+              "score": 3000
+            },
+            {
+              "player": "Con",
+              "score": 2300
+            },
+            {
+              "player": "Bill",
+              "score": 4200
+            }
+          ]
+        },
+        {
+          "category": "DENTISTRY",
+          "value": 200,
+          "clue": "Gingivitis, a reversible condition, is an inflammation of these, also called the gingivae",
+          "answer": "the gums",
+          "isDailyDouble": false,
+          "orderNumber": 6,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Carl",
+              "score": 3200
+            },
+            {
+              "player": "Con",
+              "score": 2300
+            },
+            {
+              "player": "Bill",
+              "score": 4200
+            }
+          ]
+        },
+        {
+          "category": "CLASSICAL MUSIC",
+          "value": 200,
+          "clue": "While conducting Vienna Court balls in 1867, he wrote \"The Blue Danube\"",
+          "answer": "Johann Strauss (Jr.)",
+          "isDailyDouble": false,
+          "orderNumber": 7,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Carl",
+              "score": 3200
+            },
+            {
+              "player": "Con",
+              "score": 2300
+            },
+            {
+              "player": "Bill",
+              "score": 4400
+            }
+          ]
+        },
+        {
+          "category": "SAINTS",
+          "value": 200,
+          "clue": "The hermit St. Antony was born near Memphis in this country about 251 A.D.",
+          "answer": "Egypt",
+          "isDailyDouble": false,
+          "orderNumber": 8,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Carl",
+              "score": 3200
+            },
+            {
+              "player": "Con",
+              "score": 2500
+            },
+            {
+              "player": "Bill",
+              "score": 4400
+            }
+          ]
+        },
+        {
+          "category": "NEW WORLD CITIES",
+          "value": 200,
+          "clue": "About 400 miles northwest of Buenos Aires, Cordoba is this country's second- largest city",
+          "answer": "Argentina",
+          "isDailyDouble": false,
+          "orderNumber": 9,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Carl",
+              "score": 3200
+            },
+            {
+              "player": "Con",
+              "score": 2500
+            },
+            {
+              "player": "Bill",
+              "score": 4600
+            }
+          ]
+        },
+        {
+          "category": "NEW WORLD CITIES",
+          "value": 400,
+          "clue": "In this capital, check out the over 22-ton Aztec calendar stone–though hard to carry, it is very accurate",
+          "answer": "Mexico City",
+          "isDailyDouble": false,
+          "orderNumber": 10,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Carl",
+              "score": 3200
+            },
+            {
+              "player": "Con",
+              "score": 2900
+            },
+            {
+              "player": "Bill",
+              "score": 4600
+            }
+          ]
+        },
+        {
+          "category": "NEW WORLD CITIES",
+          "value": 600,
+          "clue": "This capital of Nova Scotia is the economic hub of the Atlantic provinces",
+          "answer": "Halifax",
+          "isDailyDouble": false,
+          "orderNumber": 11,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Carl",
+              "score": 3800
+            },
+            {
+              "player": "Con",
+              "score": 2900
+            },
+            {
+              "player": "Bill",
+              "score": 4600
+            }
+          ]
+        },
+        {
+          "category": "CLASSICAL MUSIC",
+          "value": 400,
+          "clue": "In 1958 the New York Philharmonic chose him as its first American-born music director",
+          "answer": "Leonard Bernstein",
+          "isDailyDouble": false,
+          "orderNumber": 12,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Carl",
+              "score": 3800
+            },
+            {
+              "player": "Con",
+              "score": 3300
+            },
+            {
+              "player": "Bill",
+              "score": 4600
+            }
+          ]
+        },
+        {
+          "category": "NEW WORLD CITIES",
+          "value": 800,
+          "clue": "This Central American capital was founded in the 1570s as Real de Minas de San Miguel de Tegus Galpa",
+          "answer": "Tegucigalpa",
+          "isDailyDouble": false,
+          "orderNumber": 13,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Carl",
+              "score": 3800
+            },
+            {
+              "player": "Con",
+              "score": 3300
+            },
+            {
+              "player": "Bill",
+              "score": 5400
+            }
+          ]
+        },
+        {
+          "category": "NEW WORLD CITIES",
+          "value": 1000,
+          "clue": "Though Sucre is the constitutional capital of Bolivia, most government offices are in this city",
+          "answer": "La Paz",
+          "isDailyDouble": false,
+          "orderNumber": 14,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Carl",
+              "score": 3800
+            },
+            {
+              "player": "Con",
+              "score": 3300
+            },
+            {
+              "player": "Bill",
+              "score": 6400
+            }
+          ]
+        },
+        {
+          "category": "SAINTS",
+          "value": 400,
+          "clue": "In 1014 St. Henry II was crowned this emperor, succeeding Otto III",
+          "answer": "the Holy Roman emperor",
+          "isDailyDouble": false,
+          "orderNumber": 15,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Carl",
+              "score": 3800
+            },
+            {
+              "player": "Con",
+              "score": 3300
+            },
+            {
+              "player": "Bill",
+              "score": 6800
+            }
+          ]
+        },
+        {
+          "category": "SAINTS",
+          "value": 2000,
+          "clue": "Though much of his writing is in Latin, St. Bede is considered the first prose writer of this language",
+          "answer": "English",
+          "isDailyDouble": true,
+          "orderNumber": 16,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Carl",
+              "score": 3800
+            },
+            {
+              "player": "Con",
+              "score": 3300
+            },
+            {
+              "player": "Bill",
+              "score": 8800
+            }
+          ]
+        },
+        {
+          "category": "SAINTS",
+          "value": 800,
+          "clue": "This saint became king of France at the age of 12",
+          "answer": "Louis",
+          "isDailyDouble": false,
+          "orderNumber": 17,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Carl",
+              "score": 3800
+            },
+            {
+              "player": "Con",
+              "score": 4100
+            },
+            {
+              "player": "Bill",
+              "score": 8800
+            }
+          ]
+        },
+        {
+          "category": "CLASSICAL MUSIC",
+          "value": 600,
+          "clue": "After a final break with George Sand in 1847, he composed almost nothing",
+          "answer": "Chopin",
+          "isDailyDouble": false,
+          "orderNumber": 18,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Carl",
+              "score": 4400
+            },
+            {
+              "player": "Con",
+              "score": 4100
+            },
+            {
+              "player": "Bill",
+              "score": 8800
+            }
+          ]
+        },
+        {
+          "category": "CLASSICAL MUSIC",
+          "value": 800,
+          "clue": "This Viennese lieder composer was a torchbearer at Beethoven's funeral on March 29, 1827",
+          "answer": "Schubert",
+          "isDailyDouble": false,
+          "orderNumber": 19,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Carl",
+              "score": 5200
+            },
+            {
+              "player": "Con",
+              "score": 4100
+            },
+            {
+              "player": "Bill",
+              "score": 8800
+            }
+          ]
+        },
+        {
+          "category": "CLASSICAL MUSIC",
+          "value": 1000,
+          "clue": "This French composer's only completed opera, \"Pelleas et Melisande\", was first performed in 1902",
+          "answer": "Debussy",
+          "isDailyDouble": false,
+          "orderNumber": 20,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Carl",
+              "score": 6200
+            },
+            {
+              "player": "Con",
+              "score": 4100
+            },
+            {
+              "player": "Bill",
+              "score": 8800
+            }
+          ]
+        },
+        {
+          "category": "DENTISTRY",
+          "value": 400,
+          "clue": "Upon graduation from dental school, Dental Students receive either a D.M.D. degree or this one",
+          "answer": "D.D.S. (Doctor of Dental Surgery)",
+          "isDailyDouble": false,
+          "orderNumber": 21,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Carl",
+              "score": 6200
+            },
+            {
+              "player": "Con",
+              "score": 4100
+            },
+            {
+              "player": "Bill",
+              "score": 9200
+            }
+          ]
+        },
+        {
+          "category": "DENTISTRY",
+          "value": 600,
+          "clue": "Cocaine was the first \"local\" type of this used in dentistry",
+          "answer": "anesthetic",
+          "isDailyDouble": false,
+          "orderNumber": 22,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Carl",
+              "score": 6200
+            },
+            {
+              "player": "Con",
+              "score": 4100
+            },
+            {
+              "player": "Bill",
+              "score": 9800
+            }
+          ]
+        },
+        {
+          "category": "SAINTS",
+          "value": 1000,
+          "clue": "Though patron saint of Finland, St. Henry of Uppsala was bishop of Uppsala in this country",
+          "answer": "Sweden",
+          "isDailyDouble": false,
+          "orderNumber": 23,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Carl",
+              "score": 6200
+            },
+            {
+              "player": "Con",
+              "score": 4100
+            },
+            {
+              "player": "Bill",
+              "score": 10800
+            }
+          ]
+        },
+        {
+          "category": "DENTISTRY",
+          "value": 800,
+          "clue": "This licensed professional, not a dentist, cleans & polishes teeth to prevent decay",
+          "answer": "a hygientist",
+          "isDailyDouble": false,
+          "orderNumber": 24,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Carl",
+              "score": 7000
+            },
+            {
+              "player": "Con",
+              "score": 4100
+            },
+            {
+              "player": "Bill",
+              "score": 10800
+            }
+          ]
+        },
+        {
+          "category": "DENTISTRY",
+          "value": 1000,
+          "clue": "Amalgam, a mixture primarily of these 2 metals, is often used for dental fillings",
+          "answer": "silver & mercury",
+          "isDailyDouble": false,
+          "orderNumber": 25,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Carl",
+              "score": 8000
+            },
+            {
+              "player": "Con",
+              "score": 4100
+            },
+            {
+              "player": "Bill",
+              "score": 10800
+            }
+          ]
+        },
+        {
+          "category": "7-LETTER WORDS",
+          "value": 200,
+          "clue": "It's what we usually call the interior upper surface of a room",
+          "answer": "the ceiling",
+          "isDailyDouble": false,
+          "orderNumber": 26,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Carl",
+              "score": 8200
+            },
+            {
+              "player": "Con",
+              "score": 4100
+            },
+            {
+              "player": "Bill",
+              "score": 10800
+            }
+          ]
+        },
+        {
+          "category": "7-LETTER WORDS",
+          "value": 400,
+          "clue": "The type of glass that's most appropriate as a 15th wedding anniversary gift",
+          "answer": "crystal",
+          "isDailyDouble": false,
+          "orderNumber": 27,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Carl",
+              "score": 8200
+            },
+            {
+              "player": "Con",
+              "score": 4500
+            },
+            {
+              "player": "Bill",
+              "score": 10800
+            }
+          ]
+        },
+        {
+          "category": "7-LETTER WORDS",
+          "value": 600,
+          "clue": "A basic dessert made with milk, sugar & eggs, or a type of \"apple\"",
+          "answer": "custard",
+          "isDailyDouble": false,
+          "orderNumber": 28,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Carl",
+              "score": 8200
+            },
+            {
+              "player": "Con",
+              "score": 5100
+            },
+            {
+              "player": "Bill",
+              "score": 10800
+            }
+          ]
+        },
+        {
+          "category": "7-LETTER WORDS",
+          "value": 800,
+          "clue": "A loving hug",
+          "answer": "an embrace",
+          "isDailyDouble": false,
+          "orderNumber": 29,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Carl",
+              "score": 8200
+            },
+            {
+              "player": "Con",
+              "score": 5100
+            },
+            {
+              "player": "Bill",
+              "score": 11600
+            }
+          ]
+        },
+        {
+          "category": "7-LETTER WORDS",
+          "value": 2000,
+          "clue": "This synonym for \"pastoral\" or \"rustic\" comes from a Greek word for a cowherd",
+          "answer": "bucolic",
+          "isDailyDouble": true,
+          "orderNumber": 30,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Carl",
+              "score": 8200
+            },
+            {
+              "player": "Con",
+              "score": 5100
+            },
+            {
+              "player": "Bill",
+              "score": 9600
+            }
+          ]
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "Carl",
+          "score": 8200
+        },
+        {
+          "player": "Con",
+          "score": 5100
+        },
+        {
+          "player": "Bill",
+          "score": 9600
+        }
+      ]
+    },
+    "finalJeopardy": {
+      "category": "ACTORS & THEIR ROLES",
+      "clue": "\"Hero\" co-stars Dustin Hoffman & Geena Davis last appeared together in this film",
+      "answer": "Tootsie",
+      "responses": [
+        {
+          "contestant": "Con",
+          "response": "What is Rain Man",
+          "isCorrect": false,
+          "isIncorrect": true,
+          "value": 5000,
+          "finalScore": 100
+        },
+        {
+          "contestant": "Carl",
+          "response": "What",
+          "isCorrect": false,
+          "isIncorrect": true,
+          "value": 4000,
+          "finalScore": 4200
+        },
+        {
+          "contestant": "Bill",
+          "response": "What is Dick Tracy?",
+          "isCorrect": false,
+          "isIncorrect": true,
+          "value": 6801,
+          "finalScore": 2799
+        }
+      ]
+    }
+  },
+  "finalScores": [
+    {
+      "player": "Carl",
+      "score": "$4,200"
+    },
+    {
+      "player": "Con",
+      "score": "$100"
+    },
+    {
+      "player": "Bill",
+      "score": "$2,799"
+    }
+  ],
+  "coryatScores": [
+    {
+      "player": "Carl",
+      "score": 8200
+    },
+    {
+      "player": "Con",
+      "score": 5100
+    },
+    {
+      "player": "Bill",
+      "score": 11200
+    }
+  ]
+}

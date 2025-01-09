@@ -1,0 +1,1704 @@
+{
+  "gameId": 2194,
+  "showNumber": "5339",
+  "title": "Show #5339 - Thursday, November 22, 2007",
+  "date": "2007-11-22",
+  "comments": "",
+  "contestants": [
+    "Bob",
+    "Carol",
+    "Kate"
+  ],
+  "rounds": {
+    "jeopardy": {
+      "categories": [
+        "FACTS & FIGURES",
+        "TENNIS",
+        "THE CONTINENT...",
+        "LET'S MEAT FOR BREAKFAST",
+        "POTLUCK",
+        "THE SHORT FORM"
+      ],
+      "clues": [
+        {
+          "category": "TENNIS",
+          "value": 200,
+          "clue": "The ladies' singles trophy for this event is a sterling silver tray called the Rosewater Dish",
+          "answer": "Wimbledon",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [
+            "Carol"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 0
+            },
+            {
+              "player": "Carol",
+              "score": 200
+            },
+            {
+              "player": "Kate",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "TENNIS",
+          "value": 400,
+          "clue": "This feisty American's 1984 winning percentage of .965 is the best in the ATP Tour's modern era",
+          "answer": "John McEnroe",
+          "isDailyDouble": false,
+          "orderNumber": 2,
+          "correctContestants": [
+            "Carol"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 0
+            },
+            {
+              "player": "Carol",
+              "score": 600
+            },
+            {
+              "player": "Kate",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "THE CONTINENT...",
+          "value": 200,
+          "clue": "...with the most countries",
+          "answer": "Africa",
+          "isDailyDouble": false,
+          "orderNumber": 3,
+          "correctContestants": [
+            "Carol"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 0
+            },
+            {
+              "player": "Carol",
+              "score": 800
+            },
+            {
+              "player": "Kate",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "THE CONTINENT...",
+          "value": 400,
+          "clue": "...that can be typed using a single row of letters on a standard keyboard",
+          "answer": "Europe",
+          "isDailyDouble": false,
+          "orderNumber": 4,
+          "correctContestants": [
+            "Kate"
+          ],
+          "incorrectContestants": [
+            "Carol"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 0
+            },
+            {
+              "player": "Carol",
+              "score": 400
+            },
+            {
+              "player": "Kate",
+              "score": 400
+            }
+          ]
+        },
+        {
+          "category": "TENNIS",
+          "value": 400,
+          "clue": "Only 3 women have won more than 100 singles titles: Martina Navratilova, Chris Evert & this European",
+          "answer": "Steffi Graf",
+          "isDailyDouble": true,
+          "orderNumber": 5,
+          "correctContestants": [
+            "Kate"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 0
+            },
+            {
+              "player": "Carol",
+              "score": 400
+            },
+            {
+              "player": "Kate",
+              "score": 800
+            }
+          ]
+        },
+        {
+          "category": "TENNIS",
+          "value": 800,
+          "clue": "It's the \"ITF Team Championship for Men\"",
+          "answer": "Davis Cup",
+          "isDailyDouble": false,
+          "orderNumber": 6,
+          "correctContestants": [
+            "Bob"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 800
+            },
+            {
+              "player": "Carol",
+              "score": 400
+            },
+            {
+              "player": "Kate",
+              "score": 800
+            }
+          ]
+        },
+        {
+          "category": "TENNIS",
+          "value": 1000,
+          "clue": "In April 2007 Switzerland issued its very first stamp of a living person, a 1-franc stamp depicting this tennis player",
+          "answer": "Roger Federer",
+          "isDailyDouble": false,
+          "orderNumber": 7,
+          "correctContestants": [
+            "Kate"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 800
+            },
+            {
+              "player": "Carol",
+              "score": 400
+            },
+            {
+              "player": "Kate",
+              "score": 1800
+            }
+          ]
+        },
+        {
+          "category": "THE CONTINENT...",
+          "value": 600,
+          "clue": "...that extends down to about 54 degrees south latitude",
+          "answer": "South America",
+          "isDailyDouble": false,
+          "orderNumber": 8,
+          "correctContestants": [
+            "Bob"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 1400
+            },
+            {
+              "player": "Carol",
+              "score": 400
+            },
+            {
+              "player": "Kate",
+              "score": 1800
+            }
+          ]
+        },
+        {
+          "category": "THE CONTINENT...",
+          "value": 800,
+          "clue": "...with the first country alphabetically",
+          "answer": "Asia",
+          "isDailyDouble": false,
+          "orderNumber": 9,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Carol"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 1400
+            },
+            {
+              "player": "Carol",
+              "score": -400
+            },
+            {
+              "player": "Kate",
+              "score": 1800
+            }
+          ]
+        },
+        {
+          "category": "THE CONTINENT...",
+          "value": 1000,
+          "clue": "...where the Latter-Day Saints believe that Zion or New Jerusalem will be built",
+          "answer": "North America",
+          "isDailyDouble": false,
+          "orderNumber": 10,
+          "correctContestants": [
+            "Bob"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 2400
+            },
+            {
+              "player": "Carol",
+              "score": -400
+            },
+            {
+              "player": "Kate",
+              "score": 1800
+            }
+          ]
+        },
+        {
+          "category": "FACTS & FIGURES",
+          "value": 200,
+          "clue": "Name & number please: launched in 2004, it's 1,132 feet long, has 10 restaurants & 5 pools, & carries 2,620 passengers",
+          "answer": "the Queen Mary 2",
+          "isDailyDouble": false,
+          "orderNumber": 11,
+          "correctContestants": [
+            "Bob"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 2600
+            },
+            {
+              "player": "Carol",
+              "score": -400
+            },
+            {
+              "player": "Kate",
+              "score": 1800
+            }
+          ]
+        },
+        {
+          "category": "FACTS & FIGURES",
+          "value": 400,
+          "clue": "With more than 1 billion members, it's the largest branch of Christianity",
+          "answer": "Catholicism",
+          "isDailyDouble": false,
+          "orderNumber": 12,
+          "correctContestants": [
+            "Carol"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 2600
+            },
+            {
+              "player": "Carol",
+              "score": 0
+            },
+            {
+              "player": "Kate",
+              "score": 1800
+            }
+          ]
+        },
+        {
+          "category": "FACTS & FIGURES",
+          "value": 600,
+          "clue": "At just more than 30 days, he served the shortest term as president",
+          "answer": "William Henry Harrison",
+          "isDailyDouble": false,
+          "orderNumber": 13,
+          "correctContestants": [
+            "Bob"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 3200
+            },
+            {
+              "player": "Carol",
+              "score": 0
+            },
+            {
+              "player": "Kate",
+              "score": 1800
+            }
+          ]
+        },
+        {
+          "category": "FACTS & FIGURES",
+          "value": 800,
+          "clue": "In 2002 a team at the University of Tokyo calculated this to 1.2411 trillion digits after the decimal point",
+          "answer": "pi",
+          "isDailyDouble": false,
+          "orderNumber": 14,
+          "correctContestants": [
+            "Bob"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 4000
+            },
+            {
+              "player": "Carol",
+              "score": 0
+            },
+            {
+              "player": "Kate",
+              "score": 1800
+            }
+          ]
+        },
+        {
+          "category": "FACTS & FIGURES",
+          "value": 1000,
+          "clue": "In 2000 an almost 4,200-square-mile iceberg broke free from this ice shelf in Antarctica",
+          "answer": "the Ross Ice Shelf",
+          "isDailyDouble": false,
+          "orderNumber": 15,
+          "correctContestants": [
+            "Carol"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 4000
+            },
+            {
+              "player": "Carol",
+              "score": 1000
+            },
+            {
+              "player": "Kate",
+              "score": 1800
+            }
+          ]
+        },
+        {
+          "category": "LET'S MEAT FOR BREAKFAST",
+          "value": 200,
+          "clue": "I'm in the mood for corned beef this, from the French for \"to cut up\"",
+          "answer": "hash",
+          "isDailyDouble": false,
+          "orderNumber": 16,
+          "correctContestants": [
+            "Bob"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 4200
+            },
+            {
+              "player": "Carol",
+              "score": 1000
+            },
+            {
+              "player": "Kate",
+              "score": 1800
+            }
+          ]
+        },
+        {
+          "category": "LET'S MEAT FOR BREAKFAST",
+          "value": 400,
+          "clue": "I think I'll chow down on some CFS; that's Texas talk for chicken-fried this",
+          "answer": "steak",
+          "isDailyDouble": false,
+          "orderNumber": 17,
+          "correctContestants": [
+            "Bob"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 4600
+            },
+            {
+              "player": "Carol",
+              "score": 1000
+            },
+            {
+              "player": "Kate",
+              "score": 1800
+            }
+          ]
+        },
+        {
+          "category": "LET'S MEAT FOR BREAKFAST",
+          "value": 600,
+          "clue": "What Americans call \"Canadian\" this is not truly Canadian; give me the \"peameal\" type, a real specialty of my homeland",
+          "answer": "bacon",
+          "isDailyDouble": false,
+          "orderNumber": 18,
+          "correctContestants": [
+            "Bob"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 5200
+            },
+            {
+              "player": "Carol",
+              "score": 1000
+            },
+            {
+              "player": "Kate",
+              "score": 1800
+            }
+          ]
+        },
+        {
+          "category": "LET'S MEAT FOR BREAKFAST",
+          "value": 800,
+          "clue": "I'll have a honey glazed one of these, from the company of the same name--yep, a whole one, spiral sliced",
+          "answer": "a ham",
+          "isDailyDouble": false,
+          "orderNumber": 19,
+          "correctContestants": [
+            "Bob"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 6000
+            },
+            {
+              "player": "Carol",
+              "score": 1000
+            },
+            {
+              "player": "Kate",
+              "score": 1800
+            }
+          ]
+        },
+        {
+          "category": "LET'S MEAT FOR BREAKFAST",
+          "value": 1000,
+          "clue": "Maybe I'll try the black pudding--that sounds a lot better than this sanguine synonym",
+          "answer": "blood pudding",
+          "isDailyDouble": false,
+          "orderNumber": 20,
+          "correctContestants": [
+            "Bob"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 7000
+            },
+            {
+              "player": "Carol",
+              "score": 1000
+            },
+            {
+              "player": "Kate",
+              "score": 1800
+            }
+          ]
+        },
+        {
+          "category": "POTLUCK",
+          "value": 200,
+          "clue": "In 1977 a Tunisian immigrant became the last prisoner in France to be executed with this device",
+          "answer": "a guillotine",
+          "isDailyDouble": false,
+          "orderNumber": 21,
+          "correctContestants": [
+            "Carol"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 7000
+            },
+            {
+              "player": "Carol",
+              "score": 1200
+            },
+            {
+              "player": "Kate",
+              "score": 1800
+            }
+          ]
+        },
+        {
+          "category": "POTLUCK",
+          "value": 400,
+          "clue": "Eat it, wear it, or play it--what a Greek would do with a bouzouki",
+          "answer": "play it",
+          "isDailyDouble": false,
+          "orderNumber": 22,
+          "correctContestants": [
+            "Carol"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 7000
+            },
+            {
+              "player": "Carol",
+              "score": 1600
+            },
+            {
+              "player": "Kate",
+              "score": 1800
+            }
+          ]
+        },
+        {
+          "category": "POTLUCK",
+          "value": 600,
+          "clue": "From the French for \"chart\", it's the proper term for a person who designs & prepares maps",
+          "answer": "cartographer",
+          "isDailyDouble": false,
+          "orderNumber": 23,
+          "correctContestants": [
+            "Carol"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 7000
+            },
+            {
+              "player": "Carol",
+              "score": 2200
+            },
+            {
+              "player": "Kate",
+              "score": 1800
+            }
+          ]
+        },
+        {
+          "category": "POTLUCK",
+          "value": 800,
+          "clue": "The 4 Noble Truths are the fundamental principles of this religion",
+          "answer": "Buddhism",
+          "isDailyDouble": false,
+          "orderNumber": 24,
+          "correctContestants": [
+            "Bob"
+          ],
+          "incorrectContestants": [
+            "Kate"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 7800
+            },
+            {
+              "player": "Carol",
+              "score": 2200
+            },
+            {
+              "player": "Kate",
+              "score": 1000
+            }
+          ]
+        },
+        {
+          "category": "POTLUCK",
+          "value": 1000,
+          "clue": "This U.S. president was called Bert for short",
+          "answer": "Herbert Hoover",
+          "isDailyDouble": false,
+          "orderNumber": 25,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 7800
+            },
+            {
+              "player": "Carol",
+              "score": 2200
+            },
+            {
+              "player": "Kate",
+              "score": 1000
+            }
+          ]
+        },
+        {
+          "category": "THE SHORT FORM",
+          "value": 200,
+          "clue": "If your internist gives you a scrip, it's short for this",
+          "answer": "prescription",
+          "isDailyDouble": false,
+          "orderNumber": 26,
+          "correctContestants": [
+            "Carol"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 7800
+            },
+            {
+              "player": "Carol",
+              "score": 2400
+            },
+            {
+              "player": "Kate",
+              "score": 1000
+            }
+          ]
+        },
+        {
+          "category": "THE SHORT FORM",
+          "value": 400,
+          "clue": "\"Frag\", meaning to kill a fellow soldier, started as a short form of this term for a type of grenade",
+          "answer": "fragmentation",
+          "isDailyDouble": false,
+          "orderNumber": 27,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Carol",
+            "Kate"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 7800
+            },
+            {
+              "player": "Carol",
+              "score": 2000
+            },
+            {
+              "player": "Kate",
+              "score": 600
+            }
+          ]
+        },
+        {
+          "category": "THE SHORT FORM",
+          "value": 600,
+          "clue": "\"Buck\", as in dollar, is short for this item once used in trade & barter",
+          "answer": "buckskin",
+          "isDailyDouble": false,
+          "orderNumber": 28,
+          "correctContestants": [
+            "Carol"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 7800
+            },
+            {
+              "player": "Carol",
+              "score": 2600
+            },
+            {
+              "player": "Kate",
+              "score": 600
+            }
+          ]
+        },
+        {
+          "category": "THE SHORT FORM",
+          "value": 800,
+          "clue": "A cab you drink is short for this word",
+          "answer": "Cabernet",
+          "isDailyDouble": false,
+          "orderNumber": 29,
+          "correctContestants": [
+            "Carol"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 7800
+            },
+            {
+              "player": "Carol",
+              "score": 3400
+            },
+            {
+              "player": "Kate",
+              "score": 600
+            }
+          ]
+        },
+        {
+          "category": "THE SHORT FORM",
+          "value": 1000,
+          "clue": "A cab you ride in is short for this word that was a carriage before it was a VW",
+          "answer": "cabriolet",
+          "isDailyDouble": false,
+          "orderNumber": 30,
+          "correctContestants": [
+            "Kate"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 7800
+            },
+            {
+              "player": "Carol",
+              "score": 3400
+            },
+            {
+              "player": "Kate",
+              "score": 1600
+            }
+          ]
+        }
+      ],
+      "firstBreakScores": [
+        {
+          "player": "Bob",
+          "score": 4000
+        },
+        {
+          "player": "Carol",
+          "score": 1000
+        },
+        {
+          "player": "Kate",
+          "score": 1800
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "Bob",
+          "score": 7800
+        },
+        {
+          "player": "Carol",
+          "score": 3400
+        },
+        {
+          "player": "Kate",
+          "score": 1600
+        }
+      ]
+    },
+    "doubleJeopardy": {
+      "categories": [
+        "EUROPEAN HISTORY",
+        "OSCAR-NOMINATED SONGS",
+        "THE SCIENCE OF LIQUOR",
+        "BOOKS & AUTHORS",
+        "SAINTS",
+        "\"U\" KNOW IT"
+      ],
+      "clues": [
+        {
+          "category": "OSCAR-NOMINATED SONGS",
+          "value": 400,
+          "clue": "\"A Whole New World\"(1992)",
+          "answer": "Aladdin",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 7800
+            },
+            {
+              "player": "Carol",
+              "score": 3400
+            },
+            {
+              "player": "Kate",
+              "score": 2000
+            }
+          ]
+        },
+        {
+          "category": "OSCAR-NOMINATED SONGS",
+          "value": 800,
+          "clue": "\"Let's Hear It For The Boy\"(1984)",
+          "answer": "Footloose",
+          "isDailyDouble": false,
+          "orderNumber": 2,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 7800
+            },
+            {
+              "player": "Carol",
+              "score": 4200
+            },
+            {
+              "player": "Kate",
+              "score": 2000
+            }
+          ]
+        },
+        {
+          "category": "OSCAR-NOMINATED SONGS",
+          "value": 1200,
+          "clue": "\"Zip-A-Dee-Doo-Dah\"(1947)",
+          "answer": "Song of the South",
+          "isDailyDouble": false,
+          "orderNumber": 3,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 7800
+            },
+            {
+              "player": "Carol",
+              "score": 5400
+            },
+            {
+              "player": "Kate",
+              "score": 2000
+            }
+          ]
+        },
+        {
+          "category": "OSCAR-NOMINATED SONGS",
+          "value": 1600,
+          "clue": "\"Papa, Can You Hear Me?\"(1983)",
+          "answer": "Yentl",
+          "isDailyDouble": false,
+          "orderNumber": 4,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 7800
+            },
+            {
+              "player": "Carol",
+              "score": 5400
+            },
+            {
+              "player": "Kate",
+              "score": 2000
+            }
+          ]
+        },
+        {
+          "category": "OSCAR-NOMINATED SONGS",
+          "value": 2000,
+          "clue": "\"Lose Yourself\"(2002)",
+          "answer": "8 Mile",
+          "isDailyDouble": false,
+          "orderNumber": 5,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 7800
+            },
+            {
+              "player": "Carol",
+              "score": 5400
+            },
+            {
+              "player": "Kate",
+              "score": 4000
+            }
+          ]
+        },
+        {
+          "category": "EUROPEAN HISTORY",
+          "value": 400,
+          "clue": "In 1991 Poland's Democratic Union Party won the most seats in the House & Senate; it was formed from this trade group",
+          "answer": "Solidarity",
+          "isDailyDouble": false,
+          "orderNumber": 6,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 7800
+            },
+            {
+              "player": "Carol",
+              "score": 5400
+            },
+            {
+              "player": "Kate",
+              "score": 4400
+            }
+          ]
+        },
+        {
+          "category": "EUROPEAN HISTORY",
+          "value": 800,
+          "clue": "He was King of England from 1189 to 1199 but spent only 6 months there; the rest of the time, he was off fighting",
+          "answer": "Richard the Lionheart",
+          "isDailyDouble": false,
+          "orderNumber": 7,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 7800
+            },
+            {
+              "player": "Carol",
+              "score": 6200
+            },
+            {
+              "player": "Kate",
+              "score": 4400
+            }
+          ]
+        },
+        {
+          "category": "EUROPEAN HISTORY",
+          "value": 1200,
+          "clue": "From 1541 to 1784 this current capital of Slovakia served as the capital of Hungary",
+          "answer": "Bratislava",
+          "isDailyDouble": false,
+          "orderNumber": 8,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 7800
+            },
+            {
+              "player": "Carol",
+              "score": 7400
+            },
+            {
+              "player": "Kate",
+              "score": 4400
+            }
+          ]
+        },
+        {
+          "category": "EUROPEAN HISTORY",
+          "value": 1600,
+          "clue": "In the 100-year period before 268 B.C., Rome annexed all of Italy below this river that flows through Turin",
+          "answer": "the Po",
+          "isDailyDouble": false,
+          "orderNumber": 9,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 7800
+            },
+            {
+              "player": "Carol",
+              "score": 7400
+            },
+            {
+              "player": "Kate",
+              "score": 6000
+            }
+          ]
+        },
+        {
+          "category": "EUROPEAN HISTORY",
+          "value": 2000,
+          "clue": "On Feb. 28, 1813 these 2 countries whose names rhyme teamed up against France in the Treaty of Kalisch",
+          "answer": "Russia & Prussia",
+          "isDailyDouble": false,
+          "orderNumber": 10,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 7800
+            },
+            {
+              "player": "Carol",
+              "score": 7400
+            },
+            {
+              "player": "Kate",
+              "score": 6000
+            }
+          ]
+        },
+        {
+          "category": "BOOKS & AUTHORS",
+          "value": 400,
+          "clue": "In 2003 Mitch Albom had a No. 1 bestseller with \"The Five People You Meet\" here",
+          "answer": "Heaven",
+          "isDailyDouble": false,
+          "orderNumber": 11,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 7800
+            },
+            {
+              "player": "Carol",
+              "score": 7400
+            },
+            {
+              "player": "Kate",
+              "score": 6400
+            }
+          ]
+        },
+        {
+          "category": "BOOKS & AUTHORS",
+          "value": 800,
+          "clue": "In 1947 he published his first story collection, \"Dark Carnival\"; the \"Martian Chronicles\" came 3 years later",
+          "answer": "Ray Bradbury",
+          "isDailyDouble": false,
+          "orderNumber": 12,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 7000
+            },
+            {
+              "player": "Carol",
+              "score": 8200
+            },
+            {
+              "player": "Kate",
+              "score": 6400
+            }
+          ]
+        },
+        {
+          "category": "BOOKS & AUTHORS",
+          "value": 1200,
+          "clue": "In Willa Cather's \"O Pioneers!\", the heroine Alexandra Bergson is of immigrant stock from this country",
+          "answer": "Sweden",
+          "isDailyDouble": false,
+          "orderNumber": 13,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Kate"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 5800
+            },
+            {
+              "player": "Carol",
+              "score": 8200
+            },
+            {
+              "player": "Kate",
+              "score": 5200
+            }
+          ]
+        },
+        {
+          "category": "BOOKS & AUTHORS",
+          "value": 800,
+          "clue": "James Michener's \"Centennial\" centers on a fictional town in this state",
+          "answer": "Colorado",
+          "isDailyDouble": true,
+          "orderNumber": 14,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 5800
+            },
+            {
+              "player": "Carol",
+              "score": 7400
+            },
+            {
+              "player": "Kate",
+              "score": 5200
+            }
+          ]
+        },
+        {
+          "category": "BOOKS & AUTHORS",
+          "value": 2000,
+          "clue": "In 2007 his book \"The Road\" earned him a Pulitzer Prize & entry into Oprah's Book Club",
+          "answer": "Cormac McCarthy",
+          "isDailyDouble": false,
+          "orderNumber": 15,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 5800
+            },
+            {
+              "player": "Carol",
+              "score": 7400
+            },
+            {
+              "player": "Kate",
+              "score": 5200
+            }
+          ]
+        },
+        {
+          "category": "\"U\" KNOW IT",
+          "value": 400,
+          "clue": "Here's a high-class clue: it's the last word in the kid's rhyme that begins, \"I see London, I see France...\"",
+          "answer": "underpants",
+          "isDailyDouble": false,
+          "orderNumber": 16,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 5800
+            },
+            {
+              "player": "Carol",
+              "score": 7400
+            },
+            {
+              "player": "Kate",
+              "score": 5600
+            }
+          ]
+        },
+        {
+          "category": "\"U\" KNOW IT",
+          "value": 800,
+          "clue": "More than 25 moons are circling it",
+          "answer": "Uranus",
+          "isDailyDouble": false,
+          "orderNumber": 17,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 5800
+            },
+            {
+              "player": "Carol",
+              "score": 7400
+            },
+            {
+              "player": "Kate",
+              "score": 6400
+            }
+          ]
+        },
+        {
+          "category": "\"U\" KNOW IT",
+          "value": 1200,
+          "clue": "(Kelly of the Clue Crew shows an anatomical diagram on the monitor.)  It's the 2-word term for the continuous anatomical system that contains the kidneys, the ureters, the bladder & the urethra",
+          "answer": "the urinary system",
+          "isDailyDouble": false,
+          "orderNumber": 18,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 5800
+            },
+            {
+              "player": "Carol",
+              "score": 7400
+            },
+            {
+              "player": "Kate",
+              "score": 7600
+            }
+          ]
+        },
+        {
+          "category": "\"U\" KNOW IT",
+          "value": 1600,
+          "clue": "A patentable invention must be new, non-obvious, & this, like the \"arts\" the constitution encourages",
+          "answer": "useful",
+          "isDailyDouble": false,
+          "orderNumber": 19,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 5800
+            },
+            {
+              "player": "Carol",
+              "score": 5800
+            },
+            {
+              "player": "Kate",
+              "score": 7600
+            }
+          ]
+        },
+        {
+          "category": "\"U\" KNOW IT",
+          "value": 2000,
+          "clue": "Woody Guthrie sang, \"You can't scare me, I'm sticking to\" this group",
+          "answer": "the union",
+          "isDailyDouble": false,
+          "orderNumber": 20,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 5800
+            },
+            {
+              "player": "Carol",
+              "score": 5800
+            },
+            {
+              "player": "Kate",
+              "score": 9600
+            }
+          ]
+        },
+        {
+          "category": "SAINTS",
+          "value": 2000,
+          "clue": "The order founded by this saint in Toulouse was zealous in carrying out the Inquisition",
+          "answer": "Saint Dominic (founder of the Dominicans)",
+          "isDailyDouble": false,
+          "orderNumber": 21,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 3800
+            },
+            {
+              "player": "Carol",
+              "score": 5800
+            },
+            {
+              "player": "Kate",
+              "score": 9600
+            }
+          ]
+        },
+        {
+          "category": "SAINTS",
+          "value": 400,
+          "clue": "St. Columba of this country was martyred in 853 after telling some Moors that Muhammad was a false prophet",
+          "answer": "Spain",
+          "isDailyDouble": false,
+          "orderNumber": 22,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 3800
+            },
+            {
+              "player": "Carol",
+              "score": 5800
+            },
+            {
+              "player": "Kate",
+              "score": 10000
+            }
+          ]
+        },
+        {
+          "category": "SAINTS",
+          "value": 800,
+          "clue": "St. John Eudes promoted devotion to this sacred body part not just of Jesus but of Mary too",
+          "answer": "the (sacred) heart",
+          "isDailyDouble": false,
+          "orderNumber": 23,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 3800
+            },
+            {
+              "player": "Carol",
+              "score": 6600
+            },
+            {
+              "player": "Kate",
+              "score": 9200
+            }
+          ]
+        },
+        {
+          "category": "SAINTS",
+          "value": 1200,
+          "clue": "Hermit monk Saint Simeon Stylites resided for decades on one of these, 60 feet tall",
+          "answer": "column",
+          "isDailyDouble": false,
+          "orderNumber": 24,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 2600
+            },
+            {
+              "player": "Carol",
+              "score": 6600
+            },
+            {
+              "player": "Kate",
+              "score": 9200
+            }
+          ]
+        },
+        {
+          "category": "SAINTS",
+          "value": 1600,
+          "clue": "The Pope struck a medal to celebrate the 1572 massacre of Huguenots on this saint's day",
+          "answer": "St. Bartholomew",
+          "isDailyDouble": false,
+          "orderNumber": 25,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 4200
+            },
+            {
+              "player": "Carol",
+              "score": 6600
+            },
+            {
+              "player": "Kate",
+              "score": 7600
+            }
+          ]
+        },
+        {
+          "category": "THE SCIENCE OF LIQUOR",
+          "value": 1200,
+          "clue": "Zymurgy is the chemistry branch that deals with this process in which sugar is converted into alcohol",
+          "answer": "fermentation",
+          "isDailyDouble": false,
+          "orderNumber": 26,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 4200
+            },
+            {
+              "player": "Carol",
+              "score": 6600
+            },
+            {
+              "player": "Kate",
+              "score": 8800
+            }
+          ]
+        },
+        {
+          "category": "THE SCIENCE OF LIQUOR",
+          "value": 1600,
+          "clue": "Jameson Irish Whiskey gains its golden hue thanks partly to this acid that also helps give leather its color",
+          "answer": "tannic acid",
+          "isDailyDouble": false,
+          "orderNumber": 27,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 4200
+            },
+            {
+              "player": "Carol",
+              "score": 6600
+            },
+            {
+              "player": "Kate",
+              "score": 10400
+            }
+          ]
+        },
+        {
+          "category": "THE SCIENCE OF LIQUOR",
+          "value": 800,
+          "clue": "Germany's Purity Law of 1516 states that German beer must contain only water, hops & this germinated grain",
+          "answer": "barley",
+          "isDailyDouble": false,
+          "orderNumber": 28,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 4200
+            },
+            {
+              "player": "Carol",
+              "score": 6600
+            },
+            {
+              "player": "Kate",
+              "score": 11200
+            }
+          ]
+        },
+        {
+          "category": "THE SCIENCE OF LIQUOR",
+          "value": 3000,
+          "clue": "After 15 years of aging, 30% of an original quantity of bourbon (the \"angels' share\") has been lost to this process",
+          "answer": "evaporation",
+          "isDailyDouble": true,
+          "orderNumber": 29,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 4200
+            },
+            {
+              "player": "Carol",
+              "score": 6600
+            },
+            {
+              "player": "Kate",
+              "score": 14200
+            }
+          ]
+        },
+        {
+          "category": "THE SCIENCE OF LIQUOR",
+          "value": 400,
+          "clue": "In cryoextraction, this is done to grapes to produce the most concentrated juice in pressing",
+          "answer": "freezing",
+          "isDailyDouble": false,
+          "orderNumber": 30,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 4200
+            },
+            {
+              "player": "Carol",
+              "score": 6200
+            },
+            {
+              "player": "Kate",
+              "score": 14600
+            }
+          ]
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "Bob",
+          "score": 4200
+        },
+        {
+          "player": "Carol",
+          "score": 6200
+        },
+        {
+          "player": "Kate",
+          "score": 14600
+        }
+      ]
+    },
+    "finalJeopardy": {
+      "category": "FAMOUS NAMES",
+      "clue": "In the 19th century he created a new type of reference work, a dictionary named from the Greek for \"treasury\"",
+      "answer": "Roget",
+      "responses": [
+        {
+          "contestant": "Bob",
+          "response": "Who is Webster?",
+          "isCorrect": false,
+          "isIncorrect": true,
+          "value": 200,
+          "finalScore": 4000
+        },
+        {
+          "contestant": "Carol",
+          "response": "Who is Roget?",
+          "isCorrect": true,
+          "isIncorrect": false,
+          "value": 3300,
+          "finalScore": 9500
+        },
+        {
+          "contestant": "Kate",
+          "response": "Who is Rogers?",
+          "isCorrect": false,
+          "isIncorrect": true,
+          "value": 2000,
+          "finalScore": 12600
+        }
+      ]
+    }
+  },
+  "finalScores": [
+    {
+      "player": "Bob",
+      "score": "$4,000"
+    },
+    {
+      "player": "Carol",
+      "score": "$9,500"
+    },
+    {
+      "player": "Kate",
+      "score": "$12,600"
+    }
+  ],
+  "coryatScores": [
+    {
+      "player": "Bob",
+      "score": 4200
+    },
+    {
+      "player": "Carol",
+      "score": 7000
+    },
+    {
+      "player": "Kate",
+      "score": 13800
+    }
+  ]
+}

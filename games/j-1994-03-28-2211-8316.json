@@ -1,0 +1,1704 @@
+{
+  "gameId": 8316,
+  "showNumber": "2211",
+  "title": "Show #2211 - Monday, March 28, 1994",
+  "date": "1994-03-28",
+  "comments": "",
+  "contestants": [
+    "Mike",
+    "Jack",
+    "Rosa"
+  ],
+  "rounds": {
+    "jeopardy": {
+      "categories": [
+        "STATE CAPITALS",
+        "PEOPLE",
+        "HERBS & SPICES",
+        "TITLE OBJECTS",
+        "TRANSPORTATION",
+        "DUCK POTPOURRI"
+      ],
+      "clues": [
+        {
+          "category": "DUCK POTPOURRI",
+          "value": 100,
+          "clue": "It's the correct term for a male duck",
+          "answer": "a drake",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [
+            "Mike"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mike",
+              "score": 100
+            },
+            {
+              "player": "Jack",
+              "score": 0
+            },
+            {
+              "player": "Rosa",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "DUCK POTPOURRI",
+          "value": 200,
+          "clue": "This duck feature is so highly specialized that it's called \"the perfect sieve\"",
+          "answer": "the bill",
+          "isDailyDouble": false,
+          "orderNumber": 2,
+          "correctContestants": [
+            "Rosa"
+          ],
+          "incorrectContestants": [
+            "Jack"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mike",
+              "score": 100
+            },
+            {
+              "player": "Jack",
+              "score": -200
+            },
+            {
+              "player": "Rosa",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "STATE CAPITALS",
+          "value": 100,
+          "clue": "It's the \"City of Baked Beans\"",
+          "answer": "Boston",
+          "isDailyDouble": false,
+          "orderNumber": 3,
+          "correctContestants": [
+            "Mike"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mike",
+              "score": 200
+            },
+            {
+              "player": "Jack",
+              "score": -200
+            },
+            {
+              "player": "Rosa",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "HERBS & SPICES",
+          "value": 100,
+          "clue": "The white kind of this spice is made by removing the outer coating from ripe \"corns\"",
+          "answer": "pepper",
+          "isDailyDouble": false,
+          "orderNumber": 4,
+          "correctContestants": [
+            "Mike"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mike",
+              "score": 300
+            },
+            {
+              "player": "Jack",
+              "score": -200
+            },
+            {
+              "player": "Rosa",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "HERBS & SPICES",
+          "value": 200,
+          "clue": "This herb contains a large amount of thymol, a powerful antiseptic",
+          "answer": "thyme",
+          "isDailyDouble": false,
+          "orderNumber": 5,
+          "correctContestants": [
+            "Rosa"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mike",
+              "score": 300
+            },
+            {
+              "player": "Jack",
+              "score": -200
+            },
+            {
+              "player": "Rosa",
+              "score": 400
+            }
+          ]
+        },
+        {
+          "category": "STATE CAPITALS",
+          "value": 200,
+          "clue": "The name of this capital means \"holy sacrament\" & was taken from the name of a nearby river",
+          "answer": "Sacramento",
+          "isDailyDouble": false,
+          "orderNumber": 6,
+          "correctContestants": [
+            "Rosa"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mike",
+              "score": 300
+            },
+            {
+              "player": "Jack",
+              "score": -200
+            },
+            {
+              "player": "Rosa",
+              "score": 600
+            }
+          ]
+        },
+        {
+          "category": "STATE CAPITALS",
+          "value": 300,
+          "clue": "The site of this Oregon capital was called Chemeketa, or \"place of rest\", by the Indians",
+          "answer": "Salem",
+          "isDailyDouble": false,
+          "orderNumber": 7,
+          "correctContestants": [
+            "Rosa"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mike",
+              "score": 300
+            },
+            {
+              "player": "Jack",
+              "score": -200
+            },
+            {
+              "player": "Rosa",
+              "score": 900
+            }
+          ]
+        },
+        {
+          "category": "STATE CAPITALS",
+          "value": 400,
+          "clue": "This Southwestern city is the oldest serving as a state capital",
+          "answer": "Santa Fe (New Mexico)",
+          "isDailyDouble": false,
+          "orderNumber": 8,
+          "correctContestants": [
+            "Mike"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mike",
+              "score": 700
+            },
+            {
+              "player": "Jack",
+              "score": -200
+            },
+            {
+              "player": "Rosa",
+              "score": 900
+            }
+          ]
+        },
+        {
+          "category": "HERBS & SPICES",
+          "value": 300,
+          "clue": "The Germans call this herb Basilienkraut",
+          "answer": "basil",
+          "isDailyDouble": false,
+          "orderNumber": 9,
+          "correctContestants": [
+            "Jack"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mike",
+              "score": 700
+            },
+            {
+              "player": "Jack",
+              "score": 100
+            },
+            {
+              "player": "Rosa",
+              "score": 900
+            }
+          ]
+        },
+        {
+          "category": "STATE CAPITALS",
+          "value": 500,
+          "clue": "This state capital is located just south of the Tropic of Cancer",
+          "answer": "Honolulu",
+          "isDailyDouble": true,
+          "orderNumber": 10,
+          "correctContestants": [
+            "Jack"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mike",
+              "score": 700
+            },
+            {
+              "player": "Jack",
+              "score": 600
+            },
+            {
+              "player": "Rosa",
+              "score": 900
+            }
+          ]
+        },
+        {
+          "category": "PEOPLE",
+          "value": 100,
+          "clue": "She's the first first lady to have earned a postgraduate degree--a Yale law degree",
+          "answer": "Hillary Clinton",
+          "isDailyDouble": false,
+          "orderNumber": 11,
+          "correctContestants": [
+            "Jack"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mike",
+              "score": 700
+            },
+            {
+              "player": "Jack",
+              "score": 700
+            },
+            {
+              "player": "Rosa",
+              "score": 900
+            }
+          ]
+        },
+        {
+          "category": "PEOPLE",
+          "value": 200,
+          "clue": "In his 61st & last TV ad for Chrysler, he introduced the company's new LH cars",
+          "answer": "Lee Iacocca",
+          "isDailyDouble": false,
+          "orderNumber": 12,
+          "correctContestants": [
+            "Jack"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mike",
+              "score": 700
+            },
+            {
+              "player": "Jack",
+              "score": 900
+            },
+            {
+              "player": "Rosa",
+              "score": 900
+            }
+          ]
+        },
+        {
+          "category": "PEOPLE",
+          "value": 300,
+          "clue": "In a 1992 rematch of sorts, he beat Boris Spassky in chess 10 games to 5 for $3.35 million",
+          "answer": "Bobby Fischer",
+          "isDailyDouble": false,
+          "orderNumber": 13,
+          "correctContestants": [
+            "Rosa"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mike",
+              "score": 700
+            },
+            {
+              "player": "Jack",
+              "score": 900
+            },
+            {
+              "player": "Rosa",
+              "score": 1200
+            }
+          ]
+        },
+        {
+          "category": "PEOPLE",
+          "value": 400,
+          "clue": "Talk show host Jerry Springer was once mayor of this Ohio city dubbed the \"Queen City of the West\"",
+          "answer": "Cincinnati",
+          "isDailyDouble": false,
+          "orderNumber": 14,
+          "correctContestants": [
+            "Rosa"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mike",
+              "score": 700
+            },
+            {
+              "player": "Jack",
+              "score": 900
+            },
+            {
+              "player": "Rosa",
+              "score": 1600
+            }
+          ]
+        },
+        {
+          "category": "PEOPLE",
+          "value": 500,
+          "clue": "Naomi Judd's younger daughter Ashley plays Swoosie Kurtz' daughter on this TV series",
+          "answer": "Sisters",
+          "isDailyDouble": false,
+          "orderNumber": 15,
+          "correctContestants": [
+            "Mike"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mike",
+              "score": 1200
+            },
+            {
+              "player": "Jack",
+              "score": 900
+            },
+            {
+              "player": "Rosa",
+              "score": 1600
+            }
+          ]
+        },
+        {
+          "category": "DUCK POTPOURRI",
+          "value": 300,
+          "clue": "Ducks are classified in separate groups called these, a term often associated with American Indians",
+          "answer": "tribes",
+          "isDailyDouble": false,
+          "orderNumber": 16,
+          "correctContestants": [
+            "Rosa"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mike",
+              "score": 1200
+            },
+            {
+              "player": "Jack",
+              "score": 900
+            },
+            {
+              "player": "Rosa",
+              "score": 1900
+            }
+          ]
+        },
+        {
+          "category": "TITLE OBJECTS",
+          "value": 100,
+          "clue": "Dickens' was \"Bleak\"",
+          "answer": "a house",
+          "isDailyDouble": false,
+          "orderNumber": 17,
+          "correctContestants": [
+            "Mike"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mike",
+              "score": 1300
+            },
+            {
+              "player": "Jack",
+              "score": 900
+            },
+            {
+              "player": "Rosa",
+              "score": 1900
+            }
+          ]
+        },
+        {
+          "category": "DUCK POTPOURRI",
+          "value": 400,
+          "clue": "The Cayuga duck has the same name as a lake in this state",
+          "answer": "New York",
+          "isDailyDouble": false,
+          "orderNumber": 18,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Jack"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Mike",
+              "score": 1300
+            },
+            {
+              "player": "Jack",
+              "score": 500
+            },
+            {
+              "player": "Rosa",
+              "score": 1900
+            }
+          ]
+        },
+        {
+          "category": "DUCK POTPOURRI",
+          "value": 500,
+          "clue": "Not all of these ducks are greenish-blue like the color; some are cinnamon-red",
+          "answer": "a teal",
+          "isDailyDouble": false,
+          "orderNumber": 19,
+          "correctContestants": [
+            "Jack"
+          ],
+          "incorrectContestants": [
+            "Mike"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mike",
+              "score": 800
+            },
+            {
+              "player": "Jack",
+              "score": 1000
+            },
+            {
+              "player": "Rosa",
+              "score": 1900
+            }
+          ]
+        },
+        {
+          "category": "TITLE OBJECTS",
+          "value": 200,
+          "clue": "This title object worn by Hester Prynne is an \"A\"",
+          "answer": "the scarlet letter",
+          "isDailyDouble": false,
+          "orderNumber": 20,
+          "correctContestants": [
+            "Mike"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mike",
+              "score": 1000
+            },
+            {
+              "player": "Jack",
+              "score": 1000
+            },
+            {
+              "player": "Rosa",
+              "score": 1900
+            }
+          ]
+        },
+        {
+          "category": "HERBS & SPICES",
+          "value": 400,
+          "clue": "The name of this herb comes from the Latin ros marinus, meaning \"sea dew\"",
+          "answer": "rosemary",
+          "isDailyDouble": false,
+          "orderNumber": 21,
+          "correctContestants": [
+            "Jack"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mike",
+              "score": 1000
+            },
+            {
+              "player": "Jack",
+              "score": 1400
+            },
+            {
+              "player": "Rosa",
+              "score": 1900
+            }
+          ]
+        },
+        {
+          "category": "TITLE OBJECTS",
+          "value": 300,
+          "clue": "Sauron made one of these Tolkien title objects that controlled the others",
+          "answer": "a ring",
+          "isDailyDouble": false,
+          "orderNumber": 22,
+          "correctContestants": [
+            "Jack"
+          ],
+          "incorrectContestants": [
+            "Mike",
+            "Rosa"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mike",
+              "score": 700
+            },
+            {
+              "player": "Jack",
+              "score": 1700
+            },
+            {
+              "player": "Rosa",
+              "score": 1600
+            }
+          ]
+        },
+        {
+          "category": "TITLE OBJECTS",
+          "value": 400,
+          "clue": "This object, half the title of an 1842 Poe story, swings during the Spanish Inquisition",
+          "answer": "a pendulum",
+          "isDailyDouble": false,
+          "orderNumber": 23,
+          "correctContestants": [
+            "Mike"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mike",
+              "score": 1100
+            },
+            {
+              "player": "Jack",
+              "score": 1700
+            },
+            {
+              "player": "Rosa",
+              "score": 1600
+            }
+          ]
+        },
+        {
+          "category": "TITLE OBJECTS",
+          "value": 500,
+          "clue": "The 2 objects mentioned in this Somerset Maugham title are a satellite & a coin",
+          "answer": "the Moon & sixpence",
+          "isDailyDouble": false,
+          "orderNumber": 24,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Mike",
+              "score": 1100
+            },
+            {
+              "player": "Jack",
+              "score": 1700
+            },
+            {
+              "player": "Rosa",
+              "score": 1600
+            }
+          ]
+        },
+        {
+          "category": "HERBS & SPICES",
+          "value": 500,
+          "clue": "It takes 5 pounds of nutmeg kernels to make 1 pound of this related spice",
+          "answer": "mace",
+          "isDailyDouble": false,
+          "orderNumber": 25,
+          "correctContestants": [
+            "Mike"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mike",
+              "score": 1600
+            },
+            {
+              "player": "Jack",
+              "score": 1700
+            },
+            {
+              "player": "Rosa",
+              "score": 1600
+            }
+          ]
+        },
+        {
+          "category": "TRANSPORTATION",
+          "value": 100,
+          "clue": "The Blue Train, one of the most luxurious in the world, runs between Pretoria & Cape Town in this country",
+          "answer": "South Africa",
+          "isDailyDouble": false,
+          "orderNumber": 26,
+          "correctContestants": [
+            "Jack"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mike",
+              "score": 1600
+            },
+            {
+              "player": "Jack",
+              "score": 1800
+            },
+            {
+              "player": "Rosa",
+              "score": 1600
+            }
+          ]
+        },
+        {
+          "category": "TRANSPORTATION",
+          "value": 200,
+          "clue": "The Sting-Ray, which peaked in popularity in the 1960s, is Schwinn's bestselling make of this",
+          "answer": "a bicycle",
+          "isDailyDouble": false,
+          "orderNumber": 27,
+          "correctContestants": [
+            "Jack"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mike",
+              "score": 1600
+            },
+            {
+              "player": "Jack",
+              "score": 2000
+            },
+            {
+              "player": "Rosa",
+              "score": 1600
+            }
+          ]
+        },
+        {
+          "category": "TRANSPORTATION",
+          "value": 300,
+          "clue": "From the Russian word for three, it's a carriage or sleigh pulled by 3 horses",
+          "answer": "a troika",
+          "isDailyDouble": false,
+          "orderNumber": 28,
+          "correctContestants": [
+            "Jack"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mike",
+              "score": 1600
+            },
+            {
+              "player": "Jack",
+              "score": 2300
+            },
+            {
+              "player": "Rosa",
+              "score": 1600
+            }
+          ]
+        },
+        {
+          "category": "TRANSPORTATION",
+          "value": 400,
+          "clue": "In 1927 the Model A Ford debuted in America & this Swedish car debuted in Europe",
+          "answer": "a Volvo",
+          "isDailyDouble": false,
+          "orderNumber": 29,
+          "correctContestants": [
+            "Jack"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mike",
+              "score": 1600
+            },
+            {
+              "player": "Jack",
+              "score": 2700
+            },
+            {
+              "player": "Rosa",
+              "score": 1600
+            }
+          ]
+        },
+        {
+          "category": "TRANSPORTATION",
+          "value": 500,
+          "clue": "Nicknamed the \"Grand Old Lady of the Atlantic\", this sister ship of the Lusitania made her maiden voyage in 1907",
+          "answer": "the Mauretania",
+          "isDailyDouble": false,
+          "orderNumber": 30,
+          "correctContestants": [
+            "Jack"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mike",
+              "score": 1600
+            },
+            {
+              "player": "Jack",
+              "score": 3200
+            },
+            {
+              "player": "Rosa",
+              "score": 1600
+            }
+          ]
+        }
+      ],
+      "firstBreakScores": [
+        {
+          "player": "Mike",
+          "score": 1200
+        },
+        {
+          "player": "Jack",
+          "score": 900
+        },
+        {
+          "player": "Rosa",
+          "score": 1900
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "Mike",
+          "score": 1600
+        },
+        {
+          "player": "Jack",
+          "score": 3200
+        },
+        {
+          "player": "Rosa",
+          "score": 1600
+        }
+      ]
+    },
+    "doubleJeopardy": {
+      "categories": [
+        "THE 1880s",
+        "BALLET",
+        "COLLEGES & UNIVERSITIES",
+        "WORLD LEADERS",
+        "PHOTOGRAPHY",
+        "QUOTATIONS"
+      ],
+      "clues": [
+        {
+          "category": "COLLEGES & UNIVERSITIES",
+          "value": 200,
+          "clue": "In 1767 this NYC university founded its school of medicine",
+          "answer": "Columbia",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mike",
+              "score": 1600
+            },
+            {
+              "player": "Jack",
+              "score": 3400
+            },
+            {
+              "player": "Rosa",
+              "score": 1600
+            }
+          ]
+        },
+        {
+          "category": "COLLEGES & UNIVERSITIES",
+          "value": 400,
+          "clue": "This state university was founded in 1831 in Tuscaloosa",
+          "answer": "the University of Alabama",
+          "isDailyDouble": false,
+          "orderNumber": 2,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mike",
+              "score": 1600
+            },
+            {
+              "player": "Jack",
+              "score": 3400
+            },
+            {
+              "player": "Rosa",
+              "score": 2000
+            }
+          ]
+        },
+        {
+          "category": "BALLET",
+          "value": 200,
+          "clue": "The final scene of this ballet takes place in the Capulets' burial vault",
+          "answer": "Romeo and Juliet",
+          "isDailyDouble": false,
+          "orderNumber": 3,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mike",
+              "score": 1600
+            },
+            {
+              "player": "Jack",
+              "score": 3400
+            },
+            {
+              "player": "Rosa",
+              "score": 2200
+            }
+          ]
+        },
+        {
+          "category": "BALLET",
+          "value": 400,
+          "clue": "French for \"thrown\", it's a small or \"grand\" leap from one foot to the other",
+          "answer": "a jeté",
+          "isDailyDouble": false,
+          "orderNumber": 4,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mike",
+              "score": 1600
+            },
+            {
+              "player": "Jack",
+              "score": 3800
+            },
+            {
+              "player": "Rosa",
+              "score": 2200
+            }
+          ]
+        },
+        {
+          "category": "COLLEGES & UNIVERSITIES",
+          "value": 600,
+          "clue": "Of Bates, Bard or Beloit College, the one located in Annandale-on-Hudson, New York",
+          "answer": "Bard College",
+          "isDailyDouble": false,
+          "orderNumber": 5,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mike",
+              "score": 1600
+            },
+            {
+              "player": "Jack",
+              "score": 4400
+            },
+            {
+              "player": "Rosa",
+              "score": 2200
+            }
+          ]
+        },
+        {
+          "category": "COLLEGES & UNIVERSITIES",
+          "value": 800,
+          "clue": "A Tacoma, Wash. university is named for this inland waterway",
+          "answer": "Puget Sound",
+          "isDailyDouble": false,
+          "orderNumber": 6,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mike",
+              "score": 2400
+            },
+            {
+              "player": "Jack",
+              "score": 4400
+            },
+            {
+              "player": "Rosa",
+              "score": 2200
+            }
+          ]
+        },
+        {
+          "category": "COLLEGES & UNIVERSITIES",
+          "value": 1000,
+          "clue": "This New Orleans university has an important school of tropical medicine",
+          "answer": "Tulane",
+          "isDailyDouble": false,
+          "orderNumber": 7,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mike",
+              "score": 2400
+            },
+            {
+              "player": "Jack",
+              "score": 4400
+            },
+            {
+              "player": "Rosa",
+              "score": 3200
+            }
+          ]
+        },
+        {
+          "category": "BALLET",
+          "value": 600,
+          "clue": "This ballet choreographed by Agnes De Mille is subtitled \"The Courting at Burnt Ranch\"",
+          "answer": "Rodeo",
+          "isDailyDouble": false,
+          "orderNumber": 8,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mike",
+              "score": 2400
+            },
+            {
+              "player": "Jack",
+              "score": 4400
+            },
+            {
+              "player": "Rosa",
+              "score": 3800
+            }
+          ]
+        },
+        {
+          "category": "BALLET",
+          "value": 800,
+          "clue": "Jerome Robbins' ballet \"The Goldberg Variations\" is set to the music of this composer",
+          "answer": "(Johann Sebastian) Bach",
+          "isDailyDouble": false,
+          "orderNumber": 9,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mike",
+              "score": 2400
+            },
+            {
+              "player": "Jack",
+              "score": 5200
+            },
+            {
+              "player": "Rosa",
+              "score": 3800
+            }
+          ]
+        },
+        {
+          "category": "THE 1880s",
+          "value": 200,
+          "clue": "This structure spanning New York's East River opened May 24, 1883",
+          "answer": "the Brooklyn Bridge",
+          "isDailyDouble": false,
+          "orderNumber": 10,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mike",
+              "score": 2400
+            },
+            {
+              "player": "Jack",
+              "score": 5200
+            },
+            {
+              "player": "Rosa",
+              "score": 4000
+            }
+          ]
+        },
+        {
+          "category": "THE 1880s",
+          "value": 400,
+          "clue": "In 1882 she became president of the American Red Cross, a job she held until 1904",
+          "answer": "Clara Barton",
+          "isDailyDouble": false,
+          "orderNumber": 11,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mike",
+              "score": 2400
+            },
+            {
+              "player": "Jack",
+              "score": 5200
+            },
+            {
+              "player": "Rosa",
+              "score": 4400
+            }
+          ]
+        },
+        {
+          "category": "THE 1880s",
+          "value": 600,
+          "clue": "He became emperor of Germany in June 1888",
+          "answer": "Kaiser Wilhelm",
+          "isDailyDouble": false,
+          "orderNumber": 12,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mike",
+              "score": 3000
+            },
+            {
+              "player": "Jack",
+              "score": 5200
+            },
+            {
+              "player": "Rosa",
+              "score": 4400
+            }
+          ]
+        },
+        {
+          "category": "THE 1880s",
+          "value": 800,
+          "clue": "In 1885 followers of the Mahdi killed General Gordon at this Sudanese city",
+          "answer": "Khartoum",
+          "isDailyDouble": false,
+          "orderNumber": 13,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mike",
+              "score": 3800
+            },
+            {
+              "player": "Jack",
+              "score": 5200
+            },
+            {
+              "player": "Rosa",
+              "score": 4400
+            }
+          ]
+        },
+        {
+          "category": "THE 1880s",
+          "value": 1000,
+          "clue": "In 1884 Edward L. Trudeau opened the USA's first sanitarium for this disease in Saranac Lake, New York",
+          "answer": "tuberculosis",
+          "isDailyDouble": false,
+          "orderNumber": 14,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mike",
+              "score": 4800
+            },
+            {
+              "player": "Jack",
+              "score": 5200
+            },
+            {
+              "player": "Rosa",
+              "score": 4400
+            }
+          ]
+        },
+        {
+          "category": "WORLD LEADERS",
+          "value": 200,
+          "clue": "In 1993 this king celebrated 40 years on Jordan's throne",
+          "answer": "King Hussein",
+          "isDailyDouble": false,
+          "orderNumber": 15,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mike",
+              "score": 4800
+            },
+            {
+              "player": "Jack",
+              "score": 5200
+            },
+            {
+              "player": "Rosa",
+              "score": 4600
+            }
+          ]
+        },
+        {
+          "category": "BALLET",
+          "value": 1000,
+          "clue": "George Balanchine created many roles for this ballerina to whom he was married 1946-1952",
+          "answer": "Maria Tallchief",
+          "isDailyDouble": false,
+          "orderNumber": 16,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Mike",
+              "score": 4800
+            },
+            {
+              "player": "Jack",
+              "score": 5200
+            },
+            {
+              "player": "Rosa",
+              "score": 4600
+            }
+          ]
+        },
+        {
+          "category": "WORLD LEADERS",
+          "value": 400,
+          "clue": "At President Carter's urging, these 2 world leaders met for peace talks at Camp David in 1978",
+          "answer": "Sadat & Begin",
+          "isDailyDouble": false,
+          "orderNumber": 17,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mike",
+              "score": 5200
+            },
+            {
+              "player": "Jack",
+              "score": 5200
+            },
+            {
+              "player": "Rosa",
+              "score": 4600
+            }
+          ]
+        },
+        {
+          "category": "WORLD LEADERS",
+          "value": 600,
+          "clue": "Alberto Fujimori, the 1st person of Japanese descent to lead a Latin American nation, leads this one",
+          "answer": "Peru",
+          "isDailyDouble": false,
+          "orderNumber": 18,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mike",
+              "score": 5200
+            },
+            {
+              "player": "Jack",
+              "score": 5200
+            },
+            {
+              "player": "Rosa",
+              "score": 5200
+            }
+          ]
+        },
+        {
+          "category": "WORLD LEADERS",
+          "value": 800,
+          "clue": "In 1991 Carl Bildt became this Scandinavian country's youngest PM in over 150 years",
+          "answer": "Sweden",
+          "isDailyDouble": false,
+          "orderNumber": 19,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mike",
+              "score": 5200
+            },
+            {
+              "player": "Jack",
+              "score": 6000
+            },
+            {
+              "player": "Rosa",
+              "score": 5200
+            }
+          ]
+        },
+        {
+          "category": "WORLD LEADERS",
+          "value": 1500,
+          "clue": "In March 1993 he was elected to a sixth consecutive term as president of Indonesia",
+          "answer": "Suharto",
+          "isDailyDouble": true,
+          "orderNumber": 20,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mike",
+              "score": 5200
+            },
+            {
+              "player": "Jack",
+              "score": 7500
+            },
+            {
+              "player": "Rosa",
+              "score": 5200
+            }
+          ]
+        },
+        {
+          "category": "QUOTATIONS",
+          "value": 200,
+          "clue": "Frost wrote they're \"lovely, dark and deep. But I have promises to keep\"",
+          "answer": "the woods",
+          "isDailyDouble": false,
+          "orderNumber": 21,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mike",
+              "score": 5200
+            },
+            {
+              "player": "Jack",
+              "score": 7700
+            },
+            {
+              "player": "Rosa",
+              "score": 5200
+            }
+          ]
+        },
+        {
+          "category": "QUOTATIONS",
+          "value": 400,
+          "clue": "Completes David Everett's \"Large streams from little fountains flow, tall oaks...\"",
+          "answer": "from little acorns grow",
+          "isDailyDouble": false,
+          "orderNumber": 22,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mike",
+              "score": 5200
+            },
+            {
+              "player": "Jack",
+              "score": 8100
+            },
+            {
+              "player": "Rosa",
+              "score": 4800
+            }
+          ]
+        },
+        {
+          "category": "QUOTATIONS",
+          "value": 600,
+          "clue": "Alexander Pope said, \"Blessed is he who expects nothing, for he shall never be\" this",
+          "answer": "disappointed",
+          "isDailyDouble": false,
+          "orderNumber": 23,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mike",
+              "score": 5200
+            },
+            {
+              "player": "Jack",
+              "score": 8700
+            },
+            {
+              "player": "Rosa",
+              "score": 4800
+            }
+          ]
+        },
+        {
+          "category": "QUOTATIONS",
+          "value": 800,
+          "clue": "It's said Martin Luther wrote, \"Who loves not\" these 3 things \"remains a fool his whole life long\"",
+          "answer": "wine, women & song",
+          "isDailyDouble": false,
+          "orderNumber": 24,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Mike",
+              "score": 5200
+            },
+            {
+              "player": "Jack",
+              "score": 8700
+            },
+            {
+              "player": "Rosa",
+              "score": 4800
+            }
+          ]
+        },
+        {
+          "category": "QUOTATIONS",
+          "value": 1000,
+          "clue": "\"'Tis better to have loved and lost, than never to have lost at all\", he wrote in \"The Way of All Flesh\"",
+          "answer": "Samuel Butler",
+          "isDailyDouble": false,
+          "orderNumber": 25,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Mike",
+              "score": 5200
+            },
+            {
+              "player": "Jack",
+              "score": 8700
+            },
+            {
+              "player": "Rosa",
+              "score": 4800
+            }
+          ]
+        },
+        {
+          "category": "PHOTOGRAPHY",
+          "value": 200,
+          "clue": "In 1880 this photography pioneer founded a dry plate company in Rochester",
+          "answer": "(George) Eastman",
+          "isDailyDouble": false,
+          "orderNumber": 26,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mike",
+              "score": 5200
+            },
+            {
+              "player": "Jack",
+              "score": 8900
+            },
+            {
+              "player": "Rosa",
+              "score": 4600
+            }
+          ]
+        },
+        {
+          "category": "PHOTOGRAPHY",
+          "value": 400,
+          "clue": "Color film contains 3 emulsions sensitized to red, blue & this color",
+          "answer": "green",
+          "isDailyDouble": false,
+          "orderNumber": 27,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mike",
+              "score": 5200
+            },
+            {
+              "player": "Jack",
+              "score": 9300
+            },
+            {
+              "player": "Rosa",
+              "score": 4600
+            }
+          ]
+        },
+        {
+          "category": "PHOTOGRAPHY",
+          "value": 600,
+          "clue": "As the aperture gets smaller, this figure gets higher",
+          "answer": "the F-stop",
+          "isDailyDouble": false,
+          "orderNumber": 28,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mike",
+              "score": 5200
+            },
+            {
+              "player": "Jack",
+              "score": 9900
+            },
+            {
+              "player": "Rosa",
+              "score": 4600
+            }
+          ]
+        },
+        {
+          "category": "PHOTOGRAPHY",
+          "value": 500,
+          "clue": "The name of this earliest, crude type of camera is Latin for \"dark chamber\"",
+          "answer": "camera obscura",
+          "isDailyDouble": true,
+          "orderNumber": 29,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mike",
+              "score": 5200
+            },
+            {
+              "player": "Jack",
+              "score": 9400
+            },
+            {
+              "player": "Rosa",
+              "score": 4600
+            }
+          ]
+        },
+        {
+          "category": "PHOTOGRAPHY",
+          "value": 1000,
+          "clue": "In 1930 the first issue of Fortune magazine featured her photographs",
+          "answer": "Margaret Bourke-White",
+          "isDailyDouble": false,
+          "orderNumber": 30,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mike",
+              "score": 5200
+            },
+            {
+              "player": "Jack",
+              "score": 9400
+            },
+            {
+              "player": "Rosa",
+              "score": 5600
+            }
+          ]
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "Mike",
+          "score": 5200
+        },
+        {
+          "player": "Jack",
+          "score": 9400
+        },
+        {
+          "player": "Rosa",
+          "score": 5600
+        }
+      ]
+    },
+    "finalJeopardy": {
+      "category": "AUSTRALIA",
+      "clue": "In the 1800s many dangerous felons were sent here, now Australia's southernmost state",
+      "answer": "Tasmania",
+      "responses": [
+        {
+          "contestant": "Mike",
+          "response": "What is Tasmania",
+          "isCorrect": true,
+          "isIncorrect": false,
+          "value": 0,
+          "finalScore": 5200
+        },
+        {
+          "contestant": "Rosa",
+          "response": "What is Sydney?",
+          "isCorrect": false,
+          "isIncorrect": true,
+          "value": 2000,
+          "finalScore": 3600
+        },
+        {
+          "contestant": "Jack",
+          "response": "What is New South Wales?",
+          "isCorrect": false,
+          "isIncorrect": true,
+          "value": 1800,
+          "finalScore": 7600
+        }
+      ]
+    }
+  },
+  "finalScores": [
+    {
+      "player": "Mike",
+      "score": "$5,200"
+    },
+    {
+      "player": "Jack",
+      "score": "$7,600"
+    },
+    {
+      "player": "Rosa",
+      "score": "$3,600"
+    }
+  ],
+  "coryatScores": [
+    {
+      "player": "Mike",
+      "score": 5200
+    },
+    {
+      "player": "Jack",
+      "score": 9400
+    },
+    {
+      "player": "Rosa",
+      "score": 5600
+    }
+  ]
+}

@@ -1,0 +1,1706 @@
+{
+  "gameId": 60,
+  "showNumber": "4655",
+  "title": "Show #4655 - Friday, November 26, 2004",
+  "date": "2004-11-26",
+  "comments": "Ken Jennings game 73.",
+  "contestants": [
+    "Ken",
+    "Andrew",
+    "Sanda"
+  ],
+  "rounds": {
+    "jeopardy": {
+      "categories": [
+        "THE 50 STATES",
+        "I'M NOT A DOCTOR, BUT I PLAY ONE ON TV",
+        "AWARDS",
+        "NAME THE DECADE",
+        "FRAIDY CAT",
+        "CROSSWORD CLUES \"D\""
+      ],
+      "clues": [
+        {
+          "category": "I'M NOT A DOCTOR, BUT I PLAY ONE ON TV",
+          "value": 200,
+          "clue": "Dr. Benjamin Franklin Pierce",
+          "answer": "Alan Alda",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [
+            "Andrew"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ken",
+              "score": 0
+            },
+            {
+              "player": "Andrew",
+              "score": 200
+            },
+            {
+              "player": "Sanda",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "THE 50 STATES",
+          "value": 200,
+          "clue": "It follows Miami in the name of Florida's most populous county",
+          "answer": "Dade",
+          "isDailyDouble": false,
+          "orderNumber": 2,
+          "correctContestants": [
+            "Ken"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ken",
+              "score": 200
+            },
+            {
+              "player": "Andrew",
+              "score": 200
+            },
+            {
+              "player": "Sanda",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "I'M NOT A DOCTOR, BUT I PLAY ONE ON TV",
+          "value": 400,
+          "clue": "Dr. Michaela Quinn",
+          "answer": "Jane Seymour",
+          "isDailyDouble": false,
+          "orderNumber": 3,
+          "correctContestants": [
+            "Sanda"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ken",
+              "score": 200
+            },
+            {
+              "player": "Andrew",
+              "score": 200
+            },
+            {
+              "player": "Sanda",
+              "score": 400
+            }
+          ]
+        },
+        {
+          "category": "I'M NOT A DOCTOR, BUT I PLAY ONE ON TV",
+          "value": 600,
+          "clue": "Dr. Doogie Howser",
+          "answer": "Neil Patrick Harris",
+          "isDailyDouble": false,
+          "orderNumber": 4,
+          "correctContestants": [
+            "Ken"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ken",
+              "score": 800
+            },
+            {
+              "player": "Andrew",
+              "score": 200
+            },
+            {
+              "player": "Sanda",
+              "score": 400
+            }
+          ]
+        },
+        {
+          "category": "I'M NOT A DOCTOR, BUT I PLAY ONE ON TV",
+          "value": 800,
+          "clue": "Dr. Leonard \"Bones\" McCoy",
+          "answer": "DeForest Kelley",
+          "isDailyDouble": false,
+          "orderNumber": 5,
+          "correctContestants": [
+            "Sanda"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ken",
+              "score": 800
+            },
+            {
+              "player": "Andrew",
+              "score": 200
+            },
+            {
+              "player": "Sanda",
+              "score": 1200
+            }
+          ]
+        },
+        {
+          "category": "I'M NOT A DOCTOR, BUT I PLAY ONE ON TV",
+          "value": 1000,
+          "clue": "Dr. Joe Gannon",
+          "answer": "Chad Everett",
+          "isDailyDouble": false,
+          "orderNumber": 6,
+          "correctContestants": [
+            "Sanda"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ken",
+              "score": 800
+            },
+            {
+              "player": "Andrew",
+              "score": 200
+            },
+            {
+              "player": "Sanda",
+              "score": 2200
+            }
+          ]
+        },
+        {
+          "category": "FRAIDY CAT",
+          "value": 200,
+          "clue": "Suriphobia, fear of these, may set a housewife screaming while standing on a kitchen chair",
+          "answer": "mice",
+          "isDailyDouble": false,
+          "orderNumber": 7,
+          "correctContestants": [
+            "Ken"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ken",
+              "score": 1000
+            },
+            {
+              "player": "Andrew",
+              "score": 200
+            },
+            {
+              "player": "Sanda",
+              "score": 2200
+            }
+          ]
+        },
+        {
+          "category": "FRAIDY CAT",
+          "value": 400,
+          "clue": "Gallophobia is not a fear of wine, but a fear of this country that produces a lot of wine",
+          "answer": "France",
+          "isDailyDouble": false,
+          "orderNumber": 8,
+          "correctContestants": [
+            "Andrew"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ken",
+              "score": 1000
+            },
+            {
+              "player": "Andrew",
+              "score": 600
+            },
+            {
+              "player": "Sanda",
+              "score": 2200
+            }
+          ]
+        },
+        {
+          "category": "FRAIDY CAT",
+          "value": 600,
+          "clue": "\"Erythrophobia is the fear of doing this\", he said, showing some embarrassment",
+          "answer": "blushing",
+          "isDailyDouble": false,
+          "orderNumber": 9,
+          "correctContestants": [
+            "Ken"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ken",
+              "score": 1600
+            },
+            {
+              "player": "Andrew",
+              "score": 600
+            },
+            {
+              "player": "Sanda",
+              "score": 2200
+            }
+          ]
+        },
+        {
+          "category": "FRAIDY CAT",
+          "value": 800,
+          "clue": "Hey dude, surfers aren't cymophobic; they don't fear these, man",
+          "answer": "waves",
+          "isDailyDouble": false,
+          "orderNumber": 10,
+          "correctContestants": [
+            "Ken"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ken",
+              "score": 2400
+            },
+            {
+              "player": "Andrew",
+              "score": 600
+            },
+            {
+              "player": "Sanda",
+              "score": 2200
+            }
+          ]
+        },
+        {
+          "category": "FRAIDY CAT",
+          "value": 2000,
+          "clue": "A person with ornithophobia & apiphobia may avoid a talk on this subject feared by erotophobics",
+          "answer": "the birds and the bees (or sex)",
+          "isDailyDouble": true,
+          "orderNumber": 11,
+          "correctContestants": [
+            "Ken"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ken",
+              "score": 4400
+            },
+            {
+              "player": "Andrew",
+              "score": 600
+            },
+            {
+              "player": "Sanda",
+              "score": 2200
+            }
+          ]
+        },
+        {
+          "category": "THE 50 STATES",
+          "value": 400,
+          "clue": "As you might expect, its state domestic animal is the dairy cow",
+          "answer": "Wisconsin",
+          "isDailyDouble": false,
+          "orderNumber": 12,
+          "correctContestants": [
+            "Ken"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ken",
+              "score": 4800
+            },
+            {
+              "player": "Andrew",
+              "score": 600
+            },
+            {
+              "player": "Sanda",
+              "score": 2200
+            }
+          ]
+        },
+        {
+          "category": "THE 50 STATES",
+          "value": 600,
+          "clue": "The westernmost town in the lower 48 states is La Push in this state",
+          "answer": "Washington",
+          "isDailyDouble": false,
+          "orderNumber": 13,
+          "correctContestants": [
+            "Ken"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ken",
+              "score": 5400
+            },
+            {
+              "player": "Andrew",
+              "score": 600
+            },
+            {
+              "player": "Sanda",
+              "score": 2200
+            }
+          ]
+        },
+        {
+          "category": "THE 50 STATES",
+          "value": 800,
+          "clue": "The highest temperature ever recorded in this state was 117 degrees on July 5, 1985 in St. George",
+          "answer": "Utah",
+          "isDailyDouble": false,
+          "orderNumber": 14,
+          "correctContestants": [
+            "Ken"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ken",
+              "score": 6200
+            },
+            {
+              "player": "Andrew",
+              "score": 600
+            },
+            {
+              "player": "Sanda",
+              "score": 2200
+            }
+          ]
+        },
+        {
+          "category": "THE 50 STATES",
+          "value": 1000,
+          "clue": "This state's Kennebec River meets with its main tributary, the Androscoggin, northeast of Brunswick",
+          "answer": "Maine",
+          "isDailyDouble": false,
+          "orderNumber": 15,
+          "correctContestants": [
+            "Ken"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ken",
+              "score": 7200
+            },
+            {
+              "player": "Andrew",
+              "score": 600
+            },
+            {
+              "player": "Sanda",
+              "score": 2200
+            }
+          ]
+        },
+        {
+          "category": "CROSSWORD CLUES \"D\"",
+          "value": 200,
+          "clue": "Bram Stoker novel you can \"count\" on(7)",
+          "answer": "Dracula",
+          "isDailyDouble": false,
+          "orderNumber": 16,
+          "correctContestants": [
+            "Ken"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ken",
+              "score": 7400
+            },
+            {
+              "player": "Andrew",
+              "score": 600
+            },
+            {
+              "player": "Sanda",
+              "score": 2200
+            }
+          ]
+        },
+        {
+          "category": "CROSSWORD CLUES \"D\"",
+          "value": 400,
+          "clue": "Samson's locks-smith(7)",
+          "answer": "Delilah",
+          "isDailyDouble": false,
+          "orderNumber": 17,
+          "correctContestants": [
+            "Andrew"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ken",
+              "score": 7400
+            },
+            {
+              "player": "Andrew",
+              "score": 1000
+            },
+            {
+              "player": "Sanda",
+              "score": 2200
+            }
+          ]
+        },
+        {
+          "category": "CROSSWORD CLUES \"D\"",
+          "value": 600,
+          "clue": "Greek gelt(8)",
+          "answer": "drachmas",
+          "isDailyDouble": false,
+          "orderNumber": 18,
+          "correctContestants": [
+            "Ken"
+          ],
+          "incorrectContestants": [
+            "Andrew"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ken",
+              "score": 8000
+            },
+            {
+              "player": "Andrew",
+              "score": 400
+            },
+            {
+              "player": "Sanda",
+              "score": 2200
+            }
+          ]
+        },
+        {
+          "category": "CROSSWORD CLUES \"D\"",
+          "value": 800,
+          "clue": "Perry Mason's Street(5)",
+          "answer": "Della",
+          "isDailyDouble": false,
+          "orderNumber": 19,
+          "correctContestants": [
+            "Sanda"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ken",
+              "score": 8000
+            },
+            {
+              "player": "Andrew",
+              "score": 400
+            },
+            {
+              "player": "Sanda",
+              "score": 3000
+            }
+          ]
+        },
+        {
+          "category": "CROSSWORD CLUES \"D\"",
+          "value": 1000,
+          "clue": "\"American Tragedian\" Theodore(7)",
+          "answer": "Dreiser",
+          "isDailyDouble": false,
+          "orderNumber": 20,
+          "correctContestants": [
+            "Ken"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ken",
+              "score": 9000
+            },
+            {
+              "player": "Andrew",
+              "score": 400
+            },
+            {
+              "player": "Sanda",
+              "score": 3000
+            }
+          ]
+        },
+        {
+          "category": "AWARDS",
+          "value": 200,
+          "clue": "Michael Collins, Buzz Aldrin & this man were the first astronauts to receive the Presidential Medal of Freedom",
+          "answer": "Neil Armstrong",
+          "isDailyDouble": false,
+          "orderNumber": 21,
+          "correctContestants": [
+            "Andrew"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ken",
+              "score": 9000
+            },
+            {
+              "player": "Andrew",
+              "score": 600
+            },
+            {
+              "player": "Sanda",
+              "score": 3000
+            }
+          ]
+        },
+        {
+          "category": "NAME THE DECADE",
+          "value": 200,
+          "clue": "Ford Motors goes public, Dr. Seuss pens \"The Cat in the Hat\" & Ronald Reagan weds wife No. 2",
+          "answer": "the 1950s",
+          "isDailyDouble": false,
+          "orderNumber": 22,
+          "correctContestants": [
+            "Ken"
+          ],
+          "incorrectContestants": [
+            "Andrew"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ken",
+              "score": 9200
+            },
+            {
+              "player": "Andrew",
+              "score": 400
+            },
+            {
+              "player": "Sanda",
+              "score": 3000
+            }
+          ]
+        },
+        {
+          "category": "AWARDS",
+          "value": 400,
+          "clue": "In 1912 the Int'l Committee of the Red Cross created a medal for nursing named for this 19th century British woman",
+          "answer": "Florence Nightingale",
+          "isDailyDouble": false,
+          "orderNumber": 23,
+          "correctContestants": [
+            "Andrew"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ken",
+              "score": 9200
+            },
+            {
+              "player": "Andrew",
+              "score": 800
+            },
+            {
+              "player": "Sanda",
+              "score": 3000
+            }
+          ]
+        },
+        {
+          "category": "AWARDS",
+          "value": 600,
+          "clue": "The Thailand edition of this CBS series won a 2003 People's Choice Award for best reality program",
+          "answer": "Survivor",
+          "isDailyDouble": false,
+          "orderNumber": 24,
+          "correctContestants": [
+            "Ken"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ken",
+              "score": 9800
+            },
+            {
+              "player": "Andrew",
+              "score": 800
+            },
+            {
+              "player": "Sanda",
+              "score": 3000
+            }
+          ]
+        },
+        {
+          "category": "AWARDS",
+          "value": 800,
+          "clue": "The Hugo & Nebula awards are presented to writers in this genre",
+          "answer": "science fiction",
+          "isDailyDouble": false,
+          "orderNumber": 25,
+          "correctContestants": [
+            "Andrew"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ken",
+              "score": 9800
+            },
+            {
+              "player": "Andrew",
+              "score": 1600
+            },
+            {
+              "player": "Sanda",
+              "score": 3000
+            }
+          ]
+        },
+        {
+          "category": "AWARDS",
+          "value": 1000,
+          "clue": "In 1965 this U.N. Secretary-General from Asia became the first to win the Nehru Award for Int'l Understanding",
+          "answer": "U Thant",
+          "isDailyDouble": false,
+          "orderNumber": 26,
+          "correctContestants": [
+            "Andrew"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ken",
+              "score": 9800
+            },
+            {
+              "player": "Andrew",
+              "score": 2600
+            },
+            {
+              "player": "Sanda",
+              "score": 3000
+            }
+          ]
+        },
+        {
+          "category": "NAME THE DECADE",
+          "value": 400,
+          "clue": "(Al Franken reads.)  Chernobyl, Iran-Contra & Flock of Seagulls haircuts weren't exactly what I had in mind when I named this decade after me...\"Al Franken\"",
+          "answer": "the 1980s",
+          "isDailyDouble": false,
+          "orderNumber": 27,
+          "correctContestants": [
+            "Ken"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ken",
+              "score": 10200
+            },
+            {
+              "player": "Andrew",
+              "score": 2600
+            },
+            {
+              "player": "Sanda",
+              "score": 3000
+            }
+          ]
+        },
+        {
+          "category": "NAME THE DECADE",
+          "value": 600,
+          "clue": "This decade sees a congressional \"compromise\", the first Lincoln-Douglas debate & the death of Kierkegaard",
+          "answer": "1850s",
+          "isDailyDouble": false,
+          "orderNumber": 28,
+          "correctContestants": [
+            "Ken"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ken",
+              "score": 10800
+            },
+            {
+              "player": "Andrew",
+              "score": 2600
+            },
+            {
+              "player": "Sanda",
+              "score": 3000
+            }
+          ]
+        },
+        {
+          "category": "NAME THE DECADE",
+          "value": 800,
+          "clue": "Edison invents the phonograph, U.S. Grant is re-elected & Bizet writes \"Carmen\"",
+          "answer": "1870s",
+          "isDailyDouble": false,
+          "orderNumber": 29,
+          "correctContestants": [
+            "Ken"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ken",
+              "score": 11600
+            },
+            {
+              "player": "Andrew",
+              "score": 2600
+            },
+            {
+              "player": "Sanda",
+              "score": 3000
+            }
+          ]
+        },
+        {
+          "category": "NAME THE DECADE",
+          "value": 1000,
+          "clue": "Pre-\"The West Wing\", the real Josiah Bartlett governs N.H., John Paul Jones gives up the fight & the Jay Treaty is inked",
+          "answer": "1790s",
+          "isDailyDouble": false,
+          "orderNumber": 30,
+          "correctContestants": [
+            "Ken"
+          ],
+          "incorrectContestants": [
+            "Andrew",
+            "Sanda"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ken",
+              "score": 12600
+            },
+            {
+              "player": "Andrew",
+              "score": 1600
+            },
+            {
+              "player": "Sanda",
+              "score": 2000
+            }
+          ]
+        }
+      ],
+      "firstBreakScores": [
+        {
+          "player": "Ken",
+          "score": 7200
+        },
+        {
+          "player": "Andrew",
+          "score": 600
+        },
+        {
+          "player": "Sanda",
+          "score": 2200
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "Ken",
+          "score": 12600
+        },
+        {
+          "player": "Andrew",
+          "score": 1600
+        },
+        {
+          "player": "Sanda",
+          "score": 2000
+        }
+      ]
+    },
+    "doubleJeopardy": {
+      "categories": [
+        "ART HISTORY",
+        "& JOAN RIVERS RUNS THROUGH IT",
+        "SHAKESPEARE'S SMALL PARTS",
+        "COMMON BONDS",
+        "THE \"K\" TEAM",
+        "MUSICAL IDIOMS"
+      ],
+      "clues": [
+        {
+          "category": "MUSICAL IDIOMS",
+          "value": 400,
+          "clue": "It's the action heard here; someone talking in fantasies is said to be doing it",
+          "answer": "whistling \"Dixie\"",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ken",
+              "score": 13000
+            },
+            {
+              "player": "Andrew",
+              "score": 1600
+            },
+            {
+              "player": "Sanda",
+              "score": 2000
+            }
+          ]
+        },
+        {
+          "category": "SHAKESPEARE'S SMALL PARTS",
+          "value": 400,
+          "clue": "Nym, a minor character, is a follower of this stout fellow in \"The Merry Wives of Windsor\"",
+          "answer": "Falstaff",
+          "isDailyDouble": false,
+          "orderNumber": 2,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ken",
+              "score": 13000
+            },
+            {
+              "player": "Andrew",
+              "score": 2000
+            },
+            {
+              "player": "Sanda",
+              "score": 2000
+            }
+          ]
+        },
+        {
+          "category": "MUSICAL IDIOMS",
+          "value": 2000,
+          "clue": "To \"pay\" him is to bear the consequences of your action",
+          "answer": "the piper",
+          "isDailyDouble": true,
+          "orderNumber": 3,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ken",
+              "score": 13000
+            },
+            {
+              "player": "Andrew",
+              "score": 4000
+            },
+            {
+              "player": "Sanda",
+              "score": 2000
+            }
+          ]
+        },
+        {
+          "category": "SHAKESPEARE'S SMALL PARTS",
+          "value": 800,
+          "clue": "During his brief time on stage, Curtis, this man's aged servant, does get to say \"Shrew\"",
+          "answer": "Petruchio",
+          "isDailyDouble": false,
+          "orderNumber": 4,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ken",
+              "score": 13800
+            },
+            {
+              "player": "Andrew",
+              "score": 4000
+            },
+            {
+              "player": "Sanda",
+              "score": 2000
+            }
+          ]
+        },
+        {
+          "category": "SHAKESPEARE'S SMALL PARTS",
+          "value": 1200,
+          "clue": "Those portraying a Norwegian captain in this play don't have to worry about memorizing a lot of lines",
+          "answer": "Hamlet",
+          "isDailyDouble": false,
+          "orderNumber": 5,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ken",
+              "score": 15000
+            },
+            {
+              "player": "Andrew",
+              "score": 4000
+            },
+            {
+              "player": "Sanda",
+              "score": 2000
+            }
+          ]
+        },
+        {
+          "category": "SHAKESPEARE'S SMALL PARTS",
+          "value": 1600,
+          "clue": "In this fairy tale, Snug doesn't get the lion's share of lines, but he does get the lion's lines",
+          "answer": "A Midsummer Night's Dream",
+          "isDailyDouble": false,
+          "orderNumber": 6,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ken",
+              "score": 16600
+            },
+            {
+              "player": "Andrew",
+              "score": 4000
+            },
+            {
+              "player": "Sanda",
+              "score": 2000
+            }
+          ]
+        },
+        {
+          "category": "SHAKESPEARE'S SMALL PARTS",
+          "value": 2000,
+          "clue": "In Act V, Scene ii Dr. Butts shows up for a couple of lines with Cranmer & this title king",
+          "answer": "Henry VIII",
+          "isDailyDouble": false,
+          "orderNumber": 7,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ken",
+              "score": 18600
+            },
+            {
+              "player": "Andrew",
+              "score": 4000
+            },
+            {
+              "player": "Sanda",
+              "score": 2000
+            }
+          ]
+        },
+        {
+          "category": "ART HISTORY",
+          "value": 400,
+          "clue": "6th century B.C. Greece must have been a happy place, as this facial expression is characteristic of its sculpture",
+          "answer": "a smile",
+          "isDailyDouble": false,
+          "orderNumber": 8,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ken",
+              "score": 19000
+            },
+            {
+              "player": "Andrew",
+              "score": 4000
+            },
+            {
+              "player": "Sanda",
+              "score": 2000
+            }
+          ]
+        },
+        {
+          "category": "ART HISTORY",
+          "value": 800,
+          "clue": "Carlo Carlone's team painted these, originally an Italian term, on palace & church walls across Europe",
+          "answer": "frescoes",
+          "isDailyDouble": false,
+          "orderNumber": 9,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ken",
+              "score": 19000
+            },
+            {
+              "player": "Andrew",
+              "score": 4000
+            },
+            {
+              "player": "Sanda",
+              "score": 2800
+            }
+          ]
+        },
+        {
+          "category": "ART HISTORY",
+          "value": 1200,
+          "clue": "The frolicsome painting seen here dates from this century",
+          "answer": "the 18th",
+          "isDailyDouble": false,
+          "orderNumber": 10,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ken",
+              "score": 20200
+            },
+            {
+              "player": "Andrew",
+              "score": 4000
+            },
+            {
+              "player": "Sanda",
+              "score": 2800
+            }
+          ]
+        },
+        {
+          "category": "ART HISTORY",
+          "value": 9800,
+          "clue": "The analytic type of this style broke the world into fragments; the synthetic type put it together",
+          "answer": "Cubism",
+          "isDailyDouble": true,
+          "orderNumber": 11,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ken",
+              "score": 30000
+            },
+            {
+              "player": "Andrew",
+              "score": 4000
+            },
+            {
+              "player": "Sanda",
+              "score": 2800
+            }
+          ]
+        },
+        {
+          "category": "ART HISTORY",
+          "value": 2000,
+          "clue": "Georges de la Tour mastered candlelight in the type of painting called this, also a musical term",
+          "answer": "Nocturne",
+          "isDailyDouble": false,
+          "orderNumber": 12,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ken",
+              "score": 32000
+            },
+            {
+              "player": "Andrew",
+              "score": 4000
+            },
+            {
+              "player": "Sanda",
+              "score": 2800
+            }
+          ]
+        },
+        {
+          "category": "COMMON BONDS",
+          "value": 400,
+          "clue": "Scope,Lavoris,Listerine",
+          "answer": "brands of mouthwash",
+          "isDailyDouble": false,
+          "orderNumber": 13,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ken",
+              "score": 32400
+            },
+            {
+              "player": "Andrew",
+              "score": 4000
+            },
+            {
+              "player": "Sanda",
+              "score": 2800
+            }
+          ]
+        },
+        {
+          "category": "COMMON BONDS",
+          "value": 800,
+          "clue": "Coral,krait,moccasin",
+          "answer": "snakes",
+          "isDailyDouble": false,
+          "orderNumber": 14,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ken",
+              "score": 32400
+            },
+            {
+              "player": "Andrew",
+              "score": 4000
+            },
+            {
+              "player": "Sanda",
+              "score": 3600
+            }
+          ]
+        },
+        {
+          "category": "COMMON BONDS",
+          "value": 1200,
+          "clue": "Quicksilver Messenger Service,Hues Corporation,Big Brother and the Holding Company",
+          "answer": "rock bands",
+          "isDailyDouble": false,
+          "orderNumber": 15,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ken",
+              "score": 33600
+            },
+            {
+              "player": "Andrew",
+              "score": 4000
+            },
+            {
+              "player": "Sanda",
+              "score": 3600
+            }
+          ]
+        },
+        {
+          "category": "COMMON BONDS",
+          "value": 1600,
+          "clue": "Movies,prospective employees,back doors",
+          "answer": "things that are screened",
+          "isDailyDouble": false,
+          "orderNumber": 16,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Ken",
+              "score": 32000
+            },
+            {
+              "player": "Andrew",
+              "score": 4000
+            },
+            {
+              "player": "Sanda",
+              "score": 3600
+            }
+          ]
+        },
+        {
+          "category": "COMMON BONDS",
+          "value": 2000,
+          "clue": "The Rhine Valley,a chessboard,Vernon & Irene's Dance School",
+          "answer": "things with castles",
+          "isDailyDouble": false,
+          "orderNumber": 17,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ken",
+              "score": 34000
+            },
+            {
+              "player": "Andrew",
+              "score": 4000
+            },
+            {
+              "player": "Sanda",
+              "score": 3600
+            }
+          ]
+        },
+        {
+          "category": "THE \"K\" TEAM",
+          "value": 400,
+          "clue": "He also said, \"Ask not what America will do for you, but what together we can do for the freedom of man\"",
+          "answer": "John F. Kennedy",
+          "isDailyDouble": false,
+          "orderNumber": 18,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ken",
+              "score": 34400
+            },
+            {
+              "player": "Andrew",
+              "score": 4000
+            },
+            {
+              "player": "Sanda",
+              "score": 3600
+            }
+          ]
+        },
+        {
+          "category": "THE \"K\" TEAM",
+          "value": 800,
+          "clue": "On Oct. 6, 1951, this magnate died in Battle Creek, Michigan",
+          "answer": "Kellogg",
+          "isDailyDouble": false,
+          "orderNumber": 19,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ken",
+              "score": 34400
+            },
+            {
+              "player": "Andrew",
+              "score": 4000
+            },
+            {
+              "player": "Sanda",
+              "score": 4400
+            }
+          ]
+        },
+        {
+          "category": "THE \"K\" TEAM",
+          "value": 1200,
+          "clue": "On August 10, 1996 Bob Dole picked this man to be his running mate",
+          "answer": "Jack Kemp",
+          "isDailyDouble": false,
+          "orderNumber": 20,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ken",
+              "score": 35600
+            },
+            {
+              "player": "Andrew",
+              "score": 4000
+            },
+            {
+              "player": "Sanda",
+              "score": 4400
+            }
+          ]
+        },
+        {
+          "category": "THE \"K\" TEAM",
+          "value": 1600,
+          "clue": "This playwright's \"Man Who Came to Dinner\" character Sheridan Whiteside was such a plum role he even played it himself",
+          "answer": "George S. Kaufman",
+          "isDailyDouble": false,
+          "orderNumber": 21,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Ken",
+              "score": 34000
+            },
+            {
+              "player": "Andrew",
+              "score": 4000
+            },
+            {
+              "player": "Sanda",
+              "score": 4400
+            }
+          ]
+        },
+        {
+          "category": "THE \"K\" TEAM",
+          "value": 2000,
+          "clue": "Anita O'Day & June Christy were singers for this man's 1940s big band",
+          "answer": "Stan Kenton",
+          "isDailyDouble": false,
+          "orderNumber": 22,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Ken",
+              "score": 34000
+            },
+            {
+              "player": "Andrew",
+              "score": 4000
+            },
+            {
+              "player": "Sanda",
+              "score": 2400
+            }
+          ]
+        },
+        {
+          "category": "MUSICAL IDIOMS",
+          "value": 1200,
+          "clue": "This expression for what's being done here is found in Psalm 9\"You are magnificent, you're marvelous, you're triumphant, and you're grand...\"",
+          "answer": "singing his praises",
+          "isDailyDouble": false,
+          "orderNumber": 23,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ken",
+              "score": 34000
+            },
+            {
+              "player": "Andrew",
+              "score": 4000
+            },
+            {
+              "player": "Sanda",
+              "score": 3600
+            }
+          ]
+        },
+        {
+          "category": "MUSICAL IDIOMS",
+          "value": 1600,
+          "clue": "This 2-word phrase can mean a counterfeit bill or, when you \"strike\" it, a mistake in tone",
+          "answer": "a false note",
+          "isDailyDouble": false,
+          "orderNumber": 24,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ken",
+              "score": 35600
+            },
+            {
+              "player": "Andrew",
+              "score": 4000
+            },
+            {
+              "player": "Sanda",
+              "score": 3600
+            }
+          ]
+        },
+        {
+          "category": "MUSICAL IDIOMS",
+          "value": 2000,
+          "clue": "This 2-word part of the piano is also a verb meaning to downplay something harsh or upsetting",
+          "answer": "soft-pedal",
+          "isDailyDouble": false,
+          "orderNumber": 25,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ken",
+              "score": 35600
+            },
+            {
+              "player": "Andrew",
+              "score": 6000
+            },
+            {
+              "player": "Sanda",
+              "score": 1600
+            }
+          ]
+        },
+        {
+          "category": "& JOAN RIVERS RUNS THROUGH IT",
+          "value": 400,
+          "clue": "Since 1986 when Joan left \"The Tonight Show\", this host has reportedly said \"No\" when asked \"Can we talk?\"",
+          "answer": "Johnny Carson",
+          "isDailyDouble": false,
+          "orderNumber": 26,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ken",
+              "score": 35200
+            },
+            {
+              "player": "Andrew",
+              "score": 6000
+            },
+            {
+              "player": "Sanda",
+              "score": 2000
+            }
+          ]
+        },
+        {
+          "category": "& JOAN RIVERS RUNS THROUGH IT",
+          "value": 800,
+          "clue": "Ms. R was Miss Piggy's coworker (we can only imagine the office dish) when the Muppets took this title place in '84",
+          "answer": "Manhattan",
+          "isDailyDouble": false,
+          "orderNumber": 27,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ken",
+              "score": 36000
+            },
+            {
+              "player": "Andrew",
+              "score": 6000
+            },
+            {
+              "player": "Sanda",
+              "score": 2000
+            }
+          ]
+        },
+        {
+          "category": "& JOAN RIVERS RUNS THROUGH IT",
+          "value": 1200,
+          "clue": "Joan voiced Julie, Bruce Willis' new baby sister, in this 1989 comedy",
+          "answer": "Look Who's Talking",
+          "isDailyDouble": false,
+          "orderNumber": 28,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ken",
+              "score": 37200
+            },
+            {
+              "player": "Andrew",
+              "score": 6000
+            },
+            {
+              "player": "Sanda",
+              "score": 2000
+            }
+          ]
+        },
+        {
+          "category": "& JOAN RIVERS RUNS THROUGH IT",
+          "value": 1600,
+          "clue": "Joan gave a robotic performance as Dot Matrix in this Mel Brooks \"Star Wars\" spoof",
+          "answer": "Spaceballs",
+          "isDailyDouble": false,
+          "orderNumber": 29,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ken",
+              "score": 38800
+            },
+            {
+              "player": "Andrew",
+              "score": 6000
+            },
+            {
+              "player": "Sanda",
+              "score": 2000
+            }
+          ]
+        },
+        {
+          "category": "& JOAN RIVERS RUNS THROUGH IT",
+          "value": 2000,
+          "clue": "Joan narrated The Electric Co.'s \"Adventures of Letterman\" starring him, though it wasn't in Wonka Vision",
+          "answer": "Gene Wilder",
+          "isDailyDouble": false,
+          "orderNumber": 30,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ken",
+              "score": 40800
+            },
+            {
+              "player": "Andrew",
+              "score": 6000
+            },
+            {
+              "player": "Sanda",
+              "score": 2000
+            }
+          ]
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "Ken",
+          "score": 40800
+        },
+        {
+          "player": "Andrew",
+          "score": 6000
+        },
+        {
+          "player": "Sanda",
+          "score": 2000
+        }
+      ]
+    },
+    "finalJeopardy": {
+      "category": "19th CENTURY U.S. HISTORY",
+      "clue": "Of the 5 times Congress has declared war, the 3 during the 19th century were against these 3 nations",
+      "answer": "Britain, Spain & Mexico",
+      "responses": [
+        {
+          "contestant": "Sanda",
+          "response": "What Germany Austria England",
+          "isCorrect": false,
+          "isIncorrect": true,
+          "value": 19,
+          "finalScore": 1981
+        },
+        {
+          "contestant": "Andrew",
+          "response": "What are Britain Spain and Mexico",
+          "isCorrect": true,
+          "isIncorrect": false,
+          "value": 7,
+          "finalScore": 6007
+        },
+        {
+          "contestant": "Ken",
+          "response": "What are Spain, Mexico, and the UK CSA?",
+          "isCorrect": false,
+          "isIncorrect": true,
+          "value": 9200,
+          "finalScore": 31600
+        }
+      ]
+    }
+  },
+  "finalScores": [
+    {
+      "player": "Ken",
+      "score": "$31,600"
+    },
+    {
+      "player": "Andrew",
+      "score": "$6,007"
+    },
+    {
+      "player": "Sanda",
+      "score": "$1,981"
+    }
+  ],
+  "coryatScores": [
+    {
+      "player": "Ken",
+      "score": 31600
+    },
+    {
+      "player": "Andrew",
+      "score": 4800
+    },
+    {
+      "player": "Sanda",
+      "score": 2000
+    }
+  ]
+}

@@ -1,0 +1,1697 @@
+{
+  "gameId": 7638,
+  "showNumber": "512",
+  "title": "Show #512 - Tuesday, November 25, 1986",
+  "date": "1986-11-25",
+  "comments": "",
+  "contestants": [
+    "Linda",
+    "Craig",
+    "Sally"
+  ],
+  "rounds": {
+    "jeopardy": {
+      "categories": [
+        "SCIENCE",
+        "FOLK DANCES",
+        "THEATRE",
+        "AUSTRALIA",
+        "FAMOUS HORSES",
+        "STICKY STUFF"
+      ],
+      "clues": [
+        {
+          "category": "FAMOUS HORSES",
+          "value": 100,
+          "clue": "Their army built the Trojan Horse",
+          "answer": "the Greeks",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [
+            "Craig"
+          ],
+          "incorrectContestants": [
+            "Sally"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Linda",
+              "score": 0
+            },
+            {
+              "player": "Craig",
+              "score": 100
+            },
+            {
+              "player": "Sally",
+              "score": -100
+            }
+          ]
+        },
+        {
+          "category": "THEATRE",
+          "value": 100,
+          "clue": "Yes, kabuki is a popular version of this traditional Japanese theater",
+          "answer": "noh theater",
+          "isDailyDouble": false,
+          "orderNumber": 2,
+          "correctContestants": [
+            "Craig"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Linda",
+              "score": 0
+            },
+            {
+              "player": "Craig",
+              "score": 200
+            },
+            {
+              "player": "Sally",
+              "score": -100
+            }
+          ]
+        },
+        {
+          "category": "THEATRE",
+          "value": 200,
+          "clue": "Name for this type of entertainment came from the \"vau de vire\", valley of Vire, in Normandy",
+          "answer": "vaudeville",
+          "isDailyDouble": false,
+          "orderNumber": 3,
+          "correctContestants": [
+            "Linda"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Linda",
+              "score": 200
+            },
+            {
+              "player": "Craig",
+              "score": 200
+            },
+            {
+              "player": "Sally",
+              "score": -100
+            }
+          ]
+        },
+        {
+          "category": "FAMOUS HORSES",
+          "value": 200,
+          "clue": "This 1877 best seller, Anna Sewell's only book, protested cruelty to horses",
+          "answer": "Black Beauty",
+          "isDailyDouble": false,
+          "orderNumber": 4,
+          "correctContestants": [
+            "Sally"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Linda",
+              "score": 200
+            },
+            {
+              "player": "Craig",
+              "score": 200
+            },
+            {
+              "player": "Sally",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "category": "THEATRE",
+          "value": 300,
+          "clue": "As Broadway is to New York, the West End is to this major city",
+          "answer": "London",
+          "isDailyDouble": false,
+          "orderNumber": 5,
+          "correctContestants": [
+            "Craig"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Linda",
+              "score": 200
+            },
+            {
+              "player": "Craig",
+              "score": 500
+            },
+            {
+              "player": "Sally",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "category": "THEATRE",
+          "value": 400,
+          "clue": "This group's act is advertised as \"juggling & cheap theatrics\"",
+          "answer": "the Flying Karamazov Brothers",
+          "isDailyDouble": false,
+          "orderNumber": 6,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Linda",
+              "score": 200
+            },
+            {
+              "player": "Craig",
+              "score": 500
+            },
+            {
+              "player": "Sally",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "category": "THEATRE",
+          "value": 500,
+          "clue": "In 1986, these 2 plays by Neil Simon, one a sequel to the other, were both playing on Broadway",
+          "answer": "Brighton Beach Memoirs & Biloxi Blues",
+          "isDailyDouble": false,
+          "orderNumber": 7,
+          "correctContestants": [
+            "Sally"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Linda",
+              "score": 200
+            },
+            {
+              "player": "Craig",
+              "score": 500
+            },
+            {
+              "player": "Sally",
+              "score": 600
+            }
+          ]
+        },
+        {
+          "category": "FOLK DANCES",
+          "value": 100,
+          "clue": "Country whose folk dances include clogs, hornpipes & jigs",
+          "answer": "Ireland",
+          "isDailyDouble": false,
+          "orderNumber": 8,
+          "correctContestants": [
+            "Linda"
+          ],
+          "incorrectContestants": [
+            "Craig"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Linda",
+              "score": 300
+            },
+            {
+              "player": "Craig",
+              "score": 400
+            },
+            {
+              "player": "Sally",
+              "score": 600
+            }
+          ]
+        },
+        {
+          "category": "FAMOUS HORSES",
+          "value": 300,
+          "clue": "Altair, Antares, Rigel & Aldebaran were the 4 who pulled him to victory",
+          "answer": "Ben-Hur",
+          "isDailyDouble": false,
+          "orderNumber": 9,
+          "correctContestants": [
+            "Craig"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Linda",
+              "score": 300
+            },
+            {
+              "player": "Craig",
+              "score": 700
+            },
+            {
+              "player": "Sally",
+              "score": 600
+            }
+          ]
+        },
+        {
+          "category": "SCIENCE",
+          "value": 100,
+          "clue": "Isopropyl, wood & ethyl",
+          "answer": "alcohols",
+          "isDailyDouble": false,
+          "orderNumber": 10,
+          "correctContestants": [
+            "Sally"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Linda",
+              "score": 300
+            },
+            {
+              "player": "Craig",
+              "score": 700
+            },
+            {
+              "player": "Sally",
+              "score": 700
+            }
+          ]
+        },
+        {
+          "category": "AUSTRALIA",
+          "value": 100,
+          "clue": "The name \"Australia\" comes from a Latin word meaning this compass direction",
+          "answer": "south",
+          "isDailyDouble": false,
+          "orderNumber": 11,
+          "correctContestants": [
+            "Sally"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Linda",
+              "score": 300
+            },
+            {
+              "player": "Craig",
+              "score": 700
+            },
+            {
+              "player": "Sally",
+              "score": 800
+            }
+          ]
+        },
+        {
+          "category": "AUSTRALIA",
+          "value": 200,
+          "clue": "Of whites, Aborigines, or kangaroos, the one of which Australia has the most",
+          "answer": "kangaroos",
+          "isDailyDouble": false,
+          "orderNumber": 12,
+          "correctContestants": [
+            "Craig"
+          ],
+          "incorrectContestants": [
+            "Sally"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Linda",
+              "score": 300
+            },
+            {
+              "player": "Craig",
+              "score": 900
+            },
+            {
+              "player": "Sally",
+              "score": 600
+            }
+          ]
+        },
+        {
+          "category": "STICKY STUFF",
+          "value": 100,
+          "clue": "Production of this candy is a major pull for tourists in Atlantic City",
+          "answer": "(salt water) taffy",
+          "isDailyDouble": false,
+          "orderNumber": 13,
+          "correctContestants": [
+            "Linda"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Linda",
+              "score": 400
+            },
+            {
+              "player": "Craig",
+              "score": 900
+            },
+            {
+              "player": "Sally",
+              "score": 600
+            }
+          ]
+        },
+        {
+          "category": "STICKY STUFF",
+          "value": 200,
+          "clue": "It's where \"they check in, but they don't check out\"",
+          "answer": "a Roach Motel",
+          "isDailyDouble": false,
+          "orderNumber": 14,
+          "correctContestants": [
+            "Linda"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Linda",
+              "score": 600
+            },
+            {
+              "player": "Craig",
+              "score": 900
+            },
+            {
+              "player": "Sally",
+              "score": 600
+            }
+          ]
+        },
+        {
+          "category": "STICKY STUFF",
+          "value": 300,
+          "clue": "Br'er Babbit found himself stuck on this Uncle Remus character",
+          "answer": "the Tar-Baby",
+          "isDailyDouble": false,
+          "orderNumber": 15,
+          "correctContestants": [
+            "Craig"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Linda",
+              "score": 600
+            },
+            {
+              "player": "Craig",
+              "score": 1200
+            },
+            {
+              "player": "Sally",
+              "score": 600
+            }
+          ]
+        },
+        {
+          "category": "SCIENCE",
+          "value": 200,
+          "clue": "In 1633, the Inquisition forced him to recant his belief that Earth revolves around the Sun",
+          "answer": "Galileo",
+          "isDailyDouble": false,
+          "orderNumber": 16,
+          "correctContestants": [
+            "Sally"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Linda",
+              "score": 600
+            },
+            {
+              "player": "Craig",
+              "score": 1200
+            },
+            {
+              "player": "Sally",
+              "score": 800
+            }
+          ]
+        },
+        {
+          "category": "FOLK DANCES",
+          "value": 200,
+          "clue": "It's the only type of dancing to feature a caller",
+          "answer": "square dancing",
+          "isDailyDouble": false,
+          "orderNumber": 17,
+          "correctContestants": [
+            "Linda"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Linda",
+              "score": 800
+            },
+            {
+              "player": "Craig",
+              "score": 1200
+            },
+            {
+              "player": "Sally",
+              "score": 800
+            }
+          ]
+        },
+        {
+          "category": "FAMOUS HORSES",
+          "value": 400,
+          "clue": "In chemical terms, this horse of Ichabod Crane would be called \"potassium nitrate, sulfur & charcoal\"",
+          "answer": "Gunpowder",
+          "isDailyDouble": false,
+          "orderNumber": 18,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Linda",
+              "score": 800
+            },
+            {
+              "player": "Craig",
+              "score": 1200
+            },
+            {
+              "player": "Sally",
+              "score": 800
+            }
+          ]
+        },
+        {
+          "category": "STICKY STUFF",
+          "value": 400,
+          "clue": "Colonial America's \"triangle trade\" was composed of slaves, rum, & this sticky liquid",
+          "answer": "molasses",
+          "isDailyDouble": false,
+          "orderNumber": 19,
+          "correctContestants": [
+            "Sally"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Linda",
+              "score": 800
+            },
+            {
+              "player": "Craig",
+              "score": 1200
+            },
+            {
+              "player": "Sally",
+              "score": 1200
+            }
+          ]
+        },
+        {
+          "category": "FOLK DANCES",
+          "value": 300,
+          "clue": "Country known for both rum & the rumba",
+          "answer": "Cuba",
+          "isDailyDouble": false,
+          "orderNumber": 20,
+          "correctContestants": [
+            "Sally"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Linda",
+              "score": 800
+            },
+            {
+              "player": "Craig",
+              "score": 1200
+            },
+            {
+              "player": "Sally",
+              "score": 1500
+            }
+          ]
+        },
+        {
+          "category": "FOLK DANCES",
+          "value": 400,
+          "clue": "A variation of the Scottish sword dance is this famous dance of hops & kicks",
+          "answer": "the Highland Fling",
+          "isDailyDouble": false,
+          "orderNumber": 21,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Linda",
+              "score": 800
+            },
+            {
+              "player": "Craig",
+              "score": 1200
+            },
+            {
+              "player": "Sally",
+              "score": 1500
+            }
+          ]
+        },
+        {
+          "category": "FOLK DANCES",
+          "value": 500,
+          "clue": "Cossack step in which men squat & kick their legs out originated in this part of the U.S.S.R.",
+          "answer": "the Ukraine",
+          "isDailyDouble": false,
+          "orderNumber": 22,
+          "correctContestants": [
+            "Sally"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Linda",
+              "score": 800
+            },
+            {
+              "player": "Craig",
+              "score": 1200
+            },
+            {
+              "player": "Sally",
+              "score": 2000
+            }
+          ]
+        },
+        {
+          "category": "AUSTRALIA",
+          "value": 300,
+          "clue": "Because Britain could no longer send them to America, they were sent to Australia",
+          "answer": "criminals (convicts)",
+          "isDailyDouble": false,
+          "orderNumber": 23,
+          "correctContestants": [
+            "Craig"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Linda",
+              "score": 800
+            },
+            {
+              "player": "Craig",
+              "score": 1500
+            },
+            {
+              "player": "Sally",
+              "score": 2000
+            }
+          ]
+        },
+        {
+          "category": "AUSTRALIA",
+          "value": 400,
+          "clue": "Name of this animal comes from Aboriginal word meaning \"no drink\", as they rarely do",
+          "answer": "koala",
+          "isDailyDouble": false,
+          "orderNumber": 24,
+          "correctContestants": [
+            "Craig"
+          ],
+          "incorrectContestants": [
+            "Sally"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Linda",
+              "score": 800
+            },
+            {
+              "player": "Craig",
+              "score": 1900
+            },
+            {
+              "player": "Sally",
+              "score": 1600
+            }
+          ]
+        },
+        {
+          "category": "AUSTRALIA",
+          "value": 500,
+          "clue": "Though he was never in Australia, its highest peak is named for this Polish patriot",
+          "answer": "Mount Kosciuszko",
+          "isDailyDouble": false,
+          "orderNumber": 25,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Linda",
+              "score": 800
+            },
+            {
+              "player": "Craig",
+              "score": 1900
+            },
+            {
+              "player": "Sally",
+              "score": 1600
+            }
+          ]
+        },
+        {
+          "category": "STICKY STUFF",
+          "value": 500,
+          "clue": "From late Latin for \"musty juice\", this glue is obtained from the seed coats of certain plants",
+          "answer": "mucilage",
+          "isDailyDouble": false,
+          "orderNumber": 26,
+          "correctContestants": [
+            "Sally"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Linda",
+              "score": 800
+            },
+            {
+              "player": "Craig",
+              "score": 1900
+            },
+            {
+              "player": "Sally",
+              "score": 2100
+            }
+          ]
+        },
+        {
+          "category": "FAMOUS HORSES",
+          "value": 500,
+          "clue": "2 of the 3 thoroughbreds that won the triple crown in the '70s",
+          "answer": "(2 of) Seattle Slew & Affirmed (or Secretariat)",
+          "isDailyDouble": false,
+          "orderNumber": 27,
+          "correctContestants": [
+            "Linda"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Linda",
+              "score": 1300
+            },
+            {
+              "player": "Craig",
+              "score": 1900
+            },
+            {
+              "player": "Sally",
+              "score": 2100
+            }
+          ]
+        },
+        {
+          "category": "SCIENCE",
+          "value": 300,
+          "clue": "Dripstone columns hanging down from the ceilings of caves are called this",
+          "answer": "stalactites",
+          "isDailyDouble": false,
+          "orderNumber": 28,
+          "correctContestants": [
+            "Craig"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Linda",
+              "score": 1300
+            },
+            {
+              "player": "Craig",
+              "score": 2200
+            },
+            {
+              "player": "Sally",
+              "score": 2100
+            }
+          ]
+        },
+        {
+          "category": "SCIENCE",
+          "value": 400,
+          "clue": "As a class, this type of chordate has the best eyesight by far",
+          "answer": "birds",
+          "isDailyDouble": false,
+          "orderNumber": 29,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Linda",
+              "score": 1300
+            },
+            {
+              "player": "Craig",
+              "score": 2200
+            },
+            {
+              "player": "Sally",
+              "score": 2100
+            }
+          ]
+        },
+        {
+          "category": "SCIENCE",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Linda",
+              "score": 1300
+            },
+            {
+              "player": "Craig",
+              "score": 2200
+            },
+            {
+              "player": "Sally",
+              "score": 2100
+            }
+          ]
+        }
+      ],
+      "firstBreakScores": [
+        {
+          "player": "Linda",
+          "score": 400
+        },
+        {
+          "player": "Craig",
+          "score": 900
+        },
+        {
+          "player": "Sally",
+          "score": 600
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "Linda",
+          "score": 1300
+        },
+        {
+          "player": "Craig",
+          "score": 2200
+        },
+        {
+          "player": "Sally",
+          "score": 2100
+        }
+      ]
+    },
+    "doubleJeopardy": {
+      "categories": [
+        "THE '50s",
+        "NEWSCASTERS",
+        "STARTS WITH \"P\"",
+        "KING ARTHUR",
+        "OPERA",
+        "TRUCKS"
+      ],
+      "clues": [
+        {
+          "category": "THE '50s",
+          "value": 200,
+          "clue": "The \"empire\",the \"sack\" &the \"chemise\"",
+          "answer": "types of dresses",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Linda",
+              "score": 1300
+            },
+            {
+              "player": "Craig",
+              "score": 2200
+            },
+            {
+              "player": "Sally",
+              "score": 2300
+            }
+          ]
+        },
+        {
+          "category": "KING ARTHUR",
+          "value": 200,
+          "clue": "Glastonbury, England, called \"Insula Avalonia\" by the Romans, is said to be this Arthurian isle",
+          "answer": "Avalon",
+          "isDailyDouble": false,
+          "orderNumber": 2,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Linda",
+              "score": 1300
+            },
+            {
+              "player": "Craig",
+              "score": 2200
+            },
+            {
+              "player": "Sally",
+              "score": 2500
+            }
+          ]
+        },
+        {
+          "category": "KING ARTHUR",
+          "value": 400,
+          "clue": "Winchester Castle claims it has the real one, but don't try to sit at it: it's hanging on the wall",
+          "answer": "the Round Table",
+          "isDailyDouble": false,
+          "orderNumber": 3,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Linda",
+              "score": 1700
+            },
+            {
+              "player": "Craig",
+              "score": 2200
+            },
+            {
+              "player": "Sally",
+              "score": 2500
+            }
+          ]
+        },
+        {
+          "category": "THE '50s",
+          "value": 400,
+          "clue": "In 1952, Egypt's King Farouk was overthrown by officers led by Gen. Naguib & this lt. colonel",
+          "answer": "(Gamal Abdel) Nasser",
+          "isDailyDouble": false,
+          "orderNumber": 4,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Linda",
+              "score": 1700
+            },
+            {
+              "player": "Craig",
+              "score": 2600
+            },
+            {
+              "player": "Sally",
+              "score": 2500
+            }
+          ]
+        },
+        {
+          "category": "THE '50s",
+          "value": 1400,
+          "clue": "Before playing Pete Nolan on TV's \"Rawhide\", he had a major hit with this:\"Well I saw the thing comin' out of the sky / It had the one long horn, and one big eye / I commenced to shakin' and I said \"Ooh-eee\" / It looks like a purple people eater to me / It was a one-eyed, one-horned, flyin' purple people eater / (One-eyed, one-horned...\"",
+          "answer": "Sheb Wooley",
+          "isDailyDouble": true,
+          "orderNumber": 5,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Linda",
+              "score": 1700
+            },
+            {
+              "player": "Craig",
+              "score": 1200
+            },
+            {
+              "player": "Sally",
+              "score": 2500
+            }
+          ]
+        },
+        {
+          "category": "THE '50s",
+          "value": 800,
+          "clue": "Though never elected, he served as president of Indonesia all through the decade",
+          "answer": "Sukarno",
+          "isDailyDouble": false,
+          "orderNumber": 6,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Linda",
+              "score": 1700
+            },
+            {
+              "player": "Craig",
+              "score": 1200
+            },
+            {
+              "player": "Sally",
+              "score": 2500
+            }
+          ]
+        },
+        {
+          "category": "THE '50s",
+          "value": 1000,
+          "clue": "A prosecuting attorney in the Rosenberg case, he later assisted Sen. Joe McCarthy",
+          "answer": "Roy Cohn",
+          "isDailyDouble": false,
+          "orderNumber": 7,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Sally"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Linda",
+              "score": 2700
+            },
+            {
+              "player": "Craig",
+              "score": 200
+            },
+            {
+              "player": "Sally",
+              "score": 1500
+            }
+          ]
+        },
+        {
+          "category": "NEWSCASTERS",
+          "value": 200,
+          "clue": "Though they traded goodnights on NBC thru the '60s, neither ever offered to get the lights",
+          "answer": "Huntley & Brinkley",
+          "isDailyDouble": false,
+          "orderNumber": 8,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Linda",
+              "score": 2700
+            },
+            {
+              "player": "Craig",
+              "score": 200
+            },
+            {
+              "player": "Sally",
+              "score": 1700
+            }
+          ]
+        },
+        {
+          "category": "KING ARTHUR",
+          "value": 600,
+          "clue": "Sometimes known as \"Caliburn\", the Lady of the Lake got it back from Sir Bedivere",
+          "answer": "Excalibur",
+          "isDailyDouble": false,
+          "orderNumber": 9,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Linda",
+              "score": 3300
+            },
+            {
+              "player": "Craig",
+              "score": 200
+            },
+            {
+              "player": "Sally",
+              "score": 1700
+            }
+          ]
+        },
+        {
+          "category": "NEWSCASTERS",
+          "value": 400,
+          "clue": "In April,1955, he went \"Person to Person\" with Marilyn Monroe",
+          "answer": "Edward R. Murrow",
+          "isDailyDouble": false,
+          "orderNumber": 10,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Linda",
+              "score": 3300
+            },
+            {
+              "player": "Craig",
+              "score": 200
+            },
+            {
+              "player": "Sally",
+              "score": 2100
+            }
+          ]
+        },
+        {
+          "category": "KING ARTHUR",
+          "value": 800,
+          "clue": "Joseph of Arimathea's last descendant & Lancelot's illegitimate son, he found the Holy Grail",
+          "answer": "Sir Galahad",
+          "isDailyDouble": false,
+          "orderNumber": 11,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Linda",
+              "score": 3300
+            },
+            {
+              "player": "Craig",
+              "score": -600
+            },
+            {
+              "player": "Sally",
+              "score": 2900
+            }
+          ]
+        },
+        {
+          "category": "KING ARTHUR",
+          "value": 1000,
+          "clue": "15th c. knight who fought under King Henry, it's said he wrote \"Le Morte d'Arthur\" in Newgate Prison",
+          "answer": "(Sir Thomas) Malory",
+          "isDailyDouble": false,
+          "orderNumber": 12,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Linda",
+              "score": 3300
+            },
+            {
+              "player": "Craig",
+              "score": -600
+            },
+            {
+              "player": "Sally",
+              "score": 3900
+            }
+          ]
+        },
+        {
+          "category": "OPERA",
+          "value": 200,
+          "clue": "Radames, captain of the guard, falls for this Ethiopian slave girl for whom the opera's named",
+          "answer": "Aida",
+          "isDailyDouble": false,
+          "orderNumber": 13,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Linda",
+              "score": 3300
+            },
+            {
+              "player": "Craig",
+              "score": -600
+            },
+            {
+              "player": "Sally",
+              "score": 4100
+            }
+          ]
+        },
+        {
+          "category": "OPERA",
+          "value": 400,
+          "clue": "The 1st opera house in this U.S. city, the Crosby Opera House, was destroyed by fire in 1871",
+          "answer": "Chicago",
+          "isDailyDouble": false,
+          "orderNumber": 14,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Linda",
+              "score": 3700
+            },
+            {
+              "player": "Craig",
+              "score": -600
+            },
+            {
+              "player": "Sally",
+              "score": 4100
+            }
+          ]
+        },
+        {
+          "category": "NEWSCASTERS",
+          "value": 600,
+          "clue": "Before reporting from Paris for ABC news, he was JFK's press secretary",
+          "answer": "Salinger",
+          "isDailyDouble": false,
+          "orderNumber": 15,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Linda",
+              "score": 3700
+            },
+            {
+              "player": "Craig",
+              "score": 0
+            },
+            {
+              "player": "Sally",
+              "score": 4100
+            }
+          ]
+        },
+        {
+          "category": "STARTS WITH \"P\"",
+          "value": 200,
+          "clue": "Completes the phrase heard in every submarine movie, \"Up...\"",
+          "answer": "periscope",
+          "isDailyDouble": false,
+          "orderNumber": 16,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Linda",
+              "score": 3700
+            },
+            {
+              "player": "Craig",
+              "score": 0
+            },
+            {
+              "player": "Sally",
+              "score": 4300
+            }
+          ]
+        },
+        {
+          "category": "OPERA",
+          "value": 600,
+          "clue": "The 1st entire opera on records was a '28 Victor recording of this Italian composer's \"Rigoletto\"",
+          "answer": "Verdi",
+          "isDailyDouble": false,
+          "orderNumber": 17,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Linda",
+              "score": 3700
+            },
+            {
+              "player": "Craig",
+              "score": 0
+            },
+            {
+              "player": "Sally",
+              "score": 4900
+            }
+          ]
+        },
+        {
+          "category": "OPERA",
+          "value": 800,
+          "clue": "The action in Mozart's \"The Marriage of Figaro\" takes place at a chateau near this city",
+          "answer": "Seville",
+          "isDailyDouble": false,
+          "orderNumber": 18,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Linda",
+              "score": 3700
+            },
+            {
+              "player": "Craig",
+              "score": 0
+            },
+            {
+              "player": "Sally",
+              "score": 4900
+            }
+          ]
+        },
+        {
+          "category": "OPERA",
+          "value": 1000,
+          "clue": "General manager of the Met from 1950-72, his biography is titled \"5000 Nights at the Opera\"",
+          "answer": "Rudolf Bing",
+          "isDailyDouble": false,
+          "orderNumber": 19,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Linda",
+              "score": 3700
+            },
+            {
+              "player": "Craig",
+              "score": 0
+            },
+            {
+              "player": "Sally",
+              "score": 5900
+            }
+          ]
+        },
+        {
+          "category": "STARTS WITH \"P\"",
+          "value": 400,
+          "clue": "The view we get of Washington on the quarter, not the dollar bill",
+          "answer": "a profile",
+          "isDailyDouble": false,
+          "orderNumber": 20,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Linda",
+              "score": 4100
+            },
+            {
+              "player": "Craig",
+              "score": 0
+            },
+            {
+              "player": "Sally",
+              "score": 5900
+            }
+          ]
+        },
+        {
+          "category": "NEWSCASTERS",
+          "value": 800,
+          "clue": "His 92-year-old mother stole the show when he was inducted into TV Hall of Fame in 1985",
+          "answer": "Walter Cronkite",
+          "isDailyDouble": false,
+          "orderNumber": 21,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Linda",
+              "score": 4100
+            },
+            {
+              "player": "Craig",
+              "score": 800
+            },
+            {
+              "player": "Sally",
+              "score": 5900
+            }
+          ]
+        },
+        {
+          "category": "STARTS WITH \"P\"",
+          "value": 200,
+          "clue": "Overtake, throw, or ratify",
+          "answer": "pass",
+          "isDailyDouble": true,
+          "orderNumber": 22,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Linda",
+              "score": 4100
+            },
+            {
+              "player": "Craig",
+              "score": 1000
+            },
+            {
+              "player": "Sally",
+              "score": 5900
+            }
+          ]
+        },
+        {
+          "category": "TRUCKS",
+          "value": 200,
+          "clue": "This war contributed to the growth of trucking since it demonstrated the practicality of trucks",
+          "answer": "World War I",
+          "isDailyDouble": false,
+          "orderNumber": 23,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Linda",
+              "score": 4100
+            },
+            {
+              "player": "Craig",
+              "score": 1200
+            },
+            {
+              "player": "Sally",
+              "score": 5700
+            }
+          ]
+        },
+        {
+          "category": "TRUCKS",
+          "value": 400,
+          "clue": "In 1935, Reo introduced this model, a short wheelbase truck, not a rock group",
+          "answer": "Speedwagon",
+          "isDailyDouble": false,
+          "orderNumber": 24,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Linda",
+              "score": 4100
+            },
+            {
+              "player": "Craig",
+              "score": 1600
+            },
+            {
+              "player": "Sally",
+              "score": 5700
+            }
+          ]
+        },
+        {
+          "category": "TRUCKS",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Linda",
+              "score": 4100
+            },
+            {
+              "player": "Craig",
+              "score": 1600
+            },
+            {
+              "player": "Sally",
+              "score": 5700
+            }
+          ]
+        },
+        {
+          "category": "STARTS WITH \"P\"",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Linda",
+              "score": 4100
+            },
+            {
+              "player": "Craig",
+              "score": 1600
+            },
+            {
+              "player": "Sally",
+              "score": 5700
+            }
+          ]
+        },
+        {
+          "category": "TRUCKS",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Linda",
+              "score": 4100
+            },
+            {
+              "player": "Craig",
+              "score": 1600
+            },
+            {
+              "player": "Sally",
+              "score": 5700
+            }
+          ]
+        },
+        {
+          "category": "NEWSCASTERS",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Linda",
+              "score": 4100
+            },
+            {
+              "player": "Craig",
+              "score": 1600
+            },
+            {
+              "player": "Sally",
+              "score": 5700
+            }
+          ]
+        },
+        {
+          "category": "STARTS WITH \"P\"",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Linda",
+              "score": 4100
+            },
+            {
+              "player": "Craig",
+              "score": 1600
+            },
+            {
+              "player": "Sally",
+              "score": 5700
+            }
+          ]
+        },
+        {
+          "category": "TRUCKS",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Linda",
+              "score": 4100
+            },
+            {
+              "player": "Craig",
+              "score": 1600
+            },
+            {
+              "player": "Sally",
+              "score": 5700
+            }
+          ]
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "Linda",
+          "score": 4100
+        },
+        {
+          "player": "Craig",
+          "score": 1600
+        },
+        {
+          "player": "Sally",
+          "score": 5700
+        }
+      ]
+    },
+    "finalJeopardy": {
+      "category": "BUSINESS & INDUSTRY",
+      "clue": "With over twice as many U.S. cardholders as its nearest competitor, the credit card held by most people",
+      "answer": "Visa",
+      "responses": [
+        {
+          "contestant": "Craig",
+          "response": "What is Master Card?",
+          "isCorrect": false,
+          "isIncorrect": true,
+          "value": 1499,
+          "finalScore": 101
+        },
+        {
+          "contestant": "Linda",
+          "response": "What is Mastercard?",
+          "isCorrect": false,
+          "isIncorrect": true,
+          "value": 1700,
+          "finalScore": 2400
+        },
+        {
+          "contestant": "Sally",
+          "response": "What is Visa?",
+          "isCorrect": true,
+          "isIncorrect": false,
+          "value": 2699,
+          "finalScore": 8399
+        }
+      ]
+    }
+  },
+  "finalScores": [
+    {
+      "player": "Linda",
+      "score": "$2,400"
+    },
+    {
+      "player": "Craig",
+      "score": "$101"
+    },
+    {
+      "player": "Sally",
+      "score": "$8,399"
+    }
+  ],
+  "coryatScores": [
+    {
+      "player": "Linda",
+      "score": 4100
+    },
+    {
+      "player": "Craig",
+      "score": 3400
+    },
+    {
+      "player": "Sally",
+      "score": 5700
+    }
+  ]
+}

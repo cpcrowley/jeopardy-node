@@ -1,0 +1,1700 @@
+{
+  "gameId": 337,
+  "showNumber": "4785",
+  "title": "Show #4785 - Friday, May 27, 2005",
+  "date": "2005-05-27",
+  "comments": "",
+  "contestants": [
+    "Bob",
+    "Charlie",
+    "Tim"
+  ],
+  "rounds": {
+    "jeopardy": {
+      "categories": [
+        "MEDICINE",
+        "BROADWAY DEBUTS",
+        "QUOTES FROM THE BATTLE OF THE SEXES",
+        "ALL SAINTS",
+        "\"SMOKE\"",
+        "MIRRORS"
+      ],
+      "clues": [
+        {
+          "category": "MEDICINE",
+          "value": 200,
+          "clue": "Of cowpox, cat scratch fever, or kangarosis, the one you can't get",
+          "answer": "kangarosis",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [
+            "Bob"
+          ],
+          "incorrectContestants": [
+            "Tim"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 200
+            },
+            {
+              "player": "Charlie",
+              "score": 0
+            },
+            {
+              "player": "Tim",
+              "score": -200
+            }
+          ]
+        },
+        {
+          "category": "MEDICINE",
+          "value": 400,
+          "clue": "A few almonds might help a headache; they contain salicylic acid, found in this drug synthesized in 1853",
+          "answer": "aspirin",
+          "isDailyDouble": false,
+          "orderNumber": 2,
+          "correctContestants": [
+            "Tim"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 200
+            },
+            {
+              "player": "Charlie",
+              "score": 0
+            },
+            {
+              "player": "Tim",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "BROADWAY DEBUTS",
+          "value": 200,
+          "clue": "His first Broadway show was \"Never Live Over a Pretzel Factory\"; now he lives in the White House (at least on TV)",
+          "answer": "(Martin) Sheen",
+          "isDailyDouble": false,
+          "orderNumber": 3,
+          "correctContestants": [
+            "Bob"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 400
+            },
+            {
+              "player": "Charlie",
+              "score": 0
+            },
+            {
+              "player": "Tim",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "MEDICINE",
+          "value": 600,
+          "clue": "A doctor in her first year out of med school; when you add \"ist\" you get a specialist",
+          "answer": "an intern (internist accepted)",
+          "isDailyDouble": false,
+          "orderNumber": 4,
+          "correctContestants": [
+            "Tim"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 400
+            },
+            {
+              "player": "Charlie",
+              "score": 0
+            },
+            {
+              "player": "Tim",
+              "score": 800
+            }
+          ]
+        },
+        {
+          "category": "MEDICINE",
+          "value": 800,
+          "clue": "In an ancient Indian treatise, Susruta noted the relationship between mosquitos & this \"bad air\" disease",
+          "answer": "malaria",
+          "isDailyDouble": false,
+          "orderNumber": 5,
+          "correctContestants": [
+            "Tim"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 400
+            },
+            {
+              "player": "Charlie",
+              "score": 0
+            },
+            {
+              "player": "Tim",
+              "score": 1600
+            }
+          ]
+        },
+        {
+          "category": "MEDICINE",
+          "value": 1000,
+          "clue": "19th century physiologist Claude Bernard found how this organ converts sugar to glycogen & stores it",
+          "answer": "the liver",
+          "isDailyDouble": false,
+          "orderNumber": 6,
+          "correctContestants": [
+            "Bob"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 1400
+            },
+            {
+              "player": "Charlie",
+              "score": 0
+            },
+            {
+              "player": "Tim",
+              "score": 1600
+            }
+          ]
+        },
+        {
+          "category": "\"SMOKE\"",
+          "value": 200,
+          "clue": "A building used for curing meat",
+          "answer": "a smokehouse",
+          "isDailyDouble": false,
+          "orderNumber": 7,
+          "correctContestants": [
+            "Bob"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 1600
+            },
+            {
+              "player": "Charlie",
+              "score": 0
+            },
+            {
+              "player": "Tim",
+              "score": 1600
+            }
+          ]
+        },
+        {
+          "category": "\"SMOKE\"",
+          "value": 400,
+          "clue": "Lox",
+          "answer": "smoked salmon",
+          "isDailyDouble": false,
+          "orderNumber": 8,
+          "correctContestants": [
+            "Charlie"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 1600
+            },
+            {
+              "player": "Charlie",
+              "score": 400
+            },
+            {
+              "player": "Tim",
+              "score": 1600
+            }
+          ]
+        },
+        {
+          "category": "\"SMOKE\"",
+          "value": 600,
+          "clue": "Industrial chimney attached to a factory",
+          "answer": "a smokestack",
+          "isDailyDouble": false,
+          "orderNumber": 9,
+          "correctContestants": [
+            "Bob"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 2200
+            },
+            {
+              "player": "Charlie",
+              "score": 400
+            },
+            {
+              "player": "Tim",
+              "score": 1600
+            }
+          ]
+        },
+        {
+          "category": "\"SMOKE\"",
+          "value": 800,
+          "clue": "Proverbial location where political deals are struck away from the eyes of the public",
+          "answer": "a smoke-filled room",
+          "isDailyDouble": false,
+          "orderNumber": 10,
+          "correctContestants": [
+            "Bob"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 3000
+            },
+            {
+              "player": "Charlie",
+              "score": 400
+            },
+            {
+              "player": "Tim",
+              "score": 1600
+            }
+          ]
+        },
+        {
+          "category": "\"SMOKE\"",
+          "value": 1000,
+          "clue": "A parachuting firefighter",
+          "answer": "a smoke jumper",
+          "isDailyDouble": false,
+          "orderNumber": 11,
+          "correctContestants": [
+            "Charlie"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 3000
+            },
+            {
+              "player": "Charlie",
+              "score": 1400
+            },
+            {
+              "player": "Tim",
+              "score": 1600
+            }
+          ]
+        },
+        {
+          "category": "MIRRORS",
+          "value": 200,
+          "clue": "Minimum number of mirrors needed to make a kaleidoscope",
+          "answer": "2",
+          "isDailyDouble": false,
+          "orderNumber": 12,
+          "correctContestants": [
+            "Charlie"
+          ],
+          "incorrectContestants": [
+            "Tim"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 3000
+            },
+            {
+              "player": "Charlie",
+              "score": 1600
+            },
+            {
+              "player": "Tim",
+              "score": 1400
+            }
+          ]
+        },
+        {
+          "category": "MIRRORS",
+          "value": 400,
+          "clue": "In 1668 Newton placed a mirror in one of these devices to create a much better image",
+          "answer": "a telescope",
+          "isDailyDouble": false,
+          "orderNumber": 13,
+          "correctContestants": [
+            "Bob"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 3400
+            },
+            {
+              "player": "Charlie",
+              "score": 1600
+            },
+            {
+              "player": "Tim",
+              "score": 1400
+            }
+          ]
+        },
+        {
+          "category": "MIRRORS",
+          "value": 600,
+          "clue": "Before the advent of this device in the 1911 Indy 500, passengers called riding mechanics watched for cars coming up behind",
+          "answer": "a rear-view mirror",
+          "isDailyDouble": false,
+          "orderNumber": 14,
+          "correctContestants": [
+            "Charlie"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 3400
+            },
+            {
+              "player": "Charlie",
+              "score": 2200
+            },
+            {
+              "player": "Tim",
+              "score": 1400
+            }
+          ]
+        },
+        {
+          "category": "MIRRORS",
+          "value": 800,
+          "clue": "There is evidence that Precolumbian Mesoamericans used this black volcanic rock with a Roman name to make mirrors",
+          "answer": "obsidian",
+          "isDailyDouble": false,
+          "orderNumber": 15,
+          "correctContestants": [
+            "Charlie"
+          ],
+          "incorrectContestants": [
+            "Bob",
+            "Tim"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 2600
+            },
+            {
+              "player": "Charlie",
+              "score": 3000
+            },
+            {
+              "player": "Tim",
+              "score": 600
+            }
+          ]
+        },
+        {
+          "category": "MIRRORS",
+          "value": 1000,
+          "clue": "On June 28, 1919, this was signed in the Hall of Mirrors",
+          "answer": "the Treaty of Versailles",
+          "isDailyDouble": false,
+          "orderNumber": 16,
+          "correctContestants": [
+            "Charlie"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 2600
+            },
+            {
+              "player": "Charlie",
+              "score": 4000
+            },
+            {
+              "player": "Tim",
+              "score": 600
+            }
+          ]
+        },
+        {
+          "category": "QUOTES FROM THE BATTLE OF THE SEXES",
+          "value": 200,
+          "clue": "Asked who wore the trousers, this British prime minister's husband responded, \"I do, and I also wash and iron them\"",
+          "answer": "Margaret Thatcher",
+          "isDailyDouble": false,
+          "orderNumber": 17,
+          "correctContestants": [
+            "Tim"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 2600
+            },
+            {
+              "player": "Charlie",
+              "score": 4000
+            },
+            {
+              "player": "Tim",
+              "score": 800
+            }
+          ]
+        },
+        {
+          "category": "BROADWAY DEBUTS",
+          "value": 400,
+          "clue": "This Goodfella finally hit Broadway in the 2004 play \"Match\"",
+          "answer": "Ray Liotta",
+          "isDailyDouble": false,
+          "orderNumber": 18,
+          "correctContestants": [
+            "Tim"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 2600
+            },
+            {
+              "player": "Charlie",
+              "score": 4000
+            },
+            {
+              "player": "Tim",
+              "score": 1200
+            }
+          ]
+        },
+        {
+          "category": "BROADWAY DEBUTS",
+          "value": 600,
+          "clue": "Half a century ago, this \"60 Minutes\" icon was starring on Broadway in the 1954 comedy \"Reclining Figure\"",
+          "answer": "Mike Wallace",
+          "isDailyDouble": false,
+          "orderNumber": 19,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 2600
+            },
+            {
+              "player": "Charlie",
+              "score": 4000
+            },
+            {
+              "player": "Tim",
+              "score": 1200
+            }
+          ]
+        },
+        {
+          "category": "BROADWAY DEBUTS",
+          "value": 800,
+          "clue": "This star of \"Whose Line Is It Anyway?\" had to learn some new lines to play Billy Flynn in \"Chicago\" in 2004",
+          "answer": "Wayne Brady",
+          "isDailyDouble": false,
+          "orderNumber": 20,
+          "correctContestants": [
+            "Tim"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 2600
+            },
+            {
+              "player": "Charlie",
+              "score": 4000
+            },
+            {
+              "player": "Tim",
+              "score": 2000
+            }
+          ]
+        },
+        {
+          "category": "BROADWAY DEBUTS",
+          "value": 1000,
+          "clue": "Wonder if this ex-Spice Girl had stage fright when she took over the role of Mimi in \"Rent\" in 2004",
+          "answer": "Scary Spice (Melanie Brown)",
+          "isDailyDouble": false,
+          "orderNumber": 21,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Charlie"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 2600
+            },
+            {
+              "player": "Charlie",
+              "score": 3000
+            },
+            {
+              "player": "Tim",
+              "score": 2000
+            }
+          ]
+        },
+        {
+          "category": "QUOTES FROM THE BATTLE OF THE SEXES",
+          "value": 400,
+          "clue": "Despite 30 years of research, this psychoanalyst famously pondered, \"What does a woman want?\"",
+          "answer": "(Sigmund) Freud",
+          "isDailyDouble": false,
+          "orderNumber": 22,
+          "correctContestants": [
+            "Tim"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 2600
+            },
+            {
+              "player": "Charlie",
+              "score": 3000
+            },
+            {
+              "player": "Tim",
+              "score": 2400
+            }
+          ]
+        },
+        {
+          "category": "QUOTES FROM THE BATTLE OF THE SEXES",
+          "value": 600,
+          "clue": "In a 1601 play, he wrote, \"Many a good hanging prevents a bad marriage\"",
+          "answer": "(William) Shakespeare",
+          "isDailyDouble": false,
+          "orderNumber": 23,
+          "correctContestants": [
+            "Tim"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 2600
+            },
+            {
+              "player": "Charlie",
+              "score": 3000
+            },
+            {
+              "player": "Tim",
+              "score": 3000
+            }
+          ]
+        },
+        {
+          "category": "QUOTES FROM THE BATTLE OF THE SEXES",
+          "value": 800,
+          "clue": "In the song \"A Hymn To Him\" from \"My Fair Lady\", this character asks, \"Why can't a woman be more like a man?\"",
+          "answer": "(Henry) Higgins",
+          "isDailyDouble": false,
+          "orderNumber": 24,
+          "correctContestants": [
+            "Bob"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 3400
+            },
+            {
+              "player": "Charlie",
+              "score": 3000
+            },
+            {
+              "player": "Tim",
+              "score": 3000
+            }
+          ]
+        },
+        {
+          "category": "ALL SAINTS",
+          "value": 200,
+          "clue": "St. Gerasimus, like Androcles, is credited with befriending one of these by pulling a thorn from its paw",
+          "answer": "a lion",
+          "isDailyDouble": false,
+          "orderNumber": 25,
+          "correctContestants": [
+            "Tim"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 3400
+            },
+            {
+              "player": "Charlie",
+              "score": 3000
+            },
+            {
+              "player": "Tim",
+              "score": 3200
+            }
+          ]
+        },
+        {
+          "category": "ALL SAINTS",
+          "value": 400,
+          "clue": "Patrons of France include Denis & this one who became Bishop of Tours around 370",
+          "answer": "St. Martin",
+          "isDailyDouble": false,
+          "orderNumber": 26,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Bob"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 3000
+            },
+            {
+              "player": "Charlie",
+              "score": 3000
+            },
+            {
+              "player": "Tim",
+              "score": 3200
+            }
+          ]
+        },
+        {
+          "category": "ALL SAINTS",
+          "value": 600,
+          "clue": "Exiled abroad a couple of times, the well-traveled Anselm has this as his emblem",
+          "answer": "a ship",
+          "isDailyDouble": false,
+          "orderNumber": 27,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 3000
+            },
+            {
+              "player": "Charlie",
+              "score": 3000
+            },
+            {
+              "player": "Tim",
+              "score": 3200
+            }
+          ]
+        },
+        {
+          "category": "ALL SAINTS",
+          "value": 1200,
+          "clue": "Monica was the sainted mother of this bishop of Hippo",
+          "answer": "St. Augustine",
+          "isDailyDouble": true,
+          "orderNumber": 28,
+          "correctContestants": [
+            "Tim"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 3000
+            },
+            {
+              "player": "Charlie",
+              "score": 3000
+            },
+            {
+              "player": "Tim",
+              "score": 4400
+            }
+          ]
+        },
+        {
+          "category": "ALL SAINTS",
+          "value": 800,
+          "clue": "Name shared by saints of Antioch & Laconi & a society founder",
+          "answer": "St. Ignatius",
+          "isDailyDouble": false,
+          "orderNumber": 29,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 3000
+            },
+            {
+              "player": "Charlie",
+              "score": 3000
+            },
+            {
+              "player": "Tim",
+              "score": 4400
+            }
+          ]
+        },
+        {
+          "category": "QUOTES FROM THE BATTLE OF THE SEXES",
+          "value": 1000,
+          "clue": "This TV Charlie's Angel observed, \"femininity... used properly... easily jumbles the brain of any man I've ever met\"",
+          "answer": "Farrah Fawcett",
+          "isDailyDouble": false,
+          "orderNumber": 30,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Charlie"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 3000
+            },
+            {
+              "player": "Charlie",
+              "score": 2000
+            },
+            {
+              "player": "Tim",
+              "score": 4400
+            }
+          ]
+        }
+      ],
+      "firstBreakScores": [
+        {
+          "player": "Bob",
+          "score": 2600
+        },
+        {
+          "player": "Charlie",
+          "score": 4000
+        },
+        {
+          "player": "Tim",
+          "score": 600
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "Bob",
+          "score": 3000
+        },
+        {
+          "player": "Charlie",
+          "score": 2000
+        },
+        {
+          "player": "Tim",
+          "score": 4400
+        }
+      ]
+    },
+    "doubleJeopardy": {
+      "categories": [
+        "A VISIT TO ANCIENT EGYPT",
+        "THE NFL",
+        "SO, WHATCHA COMPOSIN'?",
+        "HAVE SOME LEFTOVERS!",
+        "BRITISH MONARCHS",
+        "PALINDROMIC WORDS"
+      ],
+      "clues": [
+        {
+          "category": "PALINDROMIC WORDS",
+          "value": 400,
+          "clue": "If others are unaware of your merits, it might be time to do this to your own horn",
+          "answer": "toot",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 3000
+            },
+            {
+              "player": "Charlie",
+              "score": 2400
+            },
+            {
+              "player": "Tim",
+              "score": 4400
+            }
+          ]
+        },
+        {
+          "category": "PALINDROMIC WORDS",
+          "value": 800,
+          "clue": "In 1836 Congress adopted the first of these \"rules\" stopping itself from debating slavery",
+          "answer": "gag",
+          "isDailyDouble": false,
+          "orderNumber": 2,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 3000
+            },
+            {
+              "player": "Charlie",
+              "score": 2400
+            },
+            {
+              "player": "Tim",
+              "score": 4400
+            }
+          ]
+        },
+        {
+          "category": "PALINDROMIC WORDS",
+          "value": 1200,
+          "clue": "It means to barely survive when used before \"out a living\"",
+          "answer": "eke",
+          "isDailyDouble": false,
+          "orderNumber": 3,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 3000
+            },
+            {
+              "player": "Charlie",
+              "score": 2400
+            },
+            {
+              "player": "Tim",
+              "score": 5600
+            }
+          ]
+        },
+        {
+          "category": "PALINDROMIC WORDS",
+          "value": 1600,
+          "clue": "This word for a dolt was the first name of Rube Goldberg's comic strip hero McNutt",
+          "answer": "boob",
+          "isDailyDouble": false,
+          "orderNumber": 4,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 3000
+            },
+            {
+              "player": "Charlie",
+              "score": 4000
+            },
+            {
+              "player": "Tim",
+              "score": 5600
+            }
+          ]
+        },
+        {
+          "category": "PALINDROMIC WORDS",
+          "value": 2000,
+          "clue": "After recovering from paralysis around 1660, Mary Margaret Alacoque became a famous one of these",
+          "answer": "a nun",
+          "isDailyDouble": false,
+          "orderNumber": 5,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 3000
+            },
+            {
+              "player": "Charlie",
+              "score": 2000
+            },
+            {
+              "player": "Tim",
+              "score": 5600
+            }
+          ]
+        },
+        {
+          "category": "SO, WHATCHA COMPOSIN'?",
+          "value": 400,
+          "clue": "1905, while on holiday at the seashore:\"La Mer\"",
+          "answer": "Claude Debussy",
+          "isDailyDouble": false,
+          "orderNumber": 6,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 3000
+            },
+            {
+              "player": "Charlie",
+              "score": 2400
+            },
+            {
+              "player": "Tim",
+              "score": 5600
+            }
+          ]
+        },
+        {
+          "category": "SO, WHATCHA COMPOSIN'?",
+          "value": 2400,
+          "clue": "1931:\"Second Rhapsody\"",
+          "answer": "George Gershwin",
+          "isDailyDouble": true,
+          "orderNumber": 7,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 3000
+            },
+            {
+              "player": "Charlie",
+              "score": 4800
+            },
+            {
+              "player": "Tim",
+              "score": 5600
+            }
+          ]
+        },
+        {
+          "category": "SO, WHATCHA COMPOSIN'?",
+          "value": 1200,
+          "clue": "1802:What's that you say?  I said, whatcha composin'?  Oh, the \"Kreutzer\" sonata",
+          "answer": "Beethoven",
+          "isDailyDouble": false,
+          "orderNumber": 8,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 3000
+            },
+            {
+              "player": "Charlie",
+              "score": 4800
+            },
+            {
+              "player": "Tim",
+              "score": 6800
+            }
+          ]
+        },
+        {
+          "category": "SO, WHATCHA COMPOSIN'?",
+          "value": 1600,
+          "clue": "In the 1870s he could have said, \"Czech out\" the following",
+          "answer": "Bedrich Smetana",
+          "isDailyDouble": false,
+          "orderNumber": 9,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 1400
+            },
+            {
+              "player": "Charlie",
+              "score": 4800
+            },
+            {
+              "player": "Tim",
+              "score": 6800
+            }
+          ]
+        },
+        {
+          "category": "SO, WHATCHA COMPOSIN'?",
+          "value": 2000,
+          "clue": "The 1850s in France:A little number called \"Ave Maria\"",
+          "answer": "(Charlie) Gounod",
+          "isDailyDouble": false,
+          "orderNumber": 10,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 1400
+            },
+            {
+              "player": "Charlie",
+              "score": 6800
+            },
+            {
+              "player": "Tim",
+              "score": 6800
+            }
+          ]
+        },
+        {
+          "category": "A VISIT TO ANCIENT EGYPT",
+          "value": 400,
+          "clue": "(Sarah of the Clue Crew reports from Luxor, Egypt.) Around 1500 B.C., after expelling Hyksos invaders, proud Egyptian rulers began the vast tomb area that we now call this",
+          "answer": "the Valley of the Kings",
+          "isDailyDouble": false,
+          "orderNumber": 11,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 1800
+            },
+            {
+              "player": "Charlie",
+              "score": 6800
+            },
+            {
+              "player": "Tim",
+              "score": 6800
+            }
+          ]
+        },
+        {
+          "category": "THE NFL",
+          "value": 400,
+          "clue": "This team's Chuck Noll is the winningest Super Bowl coach with 4 victories",
+          "answer": "Pittsburgh",
+          "isDailyDouble": false,
+          "orderNumber": 12,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 2200
+            },
+            {
+              "player": "Charlie",
+              "score": 6800
+            },
+            {
+              "player": "Tim",
+              "score": 6800
+            }
+          ]
+        },
+        {
+          "category": "THE NFL",
+          "value": 800,
+          "clue": "This National Football League team's offices are located at 1000 Football Dr. in Lake Forest, Illinois",
+          "answer": "Bears",
+          "isDailyDouble": false,
+          "orderNumber": 13,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 3000
+            },
+            {
+              "player": "Charlie",
+              "score": 6800
+            },
+            {
+              "player": "Tim",
+              "score": 6800
+            }
+          ]
+        },
+        {
+          "category": "THE NFL",
+          "value": 1200,
+          "clue": "Linebacker Lawrence Taylor spent his entire 13-year career with this team",
+          "answer": "the Giants",
+          "isDailyDouble": false,
+          "orderNumber": 14,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 4200
+            },
+            {
+              "player": "Charlie",
+              "score": 6800
+            },
+            {
+              "player": "Tim",
+              "score": 6800
+            }
+          ]
+        },
+        {
+          "category": "THE NFL",
+          "value": 1600,
+          "clue": "2 years before becoming the Rams' starting QB in 1999, he was playing in the Arena Football League",
+          "answer": "(Kurt) Warner",
+          "isDailyDouble": false,
+          "orderNumber": 15,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 5800
+            },
+            {
+              "player": "Charlie",
+              "score": 6800
+            },
+            {
+              "player": "Tim",
+              "score": 6800
+            }
+          ]
+        },
+        {
+          "category": "THE NFL",
+          "value": 2000,
+          "clue": "Daunte Culpepper has thrown more touchdown passes to this man than to any other Minnesota Viking receiver",
+          "answer": "(Randy) Moss",
+          "isDailyDouble": false,
+          "orderNumber": 16,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 7800
+            },
+            {
+              "player": "Charlie",
+              "score": 6800
+            },
+            {
+              "player": "Tim",
+              "score": 6800
+            }
+          ]
+        },
+        {
+          "category": "A VISIT TO ANCIENT EGYPT",
+          "value": 800,
+          "clue": "(Sarah of the Clue Crew reports from an exhibit in Cairo.) This mask is from Tut's tomb, which this British archaeologist found in 1922, saying everywhere the glint of gold",
+          "answer": "(Howard) Carter",
+          "isDailyDouble": false,
+          "orderNumber": 17,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 7800
+            },
+            {
+              "player": "Charlie",
+              "score": 7600
+            },
+            {
+              "player": "Tim",
+              "score": 6800
+            }
+          ]
+        },
+        {
+          "category": "A VISIT TO ANCIENT EGYPT",
+          "value": 1200,
+          "clue": "(Jimmy of the Clue Crew reports from Giza.)  This great pharaoh left his mark on Egypt in the form of temples & colossal statues of himself, like  this fallen one",
+          "answer": "Ramses II (or Ramses the Great)",
+          "isDailyDouble": false,
+          "orderNumber": 18,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 6600
+            },
+            {
+              "player": "Charlie",
+              "score": 7600
+            },
+            {
+              "player": "Tim",
+              "score": 8000
+            }
+          ]
+        },
+        {
+          "category": "HAVE SOME LEFTOVERS!",
+          "value": 400,
+          "clue": "The label on our leftover caviar says \"malossol\", which means it was prepared with just a little of this seasoning",
+          "answer": "salt",
+          "isDailyDouble": false,
+          "orderNumber": 19,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 6600
+            },
+            {
+              "player": "Charlie",
+              "score": 8000
+            },
+            {
+              "player": "Tim",
+              "score": 8000
+            }
+          ]
+        },
+        {
+          "category": "A VISIT TO ANCIENT EGYPT",
+          "value": 1600,
+          "clue": "(Jimmy of the Clue Crew reports from in front of a pyramid at Giza.) The King's Chamber in the tallest of the Great Pyramids still contains the sarcophagus of this ruler",
+          "answer": "Cheops (or Khufu)",
+          "isDailyDouble": false,
+          "orderNumber": 20,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 6600
+            },
+            {
+              "player": "Charlie",
+              "score": 9600
+            },
+            {
+              "player": "Tim",
+              "score": 8000
+            }
+          ]
+        },
+        {
+          "category": "A VISIT TO ANCIENT EGYPT",
+          "value": 2000,
+          "clue": "(Jimmy of the Clue Crew reports from in front of the Sphinx.) Created as a royal image, the Sphinx was was associated by the Greeks with a monster who riddles this tragic king",
+          "answer": "Oedipus",
+          "isDailyDouble": false,
+          "orderNumber": 21,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 8600
+            },
+            {
+              "player": "Charlie",
+              "score": 9600
+            },
+            {
+              "player": "Tim",
+              "score": 8000
+            }
+          ]
+        },
+        {
+          "category": "HAVE SOME LEFTOVERS!",
+          "value": 1200,
+          "clue": "Have some of this Japanese dish of stir-fried meat & vegetables while we hum the 1963 song of the same name",
+          "answer": "sukiyaki",
+          "isDailyDouble": false,
+          "orderNumber": 22,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 8600
+            },
+            {
+              "player": "Charlie",
+              "score": 10800
+            },
+            {
+              "player": "Tim",
+              "score": 8000
+            }
+          ]
+        },
+        {
+          "category": "HAVE SOME LEFTOVERS!",
+          "value": 1600,
+          "clue": "Save room for the aubergines a l'egyptienne--these veggies stuffed with onions & served with tomatoes",
+          "answer": "eggplants",
+          "isDailyDouble": false,
+          "orderNumber": 23,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 8600
+            },
+            {
+              "player": "Charlie",
+              "score": 10800
+            },
+            {
+              "player": "Tim",
+              "score": 9600
+            }
+          ]
+        },
+        {
+          "category": "HAVE SOME LEFTOVERS!",
+          "value": 2000,
+          "clue": "Yum!  Those carciofi alla Romana still look good; they're these thistle-like items, cooked with mint",
+          "answer": "artichokes",
+          "isDailyDouble": false,
+          "orderNumber": 24,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 8600
+            },
+            {
+              "player": "Charlie",
+              "score": 12800
+            },
+            {
+              "player": "Tim",
+              "score": 9600
+            }
+          ]
+        },
+        {
+          "category": "HAVE SOME LEFTOVERS!",
+          "value": 800,
+          "clue": "This \"national\"-named pot o' mutton, onions & potatoes has been in the fridge since St. Patrick's Day",
+          "answer": "Irish stew",
+          "isDailyDouble": false,
+          "orderNumber": 25,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 9400
+            },
+            {
+              "player": "Charlie",
+              "score": 12800
+            },
+            {
+              "player": "Tim",
+              "score": 9600
+            }
+          ]
+        },
+        {
+          "category": "BRITISH MONARCHS",
+          "value": 2000,
+          "clue": "He was crowned twice, once in exile, once in London",
+          "answer": "Charles II",
+          "isDailyDouble": false,
+          "orderNumber": 26,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 9400
+            },
+            {
+              "player": "Charlie",
+              "score": 12800
+            },
+            {
+              "player": "Tim",
+              "score": 11600
+            }
+          ]
+        },
+        {
+          "category": "BRITISH MONARCHS",
+          "value": 1600,
+          "clue": "She had extensive hair loss by the age of 31",
+          "answer": "Elizabeth I",
+          "isDailyDouble": false,
+          "orderNumber": 27,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 9400
+            },
+            {
+              "player": "Charlie",
+              "score": 12800
+            },
+            {
+              "player": "Tim",
+              "score": 13200
+            }
+          ]
+        },
+        {
+          "category": "BRITISH MONARCHS",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 9400
+            },
+            {
+              "player": "Charlie",
+              "score": 12800
+            },
+            {
+              "player": "Tim",
+              "score": 13200
+            }
+          ]
+        },
+        {
+          "category": "BRITISH MONARCHS",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 9400
+            },
+            {
+              "player": "Charlie",
+              "score": 12800
+            },
+            {
+              "player": "Tim",
+              "score": 13200
+            }
+          ]
+        },
+        {
+          "category": "BRITISH MONARCHS",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 9400
+            },
+            {
+              "player": "Charlie",
+              "score": 12800
+            },
+            {
+              "player": "Tim",
+              "score": 13200
+            }
+          ]
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "Bob",
+          "score": 9400
+        },
+        {
+          "player": "Charlie",
+          "score": 12800
+        },
+        {
+          "player": "Tim",
+          "score": 13200
+        }
+      ]
+    },
+    "finalJeopardy": {
+      "category": "BODIES OF WATER",
+      "clue": "The Latin name of this waterway is Fretum Herculeum",
+      "answer": "the Strait of Gibraltar",
+      "responses": [
+        {
+          "contestant": "Bob",
+          "response": "What is Arno River?",
+          "isCorrect": false,
+          "isIncorrect": true,
+          "value": 3801,
+          "finalScore": 5599
+        },
+        {
+          "contestant": "Charlie",
+          "response": "What is the Strait of Gibralter?",
+          "isCorrect": true,
+          "isIncorrect": false,
+          "value": 12800,
+          "finalScore": 25600
+        },
+        {
+          "contestant": "Tim",
+          "response": "What is Sea of Galilea",
+          "isCorrect": false,
+          "isIncorrect": true,
+          "value": 12800,
+          "finalScore": 400
+        }
+      ]
+    }
+  },
+  "finalScores": [
+    {
+      "player": "Bob",
+      "score": "$5,599"
+    },
+    {
+      "player": "Charlie",
+      "score": "$25,600"
+    },
+    {
+      "player": "Tim",
+      "score": "$400"
+    }
+  ],
+  "coryatScores": [
+    {
+      "player": "Bob",
+      "score": 9400
+    },
+    {
+      "player": "Charlie",
+      "score": 11200
+    },
+    {
+      "player": "Tim",
+      "score": 13000
+    }
+  ]
+}

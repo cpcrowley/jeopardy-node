@@ -1,0 +1,1699 @@
+{
+  "gameId": 1702,
+  "showNumber": "3456",
+  "title": "Show #3456 - Monday, September 20, 1999",
+  "date": "1999-09-20",
+  "comments": "",
+  "contestants": [
+    "Deanna",
+    "Theresa",
+    "James"
+  ],
+  "rounds": {
+    "jeopardy": {
+      "categories": [
+        "MEDICAL BREAKTHROUGHS",
+        "IT'S A WEIRD WORLD",
+        "ANCIENT ROME",
+        "SALAD BAR",
+        "TV CHARACTERS",
+        "ENDS IN \"U\""
+      ],
+      "clues": [
+        {
+          "category": "TV CHARACTERS",
+          "value": 100,
+          "clue": "Capt. Roger Healey,Dr. Bellows,Capt. Tony Nelson",
+          "answer": "I Dream of Jeannie",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [
+            "Theresa"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Deanna",
+              "score": 0
+            },
+            {
+              "player": "Theresa",
+              "score": 100
+            },
+            {
+              "player": "James",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "TV CHARACTERS",
+          "value": 200,
+          "clue": "Aunt Hilda,Aunt Zelda,Salem the Cat",
+          "answer": "Sabrina, the Teenage Witch",
+          "isDailyDouble": false,
+          "orderNumber": 2,
+          "correctContestants": [
+            "Deanna"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Deanna",
+              "score": 200
+            },
+            {
+              "player": "Theresa",
+              "score": 100
+            },
+            {
+              "player": "James",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "TV CHARACTERS",
+          "value": 300,
+          "clue": "Det. John Kelly,Det. Bobby Simone,Det. Danny Sorenson",
+          "answer": "NYPD Blue",
+          "isDailyDouble": false,
+          "orderNumber": 3,
+          "correctContestants": [
+            "Deanna"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Deanna",
+              "score": 500
+            },
+            {
+              "player": "Theresa",
+              "score": 100
+            },
+            {
+              "player": "James",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "TV CHARACTERS",
+          "value": 400,
+          "clue": "Bobby Donnell,Lindsay Dole,Ellenor Frutt",
+          "answer": "The Practice",
+          "isDailyDouble": false,
+          "orderNumber": 4,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Deanna",
+              "score": 500
+            },
+            {
+              "player": "Theresa",
+              "score": 100
+            },
+            {
+              "player": "James",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "TV CHARACTERS",
+          "value": 500,
+          "clue": "Chris Stevens,Maggie O'Connell,Dr. Joel Fleischman",
+          "answer": "Northern Exposure",
+          "isDailyDouble": false,
+          "orderNumber": 5,
+          "correctContestants": [
+            "Deanna"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Deanna",
+              "score": 1000
+            },
+            {
+              "player": "Theresa",
+              "score": 100
+            },
+            {
+              "player": "James",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "ENDS IN \"U\"",
+          "value": 100,
+          "clue": "This outdoor Hawaiian feast often features a roast pig",
+          "answer": "a luau",
+          "isDailyDouble": false,
+          "orderNumber": 6,
+          "correctContestants": [
+            "Deanna"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Deanna",
+              "score": 1100
+            },
+            {
+              "player": "Theresa",
+              "score": 100
+            },
+            {
+              "player": "James",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "ENDS IN \"U\"",
+          "value": 200,
+          "clue": "From the Latin for \"castle\", it's a French castle or manor house",
+          "answer": "chateau",
+          "isDailyDouble": false,
+          "orderNumber": 7,
+          "correctContestants": [
+            "James"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Deanna",
+              "score": 1100
+            },
+            {
+              "player": "Theresa",
+              "score": 100
+            },
+            {
+              "player": "James",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "SALAD BAR",
+          "value": 100,
+          "clue": "The French serve it with vinaigrette; the Germans serve it hot; we make it with great gobs of mayonnaise for picnics",
+          "answer": "potato salad",
+          "isDailyDouble": false,
+          "orderNumber": 8,
+          "correctContestants": [
+            "Theresa"
+          ],
+          "incorrectContestants": [
+            "Deanna"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Deanna",
+              "score": 1000
+            },
+            {
+              "player": "Theresa",
+              "score": 200
+            },
+            {
+              "player": "James",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "ENDS IN \"U\"",
+          "value": 300,
+          "clue": "Off-the-cuff, without preparation, such as a speech",
+          "answer": "impromptu",
+          "isDailyDouble": false,
+          "orderNumber": 9,
+          "correctContestants": [
+            "Deanna"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Deanna",
+              "score": 1300
+            },
+            {
+              "player": "Theresa",
+              "score": 200
+            },
+            {
+              "player": "James",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "ENDS IN \"U\"",
+          "value": 400,
+          "clue": "In 1932 Australia tried to eradicate this large flightless bird by using machine guns -- didn't work",
+          "answer": "the emu",
+          "isDailyDouble": false,
+          "orderNumber": 10,
+          "correctContestants": [
+            "James"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Deanna",
+              "score": 1300
+            },
+            {
+              "player": "Theresa",
+              "score": 200
+            },
+            {
+              "player": "James",
+              "score": 600
+            }
+          ]
+        },
+        {
+          "category": "ENDS IN \"U\"",
+          "value": 500,
+          "clue": "This stubby yellow-green winter pear has a blander taste than most other varieties",
+          "answer": "Anjou",
+          "isDailyDouble": false,
+          "orderNumber": 11,
+          "correctContestants": [
+            "Deanna"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Deanna",
+              "score": 1800
+            },
+            {
+              "player": "Theresa",
+              "score": 200
+            },
+            {
+              "player": "James",
+              "score": 600
+            }
+          ]
+        },
+        {
+          "category": "SALAD BAR",
+          "value": 200,
+          "clue": "It gets its name because it contains the wax, green & kidney types",
+          "answer": "three bean salad",
+          "isDailyDouble": false,
+          "orderNumber": 12,
+          "correctContestants": [
+            "Deanna"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Deanna",
+              "score": 2000
+            },
+            {
+              "player": "Theresa",
+              "score": 200
+            },
+            {
+              "player": "James",
+              "score": 600
+            }
+          ]
+        },
+        {
+          "category": "SALAD BAR",
+          "value": 300,
+          "clue": "This salad topped with crumbled cheese is named for a restaurateur, not a Detroit Tiger legend",
+          "answer": "Cobb salad",
+          "isDailyDouble": false,
+          "orderNumber": 13,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Theresa"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Deanna",
+              "score": 2000
+            },
+            {
+              "player": "Theresa",
+              "score": -100
+            },
+            {
+              "player": "James",
+              "score": 600
+            }
+          ]
+        },
+        {
+          "category": "MEDICAL BREAKTHROUGHS",
+          "value": 100,
+          "clue": "It's what Louis Pasteur used to kill bacteria in his process now known as pasteurization",
+          "answer": "heat",
+          "isDailyDouble": false,
+          "orderNumber": 14,
+          "correctContestants": [
+            "Deanna"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Deanna",
+              "score": 2100
+            },
+            {
+              "player": "Theresa",
+              "score": -100
+            },
+            {
+              "player": "James",
+              "score": 600
+            }
+          ]
+        },
+        {
+          "category": "MEDICAL BREAKTHROUGHS",
+          "value": 200,
+          "clue": "In 1999 the FDA approved Xenical, a pill that stops the body from absorbing 30% of this that a person eats",
+          "answer": "fat",
+          "isDailyDouble": false,
+          "orderNumber": 15,
+          "correctContestants": [
+            "Deanna"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Deanna",
+              "score": 2300
+            },
+            {
+              "player": "Theresa",
+              "score": -100
+            },
+            {
+              "player": "James",
+              "score": 600
+            }
+          ]
+        },
+        {
+          "category": "MEDICAL BREAKTHROUGHS",
+          "value": 300,
+          "clue": "Originally used to check for flaws in machine parts, this device was first used on pregnant women in the 1950s",
+          "answer": "ultrasound",
+          "isDailyDouble": false,
+          "orderNumber": 16,
+          "correctContestants": [
+            "Theresa"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Deanna",
+              "score": 2300
+            },
+            {
+              "player": "Theresa",
+              "score": 200
+            },
+            {
+              "player": "James",
+              "score": 600
+            }
+          ]
+        },
+        {
+          "category": "MEDICAL BREAKTHROUGHS",
+          "value": 400,
+          "clue": "This procedure to correct myopia was first performed in Japan in 1955",
+          "answer": "radial keratotomy",
+          "isDailyDouble": false,
+          "orderNumber": 17,
+          "correctContestants": [
+            "Theresa"
+          ],
+          "incorrectContestants": [
+            "James"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Deanna",
+              "score": 2300
+            },
+            {
+              "player": "Theresa",
+              "score": 600
+            },
+            {
+              "player": "James",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "MEDICAL BREAKTHROUGHS",
+          "value": 500,
+          "clue": "Testing this anesthetic on himself, Sir Humphry Davy found it made him dizzy & euphoric",
+          "answer": "nitrous oxide (laughing gas)",
+          "isDailyDouble": false,
+          "orderNumber": 18,
+          "correctContestants": [
+            "Theresa"
+          ],
+          "incorrectContestants": [
+            "Deanna"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Deanna",
+              "score": 1800
+            },
+            {
+              "player": "Theresa",
+              "score": 1100
+            },
+            {
+              "player": "James",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "SALAD BAR",
+          "value": 400,
+          "clue": "National name of the tomato-&-feta salad also called horiatiki",
+          "answer": "Greek salad",
+          "isDailyDouble": false,
+          "orderNumber": 19,
+          "correctContestants": [
+            "James"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Deanna",
+              "score": 1800
+            },
+            {
+              "player": "Theresa",
+              "score": 1100
+            },
+            {
+              "player": "James",
+              "score": 600
+            }
+          ]
+        },
+        {
+          "category": "SALAD BAR",
+          "value": 500,
+          "clue": "Kitchen personage whose \"salad\" includes hard-boiled eggs & strips of meat & cheese",
+          "answer": "chef salad",
+          "isDailyDouble": false,
+          "orderNumber": 20,
+          "correctContestants": [
+            "Deanna"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Deanna",
+              "score": 2300
+            },
+            {
+              "player": "Theresa",
+              "score": 1100
+            },
+            {
+              "player": "James",
+              "score": 600
+            }
+          ]
+        },
+        {
+          "category": "IT'S A WEIRD WORLD",
+          "value": 100,
+          "clue": "An active sportsman, this revolutionary leader seen here is also an adept ping-pong player",
+          "answer": "Fidel Castro",
+          "isDailyDouble": false,
+          "orderNumber": 21,
+          "correctContestants": [
+            "Deanna"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Deanna",
+              "score": 2400
+            },
+            {
+              "player": "Theresa",
+              "score": 1100
+            },
+            {
+              "player": "James",
+              "score": 600
+            }
+          ]
+        },
+        {
+          "category": "IT'S A WEIRD WORLD",
+          "value": 200,
+          "clue": "A woman named Butterfly perched for over a year in one of these large Calif. trees to protest logging",
+          "answer": "redwood",
+          "isDailyDouble": false,
+          "orderNumber": 22,
+          "correctContestants": [
+            "Deanna"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Deanna",
+              "score": 2600
+            },
+            {
+              "player": "Theresa",
+              "score": 1100
+            },
+            {
+              "player": "James",
+              "score": 600
+            }
+          ]
+        },
+        {
+          "category": "IT'S A WEIRD WORLD",
+          "value": 300,
+          "clue": "In Earth's history, this field has flipped over many times switching its north & south poles",
+          "answer": "magnetic field",
+          "isDailyDouble": false,
+          "orderNumber": 23,
+          "correctContestants": [
+            "Deanna"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Deanna",
+              "score": 2900
+            },
+            {
+              "player": "Theresa",
+              "score": 1100
+            },
+            {
+              "player": "James",
+              "score": 600
+            }
+          ]
+        },
+        {
+          "category": "IT'S A WEIRD WORLD",
+          "value": 400,
+          "clue": "While president of the Royal Society in 1895, this lord remarked \"Heavier-than-air flying machines are impossible\"",
+          "answer": "Lord Kelvin",
+          "isDailyDouble": false,
+          "orderNumber": 24,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Deanna",
+              "score": 2900
+            },
+            {
+              "player": "Theresa",
+              "score": 1100
+            },
+            {
+              "player": "James",
+              "score": 600
+            }
+          ]
+        },
+        {
+          "category": "IT'S A WEIRD WORLD",
+          "value": 500,
+          "clue": "Now you know -- borborygmus is the technical term for the noises made by these long organs, not the stomach",
+          "answer": "intestines",
+          "isDailyDouble": false,
+          "orderNumber": 25,
+          "correctContestants": [
+            "Theresa"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Deanna",
+              "score": 2900
+            },
+            {
+              "player": "Theresa",
+              "score": 1600
+            },
+            {
+              "player": "James",
+              "score": 600
+            }
+          ]
+        },
+        {
+          "category": "ANCIENT ROME",
+          "value": 100,
+          "clue": "The ides of this month was special; it honored not only Jupiter but the goddess Anna Perenna, too",
+          "answer": "March",
+          "isDailyDouble": false,
+          "orderNumber": 26,
+          "correctContestants": [
+            "Deanna"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Deanna",
+              "score": 3000
+            },
+            {
+              "player": "Theresa",
+              "score": 1600
+            },
+            {
+              "player": "James",
+              "score": 600
+            }
+          ]
+        },
+        {
+          "category": "ANCIENT ROME",
+          "value": 200,
+          "clue": "It's a cinch you'll know this toxic metal was used for water pipes",
+          "answer": "lead",
+          "isDailyDouble": false,
+          "orderNumber": 27,
+          "correctContestants": [
+            "James"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Deanna",
+              "score": 3000
+            },
+            {
+              "player": "Theresa",
+              "score": 1600
+            },
+            {
+              "player": "James",
+              "score": 800
+            }
+          ]
+        },
+        {
+          "category": "ANCIENT ROME",
+          "value": 400,
+          "clue": "Under Julius Caesar there were 900 of these, 9 times as many as Clinton has to deal with",
+          "answer": "senators",
+          "isDailyDouble": false,
+          "orderNumber": 28,
+          "correctContestants": [
+            "Theresa"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Deanna",
+              "score": 3000
+            },
+            {
+              "player": "Theresa",
+              "score": 2000
+            },
+            {
+              "player": "James",
+              "score": 800
+            }
+          ]
+        },
+        {
+          "category": "ANCIENT ROME",
+          "value": 500,
+          "clue": "During a siege the Romans might have used an aries, one of these, to break into the enemy's fortifications",
+          "answer": "a battering ram",
+          "isDailyDouble": true,
+          "orderNumber": 29,
+          "correctContestants": [
+            "Theresa"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Deanna",
+              "score": 3000
+            },
+            {
+              "player": "Theresa",
+              "score": 2500
+            },
+            {
+              "player": "James",
+              "score": 800
+            }
+          ]
+        },
+        {
+          "category": "ANCIENT ROME",
+          "value": 500,
+          "clue": "In 20 B.C. the Curatores Viarum was a board set up to manage these",
+          "answer": "highways (or roads)",
+          "isDailyDouble": false,
+          "orderNumber": 30,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Deanna",
+              "score": 3000
+            },
+            {
+              "player": "Theresa",
+              "score": 2500
+            },
+            {
+              "player": "James",
+              "score": 800
+            }
+          ]
+        }
+      ],
+      "firstBreakScores": [
+        {
+          "player": "Deanna",
+          "score": 2300
+        },
+        {
+          "player": "Theresa",
+          "score": 200
+        },
+        {
+          "player": "James",
+          "score": 600
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "Deanna",
+          "score": 3000
+        },
+        {
+          "player": "Theresa",
+          "score": 2500
+        },
+        {
+          "player": "James",
+          "score": 800
+        }
+      ]
+    },
+    "doubleJeopardy": {
+      "categories": [
+        "HILLS",
+        "BROTHERS",
+        "CHOCK FULL O' NUTS",
+        "STARBUCK",
+        "SANK-A",
+        "COFFEE"
+      ],
+      "clues": [
+        {
+          "category": "BROTHERS",
+          "value": 200,
+          "clue": "Last name of Old West brothers James, Warren, Virgil & Wyatt",
+          "answer": "Earp",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Deanna",
+              "score": 3000
+            },
+            {
+              "player": "Theresa",
+              "score": 2500
+            },
+            {
+              "player": "James",
+              "score": 1000
+            }
+          ]
+        },
+        {
+          "category": "BROTHERS",
+          "value": 400,
+          "clue": "Last name of British brothers William & James who began marketing their wrapped soap bars in 1885",
+          "answer": "Lever",
+          "isDailyDouble": false,
+          "orderNumber": 2,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Deanna",
+              "score": 3000
+            },
+            {
+              "player": "Theresa",
+              "score": 2500
+            },
+            {
+              "player": "James",
+              "score": 1000
+            }
+          ]
+        },
+        {
+          "category": "BROTHERS",
+          "value": 600,
+          "clue": "Ballplayer Jay Dean was nicknamed Dizzy & his brother Paul was nicknamed this",
+          "answer": "Daffy",
+          "isDailyDouble": false,
+          "orderNumber": 3,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Deanna",
+              "score": 3000
+            },
+            {
+              "player": "Theresa",
+              "score": 3100
+            },
+            {
+              "player": "James",
+              "score": 1000
+            }
+          ]
+        },
+        {
+          "category": "BROTHERS",
+          "value": 800,
+          "clue": "(Hi, I'm Rebecca Herbst from \"General Hospital\".) I was a regular on \"Brotherly Love\", a sitcom that featured these real-life brothers",
+          "answer": "Andy, Joey & Matthew Lawrence",
+          "isDailyDouble": false,
+          "orderNumber": 4,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Deanna",
+              "score": 3000
+            },
+            {
+              "player": "Theresa",
+              "score": 3100
+            },
+            {
+              "player": "James",
+              "score": 1000
+            }
+          ]
+        },
+        {
+          "category": "BROTHERS",
+          "value": 1000,
+          "clue": "Brothers who designed the 1st hot air balloon to carry people; they got 2 other suckers...er, people to try it",
+          "answer": "Montgolfier brothers",
+          "isDailyDouble": false,
+          "orderNumber": 5,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Deanna",
+              "score": 3000
+            },
+            {
+              "player": "Theresa",
+              "score": 2100
+            },
+            {
+              "player": "James",
+              "score": 1000
+            }
+          ]
+        },
+        {
+          "category": "COFFEE",
+          "value": 200,
+          "clue": "In New York City, if you order \"regular coffee\", you'll get it with these 2 items added",
+          "answer": "Cream & sugar",
+          "isDailyDouble": false,
+          "orderNumber": 6,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Deanna",
+              "score": 3200
+            },
+            {
+              "player": "Theresa",
+              "score": 2100
+            },
+            {
+              "player": "James",
+              "score": 1000
+            }
+          ]
+        },
+        {
+          "category": "COFFEE",
+          "value": 400,
+          "clue": "A superior coffee variety is named for this district on the island of Hawaii",
+          "answer": "Kona",
+          "isDailyDouble": false,
+          "orderNumber": 7,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Deanna",
+              "score": 3600
+            },
+            {
+              "player": "Theresa",
+              "score": 2100
+            },
+            {
+              "player": "James",
+              "score": 1000
+            }
+          ]
+        },
+        {
+          "category": "COFFEE",
+          "value": 1400,
+          "clue": "This plant related to & sometimes confused with endive has been used to flavor coffee since the 18th century",
+          "answer": "chicory",
+          "isDailyDouble": true,
+          "orderNumber": 8,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Deanna",
+              "score": 5000
+            },
+            {
+              "player": "Theresa",
+              "score": 2100
+            },
+            {
+              "player": "James",
+              "score": 1000
+            }
+          ]
+        },
+        {
+          "category": "COFFEE",
+          "value": 800,
+          "clue": "For the taste of coffee with a kick, try this Jamaican coffee liqueur with a rhyming name",
+          "answer": "Tia Maria",
+          "isDailyDouble": false,
+          "orderNumber": 9,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Deanna",
+              "score": 5000
+            },
+            {
+              "player": "Theresa",
+              "score": 2900
+            },
+            {
+              "player": "James",
+              "score": 1000
+            }
+          ]
+        },
+        {
+          "category": "COFFEE",
+          "value": 1000,
+          "clue": "This corporation bears the first name of a German housewife who invented the drip coffee filter in 1908",
+          "answer": "Melitta (Benz)",
+          "isDailyDouble": false,
+          "orderNumber": 10,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Deanna",
+              "score": 5000
+            },
+            {
+              "player": "Theresa",
+              "score": 2900
+            },
+            {
+              "player": "James",
+              "score": 1000
+            }
+          ]
+        },
+        {
+          "category": "HILLS",
+          "value": 200,
+          "clue": "St. John's, Newfoundland has Signal Hill; this state capital is home to Beacon Hill",
+          "answer": "Boston",
+          "isDailyDouble": false,
+          "orderNumber": 11,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Deanna",
+              "score": 5000
+            },
+            {
+              "player": "Theresa",
+              "score": 2900
+            },
+            {
+              "player": "James",
+              "score": 1200
+            }
+          ]
+        },
+        {
+          "category": "HILLS",
+          "value": 400,
+          "clue": "The Beatles' Rocky Raccoon was raised in them",
+          "answer": "Black Hills",
+          "isDailyDouble": false,
+          "orderNumber": 12,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Deanna",
+              "score": 5000
+            },
+            {
+              "player": "Theresa",
+              "score": 2900
+            },
+            {
+              "player": "James",
+              "score": 1200
+            }
+          ]
+        },
+        {
+          "category": "HILLS",
+          "value": 600,
+          "clue": "What Teddy Roosevelt called the greatest day of his life was spent on San Juan Hill on this island",
+          "answer": "Cuba",
+          "isDailyDouble": false,
+          "orderNumber": 13,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Deanna",
+              "score": 5600
+            },
+            {
+              "player": "Theresa",
+              "score": 2900
+            },
+            {
+              "player": "James",
+              "score": 1200
+            }
+          ]
+        },
+        {
+          "category": "HILLS",
+          "value": 800,
+          "clue": "Extending northeast from Bath, these limestone hills were home to a thriving wool trade",
+          "answer": "Cotswolds",
+          "isDailyDouble": false,
+          "orderNumber": 14,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Deanna",
+              "score": 5600
+            },
+            {
+              "player": "Theresa",
+              "score": 2900
+            },
+            {
+              "player": "James",
+              "score": 1200
+            }
+          ]
+        },
+        {
+          "category": "HILLS",
+          "value": 1000,
+          "clue": "Across Victoria Harbor from Hong Kong, its name meaning \"Nine Dragons\" refers in part to its hills",
+          "answer": "Kowloon",
+          "isDailyDouble": false,
+          "orderNumber": 15,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Deanna",
+              "score": 6600
+            },
+            {
+              "player": "Theresa",
+              "score": 2900
+            },
+            {
+              "player": "James",
+              "score": 1200
+            }
+          ]
+        },
+        {
+          "category": "CHOCK FULL O' NUTS",
+          "value": 200,
+          "clue": "In \"Nuts\" she was a hooker accused of murder who fought to stand trial rather than be declared insane",
+          "answer": "Barbra Streisand",
+          "isDailyDouble": false,
+          "orderNumber": 16,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Deanna",
+              "score": 6600
+            },
+            {
+              "player": "Theresa",
+              "score": 2900
+            },
+            {
+              "player": "James",
+              "score": 1400
+            }
+          ]
+        },
+        {
+          "category": "STARBUCK",
+          "value": 200,
+          "clue": "Starbuck serves as chief mate aboard the Pequod in the most famous work by this author",
+          "answer": "Herman Melville (\"Moby Dick\")",
+          "isDailyDouble": false,
+          "orderNumber": 17,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Deanna",
+              "score": 6600
+            },
+            {
+              "player": "Theresa",
+              "score": 2900
+            },
+            {
+              "player": "James",
+              "score": 1600
+            }
+          ]
+        },
+        {
+          "category": "STARBUCK",
+          "value": 400,
+          "clue": "Starbuck openly spoke against this captain's mad quest",
+          "answer": "Captain Ahab",
+          "isDailyDouble": false,
+          "orderNumber": 18,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Deanna",
+              "score": 6600
+            },
+            {
+              "player": "Theresa",
+              "score": 2900
+            },
+            {
+              "player": "James",
+              "score": 2000
+            }
+          ]
+        },
+        {
+          "category": "STARBUCK",
+          "value": 600,
+          "clue": "Because Starbuck was a member of this religious group, anyone on board could call him \"Friend\"",
+          "answer": "Quakers (Society of Friends)",
+          "isDailyDouble": false,
+          "orderNumber": 19,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Deanna",
+              "score": 6600
+            },
+            {
+              "player": "Theresa",
+              "score": 2900
+            },
+            {
+              "player": "James",
+              "score": 2600
+            }
+          ]
+        },
+        {
+          "category": "STARBUCK",
+          "value": 1200,
+          "clue": "Starbuck was a native of this Massachusetts island, like that man in the limerick",
+          "answer": "Nantucket",
+          "isDailyDouble": true,
+          "orderNumber": 20,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Deanna",
+              "score": 6600
+            },
+            {
+              "player": "Theresa",
+              "score": 2900
+            },
+            {
+              "player": "James",
+              "score": 3800
+            }
+          ]
+        },
+        {
+          "category": "STARBUCK",
+          "value": 1000,
+          "clue": "\"I will have no man in my boat\", said Starbuck, \"who is not afraid of\" one of these",
+          "answer": "Whale",
+          "isDailyDouble": false,
+          "orderNumber": 21,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Deanna",
+              "score": 7600
+            },
+            {
+              "player": "Theresa",
+              "score": 2900
+            },
+            {
+              "player": "James",
+              "score": 3800
+            }
+          ]
+        },
+        {
+          "category": "CHOCK FULL O' NUTS",
+          "value": 400,
+          "clue": "A feisty prisoner enters an insane asylum, stirs up the other inmates & gets lobotomized in this 1975 film",
+          "answer": "One Flew Over the Cuckoo's Nest",
+          "isDailyDouble": false,
+          "orderNumber": 22,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Deanna",
+              "score": 7600
+            },
+            {
+              "player": "Theresa",
+              "score": 3300
+            },
+            {
+              "player": "James",
+              "score": 3800
+            }
+          ]
+        },
+        {
+          "category": "CHOCK FULL O' NUTS",
+          "value": 600,
+          "clue": "1986's \"Manhunter\" featured the brilliant but criminally insane Hannibal Lecter, also seen in this 1991 movie",
+          "answer": "The Silence of the Lambs",
+          "isDailyDouble": false,
+          "orderNumber": 23,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Deanna",
+              "score": 8200
+            },
+            {
+              "player": "Theresa",
+              "score": 3300
+            },
+            {
+              "player": "James",
+              "score": 3800
+            }
+          ]
+        },
+        {
+          "category": "CHOCK FULL O' NUTS",
+          "value": 800,
+          "clue": "Nick Nolte reveals horrific childhood memories to his suicidal sister's psychiatrist in this 1991 film",
+          "answer": "The Prince of Tides",
+          "isDailyDouble": false,
+          "orderNumber": 24,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Deanna",
+              "score": 8200
+            },
+            {
+              "player": "Theresa",
+              "score": 3300
+            },
+            {
+              "player": "James",
+              "score": 4600
+            }
+          ]
+        },
+        {
+          "category": "CHOCK FULL O' NUTS",
+          "value": 1000,
+          "clue": "In \"Crazy People\" he played an ad exec whose brutally honest ad campaigns land him in an insane asylum",
+          "answer": "Dudley Moore",
+          "isDailyDouble": false,
+          "orderNumber": 25,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Deanna",
+              "score": 8200
+            },
+            {
+              "player": "Theresa",
+              "score": 3300
+            },
+            {
+              "player": "James",
+              "score": 5600
+            }
+          ]
+        },
+        {
+          "category": "SANK-A",
+          "value": 800,
+          "clue": "In 1956 this Italian liner sank after a collision with the Swedish liner Stockholm",
+          "answer": "Andrea Doria",
+          "isDailyDouble": false,
+          "orderNumber": 26,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Deanna",
+              "score": 8200
+            },
+            {
+              "player": "Theresa",
+              "score": 4100
+            },
+            {
+              "player": "James",
+              "score": 5600
+            }
+          ]
+        },
+        {
+          "category": "SANK-A",
+          "value": 200,
+          "clue": "260 seamen perished when this battleship was sunk by an explosion in 1898",
+          "answer": "Maine",
+          "isDailyDouble": false,
+          "orderNumber": 27,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Deanna",
+              "score": 8400
+            },
+            {
+              "player": "Theresa",
+              "score": 3900
+            },
+            {
+              "player": "James",
+              "score": 5600
+            }
+          ]
+        },
+        {
+          "category": "SANK-A",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Deanna",
+              "score": 8400
+            },
+            {
+              "player": "Theresa",
+              "score": 3900
+            },
+            {
+              "player": "James",
+              "score": 5600
+            }
+          ]
+        },
+        {
+          "category": "SANK-A",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Deanna",
+              "score": 8400
+            },
+            {
+              "player": "Theresa",
+              "score": 3900
+            },
+            {
+              "player": "James",
+              "score": 5600
+            }
+          ]
+        },
+        {
+          "category": "SANK-A",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Deanna",
+              "score": 8400
+            },
+            {
+              "player": "Theresa",
+              "score": 3900
+            },
+            {
+              "player": "James",
+              "score": 5600
+            }
+          ]
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "Deanna",
+          "score": 8400
+        },
+        {
+          "player": "Theresa",
+          "score": 3900
+        },
+        {
+          "player": "James",
+          "score": 5600
+        }
+      ]
+    },
+    "finalJeopardy": {
+      "category": "POLITICIANS",
+      "clue": "He began his political career by defeating Jerry Voorhis in 1946 for a California house seat",
+      "answer": "Richard M. Nixon",
+      "responses": [
+        {
+          "contestant": "Theresa",
+          "response": "Who is Ronald Reagan?",
+          "isCorrect": false,
+          "isIncorrect": true,
+          "value": 1701,
+          "finalScore": 2199
+        },
+        {
+          "contestant": "James",
+          "response": "Who is Richard Nixon?",
+          "isCorrect": true,
+          "isIncorrect": false,
+          "value": 3500,
+          "finalScore": 9100
+        },
+        {
+          "contestant": "Deanna",
+          "response": "Who is Nixon?",
+          "isCorrect": true,
+          "isIncorrect": false,
+          "value": 4600,
+          "finalScore": 13000
+        }
+      ]
+    }
+  },
+  "finalScores": [
+    {
+      "player": "Deanna",
+      "score": "$13,000"
+    },
+    {
+      "player": "Theresa",
+      "score": "$2,199"
+    },
+    {
+      "player": "James",
+      "score": "$9,100"
+    }
+  ],
+  "coryatScores": [
+    {
+      "player": "Deanna",
+      "score": 7600
+    },
+    {
+      "player": "Theresa",
+      "score": 3700
+    },
+    {
+      "player": "James",
+      "score": 5200
+    }
+  ]
+}

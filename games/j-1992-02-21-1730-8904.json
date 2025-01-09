@@ -1,0 +1,1701 @@
+{
+  "gameId": 8904,
+  "showNumber": "1730",
+  "title": "Show #1730 - Friday, February 21, 1992",
+  "date": "1992-02-21",
+  "comments": "",
+  "contestants": [
+    "Ann",
+    "Steve",
+    "Dave"
+  ],
+  "rounds": {
+    "jeopardy": {
+      "categories": [
+        "FAMOUS FOLKS",
+        "MORTAL MATTERS",
+        "POP SONGS",
+        "-OLOGIES",
+        "AMERICANA",
+        "\"EX\" WORDS"
+      ],
+      "clues": [
+        {
+          "category": "FAMOUS FOLKS",
+          "value": 100,
+          "clue": "In a 1977 article in Newsweek, he was quoted as saying, \"I'm not the Carter who'll never tell a lie\"",
+          "answer": "Billy Carter",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [
+            "Dave"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ann",
+              "score": 0
+            },
+            {
+              "player": "Steve",
+              "score": 0
+            },
+            {
+              "player": "Dave",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "category": "FAMOUS FOLKS",
+          "value": 200,
+          "clue": "In 1948 she got permission to leave her convent to help the poor of India",
+          "answer": "Mother Teresa",
+          "isDailyDouble": false,
+          "orderNumber": 2,
+          "correctContestants": [
+            "Steve"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ann",
+              "score": 0
+            },
+            {
+              "player": "Steve",
+              "score": 200
+            },
+            {
+              "player": "Dave",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "category": "FAMOUS FOLKS",
+          "value": 300,
+          "clue": "After the title of his cartoon, he was nicknamed \"The Believe-It-or-Not Man\"",
+          "answer": "(Robert) Ripley",
+          "isDailyDouble": false,
+          "orderNumber": 3,
+          "correctContestants": [
+            "Dave"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ann",
+              "score": 0
+            },
+            {
+              "player": "Steve",
+              "score": 200
+            },
+            {
+              "player": "Dave",
+              "score": 400
+            }
+          ]
+        },
+        {
+          "category": "FAMOUS FOLKS",
+          "value": 400,
+          "clue": "He created Weary Willie as a cartoon character before playing the role himself in the circus",
+          "answer": "Emmett Kelly",
+          "isDailyDouble": false,
+          "orderNumber": 4,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Ann",
+              "score": 0
+            },
+            {
+              "player": "Steve",
+              "score": 200
+            },
+            {
+              "player": "Dave",
+              "score": 400
+            }
+          ]
+        },
+        {
+          "category": "FAMOUS FOLKS",
+          "value": 500,
+          "clue": "He founded the American Institute of Public Opinion in 1935 & the British Institute a year later",
+          "answer": "(George) Gallup",
+          "isDailyDouble": true,
+          "orderNumber": 5,
+          "correctContestants": [
+            "Dave"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ann",
+              "score": 0
+            },
+            {
+              "player": "Steve",
+              "score": 200
+            },
+            {
+              "player": "Dave",
+              "score": 900
+            }
+          ]
+        },
+        {
+          "category": "-OLOGIES",
+          "value": 100,
+          "clue": "Conchology refers to the collection & study of these",
+          "answer": "shells",
+          "isDailyDouble": false,
+          "orderNumber": 6,
+          "correctContestants": [
+            "Dave"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ann",
+              "score": 0
+            },
+            {
+              "player": "Steve",
+              "score": 200
+            },
+            {
+              "player": "Dave",
+              "score": 1000
+            }
+          ]
+        },
+        {
+          "category": "-OLOGIES",
+          "value": 200,
+          "clue": "The branch of entomology that studies these insects is called myrmecology, not picnicology",
+          "answer": "ants",
+          "isDailyDouble": false,
+          "orderNumber": 7,
+          "correctContestants": [
+            "Ann"
+          ],
+          "incorrectContestants": [
+            "Steve"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ann",
+              "score": 200
+            },
+            {
+              "player": "Steve",
+              "score": 0
+            },
+            {
+              "player": "Dave",
+              "score": 1000
+            }
+          ]
+        },
+        {
+          "category": "-OLOGIES",
+          "value": 300,
+          "clue": "In sinology, one would study the language, literature & customs of this country",
+          "answer": "China",
+          "isDailyDouble": false,
+          "orderNumber": 8,
+          "correctContestants": [
+            "Ann"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ann",
+              "score": 500
+            },
+            {
+              "player": "Steve",
+              "score": 0
+            },
+            {
+              "player": "Dave",
+              "score": 1000
+            }
+          ]
+        },
+        {
+          "category": "-OLOGIES",
+          "value": 400,
+          "clue": "Pyretology is the branch of medicine that studies these & how to reduce them",
+          "answer": "fevers",
+          "isDailyDouble": false,
+          "orderNumber": 9,
+          "correctContestants": [
+            "Dave"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ann",
+              "score": 500
+            },
+            {
+              "player": "Steve",
+              "score": 0
+            },
+            {
+              "player": "Dave",
+              "score": 1400
+            }
+          ]
+        },
+        {
+          "category": "-OLOGIES",
+          "value": 500,
+          "clue": "Oology is the branch of ornithology that studies these",
+          "answer": "eggs",
+          "isDailyDouble": false,
+          "orderNumber": 10,
+          "correctContestants": [
+            "Ann"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ann",
+              "score": 1000
+            },
+            {
+              "player": "Steve",
+              "score": 0
+            },
+            {
+              "player": "Dave",
+              "score": 1400
+            }
+          ]
+        },
+        {
+          "category": "MORTAL MATTERS",
+          "value": 100,
+          "clue": "Daniel Butterfield composed this bugle call after being wounded in a Civil War battle",
+          "answer": "\"Taps\"",
+          "isDailyDouble": false,
+          "orderNumber": 11,
+          "correctContestants": [
+            "Ann"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ann",
+              "score": 1100
+            },
+            {
+              "player": "Steve",
+              "score": 0
+            },
+            {
+              "player": "Dave",
+              "score": 1400
+            }
+          ]
+        },
+        {
+          "category": "MORTAL MATTERS",
+          "value": 200,
+          "clue": "John Donne wrote, \"Death be not\" this",
+          "answer": "proud",
+          "isDailyDouble": false,
+          "orderNumber": 12,
+          "correctContestants": [
+            "Ann"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ann",
+              "score": 1300
+            },
+            {
+              "player": "Steve",
+              "score": 0
+            },
+            {
+              "player": "Dave",
+              "score": 1400
+            }
+          ]
+        },
+        {
+          "category": "MORTAL MATTERS",
+          "value": 300,
+          "clue": "It may not be the best medicine; Calchas the Soothsayer & Philomenes both are said to have died from it",
+          "answer": "laughter",
+          "isDailyDouble": false,
+          "orderNumber": 13,
+          "correctContestants": [
+            "Dave"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ann",
+              "score": 1300
+            },
+            {
+              "player": "Steve",
+              "score": 0
+            },
+            {
+              "player": "Dave",
+              "score": 1700
+            }
+          ]
+        },
+        {
+          "category": "\"EX\" WORDS",
+          "value": 100,
+          "clue": "It was King Arthur's legendary sword",
+          "answer": "Excalibur",
+          "isDailyDouble": false,
+          "orderNumber": 14,
+          "correctContestants": [
+            "Dave"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ann",
+              "score": 1300
+            },
+            {
+              "player": "Steve",
+              "score": 0
+            },
+            {
+              "player": "Dave",
+              "score": 1800
+            }
+          ]
+        },
+        {
+          "category": "\"EX\" WORDS",
+          "value": 200,
+          "clue": "In the transcripts of the Watergate tapes, these were \"deleted\"",
+          "answer": "expletives",
+          "isDailyDouble": false,
+          "orderNumber": 15,
+          "correctContestants": [
+            "Dave"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ann",
+              "score": 1300
+            },
+            {
+              "player": "Steve",
+              "score": 0
+            },
+            {
+              "player": "Dave",
+              "score": 2000
+            }
+          ]
+        },
+        {
+          "category": "\"EX\" WORDS",
+          "value": 300,
+          "clue": "It's the criminal offense of obtaining funds by coercion or intimidation",
+          "answer": "extortion",
+          "isDailyDouble": false,
+          "orderNumber": 16,
+          "correctContestants": [
+            "Ann"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ann",
+              "score": 1600
+            },
+            {
+              "player": "Steve",
+              "score": 0
+            },
+            {
+              "player": "Dave",
+              "score": 2000
+            }
+          ]
+        },
+        {
+          "category": "AMERICANA",
+          "value": 100,
+          "clue": "It's the smallest state that has just 1 area code: 401",
+          "answer": "Rhode Island",
+          "isDailyDouble": false,
+          "orderNumber": 17,
+          "correctContestants": [
+            "Ann"
+          ],
+          "incorrectContestants": [
+            "Steve"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ann",
+              "score": 1700
+            },
+            {
+              "player": "Steve",
+              "score": -100
+            },
+            {
+              "player": "Dave",
+              "score": 2000
+            }
+          ]
+        },
+        {
+          "category": "AMERICANA",
+          "value": 200,
+          "clue": "This resort city on the East Coast was named for Francis Asbury, a Methodist bishop",
+          "answer": "Asbury Park, New Jersey",
+          "isDailyDouble": false,
+          "orderNumber": 18,
+          "correctContestants": [
+            "Dave"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ann",
+              "score": 1700
+            },
+            {
+              "player": "Steve",
+              "score": -100
+            },
+            {
+              "player": "Dave",
+              "score": 2200
+            }
+          ]
+        },
+        {
+          "category": "AMERICANA",
+          "value": 300,
+          "clue": "Of DO, RE or MI, the one that's a postal abbreviation for a U.S. state",
+          "answer": "MI",
+          "isDailyDouble": false,
+          "orderNumber": 19,
+          "correctContestants": [
+            "Ann"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ann",
+              "score": 2000
+            },
+            {
+              "player": "Steve",
+              "score": -100
+            },
+            {
+              "player": "Dave",
+              "score": 2200
+            }
+          ]
+        },
+        {
+          "category": "AMERICANA",
+          "value": 400,
+          "clue": "\"Mysterious\" name of the 17-acre Connecticut waterfront museum nicknamed \"The Seaport\"",
+          "answer": "Mystic",
+          "isDailyDouble": false,
+          "orderNumber": 20,
+          "correctContestants": [
+            "Steve"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ann",
+              "score": 2000
+            },
+            {
+              "player": "Steve",
+              "score": 300
+            },
+            {
+              "player": "Dave",
+              "score": 2200
+            }
+          ]
+        },
+        {
+          "category": "AMERICANA",
+          "value": 500,
+          "clue": "In 1904 Geronimo appeared at the World's Fair in this city & sold pictures of himself",
+          "answer": "St. Louis",
+          "isDailyDouble": false,
+          "orderNumber": 21,
+          "correctContestants": [
+            "Ann"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ann",
+              "score": 2500
+            },
+            {
+              "player": "Steve",
+              "score": 300
+            },
+            {
+              "player": "Dave",
+              "score": 2200
+            }
+          ]
+        },
+        {
+          "category": "MORTAL MATTERS",
+          "value": 400,
+          "clue": "These games were first held in 264 B.C. at the funeral of a Roman aristocrat",
+          "answer": "the gladiator games",
+          "isDailyDouble": false,
+          "orderNumber": 22,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Ann"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Ann",
+              "score": 2100
+            },
+            {
+              "player": "Steve",
+              "score": 300
+            },
+            {
+              "player": "Dave",
+              "score": 2200
+            }
+          ]
+        },
+        {
+          "category": "MORTAL MATTERS",
+          "value": 500,
+          "clue": "In his tenth avatar, this Hindu god will appear on a white horse & destroy the wicked",
+          "answer": "Vishnu",
+          "isDailyDouble": false,
+          "orderNumber": 23,
+          "correctContestants": [
+            "Dave"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ann",
+              "score": 2100
+            },
+            {
+              "player": "Steve",
+              "score": 300
+            },
+            {
+              "player": "Dave",
+              "score": 2700
+            }
+          ]
+        },
+        {
+          "category": "\"EX\" WORDS",
+          "value": 400,
+          "clue": "This philosophical movement grew out of the work of Soren Kierkegaard & Friedrich Nietzsche",
+          "answer": "existentialism",
+          "isDailyDouble": false,
+          "orderNumber": 24,
+          "correctContestants": [
+            "Ann"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ann",
+              "score": 2500
+            },
+            {
+              "player": "Steve",
+              "score": 300
+            },
+            {
+              "player": "Dave",
+              "score": 2700
+            }
+          ]
+        },
+        {
+          "category": "\"EX\" WORDS",
+          "value": 500,
+          "clue": "It's the legal surrender of an alleged criminal to the jurisdiction of another country for trial",
+          "answer": "extradition",
+          "isDailyDouble": false,
+          "orderNumber": 25,
+          "correctContestants": [
+            "Dave"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ann",
+              "score": 2500
+            },
+            {
+              "player": "Steve",
+              "score": 300
+            },
+            {
+              "player": "Dave",
+              "score": 3200
+            }
+          ]
+        },
+        {
+          "category": "POP SONGS",
+          "value": 100,
+          "clue": "Kenny Rogers was addressing her in 1977 when he sang, \"You picked a fine time to leave me\"",
+          "answer": "Lucille",
+          "isDailyDouble": false,
+          "orderNumber": 26,
+          "correctContestants": [
+            "Ann"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ann",
+              "score": 2600
+            },
+            {
+              "player": "Steve",
+              "score": 300
+            },
+            {
+              "player": "Dave",
+              "score": 3200
+            }
+          ]
+        },
+        {
+          "category": "POP SONGS",
+          "value": 200,
+          "clue": "This Doors hit begins, \"You know that it would be untrue, you know that I would be a liar\"",
+          "answer": "\"Light My Fire\"",
+          "isDailyDouble": false,
+          "orderNumber": 27,
+          "correctContestants": [
+            "Steve"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ann",
+              "score": 2600
+            },
+            {
+              "player": "Steve",
+              "score": 500
+            },
+            {
+              "player": "Dave",
+              "score": 3200
+            }
+          ]
+        },
+        {
+          "category": "POP SONGS",
+          "value": 300,
+          "clue": "It was Don McLean's only No. 1 Hit",
+          "answer": "\"American Pie\"",
+          "isDailyDouble": false,
+          "orderNumber": 28,
+          "correctContestants": [
+            "Ann"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ann",
+              "score": 2900
+            },
+            {
+              "player": "Steve",
+              "score": 500
+            },
+            {
+              "player": "Dave",
+              "score": 3200
+            }
+          ]
+        },
+        {
+          "category": "POP SONGS",
+          "value": 400,
+          "clue": "1968 pop hit in which you'd hear the line \"Where have you gone, Joe DiMaggio?\"",
+          "answer": "\"Mrs. Robinson\"",
+          "isDailyDouble": false,
+          "orderNumber": 29,
+          "correctContestants": [
+            "Ann"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ann",
+              "score": 3300
+            },
+            {
+              "player": "Steve",
+              "score": 500
+            },
+            {
+              "player": "Dave",
+              "score": 3200
+            }
+          ]
+        },
+        {
+          "category": "POP SONGS",
+          "value": 500,
+          "clue": "This 1962 hit named for a communications satellite was the only No. 1 record for the Tornadoes",
+          "answer": "\"Telstar\"",
+          "isDailyDouble": false,
+          "orderNumber": 30,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Dave"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Ann",
+              "score": 3300
+            },
+            {
+              "player": "Steve",
+              "score": 500
+            },
+            {
+              "player": "Dave",
+              "score": 2700
+            }
+          ]
+        }
+      ],
+      "firstBreakScores": [
+        {
+          "player": "Ann",
+          "score": 1300
+        },
+        {
+          "player": "Steve",
+          "score": 0
+        },
+        {
+          "player": "Dave",
+          "score": 1700
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "Ann",
+          "score": 3300
+        },
+        {
+          "player": "Steve",
+          "score": 500
+        },
+        {
+          "player": "Dave",
+          "score": 2700
+        }
+      ]
+    },
+    "doubleJeopardy": {
+      "categories": [
+        "WORLD LEADERS",
+        "BRITISH AUTHORS",
+        "MOUNTAINS",
+        "SCIENCE",
+        "MUSICAL INSTRUMENTS",
+        "AMERICAN HISTORY"
+      ],
+      "clues": [
+        {
+          "category": "MUSICAL INSTRUMENTS",
+          "value": 200,
+          "clue": "This instrument consists of a chanter, several drones & an airtight sack to hold wind",
+          "answer": "bagpipes",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ann",
+              "score": 3500
+            },
+            {
+              "player": "Steve",
+              "score": 500
+            },
+            {
+              "player": "Dave",
+              "score": 2700
+            }
+          ]
+        },
+        {
+          "category": "SCIENCE",
+          "value": 200,
+          "clue": "Carbonado is an impure form of this mineral used for drills & abrasives",
+          "answer": "diamond",
+          "isDailyDouble": false,
+          "orderNumber": 2,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ann",
+              "score": 3500
+            },
+            {
+              "player": "Steve",
+              "score": 500
+            },
+            {
+              "player": "Dave",
+              "score": 2900
+            }
+          ]
+        },
+        {
+          "category": "SCIENCE",
+          "value": 400,
+          "clue": "It's the rendered fat of cattle & sheep used in making candles & soap",
+          "answer": "tallow",
+          "isDailyDouble": false,
+          "orderNumber": 3,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ann",
+              "score": 3500
+            },
+            {
+              "player": "Steve",
+              "score": 500
+            },
+            {
+              "player": "Dave",
+              "score": 3300
+            }
+          ]
+        },
+        {
+          "category": "SCIENCE",
+          "value": 600,
+          "clue": "Found in fruit, as its name implies, it's the sweetest of the common sugars",
+          "answer": "fructose",
+          "isDailyDouble": false,
+          "orderNumber": 4,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ann",
+              "score": 3500
+            },
+            {
+              "player": "Steve",
+              "score": 1100
+            },
+            {
+              "player": "Dave",
+              "score": 3300
+            }
+          ]
+        },
+        {
+          "category": "MUSICAL INSTRUMENTS",
+          "value": 400,
+          "clue": "By age 21, Pablo Casals was hailed as a master of this musical instrument",
+          "answer": "the cello",
+          "isDailyDouble": false,
+          "orderNumber": 5,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ann",
+              "score": 3500
+            },
+            {
+              "player": "Steve",
+              "score": 1500
+            },
+            {
+              "player": "Dave",
+              "score": 3300
+            }
+          ]
+        },
+        {
+          "category": "MUSICAL INSTRUMENTS",
+          "value": 600,
+          "clue": "The French call this instrument \"cor anglais\"",
+          "answer": "the English horn",
+          "isDailyDouble": false,
+          "orderNumber": 6,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ann",
+              "score": 3500
+            },
+            {
+              "player": "Steve",
+              "score": 1500
+            },
+            {
+              "player": "Dave",
+              "score": 3900
+            }
+          ]
+        },
+        {
+          "category": "SCIENCE",
+          "value": 800,
+          "clue": "It's the liquid obtained from clotted blood, or blood plasma without fibrin",
+          "answer": "serum",
+          "isDailyDouble": false,
+          "orderNumber": 7,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ann",
+              "score": 4300
+            },
+            {
+              "player": "Steve",
+              "score": 1500
+            },
+            {
+              "player": "Dave",
+              "score": 3900
+            }
+          ]
+        },
+        {
+          "category": "SCIENCE",
+          "value": 1000,
+          "clue": "Divide the mass of a material by its volume & you'll have this",
+          "answer": "its density",
+          "isDailyDouble": false,
+          "orderNumber": 8,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ann",
+              "score": 4300
+            },
+            {
+              "player": "Steve",
+              "score": 1500
+            },
+            {
+              "player": "Dave",
+              "score": 4900
+            }
+          ]
+        },
+        {
+          "category": "MOUNTAINS",
+          "value": 200,
+          "clue": "In the Bible, this mountain where Moses received the Ten Commandments is also called Mt. Horeb",
+          "answer": "Mount Sinai",
+          "isDailyDouble": false,
+          "orderNumber": 9,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ann",
+              "score": 4300
+            },
+            {
+              "player": "Steve",
+              "score": 1500
+            },
+            {
+              "player": "Dave",
+              "score": 5100
+            }
+          ]
+        },
+        {
+          "category": "MOUNTAINS",
+          "value": 400,
+          "clue": "Lake Kawaguchi is famous for the reflection of this mountain on its waters",
+          "answer": "Mount Fuji",
+          "isDailyDouble": false,
+          "orderNumber": 10,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ann",
+              "score": 4300
+            },
+            {
+              "player": "Steve",
+              "score": 1900
+            },
+            {
+              "player": "Dave",
+              "score": 5100
+            }
+          ]
+        },
+        {
+          "category": "MUSICAL INSTRUMENTS",
+          "value": 800,
+          "clue": "The timbrel, mentioned in the King James Bible, is one of these hand-held percussion instruments",
+          "answer": "a tambourine",
+          "isDailyDouble": false,
+          "orderNumber": 11,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ann",
+              "score": 4300
+            },
+            {
+              "player": "Steve",
+              "score": 2700
+            },
+            {
+              "player": "Dave",
+              "score": 5100
+            }
+          ]
+        },
+        {
+          "category": "MUSICAL INSTRUMENTS",
+          "value": 2700,
+          "clue": "It's the highest pitched of an orchestra's double-reed instruments",
+          "answer": "the oboe",
+          "isDailyDouble": true,
+          "orderNumber": 12,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ann",
+              "score": 4300
+            },
+            {
+              "player": "Steve",
+              "score": 0
+            },
+            {
+              "player": "Dave",
+              "score": 5100
+            }
+          ]
+        },
+        {
+          "category": "WORLD LEADERS",
+          "value": 200,
+          "clue": "President Corazon Aquino",
+          "answer": "the Philippines",
+          "isDailyDouble": false,
+          "orderNumber": 13,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ann",
+              "score": 4300
+            },
+            {
+              "player": "Steve",
+              "score": 0
+            },
+            {
+              "player": "Dave",
+              "score": 5300
+            }
+          ]
+        },
+        {
+          "category": "WORLD LEADERS",
+          "value": 400,
+          "clue": "President Hosni Mubarak",
+          "answer": "Egypt",
+          "isDailyDouble": false,
+          "orderNumber": 14,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ann",
+              "score": 4700
+            },
+            {
+              "player": "Steve",
+              "score": 0
+            },
+            {
+              "player": "Dave",
+              "score": 5300
+            }
+          ]
+        },
+        {
+          "category": "WORLD LEADERS",
+          "value": 600,
+          "clue": "President Violeta Barrios de Chamorro",
+          "answer": "Nicaragua",
+          "isDailyDouble": false,
+          "orderNumber": 15,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ann",
+              "score": 4700
+            },
+            {
+              "player": "Steve",
+              "score": 0
+            },
+            {
+              "player": "Dave",
+              "score": 5900
+            }
+          ]
+        },
+        {
+          "category": "WORLD LEADERS",
+          "value": 800,
+          "clue": "Prime Minister Ingvar Carlsson",
+          "answer": "Sweden",
+          "isDailyDouble": false,
+          "orderNumber": 16,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ann",
+              "score": 4700
+            },
+            {
+              "player": "Steve",
+              "score": 800
+            },
+            {
+              "player": "Dave",
+              "score": 5900
+            }
+          ]
+        },
+        {
+          "category": "WORLD LEADERS",
+          "value": 1000,
+          "clue": "President Carlos Salinas de Gortari",
+          "answer": "Mexico",
+          "isDailyDouble": false,
+          "orderNumber": 17,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ann",
+              "score": 5700
+            },
+            {
+              "player": "Steve",
+              "score": 800
+            },
+            {
+              "player": "Dave",
+              "score": 5900
+            }
+          ]
+        },
+        {
+          "category": "AMERICAN HISTORY",
+          "value": 200,
+          "clue": "By 1614 success in Growing Tobacco provided an economic base for this English settlement",
+          "answer": "Jamestown",
+          "isDailyDouble": false,
+          "orderNumber": 18,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ann",
+              "score": 5900
+            },
+            {
+              "player": "Steve",
+              "score": 600
+            },
+            {
+              "player": "Dave",
+              "score": 5900
+            }
+          ]
+        },
+        {
+          "category": "AMERICAN HISTORY",
+          "value": 400,
+          "clue": "From 1801 to 1835, 519 of 1106 Supreme Court opinions were written by him",
+          "answer": "John Marshall",
+          "isDailyDouble": false,
+          "orderNumber": 19,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ann",
+              "score": 6300
+            },
+            {
+              "player": "Steve",
+              "score": 600
+            },
+            {
+              "player": "Dave",
+              "score": 5900
+            }
+          ]
+        },
+        {
+          "category": "AMERICAN HISTORY",
+          "value": 600,
+          "clue": "It became a U.S. protectorate in 1901 when Congress passed the Platt Amendment",
+          "answer": "Cuba",
+          "isDailyDouble": false,
+          "orderNumber": 20,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ann",
+              "score": 6300
+            },
+            {
+              "player": "Steve",
+              "score": 600
+            },
+            {
+              "player": "Dave",
+              "score": 6500
+            }
+          ]
+        },
+        {
+          "category": "AMERICAN HISTORY",
+          "value": 800,
+          "clue": "Under this act of 1807, all international trade to & from American ports was prohibited",
+          "answer": "the Embargo Act",
+          "isDailyDouble": false,
+          "orderNumber": 21,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ann",
+              "score": 7100
+            },
+            {
+              "player": "Steve",
+              "score": 600
+            },
+            {
+              "player": "Dave",
+              "score": 6500
+            }
+          ]
+        },
+        {
+          "category": "AMERICAN HISTORY",
+          "value": 1000,
+          "clue": "In 1962 federal troops were used to allow James Meredith to enter this southern univ.",
+          "answer": "Ole Miss (the University of Mississippi)",
+          "isDailyDouble": false,
+          "orderNumber": 22,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ann",
+              "score": 8100
+            },
+            {
+              "player": "Steve",
+              "score": 600
+            },
+            {
+              "player": "Dave",
+              "score": 6500
+            }
+          ]
+        },
+        {
+          "category": "BRITISH AUTHORS",
+          "value": 200,
+          "clue": "His experiences in naval intelligence during WWII inspired his James Bond novels",
+          "answer": "Ian Fleming",
+          "isDailyDouble": false,
+          "orderNumber": 23,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ann",
+              "score": 8300
+            },
+            {
+              "player": "Steve",
+              "score": 600
+            },
+            {
+              "player": "Dave",
+              "score": 6500
+            }
+          ]
+        },
+        {
+          "category": "BRITISH AUTHORS",
+          "value": 400,
+          "clue": "He did extensive research on Transylvania at the British Museum before writing \"Dracula\"",
+          "answer": "Bram Stoker",
+          "isDailyDouble": false,
+          "orderNumber": 24,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ann",
+              "score": 8300
+            },
+            {
+              "player": "Steve",
+              "score": 600
+            },
+            {
+              "player": "Dave",
+              "score": 6900
+            }
+          ]
+        },
+        {
+          "category": "BRITISH AUTHORS",
+          "value": 1500,
+          "clue": "While a student at Oxford, this author began to create his language called \"Elvish\"",
+          "answer": "Tolkien",
+          "isDailyDouble": true,
+          "orderNumber": 25,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ann",
+              "score": 8300
+            },
+            {
+              "player": "Steve",
+              "score": 600
+            },
+            {
+              "player": "Dave",
+              "score": 8400
+            }
+          ]
+        },
+        {
+          "category": "MOUNTAINS",
+          "value": 600,
+          "clue": "A painting excavated in Pompeii shows this mountain when it had only one peak",
+          "answer": "Vesuvius",
+          "isDailyDouble": false,
+          "orderNumber": 26,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ann",
+              "score": 8300
+            },
+            {
+              "player": "Steve",
+              "score": 1200
+            },
+            {
+              "player": "Dave",
+              "score": 8400
+            }
+          ]
+        },
+        {
+          "category": "MOUNTAINS",
+          "value": 800,
+          "clue": "The Bernese Alps are located entirely within this country",
+          "answer": "Switzerland",
+          "isDailyDouble": false,
+          "orderNumber": 27,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ann",
+              "score": 9100
+            },
+            {
+              "player": "Steve",
+              "score": 1200
+            },
+            {
+              "player": "Dave",
+              "score": 8400
+            }
+          ]
+        },
+        {
+          "category": "BRITISH AUTHORS",
+          "value": 800,
+          "clue": "Many regarded this \"Brideshead Revisited\" author as the most brilliant satirist of his day",
+          "answer": "Evelyn Waugh",
+          "isDailyDouble": false,
+          "orderNumber": 28,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ann",
+              "score": 9900
+            },
+            {
+              "player": "Steve",
+              "score": 1200
+            },
+            {
+              "player": "Dave",
+              "score": 8400
+            }
+          ]
+        },
+        {
+          "category": "BRITISH AUTHORS",
+          "value": 1000,
+          "clue": "This \"Forsyte Saga\" author began his writing career under the name John Sinjohn",
+          "answer": "Galsworthy",
+          "isDailyDouble": false,
+          "orderNumber": 29,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ann",
+              "score": 10900
+            },
+            {
+              "player": "Steve",
+              "score": 1200
+            },
+            {
+              "player": "Dave",
+              "score": 8400
+            }
+          ]
+        },
+        {
+          "category": "MOUNTAINS",
+          "value": 1000,
+          "clue": "Teide Peak, the highest point on Spanish soil, is located in this island group",
+          "answer": "the Canary Islands",
+          "isDailyDouble": false,
+          "orderNumber": 30,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Ann",
+              "score": 10900
+            },
+            {
+              "player": "Steve",
+              "score": 1200
+            },
+            {
+              "player": "Dave",
+              "score": 8400
+            }
+          ]
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "Ann",
+          "score": 10900
+        },
+        {
+          "player": "Steve",
+          "score": 1200
+        },
+        {
+          "player": "Dave",
+          "score": 8400
+        }
+      ]
+    },
+    "finalJeopardy": {
+      "category": "SPORTS",
+      "clue": "In the 1970s & 1980s over half the Little League World Series champions came from this island",
+      "answer": "Taiwan",
+      "responses": [
+        {
+          "contestant": "Steve",
+          "response": "What is Cuba?",
+          "isCorrect": false,
+          "isIncorrect": true,
+          "value": 1200,
+          "finalScore": 0
+        },
+        {
+          "contestant": "Dave",
+          "response": "What is [a couple of illegible letters]",
+          "isCorrect": false,
+          "isIncorrect": true,
+          "value": 5999,
+          "finalScore": 2401
+        },
+        {
+          "contestant": "Ann",
+          "response": "What is Cuba?",
+          "isCorrect": false,
+          "isIncorrect": true,
+          "value": 6000,
+          "finalScore": 4900
+        }
+      ]
+    }
+  },
+  "finalScores": [
+    {
+      "player": "Ann",
+      "score": "$4,900"
+    },
+    {
+      "player": "Steve",
+      "score": "$0"
+    },
+    {
+      "player": "Dave",
+      "score": "$2,401"
+    }
+  ],
+  "coryatScores": [
+    {
+      "player": "Ann",
+      "score": 10900
+    },
+    {
+      "player": "Steve",
+      "score": 3900
+    },
+    {
+      "player": "Dave",
+      "score": 7500
+    }
+  ]
+}

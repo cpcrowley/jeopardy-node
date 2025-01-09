@@ -1,0 +1,1709 @@
+{
+  "gameId": 2456,
+  "showNumber": "3336",
+  "title": "Show #3336 - Monday, February 22, 1999",
+  "date": "1999-02-22",
+  "comments": "1999-A Teen Tournament quarterfinal game 1.",
+  "contestants": [
+    "Trish",
+    "Milo",
+    "Melissa"
+  ],
+  "rounds": {
+    "jeopardy": {
+      "categories": [
+        "FATHERLY NICKNAMES",
+        "\"IQ\" TEST",
+        "WOLVES",
+        "NAME THE DIRECTOR",
+        "MINTY FRESH",
+        "KISS ME, YOU FOOL!"
+      ],
+      "clues": [
+        {
+          "category": "FATHERLY NICKNAMES",
+          "value": 100,
+          "clue": "\"The Father of Relativity\"",
+          "answer": "Albert Einstein",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [
+            "Melissa"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Trish",
+              "score": 0
+            },
+            {
+              "player": "Milo",
+              "score": 0
+            },
+            {
+              "player": "Melissa",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "category": "FATHERLY NICKNAMES",
+          "value": 200,
+          "clue": "\"The Father of the Constitution\"",
+          "answer": "James Madison",
+          "isDailyDouble": false,
+          "orderNumber": 2,
+          "correctContestants": [
+            "Milo"
+          ],
+          "incorrectContestants": [
+            "Melissa"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Trish",
+              "score": 0
+            },
+            {
+              "player": "Milo",
+              "score": 200
+            },
+            {
+              "player": "Melissa",
+              "score": -100
+            }
+          ]
+        },
+        {
+          "category": "FATHERLY NICKNAMES",
+          "value": 300,
+          "clue": "\"The Father of the Thesaurus\"",
+          "answer": "Peter Mark Roget",
+          "isDailyDouble": false,
+          "orderNumber": 3,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Milo"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Trish",
+              "score": 0
+            },
+            {
+              "player": "Milo",
+              "score": -100
+            },
+            {
+              "player": "Melissa",
+              "score": -100
+            }
+          ]
+        },
+        {
+          "category": "FATHERLY NICKNAMES",
+          "value": 400,
+          "clue": "\"The Father of the Steamboat\"",
+          "answer": "Robert Fulton",
+          "isDailyDouble": false,
+          "orderNumber": 4,
+          "correctContestants": [
+            "Melissa"
+          ],
+          "incorrectContestants": [
+            "Trish"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Trish",
+              "score": -400
+            },
+            {
+              "player": "Milo",
+              "score": -100
+            },
+            {
+              "player": "Melissa",
+              "score": 300
+            }
+          ]
+        },
+        {
+          "category": "FATHERLY NICKNAMES",
+          "value": 500,
+          "clue": "\"The Father of Rhode Island\"",
+          "answer": "Roger Williams",
+          "isDailyDouble": false,
+          "orderNumber": 5,
+          "correctContestants": [
+            "Trish"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Trish",
+              "score": 100
+            },
+            {
+              "player": "Milo",
+              "score": -100
+            },
+            {
+              "player": "Melissa",
+              "score": 300
+            }
+          ]
+        },
+        {
+          "category": "KISS ME, YOU FOOL!",
+          "value": 100,
+          "clue": "In Charles Perrault's version of this classic fairy tale, a prince awakens a princess with a tender kiss",
+          "answer": "\"Sleeping Beauty\"",
+          "isDailyDouble": false,
+          "orderNumber": 6,
+          "correctContestants": [
+            "Milo"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Trish",
+              "score": 100
+            },
+            {
+              "player": "Milo",
+              "score": 0
+            },
+            {
+              "player": "Melissa",
+              "score": 300
+            }
+          ]
+        },
+        {
+          "category": "KISS ME, YOU FOOL!",
+          "value": 200,
+          "clue": "In Genesis 2:7, he infuses the \"Spirit of Life\" into man with a kiss",
+          "answer": "God",
+          "isDailyDouble": false,
+          "orderNumber": 7,
+          "correctContestants": [
+            "Milo"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Trish",
+              "score": 100
+            },
+            {
+              "player": "Milo",
+              "score": 200
+            },
+            {
+              "player": "Melissa",
+              "score": 300
+            }
+          ]
+        },
+        {
+          "category": "KISS ME, YOU FOOL!",
+          "value": 300,
+          "clue": "A girl who remains unkissed under this Christmas plant shouldn't expect marriage in the next year",
+          "answer": "mistletoe",
+          "isDailyDouble": false,
+          "orderNumber": 8,
+          "correctContestants": [
+            "Melissa"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Trish",
+              "score": 100
+            },
+            {
+              "player": "Milo",
+              "score": 200
+            },
+            {
+              "player": "Melissa",
+              "score": 600
+            }
+          ]
+        },
+        {
+          "category": "KISS ME, YOU FOOL!",
+          "value": 400,
+          "clue": "Surprisingly, Tony Curtis said kissing this blond actress in \"Some Like It Hot\" was \"like kissing Hitler\"",
+          "answer": "Marilyn Monroe",
+          "isDailyDouble": false,
+          "orderNumber": 9,
+          "correctContestants": [
+            "Melissa"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Trish",
+              "score": 100
+            },
+            {
+              "player": "Milo",
+              "score": 200
+            },
+            {
+              "player": "Melissa",
+              "score": 1000
+            }
+          ]
+        },
+        {
+          "category": "KISS ME, YOU FOOL!",
+          "value": 500,
+          "clue": "As \"Private Benjamin\", she quipped, \"Usually by the time I kiss a guy I already know his mother's maiden name\"",
+          "answer": "Goldie Hawn",
+          "isDailyDouble": false,
+          "orderNumber": 10,
+          "correctContestants": [
+            "Milo"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Trish",
+              "score": 100
+            },
+            {
+              "player": "Milo",
+              "score": 700
+            },
+            {
+              "player": "Melissa",
+              "score": 1000
+            }
+          ]
+        },
+        {
+          "category": "MINTY FRESH",
+          "value": 100,
+          "clue": "White Mazda Miatas bear an uncanny resemblance to these \"1 1/2 Calorie Breath Mints\"",
+          "answer": "Tic-Tac",
+          "isDailyDouble": false,
+          "orderNumber": 11,
+          "correctContestants": [
+            "Milo"
+          ],
+          "incorrectContestants": [
+            "Trish"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Trish",
+              "score": 0
+            },
+            {
+              "player": "Milo",
+              "score": 800
+            },
+            {
+              "player": "Melissa",
+              "score": 1000
+            }
+          ]
+        },
+        {
+          "category": "MINTY FRESH",
+          "value": 200,
+          "clue": "Pep‑O‑Mint & Wint‑O‑Green are flavors of this candy mint",
+          "answer": "Life Savers",
+          "isDailyDouble": false,
+          "orderNumber": 12,
+          "correctContestants": [
+            "Melissa"
+          ],
+          "incorrectContestants": [
+            "Trish"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Trish",
+              "score": -200
+            },
+            {
+              "player": "Milo",
+              "score": 800
+            },
+            {
+              "player": "Melissa",
+              "score": 1200
+            }
+          ]
+        },
+        {
+          "category": "MINTY FRESH",
+          "value": 300,
+          "clue": "This Certs ingredient is a mix of partially hydrogenated cottonseed oil, copper gluconate & flavoring",
+          "answer": "Retsyn",
+          "isDailyDouble": false,
+          "orderNumber": 13,
+          "correctContestants": [
+            "Melissa"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Trish",
+              "score": -200
+            },
+            {
+              "player": "Milo",
+              "score": 800
+            },
+            {
+              "player": "Melissa",
+              "score": 1500
+            }
+          ]
+        },
+        {
+          "category": "MINTY FRESH",
+          "value": 400,
+          "clue": "These \"Curiously Strong\" mints are \"So Strong, They Come in a Metal Box\"",
+          "answer": "Altoids",
+          "isDailyDouble": false,
+          "orderNumber": 14,
+          "correctContestants": [
+            "Milo"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Trish",
+              "score": -200
+            },
+            {
+              "player": "Milo",
+              "score": 1200
+            },
+            {
+              "player": "Melissa",
+              "score": 1500
+            }
+          ]
+        },
+        {
+          "category": "MINTY FRESH",
+          "value": 500,
+          "clue": "\"Fresh Goes Better in Life\" with these mints, \"Fresh and Full of Life\"",
+          "answer": "Mentos",
+          "isDailyDouble": false,
+          "orderNumber": 15,
+          "correctContestants": [
+            "Melissa"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Trish",
+              "score": -200
+            },
+            {
+              "player": "Milo",
+              "score": 1200
+            },
+            {
+              "player": "Melissa",
+              "score": 2000
+            }
+          ]
+        },
+        {
+          "category": "\"IQ\" TEST",
+          "value": 100,
+          "clue": "The 3 normal states of matter are solid, gas & this",
+          "answer": "liquid",
+          "isDailyDouble": false,
+          "orderNumber": 16,
+          "correctContestants": [
+            "Melissa"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Trish",
+              "score": -200
+            },
+            {
+              "player": "Milo",
+              "score": 1200
+            },
+            {
+              "player": "Melissa",
+              "score": 2100
+            }
+          ]
+        },
+        {
+          "category": "\"IQ\" TEST",
+          "value": 200,
+          "clue": "It's the set of rules for behaving properly in society; Miss Manners is an expert on this subject",
+          "answer": "etiquette",
+          "isDailyDouble": false,
+          "orderNumber": 17,
+          "correctContestants": [
+            "Melissa"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Trish",
+              "score": -200
+            },
+            {
+              "player": "Milo",
+              "score": 1200
+            },
+            {
+              "player": "Melissa",
+              "score": 2300
+            }
+          ]
+        },
+        {
+          "category": "\"IQ\" TEST",
+          "value": 300,
+          "clue": "It's a device such as a bandage twisted around a limb to control the flow of blood",
+          "answer": "a tourniquet",
+          "isDailyDouble": false,
+          "orderNumber": 18,
+          "correctContestants": [
+            "Trish"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Trish",
+              "score": 100
+            },
+            {
+              "player": "Milo",
+              "score": 1200
+            },
+            {
+              "player": "Melissa",
+              "score": 2300
+            }
+          ]
+        },
+        {
+          "category": "\"IQ\" TEST",
+          "value": 400,
+          "clue": "It means highly unusual, extraordinary, one of a kind",
+          "answer": "unique",
+          "isDailyDouble": false,
+          "orderNumber": 19,
+          "correctContestants": [
+            "Melissa"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Trish",
+              "score": 100
+            },
+            {
+              "player": "Milo",
+              "score": 1200
+            },
+            {
+              "player": "Melissa",
+              "score": 2700
+            }
+          ]
+        },
+        {
+          "category": "\"IQ\" TEST",
+          "value": 500,
+          "clue": "Indirect, or any angle other than a right angle",
+          "answer": "oblique",
+          "isDailyDouble": false,
+          "orderNumber": 20,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Milo"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Trish",
+              "score": 100
+            },
+            {
+              "player": "Milo",
+              "score": 700
+            },
+            {
+              "player": "Melissa",
+              "score": 2700
+            }
+          ]
+        },
+        {
+          "category": "WOLVES",
+          "value": 100,
+          "clue": "He's the senior White House correspondent seen here",
+          "answer": "Wolf Blitzer",
+          "isDailyDouble": false,
+          "orderNumber": 21,
+          "correctContestants": [
+            "Trish"
+          ],
+          "incorrectContestants": [
+            "Milo"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Trish",
+              "score": 200
+            },
+            {
+              "player": "Milo",
+              "score": 600
+            },
+            {
+              "player": "Melissa",
+              "score": 2700
+            }
+          ]
+        },
+        {
+          "category": "NAME THE DIRECTOR",
+          "value": 200,
+          "clue": "\"Get on the Bus\",\"Malcolm X\",\"He Got Game\"",
+          "answer": "Spike Lee",
+          "isDailyDouble": false,
+          "orderNumber": 22,
+          "correctContestants": [
+            "Melissa"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Trish",
+              "score": 200
+            },
+            {
+              "player": "Milo",
+              "score": 600
+            },
+            {
+              "player": "Melissa",
+              "score": 2900
+            }
+          ]
+        },
+        {
+          "category": "NAME THE DIRECTOR",
+          "value": 100,
+          "clue": "\"Always\",\"E.T.\",\"Jurassic Park\"",
+          "answer": "Steven Spielberg",
+          "isDailyDouble": false,
+          "orderNumber": 23,
+          "correctContestants": [
+            "Milo"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Trish",
+              "score": 200
+            },
+            {
+              "player": "Milo",
+              "score": 700
+            },
+            {
+              "player": "Melissa",
+              "score": 2900
+            }
+          ]
+        },
+        {
+          "category": "NAME THE DIRECTOR",
+          "value": 300,
+          "clue": "\"JFK',\"Talk Radio\",\"Born on the Fourth of July\"",
+          "answer": "Oliver Stone",
+          "isDailyDouble": false,
+          "orderNumber": 24,
+          "correctContestants": [
+            "Milo"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Trish",
+              "score": 200
+            },
+            {
+              "player": "Milo",
+              "score": 1000
+            },
+            {
+              "player": "Melissa",
+              "score": 2900
+            }
+          ]
+        },
+        {
+          "category": "NAME THE DIRECTOR",
+          "value": 400,
+          "clue": "\"Ed Wood\",\"Batman\",\"Beetlejuice\"",
+          "answer": "Tim Burton",
+          "isDailyDouble": false,
+          "orderNumber": 25,
+          "correctContestants": [
+            "Trish"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Trish",
+              "score": 600
+            },
+            {
+              "player": "Milo",
+              "score": 1000
+            },
+            {
+              "player": "Melissa",
+              "score": 2900
+            }
+          ]
+        },
+        {
+          "category": "NAME THE DIRECTOR",
+          "value": 500,
+          "clue": "\"Broken Arrow\",\"Hard-Boiled\",\"Face/Off\"",
+          "answer": "John Woo",
+          "isDailyDouble": false,
+          "orderNumber": 26,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Trish",
+              "score": 600
+            },
+            {
+              "player": "Milo",
+              "score": 1000
+            },
+            {
+              "player": "Melissa",
+              "score": 2900
+            }
+          ]
+        },
+        {
+          "category": "WOLVES",
+          "value": 200,
+          "clue": "Most of these wolf groups have about 8 members, but may have as many as 20",
+          "answer": "packs",
+          "isDailyDouble": false,
+          "orderNumber": 27,
+          "correctContestants": [
+            "Trish"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Trish",
+              "score": 800
+            },
+            {
+              "player": "Milo",
+              "score": 1000
+            },
+            {
+              "player": "Melissa",
+              "score": 2900
+            }
+          ]
+        },
+        {
+          "category": "WOLVES",
+          "value": 300,
+          "clue": "Later dancing with Oscars, this actor is given the name \"Dances With Wolves\" in the movie of the same name",
+          "answer": "Kevin Costner",
+          "isDailyDouble": false,
+          "orderNumber": 28,
+          "correctContestants": [
+            "Trish"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Trish",
+              "score": 1100
+            },
+            {
+              "player": "Milo",
+              "score": 1000
+            },
+            {
+              "player": "Melissa",
+              "score": 2900
+            }
+          ]
+        },
+        {
+          "category": "WOLVES",
+          "value": 400,
+          "clue": "This U.S. state has more wolves than any other",
+          "answer": "Alaska",
+          "isDailyDouble": true,
+          "orderNumber": 29,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Trish"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Trish",
+              "score": 700
+            },
+            {
+              "player": "Milo",
+              "score": 1000
+            },
+            {
+              "player": "Melissa",
+              "score": 2900
+            }
+          ]
+        },
+        {
+          "category": "WOLVES",
+          "value": 500,
+          "clue": "Both endangered, the two types of wolves are the red wolf & this variety seen here",
+          "answer": "the gray wolf",
+          "isDailyDouble": false,
+          "orderNumber": 30,
+          "correctContestants": [
+            "Milo"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Trish",
+              "score": 700
+            },
+            {
+              "player": "Milo",
+              "score": 1500
+            },
+            {
+              "player": "Melissa",
+              "score": 2900
+            }
+          ]
+        }
+      ],
+      "firstBreakScores": [
+        {
+          "player": "Trish",
+          "score": -200
+        },
+        {
+          "player": "Milo",
+          "score": 1200
+        },
+        {
+          "player": "Melissa",
+          "score": 2000
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "Trish",
+          "score": 700
+        },
+        {
+          "player": "Milo",
+          "score": 1500
+        },
+        {
+          "player": "Melissa",
+          "score": 2900
+        }
+      ]
+    },
+    "doubleJeopardy": {
+      "categories": [
+        "GREEK GODS",
+        "TV TEENS",
+        "REACH FOR THE STARS",
+        "CANADIAN POSTAL ABBREV.",
+        "THE ROAD TO MELVILLE",
+        "ADVERBS"
+      ],
+      "clues": [
+        {
+          "category": "GREEK GODS",
+          "value": 200,
+          "clue": "Cephissus was the god of these; one that bears his name flows to the west of Athens",
+          "answer": "rivers",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Trish",
+              "score": 700
+            },
+            {
+              "player": "Milo",
+              "score": 1500
+            },
+            {
+              "player": "Melissa",
+              "score": 3100
+            }
+          ]
+        },
+        {
+          "category": "GREEK GODS",
+          "value": 400,
+          "clue": "Fire god Hephaestus was also the god of these, like black‑ & silver‑, not like Jaclyn & Will",
+          "answer": "smiths",
+          "isDailyDouble": false,
+          "orderNumber": 2,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Trish",
+              "score": 1100
+            },
+            {
+              "player": "Milo",
+              "score": 1500
+            },
+            {
+              "player": "Melissa",
+              "score": 3100
+            }
+          ]
+        },
+        {
+          "category": "GREEK GODS",
+          "value": 600,
+          "clue": "God who's prayed to in the following reading from Homer by Homer SimpsonO hear me Lord, blue girdler of the islands...",
+          "answer": "Poseidon",
+          "isDailyDouble": false,
+          "orderNumber": 3,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Trish",
+              "score": 1100
+            },
+            {
+              "player": "Milo",
+              "score": 1500
+            },
+            {
+              "player": "Melissa",
+              "score": 3100
+            }
+          ]
+        },
+        {
+          "category": "GREEK GODS",
+          "value": 800,
+          "clue": "About a quarter of the Sun is a gas named for this sun god",
+          "answer": "Helios",
+          "isDailyDouble": false,
+          "orderNumber": 4,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Milo"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Trish",
+              "score": 300
+            },
+            {
+              "player": "Milo",
+              "score": 700
+            },
+            {
+              "player": "Melissa",
+              "score": 3900
+            }
+          ]
+        },
+        {
+          "category": "GREEK GODS",
+          "value": 1000,
+          "clue": "This handsome young deity was the god of archery & brother of Artemis, goddess of the hunt",
+          "answer": "Apollo",
+          "isDailyDouble": false,
+          "orderNumber": 5,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Trish",
+              "score": 1300
+            },
+            {
+              "player": "Milo",
+              "score": 700
+            },
+            {
+              "player": "Melissa",
+              "score": 3900
+            }
+          ]
+        },
+        {
+          "category": "TV TEENS",
+          "value": 200,
+          "clue": "Eddie Murphy was just 19 when this series made him an overnight star in 1980",
+          "answer": "Saturday Night Live",
+          "isDailyDouble": false,
+          "orderNumber": 6,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Trish",
+              "score": 1500
+            },
+            {
+              "player": "Milo",
+              "score": 700
+            },
+            {
+              "player": "Melissa",
+              "score": 3900
+            }
+          ]
+        },
+        {
+          "category": "TV TEENS",
+          "value": 400,
+          "clue": "He was almost 20 when he started playing teenager Richie Cunningham on \"Happy Days\" in 1974",
+          "answer": "Ron Howard",
+          "isDailyDouble": false,
+          "orderNumber": 7,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Trish",
+              "score": 1500
+            },
+            {
+              "player": "Milo",
+              "score": 1100
+            },
+            {
+              "player": "Melissa",
+              "score": 3900
+            }
+          ]
+        },
+        {
+          "category": "TV TEENS",
+          "value": 600,
+          "clue": "On the '80s sitcom \"It Takes Two!\", Anthony Edwards & this \"Mad About You\" star played Patty Duke's teenage kids",
+          "answer": "Helen Hunt",
+          "isDailyDouble": false,
+          "orderNumber": 8,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Trish",
+              "score": 2100
+            },
+            {
+              "player": "Milo",
+              "score": 1100
+            },
+            {
+              "player": "Melissa",
+              "score": 3900
+            }
+          ]
+        },
+        {
+          "category": "TV TEENS",
+          "value": 800,
+          "clue": "You don't have to be a wizard to know that Oz is a teenage werewolf on this series",
+          "answer": "Buffy the Vampire Slayer",
+          "isDailyDouble": false,
+          "orderNumber": 9,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Trish",
+              "score": 2900
+            },
+            {
+              "player": "Milo",
+              "score": 1100
+            },
+            {
+              "player": "Melissa",
+              "score": 3900
+            }
+          ]
+        },
+        {
+          "category": "TV TEENS",
+          "value": 1000,
+          "clue": "This title teenager had a best friend named Six",
+          "answer": "Blossom",
+          "isDailyDouble": false,
+          "orderNumber": 10,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Trish",
+              "score": 3900
+            },
+            {
+              "player": "Milo",
+              "score": 1100
+            },
+            {
+              "player": "Melissa",
+              "score": 3900
+            }
+          ]
+        },
+        {
+          "category": "REACH FOR THE STARS",
+          "value": 200,
+          "clue": "The globular cluster M13 is in this constellation that to us looks nothing like Kevin Sorbo",
+          "answer": "Hercules",
+          "isDailyDouble": false,
+          "orderNumber": 11,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Trish",
+              "score": 4100
+            },
+            {
+              "player": "Milo",
+              "score": 1100
+            },
+            {
+              "player": "Melissa",
+              "score": 3900
+            }
+          ]
+        },
+        {
+          "category": "REACH FOR THE STARS",
+          "value": 400,
+          "clue": "Still familiar today, it's the 7-star constellation on the bottom of this ancient Chinese chart",
+          "answer": "the Big Dipper",
+          "isDailyDouble": false,
+          "orderNumber": 12,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Trish",
+              "score": 4100
+            },
+            {
+              "player": "Milo",
+              "score": 1100
+            },
+            {
+              "player": "Melissa",
+              "score": 4300
+            }
+          ]
+        },
+        {
+          "category": "REACH FOR THE STARS",
+          "value": 600,
+          "clue": "A \"super\" one of these hurls debris through space at over 40 million mph & then can form a nebula",
+          "answer": "a supernova",
+          "isDailyDouble": false,
+          "orderNumber": 13,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Trish",
+              "score": 4100
+            },
+            {
+              "player": "Milo",
+              "score": 1100
+            },
+            {
+              "player": "Melissa",
+              "score": 4900
+            }
+          ]
+        },
+        {
+          "category": "REACH FOR THE STARS",
+          "value": 800,
+          "clue": "This constellation used to be the Claws of Scorpio (by the \"weigh\", scorpions don't have scales)",
+          "answer": "Libra",
+          "isDailyDouble": false,
+          "orderNumber": 14,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Trish",
+              "score": 4100
+            },
+            {
+              "player": "Milo",
+              "score": 1900
+            },
+            {
+              "player": "Melissa",
+              "score": 4900
+            }
+          ]
+        },
+        {
+          "category": "REACH FOR THE STARS",
+          "value": 1900,
+          "clue": "Unimaginably dense material is found in these \"stars\" named for subatomic particles",
+          "answer": "neutron stars",
+          "isDailyDouble": true,
+          "orderNumber": 15,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Trish",
+              "score": 4100
+            },
+            {
+              "player": "Milo",
+              "score": 3800
+            },
+            {
+              "player": "Melissa",
+              "score": 4900
+            }
+          ]
+        },
+        {
+          "category": "CANADIAN POSTAL ABBREV.",
+          "value": 200,
+          "clue": "NS",
+          "answer": "Nova Scotia",
+          "isDailyDouble": false,
+          "orderNumber": 16,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Trish",
+              "score": 4100
+            },
+            {
+              "player": "Milo",
+              "score": 4000
+            },
+            {
+              "player": "Melissa",
+              "score": 4900
+            }
+          ]
+        },
+        {
+          "category": "CANADIAN POSTAL ABBREV.",
+          "value": 400,
+          "clue": "SK",
+          "answer": "Saskatchewan",
+          "isDailyDouble": false,
+          "orderNumber": 17,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Trish",
+              "score": 4100
+            },
+            {
+              "player": "Milo",
+              "score": 4400
+            },
+            {
+              "player": "Melissa",
+              "score": 4900
+            }
+          ]
+        },
+        {
+          "category": "CANADIAN POSTAL ABBREV.",
+          "value": 600,
+          "clue": "MB",
+          "answer": "Manitoba",
+          "isDailyDouble": false,
+          "orderNumber": 18,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Trish",
+              "score": 4100
+            },
+            {
+              "player": "Milo",
+              "score": 5000
+            },
+            {
+              "player": "Melissa",
+              "score": 4900
+            }
+          ]
+        },
+        {
+          "category": "CANADIAN POSTAL ABBREV.",
+          "value": 1200,
+          "clue": "PE",
+          "answer": "Prince Edward Island",
+          "isDailyDouble": true,
+          "orderNumber": 19,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Trish",
+              "score": 4100
+            },
+            {
+              "player": "Milo",
+              "score": 6200
+            },
+            {
+              "player": "Melissa",
+              "score": 4900
+            }
+          ]
+        },
+        {
+          "category": "CANADIAN POSTAL ABBREV.",
+          "value": 1000,
+          "clue": "YT",
+          "answer": "Yukon Territory",
+          "isDailyDouble": false,
+          "orderNumber": 20,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Trish",
+              "score": 4100
+            },
+            {
+              "player": "Milo",
+              "score": 7200
+            },
+            {
+              "player": "Melissa",
+              "score": 4900
+            }
+          ]
+        },
+        {
+          "category": "THE ROAD TO MELVILLE",
+          "value": 200,
+          "clue": "Herman's grandfather was one of the \"Indians\" in this 1773 protest",
+          "answer": "the Boston Tea Party",
+          "isDailyDouble": false,
+          "orderNumber": 21,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Trish",
+              "score": 4100
+            },
+            {
+              "player": "Milo",
+              "score": 7400
+            },
+            {
+              "player": "Melissa",
+              "score": 4900
+            }
+          ]
+        },
+        {
+          "category": "THE ROAD TO MELVILLE",
+          "value": 400,
+          "clue": "This 1851 masterpiece was at first a failure, misunderstood by critics & ignored by the public",
+          "answer": "Moby-Dick",
+          "isDailyDouble": false,
+          "orderNumber": 22,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Trish",
+              "score": 4100
+            },
+            {
+              "player": "Milo",
+              "score": 7800
+            },
+            {
+              "player": "Melissa",
+              "score": 4900
+            }
+          ]
+        },
+        {
+          "category": "THE ROAD TO MELVILLE",
+          "value": 600,
+          "clue": "Melville's last prose work, this novella about a young sailor on a warship, wasn't published until 1924",
+          "answer": "Billy Budd",
+          "isDailyDouble": false,
+          "orderNumber": 23,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Trish",
+              "score": 4100
+            },
+            {
+              "player": "Milo",
+              "score": 7800
+            },
+            {
+              "player": "Melissa",
+              "score": 4900
+            }
+          ]
+        },
+        {
+          "category": "THE ROAD TO MELVILLE",
+          "value": 800,
+          "clue": "Herman bought the farm \"Arrowhead\" in Pittsfield, in these hills of western Massachusetts",
+          "answer": "the Berkshires",
+          "isDailyDouble": false,
+          "orderNumber": 24,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Trish",
+              "score": 4100
+            },
+            {
+              "player": "Milo",
+              "score": 7800
+            },
+            {
+              "player": "Melissa",
+              "score": 4900
+            }
+          ]
+        },
+        {
+          "category": "ADVERBS",
+          "value": 200,
+          "clue": "Adverb that begins Clark Gable's last line in \"Gone with the Wind\"",
+          "answer": "frankly",
+          "isDailyDouble": false,
+          "orderNumber": 25,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Trish",
+              "score": 4100
+            },
+            {
+              "player": "Milo",
+              "score": 7800
+            },
+            {
+              "player": "Melissa",
+              "score": 5100
+            }
+          ]
+        },
+        {
+          "category": "ADVERBS",
+          "value": 400,
+          "clue": "It's the word used most often in the ditty \"Row, Row, Row Your Boat\"",
+          "answer": "merrily",
+          "isDailyDouble": false,
+          "orderNumber": 26,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Trish",
+              "score": 4500
+            },
+            {
+              "player": "Milo",
+              "score": 7800
+            },
+            {
+              "player": "Melissa",
+              "score": 4700
+            }
+          ]
+        },
+        {
+          "category": "ADVERBS",
+          "value": 600,
+          "clue": "Someone facing a deadline works this way, as if his body temperature is rising",
+          "answer": "feverishly",
+          "isDailyDouble": false,
+          "orderNumber": 27,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Trish",
+              "score": 3900
+            },
+            {
+              "player": "Milo",
+              "score": 7800
+            },
+            {
+              "player": "Melissa",
+              "score": 5300
+            }
+          ]
+        },
+        {
+          "category": "ADVERBS",
+          "value": 800,
+          "clue": "Take an adverb meaning \"close\", add -ly & you get this adverb meaning \"almost\"",
+          "answer": "nearly",
+          "isDailyDouble": false,
+          "orderNumber": 28,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Trish",
+              "score": 3900
+            },
+            {
+              "player": "Milo",
+              "score": 7800
+            },
+            {
+              "player": "Melissa",
+              "score": 6100
+            }
+          ]
+        },
+        {
+          "category": "ADVERBS",
+          "value": 1000,
+          "clue": "A synonym for fast, or the name of a Shakespearean tavern mistress",
+          "answer": "Quickly",
+          "isDailyDouble": false,
+          "orderNumber": 29,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Trish",
+              "score": 3900
+            },
+            {
+              "player": "Milo",
+              "score": 7800
+            },
+            {
+              "player": "Melissa",
+              "score": 6100
+            }
+          ]
+        },
+        {
+          "category": "THE ROAD TO MELVILLE",
+          "value": 1000,
+          "clue": "Whenever this scrivener was asked to do anything else besides copy documents, he said, \"I would prefer not to\"",
+          "answer": "Bartleby",
+          "isDailyDouble": false,
+          "orderNumber": 30,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Trish",
+              "score": 3900
+            },
+            {
+              "player": "Milo",
+              "score": 7800
+            },
+            {
+              "player": "Melissa",
+              "score": 6100
+            }
+          ]
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "Trish",
+          "score": 3900
+        },
+        {
+          "player": "Milo",
+          "score": 7800
+        },
+        {
+          "player": "Melissa",
+          "score": 6100
+        }
+      ]
+    },
+    "finalJeopardy": {
+      "category": "WORLD GEOGRAPHY",
+      "clue": "It's the only body of water with shores on the continents of Asia, Africa & Europe",
+      "answer": "Mediterranean Sea",
+      "responses": [
+        {
+          "contestant": "Trish",
+          "response": "What is the Mediterranean Sea",
+          "isCorrect": true,
+          "isIncorrect": false,
+          "value": 2100,
+          "finalScore": 6000
+        },
+        {
+          "contestant": "Melissa",
+          "response": "What is the Mediterranean Sea?",
+          "isCorrect": true,
+          "isIncorrect": false,
+          "value": 3900,
+          "finalScore": 10000
+        },
+        {
+          "contestant": "Milo",
+          "response": "What is the Meditterean Sea",
+          "isCorrect": false,
+          "isIncorrect": true,
+          "value": 4401,
+          "finalScore": 3399
+        }
+      ]
+    }
+  },
+  "finalScores": [
+    {
+      "player": "Trish",
+      "score": "$6,000"
+    },
+    {
+      "player": "Milo",
+      "score": "$3,399"
+    },
+    {
+      "player": "Melissa",
+      "score": "$10,000"
+    }
+  ],
+  "coryatScores": [
+    {
+      "player": "Trish",
+      "score": 4300
+    },
+    {
+      "player": "Milo",
+      "score": 6500
+    },
+    {
+      "player": "Melissa",
+      "score": 6100
+    }
+  ]
+}

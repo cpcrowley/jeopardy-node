@@ -1,0 +1,1705 @@
+{
+  "gameId": 359,
+  "showNumber": "64",
+  "title": "Show #64 - Thursday, December 6, 1984",
+  "date": "1984-12-06",
+  "comments": "",
+  "contestants": [
+    "Warren",
+    "Eva",
+    "Jay"
+  ],
+  "rounds": {
+    "jeopardy": {
+      "categories": [
+        "INSECTS",
+        "COLORS",
+        "NURSERY RHYMES",
+        "BOXING",
+        "POE",
+        "CABLE TV"
+      ],
+      "clues": [
+        {
+          "category": "BOXING",
+          "value": 100,
+          "clue": "Length of a full count",
+          "answer": "ten",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [
+            "Warren"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Warren",
+              "score": 100
+            },
+            {
+              "player": "Eva",
+              "score": 0
+            },
+            {
+              "player": "Jay",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "BOXING",
+          "value": 200,
+          "clue": "Term for tossing the terrycloth",
+          "answer": "throwing in the towel",
+          "isDailyDouble": false,
+          "orderNumber": 2,
+          "correctContestants": [
+            "Jay"
+          ],
+          "incorrectContestants": [
+            "Eva"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Warren",
+              "score": 100
+            },
+            {
+              "player": "Eva",
+              "score": -200
+            },
+            {
+              "player": "Jay",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "COLORS",
+          "value": 100,
+          "clue": "Colors that blend to make chartreuse",
+          "answer": "green and yellow",
+          "isDailyDouble": false,
+          "orderNumber": 3,
+          "correctContestants": [
+            "Jay"
+          ],
+          "incorrectContestants": [
+            "Warren"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Warren",
+              "score": 0
+            },
+            {
+              "player": "Eva",
+              "score": -200
+            },
+            {
+              "player": "Jay",
+              "score": 300
+            }
+          ]
+        },
+        {
+          "category": "COLORS",
+          "value": 200,
+          "clue": "When you're blooming with health, you're \"in\" it",
+          "answer": "in the pink",
+          "isDailyDouble": false,
+          "orderNumber": 4,
+          "correctContestants": [
+            "Jay"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Warren",
+              "score": 0
+            },
+            {
+              "player": "Eva",
+              "score": -200
+            },
+            {
+              "player": "Jay",
+              "score": 500
+            }
+          ]
+        },
+        {
+          "category": "COLORS",
+          "value": 300,
+          "clue": "Ring Lardner, Dalton Trumbo, & Will Geer were on one in the 50s",
+          "answer": "a blacklist",
+          "isDailyDouble": false,
+          "orderNumber": 5,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Warren",
+              "score": 0
+            },
+            {
+              "player": "Eva",
+              "score": -200
+            },
+            {
+              "player": "Jay",
+              "score": 500
+            }
+          ]
+        },
+        {
+          "category": "COLORS",
+          "value": 400,
+          "clue": "Colorful causeway Elton John bids adieu to in '73 hit",
+          "answer": "the Yellow Brick Road",
+          "isDailyDouble": false,
+          "orderNumber": 6,
+          "correctContestants": [
+            "Jay"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Warren",
+              "score": 0
+            },
+            {
+              "player": "Eva",
+              "score": -200
+            },
+            {
+              "player": "Jay",
+              "score": 900
+            }
+          ]
+        },
+        {
+          "category": "COLORS",
+          "value": 500,
+          "clue": "It was said rajahs gave their rivals these animals to create financial burden",
+          "answer": "white elephants",
+          "isDailyDouble": false,
+          "orderNumber": 7,
+          "correctContestants": [
+            "Jay"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Warren",
+              "score": 0
+            },
+            {
+              "player": "Eva",
+              "score": -200
+            },
+            {
+              "player": "Jay",
+              "score": 1400
+            }
+          ]
+        },
+        {
+          "category": "INSECTS",
+          "value": 100,
+          "clue": "\"Cooties\"; the lousiest insects of all",
+          "answer": "lice",
+          "isDailyDouble": false,
+          "orderNumber": 8,
+          "correctContestants": [
+            "Eva"
+          ],
+          "incorrectContestants": [
+            "Warren"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Warren",
+              "score": -100
+            },
+            {
+              "player": "Eva",
+              "score": -100
+            },
+            {
+              "player": "Jay",
+              "score": 1400
+            }
+          ]
+        },
+        {
+          "category": "NURSERY RHYMES",
+          "value": 100,
+          "clue": "Where the crooked man, the crooked cat, & the crooked mouse all lived",
+          "answer": "in a little crooked house",
+          "isDailyDouble": false,
+          "orderNumber": 9,
+          "correctContestants": [
+            "Jay"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Warren",
+              "score": -100
+            },
+            {
+              "player": "Eva",
+              "score": -100
+            },
+            {
+              "player": "Jay",
+              "score": 1500
+            }
+          ]
+        },
+        {
+          "category": "NURSERY RHYMES",
+          "value": 200,
+          "clue": "He killed Cock Robin",
+          "answer": "the sparrow",
+          "isDailyDouble": false,
+          "orderNumber": 10,
+          "correctContestants": [
+            "Warren"
+          ],
+          "incorrectContestants": [
+            "Jay"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Warren",
+              "score": 100
+            },
+            {
+              "player": "Eva",
+              "score": -100
+            },
+            {
+              "player": "Jay",
+              "score": 1300
+            }
+          ]
+        },
+        {
+          "category": "CABLE TV",
+          "value": 100,
+          "clue": "What MTV plays 24 hours a day",
+          "answer": "music videos",
+          "isDailyDouble": false,
+          "orderNumber": 11,
+          "correctContestants": [
+            "Jay"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Warren",
+              "score": 100
+            },
+            {
+              "player": "Eva",
+              "score": -100
+            },
+            {
+              "player": "Jay",
+              "score": 1400
+            }
+          ]
+        },
+        {
+          "category": "INSECTS",
+          "value": 200,
+          "clue": "These insects flash yellow lights to find mates",
+          "answer": "fireflies (or lightning bugs or glowworms)",
+          "isDailyDouble": false,
+          "orderNumber": 12,
+          "correctContestants": [
+            "Jay"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Warren",
+              "score": 100
+            },
+            {
+              "player": "Eva",
+              "score": -100
+            },
+            {
+              "player": "Jay",
+              "score": 1600
+            }
+          ]
+        },
+        {
+          "category": "INSECTS",
+          "value": 300,
+          "clue": "Gatherings of this type of grasshopper have covered 2,000 square miles at a time",
+          "answer": "locust swarms",
+          "isDailyDouble": false,
+          "orderNumber": 13,
+          "correctContestants": [
+            "Jay"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Warren",
+              "score": 100
+            },
+            {
+              "player": "Eva",
+              "score": -100
+            },
+            {
+              "player": "Jay",
+              "score": 1900
+            }
+          ]
+        },
+        {
+          "category": "INSECTS",
+          "value": 400,
+          "clue": "Its name comes from its worshipful appearance, not its voracious appetite",
+          "answer": "a praying mantis",
+          "isDailyDouble": false,
+          "orderNumber": 14,
+          "correctContestants": [
+            "Eva"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Warren",
+              "score": 100
+            },
+            {
+              "player": "Eva",
+              "score": 300
+            },
+            {
+              "player": "Jay",
+              "score": 1900
+            }
+          ]
+        },
+        {
+          "category": "INSECTS",
+          "value": 500,
+          "clue": "The Bible says a sluggard should consider this industrious insect",
+          "answer": "an ant",
+          "isDailyDouble": false,
+          "orderNumber": 15,
+          "correctContestants": [
+            "Eva"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Warren",
+              "score": 100
+            },
+            {
+              "player": "Eva",
+              "score": 800
+            },
+            {
+              "player": "Jay",
+              "score": 1900
+            }
+          ]
+        },
+        {
+          "category": "POE",
+          "value": 100,
+          "clue": "Time when the raven came rapping",
+          "answer": "midnight",
+          "isDailyDouble": false,
+          "orderNumber": 16,
+          "correctContestants": [
+            "Warren"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Warren",
+              "score": 200
+            },
+            {
+              "player": "Eva",
+              "score": 800
+            },
+            {
+              "player": "Jay",
+              "score": 1900
+            }
+          ]
+        },
+        {
+          "category": "CABLE TV",
+          "value": 200,
+          "clue": "Cable channel where you'd find \"Mouseterpiece Theatre\"",
+          "answer": "the Disney Channel",
+          "isDailyDouble": false,
+          "orderNumber": 17,
+          "correctContestants": [
+            "Warren"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Warren",
+              "score": 400
+            },
+            {
+              "player": "Eva",
+              "score": 800
+            },
+            {
+              "player": "Jay",
+              "score": 1900
+            }
+          ]
+        },
+        {
+          "category": "BOXING",
+          "value": 300,
+          "clue": "Meaning of TKO",
+          "answer": "technical knockout",
+          "isDailyDouble": false,
+          "orderNumber": 18,
+          "correctContestants": [
+            "Warren"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Warren",
+              "score": 700
+            },
+            {
+              "player": "Eva",
+              "score": 800
+            },
+            {
+              "player": "Jay",
+              "score": 1900
+            }
+          ]
+        },
+        {
+          "category": "BOXING",
+          "value": 400,
+          "clue": "In '81, he got $12 mil. for beating welterweight Thomas Hearns",
+          "answer": "Sugar Ray Leonard",
+          "isDailyDouble": false,
+          "orderNumber": 19,
+          "correctContestants": [
+            "Warren"
+          ],
+          "incorrectContestants": [
+            "Jay"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Warren",
+              "score": 1100
+            },
+            {
+              "player": "Eva",
+              "score": 800
+            },
+            {
+              "player": "Jay",
+              "score": 1500
+            }
+          ]
+        },
+        {
+          "category": "NURSERY RHYMES",
+          "value": 300,
+          "clue": "His kisses drove girls to tears",
+          "answer": "Georgie Porgie",
+          "isDailyDouble": false,
+          "orderNumber": 20,
+          "correctContestants": [
+            "Warren"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Warren",
+              "score": 1400
+            },
+            {
+              "player": "Eva",
+              "score": 800
+            },
+            {
+              "player": "Jay",
+              "score": 1500
+            }
+          ]
+        },
+        {
+          "category": "BOXING",
+          "value": 500,
+          "clue": "In '65, it took Muhammad Ali less than 2 min. to beat him",
+          "answer": "Sonny Liston",
+          "isDailyDouble": false,
+          "orderNumber": 21,
+          "correctContestants": [
+            "Warren"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Warren",
+              "score": 1900
+            },
+            {
+              "player": "Eva",
+              "score": 800
+            },
+            {
+              "player": "Jay",
+              "score": 1500
+            }
+          ]
+        },
+        {
+          "category": "CABLE TV",
+          "value": 900,
+          "clue": "Comedy group which went from CBC to NBC to Cinemax",
+          "answer": "SCTV",
+          "isDailyDouble": true,
+          "orderNumber": 22,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Warren"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Warren",
+              "score": 1000
+            },
+            {
+              "player": "Eva",
+              "score": 800
+            },
+            {
+              "player": "Jay",
+              "score": 1500
+            }
+          ]
+        },
+        {
+          "category": "CABLE TV",
+          "value": 400,
+          "clue": "His flagship station is WTBS, Atlanta",
+          "answer": "Ted Turner",
+          "isDailyDouble": false,
+          "orderNumber": 23,
+          "correctContestants": [
+            "Warren"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Warren",
+              "score": 1400
+            },
+            {
+              "player": "Eva",
+              "score": 800
+            },
+            {
+              "player": "Jay",
+              "score": 1500
+            }
+          ]
+        },
+        {
+          "category": "CABLE TV",
+          "value": 500,
+          "clue": "Actress who started the \"Faerie Tale Theatre\"",
+          "answer": "Shelley Duvall",
+          "isDailyDouble": false,
+          "orderNumber": 24,
+          "correctContestants": [
+            "Warren"
+          ],
+          "incorrectContestants": [
+            "Jay"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Warren",
+              "score": 1900
+            },
+            {
+              "player": "Eva",
+              "score": 800
+            },
+            {
+              "player": "Jay",
+              "score": 1000
+            }
+          ]
+        },
+        {
+          "category": "NURSERY RHYMES",
+          "value": 400,
+          "clue": "At the count of 7, all good children go there",
+          "answer": "heaven",
+          "isDailyDouble": false,
+          "orderNumber": 25,
+          "correctContestants": [
+            "Eva"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Warren",
+              "score": 1900
+            },
+            {
+              "player": "Eva",
+              "score": 1200
+            },
+            {
+              "player": "Jay",
+              "score": 1000
+            }
+          ]
+        },
+        {
+          "category": "NURSERY RHYMES",
+          "value": 500,
+          "clue": "Mother Goose's mode of transportation",
+          "answer": "a goose (or gander)",
+          "isDailyDouble": false,
+          "orderNumber": 26,
+          "correctContestants": [
+            "Eva"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Warren",
+              "score": 1900
+            },
+            {
+              "player": "Eva",
+              "score": 1700
+            },
+            {
+              "player": "Jay",
+              "score": 1000
+            }
+          ]
+        },
+        {
+          "category": "POE",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Warren",
+              "score": 1900
+            },
+            {
+              "player": "Eva",
+              "score": 1700
+            },
+            {
+              "player": "Jay",
+              "score": 1000
+            }
+          ]
+        },
+        {
+          "category": "POE",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Warren",
+              "score": 1900
+            },
+            {
+              "player": "Eva",
+              "score": 1700
+            },
+            {
+              "player": "Jay",
+              "score": 1000
+            }
+          ]
+        },
+        {
+          "category": "POE",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Warren",
+              "score": 1900
+            },
+            {
+              "player": "Eva",
+              "score": 1700
+            },
+            {
+              "player": "Jay",
+              "score": 1000
+            }
+          ]
+        },
+        {
+          "category": "POE",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Warren",
+              "score": 1900
+            },
+            {
+              "player": "Eva",
+              "score": 1700
+            },
+            {
+              "player": "Jay",
+              "score": 1000
+            }
+          ]
+        }
+      ],
+      "firstBreakScores": [
+        {
+          "player": "Warren",
+          "score": 100
+        },
+        {
+          "player": "Eva",
+          "score": -100
+        },
+        {
+          "player": "Jay",
+          "score": 1300
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "Warren",
+          "score": 1900
+        },
+        {
+          "player": "Eva",
+          "score": 1700
+        },
+        {
+          "player": "Jay",
+          "score": 1000
+        }
+      ]
+    },
+    "doubleJeopardy": {
+      "categories": [
+        "GEOLOGY",
+        "THANKSGIVING",
+        "STREISAND FILMS",
+        "BOTANY",
+        "U.S. CITIES",
+        "\"IN\" CROWD"
+      ],
+      "clues": [
+        {
+          "category": "GEOLOGY",
+          "value": 200,
+          "clue": "The Star of India is this type of precious stone",
+          "answer": "a sapphire",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Eva"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Warren",
+              "score": 1700
+            },
+            {
+              "player": "Eva",
+              "score": 1500
+            },
+            {
+              "player": "Jay",
+              "score": 1200
+            }
+          ]
+        },
+        {
+          "category": "GEOLOGY",
+          "value": 400,
+          "clue": "The mouth of the Mississippi or a Helen Reddy \"Dawn\"",
+          "answer": "a delta",
+          "isDailyDouble": false,
+          "orderNumber": 2,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Warren",
+              "score": 1700
+            },
+            {
+              "player": "Eva",
+              "score": 1500
+            },
+            {
+              "player": "Jay",
+              "score": 1600
+            }
+          ]
+        },
+        {
+          "category": "GEOLOGY",
+          "value": 600,
+          "clue": "Pliny the Elder, Roman geologist, died while observing this volcano erupting",
+          "answer": "Vesuvius",
+          "isDailyDouble": false,
+          "orderNumber": 3,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Warren",
+              "score": 1700
+            },
+            {
+              "player": "Eva",
+              "score": 1500
+            },
+            {
+              "player": "Jay",
+              "score": 2200
+            }
+          ]
+        },
+        {
+          "category": "GEOLOGY",
+          "value": 700,
+          "clue": "Earth's atmosphere layer which lies between the troposphere & the mesosphere",
+          "answer": "the stratosphere",
+          "isDailyDouble": true,
+          "orderNumber": 4,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Warren",
+              "score": 1700
+            },
+            {
+              "player": "Eva",
+              "score": 1500
+            },
+            {
+              "player": "Jay",
+              "score": 1500
+            }
+          ]
+        },
+        {
+          "category": "GEOLOGY",
+          "value": 1000,
+          "clue": "Rainwash, wind action & differential weathering formed this S. Dakota area",
+          "answer": "the Badlands",
+          "isDailyDouble": false,
+          "orderNumber": 5,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Warren",
+              "score": 1700
+            },
+            {
+              "player": "Eva",
+              "score": 1500
+            },
+            {
+              "player": "Jay",
+              "score": 2500
+            }
+          ]
+        },
+        {
+          "category": "BOTANY",
+          "value": 200,
+          "clue": "Collective name for poisonous mushrooms",
+          "answer": "toadstools",
+          "isDailyDouble": false,
+          "orderNumber": 6,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Warren",
+              "score": 1700
+            },
+            {
+              "player": "Eva",
+              "score": 1500
+            },
+            {
+              "player": "Jay",
+              "score": 2700
+            }
+          ]
+        },
+        {
+          "category": "BOTANY",
+          "value": 400,
+          "clue": "Because like an eye, they close at night, the English first called these flowers \"day's eyes\"",
+          "answer": "daisies",
+          "isDailyDouble": false,
+          "orderNumber": 7,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Warren",
+              "score": 1700
+            },
+            {
+              "player": "Eva",
+              "score": 1500
+            },
+            {
+              "player": "Jay",
+              "score": 3100
+            }
+          ]
+        },
+        {
+          "category": "BOTANY",
+          "value": 600,
+          "clue": "Type of plant the British call a \"creeper\"",
+          "answer": "a vine",
+          "isDailyDouble": false,
+          "orderNumber": 8,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Warren",
+              "score": 1700
+            },
+            {
+              "player": "Eva",
+              "score": 1500
+            },
+            {
+              "player": "Jay",
+              "score": 3700
+            }
+          ]
+        },
+        {
+          "category": "BOTANY",
+          "value": 800,
+          "clue": "The kumquat is in this fruit family",
+          "answer": "citrus",
+          "isDailyDouble": false,
+          "orderNumber": 9,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Warren",
+              "score": 1700
+            },
+            {
+              "player": "Eva",
+              "score": 2300
+            },
+            {
+              "player": "Jay",
+              "score": 3700
+            }
+          ]
+        },
+        {
+          "category": "\"IN\" CROWD",
+          "value": 200,
+          "clue": "Prison people",
+          "answer": "inmates",
+          "isDailyDouble": false,
+          "orderNumber": 10,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Warren",
+              "score": 1900
+            },
+            {
+              "player": "Eva",
+              "score": 2300
+            },
+            {
+              "player": "Jay",
+              "score": 3700
+            }
+          ]
+        },
+        {
+          "category": "U.S. CITIES",
+          "value": 200,
+          "clue": "The larger Kansas City is in this state",
+          "answer": "Missouri",
+          "isDailyDouble": false,
+          "orderNumber": 11,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Warren",
+              "score": 2100
+            },
+            {
+              "player": "Eva",
+              "score": 2300
+            },
+            {
+              "player": "Jay",
+              "score": 3700
+            }
+          ]
+        },
+        {
+          "category": "U.S. CITIES",
+          "value": 400,
+          "clue": "The Alamo is in the downtown of this city",
+          "answer": "San Antonio",
+          "isDailyDouble": false,
+          "orderNumber": 12,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Warren",
+              "score": 2500
+            },
+            {
+              "player": "Eva",
+              "score": 2300
+            },
+            {
+              "player": "Jay",
+              "score": 3700
+            }
+          ]
+        },
+        {
+          "category": "U.S. CITIES",
+          "value": 600,
+          "clue": "Via St. Lawrence Seaway, ships from Europe can reach this largest Minnesota port",
+          "answer": "Duluth",
+          "isDailyDouble": false,
+          "orderNumber": 13,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Warren",
+              "score": 3100
+            },
+            {
+              "player": "Eva",
+              "score": 2300
+            },
+            {
+              "player": "Jay",
+              "score": 3700
+            }
+          ]
+        },
+        {
+          "category": "U.S. CITIES",
+          "value": 800,
+          "clue": "It's California's 2nd largest in population",
+          "answer": "San Diego",
+          "isDailyDouble": false,
+          "orderNumber": 14,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Jay"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Warren",
+              "score": 3900
+            },
+            {
+              "player": "Eva",
+              "score": 1500
+            },
+            {
+              "player": "Jay",
+              "score": 2900
+            }
+          ]
+        },
+        {
+          "category": "U.S. CITIES",
+          "value": 1000,
+          "clue": "The Cuyahoga River has been known to catch fire in this industrial city:",
+          "answer": "Cleveland",
+          "isDailyDouble": true,
+          "orderNumber": 15,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Warren",
+              "score": 2900
+            },
+            {
+              "player": "Eva",
+              "score": 1500
+            },
+            {
+              "player": "Jay",
+              "score": 2900
+            }
+          ]
+        },
+        {
+          "category": "\"IN\" CROWD",
+          "value": 400,
+          "clue": "Something you can't do without",
+          "answer": "indispensable",
+          "isDailyDouble": false,
+          "orderNumber": 16,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Warren",
+              "score": 2500
+            },
+            {
+              "player": "Eva",
+              "score": 1500
+            },
+            {
+              "player": "Jay",
+              "score": 2900
+            }
+          ]
+        },
+        {
+          "category": "\"IN\" CROWD",
+          "value": 600,
+          "clue": "Extreme economic expansion",
+          "answer": "inflation",
+          "isDailyDouble": false,
+          "orderNumber": 17,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Warren",
+              "score": 2500
+            },
+            {
+              "player": "Eva",
+              "score": 1500
+            },
+            {
+              "player": "Jay",
+              "score": 3500
+            }
+          ]
+        },
+        {
+          "category": "THANKSGIVING",
+          "value": 200,
+          "clue": "Though it's been moved, it's still revered as Pilgrims' landing spot",
+          "answer": "Plymouth Rock",
+          "isDailyDouble": false,
+          "orderNumber": 18,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Warren",
+              "score": 2700
+            },
+            {
+              "player": "Eva",
+              "score": 1500
+            },
+            {
+              "player": "Jay",
+              "score": 3500
+            }
+          ]
+        },
+        {
+          "category": "\"IN\" CROWD",
+          "value": 800,
+          "clue": "What some do before they diet",
+          "answer": "indulge",
+          "isDailyDouble": false,
+          "orderNumber": 19,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Warren",
+              "score": 2700
+            },
+            {
+              "player": "Eva",
+              "score": 700
+            },
+            {
+              "player": "Jay",
+              "score": 3500
+            }
+          ]
+        },
+        {
+          "category": "\"IN\" CROWD",
+          "value": 1000,
+          "clue": "Delaware, Iowa, or Dakota",
+          "answer": "Indians",
+          "isDailyDouble": false,
+          "orderNumber": 20,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Warren",
+              "score": 2700
+            },
+            {
+              "player": "Eva",
+              "score": 1700
+            },
+            {
+              "player": "Jay",
+              "score": 3500
+            }
+          ]
+        },
+        {
+          "category": "THANKSGIVING",
+          "value": 600,
+          "clue": "Though not a Pilgrim, he organized their militia & was written up by Longfellow",
+          "answer": "Miles Standish",
+          "isDailyDouble": false,
+          "orderNumber": 21,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Warren",
+              "score": 2700
+            },
+            {
+              "player": "Eva",
+              "score": 1700
+            },
+            {
+              "player": "Jay",
+              "score": 3500
+            }
+          ]
+        },
+        {
+          "category": "STREISAND FILMS",
+          "value": 600,
+          "clue": "This film's \"Evergreen\" earned Barbra a composing Oscar",
+          "answer": "A Star Is Born",
+          "isDailyDouble": false,
+          "orderNumber": 22,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Warren",
+              "score": 3300
+            },
+            {
+              "player": "Eva",
+              "score": 1700
+            },
+            {
+              "player": "Jay",
+              "score": 2900
+            }
+          ]
+        },
+        {
+          "category": "THANKSGIVING",
+          "value": 400,
+          "clue": "Favorite movie munch, introduced to the Pilgrims by the Indians",
+          "answer": "popcorn",
+          "isDailyDouble": false,
+          "orderNumber": 23,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Warren",
+              "score": 3700
+            },
+            {
+              "player": "Eva",
+              "score": 1700
+            },
+            {
+              "player": "Jay",
+              "score": 2900
+            }
+          ]
+        },
+        {
+          "category": "STREISAND FILMS",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Warren",
+              "score": 3700
+            },
+            {
+              "player": "Eva",
+              "score": 1700
+            },
+            {
+              "player": "Jay",
+              "score": 2900
+            }
+          ]
+        },
+        {
+          "category": "STREISAND FILMS",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Warren",
+              "score": 3700
+            },
+            {
+              "player": "Eva",
+              "score": 1700
+            },
+            {
+              "player": "Jay",
+              "score": 2900
+            }
+          ]
+        },
+        {
+          "category": "THANKSGIVING",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Warren",
+              "score": 3700
+            },
+            {
+              "player": "Eva",
+              "score": 1700
+            },
+            {
+              "player": "Jay",
+              "score": 2900
+            }
+          ]
+        },
+        {
+          "category": "STREISAND FILMS",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Warren",
+              "score": 3700
+            },
+            {
+              "player": "Eva",
+              "score": 1700
+            },
+            {
+              "player": "Jay",
+              "score": 2900
+            }
+          ]
+        },
+        {
+          "category": "THANKSGIVING",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Warren",
+              "score": 3700
+            },
+            {
+              "player": "Eva",
+              "score": 1700
+            },
+            {
+              "player": "Jay",
+              "score": 2900
+            }
+          ]
+        },
+        {
+          "category": "STREISAND FILMS",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Warren",
+              "score": 3700
+            },
+            {
+              "player": "Eva",
+              "score": 1700
+            },
+            {
+              "player": "Jay",
+              "score": 2900
+            }
+          ]
+        },
+        {
+          "category": "BOTANY",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Warren",
+              "score": 3700
+            },
+            {
+              "player": "Eva",
+              "score": 1700
+            },
+            {
+              "player": "Jay",
+              "score": 2900
+            }
+          ]
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "Warren",
+          "score": 3700
+        },
+        {
+          "player": "Eva",
+          "score": 1700
+        },
+        {
+          "player": "Jay",
+          "score": 2900
+        }
+      ]
+    },
+    "finalJeopardy": {
+      "category": "WORLD HISTORY",
+      "clue": "In 1804 this Caribbean country became 1st black nation to gain freedom from European colonial rule",
+      "answer": "Haiti",
+      "responses": [
+        {
+          "contestant": "Eva",
+          "response": "What is Haiti",
+          "isCorrect": true,
+          "isIncorrect": false,
+          "value": 1500,
+          "finalScore": 3200
+        },
+        {
+          "contestant": "Jay",
+          "response": "Where is Haiti?",
+          "isCorrect": true,
+          "isIncorrect": false,
+          "value": 2500,
+          "finalScore": 5400
+        },
+        {
+          "contestant": "Warren",
+          "response": "What is The Bahamas",
+          "isCorrect": false,
+          "isIncorrect": true,
+          "value": 2300,
+          "finalScore": 1400
+        }
+      ]
+    }
+  },
+  "finalScores": [
+    {
+      "player": "Warren",
+      "score": "$1,400"
+    },
+    {
+      "player": "Eva",
+      "score": "$3,200"
+    },
+    {
+      "player": "Jay",
+      "score": "$5,400"
+    }
+  ],
+  "coryatScores": [
+    {
+      "player": "Warren",
+      "score": 5600
+    },
+    {
+      "player": "Eva",
+      "score": 1700
+    },
+    {
+      "player": "Jay",
+      "score": 3600
+    }
+  ]
+}

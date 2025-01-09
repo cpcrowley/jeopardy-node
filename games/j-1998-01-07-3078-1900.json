@@ -1,0 +1,1700 @@
+{
+  "gameId": 1900,
+  "showNumber": "3078",
+  "title": "Show #3078 - Wednesday, January 7, 1998",
+  "date": "1998-01-07",
+  "comments": "",
+  "contestants": [
+    "Michael",
+    "Larry",
+    "Melanie"
+  ],
+  "rounds": {
+    "jeopardy": {
+      "categories": [
+        "FAIRIES",
+        "MOTTOES",
+        "THEY ALL PLAYED HAMLET",
+        "\"P\"OTPOURRI",
+        "ISLANDS",
+        "WET & WILD"
+      ],
+      "clues": [
+        {
+          "category": "ISLANDS",
+          "value": 100,
+          "clue": "The Danes call this island dependency in the north Atlantic Gronland",
+          "answer": "Greenland",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [
+            "Michael"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michael",
+              "score": 100
+            },
+            {
+              "player": "Larry",
+              "score": 0
+            },
+            {
+              "player": "Melanie",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "ISLANDS",
+          "value": 200,
+          "clue": "Hey, mon!  The Cayman Islands were colonized about 1734 by British settlers from this nearby island",
+          "answer": "Jamaica",
+          "isDailyDouble": false,
+          "orderNumber": 2,
+          "correctContestants": [
+            "Larry"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michael",
+              "score": 100
+            },
+            {
+              "player": "Larry",
+              "score": 200
+            },
+            {
+              "player": "Melanie",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "ISLANDS",
+          "value": 300,
+          "clue": "The Safety Islands off French Guiana consist of Royale, Saint-Joseph & this diabolical island",
+          "answer": "Devil's Island",
+          "isDailyDouble": false,
+          "orderNumber": 3,
+          "correctContestants": [
+            "Larry"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michael",
+              "score": 100
+            },
+            {
+              "player": "Larry",
+              "score": 500
+            },
+            {
+              "player": "Melanie",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "ISLANDS",
+          "value": 400,
+          "clue": "Politically, this Greek island is divided into 4 departments: Canea, Lasithi, Rethymne & Iraklion",
+          "answer": "Crete",
+          "isDailyDouble": false,
+          "orderNumber": 4,
+          "correctContestants": [
+            "Michael"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michael",
+              "score": 500
+            },
+            {
+              "player": "Larry",
+              "score": 500
+            },
+            {
+              "player": "Melanie",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "ISLANDS",
+          "value": 500,
+          "clue": "This island was specially built for San Francisco's Golden Gate Int'l Exposition of 1939 & 1940",
+          "answer": "Treasure Island",
+          "isDailyDouble": false,
+          "orderNumber": 5,
+          "correctContestants": [
+            "Larry"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michael",
+              "score": 500
+            },
+            {
+              "player": "Larry",
+              "score": 1000
+            },
+            {
+              "player": "Melanie",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "\"P\"OTPOURRI",
+          "value": 100,
+          "clue": "If you've been to a prom, you should know \"prom\" is short for this, also a popular name for a shopping mall",
+          "answer": "Promenade",
+          "isDailyDouble": false,
+          "orderNumber": 6,
+          "correctContestants": [
+            "Larry"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michael",
+              "score": 500
+            },
+            {
+              "player": "Larry",
+              "score": 1100
+            },
+            {
+              "player": "Melanie",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "\"P\"OTPOURRI",
+          "value": 200,
+          "clue": "A type of large snake; it may be \"reticulated\"",
+          "answer": "Python",
+          "isDailyDouble": false,
+          "orderNumber": 7,
+          "correctContestants": [
+            "Michael"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michael",
+              "score": 700
+            },
+            {
+              "player": "Larry",
+              "score": 1100
+            },
+            {
+              "player": "Melanie",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "\"P\"OTPOURRI",
+          "value": 300,
+          "clue": "From the name of a river, it's the \"fever\" that tends to afflict national politicians",
+          "answer": "Potomac fever",
+          "isDailyDouble": false,
+          "orderNumber": 8,
+          "correctContestants": [
+            "Michael"
+          ],
+          "incorrectContestants": [
+            "Melanie"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michael",
+              "score": 1000
+            },
+            {
+              "player": "Larry",
+              "score": 1100
+            },
+            {
+              "player": "Melanie",
+              "score": -300
+            }
+          ]
+        },
+        {
+          "category": "\"P\"OTPOURRI",
+          "value": 400,
+          "clue": "It's the kind of lurid fiction printed on the low-quality paper of the same name",
+          "answer": "Pulp fiction",
+          "isDailyDouble": false,
+          "orderNumber": 9,
+          "correctContestants": [
+            "Larry"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michael",
+              "score": 1000
+            },
+            {
+              "player": "Larry",
+              "score": 1500
+            },
+            {
+              "player": "Melanie",
+              "score": -300
+            }
+          ]
+        },
+        {
+          "category": "\"P\"OTPOURRI",
+          "value": 500,
+          "clue": "This term for a social outcast is from the Tamil for \"drummer\", a position once held by a person of low caste",
+          "answer": "Pariah",
+          "isDailyDouble": false,
+          "orderNumber": 10,
+          "correctContestants": [
+            "Michael"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michael",
+              "score": 1500
+            },
+            {
+              "player": "Larry",
+              "score": 1500
+            },
+            {
+              "player": "Melanie",
+              "score": -300
+            }
+          ]
+        },
+        {
+          "category": "FAIRIES",
+          "value": 100,
+          "clue": "He puts \"sleepy dust\" in children's eyes to help them sleep",
+          "answer": "Sandman",
+          "isDailyDouble": false,
+          "orderNumber": 11,
+          "correctContestants": [
+            "Larry"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michael",
+              "score": 1500
+            },
+            {
+              "player": "Larry",
+              "score": 1600
+            },
+            {
+              "player": "Melanie",
+              "score": -300
+            }
+          ]
+        },
+        {
+          "category": "FAIRIES",
+          "value": 200,
+          "clue": "On stage, this fairy, visible only as a dancing light, swallows poison to save Peter Pan's life",
+          "answer": "Tinker Bell",
+          "isDailyDouble": false,
+          "orderNumber": 12,
+          "correctContestants": [
+            "Melanie"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michael",
+              "score": 1500
+            },
+            {
+              "player": "Larry",
+              "score": 1600
+            },
+            {
+              "player": "Melanie",
+              "score": -100
+            }
+          ]
+        },
+        {
+          "category": "THEY ALL PLAYED HAMLET",
+          "value": 100,
+          "clue": "Fans from around the world sped to Winnipeg to see this \"Speed\" star play Hamlet there in 1995",
+          "answer": "Keanu Reeves",
+          "isDailyDouble": false,
+          "orderNumber": 13,
+          "correctContestants": [
+            "Michael"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michael",
+              "score": 1600
+            },
+            {
+              "player": "Larry",
+              "score": 1600
+            },
+            {
+              "player": "Melanie",
+              "score": -100
+            }
+          ]
+        },
+        {
+          "category": "THEY ALL PLAYED HAMLET",
+          "value": 200,
+          "clue": "He's only 9 years younger than Glenn Close, but he called her Mom in Zeffirelli's 1990 version",
+          "answer": "Mel Gibson",
+          "isDailyDouble": false,
+          "orderNumber": 14,
+          "correctContestants": [
+            "Larry"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michael",
+              "score": 1600
+            },
+            {
+              "player": "Larry",
+              "score": 1800
+            },
+            {
+              "player": "Melanie",
+              "score": -100
+            }
+          ]
+        },
+        {
+          "category": "FAIRIES",
+          "value": 300,
+          "clue": "In December 1892 \"The Nutcracker\" was first produced with Antonietta Dell'era in this role",
+          "answer": "Sugar Plum Fairy",
+          "isDailyDouble": false,
+          "orderNumber": 15,
+          "correctContestants": [
+            "Michael"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michael",
+              "score": 1900
+            },
+            {
+              "player": "Larry",
+              "score": 1800
+            },
+            {
+              "player": "Melanie",
+              "score": -100
+            }
+          ]
+        },
+        {
+          "category": "MOTTOES",
+          "value": 100,
+          "clue": "Be prepared to tell us that this group's motto is \"Be Prepared\"",
+          "answer": "Boy Scouts",
+          "isDailyDouble": false,
+          "orderNumber": 16,
+          "correctContestants": [
+            "Larry"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michael",
+              "score": 1900
+            },
+            {
+              "player": "Larry",
+              "score": 1900
+            },
+            {
+              "player": "Melanie",
+              "score": -100
+            }
+          ]
+        },
+        {
+          "category": "FAIRIES",
+          "value": 400,
+          "clue": "This mischievous fairy speaks the epilogue of Shakespeare's \"A Midsummer Night's Dream\"",
+          "answer": "Puck",
+          "isDailyDouble": false,
+          "orderNumber": 17,
+          "correctContestants": [
+            "Michael"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michael",
+              "score": 2300
+            },
+            {
+              "player": "Larry",
+              "score": 1900
+            },
+            {
+              "player": "Melanie",
+              "score": -100
+            }
+          ]
+        },
+        {
+          "category": "MOTTOES",
+          "value": 200,
+          "clue": "\"Ring\" in if you know it's engraved with the motto \"Proclaim Liberty Throughout All The Land...\"",
+          "answer": "Liberty Bell",
+          "isDailyDouble": false,
+          "orderNumber": 18,
+          "correctContestants": [
+            "Melanie"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michael",
+              "score": 2300
+            },
+            {
+              "player": "Larry",
+              "score": 1900
+            },
+            {
+              "player": "Melanie",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "category": "THEY ALL PLAYED HAMLET",
+          "value": 300,
+          "clue": "The role of Obi-Wan Kenobi was light-years away when he played Hamlet at the Old Vic in 1938",
+          "answer": "Sir Alec Guinness",
+          "isDailyDouble": false,
+          "orderNumber": 19,
+          "correctContestants": [
+            "Melanie"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michael",
+              "score": 2300
+            },
+            {
+              "player": "Larry",
+              "score": 1900
+            },
+            {
+              "player": "Melanie",
+              "score": 400
+            }
+          ]
+        },
+        {
+          "category": "THEY ALL PLAYED HAMLET",
+          "value": 500,
+          "clue": "He played Hamlet at the New York Shakespeare Festival before he hammed it up as Mike Hammer:",
+          "answer": "Stacy Keach",
+          "isDailyDouble": true,
+          "orderNumber": 20,
+          "correctContestants": [
+            "Melanie"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michael",
+              "score": 2300
+            },
+            {
+              "player": "Larry",
+              "score": 1900
+            },
+            {
+              "player": "Melanie",
+              "score": 900
+            }
+          ]
+        },
+        {
+          "category": "THEY ALL PLAYED HAMLET",
+          "value": 500,
+          "clue": "This star of \"A Fish Called Wanda\" not only starred in but directed a 1990 production of \"Hamlet\"",
+          "answer": "Kevin Kline",
+          "isDailyDouble": false,
+          "orderNumber": 21,
+          "correctContestants": [
+            "Melanie"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michael",
+              "score": 2300
+            },
+            {
+              "player": "Larry",
+              "score": 1900
+            },
+            {
+              "player": "Melanie",
+              "score": 1400
+            }
+          ]
+        },
+        {
+          "category": "MOTTOES",
+          "value": 300,
+          "clue": "Put a feather in your cappa if you know this Greek society's motto is \"Philosophy The Guide Of Life\"",
+          "answer": "Phi Beta Kappa",
+          "isDailyDouble": false,
+          "orderNumber": 22,
+          "correctContestants": [
+            "Larry"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michael",
+              "score": 2300
+            },
+            {
+              "player": "Larry",
+              "score": 2200
+            },
+            {
+              "player": "Melanie",
+              "score": 1400
+            }
+          ]
+        },
+        {
+          "category": "FAIRIES",
+          "value": 500,
+          "clue": "Sometimes a fairy will steal one of these & leave a changeling in its place",
+          "answer": "Baby",
+          "isDailyDouble": false,
+          "orderNumber": 23,
+          "correctContestants": [
+            "Melanie"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michael",
+              "score": 2300
+            },
+            {
+              "player": "Larry",
+              "score": 2200
+            },
+            {
+              "player": "Melanie",
+              "score": 1900
+            }
+          ]
+        },
+        {
+          "category": "MOTTOES",
+          "value": 400,
+          "clue": "\"Power To The People\" was one of the mottoes of this '60s militant group, founded in Oakland",
+          "answer": "Black Panthers",
+          "isDailyDouble": false,
+          "orderNumber": 24,
+          "correctContestants": [
+            "Larry"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michael",
+              "score": 2300
+            },
+            {
+              "player": "Larry",
+              "score": 2600
+            },
+            {
+              "player": "Melanie",
+              "score": 1900
+            }
+          ]
+        },
+        {
+          "category": "MOTTOES",
+          "value": 500,
+          "clue": "\"Duty, Honor, Country\" is the motto of this New York school",
+          "answer": "U.S. Military Academy/West Point/Army",
+          "isDailyDouble": false,
+          "orderNumber": 25,
+          "correctContestants": [
+            "Michael"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michael",
+              "score": 2800
+            },
+            {
+              "player": "Larry",
+              "score": 2600
+            },
+            {
+              "player": "Melanie",
+              "score": 1900
+            }
+          ]
+        },
+        {
+          "category": "WET & WILD",
+          "value": 100,
+          "clue": "Of a bird, a fish or an insect, what a water boatman is",
+          "answer": "Insect",
+          "isDailyDouble": false,
+          "orderNumber": 26,
+          "correctContestants": [
+            "Melanie"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michael",
+              "score": 2800
+            },
+            {
+              "player": "Larry",
+              "score": 2600
+            },
+            {
+              "player": "Melanie",
+              "score": 2000
+            }
+          ]
+        },
+        {
+          "category": "WET & WILD",
+          "value": 200,
+          "clue": "The American Water & Irish Water breeds of this dog are both noted for retrieving waterfowl",
+          "answer": "Spaniel",
+          "isDailyDouble": false,
+          "orderNumber": 27,
+          "correctContestants": [
+            "Melanie"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michael",
+              "score": 2800
+            },
+            {
+              "player": "Larry",
+              "score": 2600
+            },
+            {
+              "player": "Melanie",
+              "score": 2200
+            }
+          ]
+        },
+        {
+          "category": "WET & WILD",
+          "value": 300,
+          "clue": "Bubalus babalis is the scientific name of this animal also known as the water ox",
+          "answer": "Water buffalo",
+          "isDailyDouble": false,
+          "orderNumber": 28,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Michael",
+              "score": 2800
+            },
+            {
+              "player": "Larry",
+              "score": 2600
+            },
+            {
+              "player": "Melanie",
+              "score": 2200
+            }
+          ]
+        },
+        {
+          "category": "WET & WILD",
+          "value": 400,
+          "clue": "Water hog is another name for this, the largest living rodent, that looks like a giant guinea pig",
+          "answer": "Capybara",
+          "isDailyDouble": false,
+          "orderNumber": 29,
+          "correctContestants": [
+            "Larry"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michael",
+              "score": 2800
+            },
+            {
+              "player": "Larry",
+              "score": 3000
+            },
+            {
+              "player": "Melanie",
+              "score": 2200
+            }
+          ]
+        },
+        {
+          "category": "WET & WILD",
+          "value": 500,
+          "clue": "The water opossum is also called the yapok, in honor of this continent's Oyapok River",
+          "answer": "South America",
+          "isDailyDouble": false,
+          "orderNumber": 30,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Larry",
+            "Melanie"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Michael",
+              "score": 2800
+            },
+            {
+              "player": "Larry",
+              "score": 2500
+            },
+            {
+              "player": "Melanie",
+              "score": 1700
+            }
+          ]
+        }
+      ],
+      "firstBreakScores": [
+        {
+          "player": "Michael",
+          "score": 1900
+        },
+        {
+          "player": "Larry",
+          "score": 1800
+        },
+        {
+          "player": "Melanie",
+          "score": -100
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "Michael",
+          "score": 2800
+        },
+        {
+          "player": "Larry",
+          "score": 2500
+        },
+        {
+          "player": "Melanie",
+          "score": 1700
+        }
+      ]
+    },
+    "doubleJeopardy": {
+      "categories": [
+        "MYTHOLOGY",
+        "TRAVEL U.S.A.",
+        "ROYALTY",
+        "WOMEN IN SPORTS",
+        "DIBS!",
+        "BEFORE & AFTER"
+      ],
+      "clues": [
+        {
+          "category": "ROYALTY",
+          "value": 200,
+          "clue": "Isabella II was proclaimed queen of this country a few days before her third birthday, in 1833",
+          "answer": "Spain",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michael",
+              "score": 2800
+            },
+            {
+              "player": "Larry",
+              "score": 2700
+            },
+            {
+              "player": "Melanie",
+              "score": 1700
+            }
+          ]
+        },
+        {
+          "category": "TRAVEL U.S.A.",
+          "value": 200,
+          "clue": "A nat'l memorial near Kitty Hawk features reconstructions of the camp & hangar used by this pair",
+          "answer": "The Wright Brothers",
+          "isDailyDouble": false,
+          "orderNumber": 2,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michael",
+              "score": 2800
+            },
+            {
+              "player": "Larry",
+              "score": 2900
+            },
+            {
+              "player": "Melanie",
+              "score": 1700
+            }
+          ]
+        },
+        {
+          "category": "TRAVEL U.S.A.",
+          "value": 800,
+          "clue": "You can visit the Netherlands Museum without ever leaving the USA; it's located in this Michigan city",
+          "answer": "Holland",
+          "isDailyDouble": false,
+          "orderNumber": 3,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michael",
+              "score": 2800
+            },
+            {
+              "player": "Larry",
+              "score": 3700
+            },
+            {
+              "player": "Melanie",
+              "score": 1700
+            }
+          ]
+        },
+        {
+          "category": "TRAVEL U.S.A.",
+          "value": 1000,
+          "clue": "For some fun in this Pennsylvania city, drop by the Dutch Wonderland Family Fun Park",
+          "answer": "Lancaster",
+          "isDailyDouble": false,
+          "orderNumber": 4,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michael",
+              "score": 3800
+            },
+            {
+              "player": "Larry",
+              "score": 3700
+            },
+            {
+              "player": "Melanie",
+              "score": 1700
+            }
+          ]
+        },
+        {
+          "category": "MYTHOLOGY",
+          "value": 200,
+          "clue": "She had the \"face that launched a thousand ships\"; sounds painful!",
+          "answer": "Helen of Troy",
+          "isDailyDouble": false,
+          "orderNumber": 5,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michael",
+              "score": 3800
+            },
+            {
+              "player": "Larry",
+              "score": 3900
+            },
+            {
+              "player": "Melanie",
+              "score": 1700
+            }
+          ]
+        },
+        {
+          "category": "TRAVEL U.S.A.",
+          "value": 600,
+          "clue": "Wish you were in Dixie -- National Forest?  You'll find it near Bryce Canyon in this state",
+          "answer": "Utah",
+          "isDailyDouble": false,
+          "orderNumber": 6,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michael",
+              "score": 3800
+            },
+            {
+              "player": "Larry",
+              "score": 4500
+            },
+            {
+              "player": "Melanie",
+              "score": 1700
+            }
+          ]
+        },
+        {
+          "category": "WOMEN IN SPORTS",
+          "value": 800,
+          "clue": "In 1996 Christy Martin became the first female pro in this sport to be featured live on national TV",
+          "answer": "Boxing",
+          "isDailyDouble": false,
+          "orderNumber": 7,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Michael",
+              "score": 3800
+            },
+            {
+              "player": "Larry",
+              "score": 4500
+            },
+            {
+              "player": "Melanie",
+              "score": 900
+            }
+          ]
+        },
+        {
+          "category": "WOMEN IN SPORTS",
+          "value": 1000,
+          "clue": "In 1997 this 14-year-old American became the youngest women's world figure skating champion",
+          "answer": "Tara Lipinski",
+          "isDailyDouble": false,
+          "orderNumber": 8,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michael",
+              "score": 4800
+            },
+            {
+              "player": "Larry",
+              "score": 4500
+            },
+            {
+              "player": "Melanie",
+              "score": 900
+            }
+          ]
+        },
+        {
+          "category": "MYTHOLOGY",
+          "value": 400,
+          "clue": "Believing Thisbe to be dead after finding her bloody veil, this youth killed himself",
+          "answer": "Pyramus",
+          "isDailyDouble": false,
+          "orderNumber": 9,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michael",
+              "score": 4800
+            },
+            {
+              "player": "Larry",
+              "score": 4500
+            },
+            {
+              "player": "Melanie",
+              "score": 1300
+            }
+          ]
+        },
+        {
+          "category": "MYTHOLOGY",
+          "value": 600,
+          "clue": "She was Pygmalion's \"statuesque\" wife",
+          "answer": "Galatea",
+          "isDailyDouble": false,
+          "orderNumber": 10,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michael",
+              "score": 4800
+            },
+            {
+              "player": "Larry",
+              "score": 4500
+            },
+            {
+              "player": "Melanie",
+              "score": 1900
+            }
+          ]
+        },
+        {
+          "category": "MYTHOLOGY",
+          "value": 1500,
+          "clue": "As the muse of this scholarly discipline, Clio probably tended to repeat herself",
+          "answer": "history",
+          "isDailyDouble": true,
+          "orderNumber": 11,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michael",
+              "score": 4800
+            },
+            {
+              "player": "Larry",
+              "score": 4500
+            },
+            {
+              "player": "Melanie",
+              "score": 3400
+            }
+          ]
+        },
+        {
+          "category": "MYTHOLOGY",
+          "value": 1000,
+          "clue": "Vulcan's Greek counterpart, he created Achilles' armor",
+          "answer": "Hephaestus",
+          "isDailyDouble": false,
+          "orderNumber": 12,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michael",
+              "score": 4800
+            },
+            {
+              "player": "Larry",
+              "score": 4500
+            },
+            {
+              "player": "Melanie",
+              "score": 4400
+            }
+          ]
+        },
+        {
+          "category": "TRAVEL U.S.A.",
+          "value": 400,
+          "clue": "Open to the public, a St. Louis farm once owned by Ulysses Grant is now operated by this brewery",
+          "answer": "Anheuser-Busch",
+          "isDailyDouble": false,
+          "orderNumber": 13,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michael",
+              "score": 4800
+            },
+            {
+              "player": "Larry",
+              "score": 4900
+            },
+            {
+              "player": "Melanie",
+              "score": 4000
+            }
+          ]
+        },
+        {
+          "category": "WOMEN IN SPORTS",
+          "value": 600,
+          "clue": "Kathy Whitworth was the first woman in this sport to win a million dollars in prize money",
+          "answer": "Golf",
+          "isDailyDouble": false,
+          "orderNumber": 14,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michael",
+              "score": 4800
+            },
+            {
+              "player": "Larry",
+              "score": 5500
+            },
+            {
+              "player": "Melanie",
+              "score": 4000
+            }
+          ]
+        },
+        {
+          "category": "DIBS!",
+          "value": 800,
+          "clue": "When this native group had dibs on the Mexico City area, they called it Tenochtitlan",
+          "answer": "Aztecs",
+          "isDailyDouble": false,
+          "orderNumber": 15,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michael",
+              "score": 4800
+            },
+            {
+              "player": "Larry",
+              "score": 6300
+            },
+            {
+              "player": "Melanie",
+              "score": 4000
+            }
+          ]
+        },
+        {
+          "category": "DIBS!",
+          "value": 1000,
+          "clue": "The Russians & Japanese both want these northern islands that were first occupied by the Ainu",
+          "answer": "Kuril Islands",
+          "isDailyDouble": false,
+          "orderNumber": 16,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michael",
+              "score": 4800
+            },
+            {
+              "player": "Larry",
+              "score": 7300
+            },
+            {
+              "player": "Melanie",
+              "score": 4000
+            }
+          ]
+        },
+        {
+          "category": "DIBS!",
+          "value": 600,
+          "clue": "This 2-word term coined in 1845 asserted that the U.S. had dibs on land stretching to the Pacific",
+          "answer": "Manifest destiny",
+          "isDailyDouble": false,
+          "orderNumber": 17,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michael",
+              "score": 5400
+            },
+            {
+              "player": "Larry",
+              "score": 7300
+            },
+            {
+              "player": "Melanie",
+              "score": 4000
+            }
+          ]
+        },
+        {
+          "category": "ROYALTY",
+          "value": 1000,
+          "clue": "Duchess Sophie of Bavaria married this tiny country's Crown Prince Alois in 1993, in Vaduz",
+          "answer": "Liechtenstein",
+          "isDailyDouble": false,
+          "orderNumber": 18,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michael",
+              "score": 6400
+            },
+            {
+              "player": "Larry",
+              "score": 7300
+            },
+            {
+              "player": "Melanie",
+              "score": 4000
+            }
+          ]
+        },
+        {
+          "category": "ROYALTY",
+          "value": 400,
+          "clue": "Kipling wrote of this queen, \"Walk wide o' the widow at Windsor, for 'alf o' creation she owns\"",
+          "answer": "Queen Victoria",
+          "isDailyDouble": false,
+          "orderNumber": 19,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michael",
+              "score": 6400
+            },
+            {
+              "player": "Larry",
+              "score": 7300
+            },
+            {
+              "player": "Melanie",
+              "score": 4400
+            }
+          ]
+        },
+        {
+          "category": "ROYALTY",
+          "value": 600,
+          "clue": "He & Carlota landed in Mexico on May 28, 1864",
+          "answer": "Maximilian",
+          "isDailyDouble": false,
+          "orderNumber": 20,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michael",
+              "score": 6400
+            },
+            {
+              "player": "Larry",
+              "score": 7900
+            },
+            {
+              "player": "Melanie",
+              "score": 4400
+            }
+          ]
+        },
+        {
+          "category": "BEFORE & AFTER",
+          "value": 800,
+          "clue": "A Lerner & Loewe musical about a lovely insect who flies away home",
+          "answer": "My Fair Ladybug",
+          "isDailyDouble": false,
+          "orderNumber": 21,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michael",
+              "score": 7200
+            },
+            {
+              "player": "Larry",
+              "score": 7900
+            },
+            {
+              "player": "Melanie",
+              "score": 4400
+            }
+          ]
+        },
+        {
+          "category": "BEFORE & AFTER",
+          "value": 1000,
+          "clue": "Leonardo da Vinci's portrait of Michael Jackson's ex-wife",
+          "answer": "Mona Lisa Marie Presley",
+          "isDailyDouble": false,
+          "orderNumber": 22,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michael",
+              "score": 7200
+            },
+            {
+              "player": "Larry",
+              "score": 7900
+            },
+            {
+              "player": "Melanie",
+              "score": 5400
+            }
+          ]
+        },
+        {
+          "category": "ROYALTY",
+          "value": 800,
+          "clue": "This country's King Carl XVI Gustaf was born Carl Gustaf Folke Hubertus at Haga Castle in 1946",
+          "answer": "Sweden",
+          "isDailyDouble": false,
+          "orderNumber": 23,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michael",
+              "score": 8000
+            },
+            {
+              "player": "Larry",
+              "score": 7900
+            },
+            {
+              "player": "Melanie",
+              "score": 5400
+            }
+          ]
+        },
+        {
+          "category": "WOMEN IN SPORTS",
+          "value": 200,
+          "clue": "In March 1997 this Swiss miss became the youngest player to be ranked No. 1 in women's tennis",
+          "answer": "Martina Hingis",
+          "isDailyDouble": false,
+          "orderNumber": 24,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michael",
+              "score": 8200
+            },
+            {
+              "player": "Larry",
+              "score": 7900
+            },
+            {
+              "player": "Melanie",
+              "score": 5400
+            }
+          ]
+        },
+        {
+          "category": "WOMEN IN SPORTS",
+          "value": 200,
+          "clue": "Nancy Lieberman-Cline is among the inductees in the Naismith Memorial Hall of Fame for this sport",
+          "answer": "basketball",
+          "isDailyDouble": true,
+          "orderNumber": 25,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michael",
+              "score": 8400
+            },
+            {
+              "player": "Larry",
+              "score": 7900
+            },
+            {
+              "player": "Melanie",
+              "score": 5400
+            }
+          ]
+        },
+        {
+          "category": "BEFORE & AFTER",
+          "value": 200,
+          "clue": "The great white whale who hosted \"American Bandstand\"",
+          "answer": "Moby Dick Clark",
+          "isDailyDouble": false,
+          "orderNumber": 26,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michael",
+              "score": 8600
+            },
+            {
+              "player": "Larry",
+              "score": 7900
+            },
+            {
+              "player": "Melanie",
+              "score": 5400
+            }
+          ]
+        },
+        {
+          "category": "BEFORE & AFTER",
+          "value": 400,
+          "clue": "\"That Girl\" who wrote the Declaration of Independence",
+          "answer": "Marlo Thomas Jefferson",
+          "isDailyDouble": false,
+          "orderNumber": 27,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michael",
+              "score": 8600
+            },
+            {
+              "player": "Larry",
+              "score": 7900
+            },
+            {
+              "player": "Melanie",
+              "score": 5800
+            }
+          ]
+        },
+        {
+          "category": "BEFORE & AFTER",
+          "value": 600,
+          "clue": "Now ear this: it's an \"ear\" vegetable served on a spider structure",
+          "answer": "Corn on the cobweb",
+          "isDailyDouble": false,
+          "orderNumber": 28,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Michael",
+              "score": 8600
+            },
+            {
+              "player": "Larry",
+              "score": 7900
+            },
+            {
+              "player": "Melanie",
+              "score": 5800
+            }
+          ]
+        },
+        {
+          "category": "DIBS!",
+          "value": 200,
+          "clue": "In 1494 Pope Alexander VI gave this country the right to colonize the east coast of Brazil",
+          "answer": "Portugal",
+          "isDailyDouble": false,
+          "orderNumber": 29,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michael",
+              "score": 8800
+            },
+            {
+              "player": "Larry",
+              "score": 7900
+            },
+            {
+              "player": "Melanie",
+              "score": 5800
+            }
+          ]
+        },
+        {
+          "category": "DIBS!",
+          "value": 400,
+          "clue": "The Dutch had already sighted Australia, & Aborigines lived there, when he claimed it for England in 1770",
+          "answer": "Captain James Cook",
+          "isDailyDouble": false,
+          "orderNumber": 30,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michael",
+              "score": 8800
+            },
+            {
+              "player": "Larry",
+              "score": 7900
+            },
+            {
+              "player": "Melanie",
+              "score": 6200
+            }
+          ]
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "Michael",
+          "score": 8800
+        },
+        {
+          "player": "Larry",
+          "score": 7900
+        },
+        {
+          "player": "Melanie",
+          "score": 6200
+        }
+      ]
+    },
+    "finalJeopardy": {
+      "category": "ENGLISH LITERATURE",
+      "clue": "This 1726 satire reported the existence of Mars' 2 moons 151 years before Asaph Hall discovered them",
+      "answer": "Gulliver's Travels",
+      "responses": [
+        {
+          "contestant": "Melanie",
+          "response": "What is Gulliver's Travels?",
+          "isCorrect": true,
+          "isIncorrect": false,
+          "value": 6000,
+          "finalScore": 12200
+        },
+        {
+          "contestant": "Larry",
+          "response": "What is Gulliver's Travels?",
+          "isCorrect": true,
+          "isIncorrect": false,
+          "value": 5501,
+          "finalScore": 13401
+        },
+        {
+          "contestant": "Michael",
+          "response": "What Candide",
+          "isCorrect": false,
+          "isIncorrect": true,
+          "value": 7100,
+          "finalScore": 1700
+        }
+      ]
+    }
+  },
+  "finalScores": [
+    {
+      "player": "Michael",
+      "score": "$1,700"
+    },
+    {
+      "player": "Larry",
+      "score": "$13,401"
+    },
+    {
+      "player": "Melanie",
+      "score": "$12,200"
+    }
+  ],
+  "coryatScores": [
+    {
+      "player": "Michael",
+      "score": 9000
+    },
+    {
+      "player": "Larry",
+      "score": 7900
+    },
+    {
+      "player": "Melanie",
+      "score": 5400
+    }
+  ]
+}

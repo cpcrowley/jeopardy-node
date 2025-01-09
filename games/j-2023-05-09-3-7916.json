@@ -1,0 +1,1685 @@
+{
+  "gameId": 7916,
+  "showNumber": "3",
+  "title": "Jeopardy! Masters game #3 - Tuesday, May 9, 2023",
+  "date": "2023-05-09",
+  "comments": "2023 Jeopardy! Masters quarterfinal game 3.",
+  "contestants": [
+    "Sam",
+    "Amy",
+    "Mattea"
+  ],
+  "rounds": {
+    "jeopardy": {
+      "categories": [
+        "PLAY: THE GAME",
+        "UNUSUAL MUSEUMS",
+        "TIME TO LAWYER UP",
+        "TV",
+        "1920s SCIENCE",
+        "ALL \"IN\""
+      ],
+      "clues": [
+        {
+          "category": "1920s SCIENCE",
+          "value": 800,
+          "clue": "Lewis Fry Richardson proposed doing this with 64,000 computers (those were people then) & data from a world network of balloons",
+          "answer": "forecasting the weather",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [
+            "Sam"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Sam",
+              "score": 800
+            },
+            {
+              "player": "Amy",
+              "score": 0
+            },
+            {
+              "player": "Mattea",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "1920s SCIENCE",
+          "value": 1000,
+          "clue": "The Stern-Gerlach experiment gave insight into this, electrons' angular momentum, sort of like what planets do but also sort of not",
+          "answer": "spin",
+          "isDailyDouble": false,
+          "orderNumber": 2,
+          "correctContestants": [
+            "Sam"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Sam",
+              "score": 1800
+            },
+            {
+              "player": "Amy",
+              "score": 0
+            },
+            {
+              "player": "Mattea",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "UNUSUAL MUSEUMS",
+          "value": 800,
+          "clue": "Cup Noodles Museum in Osaka honors Momofuku Ando, who invented instant ramen & founded this company that makes it",
+          "answer": "Nissin",
+          "isDailyDouble": false,
+          "orderNumber": 3,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Mattea"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Sam",
+              "score": 1800
+            },
+            {
+              "player": "Amy",
+              "score": 0
+            },
+            {
+              "player": "Mattea",
+              "score": -800
+            }
+          ]
+        },
+        {
+          "category": "UNUSUAL MUSEUMS",
+          "value": 1000,
+          "clue": "Croatia, which broke up with Yugoslavia in 1991, has a Museum of Broken Relationships in this capital city",
+          "answer": "Zagreb",
+          "isDailyDouble": false,
+          "orderNumber": 4,
+          "correctContestants": [
+            "Mattea"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Sam",
+              "score": 1800
+            },
+            {
+              "player": "Amy",
+              "score": 0
+            },
+            {
+              "player": "Mattea",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "UNUSUAL MUSEUMS",
+          "value": 600,
+          "clue": "Like Las Vegas, Warsaw, Poland has this type of museum that's really lit (literally)",
+          "answer": "Museum of Neon",
+          "isDailyDouble": false,
+          "orderNumber": 5,
+          "correctContestants": [
+            "Sam"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Sam",
+              "score": 2400
+            },
+            {
+              "player": "Amy",
+              "score": 0
+            },
+            {
+              "player": "Mattea",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "TV",
+          "value": 800,
+          "clue": "\"There's no such thing as real psychics\", proclaimed Simon Baker as Patrick Jane on this drama",
+          "answer": "The Mentalist",
+          "isDailyDouble": false,
+          "orderNumber": 6,
+          "correctContestants": [
+            "Amy"
+          ],
+          "incorrectContestants": [
+            "Mattea"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Sam",
+              "score": 2400
+            },
+            {
+              "player": "Amy",
+              "score": 800
+            },
+            {
+              "player": "Mattea",
+              "score": -600
+            }
+          ]
+        },
+        {
+          "category": "TV",
+          "value": 600,
+          "clue": "At the end of \"Game of Thrones\", this member of the Stark family becomes the ruler of Westeros",
+          "answer": "Bran",
+          "isDailyDouble": false,
+          "orderNumber": 7,
+          "correctContestants": [
+            "Amy"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Sam",
+              "score": 2400
+            },
+            {
+              "player": "Amy",
+              "score": 1400
+            },
+            {
+              "player": "Mattea",
+              "score": -600
+            }
+          ]
+        },
+        {
+          "category": "PLAY: THE GAME",
+          "value": 600,
+          "clue": "Play affair card with a guy, then accuse his wife of witchcraft; roll again & accuse her of attempted murder",
+          "answer": "The Crucible",
+          "isDailyDouble": false,
+          "orderNumber": 8,
+          "correctContestants": [
+            "Mattea"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Sam",
+              "score": 2400
+            },
+            {
+              "player": "Amy",
+              "score": 1400
+            },
+            {
+              "player": "Mattea",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "PLAY: THE GAME",
+          "value": 800,
+          "clue": "Advance to Harry Hope's bar; lose turn waiting for Hickey; play your pipe dream card; chill at bar after Hickey is arrested",
+          "answer": "The Iceman Cometh (by Eugene O'Neill)",
+          "isDailyDouble": false,
+          "orderNumber": 9,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Sam",
+              "score": 2400
+            },
+            {
+              "player": "Amy",
+              "score": 1400
+            },
+            {
+              "player": "Mattea",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "TIME TO LAWYER UP",
+          "value": 1000,
+          "clue": "I cite 1963's him v. Wainwright--the 6th Amendment's right to counsel extends to felony defendants in state courts",
+          "answer": "Gideon",
+          "isDailyDouble": false,
+          "orderNumber": 10,
+          "correctContestants": [
+            "Amy"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Sam",
+              "score": 2400
+            },
+            {
+              "player": "Amy",
+              "score": 2400
+            },
+            {
+              "player": "Mattea",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "PLAY: THE GAME",
+          "value": 2400,
+          "clue": "Teach evolution to your science class; get arrested; be prosecuted by a 3-time presidential candidate; guilty card, pay $100",
+          "answer": "Inherit the Wind",
+          "isDailyDouble": true,
+          "orderNumber": 11,
+          "correctContestants": [
+            "Amy"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Sam",
+              "score": 2400
+            },
+            {
+              "player": "Amy",
+              "score": 4800
+            },
+            {
+              "player": "Mattea",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "TV",
+          "value": 1000,
+          "clue": "As Baba Voss, this actor stars in \"See\", a series about a dystopian future where most of humanity has lost its sight",
+          "answer": "Jason Momoa",
+          "isDailyDouble": false,
+          "orderNumber": 12,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Sam",
+              "score": 2400
+            },
+            {
+              "player": "Amy",
+              "score": 4800
+            },
+            {
+              "player": "Mattea",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "ALL \"IN\"",
+          "value": 1000,
+          "clue": "From the Italian for \"engrave\" or \"cut\", it was the process used to engrave the gemstone seen here",
+          "answer": "intaglio",
+          "isDailyDouble": false,
+          "orderNumber": 13,
+          "correctContestants": [
+            "Amy"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Sam",
+              "score": 2400
+            },
+            {
+              "player": "Amy",
+              "score": 5800
+            },
+            {
+              "player": "Mattea",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "ALL \"IN\"",
+          "value": 800,
+          "clue": "This type of verb doesn't take a direct object",
+          "answer": "intransitive",
+          "isDailyDouble": false,
+          "orderNumber": 14,
+          "correctContestants": [
+            "Mattea"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Sam",
+              "score": 2400
+            },
+            {
+              "player": "Amy",
+              "score": 5800
+            },
+            {
+              "player": "Mattea",
+              "score": 800
+            }
+          ]
+        },
+        {
+          "category": "ALL \"IN\"",
+          "value": 600,
+          "clue": "It's a court order requiring a person to do or to cease doing a particular act",
+          "answer": "injunction",
+          "isDailyDouble": false,
+          "orderNumber": 15,
+          "correctContestants": [
+            "Mattea"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Sam",
+              "score": 2400
+            },
+            {
+              "player": "Amy",
+              "score": 5800
+            },
+            {
+              "player": "Mattea",
+              "score": 1400
+            }
+          ]
+        },
+        {
+          "category": "ALL \"IN\"",
+          "value": 400,
+          "clue": "We sometimes use this Latin word for \"in the meantime\" when someone takes a job on a temporary basis",
+          "answer": "interim",
+          "isDailyDouble": false,
+          "orderNumber": 16,
+          "correctContestants": [
+            "Sam"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Sam",
+              "score": 2800
+            },
+            {
+              "player": "Amy",
+              "score": 5800
+            },
+            {
+              "player": "Mattea",
+              "score": 1400
+            }
+          ]
+        },
+        {
+          "category": "1920s SCIENCE",
+          "value": 600,
+          "clue": "The electrostatic valence rule is one of 5 on crystal structures put forth by this future Nobel-winning American chemist",
+          "answer": "(Linus) Pauling",
+          "isDailyDouble": false,
+          "orderNumber": 17,
+          "correctContestants": [
+            "Mattea"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Sam",
+              "score": 2800
+            },
+            {
+              "player": "Amy",
+              "score": 5800
+            },
+            {
+              "player": "Mattea",
+              "score": 2000
+            }
+          ]
+        },
+        {
+          "category": "1920s SCIENCE",
+          "value": 400,
+          "clue": "In 1922 Caltech got the Wood-Anderson torsion one of these instruments, a breakthrough in sensitivity & precision",
+          "answer": "seismometer",
+          "isDailyDouble": false,
+          "orderNumber": 18,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Sam",
+            "Mattea"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Sam",
+              "score": 2400
+            },
+            {
+              "player": "Amy",
+              "score": 5800
+            },
+            {
+              "player": "Mattea",
+              "score": 1600
+            }
+          ]
+        },
+        {
+          "category": "ALL \"IN\"",
+          "value": 200,
+          "clue": "Not a record to boast about, Jim Hardy threw 8 of these against the Eagles in a 1950 NFL game",
+          "answer": "interceptions",
+          "isDailyDouble": false,
+          "orderNumber": 19,
+          "correctContestants": [
+            "Mattea"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Sam",
+              "score": 2400
+            },
+            {
+              "player": "Amy",
+              "score": 5800
+            },
+            {
+              "player": "Mattea",
+              "score": 1800
+            }
+          ]
+        },
+        {
+          "category": "TIME TO LAWYER UP",
+          "value": 800,
+          "clue": "Your Honor, the defendant is incompetent, or if I may get fancy, this 3-word phrase, Latin for \"not master of one's mind\"",
+          "answer": "non compos mentis",
+          "isDailyDouble": false,
+          "orderNumber": 20,
+          "correctContestants": [
+            "Sam"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Sam",
+              "score": 3200
+            },
+            {
+              "player": "Amy",
+              "score": 5800
+            },
+            {
+              "player": "Mattea",
+              "score": 1800
+            }
+          ]
+        },
+        {
+          "category": "1920s SCIENCE",
+          "value": 200,
+          "clue": "Peter Kaisen discovered the first fossil of this dinosaur, the \"speedy thief\"",
+          "answer": "Velociraptor",
+          "isDailyDouble": false,
+          "orderNumber": 21,
+          "correctContestants": [
+            "Sam"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Sam",
+              "score": 3400
+            },
+            {
+              "player": "Amy",
+              "score": 5800
+            },
+            {
+              "player": "Mattea",
+              "score": 1800
+            }
+          ]
+        },
+        {
+          "category": "UNUSUAL MUSEUMS",
+          "value": 400,
+          "clue": "In Milwaukee spring on over to the National Hall of Fame & Museum for these collectible dolls, sometimes called \"nodders\"",
+          "answer": "bobbleheads",
+          "isDailyDouble": false,
+          "orderNumber": 22,
+          "correctContestants": [
+            "Sam"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Sam",
+              "score": 3800
+            },
+            {
+              "player": "Amy",
+              "score": 5800
+            },
+            {
+              "player": "Mattea",
+              "score": 1800
+            }
+          ]
+        },
+        {
+          "category": "UNUSUAL MUSEUMS",
+          "value": 200,
+          "clue": "Oddly, Leeds Castle in England houses a museum devoted to 5 centuries of this canine neckwear",
+          "answer": "a dog collar",
+          "isDailyDouble": false,
+          "orderNumber": 23,
+          "correctContestants": [
+            "Sam"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Sam",
+              "score": 4000
+            },
+            {
+              "player": "Amy",
+              "score": 5800
+            },
+            {
+              "player": "Mattea",
+              "score": 1800
+            }
+          ]
+        },
+        {
+          "category": "TIME TO LAWYER UP",
+          "value": 600,
+          "clue": "A defense that involves claiming one knew nothing, saw nothing & heard nothing is named for this \"Hogan's Heroes\" character",
+          "answer": "Sergeant Schultz",
+          "isDailyDouble": false,
+          "orderNumber": 24,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Sam"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Sam",
+              "score": 3400
+            },
+            {
+              "player": "Amy",
+              "score": 5800
+            },
+            {
+              "player": "Mattea",
+              "score": 1800
+            }
+          ]
+        },
+        {
+          "category": "TIME TO LAWYER UP",
+          "value": 400,
+          "clue": "Be an upright citizen & know it's the legal right to bring a lawsuit; judges decide if you have it so the case can proceed",
+          "answer": "standing",
+          "isDailyDouble": false,
+          "orderNumber": 25,
+          "correctContestants": [
+            "Sam"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Sam",
+              "score": 3800
+            },
+            {
+              "player": "Amy",
+              "score": 5800
+            },
+            {
+              "player": "Mattea",
+              "score": 1800
+            }
+          ]
+        },
+        {
+          "category": "TIME TO LAWYER UP",
+          "value": 200,
+          "clue": "For not complying with a court order in 1995, a Philly lawyer was jailed for this; he kept not complying & was in jail for 14 years",
+          "answer": "contempt (of court)",
+          "isDailyDouble": false,
+          "orderNumber": 26,
+          "correctContestants": [
+            "Mattea"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Sam",
+              "score": 3800
+            },
+            {
+              "player": "Amy",
+              "score": 5800
+            },
+            {
+              "player": "Mattea",
+              "score": 2000
+            }
+          ]
+        },
+        {
+          "category": "PLAY: THE GAME",
+          "value": 400,
+          "clue": "Travel to Elsinore; glean what afflicts old pal Hamlet; try to find where he put Polonius; get betrayed; win 1968 Tony",
+          "answer": "Rosencrantz and Guildenstern Are Dead",
+          "isDailyDouble": false,
+          "orderNumber": 27,
+          "correctContestants": [
+            "Mattea"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Sam",
+              "score": 3800
+            },
+            {
+              "player": "Amy",
+              "score": 5800
+            },
+            {
+              "player": "Mattea",
+              "score": 2400
+            }
+          ]
+        },
+        {
+          "category": "PLAY: THE GAME",
+          "value": 200,
+          "clue": "Your wife asks for a divorce; lose direction in life; move in with sportswriter pal; clean his place.  Clean it again.  & again",
+          "answer": "The Odd Couple",
+          "isDailyDouble": false,
+          "orderNumber": 28,
+          "correctContestants": [
+            "Sam"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Sam",
+              "score": 4000
+            },
+            {
+              "player": "Amy",
+              "score": 5800
+            },
+            {
+              "player": "Mattea",
+              "score": 2400
+            }
+          ]
+        },
+        {
+          "category": "TV",
+          "value": 400,
+          "clue": "It's the 2-word name of the menacing parallel dimension on \"Stranger Things\"",
+          "answer": "the Upside Down",
+          "isDailyDouble": false,
+          "orderNumber": 29,
+          "correctContestants": [
+            "Mattea"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Sam",
+              "score": 4000
+            },
+            {
+              "player": "Amy",
+              "score": 5800
+            },
+            {
+              "player": "Mattea",
+              "score": 2800
+            }
+          ]
+        },
+        {
+          "category": "TV",
+          "value": 200,
+          "clue": "The last advertising idea conceived by Don Draper on \"Mad Men\" was for this bubbly product",
+          "answer": "Coke",
+          "isDailyDouble": false,
+          "orderNumber": 30,
+          "correctContestants": [
+            "Amy"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Sam",
+              "score": 4000
+            },
+            {
+              "player": "Amy",
+              "score": 6000
+            },
+            {
+              "player": "Mattea",
+              "score": 2800
+            }
+          ]
+        }
+      ],
+      "firstBreakScores": [],
+      "endOfRoundScores": [
+        {
+          "player": "Sam",
+          "score": 4000
+        },
+        {
+          "player": "Amy",
+          "score": 6000
+        },
+        {
+          "player": "Mattea",
+          "score": 2800
+        }
+      ]
+    },
+    "doubleJeopardy": {
+      "categories": [
+        "THE MAP OF EUROPE",
+        "EDITORS",
+        "COLONIAL AMERICA",
+        "____ OF THE ____",
+        "BIBLICAL PLACES",
+        "DIANE WARREN"
+      ],
+      "clues": [
+        {
+          "category": "THE MAP OF EUROPE",
+          "value": 1600,
+          "clue": "It's the largest & southernmost of Ireland's counties",
+          "answer": "Cork",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Sam",
+              "score": 4000
+            },
+            {
+              "player": "Amy",
+              "score": 6000
+            },
+            {
+              "player": "Mattea",
+              "score": 4400
+            }
+          ]
+        },
+        {
+          "category": "THE MAP OF EUROPE",
+          "value": 4400,
+          "clue": "Walk straight from Narbonne to Zaragoza & you'll pass in & out of this country",
+          "answer": "Andorra",
+          "isDailyDouble": true,
+          "orderNumber": 2,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Sam",
+              "score": 4000
+            },
+            {
+              "player": "Amy",
+              "score": 6000
+            },
+            {
+              "player": "Mattea",
+              "score": 8800
+            }
+          ]
+        },
+        {
+          "category": "____ OF THE ____",
+          "value": 2000,
+          "clue": "Congress has this alliterative ability, allowing it to levy taxes & spend government monies",
+          "answer": "the power of the purse",
+          "isDailyDouble": false,
+          "orderNumber": 3,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Sam",
+              "score": 6000
+            },
+            {
+              "player": "Amy",
+              "score": 6000
+            },
+            {
+              "player": "Mattea",
+              "score": 8800
+            }
+          ]
+        },
+        {
+          "category": "____ OF THE ____",
+          "value": 1600,
+          "clue": "From this Broadway song, \"Cunning little brain, regular Voltaire, thinks he's quite a lover but there's not much there\"",
+          "answer": "\"Master Of The House\" (from Les Mis)",
+          "isDailyDouble": false,
+          "orderNumber": 4,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Sam",
+              "score": 6000
+            },
+            {
+              "player": "Amy",
+              "score": 6000
+            },
+            {
+              "player": "Mattea",
+              "score": 10400
+            }
+          ]
+        },
+        {
+          "category": "____ OF THE ____",
+          "value": 1200,
+          "clue": "In the Bible, Pharaoh says Joseph's family may come & eat of this, what Lennie longs for in \"Of Mice & Men\"",
+          "answer": "the fat of the land",
+          "isDailyDouble": false,
+          "orderNumber": 5,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Sam",
+              "score": 6000
+            },
+            {
+              "player": "Amy",
+              "score": 4800
+            },
+            {
+              "player": "Mattea",
+              "score": 10400
+            }
+          ]
+        },
+        {
+          "category": "COLONIAL AMERICA",
+          "value": 1200,
+          "clue": "Published in 1767, \"On Messrs. Hussey and Coffin\" was the first printed poem by this Black woman",
+          "answer": "(Phillis) Wheatley",
+          "isDailyDouble": false,
+          "orderNumber": 6,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Sam",
+              "score": 7200
+            },
+            {
+              "player": "Amy",
+              "score": 4800
+            },
+            {
+              "player": "Mattea",
+              "score": 10400
+            }
+          ]
+        },
+        {
+          "category": "COLONIAL AMERICA",
+          "value": 1600,
+          "clue": "King Philip's War, a bloody conflict between colonists & Native Americans in the 1670s, was led by Massasoit's son from this nation",
+          "answer": "the Wampanoag Nation",
+          "isDailyDouble": false,
+          "orderNumber": 7,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Sam",
+              "score": 7200
+            },
+            {
+              "player": "Amy",
+              "score": 4800
+            },
+            {
+              "player": "Mattea",
+              "score": 10400
+            }
+          ]
+        },
+        {
+          "category": "COLONIAL AMERICA",
+          "value": 7200,
+          "clue": "This evangelical revival of the 1730s & 1740s was led by such theologians as George Whitefield & Jonathan Edwards",
+          "answer": "the Great Awakening",
+          "isDailyDouble": true,
+          "orderNumber": 8,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Sam",
+              "score": 14400
+            },
+            {
+              "player": "Amy",
+              "score": 4800
+            },
+            {
+              "player": "Mattea",
+              "score": 10400
+            }
+          ]
+        },
+        {
+          "category": "THE MAP OF EUROPE",
+          "value": 2000,
+          "clue": "& quiet flows this 3-letter river, mostly south about 1,200 miles to the Sea of Azov",
+          "answer": "the Don",
+          "isDailyDouble": false,
+          "orderNumber": 9,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Sam",
+              "score": 14400
+            },
+            {
+              "player": "Amy",
+              "score": 4800
+            },
+            {
+              "player": "Mattea",
+              "score": 10400
+            }
+          ]
+        },
+        {
+          "category": "THE MAP OF EUROPE",
+          "value": 800,
+          "clue": "There's a southern German state in the name of this Alpine subrange that runs along the border of Germany & Austria",
+          "answer": "the Bavarian Alps",
+          "isDailyDouble": false,
+          "orderNumber": 10,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Sam",
+              "score": 14400
+            },
+            {
+              "player": "Amy",
+              "score": 5600
+            },
+            {
+              "player": "Mattea",
+              "score": 10400
+            }
+          ]
+        },
+        {
+          "category": "EDITORS",
+          "value": 2000,
+          "clue": "In 2016 a team of scientists at this La Jolla, California institute said they used gene editing to give sight to blind rodents",
+          "answer": "the Salk Institute",
+          "isDailyDouble": false,
+          "orderNumber": 11,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Sam",
+              "score": 14400
+            },
+            {
+              "player": "Amy",
+              "score": 5600
+            },
+            {
+              "player": "Mattea",
+              "score": 10400
+            }
+          ]
+        },
+        {
+          "category": "EDITORS",
+          "value": 1600,
+          "clue": "This urbane writer was a co-founder of the Paris Review & its first editor",
+          "answer": "Plimpton",
+          "isDailyDouble": false,
+          "orderNumber": 12,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Sam",
+              "score": 14400
+            },
+            {
+              "player": "Amy",
+              "score": 7200
+            },
+            {
+              "player": "Mattea",
+              "score": 10400
+            }
+          ]
+        },
+        {
+          "category": "BIBLICAL PLACES",
+          "value": 2000,
+          "clue": "John wrote the book of Revelation while he was in the isle that is called this, depicted here",
+          "answer": "Patmos",
+          "isDailyDouble": false,
+          "orderNumber": 13,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Sam",
+              "score": 14400
+            },
+            {
+              "player": "Amy",
+              "score": 7200
+            },
+            {
+              "player": "Mattea",
+              "score": 10400
+            }
+          ]
+        },
+        {
+          "category": "BIBLICAL PLACES",
+          "value": 1600,
+          "clue": "The lord told Jonah to \"Arise\" & go to this Assyrian city \"and cry against it\"; Jonah did not want to",
+          "answer": "Nineveh",
+          "isDailyDouble": false,
+          "orderNumber": 14,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Sam",
+              "score": 14400
+            },
+            {
+              "player": "Amy",
+              "score": 7200
+            },
+            {
+              "player": "Mattea",
+              "score": 12000
+            }
+          ]
+        },
+        {
+          "category": "BIBLICAL PLACES",
+          "value": 1200,
+          "clue": "For killing his brother Abel, Cain was exiled to this land \"on the east of Eden\"",
+          "answer": "Nod",
+          "isDailyDouble": false,
+          "orderNumber": 15,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Sam",
+              "score": 14400
+            },
+            {
+              "player": "Amy",
+              "score": 8400
+            },
+            {
+              "player": "Mattea",
+              "score": 12000
+            }
+          ]
+        },
+        {
+          "category": "DIANE WARREN",
+          "value": 2000,
+          "clue": "(Diane Warren gives the clue.)  I honored my own dad for believing in me & my music when I wrote \"Because You Love Me\" for this film in which Robert Redford played a news director who believed in Michelle Pfeiffer",
+          "answer": "Up Close & Personal",
+          "isDailyDouble": false,
+          "orderNumber": 16,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Sam",
+              "score": 14400
+            },
+            {
+              "player": "Amy",
+              "score": 8400
+            },
+            {
+              "player": "Mattea",
+              "score": 12000
+            }
+          ]
+        },
+        {
+          "category": "DIANE WARREN",
+          "value": 1600,
+          "clue": "(Diane Warren gives the clue.)  In a strange twist, both LeAnn Rimes & Trisha Yearwood were up for Grammys for my song from \"Con Air\" that asks this title question",
+          "answer": "\"How Do I Live\"",
+          "isDailyDouble": false,
+          "orderNumber": 17,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Sam",
+              "score": 14400
+            },
+            {
+              "player": "Amy",
+              "score": 10000
+            },
+            {
+              "player": "Mattea",
+              "score": 12000
+            }
+          ]
+        },
+        {
+          "category": "DIANE WARREN",
+          "value": 1200,
+          "clue": "(Diane Warren gives the clue.)  I actually had to get on my knees & beg Cher to record this 1989 hit, which worked out pretty nicely for both of us",
+          "answer": "\"If I Could Turn Back Time\"",
+          "isDailyDouble": false,
+          "orderNumber": 18,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Sam",
+              "score": 14400
+            },
+            {
+              "player": "Amy",
+              "score": 10000
+            },
+            {
+              "player": "Mattea",
+              "score": 13200
+            }
+          ]
+        },
+        {
+          "category": "DIANE WARREN",
+          "value": 800,
+          "clue": "(Diane Warren gives the clue.)  My song \"Blame It On The Rain\" was the last No. 1 hit for this Europop duo before it was revealed that they didn't actually do their own singing\"Blame it on the rain\"",
+          "answer": "Milli Vanilli",
+          "isDailyDouble": false,
+          "orderNumber": 19,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Sam",
+              "score": 14400
+            },
+            {
+              "player": "Amy",
+              "score": 10000
+            },
+            {
+              "player": "Mattea",
+              "score": 14000
+            }
+          ]
+        },
+        {
+          "category": "DIANE WARREN",
+          "value": 400,
+          "clue": "(Diane Warren gives the clue.)  One of the top films of the '90s was \"Armageddon\", which features my song \"I Don't Want To Miss A Thing\", the first No. 1 hit for this group\"And I don't wanna miss a thing\"",
+          "answer": "Aerosmith",
+          "isDailyDouble": false,
+          "orderNumber": 20,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Sam",
+              "score": 14400
+            },
+            {
+              "player": "Amy",
+              "score": 10400
+            },
+            {
+              "player": "Mattea",
+              "score": 14000
+            }
+          ]
+        },
+        {
+          "category": "EDITORS",
+          "value": 1200,
+          "clue": "The documentary \"Turn Every Page\" is about the bond of editor Robert Gottlieb & this man working on an epic political biography",
+          "answer": "Caro",
+          "isDailyDouble": false,
+          "orderNumber": 21,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Sam",
+              "score": 14400
+            },
+            {
+              "player": "Amy",
+              "score": 10400
+            },
+            {
+              "player": "Mattea",
+              "score": 15200
+            }
+          ]
+        },
+        {
+          "category": "EDITORS",
+          "value": 800,
+          "clue": "On Oscar night 2016 Walter Robinson, an editor at this newspaper, hung with Michael Keaton, who played Walter in \"Spotlight\"",
+          "answer": "The Boston Globe",
+          "isDailyDouble": false,
+          "orderNumber": 22,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Sam",
+              "score": 14400
+            },
+            {
+              "player": "Amy",
+              "score": 10400
+            },
+            {
+              "player": "Mattea",
+              "score": 16000
+            }
+          ]
+        },
+        {
+          "category": "EDITORS",
+          "value": 400,
+          "clue": "Graydon Carter gave props to Annie Leibovitz' photos that ran with celeb profiles in summing up 25 years editing this magazine",
+          "answer": "Vanity Fair",
+          "isDailyDouble": false,
+          "orderNumber": 23,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Sam",
+              "score": 14400
+            },
+            {
+              "player": "Amy",
+              "score": 10800
+            },
+            {
+              "player": "Mattea",
+              "score": 16000
+            }
+          ]
+        },
+        {
+          "category": "COLONIAL AMERICA",
+          "value": 800,
+          "clue": "In 1607 this colony chose a pres. in what's been called British America's first democratic election--6 of 104 had a vote",
+          "answer": "Jamestown",
+          "isDailyDouble": false,
+          "orderNumber": 24,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Sam",
+              "score": 15200
+            },
+            {
+              "player": "Amy",
+              "score": 10800
+            },
+            {
+              "player": "Mattea",
+              "score": 16000
+            }
+          ]
+        },
+        {
+          "category": "THE MAP OF EUROPE",
+          "value": 400,
+          "clue": "With 2 million people & just north of North Macedonia, it may not be on every map of Europe",
+          "answer": "Kosovo",
+          "isDailyDouble": false,
+          "orderNumber": 25,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Sam",
+              "score": 15600
+            },
+            {
+              "player": "Amy",
+              "score": 10800
+            },
+            {
+              "player": "Mattea",
+              "score": 16000
+            }
+          ]
+        },
+        {
+          "category": "____ OF THE ____",
+          "value": 800,
+          "clue": "Almost 20 years after an earlier one, Navratilova faced Connors in a match called this",
+          "answer": "Battle of the Sexes",
+          "isDailyDouble": false,
+          "orderNumber": 26,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Sam",
+              "score": 16400
+            },
+            {
+              "player": "Amy",
+              "score": 10800
+            },
+            {
+              "player": "Mattea",
+              "score": 16000
+            }
+          ]
+        },
+        {
+          "category": "____ OF THE ____",
+          "value": 400,
+          "clue": "It's the idea that having a little whiskey the morning after you've had a lot of whiskey will somehow make you feel better",
+          "answer": "hair of the dog",
+          "isDailyDouble": false,
+          "orderNumber": 27,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Sam",
+              "score": 16400
+            },
+            {
+              "player": "Amy",
+              "score": 10800
+            },
+            {
+              "player": "Mattea",
+              "score": 16400
+            }
+          ]
+        },
+        {
+          "category": "COLONIAL AMERICA",
+          "value": 400,
+          "clue": "South Carolina was a top producer of this plant that produces a blue dye; round cakes of it were often used as currency",
+          "answer": "indigo",
+          "isDailyDouble": false,
+          "orderNumber": 28,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Sam",
+              "score": 16400
+            },
+            {
+              "player": "Amy",
+              "score": 11200
+            },
+            {
+              "player": "Mattea",
+              "score": 16400
+            }
+          ]
+        },
+        {
+          "category": "BIBLICAL PLACES",
+          "value": 800,
+          "clue": "Joseph of this place took the crucified Jesus & placed his body in a \"new tomb\"",
+          "answer": "Arimathea",
+          "isDailyDouble": false,
+          "orderNumber": 29,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Sam",
+              "score": 17200
+            },
+            {
+              "player": "Amy",
+              "score": 11200
+            },
+            {
+              "player": "Mattea",
+              "score": 16400
+            }
+          ]
+        },
+        {
+          "category": "BIBLICAL PLACES",
+          "value": 400,
+          "clue": "Brothers Peter & Andrew were casting a net into this body of water when Jesus said, \"Follow me, and I will make you fishers of men\"",
+          "answer": "the Sea of Galilee",
+          "isDailyDouble": false,
+          "orderNumber": 30,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Sam",
+              "score": 17600
+            },
+            {
+              "player": "Amy",
+              "score": 11200
+            },
+            {
+              "player": "Mattea",
+              "score": 16400
+            }
+          ]
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "Sam",
+          "score": 17600
+        },
+        {
+          "player": "Amy",
+          "score": 11200
+        },
+        {
+          "player": "Mattea",
+          "score": 16400
+        }
+      ]
+    },
+    "finalJeopardy": {
+      "category": "21st CENTURY AUTHORS",
+      "clue": "Once a journalist himself, he began his first novel with his hero being fined 150,000 kronor for aggravated libel",
+      "answer": "Stieg Larsson",
+      "responses": [
+        {
+          "contestant": "Amy",
+          "response": "Who is Larsson?",
+          "isCorrect": true,
+          "isIncorrect": false,
+          "value": 6500,
+          "finalScore": 17700
+        },
+        {
+          "contestant": "Mattea",
+          "response": "Who is Stieg Larsson?",
+          "isCorrect": true,
+          "isIncorrect": false,
+          "value": 6001,
+          "finalScore": 22401
+        },
+        {
+          "contestant": "Sam",
+          "response": "Who is Johannson Stiegler",
+          "isCorrect": false,
+          "isIncorrect": true,
+          "value": 15201,
+          "finalScore": 2399
+        }
+      ]
+    }
+  },
+  "finalScores": [
+    {
+      "player": "Sam",
+      "score": "2,399"
+    },
+    {
+      "player": "Amy",
+      "score": "17,700"
+    },
+    {
+      "player": "Mattea",
+      "score": "22,401"
+    }
+  ],
+  "coryatScores": [
+    {
+      "player": "Sam",
+      "score": 12400
+    },
+    {
+      "player": "Amy",
+      "score": 9800
+    },
+    {
+      "player": "Mattea",
+      "score": 13200
+    }
+  ]
+}

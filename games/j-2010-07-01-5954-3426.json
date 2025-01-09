@@ -1,0 +1,1706 @@
+{
+  "gameId": 3426,
+  "showNumber": "5954",
+  "title": "Show #5954 - Thursday, July 1, 2010",
+  "date": "2010-07-01",
+  "comments": "",
+  "contestants": [
+    "Steven",
+    "Kristina",
+    "Dave"
+  ],
+  "rounds": {
+    "jeopardy": {
+      "categories": [
+        "THE QUOTABLE '60s",
+        "STATE YOUR BUSINESS",
+        "THE GREEK LETTER EQUIVALENT",
+        "\"HOLE\"-Y",
+        "COW",
+        "BATMAN"
+      ],
+      "clues": [
+        {
+          "category": "BATMAN",
+          "value": 200,
+          "clue": "It's Batman's secret lair beneath Wayne Manor",
+          "answer": "the Batcave",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [
+            "Dave"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steven",
+              "score": 0
+            },
+            {
+              "player": "Kristina",
+              "score": 0
+            },
+            {
+              "player": "Dave",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "BATMAN",
+          "value": 400,
+          "clue": "His butler & confidante",
+          "answer": "Alfred",
+          "isDailyDouble": false,
+          "orderNumber": 2,
+          "correctContestants": [
+            "Steven"
+          ],
+          "incorrectContestants": [
+            "Kristina"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steven",
+              "score": 400
+            },
+            {
+              "player": "Kristina",
+              "score": -400
+            },
+            {
+              "player": "Dave",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "BATMAN",
+          "value": 600,
+          "clue": "This actor was the Batman in \"The Dark Knight\"",
+          "answer": "Christian Bale",
+          "isDailyDouble": false,
+          "orderNumber": 3,
+          "correctContestants": [
+            "Steven"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steven",
+              "score": 1000
+            },
+            {
+              "player": "Kristina",
+              "score": -400
+            },
+            {
+              "player": "Dave",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "BATMAN",
+          "value": 800,
+          "clue": "On the TV series, the line that ended each episode was \"Tune in tomorrow, same bat time, same\" this",
+          "answer": "bat channel",
+          "isDailyDouble": false,
+          "orderNumber": 4,
+          "correctContestants": [
+            "Dave"
+          ],
+          "incorrectContestants": [
+            "Kristina"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steven",
+              "score": 1000
+            },
+            {
+              "player": "Kristina",
+              "score": -1200
+            },
+            {
+              "player": "Dave",
+              "score": 1000
+            }
+          ]
+        },
+        {
+          "category": "BATMAN",
+          "value": 1000,
+          "clue": "This rocker composed the scores for \"Batman\" & \"Batman Returns\"",
+          "answer": "Danny Elfman",
+          "isDailyDouble": false,
+          "orderNumber": 5,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Steven"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Steven",
+              "score": 0
+            },
+            {
+              "player": "Kristina",
+              "score": -1200
+            },
+            {
+              "player": "Dave",
+              "score": 1000
+            }
+          ]
+        },
+        {
+          "category": "THE GREEK LETTER EQUIVALENT",
+          "value": 200,
+          "clue": "G",
+          "answer": "gamma",
+          "isDailyDouble": false,
+          "orderNumber": 6,
+          "correctContestants": [
+            "Dave"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steven",
+              "score": 0
+            },
+            {
+              "player": "Kristina",
+              "score": -1200
+            },
+            {
+              "player": "Dave",
+              "score": 1200
+            }
+          ]
+        },
+        {
+          "category": "THE GREEK LETTER EQUIVALENT",
+          "value": 400,
+          "clue": "K",
+          "answer": "kappa",
+          "isDailyDouble": false,
+          "orderNumber": 7,
+          "correctContestants": [
+            "Steven"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steven",
+              "score": 400
+            },
+            {
+              "player": "Kristina",
+              "score": -1200
+            },
+            {
+              "player": "Dave",
+              "score": 1200
+            }
+          ]
+        },
+        {
+          "category": "THE GREEK LETTER EQUIVALENT",
+          "value": 600,
+          "clue": "M",
+          "answer": "mu",
+          "isDailyDouble": false,
+          "orderNumber": 8,
+          "correctContestants": [
+            "Kristina"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steven",
+              "score": 400
+            },
+            {
+              "player": "Kristina",
+              "score": -600
+            },
+            {
+              "player": "Dave",
+              "score": 1200
+            }
+          ]
+        },
+        {
+          "category": "\"HOLE\"-Y",
+          "value": 200,
+          "clue": "2-word term for an oil well that doesn't yield any oil",
+          "answer": "a dry hole",
+          "isDailyDouble": false,
+          "orderNumber": 9,
+          "correctContestants": [
+            "Dave"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steven",
+              "score": 400
+            },
+            {
+              "player": "Kristina",
+              "score": -600
+            },
+            {
+              "player": "Dave",
+              "score": 1400
+            }
+          ]
+        },
+        {
+          "category": "THE GREEK LETTER EQUIVALENT",
+          "value": 800,
+          "clue": "R",
+          "answer": "rho",
+          "isDailyDouble": false,
+          "orderNumber": 10,
+          "correctContestants": [
+            "Dave"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steven",
+              "score": 400
+            },
+            {
+              "player": "Kristina",
+              "score": -600
+            },
+            {
+              "player": "Dave",
+              "score": 2200
+            }
+          ]
+        },
+        {
+          "category": "THE GREEK LETTER EQUIVALENT",
+          "value": 1000,
+          "clue": "F",
+          "answer": "phi",
+          "isDailyDouble": false,
+          "orderNumber": 11,
+          "correctContestants": [
+            "Dave"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steven",
+              "score": 400
+            },
+            {
+              "player": "Kristina",
+              "score": -600
+            },
+            {
+              "player": "Dave",
+              "score": 3200
+            }
+          ]
+        },
+        {
+          "category": "STATE YOUR BUSINESS",
+          "value": 200,
+          "clue": "3M:We'll only need one M, though",
+          "answer": "Minnesota",
+          "isDailyDouble": false,
+          "orderNumber": 12,
+          "correctContestants": [
+            "Dave"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steven",
+              "score": 400
+            },
+            {
+              "player": "Kristina",
+              "score": -600
+            },
+            {
+              "player": "Dave",
+              "score": 3400
+            }
+          ]
+        },
+        {
+          "category": "STATE YOUR BUSINESS",
+          "value": 400,
+          "clue": "Ben & Jerry's:May I suggest the flavor \"Jeopar-Delight!\"?",
+          "answer": "Vermont",
+          "isDailyDouble": false,
+          "orderNumber": 13,
+          "correctContestants": [
+            "Kristina"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steven",
+              "score": 400
+            },
+            {
+              "player": "Kristina",
+              "score": -200
+            },
+            {
+              "player": "Dave",
+              "score": 3400
+            }
+          ]
+        },
+        {
+          "category": "\"HOLE\"-Y",
+          "value": 400,
+          "clue": "To change its pitch, there is a series of these on any woodwind instrument",
+          "answer": "finger holes",
+          "isDailyDouble": false,
+          "orderNumber": 14,
+          "correctContestants": [
+            "Dave"
+          ],
+          "incorrectContestants": [
+            "Steven"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steven",
+              "score": 0
+            },
+            {
+              "player": "Kristina",
+              "score": -200
+            },
+            {
+              "player": "Dave",
+              "score": 3800
+            }
+          ]
+        },
+        {
+          "category": "\"HOLE\"-Y",
+          "value": 600,
+          "clue": "A collapsed cavity in the ground caused by water erosion",
+          "answer": "a sinkhole",
+          "isDailyDouble": false,
+          "orderNumber": 15,
+          "correctContestants": [
+            "Kristina"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steven",
+              "score": 0
+            },
+            {
+              "player": "Kristina",
+              "score": 400
+            },
+            {
+              "player": "Dave",
+              "score": 3800
+            }
+          ]
+        },
+        {
+          "category": "\"HOLE\"-Y",
+          "value": 800,
+          "clue": "This nearly inaccessible canyon in Wyoming was one of Butch Cassidy & his gang's main hideouts",
+          "answer": "the Hole in the Wall",
+          "isDailyDouble": false,
+          "orderNumber": 16,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Dave"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Steven",
+              "score": 0
+            },
+            {
+              "player": "Kristina",
+              "score": 400
+            },
+            {
+              "player": "Dave",
+              "score": 3000
+            }
+          ]
+        },
+        {
+          "category": "\"HOLE\"-Y",
+          "value": 1000,
+          "clue": "Reports differ on how many British prisoners in 1756 were locked in & lost their lives in what's known as this",
+          "answer": "the Black Hole of Calcutta",
+          "isDailyDouble": false,
+          "orderNumber": 17,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Steven",
+              "score": 0
+            },
+            {
+              "player": "Kristina",
+              "score": 400
+            },
+            {
+              "player": "Dave",
+              "score": 3000
+            }
+          ]
+        },
+        {
+          "category": "COW",
+          "value": 200,
+          "clue": "To prevent the bovine inflammation known as mastitis, practice good hygiene when doing this to your cows",
+          "answer": "milking",
+          "isDailyDouble": false,
+          "orderNumber": 18,
+          "correctContestants": [
+            "Kristina"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steven",
+              "score": 0
+            },
+            {
+              "player": "Kristina",
+              "score": 600
+            },
+            {
+              "player": "Dave",
+              "score": 3000
+            }
+          ]
+        },
+        {
+          "category": "COW",
+          "value": 400,
+          "clue": "The 600-pound cow made by Sarah Pratt each year for the Iowa state fair is made from this dairy product",
+          "answer": "butter",
+          "isDailyDouble": false,
+          "orderNumber": 19,
+          "correctContestants": [
+            "Kristina"
+          ],
+          "incorrectContestants": [
+            "Steven",
+            "Dave"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steven",
+              "score": -400
+            },
+            {
+              "player": "Kristina",
+              "score": 1000
+            },
+            {
+              "player": "Dave",
+              "score": 2600
+            }
+          ]
+        },
+        {
+          "category": "COW",
+          "value": 600,
+          "clue": "This sign of the zodiac is represented by a bovine",
+          "answer": "Taurus",
+          "isDailyDouble": false,
+          "orderNumber": 20,
+          "correctContestants": [
+            "Steven"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steven",
+              "score": 200
+            },
+            {
+              "player": "Kristina",
+              "score": 1000
+            },
+            {
+              "player": "Dave",
+              "score": 2600
+            }
+          ]
+        },
+        {
+          "category": "COW",
+          "value": 800,
+          "clue": "A young & calfless cow is known as one of these",
+          "answer": "a heifer",
+          "isDailyDouble": false,
+          "orderNumber": 21,
+          "correctContestants": [
+            "Steven"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steven",
+              "score": 1000
+            },
+            {
+              "player": "Kristina",
+              "score": 1000
+            },
+            {
+              "player": "Dave",
+              "score": 2600
+            }
+          ]
+        },
+        {
+          "category": "COW",
+          "value": 1000,
+          "clue": "The reticulum, rumen, omasum & abomasum make up a cow's this",
+          "answer": "stomach",
+          "isDailyDouble": false,
+          "orderNumber": 22,
+          "correctContestants": [
+            "Kristina"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steven",
+              "score": 1000
+            },
+            {
+              "player": "Kristina",
+              "score": 2000
+            },
+            {
+              "player": "Dave",
+              "score": 2600
+            }
+          ]
+        },
+        {
+          "category": "STATE YOUR BUSINESS",
+          "value": 1000,
+          "clue": "Kellogg's:You read the side of the box a million times, now it pays off",
+          "answer": "Michigan",
+          "isDailyDouble": true,
+          "orderNumber": 23,
+          "correctContestants": [
+            "Kristina"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steven",
+              "score": 1000
+            },
+            {
+              "player": "Kristina",
+              "score": 3000
+            },
+            {
+              "player": "Dave",
+              "score": 2600
+            }
+          ]
+        },
+        {
+          "category": "STATE YOUR BUSINESS",
+          "value": 800,
+          "clue": "Microsoft:They don't own the state... yet",
+          "answer": "Washington",
+          "isDailyDouble": false,
+          "orderNumber": 24,
+          "correctContestants": [
+            "Kristina"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steven",
+              "score": 1000
+            },
+            {
+              "player": "Kristina",
+              "score": 3800
+            },
+            {
+              "player": "Dave",
+              "score": 2600
+            }
+          ]
+        },
+        {
+          "category": "STATE YOUR BUSINESS",
+          "value": 1000,
+          "clue": "DuPont:I just wanna say one word to you--plastics",
+          "answer": "Delaware",
+          "isDailyDouble": false,
+          "orderNumber": 25,
+          "correctContestants": [
+            "Steven"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steven",
+              "score": 2000
+            },
+            {
+              "player": "Kristina",
+              "score": 3800
+            },
+            {
+              "player": "Dave",
+              "score": 2600
+            }
+          ]
+        },
+        {
+          "category": "THE QUOTABLE '60s",
+          "value": 200,
+          "clue": "They're the 4 words following Neil Armstrong's historic \"Houston, Tranquility Base here...\"",
+          "answer": "the Eagle has landed",
+          "isDailyDouble": false,
+          "orderNumber": 26,
+          "correctContestants": [
+            "Dave"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steven",
+              "score": 2000
+            },
+            {
+              "player": "Kristina",
+              "score": 3800
+            },
+            {
+              "player": "Dave",
+              "score": 2800
+            }
+          ]
+        },
+        {
+          "category": "THE QUOTABLE '60s",
+          "value": 400,
+          "clue": "In 1966 he angered a lot of people when he said, \"We're more popular than Jesus now\"",
+          "answer": "John Lennon",
+          "isDailyDouble": false,
+          "orderNumber": 27,
+          "correctContestants": [
+            "Dave"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steven",
+              "score": 2000
+            },
+            {
+              "player": "Kristina",
+              "score": 3800
+            },
+            {
+              "player": "Dave",
+              "score": 3200
+            }
+          ]
+        },
+        {
+          "category": "THE QUOTABLE '60s",
+          "value": 600,
+          "clue": "Referring to these riots in 1965, Governor Pat Brown said, \"Why, this is the worst disaster since my election\"",
+          "answer": "the Watts Riots",
+          "isDailyDouble": false,
+          "orderNumber": 28,
+          "correctContestants": [
+            "Steven"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steven",
+              "score": 2600
+            },
+            {
+              "player": "Kristina",
+              "score": 3800
+            },
+            {
+              "player": "Dave",
+              "score": 3200
+            }
+          ]
+        },
+        {
+          "category": "THE QUOTABLE '60s",
+          "value": 800,
+          "clue": "In 1967 he told his daughter, \"Your daddy may go down in history as having started World War III\"",
+          "answer": "(Lyndon) Johnson",
+          "isDailyDouble": false,
+          "orderNumber": 29,
+          "correctContestants": [
+            "Kristina"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steven",
+              "score": 2600
+            },
+            {
+              "player": "Kristina",
+              "score": 4600
+            },
+            {
+              "player": "Dave",
+              "score": 3200
+            }
+          ]
+        },
+        {
+          "category": "THE QUOTABLE '60s",
+          "value": 1000,
+          "clue": "\"Viva la huelga\" (long live the strike) was the slogan of his United Farm Workers",
+          "answer": "César Chávez",
+          "isDailyDouble": false,
+          "orderNumber": 30,
+          "correctContestants": [
+            "Steven"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steven",
+              "score": 3600
+            },
+            {
+              "player": "Kristina",
+              "score": 4600
+            },
+            {
+              "player": "Dave",
+              "score": 3200
+            }
+          ]
+        }
+      ],
+      "firstBreakScores": [
+        {
+          "player": "Steven",
+          "score": 0
+        },
+        {
+          "player": "Kristina",
+          "score": 400
+        },
+        {
+          "player": "Dave",
+          "score": 3800
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "Steven",
+          "score": 3600
+        },
+        {
+          "player": "Kristina",
+          "score": 4600
+        },
+        {
+          "player": "Dave",
+          "score": 3200
+        }
+      ]
+    },
+    "doubleJeopardy": {
+      "categories": [
+        "ANTHROPOLOGY",
+        "'90s BEST PICTURE PLOT POINTS",
+        "JULY",
+        "ON THE PHONE",
+        "PLEASE BELIZE ME",
+        "\"OY\" TO THE WORLD"
+      ],
+      "clues": [
+        {
+          "category": "PLEASE BELIZE ME",
+          "value": 400,
+          "clue": "In 1981 the sun set on this empire's colonial rule in newly independent Belize",
+          "answer": "the British Empire (the United Kingdom accepted)",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steven",
+              "score": 4000
+            },
+            {
+              "player": "Kristina",
+              "score": 4600
+            },
+            {
+              "player": "Dave",
+              "score": 3200
+            }
+          ]
+        },
+        {
+          "category": "PLEASE BELIZE ME",
+          "value": 800,
+          "clue": "On Oct. 31, 1961 Belize City was severely damaged by one of these; the capital was moved inland a few years later",
+          "answer": "a hurricane",
+          "isDailyDouble": false,
+          "orderNumber": 2,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steven",
+              "score": 4000
+            },
+            {
+              "player": "Kristina",
+              "score": 5400
+            },
+            {
+              "player": "Dave",
+              "score": 3200
+            }
+          ]
+        },
+        {
+          "category": "PLEASE BELIZE ME",
+          "value": 1200,
+          "clue": "Belize has been involved for decades in border disputes with this western neighbor",
+          "answer": "Guatemala",
+          "isDailyDouble": false,
+          "orderNumber": 3,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steven",
+              "score": 4000
+            },
+            {
+              "player": "Kristina",
+              "score": 6600
+            },
+            {
+              "player": "Dave",
+              "score": 3200
+            }
+          ]
+        },
+        {
+          "category": "PLEASE BELIZE ME",
+          "value": 1600,
+          "clue": "Belize's highest peak is known as this author's \"Delight\", for its resemblance to the setting of \"The Lost World\"",
+          "answer": "Sir Arthur Conan Doyle",
+          "isDailyDouble": false,
+          "orderNumber": 4,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Steven",
+              "score": 4000
+            },
+            {
+              "player": "Kristina",
+              "score": 6600
+            },
+            {
+              "player": "Dave",
+              "score": 1600
+            }
+          ]
+        },
+        {
+          "category": "PLEASE BELIZE ME",
+          "value": 2000,
+          "clue": "About one quarter of Belize's population is of this ethnicity of mixed African & European descent",
+          "answer": "Creole",
+          "isDailyDouble": false,
+          "orderNumber": 5,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steven",
+              "score": 4000
+            },
+            {
+              "player": "Kristina",
+              "score": 8600
+            },
+            {
+              "player": "Dave",
+              "score": -400
+            }
+          ]
+        },
+        {
+          "category": "JULY",
+          "value": 400,
+          "clue": "In July 1932 this U.S. president ordered the forcible eviction of World War I veterans gathered in Washington, D.C.",
+          "answer": "Hoover",
+          "isDailyDouble": false,
+          "orderNumber": 6,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steven",
+              "score": 4000
+            },
+            {
+              "player": "Kristina",
+              "score": 9000
+            },
+            {
+              "player": "Dave",
+              "score": -400
+            }
+          ]
+        },
+        {
+          "category": "JULY",
+          "value": 800,
+          "clue": "This iconic French monument was officially inaugurated in July 1836",
+          "answer": "the Arc de Triomphe",
+          "isDailyDouble": false,
+          "orderNumber": 7,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steven",
+              "score": 4800
+            },
+            {
+              "player": "Kristina",
+              "score": 9000
+            },
+            {
+              "player": "Dave",
+              "score": -400
+            }
+          ]
+        },
+        {
+          "category": "JULY",
+          "value": 1200,
+          "clue": "Your parents may \"read\" you this; England passed the original one back in July 1715 to deal with noisy protests",
+          "answer": "the Riot Act",
+          "isDailyDouble": false,
+          "orderNumber": 8,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steven",
+              "score": 3600
+            },
+            {
+              "player": "Kristina",
+              "score": 9000
+            },
+            {
+              "player": "Dave",
+              "score": 800
+            }
+          ]
+        },
+        {
+          "category": "JULY",
+          "value": 1600,
+          "clue": "In July 1492 some 200,000 Jews were expelled from this European monarchy",
+          "answer": "Spain",
+          "isDailyDouble": false,
+          "orderNumber": 9,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steven",
+              "score": 3600
+            },
+            {
+              "player": "Kristina",
+              "score": 9000
+            },
+            {
+              "player": "Dave",
+              "score": 2400
+            }
+          ]
+        },
+        {
+          "category": "JULY",
+          "value": 2000,
+          "clue": "July 622 marks the beginning of this calendar",
+          "answer": "the Islamic calendar",
+          "isDailyDouble": false,
+          "orderNumber": 10,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steven",
+              "score": 3600
+            },
+            {
+              "player": "Kristina",
+              "score": 11000
+            },
+            {
+              "player": "Dave",
+              "score": 2400
+            }
+          ]
+        },
+        {
+          "category": "'90s BEST PICTURE PLOT POINTS",
+          "value": 400,
+          "clue": "Poor Jack Dawson leaves Southampton in 1912 to go to America for a new start; has trouble along the way",
+          "answer": "Titanic",
+          "isDailyDouble": false,
+          "orderNumber": 11,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steven",
+              "score": 3600
+            },
+            {
+              "player": "Kristina",
+              "score": 11400
+            },
+            {
+              "player": "Dave",
+              "score": 2400
+            }
+          ]
+        },
+        {
+          "category": "'90s BEST PICTURE PLOT POINTS",
+          "value": 800,
+          "clue": "Multi-talented man scores for the Crimson Tide & bests Chinese at ping pong, among other feats",
+          "answer": "Forrest Gump",
+          "isDailyDouble": false,
+          "orderNumber": 12,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steven",
+              "score": 3600
+            },
+            {
+              "player": "Kristina",
+              "score": 12200
+            },
+            {
+              "player": "Dave",
+              "score": 2400
+            }
+          ]
+        },
+        {
+          "category": "'90s BEST PICTURE PLOT POINTS",
+          "value": 1200,
+          "clue": "In WWII Italy burned Hungarian count tells of his North African tragic love",
+          "answer": "The English Patient",
+          "isDailyDouble": false,
+          "orderNumber": 13,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steven",
+              "score": 3600
+            },
+            {
+              "player": "Kristina",
+              "score": 12200
+            },
+            {
+              "player": "Dave",
+              "score": 3600
+            }
+          ]
+        },
+        {
+          "category": "'90s BEST PICTURE PLOT POINTS",
+          "value": 1600,
+          "clue": "Union officer goes native, seeks/kills buffalo",
+          "answer": "Dances with Wolves",
+          "isDailyDouble": false,
+          "orderNumber": 14,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steven",
+              "score": 5200
+            },
+            {
+              "player": "Kristina",
+              "score": 12200
+            },
+            {
+              "player": "Dave",
+              "score": 3600
+            }
+          ]
+        },
+        {
+          "category": "'90s BEST PICTURE PLOT POINTS",
+          "value": 2000,
+          "clue": "Gal seeks/kills Buffalo Bill",
+          "answer": "The Silence of the Lambs",
+          "isDailyDouble": false,
+          "orderNumber": 15,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Steven",
+              "score": 5200
+            },
+            {
+              "player": "Kristina",
+              "score": 12200
+            },
+            {
+              "player": "Dave",
+              "score": 3600
+            }
+          ]
+        },
+        {
+          "category": "ON THE PHONE",
+          "value": 400,
+          "clue": "The Iridium 9555 connects via this way up high & says it \"works everywhere, without exception\"",
+          "answer": "satellite",
+          "isDailyDouble": false,
+          "orderNumber": 16,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steven",
+              "score": 5200
+            },
+            {
+              "player": "Kristina",
+              "score": 12600
+            },
+            {
+              "player": "Dave",
+              "score": 3600
+            }
+          ]
+        },
+        {
+          "category": "ON THE PHONE",
+          "value": 800,
+          "clue": "Back in 1997 Philippe Kahn jerry-rigged a camera & cell phone & used it to send pictures of this proud event",
+          "answer": "the birth of his daughter",
+          "isDailyDouble": false,
+          "orderNumber": 17,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Steven",
+              "score": 5200
+            },
+            {
+              "player": "Kristina",
+              "score": 12600
+            },
+            {
+              "player": "Dave",
+              "score": 3600
+            }
+          ]
+        },
+        {
+          "category": "ON THE PHONE",
+          "value": 1200,
+          "clue": "An old time phone might be a wall set or this type of set named for a 4-letter horizontal surface",
+          "answer": "a desk set",
+          "isDailyDouble": false,
+          "orderNumber": 18,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steven",
+              "score": 5200
+            },
+            {
+              "player": "Kristina",
+              "score": 12600
+            },
+            {
+              "player": "Dave",
+              "score": 4800
+            }
+          ]
+        },
+        {
+          "category": "ON THE PHONE",
+          "value": 1600,
+          "clue": "The iPhone's intelligent this suggests which word you might want to type next",
+          "answer": "keyboard",
+          "isDailyDouble": false,
+          "orderNumber": 19,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steven",
+              "score": 5200
+            },
+            {
+              "player": "Kristina",
+              "score": 12600
+            },
+            {
+              "player": "Dave",
+              "score": 6400
+            }
+          ]
+        },
+        {
+          "category": "ON THE PHONE",
+          "value": 2000,
+          "clue": "This easy-to-use cell phone is named for a dance of days gone by",
+          "answer": "the Jitterbug",
+          "isDailyDouble": false,
+          "orderNumber": 20,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steven",
+              "score": 5200
+            },
+            {
+              "player": "Kristina",
+              "score": 12600
+            },
+            {
+              "player": "Dave",
+              "score": 8400
+            }
+          ]
+        },
+        {
+          "category": "\"OY\" TO THE WORLD",
+          "value": 400,
+          "clue": "Fake duck for a hunter",
+          "answer": "a decoy",
+          "isDailyDouble": false,
+          "orderNumber": 21,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steven",
+              "score": 5200
+            },
+            {
+              "player": "Kristina",
+              "score": 13000
+            },
+            {
+              "player": "Dave",
+              "score": 8400
+            }
+          ]
+        },
+        {
+          "category": "\"OY\" TO THE WORLD",
+          "value": 800,
+          "clue": "This fabric may take its name from the Old French for \"cloth of the king\"",
+          "answer": "corduroy",
+          "isDailyDouble": false,
+          "orderNumber": 22,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Steven",
+              "score": 5200
+            },
+            {
+              "player": "Kristina",
+              "score": 13000
+            },
+            {
+              "player": "Dave",
+              "score": 8400
+            }
+          ]
+        },
+        {
+          "category": "\"OY\" TO THE WORLD",
+          "value": 1200,
+          "clue": "Developed in 1923, it's the yummy hybrid edible seen here",
+          "answer": "a boysenberry",
+          "isDailyDouble": false,
+          "orderNumber": 23,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steven",
+              "score": 5200
+            },
+            {
+              "player": "Kristina",
+              "score": 13000
+            },
+            {
+              "player": "Dave",
+              "score": 9600
+            }
+          ]
+        },
+        {
+          "category": "\"OY\" TO THE WORLD",
+          "value": 2000,
+          "clue": "A diplomat with less authority than an ambassador",
+          "answer": "an envoy",
+          "isDailyDouble": true,
+          "orderNumber": 24,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steven",
+              "score": 5200
+            },
+            {
+              "player": "Kristina",
+              "score": 13000
+            },
+            {
+              "player": "Dave",
+              "score": 7600
+            }
+          ]
+        },
+        {
+          "category": "\"OY\" TO THE WORLD",
+          "value": 2000,
+          "clue": "Among Hindu deities, Vishnu is the preserver & Shiva is this",
+          "answer": "the destroyer",
+          "isDailyDouble": false,
+          "orderNumber": 25,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steven",
+              "score": 5200
+            },
+            {
+              "player": "Kristina",
+              "score": 13000
+            },
+            {
+              "player": "Dave",
+              "score": 9600
+            }
+          ]
+        },
+        {
+          "category": "ANTHROPOLOGY",
+          "value": 400,
+          "clue": "At 40% intact, the 3.2-million-year-old Australopithecus afarensis skeleton with this nickname is remarkably complete",
+          "answer": "Lucy",
+          "isDailyDouble": false,
+          "orderNumber": 26,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steven",
+              "score": 5600
+            },
+            {
+              "player": "Kristina",
+              "score": 13000
+            },
+            {
+              "player": "Dave",
+              "score": 9600
+            }
+          ]
+        },
+        {
+          "category": "ANTHROPOLOGY",
+          "value": 800,
+          "clue": "In 2009 scientists suggested that Ida, a 47-million-year-old fossil, was one of these, a hypothetical bridge species",
+          "answer": "a missing link",
+          "isDailyDouble": false,
+          "orderNumber": 27,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steven",
+              "score": 5600
+            },
+            {
+              "player": "Kristina",
+              "score": 13000
+            },
+            {
+              "player": "Dave",
+              "score": 10400
+            }
+          ]
+        },
+        {
+          "category": "ANTHROPOLOGY",
+          "value": 2000,
+          "clue": "This couple, stars of paleoanthropology, are seen here helping a 600,000-year-old skull smile for the camera",
+          "answer": "the Leakeys",
+          "isDailyDouble": true,
+          "orderNumber": 28,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steven",
+              "score": 5600
+            },
+            {
+              "player": "Kristina",
+              "score": 13000
+            },
+            {
+              "player": "Dave",
+              "score": 8400
+            }
+          ]
+        },
+        {
+          "category": "ANTHROPOLOGY",
+          "value": 1600,
+          "clue": "In 1856 quarrymen in Germany unearthed part of a skeleton from this archaic man, the archetypal \"caveman\"",
+          "answer": "Neanderthal",
+          "isDailyDouble": false,
+          "orderNumber": 29,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steven",
+              "score": 5600
+            },
+            {
+              "player": "Kristina",
+              "score": 13000
+            },
+            {
+              "player": "Dave",
+              "score": 10000
+            }
+          ]
+        },
+        {
+          "category": "ANTHROPOLOGY",
+          "value": 2000,
+          "clue": "Dubois found the first fossils IDed as this species of our genus; later, finding a femur convinced him that it walked upright",
+          "answer": "Homo erectus",
+          "isDailyDouble": false,
+          "orderNumber": 30,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steven",
+              "score": 3600
+            },
+            {
+              "player": "Kristina",
+              "score": 13000
+            },
+            {
+              "player": "Dave",
+              "score": 12000
+            }
+          ]
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "Steven",
+          "score": 3600
+        },
+        {
+          "player": "Kristina",
+          "score": 13000
+        },
+        {
+          "player": "Dave",
+          "score": 12000
+        }
+      ]
+    },
+    "finalJeopardy": {
+      "category": "MONARCHS",
+      "clue": "Cairo's Al-Rifai mosque is the resting place of 2 Egyptian kings & of a 20th century ruler of this Mideast country",
+      "answer": "Iran",
+      "responses": [
+        {
+          "contestant": "Steven",
+          "response": "What is Jordan?",
+          "isCorrect": false,
+          "isIncorrect": true,
+          "value": 2599,
+          "finalScore": 1001
+        },
+        {
+          "contestant": "Dave",
+          "response": "What is Iran Iraq",
+          "isCorrect": true,
+          "isIncorrect": false,
+          "value": 1001,
+          "finalScore": 13001
+        },
+        {
+          "contestant": "Kristina",
+          "response": "What is the Pan Arab Republic? [Pan Arab Republic crossed out]",
+          "isCorrect": false,
+          "isIncorrect": true,
+          "value": 11001,
+          "finalScore": 1999
+        }
+      ]
+    }
+  },
+  "finalScores": [
+    {
+      "player": "Steven",
+      "score": "$1,001"
+    },
+    {
+      "player": "Kristina",
+      "score": "$1,999"
+    },
+    {
+      "player": "Dave",
+      "score": "$13,001"
+    }
+  ],
+  "coryatScores": [
+    {
+      "player": "Steven",
+      "score": 3600
+    },
+    {
+      "player": "Kristina",
+      "score": 12600
+    },
+    {
+      "player": "Dave",
+      "score": 16000
+    }
+  ]
+}

@@ -1,0 +1,1697 @@
+{
+  "gameId": 2398,
+  "showNumber": "3406",
+  "title": "Show #3406 - Monday, May 31, 1999",
+  "date": "1999-05-31",
+  "comments": "",
+  "contestants": [
+    "Melissa",
+    "Frank",
+    "Jan"
+  ],
+  "rounds": {
+    "jeopardy": {
+      "categories": [
+        "DORIS' DAY",
+        "\"WHOLE\"SOME",
+        "CALAMITY JANE",
+        "PILLOW TALK",
+        "ROCK",
+        "THE HUDSON"
+      ],
+      "clues": [
+        {
+          "category": "PILLOW TALK",
+          "value": 100,
+          "clue": "A 1996 Kiplinger's column found that $1 is a common amount left under pillows by this sprite",
+          "answer": "tooth fairy",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [
+            "Frank"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Melissa",
+              "score": 0
+            },
+            {
+              "player": "Frank",
+              "score": 100
+            },
+            {
+              "player": "Jan",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "ROCK",
+          "value": 100,
+          "clue": "Halite is used as the \"table\" variety of this",
+          "answer": "salt",
+          "isDailyDouble": false,
+          "orderNumber": 2,
+          "correctContestants": [
+            "Melissa"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Melissa",
+              "score": 100
+            },
+            {
+              "player": "Frank",
+              "score": 100
+            },
+            {
+              "player": "Jan",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "PILLOW TALK",
+          "value": 200,
+          "clue": "This mythic sculptor whose name became a Shaw play, made a feather pillow for his favorite creation",
+          "answer": "Pygmalion",
+          "isDailyDouble": false,
+          "orderNumber": 3,
+          "correctContestants": [
+            "Jan"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Melissa",
+              "score": 100
+            },
+            {
+              "player": "Frank",
+              "score": 100
+            },
+            {
+              "player": "Jan",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "DORIS' DAY",
+          "value": 100,
+          "clue": "Each morning Doris logs onto wsj.com, the interactive edition of this newspaper, to check her stocks",
+          "answer": "The Wall Street Journal",
+          "isDailyDouble": false,
+          "orderNumber": 4,
+          "correctContestants": [
+            "Jan"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Melissa",
+              "score": 100
+            },
+            {
+              "player": "Frank",
+              "score": 100
+            },
+            {
+              "player": "Jan",
+              "score": 300
+            }
+          ]
+        },
+        {
+          "category": "DORIS' DAY",
+          "value": 200,
+          "clue": "Doris stays fit with her 3-times-a-week workout at one of this \"Total Fitness\" company's 320 centers",
+          "answer": "Bally's",
+          "isDailyDouble": false,
+          "orderNumber": 5,
+          "correctContestants": [
+            "Frank"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Melissa",
+              "score": 100
+            },
+            {
+              "player": "Frank",
+              "score": 300
+            },
+            {
+              "player": "Jan",
+              "score": 300
+            }
+          ]
+        },
+        {
+          "category": "DORIS' DAY",
+          "value": 300,
+          "clue": "Doris picked up a travel guide to the Kalahari; she plans to follow this Scotsman's 1849 route across it",
+          "answer": "Dr. Livingstone",
+          "isDailyDouble": false,
+          "orderNumber": 6,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Melissa",
+              "score": 100
+            },
+            {
+              "player": "Frank",
+              "score": 300
+            },
+            {
+              "player": "Jan",
+              "score": 300
+            }
+          ]
+        },
+        {
+          "category": "PILLOW TALK",
+          "value": 300,
+          "clue": "This molten stuff can harden into glassy \"pillows\" if it comes into contact with water",
+          "answer": "lava",
+          "isDailyDouble": false,
+          "orderNumber": 7,
+          "correctContestants": [
+            "Jan"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Melissa",
+              "score": 100
+            },
+            {
+              "player": "Frank",
+              "score": 300
+            },
+            {
+              "player": "Jan",
+              "score": 600
+            }
+          ]
+        },
+        {
+          "category": "CALAMITY JANE",
+          "value": 100,
+          "clue": "Jane had some \"dark times\" as a camp follower of an expedition to these South Dakota hills",
+          "answer": "Black Hills",
+          "isDailyDouble": false,
+          "orderNumber": 8,
+          "correctContestants": [
+            "Frank"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Melissa",
+              "score": 100
+            },
+            {
+              "player": "Frank",
+              "score": 400
+            },
+            {
+              "player": "Jan",
+              "score": 600
+            }
+          ]
+        },
+        {
+          "category": "DORIS' DAY",
+          "value": 400,
+          "clue": "For dinner, Doris tried her hand, or at least her fingers, with this staple dish of Hawaii made from taro",
+          "answer": "poi",
+          "isDailyDouble": false,
+          "orderNumber": 9,
+          "correctContestants": [
+            "Frank"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Melissa",
+              "score": 100
+            },
+            {
+              "player": "Frank",
+              "score": 800
+            },
+            {
+              "player": "Jan",
+              "score": 600
+            }
+          ]
+        },
+        {
+          "category": "DORIS' DAY",
+          "value": 500,
+          "clue": "Doris ends her day walking Binky & Albert, these 2 breeds of dog seen here:",
+          "answer": "basset hound & Great Dane",
+          "isDailyDouble": false,
+          "orderNumber": 10,
+          "correctContestants": [
+            "Melissa"
+          ],
+          "incorrectContestants": [
+            "Frank"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Melissa",
+              "score": 600
+            },
+            {
+              "player": "Frank",
+              "score": 300
+            },
+            {
+              "player": "Jan",
+              "score": 600
+            }
+          ]
+        },
+        {
+          "category": "THE HUDSON",
+          "value": 100,
+          "clue": "A bridge named for this fictional snoozer crosses the Hudson at Catskill",
+          "answer": "Rip Van Winkle",
+          "isDailyDouble": false,
+          "orderNumber": 11,
+          "correctContestants": [
+            "Frank"
+          ],
+          "incorrectContestants": [
+            "Jan"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Melissa",
+              "score": 600
+            },
+            {
+              "player": "Frank",
+              "score": 400
+            },
+            {
+              "player": "Jan",
+              "score": 500
+            }
+          ]
+        },
+        {
+          "category": "THE HUDSON",
+          "value": 200,
+          "clue": "In 1802 a military academy was established at this site",
+          "answer": "West Point",
+          "isDailyDouble": false,
+          "orderNumber": 12,
+          "correctContestants": [
+            "Frank"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Melissa",
+              "score": 600
+            },
+            {
+              "player": "Frank",
+              "score": 600
+            },
+            {
+              "player": "Jan",
+              "score": 500
+            }
+          ]
+        },
+        {
+          "category": "THE HUDSON",
+          "value": 300,
+          "clue": "In 1807 the first practical steamboat, commonly known by this name, was launched on the Hudson",
+          "answer": "Clermont",
+          "isDailyDouble": false,
+          "orderNumber": 13,
+          "correctContestants": [
+            "Frank"
+          ],
+          "incorrectContestants": [
+            "Jan"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Melissa",
+              "score": 600
+            },
+            {
+              "player": "Frank",
+              "score": 900
+            },
+            {
+              "player": "Jan",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "THE HUDSON",
+          "value": 400,
+          "clue": "This interstate park on the Hudson features 300-500 foot high cliffs",
+          "answer": "Palisades",
+          "isDailyDouble": false,
+          "orderNumber": 14,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Frank"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Melissa",
+              "score": 600
+            },
+            {
+              "player": "Frank",
+              "score": 500
+            },
+            {
+              "player": "Jan",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "THE HUDSON",
+          "value": 500,
+          "clue": "It was on this ship that Henry Hudson was first sent up the river",
+          "answer": "Half Moon",
+          "isDailyDouble": false,
+          "orderNumber": 15,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Melissa",
+              "score": 600
+            },
+            {
+              "player": "Frank",
+              "score": 500
+            },
+            {
+              "player": "Jan",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "\"WHOLE\"SOME",
+          "value": 100,
+          "clue": "If Freddy, Wilbur or Babe indulged himself completely, he'd \"go\" this",
+          "answer": "whole hog",
+          "isDailyDouble": false,
+          "orderNumber": 16,
+          "correctContestants": [
+            "Frank"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Melissa",
+              "score": 600
+            },
+            {
+              "player": "Frank",
+              "score": 600
+            },
+            {
+              "player": "Jan",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "\"WHOLE\"SOME",
+          "value": 200,
+          "clue": "A completely fictitious tale is \"made out of\" this",
+          "answer": "whole cloth",
+          "isDailyDouble": false,
+          "orderNumber": 17,
+          "correctContestants": [
+            "Melissa"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Melissa",
+              "score": 800
+            },
+            {
+              "player": "Frank",
+              "score": 600
+            },
+            {
+              "player": "Jan",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "\"WHOLE\"SOME",
+          "value": 300,
+          "clue": "In a joking W.C. Fields epitaph, these 3 words precede \"I'd rather be in Philadelphia\"",
+          "answer": "On the whole",
+          "isDailyDouble": false,
+          "orderNumber": 18,
+          "correctContestants": [
+            "Frank"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Melissa",
+              "score": 800
+            },
+            {
+              "player": "Frank",
+              "score": 900
+            },
+            {
+              "player": "Jan",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "\"WHOLE\"SOME",
+          "value": 400,
+          "clue": "Shebeen, a word for an Irish tavern, may be the origin of this expression",
+          "answer": "whole shebang",
+          "isDailyDouble": false,
+          "orderNumber": 19,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Melissa",
+              "score": 800
+            },
+            {
+              "player": "Frank",
+              "score": 900
+            },
+            {
+              "player": "Jan",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "\"WHOLE\"SOME",
+          "value": 500,
+          "clue": "Completes the famous Alka-Seltzer ad line, \"I can't believe...\"",
+          "answer": "I ate the whole thing",
+          "isDailyDouble": false,
+          "orderNumber": 20,
+          "correctContestants": [
+            "Jan"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Melissa",
+              "score": 800
+            },
+            {
+              "player": "Frank",
+              "score": 900
+            },
+            {
+              "player": "Jan",
+              "score": 700
+            }
+          ]
+        },
+        {
+          "category": "CALAMITY JANE",
+          "value": 200,
+          "clue": "Jane's job title of bullwhacker indicates she drove cattle with one of these implements",
+          "answer": "whip",
+          "isDailyDouble": false,
+          "orderNumber": 21,
+          "correctContestants": [
+            "Melissa"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Melissa",
+              "score": 1000
+            },
+            {
+              "player": "Frank",
+              "score": 900
+            },
+            {
+              "player": "Jan",
+              "score": 700
+            }
+          ]
+        },
+        {
+          "category": "ROCK",
+          "value": 200,
+          "clue": "This organic rock is found in the Christmas stockings of people who've been bad",
+          "answer": "coal",
+          "isDailyDouble": false,
+          "orderNumber": 22,
+          "correctContestants": [
+            "Frank"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Melissa",
+              "score": 1000
+            },
+            {
+              "player": "Frank",
+              "score": 1100
+            },
+            {
+              "player": "Jan",
+              "score": 700
+            }
+          ]
+        },
+        {
+          "category": "CALAMITY JANE",
+          "value": 300,
+          "clue": "General George, whose troops Jane rode with, had this last name that Nixon said didn't apply to him",
+          "answer": "Crook",
+          "isDailyDouble": false,
+          "orderNumber": 23,
+          "correctContestants": [
+            "Frank"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Melissa",
+              "score": 1000
+            },
+            {
+              "player": "Frank",
+              "score": 1400
+            },
+            {
+              "player": "Jan",
+              "score": 700
+            }
+          ]
+        },
+        {
+          "category": "CALAMITY JANE",
+          "value": 400,
+          "clue": "A woman surfaced in 1941 claiming to be the daughter of Jane & this man who played one poker hand too many",
+          "answer": "Wild Bill Hickok",
+          "isDailyDouble": false,
+          "orderNumber": 24,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Frank"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Melissa",
+              "score": 1000
+            },
+            {
+              "player": "Frank",
+              "score": 1000
+            },
+            {
+              "player": "Jan",
+              "score": 700
+            }
+          ]
+        },
+        {
+          "category": "CALAMITY JANE",
+          "value": 500,
+          "clue": "Jane's gig at the 1901 Pan-American Expo in this city was overshadowed by ths McKinley assassination there",
+          "answer": "Buffalo",
+          "isDailyDouble": false,
+          "orderNumber": 25,
+          "correctContestants": [
+            "Frank"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Melissa",
+              "score": 1000
+            },
+            {
+              "player": "Frank",
+              "score": 1500
+            },
+            {
+              "player": "Jan",
+              "score": 700
+            }
+          ]
+        },
+        {
+          "category": "PILLOW TALK",
+          "value": 400,
+          "clue": "As seen in Genesis 28 & in the name of a dance festival, he used stones for a pillow",
+          "answer": "Jacob",
+          "isDailyDouble": false,
+          "orderNumber": 26,
+          "correctContestants": [
+            "Melissa"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Melissa",
+              "score": 1400
+            },
+            {
+              "player": "Frank",
+              "score": 1500
+            },
+            {
+              "player": "Jan",
+              "score": 700
+            }
+          ]
+        },
+        {
+          "category": "PILLOW TALK",
+          "value": 500,
+          "clue": "In the second Shakespeare play named for him, this king sleeps with the crown on his pillow",
+          "answer": "Henry IV",
+          "isDailyDouble": false,
+          "orderNumber": 27,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Frank"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Melissa",
+              "score": 1400
+            },
+            {
+              "player": "Frank",
+              "score": 1000
+            },
+            {
+              "player": "Jan",
+              "score": 700
+            }
+          ]
+        },
+        {
+          "category": "ROCK",
+          "value": 300,
+          "clue": "If shale has misbehaved, it can say, \"My name is\" this, 'cause that's what it was made from",
+          "answer": "mud",
+          "isDailyDouble": false,
+          "orderNumber": 28,
+          "correctContestants": [
+            "Frank"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Melissa",
+              "score": 1400
+            },
+            {
+              "player": "Frank",
+              "score": 1300
+            },
+            {
+              "player": "Jan",
+              "score": 700
+            }
+          ]
+        },
+        {
+          "category": "ROCK",
+          "value": 1000,
+          "clue": "While some people can \"talk\" one, chalcanthite & azurite can leave one on a hard surface",
+          "answer": "a blue streak",
+          "isDailyDouble": true,
+          "orderNumber": 29,
+          "correctContestants": [
+            "Frank"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Melissa",
+              "score": 1400
+            },
+            {
+              "player": "Frank",
+              "score": 2300
+            },
+            {
+              "player": "Jan",
+              "score": 700
+            }
+          ]
+        },
+        {
+          "category": "ROCK",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Melissa",
+              "score": 1400
+            },
+            {
+              "player": "Frank",
+              "score": 2300
+            },
+            {
+              "player": "Jan",
+              "score": 700
+            }
+          ]
+        }
+      ],
+      "firstBreakScores": [
+        {
+          "player": "Melissa",
+          "score": 600
+        },
+        {
+          "player": "Frank",
+          "score": 500
+        },
+        {
+          "player": "Jan",
+          "score": 200
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "Melissa",
+          "score": 1400
+        },
+        {
+          "player": "Frank",
+          "score": 2300
+        },
+        {
+          "player": "Jan",
+          "score": 700
+        }
+      ]
+    },
+    "doubleJeopardy": {
+      "categories": [
+        "CLASSIC DRAMA",
+        "COLLEGES",
+        "ART & ARTISTS",
+        "BEST DIRECTOR",
+        "THE JACKSON FIVE",
+        "SAY CHEESE!"
+      ],
+      "clues": [
+        {
+          "category": "SAY CHEESE!",
+          "value": 200,
+          "clue": "His \"Poor Richard's Almanac\" says that \"Cheese and salt meat should be sparingly eat\"",
+          "answer": "Benjamin Franklin",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Melissa",
+              "score": 1400
+            },
+            {
+              "player": "Frank",
+              "score": 2500
+            },
+            {
+              "player": "Jan",
+              "score": 700
+            }
+          ]
+        },
+        {
+          "category": "COLLEGES",
+          "value": 200,
+          "clue": "Irvin Feld founded a college in Venice, Florida in 1968 to train these performers for the circus",
+          "answer": "clowns",
+          "isDailyDouble": false,
+          "orderNumber": 2,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Melissa",
+              "score": 1400
+            },
+            {
+              "player": "Frank",
+              "score": 2700
+            },
+            {
+              "player": "Jan",
+              "score": 700
+            }
+          ]
+        },
+        {
+          "category": "COLLEGES",
+          "value": 400,
+          "clue": "Mesa State is a college in Grand Junction in this state",
+          "answer": "Colorado",
+          "isDailyDouble": false,
+          "orderNumber": 3,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Melissa",
+              "score": 1400
+            },
+            {
+              "player": "Frank",
+              "score": 3100
+            },
+            {
+              "player": "Jan",
+              "score": 700
+            }
+          ]
+        },
+        {
+          "category": "COLLEGES",
+          "value": 3100,
+          "clue": "A college of podiatry in Chicago is named for this doctor",
+          "answer": "Dr. Scholl",
+          "isDailyDouble": true,
+          "orderNumber": 4,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Melissa",
+              "score": 1400
+            },
+            {
+              "player": "Frank",
+              "score": 6200
+            },
+            {
+              "player": "Jan",
+              "score": 700
+            }
+          ]
+        },
+        {
+          "category": "COLLEGES",
+          "value": 800,
+          "clue": "The graduates of this Owatonna, Minnesota Baptist Bible college must be poppin' fresh (we couldn't resist the joke)",
+          "answer": "Pillsbury",
+          "isDailyDouble": false,
+          "orderNumber": 5,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Melissa",
+              "score": 2200
+            },
+            {
+              "player": "Frank",
+              "score": 6200
+            },
+            {
+              "player": "Jan",
+              "score": 700
+            }
+          ]
+        },
+        {
+          "category": "ART & ARTISTS",
+          "value": 200,
+          "clue": "Jan Vermeer's \"Young Woman with a Water Jug\" is an example of genre painting from this country",
+          "answer": "Holland",
+          "isDailyDouble": false,
+          "orderNumber": 6,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Melissa",
+              "score": 2200
+            },
+            {
+              "player": "Frank",
+              "score": 6200
+            },
+            {
+              "player": "Jan",
+              "score": 900
+            }
+          ]
+        },
+        {
+          "category": "SAY CHEESE!",
+          "value": 400,
+          "clue": "\"Many's the long night I've dreamed of cheese--toasted mostly\", this author wrote in \"Treasure Island\"",
+          "answer": "(Robert Louis) Stevenson",
+          "isDailyDouble": false,
+          "orderNumber": 7,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Melissa",
+              "score": 2200
+            },
+            {
+              "player": "Frank",
+              "score": 6600
+            },
+            {
+              "player": "Jan",
+              "score": 900
+            }
+          ]
+        },
+        {
+          "category": "COLLEGES",
+          "value": 1000,
+          "clue": "Located in Charleston, it's \"The Military College of South Carolina\"",
+          "answer": "The Citadel",
+          "isDailyDouble": false,
+          "orderNumber": 8,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Melissa",
+              "score": 2200
+            },
+            {
+              "player": "Frank",
+              "score": 7600
+            },
+            {
+              "player": "Jan",
+              "score": 900
+            }
+          ]
+        },
+        {
+          "category": "THE JACKSON FIVE",
+          "value": 200,
+          "clue": "This general gained his famous nickname at the First Battle of Bull Run",
+          "answer": "Stonewall Jackson",
+          "isDailyDouble": false,
+          "orderNumber": 9,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Melissa",
+              "score": 2200
+            },
+            {
+              "player": "Frank",
+              "score": 7800
+            },
+            {
+              "player": "Jan",
+              "score": 900
+            }
+          ]
+        },
+        {
+          "category": "THE JACKSON FIVE",
+          "value": 400,
+          "clue": "In 1971 this Baptist minister founded Operation PUSH (People United to Save Humanity)",
+          "answer": "Jesse Jackson",
+          "isDailyDouble": false,
+          "orderNumber": 10,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Melissa",
+              "score": 2200
+            },
+            {
+              "player": "Frank",
+              "score": 8200
+            },
+            {
+              "player": "Jan",
+              "score": 900
+            }
+          ]
+        },
+        {
+          "category": "THE JACKSON FIVE",
+          "value": 600,
+          "clue": "He closed nearly 5 decades of sportscasting at the end of January 1999's Fiesta Bowl",
+          "answer": "Keith Jackson",
+          "isDailyDouble": false,
+          "orderNumber": 11,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Melissa",
+              "score": 2200
+            },
+            {
+              "player": "Frank",
+              "score": 8800
+            },
+            {
+              "player": "Jan",
+              "score": 900
+            }
+          ]
+        },
+        {
+          "category": "THE JACKSON FIVE",
+          "value": 800,
+          "clue": "This British actress & Labour politician said, \"Acting is not about dressing up\" but \"about stripping bare\"",
+          "answer": "Glenda Jackson",
+          "isDailyDouble": false,
+          "orderNumber": 12,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Melissa",
+              "score": 3000
+            },
+            {
+              "player": "Frank",
+              "score": 8800
+            },
+            {
+              "player": "Jan",
+              "score": 900
+            }
+          ]
+        },
+        {
+          "category": "ART & ARTISTS",
+          "value": 400,
+          "clue": "Take a look: He once smashed a Fifth Avenue window to rearrange a display of his work",
+          "answer": "(Salvador) Dali",
+          "isDailyDouble": false,
+          "orderNumber": 13,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Melissa",
+              "score": 3000
+            },
+            {
+              "player": "Frank",
+              "score": 8800
+            },
+            {
+              "player": "Jan",
+              "score": 1300
+            }
+          ]
+        },
+        {
+          "category": "SAY CHEESE!",
+          "value": 600,
+          "clue": "This French President asked how one could be expected to govern a country that has \"265 kinds of cheese?\"",
+          "answer": "de Gaulle",
+          "isDailyDouble": false,
+          "orderNumber": 14,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Melissa",
+              "score": 3000
+            },
+            {
+              "player": "Frank",
+              "score": 8800
+            },
+            {
+              "player": "Jan",
+              "score": 1900
+            }
+          ]
+        },
+        {
+          "category": "BEST DIRECTOR",
+          "value": 200,
+          "clue": "\"Schindler's List\"",
+          "answer": "(Steven) Spielberg",
+          "isDailyDouble": false,
+          "orderNumber": 15,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Melissa",
+              "score": 3000
+            },
+            {
+              "player": "Frank",
+              "score": 8800
+            },
+            {
+              "player": "Jan",
+              "score": 2100
+            }
+          ]
+        },
+        {
+          "category": "BEST DIRECTOR",
+          "value": 400,
+          "clue": "\"Reds\"",
+          "answer": "Warren Beatty",
+          "isDailyDouble": false,
+          "orderNumber": 16,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Melissa",
+              "score": 3000
+            },
+            {
+              "player": "Frank",
+              "score": 9200
+            },
+            {
+              "player": "Jan",
+              "score": 2100
+            }
+          ]
+        },
+        {
+          "category": "THE JACKSON FIVE",
+          "value": 1000,
+          "clue": "In October 1973 he became the first black mayor of Atlanta, Georgia",
+          "answer": "Maynard Jackson",
+          "isDailyDouble": false,
+          "orderNumber": 17,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Melissa",
+              "score": 3000
+            },
+            {
+              "player": "Frank",
+              "score": 8200
+            },
+            {
+              "player": "Jan",
+              "score": 2100
+            }
+          ]
+        },
+        {
+          "category": "SAY CHEESE!",
+          "value": 800,
+          "clue": "This Browning work says, \"Rats! They fought the dogs and killed the cats...and ate the cheeses out of the vats\"",
+          "answer": "The Pied Piper of Hamelin",
+          "isDailyDouble": false,
+          "orderNumber": 18,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Melissa",
+              "score": 2200
+            },
+            {
+              "player": "Frank",
+              "score": 8200
+            },
+            {
+              "player": "Jan",
+              "score": 2100
+            }
+          ]
+        },
+        {
+          "category": "BEST DIRECTOR",
+          "value": 600,
+          "clue": "\"Treasure of the Sierra Madre\"",
+          "answer": "John Huston",
+          "isDailyDouble": false,
+          "orderNumber": 19,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Melissa",
+              "score": 2800
+            },
+            {
+              "player": "Frank",
+              "score": 8200
+            },
+            {
+              "player": "Jan",
+              "score": 2100
+            }
+          ]
+        },
+        {
+          "category": "ART & ARTISTS",
+          "value": 600,
+          "clue": "Former Premier Georges Clemenceau attended the 1926 funeral of this \"Water Lilies\" painter",
+          "answer": "Monet",
+          "isDailyDouble": false,
+          "orderNumber": 20,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Melissa",
+              "score": 3400
+            },
+            {
+              "player": "Frank",
+              "score": 8200
+            },
+            {
+              "player": "Jan",
+              "score": 2100
+            }
+          ]
+        },
+        {
+          "category": "ART & ARTISTS",
+          "value": 800,
+          "clue": "Although known for his Maine seascapes, he often traveled to the Adirondacks & Florida to paint",
+          "answer": "Winslow Homer",
+          "isDailyDouble": false,
+          "orderNumber": 21,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Melissa",
+              "score": 3400
+            },
+            {
+              "player": "Frank",
+              "score": 8200
+            },
+            {
+              "player": "Jan",
+              "score": 2100
+            }
+          ]
+        },
+        {
+          "category": "ART & ARTISTS",
+          "value": 1000,
+          "clue": "In this Renaissance master's \"Madonna of the Goldfinch\", the infants Jesus & John the Baptist are next to the Virgin Mary",
+          "answer": "Raphael",
+          "isDailyDouble": false,
+          "orderNumber": 22,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Melissa",
+              "score": 3400
+            },
+            {
+              "player": "Frank",
+              "score": 8200
+            },
+            {
+              "player": "Jan",
+              "score": 2100
+            }
+          ]
+        },
+        {
+          "category": "CLASSIC DRAMA",
+          "value": 200,
+          "clue": "It includes the foreshadowing line \"Hedda darling--Don't touch those dangerous things!\"",
+          "answer": "Hedda Gabler",
+          "isDailyDouble": false,
+          "orderNumber": 23,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Melissa",
+              "score": 3400
+            },
+            {
+              "player": "Frank",
+              "score": 8200
+            },
+            {
+              "player": "Jan",
+              "score": 2300
+            }
+          ]
+        },
+        {
+          "category": "BEST DIRECTOR",
+          "value": 800,
+          "clue": "\"You Can't Take It with You\"",
+          "answer": "Frank Capra",
+          "isDailyDouble": false,
+          "orderNumber": 24,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Melissa",
+              "score": 3400
+            },
+            {
+              "player": "Frank",
+              "score": 8200
+            },
+            {
+              "player": "Jan",
+              "score": 2300
+            }
+          ]
+        },
+        {
+          "category": "BEST DIRECTOR",
+          "value": 1000,
+          "clue": "\"Gandhi\"",
+          "answer": "Richard Attenborough",
+          "isDailyDouble": false,
+          "orderNumber": 25,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Melissa",
+              "score": 3400
+            },
+            {
+              "player": "Frank",
+              "score": 8200
+            },
+            {
+              "player": "Jan",
+              "score": 2300
+            }
+          ]
+        },
+        {
+          "category": "SAY CHEESE!",
+          "value": 1000,
+          "clue": "In his introduction to \"A Tale of a Tub\", this Irish-born satirist says that wisdom \"is a cheese\"",
+          "answer": "Jonathan Swift",
+          "isDailyDouble": false,
+          "orderNumber": 26,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Melissa",
+              "score": 3400
+            },
+            {
+              "player": "Frank",
+              "score": 8200
+            },
+            {
+              "player": "Jan",
+              "score": 3300
+            }
+          ]
+        },
+        {
+          "category": "CLASSIC DRAMA",
+          "value": 400,
+          "clue": "He's the king or \"Rex\" who saves Thebes in an ancient work by Sophocles",
+          "answer": "Oedipus",
+          "isDailyDouble": false,
+          "orderNumber": 27,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Melissa",
+              "score": 3400
+            },
+            {
+              "player": "Frank",
+              "score": 8600
+            },
+            {
+              "player": "Jan",
+              "score": 3300
+            }
+          ]
+        },
+        {
+          "category": "CLASSIC DRAMA",
+          "value": 600,
+          "clue": "Pierre Corneille wrote a 1637 play about this medieval Spanish hero",
+          "answer": "El Cid",
+          "isDailyDouble": false,
+          "orderNumber": 28,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Melissa",
+              "score": 3400
+            },
+            {
+              "player": "Frank",
+              "score": 8600
+            },
+            {
+              "player": "Jan",
+              "score": 3900
+            }
+          ]
+        },
+        {
+          "category": "CLASSIC DRAMA",
+          "value": 1000,
+          "clue": "Shakespearean woman who asks \"Where is the beauteous majesty of Denmark?\"",
+          "answer": "Ophelia",
+          "isDailyDouble": true,
+          "orderNumber": 29,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Melissa",
+              "score": 3400
+            },
+            {
+              "player": "Frank",
+              "score": 8600
+            },
+            {
+              "player": "Jan",
+              "score": 4900
+            }
+          ]
+        },
+        {
+          "category": "CLASSIC DRAMA",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Melissa",
+              "score": 3400
+            },
+            {
+              "player": "Frank",
+              "score": 8600
+            },
+            {
+              "player": "Jan",
+              "score": 4900
+            }
+          ]
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "Melissa",
+          "score": 3400
+        },
+        {
+          "player": "Frank",
+          "score": 8600
+        },
+        {
+          "player": "Jan",
+          "score": 4900
+        }
+      ]
+    },
+    "finalJeopardy": {
+      "category": "SPORTS",
+      "clue": "The fact that he didn't play September 20, 1998 made headlines",
+      "answer": "Cal Ripken",
+      "responses": [
+        {
+          "contestant": "Melissa",
+          "response": "Who is?",
+          "isCorrect": false,
+          "isIncorrect": true,
+          "value": 100,
+          "finalScore": 3300
+        },
+        {
+          "contestant": "Jan",
+          "response": "Who is Mark MacGwire?",
+          "isCorrect": false,
+          "isIncorrect": true,
+          "value": 4899,
+          "finalScore": 1
+        },
+        {
+          "contestant": "Frank",
+          "response": "Who is Cal Ripken?",
+          "isCorrect": true,
+          "isIncorrect": false,
+          "value": 1201,
+          "finalScore": 9801
+        }
+      ]
+    }
+  },
+  "finalScores": [
+    {
+      "player": "Melissa",
+      "score": "$3,300"
+    },
+    {
+      "player": "Frank",
+      "score": "$9,801"
+    },
+    {
+      "player": "Jan",
+      "score": "$1"
+    }
+  ],
+  "coryatScores": [
+    {
+      "player": "Melissa",
+      "score": 3400
+    },
+    {
+      "player": "Frank",
+      "score": 5500
+    },
+    {
+      "player": "Jan",
+      "score": 4700
+    }
+  ]
+}

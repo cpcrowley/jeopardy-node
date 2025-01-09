@@ -1,0 +1,1696 @@
+{
+  "gameId": 7877,
+  "showNumber": "1456",
+  "title": "Show #1456 - Monday, December 24, 1990",
+  "date": "1990-12-24",
+  "comments": "Game entered from audiorecording. Missing prizes.",
+  "contestants": [
+    "Gordon",
+    "Chris",
+    "Curt"
+  ],
+  "rounds": {
+    "jeopardy": {
+      "categories": [
+        "COOKING \"P\"s",
+        "LANGUAGES",
+        "GOULASH",
+        "TREATIES",
+        "AUTO AD LINES",
+        "CHRISTMAS SONGS"
+      ],
+      "clues": [
+        {
+          "category": "AUTO AD LINES",
+          "value": 100,
+          "clue": "\"Have you driven\" one of these \"lately\"?",
+          "answer": "a Ford",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [
+            "Curt"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Gordon",
+              "score": 0
+            },
+            {
+              "player": "Chris",
+              "score": 0
+            },
+            {
+              "player": "Curt",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "category": "AUTO AD LINES",
+          "value": 200,
+          "clue": "\"We build excitement\"",
+          "answer": "Pontiac",
+          "isDailyDouble": false,
+          "orderNumber": 2,
+          "correctContestants": [
+            "Curt"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Gordon",
+              "score": 0
+            },
+            {
+              "player": "Chris",
+              "score": 0
+            },
+            {
+              "player": "Curt",
+              "score": 300
+            }
+          ]
+        },
+        {
+          "category": "AUTO AD LINES",
+          "value": 300,
+          "clue": "\"The heartbeat of America\"",
+          "answer": "Chevrolet",
+          "isDailyDouble": false,
+          "orderNumber": 3,
+          "correctContestants": [
+            "Curt"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Gordon",
+              "score": 0
+            },
+            {
+              "player": "Chris",
+              "score": 0
+            },
+            {
+              "player": "Curt",
+              "score": 600
+            }
+          ]
+        },
+        {
+          "category": "AUTO AD LINES",
+          "value": 400,
+          "clue": "\"Built for the human race\"",
+          "answer": "Nissan",
+          "isDailyDouble": false,
+          "orderNumber": 4,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Gordon",
+              "score": 0
+            },
+            {
+              "player": "Chris",
+              "score": 0
+            },
+            {
+              "player": "Curt",
+              "score": 600
+            }
+          ]
+        },
+        {
+          "category": "AUTO AD LINES",
+          "value": 500,
+          "clue": "\"The ultimate driving machine\"",
+          "answer": "BMW",
+          "isDailyDouble": false,
+          "orderNumber": 5,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Chris",
+            "Curt"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Gordon",
+              "score": 0
+            },
+            {
+              "player": "Chris",
+              "score": -500
+            },
+            {
+              "player": "Curt",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "category": "TREATIES",
+          "value": 100,
+          "clue": "In 1936, this country broke the Locarno Treaties by sending troops into the Rhineland",
+          "answer": "Germany",
+          "isDailyDouble": false,
+          "orderNumber": 6,
+          "correctContestants": [
+            "Gordon"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Gordon",
+              "score": 100
+            },
+            {
+              "player": "Chris",
+              "score": -500
+            },
+            {
+              "player": "Curt",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "category": "TREATIES",
+          "value": 200,
+          "clue": "In the 1814 Treaty of Kiel, Denmark gave Norway to this country",
+          "answer": "Sweden",
+          "isDailyDouble": false,
+          "orderNumber": 7,
+          "correctContestants": [
+            "Gordon"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Gordon",
+              "score": 300
+            },
+            {
+              "player": "Chris",
+              "score": -500
+            },
+            {
+              "player": "Curt",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "category": "TREATIES",
+          "value": 300,
+          "clue": "Of the Seven, 30 or 100 Years War, the one ended by the Peace of Westphalia",
+          "answer": "Thirty Years' War",
+          "isDailyDouble": false,
+          "orderNumber": 8,
+          "correctContestants": [
+            "Chris"
+          ],
+          "incorrectContestants": [
+            "Curt"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Gordon",
+              "score": 300
+            },
+            {
+              "player": "Chris",
+              "score": -200
+            },
+            {
+              "player": "Curt",
+              "score": -200
+            }
+          ]
+        },
+        {
+          "category": "TREATIES",
+          "value": 400,
+          "clue": "This treaty ended World War I & set up the League of Nations",
+          "answer": "Treaty of Versailles",
+          "isDailyDouble": false,
+          "orderNumber": 9,
+          "correctContestants": [
+            "Curt"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Gordon",
+              "score": 300
+            },
+            {
+              "player": "Chris",
+              "score": -200
+            },
+            {
+              "player": "Curt",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "TREATIES",
+          "value": 500,
+          "clue": "Named for the palace where it was signed, this treaty established Vatican City as an independent state",
+          "answer": "the Lateran Treaty",
+          "isDailyDouble": false,
+          "orderNumber": 10,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Gordon",
+              "score": 300
+            },
+            {
+              "player": "Chris",
+              "score": -200
+            },
+            {
+              "player": "Curt",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "LANGUAGES",
+          "value": 100,
+          "clue": "Andean Equatorial is an Aborigine language family spoken on this continent",
+          "answer": "South America",
+          "isDailyDouble": false,
+          "orderNumber": 11,
+          "correctContestants": [
+            "Curt"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Gordon",
+              "score": 300
+            },
+            {
+              "player": "Chris",
+              "score": -200
+            },
+            {
+              "player": "Curt",
+              "score": 300
+            }
+          ]
+        },
+        {
+          "category": "LANGUAGES",
+          "value": 200,
+          "clue": "Over 100 million people in this country speak languages of the Dravidian group",
+          "answer": "India",
+          "isDailyDouble": false,
+          "orderNumber": 12,
+          "correctContestants": [
+            "Gordon"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Gordon",
+              "score": 500
+            },
+            {
+              "player": "Chris",
+              "score": -200
+            },
+            {
+              "player": "Curt",
+              "score": 300
+            }
+          ]
+        },
+        {
+          "category": "LANGUAGES",
+          "value": 500,
+          "clue": "Most of the Indian dialects spoken in Guatemala originated from this language",
+          "answer": "Mayan",
+          "isDailyDouble": true,
+          "orderNumber": 13,
+          "correctContestants": [
+            "Gordon"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Gordon",
+              "score": 1000
+            },
+            {
+              "player": "Chris",
+              "score": -200
+            },
+            {
+              "player": "Curt",
+              "score": 300
+            }
+          ]
+        },
+        {
+          "category": "LANGUAGES",
+          "value": 400,
+          "clue": "It's the official language of Liberia, Sierra Leone & Papua New Guinea",
+          "answer": "English",
+          "isDailyDouble": false,
+          "orderNumber": 14,
+          "correctContestants": [
+            "Gordon"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Gordon",
+              "score": 1400
+            },
+            {
+              "player": "Chris",
+              "score": -200
+            },
+            {
+              "player": "Curt",
+              "score": 300
+            }
+          ]
+        },
+        {
+          "category": "LANGUAGES",
+          "value": 500,
+          "clue": "The angular katakana characters of this written language are used for foreign words",
+          "answer": "Japanese",
+          "isDailyDouble": false,
+          "orderNumber": 15,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Gordon",
+              "score": 1400
+            },
+            {
+              "player": "Chris",
+              "score": -200
+            },
+            {
+              "player": "Curt",
+              "score": 300
+            }
+          ]
+        },
+        {
+          "category": "GOULASH",
+          "value": 100,
+          "clue": "Archipelago off northern Scotland in which a famous pony & sheepdog originated",
+          "answer": "Shetland",
+          "isDailyDouble": false,
+          "orderNumber": 16,
+          "correctContestants": [
+            "Gordon"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Gordon",
+              "score": 1500
+            },
+            {
+              "player": "Chris",
+              "score": -200
+            },
+            {
+              "player": "Curt",
+              "score": 300
+            }
+          ]
+        },
+        {
+          "category": "GOULASH",
+          "value": 200,
+          "clue": "When Ramsay & Travers discovered this gas in 1898, a red light went on over their heads",
+          "answer": "neon",
+          "isDailyDouble": false,
+          "orderNumber": 17,
+          "correctContestants": [
+            "Chris"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Gordon",
+              "score": 1500
+            },
+            {
+              "player": "Chris",
+              "score": 0
+            },
+            {
+              "player": "Curt",
+              "score": 300
+            }
+          ]
+        },
+        {
+          "category": "GOULASH",
+          "value": 300,
+          "clue": "During this century, the U.S. Constitution was amended just four times",
+          "answer": "the 19th century",
+          "isDailyDouble": false,
+          "orderNumber": 18,
+          "correctContestants": [
+            "Chris"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Gordon",
+              "score": 1500
+            },
+            {
+              "player": "Chris",
+              "score": 300
+            },
+            {
+              "player": "Curt",
+              "score": 300
+            }
+          ]
+        },
+        {
+          "category": "GOULASH",
+          "value": 400,
+          "clue": "In the 1960s, a new group of minstrels used the name of this man who put together a group in 1842",
+          "answer": "Christie's Minstrels",
+          "isDailyDouble": false,
+          "orderNumber": 19,
+          "correctContestants": [
+            "Chris"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Gordon",
+              "score": 1500
+            },
+            {
+              "player": "Chris",
+              "score": 700
+            },
+            {
+              "player": "Curt",
+              "score": 300
+            }
+          ]
+        },
+        {
+          "category": "GOULASH",
+          "value": 500,
+          "clue": "First name shared by Count Basie & Captain Kidd",
+          "answer": "William",
+          "isDailyDouble": false,
+          "orderNumber": 20,
+          "correctContestants": [
+            "Chris"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Gordon",
+              "score": 1500
+            },
+            {
+              "player": "Chris",
+              "score": 1200
+            },
+            {
+              "player": "Curt",
+              "score": 300
+            }
+          ]
+        },
+        {
+          "category": "CHRISTMAS SONGS",
+          "value": 100,
+          "clue": "The Chipmunks sang \"Christmas, Christmas time is near, time for toys and time for\" this",
+          "answer": "cheer",
+          "isDailyDouble": false,
+          "orderNumber": 21,
+          "correctContestants": [
+            "Gordon"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Gordon",
+              "score": 1600
+            },
+            {
+              "player": "Chris",
+              "score": 1200
+            },
+            {
+              "player": "Curt",
+              "score": 300
+            }
+          ]
+        },
+        {
+          "category": "CHRISTMAS SONGS",
+          "value": 200,
+          "clue": "According to the song title, they're \"All I Want for Christmas\"",
+          "answer": "my two front teeth",
+          "isDailyDouble": false,
+          "orderNumber": 22,
+          "correctContestants": [
+            "Chris"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Gordon",
+              "score": 1600
+            },
+            {
+              "player": "Chris",
+              "score": 1400
+            },
+            {
+              "player": "Curt",
+              "score": 300
+            }
+          ]
+        },
+        {
+          "category": "CHRISTMAS SONGS",
+          "value": 300,
+          "clue": "Line that follows \"Then how the reindeer loved him as they shouted out with glee\"",
+          "answer": "Rudolph the red-nosed reindeer, you'll go down in history",
+          "isDailyDouble": false,
+          "orderNumber": 23,
+          "correctContestants": [
+            "Chris"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Gordon",
+              "score": 1600
+            },
+            {
+              "player": "Chris",
+              "score": 1700
+            },
+            {
+              "player": "Curt",
+              "score": 300
+            }
+          ]
+        },
+        {
+          "category": "CHRISTMAS SONGS",
+          "value": 400,
+          "clue": "Burl Ives urged us to have this type of Christmas; \"it's the best time of the year\"",
+          "answer": "\"A Holly Jolly Christmas\"",
+          "isDailyDouble": false,
+          "orderNumber": 24,
+          "correctContestants": [
+            "Chris"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Gordon",
+              "score": 1600
+            },
+            {
+              "player": "Chris",
+              "score": 2100
+            },
+            {
+              "player": "Curt",
+              "score": 300
+            }
+          ]
+        },
+        {
+          "category": "CHRISTMAS SONGS",
+          "value": 500,
+          "clue": "The first line of this Christmas carol appears in \"Rockin' Around The Christmas Tree\"",
+          "answer": "\"Deck The Halls\"",
+          "isDailyDouble": false,
+          "orderNumber": 25,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Gordon",
+              "score": 1600
+            },
+            {
+              "player": "Chris",
+              "score": 2100
+            },
+            {
+              "player": "Curt",
+              "score": 300
+            }
+          ]
+        },
+        {
+          "category": "COOKING \"P\"s",
+          "value": 100,
+          "clue": "Suet pudding that contains currants & usually raisins, but never the fruit for which it's named",
+          "answer": "plum pudding",
+          "isDailyDouble": false,
+          "orderNumber": 26,
+          "correctContestants": [
+            "Curt"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Gordon",
+              "score": 1600
+            },
+            {
+              "player": "Chris",
+              "score": 2100
+            },
+            {
+              "player": "Curt",
+              "score": 400
+            }
+          ]
+        },
+        {
+          "category": "COOKING \"P\"s",
+          "value": 200,
+          "clue": "If you want to prepare these vegetables Duchess style, don't forget the egg yolks & butter",
+          "answer": "potatoes",
+          "isDailyDouble": false,
+          "orderNumber": 27,
+          "correctContestants": [
+            "Curt"
+          ],
+          "incorrectContestants": [
+            "Gordon"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Gordon",
+              "score": 1400
+            },
+            {
+              "player": "Chris",
+              "score": 2100
+            },
+            {
+              "player": "Curt",
+              "score": 600
+            }
+          ]
+        },
+        {
+          "category": "COOKING \"P\"s",
+          "value": 300,
+          "clue": "Some people ferment this taro root dish for two or three days until it acquires a sour taste",
+          "answer": "poi",
+          "isDailyDouble": false,
+          "orderNumber": 28,
+          "correctContestants": [
+            "Curt"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Gordon",
+              "score": 1400
+            },
+            {
+              "player": "Chris",
+              "score": 2100
+            },
+            {
+              "player": "Curt",
+              "score": 900
+            }
+          ]
+        },
+        {
+          "category": "COOKING \"P\"s",
+          "value": 400,
+          "clue": "This dessert named for a ballerina has a meringue base & is usually topped with fruit",
+          "answer": "pavlova",
+          "isDailyDouble": false,
+          "orderNumber": 29,
+          "correctContestants": [
+            "Curt"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Gordon",
+              "score": 1400
+            },
+            {
+              "player": "Chris",
+              "score": 2100
+            },
+            {
+              "player": "Curt",
+              "score": 1300
+            }
+          ]
+        },
+        {
+          "category": "COOKING \"P\"s",
+          "value": 500,
+          "clue": "Some cooks add cheese to this cornmeal mush popular in Italy",
+          "answer": "polenta",
+          "isDailyDouble": false,
+          "orderNumber": 30,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Gordon",
+              "score": 1400
+            },
+            {
+              "player": "Chris",
+              "score": 2100
+            },
+            {
+              "player": "Curt",
+              "score": 1300
+            }
+          ]
+        }
+      ],
+      "firstBreakScores": [
+        {
+          "player": "Gordon",
+          "score": 1000
+        },
+        {
+          "player": "Chris",
+          "score": -200
+        },
+        {
+          "player": "Curt",
+          "score": 300
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "Gordon",
+          "score": 1400
+        },
+        {
+          "player": "Chris",
+          "score": 2100
+        },
+        {
+          "player": "Curt",
+          "score": 1300
+        }
+      ]
+    },
+    "doubleJeopardy": {
+      "categories": [
+        "NAME THE AUTHOR",
+        "MEDICAL TERMS",
+        "MARRIAGE",
+        "U.S. CITIES",
+        "BIBLICAL ZOO",
+        "DWIGHT EISENHOWER"
+      ],
+      "clues": [
+        {
+          "category": "MEDICAL TERMS",
+          "value": 200,
+          "clue": "Medically speaking, it's the opposite of malignant",
+          "answer": "benign",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Gordon",
+              "score": 1400
+            },
+            {
+              "player": "Chris",
+              "score": 2100
+            },
+            {
+              "player": "Curt",
+              "score": 1500
+            }
+          ]
+        },
+        {
+          "category": "MEDICAL TERMS",
+          "value": 400,
+          "clue": "From the Latin for \"I shall please\", the doctor's dose for a hypochondriac",
+          "answer": "a placebo",
+          "isDailyDouble": false,
+          "orderNumber": 2,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Gordon",
+              "score": 1800
+            },
+            {
+              "player": "Chris",
+              "score": 2100
+            },
+            {
+              "player": "Curt",
+              "score": 1500
+            }
+          ]
+        },
+        {
+          "category": "MEDICAL TERMS",
+          "value": 600,
+          "clue": "Not a slow flight, but the common name for circadian dysrhythmia",
+          "answer": "jet lag",
+          "isDailyDouble": false,
+          "orderNumber": 3,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Gordon",
+              "score": 1800
+            },
+            {
+              "player": "Chris",
+              "score": 2100
+            },
+            {
+              "player": "Curt",
+              "score": 1500
+            }
+          ]
+        },
+        {
+          "category": "MEDICAL TERMS",
+          "value": 800,
+          "clue": "More men than women suffer from Daltonism, commonly called this",
+          "answer": "colorblindness",
+          "isDailyDouble": false,
+          "orderNumber": 4,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Gordon",
+              "score": 2600
+            },
+            {
+              "player": "Chris",
+              "score": 2100
+            },
+            {
+              "player": "Curt",
+              "score": 1500
+            }
+          ]
+        },
+        {
+          "category": "MEDICAL TERMS",
+          "value": 1000,
+          "clue": "It's also called \"the royal disease\" since European royal families were afflicted with it",
+          "answer": "hemophilia",
+          "isDailyDouble": false,
+          "orderNumber": 5,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Gordon",
+              "score": 3600
+            },
+            {
+              "player": "Chris",
+              "score": 2100
+            },
+            {
+              "player": "Curt",
+              "score": 1500
+            }
+          ]
+        },
+        {
+          "category": "BIBLICAL ZOO",
+          "value": 200,
+          "clue": "Solomon compared a fair woman without discretion to a jewel of gold in this animal's snout",
+          "answer": "pig (or swine)",
+          "isDailyDouble": false,
+          "orderNumber": 6,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Gordon",
+              "score": 3600
+            },
+            {
+              "player": "Chris",
+              "score": 2300
+            },
+            {
+              "player": "Curt",
+              "score": 1300
+            }
+          ]
+        },
+        {
+          "category": "BIBLICAL ZOO",
+          "value": 400,
+          "clue": "It's easier for this to go through the eye of a needle than for a rich man to enter into the kingdom of God",
+          "answer": "a camel",
+          "isDailyDouble": false,
+          "orderNumber": 7,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Gordon",
+              "score": 4000
+            },
+            {
+              "player": "Chris",
+              "score": 2300
+            },
+            {
+              "player": "Curt",
+              "score": 1300
+            }
+          ]
+        },
+        {
+          "category": "BIBLICAL ZOO",
+          "value": 600,
+          "clue": "Proverbs calls it the \"strongest among beasts, and turneth not away for any\"",
+          "answer": "a lion",
+          "isDailyDouble": false,
+          "orderNumber": 8,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Gordon",
+              "score": 4000
+            },
+            {
+              "player": "Chris",
+              "score": 2900
+            },
+            {
+              "player": "Curt",
+              "score": 700
+            }
+          ]
+        },
+        {
+          "category": "BIBLICAL ZOO",
+          "value": 1100,
+          "clue": "Noah sent this bird from the ark first, but it did not return",
+          "answer": "raven",
+          "isDailyDouble": true,
+          "orderNumber": 9,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Gordon",
+              "score": 4000
+            },
+            {
+              "player": "Chris",
+              "score": 1800
+            },
+            {
+              "player": "Curt",
+              "score": 700
+            }
+          ]
+        },
+        {
+          "category": "BIBLICAL ZOO",
+          "value": 1000,
+          "clue": "Samson caught 300 of them, tied torches to their tails & used them to burn the fields of the Philistines",
+          "answer": "foxes",
+          "isDailyDouble": false,
+          "orderNumber": 10,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Gordon",
+              "score": 4000
+            },
+            {
+              "player": "Chris",
+              "score": 1800
+            },
+            {
+              "player": "Curt",
+              "score": 700
+            }
+          ]
+        },
+        {
+          "category": "U.S. CITIES",
+          "value": 200,
+          "clue": "Britannica calls this Georgia capital the artistic center of the Southeast",
+          "answer": "Atlanta",
+          "isDailyDouble": false,
+          "orderNumber": 11,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Gordon",
+              "score": 4000
+            },
+            {
+              "player": "Chris",
+              "score": 2000
+            },
+            {
+              "player": "Curt",
+              "score": 700
+            }
+          ]
+        },
+        {
+          "category": "U.S. CITIES",
+          "value": 400,
+          "clue": "This largest Delaware city was founded by the Swedes who called it Fort Christina",
+          "answer": "Wilmington",
+          "isDailyDouble": false,
+          "orderNumber": 12,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Gordon",
+              "score": 4000
+            },
+            {
+              "player": "Chris",
+              "score": 2400
+            },
+            {
+              "player": "Curt",
+              "score": 700
+            }
+          ]
+        },
+        {
+          "category": "U.S. CITIES",
+          "value": 600,
+          "clue": "Now a ghost town, in the 1870s this Nevada locale had a population of 30,000",
+          "answer": "Virginia City",
+          "isDailyDouble": false,
+          "orderNumber": 13,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Gordon",
+              "score": 4600
+            },
+            {
+              "player": "Chris",
+              "score": 2400
+            },
+            {
+              "player": "Curt",
+              "score": 700
+            }
+          ]
+        },
+        {
+          "category": "U.S. CITIES",
+          "value": 2400,
+          "clue": "Texas city southeast of Dallas named for the 10th president of the United States",
+          "answer": "Tyler",
+          "isDailyDouble": true,
+          "orderNumber": 14,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Gordon",
+              "score": 7000
+            },
+            {
+              "player": "Chris",
+              "score": 2400
+            },
+            {
+              "player": "Curt",
+              "score": 700
+            }
+          ]
+        },
+        {
+          "category": "U.S. CITIES",
+          "value": 1000,
+          "clue": "Alabama city on the Black Warrior River named for a Choctaw chief whose name meant \"black warrior\"",
+          "answer": "Tuscaloosa",
+          "isDailyDouble": false,
+          "orderNumber": 15,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Gordon",
+              "score": 7000
+            },
+            {
+              "player": "Chris",
+              "score": 2400
+            },
+            {
+              "player": "Curt",
+              "score": 700
+            }
+          ]
+        },
+        {
+          "category": "DWIGHT EISENHOWER",
+          "value": 200,
+          "clue": "He switched this given first name with his middle name so he wouldn't be confused with his father",
+          "answer": "David",
+          "isDailyDouble": false,
+          "orderNumber": 16,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Gordon",
+              "score": 7000
+            },
+            {
+              "player": "Chris",
+              "score": 2600
+            },
+            {
+              "player": "Curt",
+              "score": 700
+            }
+          ]
+        },
+        {
+          "category": "DWIGHT EISENHOWER",
+          "value": 400,
+          "clue": "Once Ike's protege, this man delivered the eulogy at his funeral",
+          "answer": "Richard Nixon",
+          "isDailyDouble": false,
+          "orderNumber": 17,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Curt"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Gordon",
+              "score": 7000
+            },
+            {
+              "player": "Chris",
+              "score": 2200
+            },
+            {
+              "player": "Curt",
+              "score": 300
+            }
+          ]
+        },
+        {
+          "category": "DWIGHT EISENHOWER",
+          "value": 600,
+          "clue": "Ike's defense secretary is famous for saying \"What's good for\" this company \"is good for America\"",
+          "answer": "General Motors",
+          "isDailyDouble": false,
+          "orderNumber": 18,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Gordon",
+              "score": 7600
+            },
+            {
+              "player": "Chris",
+              "score": 2200
+            },
+            {
+              "player": "Curt",
+              "score": 300
+            }
+          ]
+        },
+        {
+          "category": "DWIGHT EISENHOWER",
+          "value": 800,
+          "clue": "In 1955, this event caused the sharpest drop in the stock market since the Great Crash",
+          "answer": "Eisenhower's heart attack",
+          "isDailyDouble": false,
+          "orderNumber": 19,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Gordon",
+              "score": 7600
+            },
+            {
+              "player": "Chris",
+              "score": 2200
+            },
+            {
+              "player": "Curt",
+              "score": 1100
+            }
+          ]
+        },
+        {
+          "category": "DWIGHT EISENHOWER",
+          "value": 1000,
+          "clue": "Though he was born in Denison, Texas, this Kansas town is home to his library",
+          "answer": "Abilene",
+          "isDailyDouble": false,
+          "orderNumber": 20,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Gordon",
+              "score": 7600
+            },
+            {
+              "player": "Chris",
+              "score": 2200
+            },
+            {
+              "player": "Curt",
+              "score": 2100
+            }
+          ]
+        },
+        {
+          "category": "MARRIAGE",
+          "value": 200,
+          "clue": "In the wedding vow \"to love, honor & cherish\", it's the word \"cherish\" has replaced",
+          "answer": "obey",
+          "isDailyDouble": false,
+          "orderNumber": 21,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Gordon",
+              "score": 7800
+            },
+            {
+              "player": "Chris",
+              "score": 2200
+            },
+            {
+              "player": "Curt",
+              "score": 2100
+            }
+          ]
+        },
+        {
+          "category": "NAME THE AUTHOR",
+          "value": 200,
+          "clue": "\"Portnoy's Complaint\"",
+          "answer": "Philip Roth",
+          "isDailyDouble": false,
+          "orderNumber": 22,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Gordon",
+              "score": 7800
+            },
+            {
+              "player": "Chris",
+              "score": 2200
+            },
+            {
+              "player": "Curt",
+              "score": 2300
+            }
+          ]
+        },
+        {
+          "category": "NAME THE AUTHOR",
+          "value": 400,
+          "clue": "\"The Beautiful and Damned\"",
+          "answer": "F. Scott Fitzgerald",
+          "isDailyDouble": false,
+          "orderNumber": 23,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Gordon",
+              "score": 7800
+            },
+            {
+              "player": "Chris",
+              "score": 2200
+            },
+            {
+              "player": "Curt",
+              "score": 2300
+            }
+          ]
+        },
+        {
+          "category": "NAME THE AUTHOR",
+          "value": 600,
+          "clue": "\"Farewell, My Lovely\"",
+          "answer": "Raymond Chandler",
+          "isDailyDouble": false,
+          "orderNumber": 24,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Gordon",
+              "score": 7800
+            },
+            {
+              "player": "Chris",
+              "score": 2800
+            },
+            {
+              "player": "Curt",
+              "score": 2300
+            }
+          ]
+        },
+        {
+          "category": "NAME THE AUTHOR",
+          "value": 1000,
+          "clue": "\"Cakes and Ale\"",
+          "answer": "Somerset Maugham",
+          "isDailyDouble": false,
+          "orderNumber": 25,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Gordon",
+              "score": 7800
+            },
+            {
+              "player": "Chris",
+              "score": 2800
+            },
+            {
+              "player": "Curt",
+              "score": 2300
+            }
+          ]
+        },
+        {
+          "category": "NAME THE AUTHOR",
+          "value": 800,
+          "clue": "\"The Moon Is Down\"",
+          "answer": "John Steinbeck",
+          "isDailyDouble": false,
+          "orderNumber": 26,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Gordon",
+              "score": 7800
+            },
+            {
+              "player": "Chris",
+              "score": 3600
+            },
+            {
+              "player": "Curt",
+              "score": 2300
+            }
+          ]
+        },
+        {
+          "category": "MARRIAGE",
+          "value": 400,
+          "clue": "In many states, living together a certain number of years constitutes this type of marriage",
+          "answer": "common-law",
+          "isDailyDouble": false,
+          "orderNumber": 27,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Gordon",
+              "score": 8200
+            },
+            {
+              "player": "Chris",
+              "score": 3600
+            },
+            {
+              "player": "Curt",
+              "score": 2300
+            }
+          ]
+        },
+        {
+          "category": "MARRIAGE",
+          "value": 600,
+          "clue": "This sex symbol said \"Marriage is a great institution, but I'm not ready for an institution yet\"",
+          "answer": "Mae West",
+          "isDailyDouble": false,
+          "orderNumber": 28,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Gordon",
+              "score": 8200
+            },
+            {
+              "player": "Chris",
+              "score": 3600
+            },
+            {
+              "player": "Curt",
+              "score": 2900
+            }
+          ]
+        },
+        {
+          "category": "MARRIAGE",
+          "value": 800,
+          "clue": "This actor not only married Zsa Zsa Gabor, he married her sister Magda, too",
+          "answer": "George Sanders",
+          "isDailyDouble": false,
+          "orderNumber": 29,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Gordon",
+              "score": 8200
+            },
+            {
+              "player": "Chris",
+              "score": 4400
+            },
+            {
+              "player": "Curt",
+              "score": 2900
+            }
+          ]
+        },
+        {
+          "category": "MARRIAGE",
+          "value": 1000,
+          "clue": "Formerly, young English couples who wanted a quick marriage would elope to this Scottish village",
+          "answer": "Gretna Green",
+          "isDailyDouble": false,
+          "orderNumber": 30,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Gordon",
+              "score": 8200
+            },
+            {
+              "player": "Chris",
+              "score": 3400
+            },
+            {
+              "player": "Curt",
+              "score": 2900
+            }
+          ]
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "Gordon",
+          "score": 8200
+        },
+        {
+          "player": "Chris",
+          "score": 3400
+        },
+        {
+          "player": "Curt",
+          "score": 2900
+        }
+      ]
+    },
+    "finalJeopardy": {
+      "category": "BUSINESS & INDUSTRY",
+      "clue": "The DuPont Company, which was founded in 1802, initially made only this product",
+      "answer": "gunpowder",
+      "responses": [
+        {
+          "contestant": "Curt",
+          "response": "What is gunpowder?",
+          "isCorrect": true,
+          "isIncorrect": false,
+          "value": 2900,
+          "finalScore": 5800
+        },
+        {
+          "contestant": "Chris",
+          "response": "What are firearms?",
+          "isCorrect": false,
+          "isIncorrect": true,
+          "value": 3399,
+          "finalScore": 1
+        },
+        {
+          "contestant": "Gordon",
+          "response": "What was oil?",
+          "isCorrect": false,
+          "isIncorrect": true,
+          "value": 1400,
+          "finalScore": 6800
+        }
+      ]
+    }
+  },
+  "finalScores": [
+    {
+      "player": "Gordon",
+      "score": "$6,800"
+    },
+    {
+      "player": "Chris",
+      "score": "$1"
+    },
+    {
+      "player": "Curt",
+      "score": "$5,800"
+    }
+  ],
+  "coryatScores": [
+    {
+      "player": "Gordon",
+      "score": 6400
+    },
+    {
+      "player": "Chris",
+      "score": 4500
+    },
+    {
+      "player": "Curt",
+      "score": 2900
+    }
+  ]
+}

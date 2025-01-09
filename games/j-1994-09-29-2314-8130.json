@@ -1,0 +1,1701 @@
+{
+  "gameId": 8130,
+  "showNumber": "2314",
+  "title": "Show #2314 - Thursday, September 29, 1994",
+  "date": "1994-09-29",
+  "comments": "",
+  "contestants": [
+    "Jim",
+    "Dave",
+    "Diane"
+  ],
+  "rounds": {
+    "jeopardy": {
+      "categories": [
+        "U.S. STATE NAMES",
+        "MONEY",
+        "RANKS & TITLES",
+        "MARINE DISASTERS",
+        "TRADEMARKS",
+        "HOMOPHONES"
+      ],
+      "clues": [
+        {
+          "category": "TRADEMARKS",
+          "value": 100,
+          "clue": "Though it's become a synonym for a photocopy, it should only apply to one brand of machine",
+          "answer": "Xerox",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [
+            "Diane"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jim",
+              "score": 0
+            },
+            {
+              "player": "Dave",
+              "score": 0
+            },
+            {
+              "player": "Diane",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "category": "TRADEMARKS",
+          "value": 200,
+          "clue": "This name can only be stuck on a Johnson & Johnson adhesive cut-coverer",
+          "answer": "Band-Aid",
+          "isDailyDouble": false,
+          "orderNumber": 2,
+          "correctContestants": [
+            "Jim"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jim",
+              "score": 200
+            },
+            {
+              "player": "Dave",
+              "score": 0
+            },
+            {
+              "player": "Diane",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "category": "TRADEMARKS",
+          "value": 300,
+          "clue": "From Good Humor, it's a colored, flavored ice molded onto a flat stick that acts as a handle",
+          "answer": "a Popsicle (or Creamsicle, Fudgesicle)",
+          "isDailyDouble": false,
+          "orderNumber": 3,
+          "correctContestants": [
+            "Dave"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jim",
+              "score": 200
+            },
+            {
+              "player": "Dave",
+              "score": 300
+            },
+            {
+              "player": "Diane",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "category": "TRADEMARKS",
+          "value": 400,
+          "clue": "Since 1924 it's been synonymous with facial tissue, but it can only be applied to Kimberly-Clark's",
+          "answer": "Kleenex",
+          "isDailyDouble": false,
+          "orderNumber": 4,
+          "correctContestants": [
+            "Diane"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jim",
+              "score": 200
+            },
+            {
+              "player": "Dave",
+              "score": 300
+            },
+            {
+              "player": "Diane",
+              "score": 500
+            }
+          ]
+        },
+        {
+          "category": "TRADEMARKS",
+          "value": 500,
+          "clue": "This trademarked name for vinyl-coated fabrics belongs to Uniroyal",
+          "answer": "Naugahyde",
+          "isDailyDouble": false,
+          "orderNumber": 5,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Jim"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Jim",
+              "score": -300
+            },
+            {
+              "player": "Dave",
+              "score": 300
+            },
+            {
+              "player": "Diane",
+              "score": 500
+            }
+          ]
+        },
+        {
+          "category": "HOMOPHONES",
+          "value": 100,
+          "clue": "It's another word for feeble, or a period of seven days",
+          "answer": "weak/week",
+          "isDailyDouble": false,
+          "orderNumber": 6,
+          "correctContestants": [
+            "Diane"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jim",
+              "score": -300
+            },
+            {
+              "player": "Dave",
+              "score": 300
+            },
+            {
+              "player": "Diane",
+              "score": 600
+            }
+          ]
+        },
+        {
+          "category": "HOMOPHONES",
+          "value": 200,
+          "clue": "A labyrinth, or Indian corn",
+          "answer": "maze/maize",
+          "isDailyDouble": false,
+          "orderNumber": 7,
+          "correctContestants": [
+            "Dave"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jim",
+              "score": -300
+            },
+            {
+              "player": "Dave",
+              "score": 500
+            },
+            {
+              "player": "Diane",
+              "score": 600
+            }
+          ]
+        },
+        {
+          "category": "MARINE DISASTERS",
+          "value": 100,
+          "clue": "Ammunition set off by heat from a coal bin fire probably caused the 1898 sinking of this U.S. ship",
+          "answer": "the Maine",
+          "isDailyDouble": false,
+          "orderNumber": 8,
+          "correctContestants": [
+            "Dave"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jim",
+              "score": -300
+            },
+            {
+              "player": "Dave",
+              "score": 600
+            },
+            {
+              "player": "Diane",
+              "score": 600
+            }
+          ]
+        },
+        {
+          "category": "MARINE DISASTERS",
+          "value": 200,
+          "clue": "Like the Titanic, the Lady of the Lake struck one of these & sank, in 1833",
+          "answer": "an iceberg",
+          "isDailyDouble": false,
+          "orderNumber": 9,
+          "correctContestants": [
+            "Dave"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jim",
+              "score": -300
+            },
+            {
+              "player": "Dave",
+              "score": 800
+            },
+            {
+              "player": "Diane",
+              "score": 600
+            }
+          ]
+        },
+        {
+          "category": "MARINE DISASTERS",
+          "value": 300,
+          "clue": "The worst U.S. marine disaster occurred in 1865, when the Sultana exploded on this river near Memphis",
+          "answer": "the Mississippi",
+          "isDailyDouble": false,
+          "orderNumber": 10,
+          "correctContestants": [
+            "Diane"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jim",
+              "score": -300
+            },
+            {
+              "player": "Dave",
+              "score": 800
+            },
+            {
+              "player": "Diane",
+              "score": 900
+            }
+          ]
+        },
+        {
+          "category": "RANKS & TITLES",
+          "value": 100,
+          "clue": "Another name for this leader of a Jewish congregation is Reb",
+          "answer": "a rabbi",
+          "isDailyDouble": false,
+          "orderNumber": 11,
+          "correctContestants": [
+            "Dave"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jim",
+              "score": -300
+            },
+            {
+              "player": "Dave",
+              "score": 900
+            },
+            {
+              "player": "Diane",
+              "score": 900
+            }
+          ]
+        },
+        {
+          "category": "MARINE DISASTERS",
+          "value": 400,
+          "clue": "This ship ran aground on Bligh Reef in the Gulf of Alaska March 24, 1989",
+          "answer": "the Exxon Valdez",
+          "isDailyDouble": false,
+          "orderNumber": 12,
+          "correctContestants": [
+            "Jim"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jim",
+              "score": 100
+            },
+            {
+              "player": "Dave",
+              "score": 900
+            },
+            {
+              "player": "Diane",
+              "score": 900
+            }
+          ]
+        },
+        {
+          "category": "MARINE DISASTERS",
+          "value": 500,
+          "clue": "In 1979 a very large crude carrier blew up in this strategic Persian Gulf strait",
+          "answer": "The Strait of Hormuz",
+          "isDailyDouble": false,
+          "orderNumber": 13,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Jim"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Jim",
+              "score": -400
+            },
+            {
+              "player": "Dave",
+              "score": 900
+            },
+            {
+              "player": "Diane",
+              "score": 900
+            }
+          ]
+        },
+        {
+          "category": "U.S. STATE NAMES",
+          "value": 100,
+          "clue": "Before it was a state, its name included \"Alta\" before its name to differentiate it from Baja",
+          "answer": "California",
+          "isDailyDouble": false,
+          "orderNumber": 14,
+          "correctContestants": [
+            "Diane"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jim",
+              "score": -400
+            },
+            {
+              "player": "Dave",
+              "score": 900
+            },
+            {
+              "player": "Diane",
+              "score": 1000
+            }
+          ]
+        },
+        {
+          "category": "RANKS & TITLES",
+          "value": 200,
+          "clue": "Title shared by a college professor, a Spanish gentleman & a Corleone",
+          "answer": "Don",
+          "isDailyDouble": false,
+          "orderNumber": 15,
+          "correctContestants": [
+            "Jim"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jim",
+              "score": -200
+            },
+            {
+              "player": "Dave",
+              "score": 900
+            },
+            {
+              "player": "Diane",
+              "score": 1000
+            }
+          ]
+        },
+        {
+          "category": "U.S. STATE NAMES",
+          "value": 200,
+          "clue": "It's Sioux for \"friendly\"; so a person might hail from north Friendly or South Friendly",
+          "answer": "Dakota",
+          "isDailyDouble": false,
+          "orderNumber": 16,
+          "correctContestants": [
+            "Dave"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jim",
+              "score": -200
+            },
+            {
+              "player": "Dave",
+              "score": 1100
+            },
+            {
+              "player": "Diane",
+              "score": 1000
+            }
+          ]
+        },
+        {
+          "category": "U.S. STATE NAMES",
+          "value": 500,
+          "clue": "Originally, this state's name began with \"Ou\"; its legislature changed that to \"W\"",
+          "answer": "Wisconsin",
+          "isDailyDouble": false,
+          "orderNumber": 17,
+          "correctContestants": [
+            "Jim"
+          ],
+          "incorrectContestants": [
+            "Diane"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jim",
+              "score": 300
+            },
+            {
+              "player": "Dave",
+              "score": 1100
+            },
+            {
+              "player": "Diane",
+              "score": 500
+            }
+          ]
+        },
+        {
+          "category": "U.S. STATE NAMES",
+          "value": 500,
+          "clue": "The only \"New\" state not named for a British person or place",
+          "answer": "New Mexico",
+          "isDailyDouble": true,
+          "orderNumber": 18,
+          "correctContestants": [
+            "Jim"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jim",
+              "score": 800
+            },
+            {
+              "player": "Dave",
+              "score": 1100
+            },
+            {
+              "player": "Diane",
+              "score": 500
+            }
+          ]
+        },
+        {
+          "category": "U.S. STATE NAMES",
+          "value": 400,
+          "clue": "Its name, an Indian word for \"flat\" or \"spreading water\", refers to its Platte River",
+          "answer": "Nebraska",
+          "isDailyDouble": false,
+          "orderNumber": 19,
+          "correctContestants": [
+            "Jim"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jim",
+              "score": 1200
+            },
+            {
+              "player": "Dave",
+              "score": 1100
+            },
+            {
+              "player": "Diane",
+              "score": 500
+            }
+          ]
+        },
+        {
+          "category": "MONEY",
+          "value": 100,
+          "clue": "Argent, a French term for money, comes from a Latin word for this metal",
+          "answer": "silver",
+          "isDailyDouble": false,
+          "orderNumber": 20,
+          "correctContestants": [
+            "Dave"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jim",
+              "score": 1200
+            },
+            {
+              "player": "Dave",
+              "score": 1200
+            },
+            {
+              "player": "Diane",
+              "score": 500
+            }
+          ]
+        },
+        {
+          "category": "MONEY",
+          "value": 200,
+          "clue": "The Great Seal of the U.S. is featured on the back of this bill",
+          "answer": "the $1 bill",
+          "isDailyDouble": false,
+          "orderNumber": 21,
+          "correctContestants": [
+            "Jim"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jim",
+              "score": 1400
+            },
+            {
+              "player": "Dave",
+              "score": 1200
+            },
+            {
+              "player": "Diane",
+              "score": 500
+            }
+          ]
+        },
+        {
+          "category": "MONEY",
+          "value": 300,
+          "clue": "In the 1980s Maldives changed its currency name from this, the same as India's, to the Rufiyaa",
+          "answer": "the rupee",
+          "isDailyDouble": false,
+          "orderNumber": 22,
+          "correctContestants": [
+            "Dave"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jim",
+              "score": 1400
+            },
+            {
+              "player": "Dave",
+              "score": 1500
+            },
+            {
+              "player": "Diane",
+              "score": 500
+            }
+          ]
+        },
+        {
+          "category": "MONEY",
+          "value": 400,
+          "clue": "Susan B. Anthony replaced this man on the U.S. dollar coin",
+          "answer": "Eisenhower",
+          "isDailyDouble": false,
+          "orderNumber": 23,
+          "correctContestants": [
+            "Dave"
+          ],
+          "incorrectContestants": [
+            "Jim"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jim",
+              "score": 1000
+            },
+            {
+              "player": "Dave",
+              "score": 1900
+            },
+            {
+              "player": "Diane",
+              "score": 500
+            }
+          ]
+        },
+        {
+          "category": "MONEY",
+          "value": 500,
+          "clue": "William Tyndale translated \"Aiskhron Kerdos\" in the Bible as this, meaning dirty money",
+          "answer": "filthy lucre",
+          "isDailyDouble": false,
+          "orderNumber": 24,
+          "correctContestants": [
+            "Jim"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jim",
+              "score": 1500
+            },
+            {
+              "player": "Dave",
+              "score": 1900
+            },
+            {
+              "player": "Diane",
+              "score": 500
+            }
+          ]
+        },
+        {
+          "category": "HOMOPHONES",
+          "value": 300,
+          "clue": "It can be a corridor, or it can mean to lug",
+          "answer": "hall/haul",
+          "isDailyDouble": false,
+          "orderNumber": 25,
+          "correctContestants": [
+            "Diane"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jim",
+              "score": 1500
+            },
+            {
+              "player": "Dave",
+              "score": 1900
+            },
+            {
+              "player": "Diane",
+              "score": 800
+            }
+          ]
+        },
+        {
+          "category": "HOMOPHONES",
+          "value": 400,
+          "clue": "A gem, or a knitting stitch",
+          "answer": "pearl/purl",
+          "isDailyDouble": false,
+          "orderNumber": 26,
+          "correctContestants": [
+            "Diane"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jim",
+              "score": 1500
+            },
+            {
+              "player": "Dave",
+              "score": 1900
+            },
+            {
+              "player": "Diane",
+              "score": 1200
+            }
+          ]
+        },
+        {
+          "category": "HOMOPHONES",
+          "value": 500,
+          "clue": "A piece of dinnerware, or a braid of hair",
+          "answer": "plate/plait",
+          "isDailyDouble": false,
+          "orderNumber": 27,
+          "correctContestants": [
+            "Diane"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jim",
+              "score": 1500
+            },
+            {
+              "player": "Dave",
+              "score": 1900
+            },
+            {
+              "player": "Diane",
+              "score": 1700
+            }
+          ]
+        },
+        {
+          "category": "RANKS & TITLES",
+          "value": 300,
+          "clue": "The \"Mar\" in Marshal goes back to Old English for this animal",
+          "answer": "a horse",
+          "isDailyDouble": false,
+          "orderNumber": 28,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Jim",
+              "score": 1500
+            },
+            {
+              "player": "Dave",
+              "score": 1900
+            },
+            {
+              "player": "Diane",
+              "score": 1700
+            }
+          ]
+        },
+        {
+          "category": "RANKS & TITLES",
+          "value": 400,
+          "clue": "The Queen of England appoints this person as her representative in Canada",
+          "answer": "the Governor-General",
+          "isDailyDouble": false,
+          "orderNumber": 29,
+          "correctContestants": [
+            "Dave"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jim",
+              "score": 1500
+            },
+            {
+              "player": "Dave",
+              "score": 2300
+            },
+            {
+              "player": "Diane",
+              "score": 1700
+            }
+          ]
+        },
+        {
+          "category": "RANKS & TITLES",
+          "value": 500,
+          "clue": "Grand guy who was the \"Lord High Everything Else\" in \"The Mikado\"",
+          "answer": "Poo-Bah",
+          "isDailyDouble": false,
+          "orderNumber": 30,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Diane"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Jim",
+              "score": 1500
+            },
+            {
+              "player": "Dave",
+              "score": 2300
+            },
+            {
+              "player": "Diane",
+              "score": 1200
+            }
+          ]
+        }
+      ],
+      "firstBreakScores": [
+        {
+          "player": "Jim",
+          "score": -200
+        },
+        {
+          "player": "Dave",
+          "score": 900
+        },
+        {
+          "player": "Diane",
+          "score": 1000
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "Jim",
+          "score": 1500
+        },
+        {
+          "player": "Dave",
+          "score": 2300
+        },
+        {
+          "player": "Diane",
+          "score": 1200
+        }
+      ]
+    },
+    "doubleJeopardy": {
+      "categories": [
+        "HISTORY",
+        "PHOTOGRAPHERS",
+        "RELIGION",
+        "THE PLANETS",
+        "WORLD MAIL",
+        "POETRY"
+      ],
+      "clues": [
+        {
+          "category": "HISTORY",
+          "value": 200,
+          "clue": "In '81 Pres. Reagan & this religious leader survived assassination attempts less than 2 months apart",
+          "answer": "Pope John Paul II",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jim",
+              "score": 1500
+            },
+            {
+              "player": "Dave",
+              "score": 2500
+            },
+            {
+              "player": "Diane",
+              "score": 1200
+            }
+          ]
+        },
+        {
+          "category": "HISTORY",
+          "value": 400,
+          "clue": "Edward Bruce was king of Ireland & his brother Robert the Bruce was king of this country",
+          "answer": "Scotland",
+          "isDailyDouble": false,
+          "orderNumber": 2,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jim",
+              "score": 1500
+            },
+            {
+              "player": "Dave",
+              "score": 2900
+            },
+            {
+              "player": "Diane",
+              "score": 1200
+            }
+          ]
+        },
+        {
+          "category": "HISTORY",
+          "value": 600,
+          "clue": "She was known as Rebecca Rolfe when she died in England of a sudden illness in 1617",
+          "answer": "Pocahontas",
+          "isDailyDouble": false,
+          "orderNumber": 3,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Jim",
+              "score": 1500
+            },
+            {
+              "player": "Dave",
+              "score": 2900
+            },
+            {
+              "player": "Diane",
+              "score": 1200
+            }
+          ]
+        },
+        {
+          "category": "HISTORY",
+          "value": 800,
+          "clue": "Cyrus the Great added Babylonia to this empire in 539 B.C.",
+          "answer": "the Persian Empire",
+          "isDailyDouble": false,
+          "orderNumber": 4,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jim",
+              "score": 1500
+            },
+            {
+              "player": "Dave",
+              "score": 3700
+            },
+            {
+              "player": "Diane",
+              "score": 1200
+            }
+          ]
+        },
+        {
+          "category": "HISTORY",
+          "value": 1000,
+          "clue": "Austria acquired the southern area called Galicia when this country was partitioned in 1772",
+          "answer": "Poland",
+          "isDailyDouble": false,
+          "orderNumber": 5,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jim",
+              "score": 1500
+            },
+            {
+              "player": "Dave",
+              "score": 3700
+            },
+            {
+              "player": "Diane",
+              "score": 2200
+            }
+          ]
+        },
+        {
+          "category": "RELIGION",
+          "value": 200,
+          "clue": "The \"begats\" in this first book of the Old Testament have been called the dullest section of the Bible",
+          "answer": "Genesis",
+          "isDailyDouble": false,
+          "orderNumber": 6,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jim",
+              "score": 1500
+            },
+            {
+              "player": "Dave",
+              "score": 3900
+            },
+            {
+              "player": "Diane",
+              "score": 2200
+            }
+          ]
+        },
+        {
+          "category": "RELIGION",
+          "value": 400,
+          "clue": "On loans, Islam forbids this, which it calls riba",
+          "answer": "interest",
+          "isDailyDouble": false,
+          "orderNumber": 7,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jim",
+              "score": 1500
+            },
+            {
+              "player": "Dave",
+              "score": 3900
+            },
+            {
+              "player": "Diane",
+              "score": 2600
+            }
+          ]
+        },
+        {
+          "category": "RELIGION",
+          "value": 600,
+          "clue": "The female shamans of this Japanese religion are called Miko",
+          "answer": "Shinto",
+          "isDailyDouble": false,
+          "orderNumber": 8,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jim",
+              "score": 1500
+            },
+            {
+              "player": "Dave",
+              "score": 3900
+            },
+            {
+              "player": "Diane",
+              "score": 3200
+            }
+          ]
+        },
+        {
+          "category": "RELIGION",
+          "value": 800,
+          "clue": "The Unification Church was founded in this country in 1954",
+          "answer": "South Korea",
+          "isDailyDouble": false,
+          "orderNumber": 9,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jim",
+              "score": 1500
+            },
+            {
+              "player": "Dave",
+              "score": 4700
+            },
+            {
+              "player": "Diane",
+              "score": 3200
+            }
+          ]
+        },
+        {
+          "category": "RELIGION",
+          "value": 1000,
+          "clue": "For American Indians, doing this with a calumet reaffirms the cosmic network of relationships",
+          "answer": "smoking it",
+          "isDailyDouble": false,
+          "orderNumber": 10,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Jim",
+              "score": 1500
+            },
+            {
+              "player": "Dave",
+              "score": 4700
+            },
+            {
+              "player": "Diane",
+              "score": 3200
+            }
+          ]
+        },
+        {
+          "category": "WORLD MAIL",
+          "value": 1500,
+          "clue": "A 1965 2-krone stamp from this country depicted the newly-formed island of Surtsey",
+          "answer": "Iceland",
+          "isDailyDouble": true,
+          "orderNumber": 11,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jim",
+              "score": 1500
+            },
+            {
+              "player": "Dave",
+              "score": 3200
+            },
+            {
+              "player": "Diane",
+              "score": 3200
+            }
+          ]
+        },
+        {
+          "category": "WORLD MAIL",
+          "value": 1000,
+          "clue": "Issued in 1961, the Marianne stamp of France was designed by this author of \"Les Enfants Terribles\"",
+          "answer": "Jean Cocteau",
+          "isDailyDouble": false,
+          "orderNumber": 12,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Jim",
+              "score": 1500
+            },
+            {
+              "player": "Dave",
+              "score": 3200
+            },
+            {
+              "player": "Diane",
+              "score": 3200
+            }
+          ]
+        },
+        {
+          "category": "PHOTOGRAPHERS",
+          "value": 800,
+          "clue": "In 1993 Vanity Fair sent this photographer, known for her Rolling Stone celebs, to war-torn Sarajevo",
+          "answer": "Annie Leibovitz",
+          "isDailyDouble": false,
+          "orderNumber": 13,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jim",
+              "score": 1500
+            },
+            {
+              "player": "Dave",
+              "score": 4000
+            },
+            {
+              "player": "Diane",
+              "score": 3200
+            }
+          ]
+        },
+        {
+          "category": "PHOTOGRAPHERS",
+          "value": 1000,
+          "clue": "In September 1993 Newsweek ran a 30-page excerpt of this photographer's \"An Autobiography\"",
+          "answer": "Richard Avedon",
+          "isDailyDouble": false,
+          "orderNumber": 14,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jim",
+              "score": 1500
+            },
+            {
+              "player": "Dave",
+              "score": 4000
+            },
+            {
+              "player": "Diane",
+              "score": 4200
+            }
+          ]
+        },
+        {
+          "category": "PHOTOGRAPHERS",
+          "value": 600,
+          "clue": "Bob McNeely's job is official photographer to the man in this post",
+          "answer": "the President of the United States",
+          "isDailyDouble": false,
+          "orderNumber": 15,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jim",
+              "score": 1500
+            },
+            {
+              "player": "Dave",
+              "score": 4000
+            },
+            {
+              "player": "Diane",
+              "score": 4800
+            }
+          ]
+        },
+        {
+          "category": "PHOTOGRAPHERS",
+          "value": 400,
+          "clue": "Herb Ritts is known for his photos of this model, whom his mother introduced to Richard Gere",
+          "answer": "(Cindy) Crawford",
+          "isDailyDouble": false,
+          "orderNumber": 16,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jim",
+              "score": 1500
+            },
+            {
+              "player": "Dave",
+              "score": 4400
+            },
+            {
+              "player": "Diane",
+              "score": 4800
+            }
+          ]
+        },
+        {
+          "category": "PHOTOGRAPHERS",
+          "value": 200,
+          "clue": "In 1964 Harry Benson arrived in the U.S. with this musical group to cover their tour & never left",
+          "answer": "The Beatles",
+          "isDailyDouble": false,
+          "orderNumber": 17,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jim",
+              "score": 1700
+            },
+            {
+              "player": "Dave",
+              "score": 4400
+            },
+            {
+              "player": "Diane",
+              "score": 4800
+            }
+          ]
+        },
+        {
+          "category": "THE PLANETS",
+          "value": 200,
+          "clue": "The first U.S. astronaut program, or the first planet from the Sun",
+          "answer": "Mercury",
+          "isDailyDouble": false,
+          "orderNumber": 18,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jim",
+              "score": 1700
+            },
+            {
+              "player": "Dave",
+              "score": 4600
+            },
+            {
+              "player": "Diane",
+              "score": 4800
+            }
+          ]
+        },
+        {
+          "category": "THE PLANETS",
+          "value": 400,
+          "clue": "A 150-mile-wide crater on Venus was named for this \"Coming of Age\" anthropologist",
+          "answer": "Margaret Mead",
+          "isDailyDouble": false,
+          "orderNumber": 19,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jim",
+              "score": 1700
+            },
+            {
+              "player": "Dave",
+              "score": 4600
+            },
+            {
+              "player": "Diane",
+              "score": 5200
+            }
+          ]
+        },
+        {
+          "category": "THE PLANETS",
+          "value": 600,
+          "clue": "The USSR sent Phobos 1 & 2 to this planet's moon Phobos but both probes were lost",
+          "answer": "Mars",
+          "isDailyDouble": false,
+          "orderNumber": 20,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jim",
+              "score": 1700
+            },
+            {
+              "player": "Dave",
+              "score": 4600
+            },
+            {
+              "player": "Diane",
+              "score": 5800
+            }
+          ]
+        },
+        {
+          "category": "THE PLANETS",
+          "value": 1000,
+          "clue": "Planet whose symbol is the following:",
+          "answer": "Neptune",
+          "isDailyDouble": true,
+          "orderNumber": 21,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jim",
+              "score": 1700
+            },
+            {
+              "player": "Dave",
+              "score": 4600
+            },
+            {
+              "player": "Diane",
+              "score": 6800
+            }
+          ]
+        },
+        {
+          "category": "THE PLANETS",
+          "value": 1000,
+          "clue": "It takes Charon 6.4 days to orbit this planet",
+          "answer": "Pluto",
+          "isDailyDouble": false,
+          "orderNumber": 22,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jim",
+              "score": 1700
+            },
+            {
+              "player": "Dave",
+              "score": 4600
+            },
+            {
+              "player": "Diane",
+              "score": 7800
+            }
+          ]
+        },
+        {
+          "category": "POETRY",
+          "value": 200,
+          "clue": "\"When I heard the learned astronomer\" & \"One's-Self I Sing\" are from this 19th C. collection",
+          "answer": "Leaves of Grass",
+          "isDailyDouble": false,
+          "orderNumber": 23,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jim",
+              "score": 1900
+            },
+            {
+              "player": "Dave",
+              "score": 4600
+            },
+            {
+              "player": "Diane",
+              "score": 7800
+            }
+          ]
+        },
+        {
+          "category": "POETRY",
+          "value": 400,
+          "clue": "She wrote, \"I never saw a moor—I never saw the sea\"",
+          "answer": "Emily Dickinson",
+          "isDailyDouble": false,
+          "orderNumber": 24,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jim",
+              "score": 2300
+            },
+            {
+              "player": "Dave",
+              "score": 4600
+            },
+            {
+              "player": "Diane",
+              "score": 7800
+            }
+          ]
+        },
+        {
+          "category": "POETRY",
+          "value": 600,
+          "clue": "\"O better that her shattered hulk should sink beneath the wave\" refers to this old frigate",
+          "answer": "the Constitution (Old Ironsides)",
+          "isDailyDouble": false,
+          "orderNumber": 25,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jim",
+              "score": 2900
+            },
+            {
+              "player": "Dave",
+              "score": 4600
+            },
+            {
+              "player": "Diane",
+              "score": 7200
+            }
+          ]
+        },
+        {
+          "category": "POETRY",
+          "value": 1000,
+          "clue": "In 1615 this writer of \"Death Be Not Proud\" became an Anglican priest",
+          "answer": "John Donne",
+          "isDailyDouble": false,
+          "orderNumber": 26,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jim",
+              "score": 2900
+            },
+            {
+              "player": "Dave",
+              "score": 5600
+            },
+            {
+              "player": "Diane",
+              "score": 7200
+            }
+          ]
+        },
+        {
+          "category": "POETRY",
+          "value": 800,
+          "clue": "Robert Burns wrote a poem about this \"sweet\" river in his native Ayrshire",
+          "answer": "the Afton",
+          "isDailyDouble": false,
+          "orderNumber": 27,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jim",
+              "score": 2900
+            },
+            {
+              "player": "Dave",
+              "score": 5600
+            },
+            {
+              "player": "Diane",
+              "score": 8000
+            }
+          ]
+        },
+        {
+          "category": "WORLD MAIL",
+          "value": 200,
+          "clue": "This Swiss capital is headquarters to the Universal Postal Union",
+          "answer": "Bern",
+          "isDailyDouble": false,
+          "orderNumber": 28,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jim",
+              "score": 2900
+            },
+            {
+              "player": "Dave",
+              "score": 5800
+            },
+            {
+              "player": "Diane",
+              "score": 8000
+            }
+          ]
+        },
+        {
+          "category": "WORLD MAIL",
+          "value": 600,
+          "clue": "The northernmost permanent P.O. is on the island of Spitsbergen, a possession of this country",
+          "answer": "Norway",
+          "isDailyDouble": false,
+          "orderNumber": 29,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jim",
+              "score": 2900
+            },
+            {
+              "player": "Dave",
+              "score": 5800
+            },
+            {
+              "player": "Diane",
+              "score": 8600
+            }
+          ]
+        },
+        {
+          "category": "WORLD MAIL",
+          "value": 400,
+          "clue": "Stamps bearing the word Sverige are issued in this country",
+          "answer": "Sweden",
+          "isDailyDouble": false,
+          "orderNumber": 30,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jim",
+              "score": 3300
+            },
+            {
+              "player": "Dave",
+              "score": 5800
+            },
+            {
+              "player": "Diane",
+              "score": 8600
+            }
+          ]
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "Jim",
+          "score": 3300
+        },
+        {
+          "player": "Dave",
+          "score": 5800
+        },
+        {
+          "player": "Diane",
+          "score": 8600
+        }
+      ]
+    },
+    "finalJeopardy": {
+      "category": "ART & AUTHORS",
+      "clue": "The Honolulu Academy of Arts has this U.S. author's collection of Japanese ukiyo-e woodblock prints",
+      "answer": "James Michener",
+      "responses": [
+        {
+          "contestant": "Jim",
+          "response": "Who is Michener",
+          "isCorrect": true,
+          "isIncorrect": false,
+          "value": 2700,
+          "finalScore": 6000
+        },
+        {
+          "contestant": "Dave",
+          "response": "Who is Buck",
+          "isCorrect": false,
+          "isIncorrect": true,
+          "value": 5700,
+          "finalScore": 100
+        },
+        {
+          "contestant": "Diane",
+          "response": "Who is J. Mitchner",
+          "isCorrect": true,
+          "isIncorrect": false,
+          "value": 2500,
+          "finalScore": 11100
+        }
+      ]
+    }
+  },
+  "finalScores": [
+    {
+      "player": "Jim",
+      "score": "$6,000"
+    },
+    {
+      "player": "Dave",
+      "score": "$100"
+    },
+    {
+      "player": "Diane",
+      "score": "$11,100"
+    }
+  ],
+  "coryatScores": [
+    {
+      "player": "Jim",
+      "score": 3100
+    },
+    {
+      "player": "Dave",
+      "score": 7300
+    },
+    {
+      "player": "Diane",
+      "score": 8400
+    }
+  ]
+}

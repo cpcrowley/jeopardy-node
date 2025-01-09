@@ -1,0 +1,1705 @@
+{
+  "gameId": 5659,
+  "showNumber": "1060",
+  "title": "Show #1060 - Friday, March 24, 1989",
+  "date": "1989-03-24",
+  "comments": "",
+  "contestants": [
+    "Alison",
+    "Deb",
+    "Craig"
+  ],
+  "rounds": {
+    "jeopardy": {
+      "categories": [
+        "FAMOUS WOMEN",
+        "SONG LYRICS",
+        "U.S. CITIES",
+        "SPORTS",
+        "SEWING",
+        "\"LING\" O"
+      ],
+      "clues": [
+        {
+          "category": "SONG LYRICS",
+          "value": 100,
+          "clue": "\"Evita\" told this city, \"Stand back, you oughta know whatcha gonna get in me\"",
+          "answer": "Buenos Aires",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [
+            "Craig"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alison",
+              "score": 0
+            },
+            {
+              "player": "Deb",
+              "score": 0
+            },
+            {
+              "player": "Craig",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "category": "SONG LYRICS",
+          "value": 200,
+          "clue": "Pecos Bill was \"the toughest critter west of\" this San Antonio site",
+          "answer": "the Alamo",
+          "isDailyDouble": false,
+          "orderNumber": 2,
+          "correctContestants": [
+            "Alison"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alison",
+              "score": 200
+            },
+            {
+              "player": "Deb",
+              "score": 0
+            },
+            {
+              "player": "Craig",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "category": "U.S. CITIES",
+          "value": 100,
+          "clue": "Covering 3,108 square miles, this Alaskan capital is the nation's largest in area",
+          "answer": "Juneau",
+          "isDailyDouble": false,
+          "orderNumber": 3,
+          "correctContestants": [
+            "Alison"
+          ],
+          "incorrectContestants": [
+            "Deb"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alison",
+              "score": 300
+            },
+            {
+              "player": "Deb",
+              "score": -100
+            },
+            {
+              "player": "Craig",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "category": "U.S. CITIES",
+          "value": 500,
+          "clue": "\"Energy Turns the World\" was the theme of the 1982 World's Fair held in this Tennessee city",
+          "answer": "Knoxville",
+          "isDailyDouble": true,
+          "orderNumber": 4,
+          "correctContestants": [
+            "Alison"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alison",
+              "score": 800
+            },
+            {
+              "player": "Deb",
+              "score": -100
+            },
+            {
+              "player": "Craig",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "category": "SPORTS",
+          "value": 100,
+          "clue": "In soccer, it's nudging the ball forward with your feet; in basketball, it's bouncing it with your hands",
+          "answer": "dribbling",
+          "isDailyDouble": false,
+          "orderNumber": 5,
+          "correctContestants": [
+            "Deb"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alison",
+              "score": 800
+            },
+            {
+              "player": "Deb",
+              "score": 0
+            },
+            {
+              "player": "Craig",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "category": "U.S. CITIES",
+          "value": 300,
+          "clue": "The New York State Museum, the nation's oldest state museum, is located in this city",
+          "answer": "Albany",
+          "isDailyDouble": false,
+          "orderNumber": 6,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Alison"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Alison",
+              "score": 500
+            },
+            {
+              "player": "Deb",
+              "score": 0
+            },
+            {
+              "player": "Craig",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "category": "U.S. CITIES",
+          "value": 400,
+          "clue": "North Dakota's largest city, it was named for one of the founders of a famous frontier stage line",
+          "answer": "Fargo",
+          "isDailyDouble": false,
+          "orderNumber": 7,
+          "correctContestants": [
+            "Craig"
+          ],
+          "incorrectContestants": [
+            "Deb"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alison",
+              "score": 500
+            },
+            {
+              "player": "Deb",
+              "score": -400
+            },
+            {
+              "player": "Craig",
+              "score": 500
+            }
+          ]
+        },
+        {
+          "category": "U.S. CITIES",
+          "value": 500,
+          "clue": "This Arizona university town has been called the \"Astronomy Capital of the World\"",
+          "answer": "Tucson",
+          "isDailyDouble": false,
+          "orderNumber": 8,
+          "correctContestants": [
+            "Craig"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alison",
+              "score": 500
+            },
+            {
+              "player": "Deb",
+              "score": -400
+            },
+            {
+              "player": "Craig",
+              "score": 1000
+            }
+          ]
+        },
+        {
+          "category": "SPORTS",
+          "value": 200,
+          "clue": "1st recorded shooting match took place in 1472 in this country known for avoiding wars",
+          "answer": "Switzerland",
+          "isDailyDouble": false,
+          "orderNumber": 9,
+          "correctContestants": [
+            "Craig"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alison",
+              "score": 500
+            },
+            {
+              "player": "Deb",
+              "score": -400
+            },
+            {
+              "player": "Craig",
+              "score": 1200
+            }
+          ]
+        },
+        {
+          "category": "SPORTS",
+          "value": 300,
+          "clue": "Of hurling, curling or purling, the one that uses a stick similar to a hockey stick",
+          "answer": "hurling",
+          "isDailyDouble": false,
+          "orderNumber": 10,
+          "correctContestants": [
+            "Craig"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alison",
+              "score": 500
+            },
+            {
+              "player": "Deb",
+              "score": -400
+            },
+            {
+              "player": "Craig",
+              "score": 1500
+            }
+          ]
+        },
+        {
+          "category": "SPORTS",
+          "value": 400,
+          "clue": "He won the title of \"Prom King\" in high school, & in 1980 won 5 gold medals for speed skating",
+          "answer": "Eric Heiden",
+          "isDailyDouble": false,
+          "orderNumber": 11,
+          "correctContestants": [
+            "Alison"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alison",
+              "score": 900
+            },
+            {
+              "player": "Deb",
+              "score": -400
+            },
+            {
+              "player": "Craig",
+              "score": 1500
+            }
+          ]
+        },
+        {
+          "category": "SPORTS",
+          "value": 500,
+          "clue": "Hit the telltale board on the bottom of the front wall in this sport's court & you'll lose a point",
+          "answer": "squash",
+          "isDailyDouble": false,
+          "orderNumber": 12,
+          "correctContestants": [
+            "Craig"
+          ],
+          "incorrectContestants": [
+            "Alison"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alison",
+              "score": 400
+            },
+            {
+              "player": "Deb",
+              "score": -400
+            },
+            {
+              "player": "Craig",
+              "score": 2000
+            }
+          ]
+        },
+        {
+          "category": "FAMOUS WOMEN",
+          "value": 100,
+          "clue": "This American Indian was only about 22 when she died in England in 1617",
+          "answer": "Pocahontas",
+          "isDailyDouble": false,
+          "orderNumber": 13,
+          "correctContestants": [
+            "Craig"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alison",
+              "score": 400
+            },
+            {
+              "player": "Deb",
+              "score": -400
+            },
+            {
+              "player": "Craig",
+              "score": 2100
+            }
+          ]
+        },
+        {
+          "category": "FAMOUS WOMEN",
+          "value": 200,
+          "clue": "This author, the wife of an aviator, published 5 volumes of her diaries & letters",
+          "answer": "Anne Lindbergh",
+          "isDailyDouble": false,
+          "orderNumber": 14,
+          "correctContestants": [
+            "Deb"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alison",
+              "score": 400
+            },
+            {
+              "player": "Deb",
+              "score": -200
+            },
+            {
+              "player": "Craig",
+              "score": 2100
+            }
+          ]
+        },
+        {
+          "category": "FAMOUS WOMEN",
+          "value": 300,
+          "clue": "Take our advice; these famous twins were born on the 4th of July in 1918 in Sioux City, Iowa",
+          "answer": "\"Dear Abby\" & \"Ann Landers\"",
+          "isDailyDouble": false,
+          "orderNumber": 15,
+          "correctContestants": [
+            "Alison"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alison",
+              "score": 700
+            },
+            {
+              "player": "Deb",
+              "score": -200
+            },
+            {
+              "player": "Craig",
+              "score": 2100
+            }
+          ]
+        },
+        {
+          "category": "FAMOUS WOMEN",
+          "value": 400,
+          "clue": "Gary Morton, who's married to her, says, \"Show business is my wife\"",
+          "answer": "Lucille Ball",
+          "isDailyDouble": false,
+          "orderNumber": 16,
+          "correctContestants": [
+            "Deb"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alison",
+              "score": 700
+            },
+            {
+              "player": "Deb",
+              "score": 200
+            },
+            {
+              "player": "Craig",
+              "score": 2100
+            }
+          ]
+        },
+        {
+          "category": "FAMOUS WOMEN",
+          "value": 500,
+          "clue": "She made her 1st appearance on \"The Tonight Show\" in 1971 with an elephant who painted Johnny's pants",
+          "answer": "Joan Embry (of the San Diego Zoo)",
+          "isDailyDouble": false,
+          "orderNumber": 17,
+          "correctContestants": [
+            "Craig"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alison",
+              "score": 700
+            },
+            {
+              "player": "Deb",
+              "score": 200
+            },
+            {
+              "player": "Craig",
+              "score": 2600
+            }
+          ]
+        },
+        {
+          "category": "SONG LYRICS",
+          "value": 300,
+          "clue": "\"Buffalo gals, won't you come out tonight, and dance by\" this",
+          "answer": "the light of the moon",
+          "isDailyDouble": false,
+          "orderNumber": 18,
+          "correctContestants": [
+            "Alison"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alison",
+              "score": 1000
+            },
+            {
+              "player": "Deb",
+              "score": 200
+            },
+            {
+              "player": "Craig",
+              "score": 2600
+            }
+          ]
+        },
+        {
+          "category": "SEWING",
+          "value": 100,
+          "clue": "The tension control on your machine regulates the tension of this, not your nerves",
+          "answer": "thread",
+          "isDailyDouble": false,
+          "orderNumber": 19,
+          "correctContestants": [
+            "Alison"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alison",
+              "score": 1100
+            },
+            {
+              "player": "Deb",
+              "score": 200
+            },
+            {
+              "player": "Craig",
+              "score": 2600
+            }
+          ]
+        },
+        {
+          "category": "\"LING\" O",
+          "value": 100,
+          "clue": "You can use one of these to hold up a broken arm or knock down Goliath",
+          "answer": "sling",
+          "isDailyDouble": false,
+          "orderNumber": 20,
+          "correctContestants": [
+            "Alison"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alison",
+              "score": 1200
+            },
+            {
+              "player": "Deb",
+              "score": 200
+            },
+            {
+              "player": "Craig",
+              "score": 2600
+            }
+          ]
+        },
+        {
+          "category": "\"LING\" O",
+          "value": 200,
+          "clue": "Circus siblings Albert, Otto, Alfred, Charles & John",
+          "answer": "the Ringling Brothers",
+          "isDailyDouble": false,
+          "orderNumber": 21,
+          "correctContestants": [
+            "Craig"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alison",
+              "score": 1200
+            },
+            {
+              "player": "Deb",
+              "score": 200
+            },
+            {
+              "player": "Craig",
+              "score": 2800
+            }
+          ]
+        },
+        {
+          "category": "\"LING\" O",
+          "value": 300,
+          "clue": "Phonology, syntax & semantics are all part of this science",
+          "answer": "linguistics",
+          "isDailyDouble": false,
+          "orderNumber": 22,
+          "correctContestants": [
+            "Craig"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alison",
+              "score": 1200
+            },
+            {
+              "player": "Deb",
+              "score": 200
+            },
+            {
+              "player": "Craig",
+              "score": 3100
+            }
+          ]
+        },
+        {
+          "category": "\"LING\" O",
+          "value": 400,
+          "clue": "First name of actors Hayden & Holloway",
+          "answer": "Sterling",
+          "isDailyDouble": false,
+          "orderNumber": 23,
+          "correctContestants": [
+            "Craig"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alison",
+              "score": 1200
+            },
+            {
+              "player": "Deb",
+              "score": 200
+            },
+            {
+              "player": "Craig",
+              "score": 3500
+            }
+          ]
+        },
+        {
+          "category": "\"LING\" O",
+          "value": 500,
+          "clue": "Only person to have won both the Nobel Prize for Chemistry & the Nobel Peace Prize",
+          "answer": "Linus Pauling",
+          "isDailyDouble": false,
+          "orderNumber": 24,
+          "correctContestants": [
+            "Craig"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alison",
+              "score": 1200
+            },
+            {
+              "player": "Deb",
+              "score": 200
+            },
+            {
+              "player": "Craig",
+              "score": 4000
+            }
+          ]
+        },
+        {
+          "category": "SONG LYRICS",
+          "value": 400,
+          "clue": "Broadway song in which Sally sings, \"I made my mind up, back in Chelsea, when I go I'm going like Elsie\"",
+          "answer": "\"Cabaret\"",
+          "isDailyDouble": false,
+          "orderNumber": 25,
+          "correctContestants": [
+            "Deb"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alison",
+              "score": 1200
+            },
+            {
+              "player": "Deb",
+              "score": 600
+            },
+            {
+              "player": "Craig",
+              "score": 4000
+            }
+          ]
+        },
+        {
+          "category": "SONG LYRICS",
+          "value": 500,
+          "clue": "Marlene Dietrich sang, \"Go see what\" these title guys \"will have and tell them I'm having the same\"",
+          "answer": "\"The Boys in the Back Room\"",
+          "isDailyDouble": false,
+          "orderNumber": 26,
+          "correctContestants": [
+            "Alison"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alison",
+              "score": 1700
+            },
+            {
+              "player": "Deb",
+              "score": 600
+            },
+            {
+              "player": "Craig",
+              "score": 4000
+            }
+          ]
+        },
+        {
+          "category": "SEWING",
+          "value": 200,
+          "clue": "A skirt marker is usually used to measure this",
+          "answer": "hem",
+          "isDailyDouble": false,
+          "orderNumber": 27,
+          "correctContestants": [
+            "Craig"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alison",
+              "score": 1700
+            },
+            {
+              "player": "Deb",
+              "score": 600
+            },
+            {
+              "player": "Craig",
+              "score": 4200
+            }
+          ]
+        },
+        {
+          "category": "SEWING",
+          "value": 300,
+          "clue": "The zigzag stitch is commonly used to keep some fabrics from doing this",
+          "answer": "fraying (unraveling)",
+          "isDailyDouble": false,
+          "orderNumber": 28,
+          "correctContestants": [
+            "Alison"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alison",
+              "score": 2000
+            },
+            {
+              "player": "Deb",
+              "score": 600
+            },
+            {
+              "player": "Craig",
+              "score": 4200
+            }
+          ]
+        },
+        {
+          "category": "SEWING",
+          "value": 400,
+          "clue": "A tailor's ham is not his lunch but a stuffed cushion used for this purpose",
+          "answer": "to help him out when he's pressing",
+          "isDailyDouble": false,
+          "orderNumber": 29,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Craig"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Alison",
+              "score": 2000
+            },
+            {
+              "player": "Deb",
+              "score": 600
+            },
+            {
+              "player": "Craig",
+              "score": 3800
+            }
+          ]
+        },
+        {
+          "category": "SEWING",
+          "value": 500,
+          "clue": "Often decorative, it's one or more lines of stitching on the outside of the fabric",
+          "answer": "top stitching",
+          "isDailyDouble": false,
+          "orderNumber": 30,
+          "correctContestants": [
+            "Alison"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alison",
+              "score": 2500
+            },
+            {
+              "player": "Deb",
+              "score": 600
+            },
+            {
+              "player": "Craig",
+              "score": 3800
+            }
+          ]
+        }
+      ],
+      "firstBreakScores": [
+        {
+          "player": "Alison",
+          "score": 400
+        },
+        {
+          "player": "Deb",
+          "score": -400
+        },
+        {
+          "player": "Craig",
+          "score": 2000
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "Alison",
+          "score": 2500
+        },
+        {
+          "player": "Deb",
+          "score": 600
+        },
+        {
+          "player": "Craig",
+          "score": 3800
+        }
+      ]
+    },
+    "doubleJeopardy": {
+      "categories": [
+        "STARTS WITH \"P\"",
+        "FICTION",
+        "FOOD",
+        "BEACHES",
+        "BIOLOGY",
+        "KINGS NAMED LOUIS"
+      ],
+      "clues": [
+        {
+          "category": "KINGS NAMED LOUIS",
+          "value": 200,
+          "clue": "This great king of the Franks was succeeded in 814 by his son Louis the Debonair a.k.a. The Pious",
+          "answer": "Charlemagne",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Alison",
+              "score": 2500
+            },
+            {
+              "player": "Deb",
+              "score": 400
+            },
+            {
+              "player": "Craig",
+              "score": 3800
+            }
+          ]
+        },
+        {
+          "category": "KINGS NAMED LOUIS",
+          "value": 400,
+          "clue": "In 1137 the future Louis VII married this 15-year-old heiress of Aquitaine",
+          "answer": "Eleanor of Aquitaine",
+          "isDailyDouble": false,
+          "orderNumber": 2,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alison",
+              "score": 2500
+            },
+            {
+              "player": "Deb",
+              "score": 800
+            },
+            {
+              "player": "Craig",
+              "score": 3800
+            }
+          ]
+        },
+        {
+          "category": "KINGS NAMED LOUIS",
+          "value": 600,
+          "clue": "Louis XIV was nicknamed \"Le Roi Soleil\", which means this",
+          "answer": "the \"Sun King\"",
+          "isDailyDouble": false,
+          "orderNumber": 3,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alison",
+              "score": 2500
+            },
+            {
+              "player": "Deb",
+              "score": 1400
+            },
+            {
+              "player": "Craig",
+              "score": 3800
+            }
+          ]
+        },
+        {
+          "category": "KINGS NAMED LOUIS",
+          "value": 800,
+          "clue": "Louis IX, who led crusades to the Holy Land, was the only king of France to receive this honor",
+          "answer": "sainthood",
+          "isDailyDouble": false,
+          "orderNumber": 4,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alison",
+              "score": 2500
+            },
+            {
+              "player": "Deb",
+              "score": 2200
+            },
+            {
+              "player": "Craig",
+              "score": 3800
+            }
+          ]
+        },
+        {
+          "category": "KINGS NAMED LOUIS",
+          "value": 1000,
+          "clue": "Louis II of Bavaria, the notorious \"Mad King Ludwig\", was a fanatic admirer of this composer",
+          "answer": "Wagner",
+          "isDailyDouble": false,
+          "orderNumber": 5,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Alison",
+              "score": 1500
+            },
+            {
+              "player": "Deb",
+              "score": 2200
+            },
+            {
+              "player": "Craig",
+              "score": 3800
+            }
+          ]
+        },
+        {
+          "category": "STARTS WITH \"P\"",
+          "value": 200,
+          "clue": "French for \"miscellaneous mixture\", it's a favorite Jeopardy! category",
+          "answer": "potpourri",
+          "isDailyDouble": false,
+          "orderNumber": 6,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alison",
+              "score": 1500
+            },
+            {
+              "player": "Deb",
+              "score": 2200
+            },
+            {
+              "player": "Craig",
+              "score": 4000
+            }
+          ]
+        },
+        {
+          "category": "FOOD",
+          "value": 200,
+          "clue": "The hulled kernels of corn from which grits are made are called this",
+          "answer": "hominy",
+          "isDailyDouble": false,
+          "orderNumber": 7,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alison",
+              "score": 1700
+            },
+            {
+              "player": "Deb",
+              "score": 2200
+            },
+            {
+              "player": "Craig",
+              "score": 4000
+            }
+          ]
+        },
+        {
+          "category": "BEACHES",
+          "value": 200,
+          "clue": "Largest national seashore entirely in 1 state is this state's Padre Island",
+          "answer": "Texas",
+          "isDailyDouble": false,
+          "orderNumber": 8,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alison",
+              "score": 1900
+            },
+            {
+              "player": "Deb",
+              "score": 2200
+            },
+            {
+              "player": "Craig",
+              "score": 4000
+            }
+          ]
+        },
+        {
+          "category": "BEACHES",
+          "value": 400,
+          "clue": "You can swim at Mauna Kea Beach miles from the volcano on the Kihola Coast of this island",
+          "answer": "Hawaii (the big island)",
+          "isDailyDouble": false,
+          "orderNumber": 9,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alison",
+              "score": 1900
+            },
+            {
+              "player": "Deb",
+              "score": 2200
+            },
+            {
+              "player": "Craig",
+              "score": 4400
+            }
+          ]
+        },
+        {
+          "category": "BEACHES",
+          "value": 600,
+          "clue": "Island where millions swim every summer at Jones Beach, a 2,413-acre state park",
+          "answer": "Long Island",
+          "isDailyDouble": false,
+          "orderNumber": 10,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alison",
+              "score": 2500
+            },
+            {
+              "player": "Deb",
+              "score": 2200
+            },
+            {
+              "player": "Craig",
+              "score": 3800
+            }
+          ]
+        },
+        {
+          "category": "BEACHES",
+          "value": 1000,
+          "clue": "Panama City Beach isn't in Panama but on the Panhandle of this state",
+          "answer": "Florida",
+          "isDailyDouble": true,
+          "orderNumber": 11,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alison",
+              "score": 3500
+            },
+            {
+              "player": "Deb",
+              "score": 2200
+            },
+            {
+              "player": "Craig",
+              "score": 3800
+            }
+          ]
+        },
+        {
+          "category": "BEACHES",
+          "value": 1000,
+          "clue": "Beaches on this New England state's 17 3/4 miles of coastline include Hampton Beach & Rye Beach",
+          "answer": "New Hampshire",
+          "isDailyDouble": false,
+          "orderNumber": 12,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alison",
+              "score": 3500
+            },
+            {
+              "player": "Deb",
+              "score": 2200
+            },
+            {
+              "player": "Craig",
+              "score": 4800
+            }
+          ]
+        },
+        {
+          "category": "BIOLOGY",
+          "value": 200,
+          "clue": "Type 1 diabetes results when the body can't produce enough of this to process nutrients",
+          "answer": "insulin",
+          "isDailyDouble": false,
+          "orderNumber": 13,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alison",
+              "score": 3500
+            },
+            {
+              "player": "Deb",
+              "score": 2400
+            },
+            {
+              "player": "Craig",
+              "score": 4800
+            }
+          ]
+        },
+        {
+          "category": "STARTS WITH \"P\"",
+          "value": 400,
+          "clue": "A conspiracy, a small piece of ground or the main story line in a novel",
+          "answer": "plot",
+          "isDailyDouble": false,
+          "orderNumber": 14,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alison",
+              "score": 3900
+            },
+            {
+              "player": "Deb",
+              "score": 2400
+            },
+            {
+              "player": "Craig",
+              "score": 4800
+            }
+          ]
+        },
+        {
+          "category": "FICTION",
+          "value": 200,
+          "clue": "Dostoyevsky's last novel was the story of these \"Brothers\"",
+          "answer": "Karamazov",
+          "isDailyDouble": false,
+          "orderNumber": 15,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alison",
+              "score": 3900
+            },
+            {
+              "player": "Deb",
+              "score": 2400
+            },
+            {
+              "player": "Craig",
+              "score": 5000
+            }
+          ]
+        },
+        {
+          "category": "FICTION",
+          "value": 400,
+          "clue": "She may have been a \"dame\", but you'd never say that about her famous character Miss Jane Marple",
+          "answer": "Agatha Christie",
+          "isDailyDouble": false,
+          "orderNumber": 16,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alison",
+              "score": 4300
+            },
+            {
+              "player": "Deb",
+              "score": 2400
+            },
+            {
+              "player": "Craig",
+              "score": 5000
+            }
+          ]
+        },
+        {
+          "category": "FOOD",
+          "value": 400,
+          "clue": "The feline on the box says, \"They're Gr-r-reat!\"",
+          "answer": "Frosted Flakes",
+          "isDailyDouble": false,
+          "orderNumber": 17,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alison",
+              "score": 4700
+            },
+            {
+              "player": "Deb",
+              "score": 2400
+            },
+            {
+              "player": "Craig",
+              "score": 5000
+            }
+          ]
+        },
+        {
+          "category": "FOOD",
+          "value": 600,
+          "clue": "This savory jelly was so named because its color resembled a snake's",
+          "answer": "aspic",
+          "isDailyDouble": false,
+          "orderNumber": 18,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Alison",
+              "score": 4700
+            },
+            {
+              "player": "Deb",
+              "score": 2400
+            },
+            {
+              "player": "Craig",
+              "score": 5000
+            }
+          ]
+        },
+        {
+          "category": "FOOD",
+          "value": 1200,
+          "clue": "Under normal conditions, this fat found in chocolate will keep for years without going rancid",
+          "answer": "cocoa butter",
+          "isDailyDouble": true,
+          "orderNumber": 19,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alison",
+              "score": 5900
+            },
+            {
+              "player": "Deb",
+              "score": 2400
+            },
+            {
+              "player": "Craig",
+              "score": 5000
+            }
+          ]
+        },
+        {
+          "category": "FOOD",
+          "value": 1000,
+          "clue": "This thick meat stew from the south of France traditionally includes white beans",
+          "answer": "cassoulet",
+          "isDailyDouble": false,
+          "orderNumber": 20,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alison",
+              "score": 5900
+            },
+            {
+              "player": "Deb",
+              "score": 2400
+            },
+            {
+              "player": "Craig",
+              "score": 6000
+            }
+          ]
+        },
+        {
+          "category": "FICTION",
+          "value": 600,
+          "clue": "This Anita Loos novel was subtitled \"The Illuminating Diary of a Professional Lady\"",
+          "answer": "Gentlemen Prefer Blondes",
+          "isDailyDouble": false,
+          "orderNumber": 21,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Alison",
+              "score": 5900
+            },
+            {
+              "player": "Deb",
+              "score": 2400
+            },
+            {
+              "player": "Craig",
+              "score": 6000
+            }
+          ]
+        },
+        {
+          "category": "BIOLOGY",
+          "value": 400,
+          "clue": "Since it came to the U.S. in the '30s, this disease has killed almost half the elms in the U.S.",
+          "answer": "Dutch elm disease",
+          "isDailyDouble": false,
+          "orderNumber": 22,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alison",
+              "score": 6300
+            },
+            {
+              "player": "Deb",
+              "score": 2400
+            },
+            {
+              "player": "Craig",
+              "score": 6000
+            }
+          ]
+        },
+        {
+          "category": "STARTS WITH \"P\"",
+          "value": 600,
+          "clue": "Lana Turner starred as Constance in the film version of this novel by Grace Metalious",
+          "answer": "Peyton Place",
+          "isDailyDouble": false,
+          "orderNumber": 23,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alison",
+              "score": 6900
+            },
+            {
+              "player": "Deb",
+              "score": 2400
+            },
+            {
+              "player": "Craig",
+              "score": 6000
+            }
+          ]
+        },
+        {
+          "category": "STARTS WITH \"P\"",
+          "value": 800,
+          "clue": "U.S. architectural movement based on Midwestern homes built by Frank Lloyd Wright",
+          "answer": "Prairie Style (Prairie School)",
+          "isDailyDouble": false,
+          "orderNumber": 24,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alison",
+              "score": 6900
+            },
+            {
+              "player": "Deb",
+              "score": 2400
+            },
+            {
+              "player": "Craig",
+              "score": 6800
+            }
+          ]
+        },
+        {
+          "category": "STARTS WITH \"P\"",
+          "value": 1000,
+          "clue": "A guitar pick",
+          "answer": "plectrum",
+          "isDailyDouble": false,
+          "orderNumber": 25,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alison",
+              "score": 6900
+            },
+            {
+              "player": "Deb",
+              "score": 2400
+            },
+            {
+              "player": "Craig",
+              "score": 7800
+            }
+          ]
+        },
+        {
+          "category": "BIOLOGY",
+          "value": 600,
+          "clue": "They're the tissues that connect bones to bones",
+          "answer": "ligaments",
+          "isDailyDouble": false,
+          "orderNumber": 26,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alison",
+              "score": 7500
+            },
+            {
+              "player": "Deb",
+              "score": 2400
+            },
+            {
+              "player": "Craig",
+              "score": 7200
+            }
+          ]
+        },
+        {
+          "category": "FICTION",
+          "value": 800,
+          "clue": "He was seeking the Democratic nomination when his novel \"The Strategies of Zeus\" was published in 1987",
+          "answer": "Gary Hart",
+          "isDailyDouble": false,
+          "orderNumber": 27,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alison",
+              "score": 7500
+            },
+            {
+              "player": "Deb",
+              "score": 2400
+            },
+            {
+              "player": "Craig",
+              "score": 8000
+            }
+          ]
+        },
+        {
+          "category": "BIOLOGY",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alison",
+              "score": 7500
+            },
+            {
+              "player": "Deb",
+              "score": 2400
+            },
+            {
+              "player": "Craig",
+              "score": 8000
+            }
+          ]
+        },
+        {
+          "category": "FICTION",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alison",
+              "score": 7500
+            },
+            {
+              "player": "Deb",
+              "score": 2400
+            },
+            {
+              "player": "Craig",
+              "score": 8000
+            }
+          ]
+        },
+        {
+          "category": "BIOLOGY",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Alison",
+              "score": 7500
+            },
+            {
+              "player": "Deb",
+              "score": 2400
+            },
+            {
+              "player": "Craig",
+              "score": 8000
+            }
+          ]
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "Alison",
+          "score": 7500
+        },
+        {
+          "player": "Deb",
+          "score": 2400
+        },
+        {
+          "player": "Craig",
+          "score": 8000
+        }
+      ]
+    },
+    "finalJeopardy": {
+      "category": "WESTERN HEMISPHERE",
+      "clue": "When it broke away from France in 1804, it became the 2nd independent country in the New World",
+      "answer": "Haiti",
+      "responses": [
+        {
+          "contestant": "Deb",
+          "response": "What is Canada?",
+          "isCorrect": false,
+          "isIncorrect": true,
+          "value": 2399,
+          "finalScore": 1
+        },
+        {
+          "contestant": "Alison",
+          "response": "What was Canada?",
+          "isCorrect": false,
+          "isIncorrect": true,
+          "value": 7000,
+          "finalScore": 500
+        },
+        {
+          "contestant": "Craig",
+          "response": "What is Mexico?",
+          "isCorrect": false,
+          "isIncorrect": true,
+          "value": 7001,
+          "finalScore": 999
+        }
+      ]
+    }
+  },
+  "finalScores": [
+    {
+      "player": "Alison",
+      "score": "$500"
+    },
+    {
+      "player": "Deb",
+      "score": "$1"
+    },
+    {
+      "player": "Craig",
+      "score": "$999"
+    }
+  ],
+  "coryatScores": [
+    {
+      "player": "Alison",
+      "score": 6600
+    },
+    {
+      "player": "Deb",
+      "score": 2400
+    },
+    {
+      "player": "Craig",
+      "score": 8000
+    }
+  ]
+}

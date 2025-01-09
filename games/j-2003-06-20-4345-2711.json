@@ -1,0 +1,1708 @@
+{
+  "gameId": 2711,
+  "showNumber": "4345",
+  "title": "Show #4345 - Friday, June 20, 2003",
+  "date": "2003-06-20",
+  "comments": "",
+  "contestants": [
+    "Carmen",
+    "Bruce",
+    "Peter"
+  ],
+  "rounds": {
+    "jeopardy": {
+      "categories": [
+        "BIOGRAPHY",
+        "MOVIE MUSICALS",
+        "BIBLICAL QUOTES",
+        "FOOD & DRINK",
+        "NATIONAL PARKS",
+        "AN \"IF\"FY CATEGORY"
+      ],
+      "clues": [
+        {
+          "category": "MOVIE MUSICALS",
+          "value": 200,
+          "clue": "Ron Howard was a child when he sang about \"The Wells Fargo Wagon\" in this Robert Preston movie",
+          "answer": "The Music Man",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [
+            "Carmen"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Carmen",
+              "score": 200
+            },
+            {
+              "player": "Bruce",
+              "score": 0
+            },
+            {
+              "player": "Peter",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "MOVIE MUSICALS",
+          "value": 400,
+          "clue": "She did her own singing in \"Funny Face\", but she was dubbed in \"My Fair Lady\"",
+          "answer": "Audrey Hepburn",
+          "isDailyDouble": false,
+          "orderNumber": 2,
+          "correctContestants": [
+            "Bruce"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Carmen",
+              "score": 200
+            },
+            {
+              "player": "Bruce",
+              "score": 400
+            },
+            {
+              "player": "Peter",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "FOOD & DRINK",
+          "value": 200,
+          "clue": "Hormel makes a microwavable version of this man's beef stew",
+          "answer": "Dinty Moore",
+          "isDailyDouble": false,
+          "orderNumber": 3,
+          "correctContestants": [
+            "Carmen"
+          ],
+          "incorrectContestants": [
+            "Bruce"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Carmen",
+              "score": 400
+            },
+            {
+              "player": "Bruce",
+              "score": 200
+            },
+            {
+              "player": "Peter",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "FOOD & DRINK",
+          "value": 400,
+          "clue": "Company that uses the sketch seen here by Dorothy Hope Smith",
+          "answer": "Gerber",
+          "isDailyDouble": false,
+          "orderNumber": 4,
+          "correctContestants": [
+            "Peter"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Carmen",
+              "score": 400
+            },
+            {
+              "player": "Bruce",
+              "score": 200
+            },
+            {
+              "player": "Peter",
+              "score": 400
+            }
+          ]
+        },
+        {
+          "category": "FOOD & DRINK",
+          "value": 1000,
+          "clue": "In 1921 the Washburn Crosby Company created her to promote its flour & baking products",
+          "answer": "Betty Crocker",
+          "isDailyDouble": true,
+          "orderNumber": 5,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Peter"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Carmen",
+              "score": 400
+            },
+            {
+              "player": "Bruce",
+              "score": 200
+            },
+            {
+              "player": "Peter",
+              "score": -600
+            }
+          ]
+        },
+        {
+          "category": "FOOD & DRINK",
+          "value": 800,
+          "clue": "Evian water comes from a spring in this mountain range",
+          "answer": "Alps",
+          "isDailyDouble": false,
+          "orderNumber": 6,
+          "correctContestants": [
+            "Bruce"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Carmen",
+              "score": 400
+            },
+            {
+              "player": "Bruce",
+              "score": 1000
+            },
+            {
+              "player": "Peter",
+              "score": -600
+            }
+          ]
+        },
+        {
+          "category": "FOOD & DRINK",
+          "value": 1000,
+          "clue": "Profession of the inventors of Pepsi & Coke",
+          "answer": "pharmacists",
+          "isDailyDouble": false,
+          "orderNumber": 7,
+          "correctContestants": [
+            "Bruce"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Carmen",
+              "score": 400
+            },
+            {
+              "player": "Bruce",
+              "score": 2000
+            },
+            {
+              "player": "Peter",
+              "score": -600
+            }
+          ]
+        },
+        {
+          "category": "BIOGRAPHY",
+          "value": 200,
+          "clue": "She's the political wife profiled here",
+          "answer": "Ethel Kennedy",
+          "isDailyDouble": false,
+          "orderNumber": 8,
+          "correctContestants": [
+            "Carmen"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Carmen",
+              "score": 600
+            },
+            {
+              "player": "Bruce",
+              "score": 2000
+            },
+            {
+              "player": "Peter",
+              "score": -600
+            }
+          ]
+        },
+        {
+          "category": "BIOGRAPHY",
+          "value": 400,
+          "clue": "Born in 1958, she's the actress discussed in the following",
+          "answer": "Jamie Lee Curtis",
+          "isDailyDouble": false,
+          "orderNumber": 9,
+          "correctContestants": [
+            "Carmen"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Carmen",
+              "score": 1000
+            },
+            {
+              "player": "Bruce",
+              "score": 2000
+            },
+            {
+              "player": "Peter",
+              "score": -600
+            }
+          ]
+        },
+        {
+          "category": "BIOGRAPHY",
+          "value": 600,
+          "clue": "Man of God seen in the following",
+          "answer": "Jimmy Swaggart",
+          "isDailyDouble": false,
+          "orderNumber": 10,
+          "correctContestants": [
+            "Bruce"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Carmen",
+              "score": 1000
+            },
+            {
+              "player": "Bruce",
+              "score": 2600
+            },
+            {
+              "player": "Peter",
+              "score": -600
+            }
+          ]
+        },
+        {
+          "category": "BIOGRAPHY",
+          "value": 800,
+          "clue": "He was profiled on Real Goodfellas Week",
+          "answer": "Meyer Lansky",
+          "isDailyDouble": false,
+          "orderNumber": 11,
+          "correctContestants": [
+            "Bruce"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Carmen",
+              "score": 1000
+            },
+            {
+              "player": "Bruce",
+              "score": 3400
+            },
+            {
+              "player": "Peter",
+              "score": -600
+            }
+          ]
+        },
+        {
+          "category": "BIOGRAPHY",
+          "value": 1000,
+          "clue": "The episode seen here covered this \"Ernest\" young man of Irish birth",
+          "answer": "Ernest Shackleton",
+          "isDailyDouble": false,
+          "orderNumber": 12,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Carmen"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Carmen",
+              "score": 0
+            },
+            {
+              "player": "Bruce",
+              "score": 3400
+            },
+            {
+              "player": "Peter",
+              "score": -600
+            }
+          ]
+        },
+        {
+          "category": "NATIONAL PARKS",
+          "value": 200,
+          "clue": "The U.S. has 2 parks labeled \"Grand\", Wyoming's Grand Teton & this one in Arizona",
+          "answer": "Grand Canyon",
+          "isDailyDouble": false,
+          "orderNumber": 13,
+          "correctContestants": [
+            "Peter"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Carmen",
+              "score": 0
+            },
+            {
+              "player": "Bruce",
+              "score": 3400
+            },
+            {
+              "player": "Peter",
+              "score": -400
+            }
+          ]
+        },
+        {
+          "category": "AN \"IF\"FY CATEGORY",
+          "value": 200,
+          "clue": "A high, steep rock face",
+          "answer": "cliff",
+          "isDailyDouble": false,
+          "orderNumber": 14,
+          "correctContestants": [
+            "Bruce"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Carmen",
+              "score": 0
+            },
+            {
+              "player": "Bruce",
+              "score": 3600
+            },
+            {
+              "player": "Peter",
+              "score": -400
+            }
+          ]
+        },
+        {
+          "category": "AN \"IF\"FY CATEGORY",
+          "value": 400,
+          "clue": "To take in an aroma",
+          "answer": "sniff",
+          "isDailyDouble": false,
+          "orderNumber": 15,
+          "correctContestants": [
+            "Peter"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Carmen",
+              "score": 0
+            },
+            {
+              "player": "Bruce",
+              "score": 3600
+            },
+            {
+              "player": "Peter",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "AN \"IF\"FY CATEGORY",
+          "value": 600,
+          "clue": "An operation to resupply by plane when surface routes are blocked, like Berlin in the late '40s",
+          "answer": "airlift",
+          "isDailyDouble": false,
+          "orderNumber": 16,
+          "correctContestants": [
+            "Bruce"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Carmen",
+              "score": 0
+            },
+            {
+              "player": "Bruce",
+              "score": 4200
+            },
+            {
+              "player": "Peter",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "AN \"IF\"FY CATEGORY",
+          "value": 800,
+          "clue": "Not anchored & flowing freely",
+          "answer": "adrift",
+          "isDailyDouble": false,
+          "orderNumber": 17,
+          "correctContestants": [
+            "Peter"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Carmen",
+              "score": 0
+            },
+            {
+              "player": "Bruce",
+              "score": 4200
+            },
+            {
+              "player": "Peter",
+              "score": 800
+            }
+          ]
+        },
+        {
+          "category": "AN \"IF\"FY CATEGORY",
+          "value": 1000,
+          "clue": "From the Latin for \"to open\", it's an alcoholic drink taken before a meal",
+          "answer": "aperitif",
+          "isDailyDouble": false,
+          "orderNumber": 18,
+          "correctContestants": [
+            "Peter"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Carmen",
+              "score": 0
+            },
+            {
+              "player": "Bruce",
+              "score": 4200
+            },
+            {
+              "player": "Peter",
+              "score": 1800
+            }
+          ]
+        },
+        {
+          "category": "BIBLICAL QUOTES",
+          "value": 200,
+          "clue": "\"It is easier for\" this animal \"to go through the eye of a needle than for a rich man to enter the kingdom of God\"",
+          "answer": "camel",
+          "isDailyDouble": false,
+          "orderNumber": 19,
+          "correctContestants": [
+            "Bruce"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Carmen",
+              "score": 0
+            },
+            {
+              "player": "Bruce",
+              "score": 4400
+            },
+            {
+              "player": "Peter",
+              "score": 1800
+            }
+          ]
+        },
+        {
+          "category": "BIBLICAL QUOTES",
+          "value": 400,
+          "clue": "This king said, \"Divide the living child in two, and give half to the one, and half to the other\"",
+          "answer": "Solomon",
+          "isDailyDouble": false,
+          "orderNumber": 20,
+          "correctContestants": [
+            "Peter"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Carmen",
+              "score": 0
+            },
+            {
+              "player": "Bruce",
+              "score": 4400
+            },
+            {
+              "player": "Peter",
+              "score": 2200
+            }
+          ]
+        },
+        {
+          "category": "BIBLICAL QUOTES",
+          "value": 600,
+          "clue": "Jesus told the Pharisees to give to this emperor the things that were his, \"and to God the things that are God's\"",
+          "answer": "Caesar",
+          "isDailyDouble": false,
+          "orderNumber": 21,
+          "correctContestants": [
+            "Peter"
+          ],
+          "incorrectContestants": [
+            "Carmen",
+            "Bruce"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Carmen",
+              "score": -600
+            },
+            {
+              "player": "Bruce",
+              "score": 3800
+            },
+            {
+              "player": "Peter",
+              "score": 2800
+            }
+          ]
+        },
+        {
+          "category": "BIBLICAL QUOTES",
+          "value": 800,
+          "clue": "Paul wrote to Timothy, \"Drink no longer water, but use a little\" this \"for thy stomach's sake and thine often infirmities\"",
+          "answer": "wine",
+          "isDailyDouble": false,
+          "orderNumber": 22,
+          "correctContestants": [
+            "Bruce"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Carmen",
+              "score": -600
+            },
+            {
+              "player": "Bruce",
+              "score": 4600
+            },
+            {
+              "player": "Peter",
+              "score": 2800
+            }
+          ]
+        },
+        {
+          "category": "BIBLICAL QUOTES",
+          "value": 1000,
+          "clue": "Genesis 37:31 says that siblings took his \"coat and killed a kid of the goats, and dipped the coat in the blood\"",
+          "answer": "Joseph",
+          "isDailyDouble": false,
+          "orderNumber": 23,
+          "correctContestants": [
+            "Bruce"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Carmen",
+              "score": -600
+            },
+            {
+              "player": "Bruce",
+              "score": 5600
+            },
+            {
+              "player": "Peter",
+              "score": 2800
+            }
+          ]
+        },
+        {
+          "category": "NATIONAL PARKS",
+          "value": 400,
+          "clue": "Saguaro, a park named for giant cacti, is in Arizona & this park named for giant trees is in central California",
+          "answer": "Sequoia",
+          "isDailyDouble": false,
+          "orderNumber": 24,
+          "correctContestants": [
+            "Peter"
+          ],
+          "incorrectContestants": [
+            "Bruce"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Carmen",
+              "score": -600
+            },
+            {
+              "player": "Bruce",
+              "score": 5200
+            },
+            {
+              "player": "Peter",
+              "score": 3200
+            }
+          ]
+        },
+        {
+          "category": "NATIONAL PARKS",
+          "value": 600,
+          "clue": "This state's Wrangell-St. Elias National Monument was upgraded to park in 1980 & is the USA's largest park system",
+          "answer": "Alaska",
+          "isDailyDouble": false,
+          "orderNumber": 25,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Carmen",
+              "score": -600
+            },
+            {
+              "player": "Bruce",
+              "score": 5200
+            },
+            {
+              "player": "Peter",
+              "score": 3200
+            }
+          ]
+        },
+        {
+          "category": "NATIONAL PARKS",
+          "value": 800,
+          "clue": "Michigan's Isle Royale National Park is situated in this Great Lake",
+          "answer": "Lake Superior",
+          "isDailyDouble": false,
+          "orderNumber": 26,
+          "correctContestants": [
+            "Bruce"
+          ],
+          "incorrectContestants": [
+            "Carmen"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Carmen",
+              "score": -1400
+            },
+            {
+              "player": "Bruce",
+              "score": 6000
+            },
+            {
+              "player": "Peter",
+              "score": 3200
+            }
+          ]
+        },
+        {
+          "category": "NATIONAL PARKS",
+          "value": 1000,
+          "clue": "Other parks are \"green\" with envy over this Colorado park's prehistoric cliff dwellings",
+          "answer": "Mesa Verde",
+          "isDailyDouble": false,
+          "orderNumber": 27,
+          "correctContestants": [
+            "Carmen"
+          ],
+          "incorrectContestants": [
+            "Bruce"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Carmen",
+              "score": -400
+            },
+            {
+              "player": "Bruce",
+              "score": 5000
+            },
+            {
+              "player": "Peter",
+              "score": 3200
+            }
+          ]
+        },
+        {
+          "category": "MOVIE MUSICALS",
+          "value": 600,
+          "clue": "This 1955 film about gamblers is tops on my list of Marlon Brando musicals",
+          "answer": "Guys and Dolls",
+          "isDailyDouble": false,
+          "orderNumber": 28,
+          "correctContestants": [
+            "Carmen"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Carmen",
+              "score": 200
+            },
+            {
+              "player": "Bruce",
+              "score": 5000
+            },
+            {
+              "player": "Peter",
+              "score": 3200
+            }
+          ]
+        },
+        {
+          "category": "MOVIE MUSICALS",
+          "value": 800,
+          "clue": "Jerry Orbach originated the role of Billy Flynn in \"Chicago\" on Broadway, but this man got the part in the film",
+          "answer": "Richard Gere",
+          "isDailyDouble": false,
+          "orderNumber": 29,
+          "correctContestants": [
+            "Carmen"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Carmen",
+              "score": 1000
+            },
+            {
+              "player": "Bruce",
+              "score": 5000
+            },
+            {
+              "player": "Peter",
+              "score": 3200
+            }
+          ]
+        },
+        {
+          "category": "MOVIE MUSICALS",
+          "value": 1000,
+          "clue": "Vincente Minnelli directed Judy Garland in this Missouri-set musical in 1944 & married her the following year",
+          "answer": "Meet Me in St. Louis",
+          "isDailyDouble": false,
+          "orderNumber": 30,
+          "correctContestants": [
+            "Carmen"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Carmen",
+              "score": 2000
+            },
+            {
+              "player": "Bruce",
+              "score": 5000
+            },
+            {
+              "player": "Peter",
+              "score": 3200
+            }
+          ]
+        }
+      ],
+      "firstBreakScores": [
+        {
+          "player": "Carmen",
+          "score": 0
+        },
+        {
+          "player": "Bruce",
+          "score": 3400
+        },
+        {
+          "player": "Peter",
+          "score": -400
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "Carmen",
+          "score": 2000
+        },
+        {
+          "player": "Bruce",
+          "score": 5000
+        },
+        {
+          "player": "Peter",
+          "score": 3200
+        }
+      ]
+    },
+    "doubleJeopardy": {
+      "categories": [
+        "MATHEMATICS",
+        "WONDER YEARS ALUMNI",
+        "ONE WORD ONLY, PLEASE",
+        "SILVER",
+        "CHINA",
+        "IN THE CABINET"
+      ],
+      "clues": [
+        {
+          "category": "ONE WORD ONLY, PLEASE",
+          "value": 400,
+          "clue": "It's the one-word answer to the classic joke \"How do you get to Carnegie Hall?\"",
+          "answer": "practice",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Carmen",
+              "score": 2400
+            },
+            {
+              "player": "Bruce",
+              "score": 5000
+            },
+            {
+              "player": "Peter",
+              "score": 3200
+            }
+          ]
+        },
+        {
+          "category": "ONE WORD ONLY, PLEASE",
+          "value": 800,
+          "clue": "This 8-part marriage of music & animation was Walt Disney's second feature film with only a one-word title",
+          "answer": "Fantasia",
+          "isDailyDouble": false,
+          "orderNumber": 2,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Carmen",
+              "score": 2400
+            },
+            {
+              "player": "Bruce",
+              "score": 5000
+            },
+            {
+              "player": "Peter",
+              "score": 4000
+            }
+          ]
+        },
+        {
+          "category": "ONE WORD ONLY, PLEASE",
+          "value": 1200,
+          "clue": "In the Harry Potter books, it's the one-word term for a human being without magical powers",
+          "answer": "muggle",
+          "isDailyDouble": false,
+          "orderNumber": 3,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Carmen",
+              "score": 2400
+            },
+            {
+              "player": "Bruce",
+              "score": 6200
+            },
+            {
+              "player": "Peter",
+              "score": 4000
+            }
+          ]
+        },
+        {
+          "category": "ONE WORD ONLY, PLEASE",
+          "value": 1600,
+          "clue": "On Jan. 9, 1959 Eisenhower told Congress, \"America is best described by one word\", this \"ring\"ing one",
+          "answer": "Freedom",
+          "isDailyDouble": false,
+          "orderNumber": 4,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Carmen",
+              "score": 2400
+            },
+            {
+              "player": "Bruce",
+              "score": 6200
+            },
+            {
+              "player": "Peter",
+              "score": 4000
+            }
+          ]
+        },
+        {
+          "category": "ONE WORD ONLY, PLEASE",
+          "value": 2000,
+          "clue": "This was the single word the Hairy Old Man used to say at or near the beginning of every \"Monty Python\" episode",
+          "answer": "\"It's\"",
+          "isDailyDouble": false,
+          "orderNumber": 5,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Carmen",
+              "score": 2400
+            },
+            {
+              "player": "Bruce",
+              "score": 8200
+            },
+            {
+              "player": "Peter",
+              "score": 4000
+            }
+          ]
+        },
+        {
+          "category": "MATHEMATICS",
+          "value": 400,
+          "clue": "It's the sum of the coefficients in 2x plus 3y equals 18",
+          "answer": "5 (2 + 3)",
+          "isDailyDouble": false,
+          "orderNumber": 6,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Carmen",
+              "score": 2400
+            },
+            {
+              "player": "Bruce",
+              "score": 8200
+            },
+            {
+              "player": "Peter",
+              "score": 4400
+            }
+          ]
+        },
+        {
+          "category": "MATHEMATICS",
+          "value": 2000,
+          "clue": "Like 4, this number is also the square root of 16",
+          "answer": "-4",
+          "isDailyDouble": true,
+          "orderNumber": 7,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Carmen",
+              "score": 2400
+            },
+            {
+              "player": "Bruce",
+              "score": 8200
+            },
+            {
+              "player": "Peter",
+              "score": 2400
+            }
+          ]
+        },
+        {
+          "category": "MATHEMATICS",
+          "value": 1200,
+          "clue": "It's the lowest denominator of a fraction expressing the probability of rolling a 2 with one die",
+          "answer": "6",
+          "isDailyDouble": false,
+          "orderNumber": 8,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Carmen",
+              "score": 3600
+            },
+            {
+              "player": "Bruce",
+              "score": 8200
+            },
+            {
+              "player": "Peter",
+              "score": 2400
+            }
+          ]
+        },
+        {
+          "category": "SILVER",
+          "value": 400,
+          "clue": "He received 30 pieces of silver for betraying Jesus",
+          "answer": "Judas",
+          "isDailyDouble": false,
+          "orderNumber": 9,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Carmen",
+              "score": 3600
+            },
+            {
+              "player": "Bruce",
+              "score": 8200
+            },
+            {
+              "player": "Peter",
+              "score": 2800
+            }
+          ]
+        },
+        {
+          "category": "SILVER",
+          "value": 800,
+          "clue": "After this mother of discoveries in Nevada, the U.S. became for a time the world's leading silver producer",
+          "answer": "Comstock Lode",
+          "isDailyDouble": false,
+          "orderNumber": 10,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Carmen",
+              "score": 2800
+            },
+            {
+              "player": "Bruce",
+              "score": 8200
+            },
+            {
+              "player": "Peter",
+              "score": 2800
+            }
+          ]
+        },
+        {
+          "category": "SILVER",
+          "value": 1200,
+          "clue": "From its Latin name, argentum, this is the chemical symbol for silver",
+          "answer": "Ag",
+          "isDailyDouble": false,
+          "orderNumber": 11,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Carmen",
+              "score": 2800
+            },
+            {
+              "player": "Bruce",
+              "score": 8200
+            },
+            {
+              "player": "Peter",
+              "score": 4000
+            }
+          ]
+        },
+        {
+          "category": "SILVER",
+          "value": 1600,
+          "clue": "Between 1761 & 1797, he fashioned over 5,000 silver pieces, including the one seen here",
+          "answer": "Paul Revere",
+          "isDailyDouble": false,
+          "orderNumber": 12,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Carmen",
+              "score": 4400
+            },
+            {
+              "player": "Bruce",
+              "score": 8200
+            },
+            {
+              "player": "Peter",
+              "score": 4000
+            }
+          ]
+        },
+        {
+          "category": "SILVER",
+          "value": 2000,
+          "clue": "Popular with coin collectors is this silver dollar minted originally from 1878 to 1921 & named for its designer",
+          "answer": "Morgan silver dollar",
+          "isDailyDouble": false,
+          "orderNumber": 13,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Carmen",
+              "score": 4400
+            },
+            {
+              "player": "Bruce",
+              "score": 8200
+            },
+            {
+              "player": "Peter",
+              "score": 4000
+            }
+          ]
+        },
+        {
+          "category": "CHINA",
+          "value": 400,
+          "clue": "From 1949 to his death in 1976, he was chairman of the Chinese Communist Party",
+          "answer": "Mao Tse-tung",
+          "isDailyDouble": false,
+          "orderNumber": 14,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Carmen",
+              "score": 4800
+            },
+            {
+              "player": "Bruce",
+              "score": 8200
+            },
+            {
+              "player": "Peter",
+              "score": 4000
+            }
+          ]
+        },
+        {
+          "category": "CHINA",
+          "value": 800,
+          "clue": "On June 3 & 4, 1989 the People's Liberation Army killed hundreds at a democracy rally at this Beijing site",
+          "answer": "Tiananmen Square",
+          "isDailyDouble": false,
+          "orderNumber": 15,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Carmen",
+              "score": 4800
+            },
+            {
+              "player": "Bruce",
+              "score": 8200
+            },
+            {
+              "player": "Peter",
+              "score": 4800
+            }
+          ]
+        },
+        {
+          "category": "CHINA",
+          "value": 1200,
+          "clue": "A 1931 flood of this river in the north completely covered an area about the size of Indiana & left 80 million homeless",
+          "answer": "Yellow River",
+          "isDailyDouble": false,
+          "orderNumber": 16,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Carmen",
+              "score": 4800
+            },
+            {
+              "player": "Bruce",
+              "score": 9400
+            },
+            {
+              "player": "Peter",
+              "score": 4800
+            }
+          ]
+        },
+        {
+          "category": "CHINA",
+          "value": 1600,
+          "clue": "Today, all schools teach this dialect which the Chinese call Putonghua, or \"common language\"",
+          "answer": "Mandarin",
+          "isDailyDouble": false,
+          "orderNumber": 17,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Carmen",
+              "score": 6400
+            },
+            {
+              "player": "Bruce",
+              "score": 9400
+            },
+            {
+              "player": "Peter",
+              "score": 4800
+            }
+          ]
+        },
+        {
+          "category": "CHINA",
+          "value": 2000,
+          "clue": "In 1899 this secret society began a campaign of terror against Christian missionaries in the northeast",
+          "answer": "Boxers",
+          "isDailyDouble": false,
+          "orderNumber": 18,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Carmen",
+              "score": 4400
+            },
+            {
+              "player": "Bruce",
+              "score": 9400
+            },
+            {
+              "player": "Peter",
+              "score": 4800
+            }
+          ]
+        },
+        {
+          "category": "IN THE CABINET",
+          "value": 400,
+          "clue": "As the first treasury secretary, he helped create the First Bank of the United States",
+          "answer": "Alexander Hamilton",
+          "isDailyDouble": false,
+          "orderNumber": 19,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Carmen",
+              "score": 4800
+            },
+            {
+              "player": "Bruce",
+              "score": 9400
+            },
+            {
+              "player": "Peter",
+              "score": 4800
+            }
+          ]
+        },
+        {
+          "category": "IN THE CABINET",
+          "value": 800,
+          "clue": "Before succeeding Madison as president, he was Madison's secretary of state",
+          "answer": "James Monroe",
+          "isDailyDouble": false,
+          "orderNumber": 20,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Carmen",
+              "score": 4800
+            },
+            {
+              "player": "Bruce",
+              "score": 9400
+            },
+            {
+              "player": "Peter",
+              "score": 5600
+            }
+          ]
+        },
+        {
+          "category": "IN THE CABINET",
+          "value": 1200,
+          "clue": "Robert Todd Lincoln held this post under presidents Garfield & Arthur, as Edwin Stanton had under his father",
+          "answer": "Secretary of War",
+          "isDailyDouble": false,
+          "orderNumber": 21,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Carmen",
+              "score": 4800
+            },
+            {
+              "player": "Bruce",
+              "score": 9400
+            },
+            {
+              "player": "Peter",
+              "score": 6800
+            }
+          ]
+        },
+        {
+          "category": "IN THE CABINET",
+          "value": 3000,
+          "clue": "Charles Nagel was the last person to serve in the combined post of secretary of commerce & this",
+          "answer": "Labor",
+          "isDailyDouble": true,
+          "orderNumber": 22,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Carmen",
+              "score": 4800
+            },
+            {
+              "player": "Bruce",
+              "score": 9400
+            },
+            {
+              "player": "Peter",
+              "score": 9800
+            }
+          ]
+        },
+        {
+          "category": "IN THE CABINET",
+          "value": 2000,
+          "clue": "President Reagan's education secretary, he went on to edit the bestselling \"Book of Virtues\"",
+          "answer": "William Bennett",
+          "isDailyDouble": false,
+          "orderNumber": 23,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Carmen",
+              "score": 4800
+            },
+            {
+              "player": "Bruce",
+              "score": 9400
+            },
+            {
+              "player": "Peter",
+              "score": 11800
+            }
+          ]
+        },
+        {
+          "category": "MATHEMATICS",
+          "value": 1600,
+          "clue": "(Jimmy of the Clue Crew)  In set theory, it's the 5-letter word that this symbol stands for (U)",
+          "answer": "union",
+          "isDailyDouble": false,
+          "orderNumber": 24,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Carmen",
+              "score": 4800
+            },
+            {
+              "player": "Bruce",
+              "score": 9400
+            },
+            {
+              "player": "Peter",
+              "score": 11800
+            }
+          ]
+        },
+        {
+          "category": "MATHEMATICS",
+          "value": 2000,
+          "clue": "It's been thought but not proved that there's an infinite supply of twin these, parts of them that differ by 2",
+          "answer": "prime numbers",
+          "isDailyDouble": false,
+          "orderNumber": 25,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Carmen",
+              "score": 4800
+            },
+            {
+              "player": "Bruce",
+              "score": 9400
+            },
+            {
+              "player": "Peter",
+              "score": 11800
+            }
+          ]
+        },
+        {
+          "category": "WONDER YEARS ALUMNI",
+          "value": 400,
+          "clue": "In \"Austin Powers in Goldmember\", he was Number 3 & I seem to remember he sported a mole",
+          "answer": "Fred Savage",
+          "isDailyDouble": false,
+          "orderNumber": 26,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Carmen",
+              "score": 4800
+            },
+            {
+              "player": "Bruce",
+              "score": 9800
+            },
+            {
+              "player": "Peter",
+              "score": 11800
+            }
+          ]
+        },
+        {
+          "category": "WONDER YEARS ALUMNI",
+          "value": 2000,
+          "clue": "The daughter of Manfred Mann's Mike d'Abo is this TV star of \"The Wonder Years\" & Disney's \"Tarzan\"",
+          "answer": "Olivia d'Abo",
+          "isDailyDouble": false,
+          "orderNumber": 27,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Carmen",
+              "score": 2800
+            },
+            {
+              "player": "Bruce",
+              "score": 9800
+            },
+            {
+              "player": "Peter",
+              "score": 13800
+            }
+          ]
+        },
+        {
+          "category": "WONDER YEARS ALUMNI",
+          "value": 800,
+          "clue": "Before \"Friends\" he was seen on \"The Wonder Years\" as Karen's boyfriend, then husband, Michael",
+          "answer": "David Schwimmer",
+          "isDailyDouble": false,
+          "orderNumber": 28,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Carmen",
+              "score": 2800
+            },
+            {
+              "player": "Bruce",
+              "score": 9800
+            },
+            {
+              "player": "Peter",
+              "score": 13800
+            }
+          ]
+        },
+        {
+          "category": "WONDER YEARS ALUMNI",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Carmen",
+              "score": 2800
+            },
+            {
+              "player": "Bruce",
+              "score": 9800
+            },
+            {
+              "player": "Peter",
+              "score": 13800
+            }
+          ]
+        },
+        {
+          "category": "WONDER YEARS ALUMNI",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Carmen",
+              "score": 2800
+            },
+            {
+              "player": "Bruce",
+              "score": 9800
+            },
+            {
+              "player": "Peter",
+              "score": 13800
+            }
+          ]
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "Carmen",
+          "score": 2800
+        },
+        {
+          "player": "Bruce",
+          "score": 9800
+        },
+        {
+          "player": "Peter",
+          "score": 13800
+        }
+      ]
+    },
+    "finalJeopardy": {
+      "category": "FORMER WORLD LEADERS",
+      "clue": "Filling out her application to run in 1986, this widowed mother of 5 listed her occupation as housewife",
+      "answer": "Corazon Aquino (of the Philippines)",
+      "responses": [
+        {
+          "contestant": "Carmen",
+          "response": "Who is Aquino?",
+          "isCorrect": true,
+          "isIncorrect": false,
+          "value": 2500,
+          "finalScore": 5300
+        },
+        {
+          "contestant": "Bruce",
+          "response": "Who ?",
+          "isCorrect": false,
+          "isIncorrect": true,
+          "value": 4001,
+          "finalScore": 5799
+        },
+        {
+          "contestant": "Peter",
+          "response": "Who is [Thatcher]? Pu",
+          "isCorrect": false,
+          "isIncorrect": true,
+          "value": 6200,
+          "finalScore": 7600
+        }
+      ]
+    }
+  },
+  "finalScores": [
+    {
+      "player": "Carmen",
+      "score": "$5,300"
+    },
+    {
+      "player": "Bruce",
+      "score": "$5,799"
+    },
+    {
+      "player": "Peter",
+      "score": "$7,600"
+    }
+  ],
+  "coryatScores": [
+    {
+      "player": "Carmen",
+      "score": 2800
+    },
+    {
+      "player": "Bruce",
+      "score": 9800
+    },
+    {
+      "player": "Peter",
+      "score": 15400
+    }
+  ]
+}

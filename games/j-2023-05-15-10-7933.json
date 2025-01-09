@@ -1,0 +1,1692 @@
+{
+  "gameId": 7933,
+  "showNumber": "10",
+  "title": "Jeopardy! Masters game #10 - Monday, May 15, 2023",
+  "date": "2023-05-15",
+  "comments": "2023 Jeopardy! Masters quarterfinal game 10.",
+  "contestants": [
+    "James",
+    "Andrew",
+    "Sam"
+  ],
+  "rounds": {
+    "jeopardy": {
+      "categories": [
+        "THE FRENCH REVOLUTION",
+        "WHAT A LITERARY CHARACTER!",
+        "GREAT SPORTS CALLS",
+        "MUSICAL INSTRUMENTS & ACCESSORIES",
+        "FROM THE GREEK",
+        "MY MISSED CAREER, SUBSTITUTE TEACHER"
+      ],
+      "clues": [
+        {
+          "category": "GREAT SPORTS CALLS",
+          "value": 1000,
+          "clue": "\"The slipper still fits!\" as this then-Cinderella Spokane school eked out a 1999 NCAA Men's Basketball Tournament win",
+          "answer": "Gonzaga",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [
+            "James"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "James",
+              "score": 1000
+            },
+            {
+              "player": "Andrew",
+              "score": 0
+            },
+            {
+              "player": "Sam",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "WHAT A LITERARY CHARACTER!",
+          "value": 1000,
+          "clue": "The title character in \"Humboldt's Gift\" by this author is based on his friend, poet Delmore Schwartz",
+          "answer": "(Saul) Bellow",
+          "isDailyDouble": false,
+          "orderNumber": 2,
+          "correctContestants": [
+            "Andrew"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "James",
+              "score": 1000
+            },
+            {
+              "player": "Andrew",
+              "score": 1000
+            },
+            {
+              "player": "Sam",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "MY MISSED CAREER, SUBSTITUTE TEACHER",
+          "value": 1000,
+          "clue": "Geography class, China's NW corner is this \"autonomous region\", though it's debatable how much autonomy its Uyghur people have",
+          "answer": "Xinjiang",
+          "isDailyDouble": false,
+          "orderNumber": 3,
+          "correctContestants": [
+            "Andrew"
+          ],
+          "incorrectContestants": [
+            "James"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "James",
+              "score": 0
+            },
+            {
+              "player": "Andrew",
+              "score": 2000
+            },
+            {
+              "player": "Sam",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "WHAT A LITERARY CHARACTER!",
+          "value": 2000,
+          "clue": "At the end of a Thomas Pynchon book, Oedipa Maas awaits the bidding on a stamp collection with this auction number",
+          "answer": "lot 49",
+          "isDailyDouble": true,
+          "orderNumber": 4,
+          "correctContestants": [
+            "Andrew"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "James",
+              "score": 0
+            },
+            {
+              "player": "Andrew",
+              "score": 4000
+            },
+            {
+              "player": "Sam",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "MUSICAL INSTRUMENTS & ACCESSORIES",
+          "value": 1000,
+          "clue": "The Amati family & their pupils the Stradivari made their violins in this city in the Lombardy region",
+          "answer": "Cremona",
+          "isDailyDouble": false,
+          "orderNumber": 5,
+          "correctContestants": [
+            "James"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "James",
+              "score": 1000
+            },
+            {
+              "player": "Andrew",
+              "score": 4000
+            },
+            {
+              "player": "Sam",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "FROM THE GREEK",
+          "value": 1000,
+          "clue": "From Greek for \"head\" & \"foot\", it's any of the class of mollusks that includes the squid & octopus",
+          "answer": "cephalopod",
+          "isDailyDouble": false,
+          "orderNumber": 6,
+          "correctContestants": [
+            "James"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "James",
+              "score": 2000
+            },
+            {
+              "player": "Andrew",
+              "score": 4000
+            },
+            {
+              "player": "Sam",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "FROM THE GREEK",
+          "value": 800,
+          "clue": "From the Greek for \"to whirl\", it's another name for an equilateral parallelogram",
+          "answer": "rhombus",
+          "isDailyDouble": false,
+          "orderNumber": 7,
+          "correctContestants": [
+            "Andrew"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "James",
+              "score": 2000
+            },
+            {
+              "player": "Andrew",
+              "score": 4800
+            },
+            {
+              "player": "Sam",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "MY MISSED CAREER, SUBSTITUTE TEACHER",
+          "value": 800,
+          "clue": "I love A.P. bio!  Let's talk pancreas!  An adult one has a million of these, named for the German doctor who noted them in 1869",
+          "answer": "islets of Langerhans",
+          "isDailyDouble": false,
+          "orderNumber": 8,
+          "correctContestants": [
+            "James"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "James",
+              "score": 2800
+            },
+            {
+              "player": "Andrew",
+              "score": 4800
+            },
+            {
+              "player": "Sam",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "MY MISSED CAREER, SUBSTITUTE TEACHER",
+          "value": 600,
+          "clue": "In P.E. I'll make you multi-sport stars like this decathlete who won a 1960 duel of UCLA Bruins to take Olympic gold",
+          "answer": "Rafer Johnson",
+          "isDailyDouble": false,
+          "orderNumber": 9,
+          "correctContestants": [
+            "Sam"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "James",
+              "score": 2800
+            },
+            {
+              "player": "Andrew",
+              "score": 4800
+            },
+            {
+              "player": "Sam",
+              "score": 600
+            }
+          ]
+        },
+        {
+          "category": "GREAT SPORTS CALLS",
+          "value": 800,
+          "clue": "\"I don't believe what I just saw\" & \"We'll see you tomorrow night\" are among the many calls of this legend & dad of a legend",
+          "answer": "Jack Buck",
+          "isDailyDouble": false,
+          "orderNumber": 10,
+          "correctContestants": [
+            "James"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "James",
+              "score": 3600
+            },
+            {
+              "player": "Andrew",
+              "score": 4800
+            },
+            {
+              "player": "Sam",
+              "score": 600
+            }
+          ]
+        },
+        {
+          "category": "GREAT SPORTS CALLS",
+          "value": 600,
+          "clue": "Al Michaels: \"It is caught by Dyson.  Can he get in?  No, he cannot.  Mike Jones made the tackle &\" they \"have won the Super Bowl!\"",
+          "answer": "the Rams",
+          "isDailyDouble": false,
+          "orderNumber": 11,
+          "correctContestants": [
+            "James"
+          ],
+          "incorrectContestants": [
+            "Andrew"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "James",
+              "score": 4200
+            },
+            {
+              "player": "Andrew",
+              "score": 4200
+            },
+            {
+              "player": "Sam",
+              "score": 600
+            }
+          ]
+        },
+        {
+          "category": "MUSICAL INSTRUMENTS & ACCESSORIES",
+          "value": 800,
+          "clue": "Auguste Mustel invented this keyboard instrument in 1886; its heavenly name evokes the sky",
+          "answer": "a celesta",
+          "isDailyDouble": false,
+          "orderNumber": 12,
+          "correctContestants": [
+            "Andrew"
+          ],
+          "incorrectContestants": [
+            "Sam"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "James",
+              "score": 4200
+            },
+            {
+              "player": "Andrew",
+              "score": 5000
+            },
+            {
+              "player": "Sam",
+              "score": -200
+            }
+          ]
+        },
+        {
+          "category": "THE FRENCH REVOLUTION",
+          "value": 1000,
+          "clue": "The biggest celebration of the Revolution was held on July 14, 1790, not on the Champs-Élysées, but on this Champ",
+          "answer": "Champ de Mars",
+          "isDailyDouble": false,
+          "orderNumber": 13,
+          "correctContestants": [
+            "James"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "James",
+              "score": 5200
+            },
+            {
+              "player": "Andrew",
+              "score": 5000
+            },
+            {
+              "player": "Sam",
+              "score": -200
+            }
+          ]
+        },
+        {
+          "category": "THE FRENCH REVOLUTION",
+          "value": 800,
+          "clue": "Locked out of a meeting hall at Versailles in 1789, members of the Third Estate took their famous oath at this location there",
+          "answer": "a tennis court",
+          "isDailyDouble": false,
+          "orderNumber": 14,
+          "correctContestants": [
+            "Andrew"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "James",
+              "score": 5200
+            },
+            {
+              "player": "Andrew",
+              "score": 5800
+            },
+            {
+              "player": "Sam",
+              "score": -200
+            }
+          ]
+        },
+        {
+          "category": "THE FRENCH REVOLUTION",
+          "value": 600,
+          "clue": "On the eve of the revolution, Marie-Antoinette was implicated in \"the Affair of\" this item & reviled as deceitful & corrupt",
+          "answer": "the Necklace",
+          "isDailyDouble": false,
+          "orderNumber": 15,
+          "correctContestants": [
+            "James"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "James",
+              "score": 5800
+            },
+            {
+              "player": "Andrew",
+              "score": 5800
+            },
+            {
+              "player": "Sam",
+              "score": -200
+            }
+          ]
+        },
+        {
+          "category": "WHAT A LITERARY CHARACTER!",
+          "value": 600,
+          "clue": "Walter Scott wrote of him, \"conspicuous by his long gun, waving tartans, and the single plume\" of \"the Highland gentleman\"",
+          "answer": "Rob Roy",
+          "isDailyDouble": false,
+          "orderNumber": 16,
+          "correctContestants": [
+            "Sam"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "James",
+              "score": 5800
+            },
+            {
+              "player": "Andrew",
+              "score": 5800
+            },
+            {
+              "player": "Sam",
+              "score": 400
+            }
+          ]
+        },
+        {
+          "category": "MUSICAL INSTRUMENTS & ACCESSORIES",
+          "value": 600,
+          "clue": "String players apply this sticky stuff to their bows to create friction, allowing the bows to grip the strings & make them vibrate more clearly",
+          "answer": "rosin",
+          "isDailyDouble": false,
+          "orderNumber": 17,
+          "correctContestants": [
+            "Sam"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "James",
+              "score": 5800
+            },
+            {
+              "player": "Andrew",
+              "score": 5800
+            },
+            {
+              "player": "Sam",
+              "score": 1000
+            }
+          ]
+        },
+        {
+          "category": "MUSICAL INSTRUMENTS & ACCESSORIES",
+          "value": 400,
+          "clue": "The doo-hickey seen here is one of these for a cello; it limits the cello's resonance slightly",
+          "answer": "a mute",
+          "isDailyDouble": false,
+          "orderNumber": 18,
+          "correctContestants": [
+            "Andrew"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "James",
+              "score": 5800
+            },
+            {
+              "player": "Andrew",
+              "score": 6200
+            },
+            {
+              "player": "Sam",
+              "score": 1000
+            }
+          ]
+        },
+        {
+          "category": "FROM THE GREEK",
+          "value": 600,
+          "clue": "This stage in the development of a butterfly is from the Greek for \"gold\"",
+          "answer": "a chrysalis",
+          "isDailyDouble": false,
+          "orderNumber": 19,
+          "correctContestants": [
+            "James"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "James",
+              "score": 6400
+            },
+            {
+              "player": "Andrew",
+              "score": 6200
+            },
+            {
+              "player": "Sam",
+              "score": 1000
+            }
+          ]
+        },
+        {
+          "category": "FROM THE GREEK",
+          "value": 400,
+          "clue": "From a Greek word for \"moving\", it's a type of energy as well as a type of art",
+          "answer": "kinetic",
+          "isDailyDouble": false,
+          "orderNumber": 20,
+          "correctContestants": [
+            "Sam"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "James",
+              "score": 6400
+            },
+            {
+              "player": "Andrew",
+              "score": 6200
+            },
+            {
+              "player": "Sam",
+              "score": 1400
+            }
+          ]
+        },
+        {
+          "category": "FROM THE GREEK",
+          "value": 200,
+          "clue": "Zendaya is very familiar with this word from Greek that means intense happiness & well-being",
+          "answer": "euphoria",
+          "isDailyDouble": false,
+          "orderNumber": 21,
+          "correctContestants": [
+            "Andrew"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "James",
+              "score": 6400
+            },
+            {
+              "player": "Andrew",
+              "score": 6400
+            },
+            {
+              "player": "Sam",
+              "score": 1400
+            }
+          ]
+        },
+        {
+          "category": "GREAT SPORTS CALLS",
+          "value": 400,
+          "clue": "Howard Cosell, 1973: \"Down goes\" this man! \"Down goes\" this man! \"Down goes\" this man!",
+          "answer": "Frazier",
+          "isDailyDouble": false,
+          "orderNumber": 22,
+          "correctContestants": [
+            "Sam"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "James",
+              "score": 6400
+            },
+            {
+              "player": "Andrew",
+              "score": 6400
+            },
+            {
+              "player": "Sam",
+              "score": 1800
+            }
+          ]
+        },
+        {
+          "category": "GREAT SPORTS CALLS",
+          "value": 200,
+          "clue": "Andrés Cantor said he almost fainted while making this call after a thrilling Landon Donovan score",
+          "answer": "GOOOAAAL!",
+          "isDailyDouble": false,
+          "orderNumber": 23,
+          "correctContestants": [
+            "Sam"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "James",
+              "score": 6400
+            },
+            {
+              "player": "Andrew",
+              "score": 6400
+            },
+            {
+              "player": "Sam",
+              "score": 2000
+            }
+          ]
+        },
+        {
+          "category": "MUSICAL INSTRUMENTS & ACCESSORIES",
+          "value": 200,
+          "clue": "Despite the rumors, David Mamet said he doesn't actually use this musical device to mark time, but does count syllables",
+          "answer": "metronome",
+          "isDailyDouble": false,
+          "orderNumber": 24,
+          "correctContestants": [
+            "Sam"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "James",
+              "score": 6400
+            },
+            {
+              "player": "Andrew",
+              "score": 6400
+            },
+            {
+              "player": "Sam",
+              "score": 2200
+            }
+          ]
+        },
+        {
+          "category": "MY MISSED CAREER, SUBSTITUTE TEACHER",
+          "value": 400,
+          "clue": "Let's bring American history class to life!  Take a look at this Revolutionary group pouring tea down the throat of a Crown official",
+          "answer": "Sons of Liberty",
+          "isDailyDouble": false,
+          "orderNumber": 25,
+          "correctContestants": [
+            "James"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "James",
+              "score": 6800
+            },
+            {
+              "player": "Andrew",
+              "score": 6400
+            },
+            {
+              "player": "Sam",
+              "score": 2200
+            }
+          ]
+        },
+        {
+          "category": "MY MISSED CAREER, SUBSTITUTE TEACHER",
+          "value": 200,
+          "clue": "Let's take roll... A.A. Ron...?  Oh, just like this composer of 1957's \"Piano Fantasy\"",
+          "answer": "Copland",
+          "isDailyDouble": false,
+          "orderNumber": 26,
+          "correctContestants": [
+            "James"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "James",
+              "score": 7000
+            },
+            {
+              "player": "Andrew",
+              "score": 6400
+            },
+            {
+              "player": "Sam",
+              "score": 2200
+            }
+          ]
+        },
+        {
+          "category": "WHAT A LITERARY CHARACTER!",
+          "value": 400,
+          "clue": "It's the first name of Ian Fleming's Mr. Goldfinger",
+          "answer": "Auric",
+          "isDailyDouble": false,
+          "orderNumber": 27,
+          "correctContestants": [
+            "James"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "James",
+              "score": 7400
+            },
+            {
+              "player": "Andrew",
+              "score": 6400
+            },
+            {
+              "player": "Sam",
+              "score": 2200
+            }
+          ]
+        },
+        {
+          "category": "WHAT A LITERARY CHARACTER!",
+          "value": 200,
+          "clue": "\"Could you expect me to rejoice in the inferiority of your connections?\" is a zinger from this proud Jane Austen guy",
+          "answer": "Darcy",
+          "isDailyDouble": false,
+          "orderNumber": 28,
+          "correctContestants": [
+            "James"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "James",
+              "score": 7600
+            },
+            {
+              "player": "Andrew",
+              "score": 6400
+            },
+            {
+              "player": "Sam",
+              "score": 2200
+            }
+          ]
+        },
+        {
+          "category": "THE FRENCH REVOLUTION",
+          "value": 400,
+          "clue": "New names were needed for these & poet Fabre d'Églantine came up with Frimaire, Germinal, Messidor & others",
+          "answer": "the months of the year",
+          "isDailyDouble": false,
+          "orderNumber": 29,
+          "correctContestants": [
+            "Sam"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "James",
+              "score": 7600
+            },
+            {
+              "player": "Andrew",
+              "score": 6400
+            },
+            {
+              "player": "Sam",
+              "score": 2600
+            }
+          ]
+        },
+        {
+          "category": "THE FRENCH REVOLUTION",
+          "value": 200,
+          "clue": "Tuneage of the revolutionary era included this song composed by an army captain in one night in 1792",
+          "answer": "\"The Marseillaise\"",
+          "isDailyDouble": false,
+          "orderNumber": 30,
+          "correctContestants": [
+            "Sam"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "James",
+              "score": 7600
+            },
+            {
+              "player": "Andrew",
+              "score": 6400
+            },
+            {
+              "player": "Sam",
+              "score": 2800
+            }
+          ]
+        }
+      ],
+      "firstBreakScores": [],
+      "endOfRoundScores": [
+        {
+          "player": "James",
+          "score": 7600
+        },
+        {
+          "player": "Andrew",
+          "score": 6400
+        },
+        {
+          "player": "Sam",
+          "score": 2800
+        }
+      ]
+    },
+    "doubleJeopardy": {
+      "categories": [
+        "3-WORD PLACE NAMES",
+        "WHATEVER FLOATS",
+        "ESSAYS",
+        "TV THERAPISTS",
+        "ARCHAEOLOGY",
+        "GET \"EM\"!"
+      ],
+      "clues": [
+        {
+          "category": "3-WORD PLACE NAMES",
+          "value": 1600,
+          "clue": "This spot northwest of Philly got its name from a tavern named for Frederick II",
+          "answer": "King of Prussia",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "James",
+              "score": 9200
+            },
+            {
+              "player": "Andrew",
+              "score": 6400
+            },
+            {
+              "player": "Sam",
+              "score": 2800
+            }
+          ]
+        },
+        {
+          "category": "3-WORD PLACE NAMES",
+          "value": 9200,
+          "clue": "A South American cidade & estado both go by this name",
+          "answer": "Rio de Janeiro",
+          "isDailyDouble": true,
+          "orderNumber": 2,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "James",
+              "score": 18400
+            },
+            {
+              "player": "Andrew",
+              "score": 6400
+            },
+            {
+              "player": "Sam",
+              "score": 2800
+            }
+          ]
+        },
+        {
+          "category": "ARCHAEOLOGY",
+          "value": 1600,
+          "clue": "This culture named for a New Mexico city was known for its leaf-shaped spear points used to hunt mammoths & other big game",
+          "answer": "the Clovis Culture",
+          "isDailyDouble": false,
+          "orderNumber": 3,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "James",
+              "score": 18400
+            },
+            {
+              "player": "Andrew",
+              "score": 6400
+            },
+            {
+              "player": "Sam",
+              "score": 2800
+            }
+          ]
+        },
+        {
+          "category": "ARCHAEOLOGY",
+          "value": 1200,
+          "clue": "From the Arabic for \"hill\", it's an artificial mound created by many generations building & rebuilding on the same spot",
+          "answer": "a tell",
+          "isDailyDouble": false,
+          "orderNumber": 4,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "James",
+              "score": 18400
+            },
+            {
+              "player": "Andrew",
+              "score": 6400
+            },
+            {
+              "player": "Sam",
+              "score": 2800
+            }
+          ]
+        },
+        {
+          "category": "ARCHAEOLOGY",
+          "value": 800,
+          "clue": "Wooden furniture & a loaf of bread in an oven have been found preserved in this city 10 miles northwest of Pompeii",
+          "answer": "Herculaneum",
+          "isDailyDouble": false,
+          "orderNumber": 5,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "James",
+              "score": 19200
+            },
+            {
+              "player": "Andrew",
+              "score": 6400
+            },
+            {
+              "player": "Sam",
+              "score": 2000
+            }
+          ]
+        },
+        {
+          "category": "ESSAYS",
+          "value": 1200,
+          "clue": "In \"Self-Reliance\" Emerson wrote that \"A foolish consistency is\" this \"of little minds\"",
+          "answer": "hobgoblin",
+          "isDailyDouble": false,
+          "orderNumber": 6,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "James",
+              "score": 20400
+            },
+            {
+              "player": "Andrew",
+              "score": 6400
+            },
+            {
+              "player": "Sam",
+              "score": 2000
+            }
+          ]
+        },
+        {
+          "category": "ESSAYS",
+          "value": 1600,
+          "clue": "In 1972 John McPhee compared Monopoly properties with a declining Atlantic City in his essay \"The Search for\" this property",
+          "answer": "Marvin Gardens",
+          "isDailyDouble": false,
+          "orderNumber": 7,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "James",
+              "score": 18800
+            },
+            {
+              "player": "Andrew",
+              "score": 8000
+            },
+            {
+              "player": "Sam",
+              "score": 2000
+            }
+          ]
+        },
+        {
+          "category": "ESSAYS",
+          "value": 800,
+          "clue": "Nora Ephron mentions ones that are loose, crepey, wrinkled & turkey gobbler in her essay \"I Feel Bad About My\" this",
+          "answer": "Neck",
+          "isDailyDouble": false,
+          "orderNumber": 8,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "James",
+              "score": 18800
+            },
+            {
+              "player": "Andrew",
+              "score": 8000
+            },
+            {
+              "player": "Sam",
+              "score": 2800
+            }
+          ]
+        },
+        {
+          "category": "3-WORD PLACE NAMES",
+          "value": 2000,
+          "clue": "This sun-dappled city of southern France is home to famed hot springs & the atelier of Paul Cézanne",
+          "answer": "Aix-en-Provence",
+          "isDailyDouble": false,
+          "orderNumber": 9,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "James",
+              "score": 18800
+            },
+            {
+              "player": "Andrew",
+              "score": 8000
+            },
+            {
+              "player": "Sam",
+              "score": 2800
+            }
+          ]
+        },
+        {
+          "category": "GET \"EM\"!",
+          "value": 2000,
+          "clue": "A body of water that juts into land, or a window recess shaped like one",
+          "answer": "an embayment",
+          "isDailyDouble": false,
+          "orderNumber": 10,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "James",
+              "score": 18800
+            },
+            {
+              "player": "Andrew",
+              "score": 8000
+            },
+            {
+              "player": "Sam",
+              "score": 2800
+            }
+          ]
+        },
+        {
+          "category": "GET \"EM\"!",
+          "value": 1600,
+          "clue": "A soothing substance for the skin",
+          "answer": "an emollient",
+          "isDailyDouble": false,
+          "orderNumber": 11,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "James",
+              "score": 18800
+            },
+            {
+              "player": "Andrew",
+              "score": 8000
+            },
+            {
+              "player": "Sam",
+              "score": 4400
+            }
+          ]
+        },
+        {
+          "category": "GET \"EM\"!",
+          "value": 1200,
+          "clue": "Based on observation",
+          "answer": "empirical",
+          "isDailyDouble": false,
+          "orderNumber": 12,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "James",
+              "score": 18800
+            },
+            {
+              "player": "Andrew",
+              "score": 8000
+            },
+            {
+              "player": "Sam",
+              "score": 5600
+            }
+          ]
+        },
+        {
+          "category": "ARCHAEOLOGY",
+          "value": 2000,
+          "clue": "Named for a mythic place of darkness, this ship commanded by Sir John Franklin has been yielding its secrets from Arctic waters",
+          "answer": "the HMS Erebus",
+          "isDailyDouble": false,
+          "orderNumber": 13,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "James",
+              "score": 18800
+            },
+            {
+              "player": "Andrew",
+              "score": 8000
+            },
+            {
+              "player": "Sam",
+              "score": 5600
+            }
+          ]
+        },
+        {
+          "category": "GET \"EM\"!",
+          "value": 800,
+          "clue": "To correct by altering a text or manuscript",
+          "answer": "emend",
+          "isDailyDouble": false,
+          "orderNumber": 14,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "James",
+              "score": 19600
+            },
+            {
+              "player": "Andrew",
+              "score": 8000
+            },
+            {
+              "player": "Sam",
+              "score": 5600
+            }
+          ]
+        },
+        {
+          "category": "WHATEVER FLOATS",
+          "value": 1200,
+          "clue": "A company's stock float is calculated by subtracting restricted stock from these, abbreviated O/S",
+          "answer": "outstanding shares",
+          "isDailyDouble": false,
+          "orderNumber": 15,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "James",
+              "score": 20800
+            },
+            {
+              "player": "Andrew",
+              "score": 8000
+            },
+            {
+              "player": "Sam",
+              "score": 5600
+            }
+          ]
+        },
+        {
+          "category": "WHATEVER FLOATS",
+          "value": 1600,
+          "clue": "The Mayo Clinic's page on eye floaters reveals that they're commonly caused by clumps of this fibrous protein",
+          "answer": "collagen",
+          "isDailyDouble": false,
+          "orderNumber": 16,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "James",
+              "score": 20800
+            },
+            {
+              "player": "Andrew",
+              "score": 8000
+            },
+            {
+              "player": "Sam",
+              "score": 4000
+            }
+          ]
+        },
+        {
+          "category": "WHATEVER FLOATS",
+          "value": 800,
+          "clue": "In a Police song, Sting floats one of these; later, \"a hundred billion\" of them show up on his shore",
+          "answer": "a message in a bottle",
+          "isDailyDouble": false,
+          "orderNumber": 17,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "James",
+              "score": 21600
+            },
+            {
+              "player": "Andrew",
+              "score": 8000
+            },
+            {
+              "player": "Sam",
+              "score": 4000
+            }
+          ]
+        },
+        {
+          "category": "WHATEVER FLOATS",
+          "value": 2000,
+          "clue": "This formidable New Orleans krewe that shares its name with a Keats poem built an over 300-foot-long Mardi Gras float",
+          "answer": "Endymion",
+          "isDailyDouble": false,
+          "orderNumber": 18,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "James",
+              "score": 21600
+            },
+            {
+              "player": "Andrew",
+              "score": 8000
+            },
+            {
+              "player": "Sam",
+              "score": 6000
+            }
+          ]
+        },
+        {
+          "category": "TV THERAPISTS",
+          "value": 1200,
+          "clue": "Seen here, Marcia Wallace played feisty receptionist Carol to the psychologist on this show",
+          "answer": "The Bob Newhart Show",
+          "isDailyDouble": false,
+          "orderNumber": 19,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "James",
+              "score": 21600
+            },
+            {
+              "player": "Andrew",
+              "score": 8000
+            },
+            {
+              "player": "Sam",
+              "score": 7200
+            }
+          ]
+        },
+        {
+          "category": "TV THERAPISTS",
+          "value": 1600,
+          "clue": "Dr. Linda Martin, therapist for this title guy, worked on a book about him called \"Sympathy for the Devil\"",
+          "answer": "Lucifer",
+          "isDailyDouble": false,
+          "orderNumber": 20,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "James",
+              "score": 23200
+            },
+            {
+              "player": "Andrew",
+              "score": 6400
+            },
+            {
+              "player": "Sam",
+              "score": 7200
+            }
+          ]
+        },
+        {
+          "category": "ESSAYS",
+          "value": 5,
+          "clue": "This Italian's experiments with dead frogs led him to write an essay on the \"Effect of Electricity in Muscular Motion\"",
+          "answer": "Galvani",
+          "isDailyDouble": true,
+          "orderNumber": 21,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "James",
+              "score": 23205
+            },
+            {
+              "player": "Andrew",
+              "score": 6400
+            },
+            {
+              "player": "Sam",
+              "score": 7200
+            }
+          ]
+        },
+        {
+          "category": "TV THERAPISTS",
+          "value": 2000,
+          "clue": "This onetime shrink played by David Cross on \"Arrested Development\" suffers from never-nude syndrome",
+          "answer": "Tobias (Fünke)",
+          "isDailyDouble": false,
+          "orderNumber": 22,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "James",
+              "score": 23205
+            },
+            {
+              "player": "Andrew",
+              "score": 8400
+            },
+            {
+              "player": "Sam",
+              "score": 7200
+            }
+          ]
+        },
+        {
+          "category": "3-WORD PLACE NAMES",
+          "value": 800,
+          "clue": "Pétionville is a wealthy suburb of this Caribbean capital",
+          "answer": "Port-au-Prince",
+          "isDailyDouble": false,
+          "orderNumber": 23,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "James",
+              "score": 23205
+            },
+            {
+              "player": "Andrew",
+              "score": 8400
+            },
+            {
+              "player": "Sam",
+              "score": 8000
+            }
+          ]
+        },
+        {
+          "category": "3-WORD PLACE NAMES",
+          "value": 400,
+          "clue": "April 23 is an annual celebration of a local hero in this Warwickshire town--& by the way, that middle word has 4 letters",
+          "answer": "Stratford-upon-Avon",
+          "isDailyDouble": false,
+          "orderNumber": 24,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "James",
+              "score": 23205
+            },
+            {
+              "player": "Andrew",
+              "score": 8400
+            },
+            {
+              "player": "Sam",
+              "score": 8000
+            }
+          ]
+        },
+        {
+          "category": "TV THERAPISTS",
+          "value": 800,
+          "clue": "Oscar-nominated for \"Goodfellas\", she would later receive 4 Emmy nominations for her role as a TV therapist",
+          "answer": "Lorraine Bracco (on The Sopranos)",
+          "isDailyDouble": false,
+          "orderNumber": 25,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "James",
+              "score": 24005
+            },
+            {
+              "player": "Andrew",
+              "score": 8400
+            },
+            {
+              "player": "Sam",
+              "score": 8000
+            }
+          ]
+        },
+        {
+          "category": "TV THERAPISTS",
+          "value": 400,
+          "clue": "For his final sign-off to his radio audience, Frasier Crane said, \"Goodnight\", this city",
+          "answer": "Seattle",
+          "isDailyDouble": false,
+          "orderNumber": 26,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "James",
+              "score": 24405
+            },
+            {
+              "player": "Andrew",
+              "score": 8400
+            },
+            {
+              "player": "Sam",
+              "score": 8000
+            }
+          ]
+        },
+        {
+          "category": "ESSAYS",
+          "value": 400,
+          "clue": "A book of essays about the \"Black Panther\" film & its cultural impact is called \"Why\" this fictional country \"Matters\"",
+          "answer": "Wakanda",
+          "isDailyDouble": false,
+          "orderNumber": 27,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "James",
+              "score": 24405
+            },
+            {
+              "player": "Andrew",
+              "score": 8800
+            },
+            {
+              "player": "Sam",
+              "score": 8000
+            }
+          ]
+        },
+        {
+          "category": "WHATEVER FLOATS",
+          "value": 400,
+          "clue": "French gives us this 7-letter word for a flat-bottomed boat; it's also a type of floating bridge composed of a group of boats",
+          "answer": "a pontoon",
+          "isDailyDouble": false,
+          "orderNumber": 28,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "James",
+              "score": 24805
+            },
+            {
+              "player": "Andrew",
+              "score": 8800
+            },
+            {
+              "player": "Sam",
+              "score": 8000
+            }
+          ]
+        },
+        {
+          "category": "GET \"EM\"!",
+          "value": 400,
+          "clue": "Extremely thin, perhaps as the result of malnutrition",
+          "answer": "emaciated",
+          "isDailyDouble": false,
+          "orderNumber": 29,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "James",
+              "score": 24805
+            },
+            {
+              "player": "Andrew",
+              "score": 8800
+            },
+            {
+              "player": "Sam",
+              "score": 8400
+            }
+          ]
+        },
+        {
+          "category": "ARCHAEOLOGY",
+          "value": 400,
+          "clue": "The Hittite Empire may have collapsed around 1200 B.C. due to a severe drought as indicated in the width of these from juniper trees",
+          "answer": "tree rings",
+          "isDailyDouble": false,
+          "orderNumber": 30,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "James",
+              "score": 24805
+            },
+            {
+              "player": "Andrew",
+              "score": 8800
+            },
+            {
+              "player": "Sam",
+              "score": 8800
+            }
+          ]
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "James",
+          "score": 24805
+        },
+        {
+          "player": "Andrew",
+          "score": 8800
+        },
+        {
+          "player": "Sam",
+          "score": 8800
+        }
+      ]
+    },
+    "finalJeopardy": {
+      "category": "19th CENTURY FIRST LADIES",
+      "clue": "After her husband left office, a minister wrote the White House was \"purer because\" this first lady \"has been its mistress\"",
+      "answer": "Lucy Hayes (\"Lemonade Lucy\")",
+      "responses": [
+        {
+          "contestant": "Andrew",
+          "response": "Who is Lucy Hayes?",
+          "isCorrect": true,
+          "isIncorrect": false,
+          "value": 0,
+          "finalScore": 8800
+        },
+        {
+          "contestant": "Sam",
+          "response": "Who is Grant?",
+          "isCorrect": false,
+          "isIncorrect": true,
+          "value": 8800,
+          "finalScore": 0
+        },
+        {
+          "contestant": "James",
+          "response": "If a Ken falls in the forest and no one's around, does it make a dad joke?",
+          "isCorrect": false,
+          "isIncorrect": true,
+          "value": 806,
+          "finalScore": 23999
+        }
+      ]
+    }
+  },
+  "finalScores": [
+    {
+      "player": "James",
+      "score": "23,999"
+    },
+    {
+      "player": "Andrew",
+      "score": "8,800"
+    },
+    {
+      "player": "Sam",
+      "score": "0"
+    }
+  ],
+  "coryatScores": [
+    {
+      "player": "James",
+      "score": 18800
+    },
+    {
+      "player": "Andrew",
+      "score": 7600
+    },
+    {
+      "player": "Sam",
+      "score": 8800
+    }
+  ]
+}

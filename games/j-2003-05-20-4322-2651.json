@@ -1,0 +1,1699 @@
+{
+  "gameId": 2651,
+  "showNumber": "4322",
+  "title": "Show #4322 - Tuesday, May 20, 2003",
+  "date": "2003-05-20",
+  "comments": "",
+  "contestants": [
+    "Kay",
+    "Doug",
+    "Kathy"
+  ],
+  "rounds": {
+    "jeopardy": {
+      "categories": [
+        "CHARLES DICKENS",
+        "A CHRISTMAS CAROL",
+        "THE OLD CURIOSITY SHOP",
+        "A TALE OF TWO CITIES",
+        "THE CRICKET ON THE HEARTH",
+        "\"GREAT\" EXPECTATIONS"
+      ],
+      "clues": [
+        {
+          "category": "CHARLES DICKENS",
+          "value": 200,
+          "clue": "Dickens came to fame at age 24 with his first novel, about this club's \"papers\"",
+          "answer": "Pickwick Club",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [
+            "Kay"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Kay",
+              "score": 200
+            },
+            {
+              "player": "Doug",
+              "score": 0
+            },
+            {
+              "player": "Kathy",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "CHARLES DICKENS",
+          "value": 400,
+          "clue": "Dickens' public readings of Sikes' murder of Nancy, an episode from this novel, made women in the audience swoon",
+          "answer": "Oliver Twist",
+          "isDailyDouble": false,
+          "orderNumber": 2,
+          "correctContestants": [
+            "Kathy"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Kay",
+              "score": 200
+            },
+            {
+              "player": "Doug",
+              "score": 0
+            },
+            {
+              "player": "Kathy",
+              "score": 400
+            }
+          ]
+        },
+        {
+          "category": "CHARLES DICKENS",
+          "value": 600,
+          "clue": "This novel's Mr. Micawber was modeled on Dickens' father",
+          "answer": "David Copperfield",
+          "isDailyDouble": false,
+          "orderNumber": 3,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Kay",
+              "score": 200
+            },
+            {
+              "player": "Doug",
+              "score": 0
+            },
+            {
+              "player": "Kathy",
+              "score": 400
+            }
+          ]
+        },
+        {
+          "category": "CHARLES DICKENS",
+          "value": 800,
+          "clue": "Wilkie Collins called this book \"Dickens' last laboured effort, the melancholy work of a worn-out brain\"",
+          "answer": "\"The Mystery of Edwin Drood\"",
+          "isDailyDouble": false,
+          "orderNumber": 4,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Kay"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Kay",
+              "score": -600
+            },
+            {
+              "player": "Doug",
+              "score": 0
+            },
+            {
+              "player": "Kathy",
+              "score": 400
+            }
+          ]
+        },
+        {
+          "category": "CHARLES DICKENS",
+          "value": 1000,
+          "clue": "In 1836 Dickens published his stories & essays from magazines & newspapers in the book \"Sketches by\" him",
+          "answer": "Boz",
+          "isDailyDouble": false,
+          "orderNumber": 5,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Kay",
+              "score": -600
+            },
+            {
+              "player": "Doug",
+              "score": 0
+            },
+            {
+              "player": "Kathy",
+              "score": 400
+            }
+          ]
+        },
+        {
+          "category": "\"GREAT\" EXPECTATIONS",
+          "value": 200,
+          "clue": "In the newspaper, Marmaduke is a funny one",
+          "answer": "Great Dane",
+          "isDailyDouble": false,
+          "orderNumber": 6,
+          "correctContestants": [
+            "Doug"
+          ],
+          "incorrectContestants": [
+            "Kathy"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Kay",
+              "score": -600
+            },
+            {
+              "player": "Doug",
+              "score": 200
+            },
+            {
+              "player": "Kathy",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "\"GREAT\" EXPECTATIONS",
+          "value": 400,
+          "clue": "Clingmans Dome is the highest peak in this Appalachian range",
+          "answer": "Great Smoky Mountains",
+          "isDailyDouble": false,
+          "orderNumber": 7,
+          "correctContestants": [
+            "Kathy"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Kay",
+              "score": -600
+            },
+            {
+              "player": "Doug",
+              "score": 200
+            },
+            {
+              "player": "Kathy",
+              "score": 600
+            }
+          ]
+        },
+        {
+          "category": "\"GREAT\" EXPECTATIONS",
+          "value": 600,
+          "clue": "As it's the nickname of Greg Norman, you're gonna need a bigger -- golf cart",
+          "answer": "\"Great White Shark\"",
+          "isDailyDouble": false,
+          "orderNumber": 8,
+          "correctContestants": [
+            "Kay"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Kay",
+              "score": 0
+            },
+            {
+              "player": "Doug",
+              "score": 200
+            },
+            {
+              "player": "Kathy",
+              "score": 600
+            }
+          ]
+        },
+        {
+          "category": "\"GREAT\" EXPECTATIONS",
+          "value": 800,
+          "clue": "A Montana city is named for these on the Missouri, which Meriwether Lewis called the grandest sight he'd ever beheld",
+          "answer": "Great Falls",
+          "isDailyDouble": false,
+          "orderNumber": 9,
+          "correctContestants": [
+            "Kay"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Kay",
+              "score": 800
+            },
+            {
+              "player": "Doug",
+              "score": 200
+            },
+            {
+              "player": "Kathy",
+              "score": 600
+            }
+          ]
+        },
+        {
+          "category": "\"GREAT\" EXPECTATIONS",
+          "value": 1000,
+          "clue": "Now extinct, we know what these look like from ones mounted in museums & drawings like this by Audubon",
+          "answer": "great auk",
+          "isDailyDouble": false,
+          "orderNumber": 10,
+          "correctContestants": [
+            "Kathy"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Kay",
+              "score": 800
+            },
+            {
+              "player": "Doug",
+              "score": 200
+            },
+            {
+              "player": "Kathy",
+              "score": 1600
+            }
+          ]
+        },
+        {
+          "category": "A CHRISTMAS CAROL",
+          "value": 200,
+          "clue": "\"Round yon virgin mother and child, holy infant so tender and mild\"",
+          "answer": "\"Silent Night\"",
+          "isDailyDouble": false,
+          "orderNumber": 11,
+          "correctContestants": [
+            "Doug"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Kay",
+              "score": 800
+            },
+            {
+              "player": "Doug",
+              "score": 400
+            },
+            {
+              "player": "Kathy",
+              "score": 1600
+            }
+          ]
+        },
+        {
+          "category": "A CHRISTMAS CAROL",
+          "value": 400,
+          "clue": "\"Fa la la la la la la la la\"",
+          "answer": "\"Deck the Halls\"",
+          "isDailyDouble": false,
+          "orderNumber": 12,
+          "correctContestants": [
+            "Kay"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Kay",
+              "score": 1200
+            },
+            {
+              "player": "Doug",
+              "score": 400
+            },
+            {
+              "player": "Kathy",
+              "score": 1600
+            }
+          ]
+        },
+        {
+          "category": "A CHRISTMAS CAROL",
+          "value": 600,
+          "clue": "\"A partridge in a pear tree\"",
+          "answer": "\"The Twelve Days of Christmas\"",
+          "isDailyDouble": false,
+          "orderNumber": 13,
+          "correctContestants": [
+            "Kay"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Kay",
+              "score": 1800
+            },
+            {
+              "player": "Doug",
+              "score": 400
+            },
+            {
+              "player": "Kathy",
+              "score": 1600
+            }
+          ]
+        },
+        {
+          "category": "A CHRISTMAS CAROL",
+          "value": 800,
+          "clue": "\"Good tidings we bring to you and your kin, we wish you good tidings for Christmas and a Happy New Year\"",
+          "answer": "\"We Wish You A Merry Christmas\"",
+          "isDailyDouble": false,
+          "orderNumber": 14,
+          "correctContestants": [
+            "Doug"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Kay",
+              "score": 1800
+            },
+            {
+              "player": "Doug",
+              "score": 1200
+            },
+            {
+              "player": "Kathy",
+              "score": 1600
+            }
+          ]
+        },
+        {
+          "category": "A CHRISTMAS CAROL",
+          "value": 1000,
+          "clue": "\"And heav'n and nature sing, and heav'n and nature sing, and heav'n and heav'n and nature sing\"",
+          "answer": "\"Joy to the World\"",
+          "isDailyDouble": false,
+          "orderNumber": 15,
+          "correctContestants": [
+            "Doug"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Kay",
+              "score": 1800
+            },
+            {
+              "player": "Doug",
+              "score": 2200
+            },
+            {
+              "player": "Kathy",
+              "score": 1600
+            }
+          ]
+        },
+        {
+          "category": "THE OLD CURIOSITY SHOP",
+          "value": 200,
+          "clue": "The shop owner may not know if the tooth on that necklace comes from the tiger or hammerhead type of this creature",
+          "answer": "shark",
+          "isDailyDouble": false,
+          "orderNumber": 16,
+          "correctContestants": [
+            "Doug"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Kay",
+              "score": 1800
+            },
+            {
+              "player": "Doug",
+              "score": 2400
+            },
+            {
+              "player": "Kathy",
+              "score": 1600
+            }
+          ]
+        },
+        {
+          "category": "THE OLD CURIOSITY SHOP",
+          "value": 1600,
+          "clue": "You can get a French language edition of this game with properties like Place du Parc & Promenade",
+          "answer": "Monopoly",
+          "isDailyDouble": true,
+          "orderNumber": 17,
+          "correctContestants": [
+            "Doug"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Kay",
+              "score": 1800
+            },
+            {
+              "player": "Doug",
+              "score": 4000
+            },
+            {
+              "player": "Kathy",
+              "score": 1600
+            }
+          ]
+        },
+        {
+          "category": "THE OLD CURIOSITY SHOP",
+          "value": 600,
+          "clue": "You might come upon an old set of pistols designed for these affairs of honor",
+          "answer": "duels",
+          "isDailyDouble": false,
+          "orderNumber": 18,
+          "correctContestants": [
+            "Kay"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Kay",
+              "score": 2400
+            },
+            {
+              "player": "Doug",
+              "score": 4000
+            },
+            {
+              "player": "Kathy",
+              "score": 1600
+            }
+          ]
+        },
+        {
+          "category": "THE OLD CURIOSITY SHOP",
+          "value": 800,
+          "clue": "Don't miss the chance to have a drink with him, the name of the drinking vessel seen here",
+          "answer": "Toby mug",
+          "isDailyDouble": false,
+          "orderNumber": 19,
+          "correctContestants": [
+            "Kathy"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Kay",
+              "score": 2400
+            },
+            {
+              "player": "Doug",
+              "score": 4000
+            },
+            {
+              "player": "Kathy",
+              "score": 2400
+            }
+          ]
+        },
+        {
+          "category": "THE OLD CURIOSITY SHOP",
+          "value": 1000,
+          "clue": "You might just find one of these Fisher-Price cameras used to make films like the one seen here",
+          "answer": "PXL",
+          "isDailyDouble": false,
+          "orderNumber": 20,
+          "correctContestants": [
+            "Doug"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Kay",
+              "score": 2400
+            },
+            {
+              "player": "Doug",
+              "score": 5000
+            },
+            {
+              "player": "Kathy",
+              "score": 2400
+            }
+          ]
+        },
+        {
+          "category": "A TALE OF TWO CITIES",
+          "value": 200,
+          "clue": "In Genesis 19 these two are known as \"The Cities of the Plain\"",
+          "answer": "Sodom & Gomorrah",
+          "isDailyDouble": false,
+          "orderNumber": 21,
+          "correctContestants": [
+            "Kay"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Kay",
+              "score": 2600
+            },
+            {
+              "player": "Doug",
+              "score": 5000
+            },
+            {
+              "player": "Kathy",
+              "score": 2400
+            }
+          ]
+        },
+        {
+          "category": "A TALE OF TWO CITIES",
+          "value": 400,
+          "clue": "The two California cities that are home to professional sports teams known as the Kings",
+          "answer": "Los Angeles & Sacramento",
+          "isDailyDouble": false,
+          "orderNumber": 22,
+          "correctContestants": [
+            "Doug"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Kay",
+              "score": 2600
+            },
+            {
+              "player": "Doug",
+              "score": 5400
+            },
+            {
+              "player": "Kathy",
+              "score": 2400
+            }
+          ]
+        },
+        {
+          "category": "A TALE OF TWO CITIES",
+          "value": 600,
+          "clue": "The two most populous cities in the largest country on the Iberian Peninsula",
+          "answer": "Barcelona & Madrid",
+          "isDailyDouble": false,
+          "orderNumber": 23,
+          "correctContestants": [
+            "Kay"
+          ],
+          "incorrectContestants": [
+            "Doug"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Kay",
+              "score": 3200
+            },
+            {
+              "player": "Doug",
+              "score": 4800
+            },
+            {
+              "player": "Kathy",
+              "score": 2400
+            }
+          ]
+        },
+        {
+          "category": "A TALE OF TWO CITIES",
+          "value": 800,
+          "clue": "The two famous former names of Istanbul",
+          "answer": "Byzantium & Constantinople",
+          "isDailyDouble": false,
+          "orderNumber": 24,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Kay",
+              "score": 3200
+            },
+            {
+              "player": "Doug",
+              "score": 4800
+            },
+            {
+              "player": "Kathy",
+              "score": 2400
+            }
+          ]
+        },
+        {
+          "category": "A TALE OF TWO CITIES",
+          "value": 1000,
+          "clue": "Two of South Africa's 3 capital cities",
+          "answer": "Bloemfontein, Cape Town &/or Pretoria",
+          "isDailyDouble": false,
+          "orderNumber": 25,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Doug"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Kay",
+              "score": 3200
+            },
+            {
+              "player": "Doug",
+              "score": 3800
+            },
+            {
+              "player": "Kathy",
+              "score": 2400
+            }
+          ]
+        },
+        {
+          "category": "THE CRICKET ON THE HEARTH",
+          "value": 200,
+          "clue": "A cricket's receptors for this are highly sensitive areas on its front legs",
+          "answer": "hearing",
+          "isDailyDouble": false,
+          "orderNumber": 26,
+          "correctContestants": [
+            "Kathy"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Kay",
+              "score": 3200
+            },
+            {
+              "player": "Doug",
+              "score": 3800
+            },
+            {
+              "player": "Kathy",
+              "score": 2600
+            }
+          ]
+        },
+        {
+          "category": "THE CRICKET ON THE HEARTH",
+          "value": 400,
+          "clue": "Crickets chirp by rubbing these body parts together",
+          "answer": "wings",
+          "isDailyDouble": false,
+          "orderNumber": 27,
+          "correctContestants": [
+            "Kathy"
+          ],
+          "incorrectContestants": [
+            "Kay"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Kay",
+              "score": 2800
+            },
+            {
+              "player": "Doug",
+              "score": 3800
+            },
+            {
+              "player": "Kathy",
+              "score": 3000
+            }
+          ]
+        },
+        {
+          "category": "THE CRICKET ON THE HEARTH",
+          "value": 600,
+          "clue": "Famous in Utah, this type of cricket that's actually a katydid bears the name of a religion",
+          "answer": "Mormon cricket",
+          "isDailyDouble": false,
+          "orderNumber": 28,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Kay",
+              "score": 2800
+            },
+            {
+              "player": "Doug",
+              "score": 3800
+            },
+            {
+              "player": "Kathy",
+              "score": 3000
+            }
+          ]
+        },
+        {
+          "category": "THE CRICKET ON THE HEARTH",
+          "value": 800,
+          "clue": "This cricket that bears the name of a burrowing mammal can be a serious agricultural pest",
+          "answer": "mole cricket",
+          "isDailyDouble": false,
+          "orderNumber": 29,
+          "correctContestants": [
+            "Kathy"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Kay",
+              "score": 2800
+            },
+            {
+              "player": "Doug",
+              "score": 3800
+            },
+            {
+              "player": "Kathy",
+              "score": 3800
+            }
+          ]
+        },
+        {
+          "category": "THE CRICKET ON THE HEARTH",
+          "value": 1000,
+          "clue": "This can be estimated by adding 40 to the number of a snowy tree cricket's chirps in a 15-second period",
+          "answer": "temperature",
+          "isDailyDouble": false,
+          "orderNumber": 30,
+          "correctContestants": [
+            "Kathy"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Kay",
+              "score": 2800
+            },
+            {
+              "player": "Doug",
+              "score": 3800
+            },
+            {
+              "player": "Kathy",
+              "score": 4800
+            }
+          ]
+        }
+      ],
+      "firstBreakScores": [
+        {
+          "player": "Kay",
+          "score": 1800
+        },
+        {
+          "player": "Doug",
+          "score": 2200
+        },
+        {
+          "player": "Kathy",
+          "score": 1600
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "Kay",
+          "score": 2800
+        },
+        {
+          "player": "Doug",
+          "score": 3800
+        },
+        {
+          "player": "Kathy",
+          "score": 4800
+        }
+      ]
+    },
+    "doubleJeopardy": {
+      "categories": [
+        "AMERICAN REVOLUTIONARIES",
+        "QUOTABLE MOVIES",
+        "ON THE GO",
+        "YOU'RE DARN TOOTIN'!",
+        "COMPUTER GENIUSES",
+        "SECONDARY MEANINGS"
+      ],
+      "clues": [
+        {
+          "category": "SECONDARY MEANINGS",
+          "value": 400,
+          "clue": "It can mean a royal family line as well as a dwelling structure",
+          "answer": "house",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Kay",
+              "score": 2800
+            },
+            {
+              "player": "Doug",
+              "score": 4200
+            },
+            {
+              "player": "Kathy",
+              "score": 4800
+            }
+          ]
+        },
+        {
+          "category": "QUOTABLE MOVIES",
+          "value": 400,
+          "clue": "1977:\"May the force be with you\"",
+          "answer": "Star Wars",
+          "isDailyDouble": false,
+          "orderNumber": 2,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Kay",
+              "score": 2800
+            },
+            {
+              "player": "Doug",
+              "score": 4200
+            },
+            {
+              "player": "Kathy",
+              "score": 5200
+            }
+          ]
+        },
+        {
+          "category": "QUOTABLE MOVIES",
+          "value": 800,
+          "clue": "2001:\"A wizard is never late... he arrives precisely when he means to\"",
+          "answer": "Lord of the Rings",
+          "isDailyDouble": false,
+          "orderNumber": 3,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Kay",
+              "score": 2000
+            },
+            {
+              "player": "Doug",
+              "score": 5000
+            },
+            {
+              "player": "Kathy",
+              "score": 5200
+            }
+          ]
+        },
+        {
+          "category": "QUOTABLE MOVIES",
+          "value": 3000,
+          "clue": "2002:\"I'm placing you under arrest for the future murder of Sarah Marks\"",
+          "answer": "Minority Report",
+          "isDailyDouble": true,
+          "orderNumber": 4,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Kay",
+              "score": 2000
+            },
+            {
+              "player": "Doug",
+              "score": 8000
+            },
+            {
+              "player": "Kathy",
+              "score": 5200
+            }
+          ]
+        },
+        {
+          "category": "QUOTABLE MOVIES",
+          "value": 1600,
+          "clue": "2002:\"You do too much.  You're not Superman, you know\"",
+          "answer": "Spider-Man",
+          "isDailyDouble": false,
+          "orderNumber": 5,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Kay",
+              "score": 3600
+            },
+            {
+              "player": "Doug",
+              "score": 8000
+            },
+            {
+              "player": "Kathy",
+              "score": 5200
+            }
+          ]
+        },
+        {
+          "category": "QUOTABLE MOVIES",
+          "value": 2000,
+          "clue": "2001 (last line):\"Open your eyes\"",
+          "answer": "Vanilla Sky",
+          "isDailyDouble": false,
+          "orderNumber": 6,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Kay",
+              "score": 3600
+            },
+            {
+              "player": "Doug",
+              "score": 6000
+            },
+            {
+              "player": "Kathy",
+              "score": 5200
+            }
+          ]
+        },
+        {
+          "category": "ON THE GO",
+          "value": 400,
+          "clue": "Ground was broken for this waterway on July 4, 1817 at Rome, New York",
+          "answer": "Erie Canal",
+          "isDailyDouble": false,
+          "orderNumber": 7,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Kay",
+              "score": 3600
+            },
+            {
+              "player": "Doug",
+              "score": 6400
+            },
+            {
+              "player": "Kathy",
+              "score": 5200
+            }
+          ]
+        },
+        {
+          "category": "ON THE GO",
+          "value": 800,
+          "clue": "Introduced in 1936, this company's DC-3 commercial airliner was so well built that some are still in service",
+          "answer": "Douglas",
+          "isDailyDouble": false,
+          "orderNumber": 8,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Kay",
+              "score": 3600
+            },
+            {
+              "player": "Doug",
+              "score": 7200
+            },
+            {
+              "player": "Kathy",
+              "score": 4400
+            }
+          ]
+        },
+        {
+          "category": "SECONDARY MEANINGS",
+          "value": 800,
+          "clue": "A person doing it might be making tsimmes; a group doing it is really playing music well",
+          "answer": "cooking",
+          "isDailyDouble": false,
+          "orderNumber": 9,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Kay",
+              "score": 3600
+            },
+            {
+              "player": "Doug",
+              "score": 7200
+            },
+            {
+              "player": "Kathy",
+              "score": 4400
+            }
+          ]
+        },
+        {
+          "category": "SECONDARY MEANINGS",
+          "value": 1200,
+          "clue": "As an adjective, it means below average; as a verb, to moo like a cow",
+          "answer": "low",
+          "isDailyDouble": false,
+          "orderNumber": 10,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Kay",
+              "score": 4800
+            },
+            {
+              "player": "Doug",
+              "score": 7200
+            },
+            {
+              "player": "Kathy",
+              "score": 4400
+            }
+          ]
+        },
+        {
+          "category": "SECONDARY MEANINGS",
+          "value": 1600,
+          "clue": "One of your faculties, or your good judgment & intelligence",
+          "answer": "sense (reason accepted)",
+          "isDailyDouble": false,
+          "orderNumber": 11,
+          "correctContestants": [
+            "Doug"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Kay",
+              "score": 6400
+            },
+            {
+              "player": "Doug",
+              "score": 8800
+            },
+            {
+              "player": "Kathy",
+              "score": 4400
+            }
+          ]
+        },
+        {
+          "category": "SECONDARY MEANINGS",
+          "value": 2000,
+          "clue": "This word that has long meant \"to stumble\" now also means \"to feel or express surprise\"",
+          "answer": "trip",
+          "isDailyDouble": false,
+          "orderNumber": 12,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Kay",
+              "score": 6400
+            },
+            {
+              "player": "Doug",
+              "score": 8800
+            },
+            {
+              "player": "Kathy",
+              "score": 4400
+            }
+          ]
+        },
+        {
+          "category": "AMERICAN REVOLUTIONARIES",
+          "value": 400,
+          "clue": "On his way to Concord on the night of April 18-19, 1775, he was captured & had to return to Lexington on foot",
+          "answer": "Paul Revere",
+          "isDailyDouble": false,
+          "orderNumber": 13,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Kay",
+              "score": 6800
+            },
+            {
+              "player": "Doug",
+              "score": 8800
+            },
+            {
+              "player": "Kathy",
+              "score": 4400
+            }
+          ]
+        },
+        {
+          "category": "AMERICAN REVOLUTIONARIES",
+          "value": 800,
+          "clue": "The Pennsylvania assembly sent him to London as its agent twice: 1757-1762 & 1764-1775",
+          "answer": "Benjamin Franklin",
+          "isDailyDouble": false,
+          "orderNumber": 14,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Kay",
+              "score": 6800
+            },
+            {
+              "player": "Doug",
+              "score": 8800
+            },
+            {
+              "player": "Kathy",
+              "score": 5200
+            }
+          ]
+        },
+        {
+          "category": "AMERICAN REVOLUTIONARIES",
+          "value": 1200,
+          "clue": "In December 1775 he became first lieutenant on the Alfred, the first ship purchased by Congress for the Continental Navy",
+          "answer": "John Paul Jones",
+          "isDailyDouble": false,
+          "orderNumber": 15,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Kay",
+              "score": 8000
+            },
+            {
+              "player": "Doug",
+              "score": 8800
+            },
+            {
+              "player": "Kathy",
+              "score": 5200
+            }
+          ]
+        },
+        {
+          "category": "AMERICAN REVOLUTIONARIES",
+          "value": 1600,
+          "clue": "In 1765 this Boston brewer helped organize the Sons of Liberty to protest the Stamp Act",
+          "answer": "Samuel Adams",
+          "isDailyDouble": false,
+          "orderNumber": 16,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Kay",
+              "score": 9600
+            },
+            {
+              "player": "Doug",
+              "score": 8800
+            },
+            {
+              "player": "Kathy",
+              "score": 5200
+            }
+          ]
+        },
+        {
+          "category": "AMERICAN REVOLUTIONARIES",
+          "value": 2000,
+          "clue": "On March 23, 1775 this orator told the VA. Provincial Convention, \"The war is inevitable -- and let it come!\"",
+          "answer": "Patrick Henry",
+          "isDailyDouble": false,
+          "orderNumber": 17,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Kay",
+              "score": 9600
+            },
+            {
+              "player": "Doug",
+              "score": 8800
+            },
+            {
+              "player": "Kathy",
+              "score": 5200
+            }
+          ]
+        },
+        {
+          "category": "YOU'RE DARN TOOTIN'!",
+          "value": 400,
+          "clue": "In the Cleveland Orchestra, this section includes flutist Joshua Smith & oboe man Jeffrey Rathbun",
+          "answer": "woodwinds",
+          "isDailyDouble": false,
+          "orderNumber": 18,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Kay",
+              "score": 9200
+            },
+            {
+              "player": "Doug",
+              "score": 9200
+            },
+            {
+              "player": "Kathy",
+              "score": 5200
+            }
+          ]
+        },
+        {
+          "category": "ON THE GO",
+          "value": 1200,
+          "clue": "This city's rubber-tired Metro subway provided access to Expo 67 in the middle of the St. Lawrence River",
+          "answer": "Montreal",
+          "isDailyDouble": false,
+          "orderNumber": 19,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Kay",
+              "score": 10400
+            },
+            {
+              "player": "Doug",
+              "score": 9200
+            },
+            {
+              "player": "Kathy",
+              "score": 5200
+            }
+          ]
+        },
+        {
+          "category": "ON THE GO",
+          "value": 3000,
+          "clue": "In 1881 this railroad line was completed from Kansas City to Deming, New Mexico",
+          "answer": "Atchison, Topeka and Santa Fe",
+          "isDailyDouble": true,
+          "orderNumber": 20,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Kay",
+              "score": 13400
+            },
+            {
+              "player": "Doug",
+              "score": 9200
+            },
+            {
+              "player": "Kathy",
+              "score": 5200
+            }
+          ]
+        },
+        {
+          "category": "ON THE GO",
+          "value": 2000,
+          "clue": "This 60-something California tycoon became the first space tourist when he went into orbit on April 28, 2001",
+          "answer": "Dennis Tito",
+          "isDailyDouble": false,
+          "orderNumber": 21,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Kay",
+              "score": 13400
+            },
+            {
+              "player": "Doug",
+              "score": 9200
+            },
+            {
+              "player": "Kathy",
+              "score": 5200
+            }
+          ]
+        },
+        {
+          "category": "COMPUTER GENIUSES",
+          "value": 400,
+          "clue": "In 1967 Richard Greenblatt's program Mac Hack 6 became an hon. member of the U.S. Federation for this game",
+          "answer": "chess",
+          "isDailyDouble": false,
+          "orderNumber": 22,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Kay",
+              "score": 13400
+            },
+            {
+              "player": "Doug",
+              "score": 9200
+            },
+            {
+              "player": "Kathy",
+              "score": 5600
+            }
+          ]
+        },
+        {
+          "category": "YOU'RE DARN TOOTIN'!",
+          "value": 800,
+          "clue": "Kid Ory was a pioneer on this brass instrument whose name comes from the Italian for \"trumpet\"",
+          "answer": "trombone",
+          "isDailyDouble": false,
+          "orderNumber": 23,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Kay",
+              "score": 13400
+            },
+            {
+              "player": "Doug",
+              "score": 9200
+            },
+            {
+              "player": "Kathy",
+              "score": 6400
+            }
+          ]
+        },
+        {
+          "category": "YOU'RE DARN TOOTIN'!",
+          "value": 1200,
+          "clue": "Kenny G does play tenor, but more often this type of straightened-out saxophone that looks like a clarinet",
+          "answer": "soprano saxophone",
+          "isDailyDouble": false,
+          "orderNumber": 24,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Kay",
+              "score": 13400
+            },
+            {
+              "player": "Doug",
+              "score": 10400
+            },
+            {
+              "player": "Kathy",
+              "score": 6400
+            }
+          ]
+        },
+        {
+          "category": "YOU'RE DARN TOOTIN'!",
+          "value": 1600,
+          "clue": "He's \"The Big Man\" on sax in Bruce Springsteen's E Street Band",
+          "answer": "Clarence Clemons",
+          "isDailyDouble": false,
+          "orderNumber": 25,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Kay",
+              "score": 13400
+            },
+            {
+              "player": "Doug",
+              "score": 12000
+            },
+            {
+              "player": "Kathy",
+              "score": 6400
+            }
+          ]
+        },
+        {
+          "category": "YOU'RE DARN TOOTIN'!",
+          "value": 2000,
+          "clue": "Weak buccinator muscles, making the cheeks puff out when you blow, are called this trumpeter's \"pouches\"",
+          "answer": "Dizzy Gillespie",
+          "isDailyDouble": false,
+          "orderNumber": 26,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Kay",
+              "score": 13400
+            },
+            {
+              "player": "Doug",
+              "score": 14000
+            },
+            {
+              "player": "Kathy",
+              "score": 6400
+            }
+          ]
+        },
+        {
+          "category": "COMPUTER GENIUSES",
+          "value": 800,
+          "clue": "A real mensch, William D. Mensch, designed the processors in Wozniak & Jobs' early computers from this company",
+          "answer": "Apple",
+          "isDailyDouble": false,
+          "orderNumber": 27,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Kay",
+              "score": 13400
+            },
+            {
+              "player": "Doug",
+              "score": 14800
+            },
+            {
+              "player": "Kathy",
+              "score": 6400
+            }
+          ]
+        },
+        {
+          "category": "COMPUTER GENIUSES",
+          "value": 1200,
+          "clue": "Working in Texas Instruments' semiconductor building, Jack Kilby hit on the idea of this, the IC for short",
+          "answer": "integrated circuit",
+          "isDailyDouble": false,
+          "orderNumber": 28,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Kay",
+              "score": 13400
+            },
+            {
+              "player": "Doug",
+              "score": 14800
+            },
+            {
+              "player": "Kathy",
+              "score": 6400
+            }
+          ]
+        },
+        {
+          "category": "COMPUTER GENIUSES",
+          "value": 1600,
+          "clue": "Mitch Kapor, founder of this company that gave us 1-2-3 & Notes, previously taught transcendental meditation",
+          "answer": "Lotus",
+          "isDailyDouble": false,
+          "orderNumber": 29,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Kay",
+              "score": 13400
+            },
+            {
+              "player": "Doug",
+              "score": 16400
+            },
+            {
+              "player": "Kathy",
+              "score": 6400
+            }
+          ]
+        },
+        {
+          "category": "COMPUTER GENIUSES",
+          "value": 2000,
+          "clue": "Ed Roberts built the first true personal computer & named it this model 8800, after a star",
+          "answer": "Altair",
+          "isDailyDouble": false,
+          "orderNumber": 30,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Kay",
+              "score": 13400
+            },
+            {
+              "player": "Doug",
+              "score": 18400
+            },
+            {
+              "player": "Kathy",
+              "score": 6400
+            }
+          ]
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "Kay",
+          "score": 13400
+        },
+        {
+          "player": "Doug",
+          "score": 18400
+        },
+        {
+          "player": "Kathy",
+          "score": 6400
+        }
+      ]
+    },
+    "finalJeopardy": {
+      "category": "MEN OF MEDICINE",
+      "clue": "In 1891 he helped found & became the first chairman of the British Institute of Preventive Medicine",
+      "answer": "Joseph Lister (\"Father of Antiseptic Surgery\")",
+      "responses": [
+        {
+          "contestant": "Kathy",
+          "response": "Who is Albert Schweitzer?",
+          "isCorrect": false,
+          "isIncorrect": true,
+          "value": 6399,
+          "finalScore": 1
+        },
+        {
+          "contestant": "Kay",
+          "response": "Who is Jennings?",
+          "isCorrect": false,
+          "isIncorrect": true,
+          "value": 13400,
+          "finalScore": 0
+        },
+        {
+          "contestant": "Doug",
+          "response": "Who Johns Hopkins",
+          "isCorrect": false,
+          "isIncorrect": true,
+          "value": 8401,
+          "finalScore": 9999
+        }
+      ]
+    }
+  },
+  "finalScores": [
+    {
+      "player": "Kay",
+      "score": "$0"
+    },
+    {
+      "player": "Doug",
+      "score": "$9,999"
+    },
+    {
+      "player": "Kathy",
+      "score": "$1"
+    }
+  ],
+  "coryatScores": [
+    {
+      "player": "Kay",
+      "score": 12000
+    },
+    {
+      "player": "Doug",
+      "score": 15400
+    },
+    {
+      "player": "Kathy",
+      "score": 6400
+    }
+  ]
+}

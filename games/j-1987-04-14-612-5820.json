@@ -1,0 +1,1692 @@
+{
+  "gameId": 5820,
+  "showNumber": "612",
+  "title": "Show #612 - Tuesday, April 14, 1987",
+  "date": "1987-04-14",
+  "comments": "",
+  "contestants": [
+    "Jim",
+    "Carol",
+    "Vince"
+  ],
+  "rounds": {
+    "jeopardy": {
+      "categories": [
+        "SAN FRANCISCO",
+        "BEAUTY SECRETS",
+        "NAME THAT TEAM",
+        "ROCK 'N ROLL",
+        "GHOSTS",
+        "DOUBLE TALK"
+      ],
+      "clues": [
+        {
+          "category": "ROCK 'N ROLL",
+          "value": 100,
+          "clue": "Appropriate last name of snowy-haired brothers Johnny & Edgar",
+          "answer": "Winter",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [
+            "Jim"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jim",
+              "score": 100
+            },
+            {
+              "player": "Carol",
+              "score": 0
+            },
+            {
+              "player": "Vince",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "ROCK 'N ROLL",
+          "value": 200,
+          "clue": "Lionel Richie sang lead for this Motown group before going solo in the '80s",
+          "answer": "The Commodores",
+          "isDailyDouble": false,
+          "orderNumber": 2,
+          "correctContestants": [
+            "Vince"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jim",
+              "score": 100
+            },
+            {
+              "player": "Carol",
+              "score": 0
+            },
+            {
+              "player": "Vince",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "SAN FRANCISCO",
+          "value": 100,
+          "clue": "San Francisco is accessible by land only from this direction",
+          "answer": "the south",
+          "isDailyDouble": false,
+          "orderNumber": 3,
+          "correctContestants": [
+            "Jim"
+          ],
+          "incorrectContestants": [
+            "Carol",
+            "Vince"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jim",
+              "score": 200
+            },
+            {
+              "player": "Carol",
+              "score": -100
+            },
+            {
+              "player": "Vince",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "category": "ROCK 'N ROLL",
+          "value": 300,
+          "clue": "This label has digitally remastered Elvis Presley's early records back into mono",
+          "answer": "RCA",
+          "isDailyDouble": false,
+          "orderNumber": 4,
+          "correctContestants": [
+            "Jim"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jim",
+              "score": 500
+            },
+            {
+              "player": "Carol",
+              "score": -100
+            },
+            {
+              "player": "Vince",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "category": "ROCK 'N ROLL",
+          "value": 400,
+          "clue": "His fans are \"Parrotheads\"; his band, \"The Coral Reefers\"; & his biggest hit, \"Margaritaville\"",
+          "answer": "Jimmy Buffett",
+          "isDailyDouble": false,
+          "orderNumber": 5,
+          "correctContestants": [
+            "Jim"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jim",
+              "score": 900
+            },
+            {
+              "player": "Carol",
+              "score": -100
+            },
+            {
+              "player": "Vince",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "category": "ROCK 'N ROLL",
+          "value": 500,
+          "clue": "Carlos Santana's brother Jorge led this \"bad\" Latin-rock band",
+          "answer": "Malo",
+          "isDailyDouble": false,
+          "orderNumber": 6,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Jim",
+              "score": 900
+            },
+            {
+              "player": "Carol",
+              "score": -100
+            },
+            {
+              "player": "Vince",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "category": "SAN FRANCISCO",
+          "value": 200,
+          "clue": "This famous marine area is found at the foot of Taylor Street",
+          "answer": "Fisherman's Wharf",
+          "isDailyDouble": false,
+          "orderNumber": 7,
+          "correctContestants": [
+            "Carol"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jim",
+              "score": 900
+            },
+            {
+              "player": "Carol",
+              "score": 100
+            },
+            {
+              "player": "Vince",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "category": "GHOSTS",
+          "value": 100,
+          "clue": "This biblical villain is said to haunt Switzerland's Mount Pilatus on Good Friday",
+          "answer": "Pontius Pilate",
+          "isDailyDouble": false,
+          "orderNumber": 8,
+          "correctContestants": [
+            "Jim"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jim",
+              "score": 1000
+            },
+            {
+              "player": "Carol",
+              "score": 100
+            },
+            {
+              "player": "Vince",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "category": "SAN FRANCISCO",
+          "value": 300,
+          "clue": "Once covering 58 miles, the routes for these have been reduced to less than 10 miles",
+          "answer": "cable cars",
+          "isDailyDouble": false,
+          "orderNumber": 9,
+          "correctContestants": [
+            "Carol"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jim",
+              "score": 1000
+            },
+            {
+              "player": "Carol",
+              "score": 400
+            },
+            {
+              "player": "Vince",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "category": "DOUBLE TALK",
+          "value": 100,
+          "clue": "1st name -- or is it 1st & middle? -- of the winner of the 1936 Miss Hungary beauty pageant",
+          "answer": "Zsa Zsa",
+          "isDailyDouble": false,
+          "orderNumber": 10,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Jim",
+              "score": 1000
+            },
+            {
+              "player": "Carol",
+              "score": 400
+            },
+            {
+              "player": "Vince",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "category": "DOUBLE TALK",
+          "value": 200,
+          "clue": "To the French this sugary candy is \"good good\"",
+          "answer": "bon bon",
+          "isDailyDouble": false,
+          "orderNumber": 11,
+          "correctContestants": [
+            "Carol"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jim",
+              "score": 1000
+            },
+            {
+              "player": "Carol",
+              "score": 600
+            },
+            {
+              "player": "Vince",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "category": "DOUBLE TALK",
+          "value": 100,
+          "clue": "Despite what you may have heard, published lyrics of this song are not at all racy:",
+          "answer": "\"Louie Louie\"",
+          "isDailyDouble": true,
+          "orderNumber": 12,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Carol"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jim",
+              "score": 1000
+            },
+            {
+              "player": "Carol",
+              "score": 500
+            },
+            {
+              "player": "Vince",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "category": "BEAUTY SECRETS",
+          "value": 100,
+          "clue": "Caswell-Massey still sells \"#6\", the favorite cologne of this #1 president",
+          "answer": "George Washington",
+          "isDailyDouble": false,
+          "orderNumber": 13,
+          "correctContestants": [
+            "Carol"
+          ],
+          "incorrectContestants": [
+            "Vince"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jim",
+              "score": 1000
+            },
+            {
+              "player": "Carol",
+              "score": 600
+            },
+            {
+              "player": "Vince",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "BEAUTY SECRETS",
+          "value": 200,
+          "clue": "Sarah Bernhardt slathered on a night cream made from this popular pickle vegetable",
+          "answer": "cucumber",
+          "isDailyDouble": false,
+          "orderNumber": 14,
+          "correctContestants": [
+            "Vince"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jim",
+              "score": 1000
+            },
+            {
+              "player": "Carol",
+              "score": 600
+            },
+            {
+              "player": "Vince",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "SAN FRANCISCO",
+          "value": 400,
+          "clue": "What you're doing if you participate in the \"Bay to Breakers\"",
+          "answer": "marathon",
+          "isDailyDouble": false,
+          "orderNumber": 15,
+          "correctContestants": [
+            "Vince"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jim",
+              "score": 1000
+            },
+            {
+              "player": "Carol",
+              "score": 600
+            },
+            {
+              "player": "Vince",
+              "score": 600
+            }
+          ]
+        },
+        {
+          "category": "SAN FRANCISCO",
+          "value": 500,
+          "clue": "In \"I Left My Heart in San Francisco\", it \"may fill the air, I don't care\"",
+          "answer": "the morning fog",
+          "isDailyDouble": false,
+          "orderNumber": 16,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Jim",
+              "score": 1000
+            },
+            {
+              "player": "Carol",
+              "score": 600
+            },
+            {
+              "player": "Vince",
+              "score": 600
+            }
+          ]
+        },
+        {
+          "category": "DOUBLE TALK",
+          "value": 400,
+          "clue": "The capital of American Samoa, Pago Pago, was formerly named & is usually still called this",
+          "answer": "Pango Pango",
+          "isDailyDouble": false,
+          "orderNumber": 17,
+          "correctContestants": [
+            "Carol"
+          ],
+          "incorrectContestants": [
+            "Jim"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jim",
+              "score": 600
+            },
+            {
+              "player": "Carol",
+              "score": 1000
+            },
+            {
+              "player": "Vince",
+              "score": 600
+            }
+          ]
+        },
+        {
+          "category": "DOUBLE TALK",
+          "value": 500,
+          "clue": "Nickname of former NHL star B. Geoffrion & Freddie Washington on \"Welcome Back, Kotter\"",
+          "answer": "Boom Boom",
+          "isDailyDouble": false,
+          "orderNumber": 18,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Jim",
+              "score": 600
+            },
+            {
+              "player": "Carol",
+              "score": 1000
+            },
+            {
+              "player": "Vince",
+              "score": 600
+            }
+          ]
+        },
+        {
+          "category": "BEAUTY SECRETS",
+          "value": 300,
+          "clue": "It's said that to tint their bodies, East Indians used this paste now used in marzipan",
+          "answer": "almond paste",
+          "isDailyDouble": false,
+          "orderNumber": 19,
+          "correctContestants": [
+            "Vince"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jim",
+              "score": 600
+            },
+            {
+              "player": "Carol",
+              "score": 1000
+            },
+            {
+              "player": "Vince",
+              "score": 900
+            }
+          ]
+        },
+        {
+          "category": "BEAUTY SECRETS",
+          "value": 400,
+          "clue": "\"Springing eternal\", this comic said his make-up crew also restored the Statue of Liberty",
+          "answer": "Bob Hope",
+          "isDailyDouble": false,
+          "orderNumber": 20,
+          "correctContestants": [
+            "Jim"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jim",
+              "score": 1000
+            },
+            {
+              "player": "Carol",
+              "score": 1000
+            },
+            {
+              "player": "Vince",
+              "score": 900
+            }
+          ]
+        },
+        {
+          "category": "NAME THAT TEAM",
+          "value": 100,
+          "clue": "Bill Sharman, Bob Cousy, & Bill Russell",
+          "answer": "Boston Celtics",
+          "isDailyDouble": false,
+          "orderNumber": 21,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Jim",
+              "score": 1000
+            },
+            {
+              "player": "Carol",
+              "score": 1000
+            },
+            {
+              "player": "Vince",
+              "score": 900
+            }
+          ]
+        },
+        {
+          "category": "NAME THAT TEAM",
+          "value": 200,
+          "clue": "Reggie Jackson, Graig Nettles, & Bucky Dent",
+          "answer": "New York Yankees",
+          "isDailyDouble": false,
+          "orderNumber": 22,
+          "correctContestants": [
+            "Jim"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jim",
+              "score": 1200
+            },
+            {
+              "player": "Carol",
+              "score": 1000
+            },
+            {
+              "player": "Vince",
+              "score": 900
+            }
+          ]
+        },
+        {
+          "category": "NAME THAT TEAM",
+          "value": 300,
+          "clue": "Reggie Jackson, Nolan Ryan, & Dean Chance",
+          "answer": "California Angels",
+          "isDailyDouble": false,
+          "orderNumber": 23,
+          "correctContestants": [
+            "Carol"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jim",
+              "score": 1200
+            },
+            {
+              "player": "Carol",
+              "score": 1300
+            },
+            {
+              "player": "Vince",
+              "score": 900
+            }
+          ]
+        },
+        {
+          "category": "GHOSTS",
+          "value": 200,
+          "clue": "That \"rare\" person whose efforts to produce a ghost at a seance are \"well done\"",
+          "answer": "medium",
+          "isDailyDouble": false,
+          "orderNumber": 24,
+          "correctContestants": [
+            "Jim"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jim",
+              "score": 1400
+            },
+            {
+              "player": "Carol",
+              "score": 1300
+            },
+            {
+              "player": "Vince",
+              "score": 900
+            }
+          ]
+        },
+        {
+          "category": "NAME THAT TEAM",
+          "value": 400,
+          "clue": "Jim Taylor, Ray Nitschke, & Bart Starr",
+          "answer": "Green Bay Packers",
+          "isDailyDouble": false,
+          "orderNumber": 25,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Jim",
+              "score": 1400
+            },
+            {
+              "player": "Carol",
+              "score": 1300
+            },
+            {
+              "player": "Vince",
+              "score": 900
+            }
+          ]
+        },
+        {
+          "category": "NAME THAT TEAM",
+          "value": 500,
+          "clue": "Sid Abel, Ted Lindsay, & Gordie Howe",
+          "answer": "Detroit Red Wings",
+          "isDailyDouble": false,
+          "orderNumber": 26,
+          "correctContestants": [
+            "Vince"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jim",
+              "score": 1400
+            },
+            {
+              "player": "Carol",
+              "score": 1300
+            },
+            {
+              "player": "Vince",
+              "score": 1400
+            }
+          ]
+        },
+        {
+          "category": "GHOSTS",
+          "value": 300,
+          "clue": "Beheaded queen whose ghost returns to Norfolk, England on every anniversary of her execution",
+          "answer": "Anne Boleyn",
+          "isDailyDouble": false,
+          "orderNumber": 27,
+          "correctContestants": [
+            "Jim"
+          ],
+          "incorrectContestants": [
+            "Carol"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jim",
+              "score": 1700
+            },
+            {
+              "player": "Carol",
+              "score": 1000
+            },
+            {
+              "player": "Vince",
+              "score": 1400
+            }
+          ]
+        },
+        {
+          "category": "GHOSTS",
+          "value": 400,
+          "clue": "Some say this pirate's ghost still swims around Teach's Hole, N.C. searching for his head",
+          "answer": "Blackbeard",
+          "isDailyDouble": false,
+          "orderNumber": 28,
+          "correctContestants": [
+            "Jim"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jim",
+              "score": 2100
+            },
+            {
+              "player": "Carol",
+              "score": 1000
+            },
+            {
+              "player": "Vince",
+              "score": 1400
+            }
+          ]
+        },
+        {
+          "category": "BEAUTY SECRETS",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jim",
+              "score": 2100
+            },
+            {
+              "player": "Carol",
+              "score": 1000
+            },
+            {
+              "player": "Vince",
+              "score": 1400
+            }
+          ]
+        },
+        {
+          "category": "GHOSTS",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jim",
+              "score": 2100
+            },
+            {
+              "player": "Carol",
+              "score": 1000
+            },
+            {
+              "player": "Vince",
+              "score": 1400
+            }
+          ]
+        }
+      ],
+      "firstBreakScores": [
+        {
+          "player": "Jim",
+          "score": 1000
+        },
+        {
+          "player": "Carol",
+          "score": 500
+        },
+        {
+          "player": "Vince",
+          "score": 100
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "Jim",
+          "score": 2100
+        },
+        {
+          "player": "Carol",
+          "score": 1000
+        },
+        {
+          "player": "Vince",
+          "score": 1400
+        }
+      ]
+    },
+    "doubleJeopardy": {
+      "categories": [
+        "BOOKS & AUTHORS",
+        "RELIGION",
+        "FIRSTS",
+        "STAMPS",
+        "PRESIDENTIAL TRIVIA",
+        "\"THE\""
+      ],
+      "clues": [
+        {
+          "category": "BOOKS & AUTHORS",
+          "value": 200,
+          "clue": "In \"His Way\", author Kitty Kelley told things her way about his life",
+          "answer": "Frank Sinatra",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jim",
+              "score": 2300
+            },
+            {
+              "player": "Carol",
+              "score": 1000
+            },
+            {
+              "player": "Vince",
+              "score": 1400
+            }
+          ]
+        },
+        {
+          "category": "PRESIDENTIAL TRIVIA",
+          "value": 200,
+          "clue": "In both \"The President's Lady\" & \"The Buccaneer\", Charlton Heston played this hero of the War of 1812",
+          "answer": "Andrew Jackson",
+          "isDailyDouble": false,
+          "orderNumber": 2,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jim",
+              "score": 2300
+            },
+            {
+              "player": "Carol",
+              "score": 1200
+            },
+            {
+              "player": "Vince",
+              "score": 1400
+            }
+          ]
+        },
+        {
+          "category": "BOOKS & AUTHORS",
+          "value": 500,
+          "clue": "The 4 words which begin the title of every Perry Mason story",
+          "answer": "The Case of the...",
+          "isDailyDouble": true,
+          "orderNumber": 3,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jim",
+              "score": 2300
+            },
+            {
+              "player": "Carol",
+              "score": 1700
+            },
+            {
+              "player": "Vince",
+              "score": 1400
+            }
+          ]
+        },
+        {
+          "category": "BOOKS & AUTHORS",
+          "value": 600,
+          "clue": "William Styron's 1979 story of a Polish Catholic survivor of Auschwitz",
+          "answer": "Sophie's Choice",
+          "isDailyDouble": false,
+          "orderNumber": 4,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jim",
+              "score": 2300
+            },
+            {
+              "player": "Carol",
+              "score": 2300
+            },
+            {
+              "player": "Vince",
+              "score": 800
+            }
+          ]
+        },
+        {
+          "category": "BOOKS & AUTHORS",
+          "value": 800,
+          "clue": "Author who sued New York Times in 1986 for not putting his \"Exorcist\" sequel on best seller list",
+          "answer": "William Peter Blatty",
+          "isDailyDouble": false,
+          "orderNumber": 5,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jim",
+              "score": 3100
+            },
+            {
+              "player": "Carol",
+              "score": 2300
+            },
+            {
+              "player": "Vince",
+              "score": 800
+            }
+          ]
+        },
+        {
+          "category": "PRESIDENTIAL TRIVIA",
+          "value": 400,
+          "clue": "He taught surveying to Meriwether Lewis & later sent him on his way",
+          "answer": "Thomas Jefferson",
+          "isDailyDouble": false,
+          "orderNumber": 6,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jim",
+              "score": 3500
+            },
+            {
+              "player": "Carol",
+              "score": 2300
+            },
+            {
+              "player": "Vince",
+              "score": 800
+            }
+          ]
+        },
+        {
+          "category": "PRESIDENTIAL TRIVIA",
+          "value": 600,
+          "clue": "His wife, born Anne Frances Robbins, is a 10th cousin to England's Princess Diana",
+          "answer": "Ronald Reagan",
+          "isDailyDouble": false,
+          "orderNumber": 7,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Jim",
+              "score": 3500
+            },
+            {
+              "player": "Carol",
+              "score": 2300
+            },
+            {
+              "player": "Vince",
+              "score": 800
+            }
+          ]
+        },
+        {
+          "category": "PRESIDENTIAL TRIVIA",
+          "value": 800,
+          "clue": "William Henry Harrison lost his job as 1st U.S. minister to Colombia after offending this \"Liberator\"",
+          "answer": "Simon Bolivar",
+          "isDailyDouble": false,
+          "orderNumber": 8,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jim",
+              "score": 4300
+            },
+            {
+              "player": "Carol",
+              "score": 2300
+            },
+            {
+              "player": "Vince",
+              "score": 800
+            }
+          ]
+        },
+        {
+          "category": "PRESIDENTIAL TRIVIA",
+          "value": 1000,
+          "clue": "New York City's Wave Hill Mansion was home at different times to Mark Twain & this police commissioner",
+          "answer": "Teddy Roosevelt",
+          "isDailyDouble": false,
+          "orderNumber": 9,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jim",
+              "score": 5300
+            },
+            {
+              "player": "Carol",
+              "score": 2300
+            },
+            {
+              "player": "Vince",
+              "score": 800
+            }
+          ]
+        },
+        {
+          "category": "RELIGION",
+          "value": 200,
+          "clue": "Martin Luther's translation of the Bible into this language is considered a literary masterpiece",
+          "answer": "German",
+          "isDailyDouble": false,
+          "orderNumber": 10,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jim",
+              "score": 5500
+            },
+            {
+              "player": "Carol",
+              "score": 2300
+            },
+            {
+              "player": "Vince",
+              "score": 800
+            }
+          ]
+        },
+        {
+          "category": "RELIGION",
+          "value": 400,
+          "clue": "L.A. Times says people of this country often describe it as 70% Catholic, 30% Protestant & 100% Voodoo",
+          "answer": "Haiti",
+          "isDailyDouble": false,
+          "orderNumber": 11,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jim",
+              "score": 5900
+            },
+            {
+              "player": "Carol",
+              "score": 2300
+            },
+            {
+              "player": "Vince",
+              "score": 800
+            }
+          ]
+        },
+        {
+          "category": "RELIGION",
+          "value": 600,
+          "clue": "In Hinduism it's a mystical word or formula chanted repeatedly",
+          "answer": "mantra",
+          "isDailyDouble": false,
+          "orderNumber": 12,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jim",
+              "score": 5900
+            },
+            {
+              "player": "Carol",
+              "score": 2300
+            },
+            {
+              "player": "Vince",
+              "score": 1400
+            }
+          ]
+        },
+        {
+          "category": "STAMPS",
+          "value": 200,
+          "clue": "French for \"head to foot\", a tete-beche error occurs when 1 stamp in a series is printed this way",
+          "answer": "upside-down",
+          "isDailyDouble": false,
+          "orderNumber": 13,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jim",
+              "score": 5900
+            },
+            {
+              "player": "Carol",
+              "score": 2300
+            },
+            {
+              "player": "Vince",
+              "score": 1600
+            }
+          ]
+        },
+        {
+          "category": "STAMPS",
+          "value": 400,
+          "clue": "Name for any mark, such as a postmark, applied to a stamp on a letter to prevent its reuse",
+          "answer": "cancellation mark",
+          "isDailyDouble": false,
+          "orderNumber": 14,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jim",
+              "score": 5900
+            },
+            {
+              "player": "Carol",
+              "score": 2300
+            },
+            {
+              "player": "Vince",
+              "score": 2000
+            }
+          ]
+        },
+        {
+          "category": "STAMPS",
+          "value": 600,
+          "clue": "From Greek for \"loving exemption from payment\", it's the study & collection of postage stamps",
+          "answer": "philately",
+          "isDailyDouble": false,
+          "orderNumber": 15,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jim",
+              "score": 5900
+            },
+            {
+              "player": "Carol",
+              "score": 2900
+            },
+            {
+              "player": "Vince",
+              "score": 2000
+            }
+          ]
+        },
+        {
+          "category": "\"THE\"",
+          "value": 200,
+          "clue": "In our solar system, it's the only planet whose name can be preceded by \"The\"",
+          "answer": "The Earth",
+          "isDailyDouble": false,
+          "orderNumber": 16,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jim",
+              "score": 6100
+            },
+            {
+              "player": "Carol",
+              "score": 2900
+            },
+            {
+              "player": "Vince",
+              "score": 2000
+            }
+          ]
+        },
+        {
+          "category": "RELIGION",
+          "value": 800,
+          "clue": "It's said John Paul II was 1st pope since Peter to visit 1 of these houses of worship",
+          "answer": "synagogue",
+          "isDailyDouble": false,
+          "orderNumber": 17,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jim",
+              "score": 6900
+            },
+            {
+              "player": "Carol",
+              "score": 2900
+            },
+            {
+              "player": "Vince",
+              "score": 2000
+            }
+          ]
+        },
+        {
+          "category": "RELIGION",
+          "value": 1000,
+          "clue": "In this branch of Christianity, priests can marry, though bishops can't",
+          "answer": "Eastern Orthodox",
+          "isDailyDouble": false,
+          "orderNumber": 18,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Jim",
+              "score": 5900
+            },
+            {
+              "player": "Carol",
+              "score": 2900
+            },
+            {
+              "player": "Vince",
+              "score": 2000
+            }
+          ]
+        },
+        {
+          "category": "\"THE\"",
+          "value": 400,
+          "clue": "The only New York City borough to have \"The\" in its name",
+          "answer": "The Bronx",
+          "isDailyDouble": false,
+          "orderNumber": 19,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jim",
+              "score": 6300
+            },
+            {
+              "player": "Carol",
+              "score": 2900
+            },
+            {
+              "player": "Vince",
+              "score": 2000
+            }
+          ]
+        },
+        {
+          "category": "\"THE\"",
+          "value": 600,
+          "clue": "More popular name of the 1968 Beatles album \"The Beatles\"",
+          "answer": "the White Album",
+          "isDailyDouble": false,
+          "orderNumber": 20,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jim",
+              "score": 6900
+            },
+            {
+              "player": "Carol",
+              "score": 2900
+            },
+            {
+              "player": "Vince",
+              "score": 2000
+            }
+          ]
+        },
+        {
+          "category": "\"THE\"",
+          "value": 800,
+          "clue": "Matt Johnson's British band, its name's a dual definite article",
+          "answer": "The The",
+          "isDailyDouble": false,
+          "orderNumber": 21,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Jim",
+              "score": 6900
+            },
+            {
+              "player": "Carol",
+              "score": 2900
+            },
+            {
+              "player": "Vince",
+              "score": 2000
+            }
+          ]
+        },
+        {
+          "category": "\"THE\"",
+          "value": 1000,
+          "clue": "European country & its seat of gov't, both of which begin with \"The\", in their language \"Der\" & \"Den\"",
+          "answer": "The Netherlands & The Hague",
+          "isDailyDouble": true,
+          "orderNumber": 22,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jim",
+              "score": 5900
+            },
+            {
+              "player": "Carol",
+              "score": 2900
+            },
+            {
+              "player": "Vince",
+              "score": 2000
+            }
+          ]
+        },
+        {
+          "category": "FIRSTS",
+          "value": 200,
+          "clue": "The 1966 Michigan State-Notre Dame game was first TV event ever sent from mainland to Hawaii via this",
+          "answer": "satellite",
+          "isDailyDouble": false,
+          "orderNumber": 23,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jim",
+              "score": 5900
+            },
+            {
+              "player": "Carol",
+              "score": 2900
+            },
+            {
+              "player": "Vince",
+              "score": 2200
+            }
+          ]
+        },
+        {
+          "category": "FIRSTS",
+          "value": 400,
+          "clue": "1986 was 1st year a man was selected to head this nonpartisan organization concerned with voter education",
+          "answer": "League of Women Voters",
+          "isDailyDouble": false,
+          "orderNumber": 24,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jim",
+              "score": 6300
+            },
+            {
+              "player": "Carol",
+              "score": 2900
+            },
+            {
+              "player": "Vince",
+              "score": 2200
+            }
+          ]
+        },
+        {
+          "category": "FIRSTS",
+          "value": 600,
+          "clue": "In 1953 \"Amazon Annie\" became 1st cannon to use this type of ammo",
+          "answer": "atomic",
+          "isDailyDouble": false,
+          "orderNumber": 25,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Jim",
+              "score": 6300
+            },
+            {
+              "player": "Carol",
+              "score": 2900
+            },
+            {
+              "player": "Vince",
+              "score": 2200
+            }
+          ]
+        },
+        {
+          "category": "FIRSTS",
+          "value": 800,
+          "clue": "The 1st synthetic fiber successfully used to make ropes & cordage",
+          "answer": "nylon",
+          "isDailyDouble": false,
+          "orderNumber": 26,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jim",
+              "score": 6300
+            },
+            {
+              "player": "Carol",
+              "score": 2900
+            },
+            {
+              "player": "Vince",
+              "score": 3000
+            }
+          ]
+        },
+        {
+          "category": "FIRSTS",
+          "value": 1000,
+          "clue": "Wilma Mankiller is the 1st woman to serve as chief of this Indian nation centered in Oklahoma",
+          "answer": "Cherokee",
+          "isDailyDouble": false,
+          "orderNumber": 27,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jim",
+              "score": 7300
+            },
+            {
+              "player": "Carol",
+              "score": 2900
+            },
+            {
+              "player": "Vince",
+              "score": 3000
+            }
+          ]
+        },
+        {
+          "category": "BOOKS & AUTHORS",
+          "value": 1000,
+          "clue": "Author of both, he called his screenplay for 1958's \"The Fly\" \"Equal in quality to 'Noble House'\"",
+          "answer": "James Clavell",
+          "isDailyDouble": false,
+          "orderNumber": 28,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jim",
+              "score": 8300
+            },
+            {
+              "player": "Carol",
+              "score": 2900
+            },
+            {
+              "player": "Vince",
+              "score": 3000
+            }
+          ]
+        },
+        {
+          "category": "STAMPS",
+          "value": 800,
+          "clue": "Among the most complete stamp collections in the U.S.is that which this famous cardinal collected",
+          "answer": "Cardinal Spellman",
+          "isDailyDouble": false,
+          "orderNumber": 29,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Jim",
+              "score": 8300
+            },
+            {
+              "player": "Carol",
+              "score": 2900
+            },
+            {
+              "player": "Vince",
+              "score": 3000
+            }
+          ]
+        },
+        {
+          "category": "STAMPS",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jim",
+              "score": 8300
+            },
+            {
+              "player": "Carol",
+              "score": 2900
+            },
+            {
+              "player": "Vince",
+              "score": 3000
+            }
+          ]
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "Jim",
+          "score": 8300
+        },
+        {
+          "player": "Carol",
+          "score": 2900
+        },
+        {
+          "player": "Vince",
+          "score": 3000
+        }
+      ]
+    },
+    "finalJeopardy": {
+      "category": "THE MOVIES",
+      "clue": "The 2 highest grossing films of 1965, both musicals, starred this actress",
+      "answer": "Julie Andrews",
+      "responses": [
+        {
+          "contestant": "Carol",
+          "response": "Who is Julie Andrews?",
+          "isCorrect": true,
+          "isIncorrect": false,
+          "value": 2800,
+          "finalScore": 5700
+        },
+        {
+          "contestant": "Vince",
+          "response": "Who is Julie Andrews",
+          "isCorrect": true,
+          "isIncorrect": false,
+          "value": 1000,
+          "finalScore": 4000
+        },
+        {
+          "contestant": "Jim",
+          "response": "Who is Julie Andrews?",
+          "isCorrect": true,
+          "isIncorrect": false,
+          "value": 2000,
+          "finalScore": 10300
+        }
+      ]
+    }
+  },
+  "finalScores": [
+    {
+      "player": "Jim",
+      "score": "$10,300"
+    },
+    {
+      "player": "Carol",
+      "score": "$5,700"
+    },
+    {
+      "player": "Vince",
+      "score": "$4,000"
+    }
+  ],
+  "coryatScores": [
+    {
+      "player": "Jim",
+      "score": 9300
+    },
+    {
+      "player": "Carol",
+      "score": 2900
+    },
+    {
+      "player": "Vince",
+      "score": 3000
+    }
+  ]
+}

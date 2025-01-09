@@ -1,0 +1,1702 @@
+{
+  "gameId": 1118,
+  "showNumber": "5043",
+  "title": "Show #5043 - Wednesday, July 12, 2006",
+  "date": "2006-07-12",
+  "comments": "",
+  "contestants": [
+    "David",
+    "Susan",
+    "Tom"
+  ],
+  "rounds": {
+    "jeopardy": {
+      "categories": [
+        "JUST ONE WORD... PLASTICS",
+        "HERE'S LOOKING AT \"U\", KID",
+        "YOU TOLKIEN TO ME?",
+        "SHOW ME THE MONKEY!",
+        "I COULDA BEEN A BARTENDER",
+        "MOVIE CATCH PHRASES"
+      ],
+      "clues": [
+        {
+          "category": "YOU TOLKIEN TO ME?",
+          "value": 200,
+          "clue": "Tolkien once wrote, \"I am in fact\" one of these \"in all but size\"",
+          "answer": "a hobbit",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [
+            "David"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 200
+            },
+            {
+              "player": "Susan",
+              "score": 0
+            },
+            {
+              "player": "Tom",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "YOU TOLKIEN TO ME?",
+          "value": 400,
+          "clue": "While at Oxford, Tolkien formed a literary group called the Inklings with this man who wrote of Narnia",
+          "answer": "C.S. Lewis",
+          "isDailyDouble": false,
+          "orderNumber": 2,
+          "correctContestants": [
+            "Tom"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 200
+            },
+            {
+              "player": "Susan",
+              "score": 0
+            },
+            {
+              "player": "Tom",
+              "score": 400
+            }
+          ]
+        },
+        {
+          "category": "MOVIE CATCH PHRASES",
+          "value": 200,
+          "clue": "1992:\"There's no crying in baseball!\"",
+          "answer": "A League of Their Own",
+          "isDailyDouble": false,
+          "orderNumber": 3,
+          "correctContestants": [
+            "Susan"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 200
+            },
+            {
+              "player": "Susan",
+              "score": 200
+            },
+            {
+              "player": "Tom",
+              "score": 400
+            }
+          ]
+        },
+        {
+          "category": "MOVIE CATCH PHRASES",
+          "value": 400,
+          "clue": "1982:\"They're here!\"",
+          "answer": "Poltergeist",
+          "isDailyDouble": false,
+          "orderNumber": 4,
+          "correctContestants": [
+            "David"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 600
+            },
+            {
+              "player": "Susan",
+              "score": 200
+            },
+            {
+              "player": "Tom",
+              "score": 400
+            }
+          ]
+        },
+        {
+          "category": "SHOW ME THE MONKEY!",
+          "value": 200,
+          "clue": "You know the drill, it's the colorful monkey species seen here",
+          "answer": "a mandrill",
+          "isDailyDouble": false,
+          "orderNumber": 5,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Susan"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 600
+            },
+            {
+              "player": "Susan",
+              "score": 0
+            },
+            {
+              "player": "Tom",
+              "score": 400
+            }
+          ]
+        },
+        {
+          "category": "SHOW ME THE MONKEY!",
+          "value": 400,
+          "clue": "These large ground-dwelling monkeys native to Africa & Asia have prominent snouts resembling a dog's",
+          "answer": "a baboon",
+          "isDailyDouble": false,
+          "orderNumber": 6,
+          "correctContestants": [
+            "Susan"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 600
+            },
+            {
+              "player": "Susan",
+              "score": 400
+            },
+            {
+              "player": "Tom",
+              "score": 400
+            }
+          ]
+        },
+        {
+          "category": "SHOW ME THE MONKEY!",
+          "value": 600,
+          "clue": "The pygmy variety of this small South American monkey is seen here",
+          "answer": "a marmoset",
+          "isDailyDouble": false,
+          "orderNumber": 7,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "David",
+            "Susan"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 0
+            },
+            {
+              "player": "Susan",
+              "score": -200
+            },
+            {
+              "player": "Tom",
+              "score": 400
+            }
+          ]
+        },
+        {
+          "category": "SHOW ME THE MONKEY!",
+          "value": 800,
+          "clue": "Name common to the 2 types of primates seen here",
+          "answer": "a capuchin",
+          "isDailyDouble": false,
+          "orderNumber": 8,
+          "correctContestants": [
+            "Susan"
+          ],
+          "incorrectContestants": [
+            "Tom"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 0
+            },
+            {
+              "player": "Susan",
+              "score": 600
+            },
+            {
+              "player": "Tom",
+              "score": -400
+            }
+          ]
+        },
+        {
+          "category": "SHOW ME THE MONKEY!",
+          "value": 1000,
+          "clue": "Nasalis larvatus is the scientific name for this type of monkey seen here",
+          "answer": "a proboscis monkey",
+          "isDailyDouble": false,
+          "orderNumber": 9,
+          "correctContestants": [
+            "David"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 1000
+            },
+            {
+              "player": "Susan",
+              "score": 600
+            },
+            {
+              "player": "Tom",
+              "score": -400
+            }
+          ]
+        },
+        {
+          "category": "MOVIE CATCH PHRASES",
+          "value": 600,
+          "clue": "1967:\"What we've got here is failure to communicate\"",
+          "answer": "Cool Hand Luke",
+          "isDailyDouble": false,
+          "orderNumber": 10,
+          "correctContestants": [
+            "Tom"
+          ],
+          "incorrectContestants": [
+            "Susan"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 1000
+            },
+            {
+              "player": "Susan",
+              "score": 0
+            },
+            {
+              "player": "Tom",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "MOVIE CATCH PHRASES",
+          "value": 800,
+          "clue": "1950:\"I am big!  It's the pictures that got small\"",
+          "answer": "Sunset Boulevard",
+          "isDailyDouble": false,
+          "orderNumber": 11,
+          "correctContestants": [
+            "Susan"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 1000
+            },
+            {
+              "player": "Susan",
+              "score": 800
+            },
+            {
+              "player": "Tom",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "MOVIE CATCH PHRASES",
+          "value": 1000,
+          "clue": "1927:\"You ain't heard nothin' yet!\"",
+          "answer": "The Jazz Singer",
+          "isDailyDouble": false,
+          "orderNumber": 12,
+          "correctContestants": [
+            "David"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 2000
+            },
+            {
+              "player": "Susan",
+              "score": 800
+            },
+            {
+              "player": "Tom",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "I COULDA BEEN A BARTENDER",
+          "value": 200,
+          "clue": "To vodka, add dry vermouth & a lemon twist to make this; shaken, not stirred, you got it",
+          "answer": "a martini",
+          "isDailyDouble": false,
+          "orderNumber": 13,
+          "correctContestants": [
+            "David"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 2200
+            },
+            {
+              "player": "Susan",
+              "score": 800
+            },
+            {
+              "player": "Tom",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "YOU TOLKIEN TO ME?",
+          "value": 600,
+          "clue": "Tolkien lectured on this king of the Geats, the title character of an Old English epic poem",
+          "answer": "Beowulf",
+          "isDailyDouble": false,
+          "orderNumber": 14,
+          "correctContestants": [
+            "Tom"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 2200
+            },
+            {
+              "player": "Susan",
+              "score": 800
+            },
+            {
+              "player": "Tom",
+              "score": 800
+            }
+          ]
+        },
+        {
+          "category": "I COULDA BEEN A BARTENDER",
+          "value": 400,
+          "clue": "Bust out some gin, Benedictine, cherry brandy & club soda & you've got a \"sling\" named for this island",
+          "answer": "Singapore",
+          "isDailyDouble": false,
+          "orderNumber": 15,
+          "correctContestants": [
+            "Susan"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 2200
+            },
+            {
+              "player": "Susan",
+              "score": 1200
+            },
+            {
+              "player": "Tom",
+              "score": 800
+            }
+          ]
+        },
+        {
+          "category": "I COULDA BEEN A BARTENDER",
+          "value": 800,
+          "clue": "An ounce each of vodka, gin, light rum & tequila highlight this N.Y.-themed drink",
+          "answer": "Long Island iced tea",
+          "isDailyDouble": true,
+          "orderNumber": 16,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Susan"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 2200
+            },
+            {
+              "player": "Susan",
+              "score": 400
+            },
+            {
+              "player": "Tom",
+              "score": 800
+            }
+          ]
+        },
+        {
+          "category": "I COULDA BEEN A BARTENDER",
+          "value": 800,
+          "clue": "If you like light rum, crushed ice, pineapple juice, coconut cream, a cherry & getting caught in the rain, you like this",
+          "answer": "piña coladas",
+          "isDailyDouble": false,
+          "orderNumber": 17,
+          "correctContestants": [
+            "Susan"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 2200
+            },
+            {
+              "player": "Susan",
+              "score": 1200
+            },
+            {
+              "player": "Tom",
+              "score": 800
+            }
+          ]
+        },
+        {
+          "category": "I COULDA BEEN A BARTENDER",
+          "value": 1000,
+          "clue": "Add a splash of creme de cassis to white wine to make this aperitif; use champagne to make it \"royale\"",
+          "answer": "a kir",
+          "isDailyDouble": false,
+          "orderNumber": 18,
+          "correctContestants": [
+            "David"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 3200
+            },
+            {
+              "player": "Susan",
+              "score": 1200
+            },
+            {
+              "player": "Tom",
+              "score": 800
+            }
+          ]
+        },
+        {
+          "category": "YOU TOLKIEN TO ME?",
+          "value": 800,
+          "clue": "Tolkien translated an Arthurian work about this knight who matches wits with a \"Green Knight\"",
+          "answer": "(Sir) Gawain",
+          "isDailyDouble": false,
+          "orderNumber": 19,
+          "correctContestants": [
+            "Tom"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 3200
+            },
+            {
+              "player": "Susan",
+              "score": 1200
+            },
+            {
+              "player": "Tom",
+              "score": 1600
+            }
+          ]
+        },
+        {
+          "category": "HERE'S LOOKING AT \"U\", KID",
+          "value": 200,
+          "clue": "This term for any ideal or perfect place comes from the title of Sir Thomas More's opus",
+          "answer": "utopia",
+          "isDailyDouble": false,
+          "orderNumber": 20,
+          "correctContestants": [
+            "David"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 3400
+            },
+            {
+              "player": "Susan",
+              "score": 1200
+            },
+            {
+              "player": "Tom",
+              "score": 1600
+            }
+          ]
+        },
+        {
+          "category": "JUST ONE WORD... PLASTICS",
+          "value": 200,
+          "clue": "Polypropelene containers melt at 320 deg., so they are safe to put in this appliance that uses 140-degree water",
+          "answer": "a dishwasher",
+          "isDailyDouble": false,
+          "orderNumber": 21,
+          "correctContestants": [
+            "Tom"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 3400
+            },
+            {
+              "player": "Susan",
+              "score": 1200
+            },
+            {
+              "player": "Tom",
+              "score": 1800
+            }
+          ]
+        },
+        {
+          "category": "HERE'S LOOKING AT \"U\", KID",
+          "value": 400,
+          "clue": "It comes in radioactive isotopes like 235 & 238",
+          "answer": "uranium",
+          "isDailyDouble": false,
+          "orderNumber": 22,
+          "correctContestants": [
+            "David"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 3800
+            },
+            {
+              "player": "Susan",
+              "score": 1200
+            },
+            {
+              "player": "Tom",
+              "score": 1800
+            }
+          ]
+        },
+        {
+          "category": "YOU TOLKIEN TO ME?",
+          "value": 1000,
+          "clue": "The title \"The Lord of the Rings\" refers to this dark lord",
+          "answer": "Sauron",
+          "isDailyDouble": false,
+          "orderNumber": 23,
+          "correctContestants": [
+            "David"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 4800
+            },
+            {
+              "player": "Susan",
+              "score": 1200
+            },
+            {
+              "player": "Tom",
+              "score": 1800
+            }
+          ]
+        },
+        {
+          "category": "HERE'S LOOKING AT \"U\", KID",
+          "value": 600,
+          "clue": "The lending of money at an exorbitant rate of interest",
+          "answer": "usury",
+          "isDailyDouble": false,
+          "orderNumber": 24,
+          "correctContestants": [
+            "David"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 5400
+            },
+            {
+              "player": "Susan",
+              "score": 1200
+            },
+            {
+              "player": "Tom",
+              "score": 1800
+            }
+          ]
+        },
+        {
+          "category": "JUST ONE WORD... PLASTICS",
+          "value": 400,
+          "clue": "The \"V\" in PVC, it's energy-efficient because it's made more of salt than petroleum",
+          "answer": "vinyl",
+          "isDailyDouble": false,
+          "orderNumber": 25,
+          "correctContestants": [
+            "David"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 5800
+            },
+            {
+              "player": "Susan",
+              "score": 1200
+            },
+            {
+              "player": "Tom",
+              "score": 1800
+            }
+          ]
+        },
+        {
+          "category": "JUST ONE WORD... PLASTICS",
+          "value": 600,
+          "clue": "The \"bubble\" types of this headgear associated with early astronauts were made of GE's Lexan",
+          "answer": "helmets",
+          "isDailyDouble": false,
+          "orderNumber": 26,
+          "correctContestants": [
+            "Tom"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 5800
+            },
+            {
+              "player": "Susan",
+              "score": 1200
+            },
+            {
+              "player": "Tom",
+              "score": 2400
+            }
+          ]
+        },
+        {
+          "category": "HERE'S LOOKING AT \"U\", KID",
+          "value": 800,
+          "clue": "On the web, it's the U in URL",
+          "answer": "universal",
+          "isDailyDouble": false,
+          "orderNumber": 27,
+          "correctContestants": [
+            "David"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 6600
+            },
+            {
+              "player": "Susan",
+              "score": 1200
+            },
+            {
+              "player": "Tom",
+              "score": 2400
+            }
+          ]
+        },
+        {
+          "category": "HERE'S LOOKING AT \"U\", KID",
+          "value": 1000,
+          "clue": "Lucknow is the capital city of this most populous state of India",
+          "answer": "Uttar Pradesh",
+          "isDailyDouble": false,
+          "orderNumber": 28,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 6600
+            },
+            {
+              "player": "Susan",
+              "score": 1200
+            },
+            {
+              "player": "Tom",
+              "score": 2400
+            }
+          ]
+        },
+        {
+          "category": "JUST ONE WORD... PLASTICS",
+          "value": 800,
+          "clue": "Dow Chemicals says this trademarked polystyrene insulation material isn't used to make cups, as often thought",
+          "answer": "Styrofoam",
+          "isDailyDouble": false,
+          "orderNumber": 29,
+          "correctContestants": [
+            "Tom"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 6600
+            },
+            {
+              "player": "Susan",
+              "score": 1200
+            },
+            {
+              "player": "Tom",
+              "score": 3200
+            }
+          ]
+        },
+        {
+          "category": "JUST ONE WORD... PLASTICS",
+          "value": 1000,
+          "clue": "Used in plastic bags, HDPE & LDPE stand for these two types of \"polyethylene\"",
+          "answer": "high-density & low-density",
+          "isDailyDouble": false,
+          "orderNumber": 30,
+          "correctContestants": [
+            "David"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 7600
+            },
+            {
+              "player": "Susan",
+              "score": 1200
+            },
+            {
+              "player": "Tom",
+              "score": 3200
+            }
+          ]
+        }
+      ],
+      "firstBreakScores": [
+        {
+          "player": "David",
+          "score": 2200
+        },
+        {
+          "player": "Susan",
+          "score": 1200
+        },
+        {
+          "player": "Tom",
+          "score": 800
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "David",
+          "score": 7600
+        },
+        {
+          "player": "Susan",
+          "score": 1200
+        },
+        {
+          "player": "Tom",
+          "score": 3200
+        }
+      ]
+    },
+    "doubleJeopardy": {
+      "categories": [
+        "40 YEARS OF THE NEA",
+        "POP LYRICS",
+        "ANCIENT GREECE",
+        "I’LL SEE YOU IN COURT!",
+        "FILL IN THE OPERATIC BLANK",
+        "10-LETTER WORDS"
+      ],
+      "clues": [
+        {
+          "category": "I’LL SEE YOU IN COURT!",
+          "value": 400,
+          "clue": "She argued 6 cases on women's rights before the Supreme Court in the 1970s; now she’s on the court",
+          "answer": "Ginsburg",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 7600
+            },
+            {
+              "player": "Susan",
+              "score": 1200
+            },
+            {
+              "player": "Tom",
+              "score": 3600
+            }
+          ]
+        },
+        {
+          "category": "I’LL SEE YOU IN COURT!",
+          "value": 800,
+          "clue": "In March 1996 the Supreme Court ruled New York & other cities couldn’t change the results of this 1990 event",
+          "answer": "the census",
+          "isDailyDouble": false,
+          "orderNumber": 2,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 8400
+            },
+            {
+              "player": "Susan",
+              "score": 1200
+            },
+            {
+              "player": "Tom",
+              "score": 3600
+            }
+          ]
+        },
+        {
+          "category": "POP LYRICS",
+          "value": 400,
+          "clue": "In song Elton John said goodbye to Princess Diana, referring to her as this flower",
+          "answer": "rose",
+          "isDailyDouble": false,
+          "orderNumber": 3,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 8400
+            },
+            {
+              "player": "Susan",
+              "score": 1600
+            },
+            {
+              "player": "Tom",
+              "score": 3600
+            }
+          ]
+        },
+        {
+          "category": "POP LYRICS",
+          "value": 800,
+          "clue": "This Whitney Houston hit begins, \"If I should stay, I would only be in your way, so I'll go\"",
+          "answer": "\"I Will Always Love You\"",
+          "isDailyDouble": false,
+          "orderNumber": 4,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 8400
+            },
+            {
+              "player": "Susan",
+              "score": 1600
+            },
+            {
+              "player": "Tom",
+              "score": 4400
+            }
+          ]
+        },
+        {
+          "category": "I’LL SEE YOU IN COURT!",
+          "value": 1200,
+          "clue": "From Latin for \"to move\", one of these, such as a traffic ticket, requires you to pay a fine or appear in court",
+          "answer": "a citation",
+          "isDailyDouble": false,
+          "orderNumber": 5,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 7200
+            },
+            {
+              "player": "Susan",
+              "score": 1600
+            },
+            {
+              "player": "Tom",
+              "score": 4400
+            }
+          ]
+        },
+        {
+          "category": "I’LL SEE YOU IN COURT!",
+          "value": 1600,
+          "clue": "O. Henry, Boss Tweed & Nikolae Ceausescu were all tried & convicted of this crime",
+          "answer": "embezzlement",
+          "isDailyDouble": false,
+          "orderNumber": 6,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 7200
+            },
+            {
+              "player": "Susan",
+              "score": 1600
+            },
+            {
+              "player": "Tom",
+              "score": 4400
+            }
+          ]
+        },
+        {
+          "category": "I’LL SEE YOU IN COURT!",
+          "value": 2000,
+          "clue": "A 1969 case said the phrase \"with all\" these 2 words from Brown v. Board of Education wasn’t being followed",
+          "answer": "deliberate speed",
+          "isDailyDouble": false,
+          "orderNumber": 7,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 7200
+            },
+            {
+              "player": "Susan",
+              "score": 1600
+            },
+            {
+              "player": "Tom",
+              "score": 2400
+            }
+          ]
+        },
+        {
+          "category": "ANCIENT GREECE",
+          "value": 400,
+          "clue": "Thucydides, though from this city, tried to be fair to Sparta in narrating the Peloponnesian War",
+          "answer": "Athens",
+          "isDailyDouble": false,
+          "orderNumber": 8,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 7600
+            },
+            {
+              "player": "Susan",
+              "score": 1600
+            },
+            {
+              "player": "Tom",
+              "score": 2400
+            }
+          ]
+        },
+        {
+          "category": "POP LYRICS",
+          "value": 1200,
+          "clue": "Michael Jackson protested in this hit, \"I've seen the bright get duller, I'm not going to spend my life being a color\"",
+          "answer": "\"Black Or White\"",
+          "isDailyDouble": false,
+          "orderNumber": 9,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 8800
+            },
+            {
+              "player": "Susan",
+              "score": 1600
+            },
+            {
+              "player": "Tom",
+              "score": 2400
+            }
+          ]
+        },
+        {
+          "category": "POP LYRICS",
+          "value": 1600,
+          "clue": "In 1990 Paula Abdul observed, \"I take 2 steps forward, I take 2 steps back, we come together cuz\" of this",
+          "answer": "\"Opposites Attract\"",
+          "isDailyDouble": false,
+          "orderNumber": 10,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 8800
+            },
+            {
+              "player": "Susan",
+              "score": 3200
+            },
+            {
+              "player": "Tom",
+              "score": 2400
+            }
+          ]
+        },
+        {
+          "category": "POP LYRICS",
+          "value": 2000,
+          "clue": "Celine Dion hit whose chorus is \"'Cause I'm your lady & you are my man, whenever you reach for me, I'll do all that I can\"",
+          "answer": "\"The Power Of Love\"",
+          "isDailyDouble": false,
+          "orderNumber": 11,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 10800
+            },
+            {
+              "player": "Susan",
+              "score": 3200
+            },
+            {
+              "player": "Tom",
+              "score": 2400
+            }
+          ]
+        },
+        {
+          "category": "10-LETTER WORDS",
+          "value": 400,
+          "clue": "A child who shares his date of birth with 4 of his siblings",
+          "answer": "a quintuplet",
+          "isDailyDouble": false,
+          "orderNumber": 12,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 10800
+            },
+            {
+              "player": "Susan",
+              "score": 3200
+            },
+            {
+              "player": "Tom",
+              "score": 2800
+            }
+          ]
+        },
+        {
+          "category": "ANCIENT GREECE",
+          "value": 800,
+          "clue": "Theophrastus followed this man's teachings in physics & metaphysics & followed him as the Lyceum's head",
+          "answer": "Aristotle",
+          "isDailyDouble": false,
+          "orderNumber": 13,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 10800
+            },
+            {
+              "player": "Susan",
+              "score": 3200
+            },
+            {
+              "player": "Tom",
+              "score": 3600
+            }
+          ]
+        },
+        {
+          "category": "ANCIENT GREECE",
+          "value": 1200,
+          "clue": "The most economically important tree, a branch from it symbolized the birth of a boy",
+          "answer": "an olive",
+          "isDailyDouble": false,
+          "orderNumber": 14,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 10800
+            },
+            {
+              "player": "Susan",
+              "score": 3200
+            },
+            {
+              "player": "Tom",
+              "score": 4800
+            }
+          ]
+        },
+        {
+          "category": "ANCIENT GREECE",
+          "value": 2000,
+          "clue": "The modern men's discus weighs 4.4 pounds; the ones found at this site in Greece's Elis Valley weighed up to 9 pounds",
+          "answer": "Olympia",
+          "isDailyDouble": true,
+          "orderNumber": 15,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 10800
+            },
+            {
+              "player": "Susan",
+              "score": 3200
+            },
+            {
+              "player": "Tom",
+              "score": 2800
+            }
+          ]
+        },
+        {
+          "category": "ANCIENT GREECE",
+          "value": 2000,
+          "clue": "The name of this wise lawgiver of around 600 B.C. has come to mean any legislator",
+          "answer": "Solon",
+          "isDailyDouble": false,
+          "orderNumber": 16,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 10800
+            },
+            {
+              "player": "Susan",
+              "score": 3200
+            },
+            {
+              "player": "Tom",
+              "score": 4800
+            }
+          ]
+        },
+        {
+          "category": "40 YEARS OF THE NEA",
+          "value": 400,
+          "clue": "The first NEA grant was awarded to save this Manhattan ballet company",
+          "answer": "the American Ballet Theatre",
+          "isDailyDouble": false,
+          "orderNumber": 17,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 10400
+            },
+            {
+              "player": "Susan",
+              "score": 3200
+            },
+            {
+              "player": "Tom",
+              "score": 4800
+            }
+          ]
+        },
+        {
+          "category": "40 YEARS OF THE NEA",
+          "value": 800,
+          "clue": "The NEA helped to fund & choose the design for this 1982 memorial on the Mall in Washington, D.C.",
+          "answer": "the Vietnam Memorial",
+          "isDailyDouble": false,
+          "orderNumber": 18,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 11200
+            },
+            {
+              "player": "Susan",
+              "score": 3200
+            },
+            {
+              "player": "Tom",
+              "score": 4800
+            }
+          ]
+        },
+        {
+          "category": "10-LETTER WORDS",
+          "value": 800,
+          "clue": "Seen here, this building in Ohio's capital was built by 19th-century convicts",
+          "answer": "the Statehouse",
+          "isDailyDouble": false,
+          "orderNumber": 19,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 11200
+            },
+            {
+              "player": "Susan",
+              "score": 3200
+            },
+            {
+              "player": "Tom",
+              "score": 4800
+            }
+          ]
+        },
+        {
+          "category": "10-LETTER WORDS",
+          "value": 2800,
+          "clue": "To talk to the Fish-Footman or the Mock Turtle, this is where you have to go",
+          "answer": "Wonderland",
+          "isDailyDouble": true,
+          "orderNumber": 20,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 8400
+            },
+            {
+              "player": "Susan",
+              "score": 3200
+            },
+            {
+              "player": "Tom",
+              "score": 4800
+            }
+          ]
+        },
+        {
+          "category": "10-LETTER WORDS",
+          "value": 1600,
+          "clue": "(Cheryl of the Clue Crew reads as she & Jon play cards.)  Jon's keeping his cards under the table; I have mine above the table, which gave us this word meaning \"without deceit\"",
+          "answer": "aboveboard",
+          "isDailyDouble": false,
+          "orderNumber": 21,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 8400
+            },
+            {
+              "player": "Susan",
+              "score": 4800
+            },
+            {
+              "player": "Tom",
+              "score": 4800
+            }
+          ]
+        },
+        {
+          "category": "10-LETTER WORDS",
+          "value": 2000,
+          "clue": "When you write a paper, you don't copy directly, but do this, a verb meaning restate or put into other words",
+          "answer": "paraphrase",
+          "isDailyDouble": false,
+          "orderNumber": 22,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 6400
+            },
+            {
+              "player": "Susan",
+              "score": 6800
+            },
+            {
+              "player": "Tom",
+              "score": 4800
+            }
+          ]
+        },
+        {
+          "category": "FILL IN THE OPERATIC BLANK",
+          "value": 400,
+          "clue": "Rossini:\"William ____\"",
+          "answer": "Tell",
+          "isDailyDouble": false,
+          "orderNumber": 23,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 6400
+            },
+            {
+              "player": "Susan",
+              "score": 7200
+            },
+            {
+              "player": "Tom",
+              "score": 4800
+            }
+          ]
+        },
+        {
+          "category": "FILL IN THE OPERATIC BLANK",
+          "value": 800,
+          "clue": "Wagner:\"The Ring of the ____\"",
+          "answer": "Niebelung",
+          "isDailyDouble": false,
+          "orderNumber": 24,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 6400
+            },
+            {
+              "player": "Susan",
+              "score": 8000
+            },
+            {
+              "player": "Tom",
+              "score": 4800
+            }
+          ]
+        },
+        {
+          "category": "FILL IN THE OPERATIC BLANK",
+          "value": 1200,
+          "clue": "Mussorgsky:\"Boris ____\"",
+          "answer": "Godunov",
+          "isDailyDouble": false,
+          "orderNumber": 25,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 6400
+            },
+            {
+              "player": "Susan",
+              "score": 8000
+            },
+            {
+              "player": "Tom",
+              "score": 4800
+            }
+          ]
+        },
+        {
+          "category": "FILL IN THE OPERATIC BLANK",
+          "value": 1600,
+          "clue": "Mozart:\"____ fan tutte\"",
+          "answer": "Così",
+          "isDailyDouble": false,
+          "orderNumber": 26,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 8000
+            },
+            {
+              "player": "Susan",
+              "score": 8000
+            },
+            {
+              "player": "Tom",
+              "score": 4800
+            }
+          ]
+        },
+        {
+          "category": "40 YEARS OF THE NEA",
+          "value": 1200,
+          "clue": "Guy Noir knows the NEA gave early, critical funding to start this Minnesota Public Radio variety show",
+          "answer": "A Prairie Home Companion",
+          "isDailyDouble": false,
+          "orderNumber": 27,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 8000
+            },
+            {
+              "player": "Susan",
+              "score": 8000
+            },
+            {
+              "player": "Tom",
+              "score": 4800
+            }
+          ]
+        },
+        {
+          "category": "40 YEARS OF THE NEA",
+          "value": 1600,
+          "clue": "In 1967 the NEA helped found this organization set up to preserve our country's movie heritage",
+          "answer": "the AFI (the American Film Institute)",
+          "isDailyDouble": false,
+          "orderNumber": 28,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 9600
+            },
+            {
+              "player": "Susan",
+              "score": 8000
+            },
+            {
+              "player": "Tom",
+              "score": 4800
+            }
+          ]
+        },
+        {
+          "category": "FILL IN THE OPERATIC BLANK",
+          "value": 2000,
+          "clue": "Beethoven:\"____\"",
+          "answer": "Fidelio",
+          "isDailyDouble": false,
+          "orderNumber": 29,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 7600
+            },
+            {
+              "player": "Susan",
+              "score": 8000
+            },
+            {
+              "player": "Tom",
+              "score": 4800
+            }
+          ]
+        },
+        {
+          "category": "40 YEARS OF THE NEA",
+          "value": 2000,
+          "clue": "Actor Gary Sinise co-founded the Steppenwolf Theatre in this city & expanded its repertoire with NEA grants",
+          "answer": "Chicago",
+          "isDailyDouble": false,
+          "orderNumber": 30,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 7600
+            },
+            {
+              "player": "Susan",
+              "score": 10000
+            },
+            {
+              "player": "Tom",
+              "score": 4800
+            }
+          ]
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "David",
+          "score": 7600
+        },
+        {
+          "player": "Susan",
+          "score": 10000
+        },
+        {
+          "player": "Tom",
+          "score": 4800
+        }
+      ]
+    },
+    "finalJeopardy": {
+      "category": "PRO FOOTBALL GEOGRAPHY",
+      "clue": "Of all the U.S. states with 2 current NFL teams, it’s the only state the Mississippi River touches",
+      "answer": "Missouri",
+      "responses": [
+        {
+          "contestant": "Tom",
+          "response": "What is Minnesota",
+          "isCorrect": false,
+          "isIncorrect": true,
+          "value": 4700,
+          "finalScore": 100
+        },
+        {
+          "contestant": "David",
+          "response": "What is Florida?",
+          "isCorrect": false,
+          "isIncorrect": true,
+          "value": 2001,
+          "finalScore": 5599
+        },
+        {
+          "contestant": "Susan",
+          "response": "What is Minnesota",
+          "isCorrect": false,
+          "isIncorrect": true,
+          "value": 2000,
+          "finalScore": 8000
+        }
+      ]
+    }
+  },
+  "finalScores": [
+    {
+      "player": "David",
+      "score": "$5,599"
+    },
+    {
+      "player": "Susan",
+      "score": "$8,000"
+    },
+    {
+      "player": "Tom",
+      "score": "$100"
+    }
+  ],
+  "coryatScores": [
+    {
+      "player": "David",
+      "score": 10400
+    },
+    {
+      "player": "Susan",
+      "score": 10800
+    },
+    {
+      "player": "Tom",
+      "score": 6800
+    }
+  ]
+}

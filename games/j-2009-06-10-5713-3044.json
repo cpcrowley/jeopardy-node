@@ -1,0 +1,1708 @@
+{
+  "gameId": 3044,
+  "showNumber": "5713",
+  "title": "Show #5713 - Wednesday, June 10, 2009",
+  "date": "2009-06-10",
+  "comments": "",
+  "contestants": [
+    "Baltazar",
+    "Jennifer",
+    "Jason"
+  ],
+  "rounds": {
+    "jeopardy": {
+      "categories": [
+        "WELCOME TO LISBON",
+        "TV CASTS",
+        "COME FLY WITH ME",
+        "TAILGATE CUISINE",
+        "IS THERE A DOCTOR IN THE HOUSE?",
+        "THE \"OC\""
+      ],
+      "clues": [
+        {
+          "category": "TV CASTS",
+          "value": 200,
+          "clue": "Eva Longoria,Felicity Huffman,Dana Delany",
+          "answer": "Desperate Housewives",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [
+            "Jennifer"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Baltazar",
+              "score": 0
+            },
+            {
+              "player": "Jennifer",
+              "score": 200
+            },
+            {
+              "player": "Jason",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "TAILGATE CUISINE",
+          "value": 200,
+          "clue": "Bratwash, a liquid found at Wisconsin tailgate parties, is this to the rest of us",
+          "answer": "beer",
+          "isDailyDouble": false,
+          "orderNumber": 2,
+          "correctContestants": [
+            "Jennifer"
+          ],
+          "incorrectContestants": [
+            "Baltazar",
+            "Jason"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Baltazar",
+              "score": -200
+            },
+            {
+              "player": "Jennifer",
+              "score": 400
+            },
+            {
+              "player": "Jason",
+              "score": -200
+            }
+          ]
+        },
+        {
+          "category": "TAILGATE CUISINE",
+          "value": 400,
+          "clue": "Slice into pieces & grill in butter to prepare grilled stickies, a pastry delight for this school's Nittany Lions",
+          "answer": "Penn State",
+          "isDailyDouble": false,
+          "orderNumber": 3,
+          "correctContestants": [
+            "Jennifer"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Baltazar",
+              "score": -200
+            },
+            {
+              "player": "Jennifer",
+              "score": 800
+            },
+            {
+              "player": "Jason",
+              "score": -200
+            }
+          ]
+        },
+        {
+          "category": "TAILGATE CUISINE",
+          "value": 600,
+          "clue": "Arizona State tailgaters favor hot salsa & this cocktail that uses a dash of Tabasco--& that's for breakfast",
+          "answer": "a Bloody Mary",
+          "isDailyDouble": false,
+          "orderNumber": 4,
+          "correctContestants": [
+            "Baltazar"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Baltazar",
+              "score": 400
+            },
+            {
+              "player": "Jennifer",
+              "score": 800
+            },
+            {
+              "player": "Jason",
+              "score": -200
+            }
+          ]
+        },
+        {
+          "category": "TAILGATE CUISINE",
+          "value": 800,
+          "clue": "Recipes vary for a Georgia Dawgs tailgate favorite, boiled these; the shells of some absorb more salt than others",
+          "answer": "peanuts",
+          "isDailyDouble": false,
+          "orderNumber": 5,
+          "correctContestants": [
+            "Jason"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Baltazar",
+              "score": 400
+            },
+            {
+              "player": "Jennifer",
+              "score": 800
+            },
+            {
+              "player": "Jason",
+              "score": 600
+            }
+          ]
+        },
+        {
+          "category": "IS THERE A DOCTOR IN THE HOUSE?",
+          "value": 200,
+          "clue": "The abbreviation OB/GYN tells you the doc specializes in these 2 fields, baby",
+          "answer": "obstetrics & gynecology",
+          "isDailyDouble": false,
+          "orderNumber": 6,
+          "correctContestants": [
+            "Baltazar"
+          ],
+          "incorrectContestants": [
+            "Jennifer"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Baltazar",
+              "score": 600
+            },
+            {
+              "player": "Jennifer",
+              "score": 600
+            },
+            {
+              "player": "Jason",
+              "score": 600
+            }
+          ]
+        },
+        {
+          "category": "IS THERE A DOCTOR IN THE HOUSE?",
+          "value": 400,
+          "clue": "See Jane, see Jane see better by going to this type of M.D.  Better like this, Jane?  Or like this?",
+          "answer": "an ophthalmologist",
+          "isDailyDouble": false,
+          "orderNumber": 7,
+          "correctContestants": [
+            "Jennifer"
+          ],
+          "incorrectContestants": [
+            "Baltazar"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Baltazar",
+              "score": 200
+            },
+            {
+              "player": "Jennifer",
+              "score": 1000
+            },
+            {
+              "player": "Jason",
+              "score": 600
+            }
+          ]
+        },
+        {
+          "category": "IS THERE A DOCTOR IN THE HOUSE?",
+          "value": 600,
+          "clue": "If you have warts, you'd resort to this specialty that also deals with blisters & burns",
+          "answer": "a dermatologist",
+          "isDailyDouble": false,
+          "orderNumber": 8,
+          "correctContestants": [
+            "Jennifer"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Baltazar",
+              "score": 200
+            },
+            {
+              "player": "Jennifer",
+              "score": 1600
+            },
+            {
+              "player": "Jason",
+              "score": 600
+            }
+          ]
+        },
+        {
+          "category": "IS THERE A DOCTOR IN THE HOUSE?",
+          "value": 800,
+          "clue": "You gotta have heart with this branch of medicine whose foundation was laid in 1628 by William Harvey",
+          "answer": "cardiology",
+          "isDailyDouble": false,
+          "orderNumber": 9,
+          "correctContestants": [
+            "Jason"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Baltazar",
+              "score": 200
+            },
+            {
+              "player": "Jennifer",
+              "score": 1600
+            },
+            {
+              "player": "Jason",
+              "score": 1400
+            }
+          ]
+        },
+        {
+          "category": "IS THERE A DOCTOR IN THE HOUSE?",
+          "value": 1400,
+          "clue": "A specialist in this 9-letter field treats diseases like Alzheimer's, Huntington's & MS",
+          "answer": "neurology",
+          "isDailyDouble": true,
+          "orderNumber": 10,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Jason"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Baltazar",
+              "score": 200
+            },
+            {
+              "player": "Jennifer",
+              "score": 1600
+            },
+            {
+              "player": "Jason",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "TAILGATE CUISINE",
+          "value": 1000,
+          "clue": "Seen here, they're a traditional treat for tailgating at Ravens or Terrapins games",
+          "answer": "crab cakes",
+          "isDailyDouble": false,
+          "orderNumber": 11,
+          "correctContestants": [
+            "Baltazar"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Baltazar",
+              "score": 1200
+            },
+            {
+              "player": "Jennifer",
+              "score": 1600
+            },
+            {
+              "player": "Jason",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "WELCOME TO LISBON",
+          "value": 200,
+          "clue": "(Kelly of the Clue Crew reports from the Castelo de Sao Jorge in Lisbon, Portugal.)  The Castelo de Sao Jorge was captured from the Moors in 1147 by a group of these people who were headed for the Middle East but detoured to Lisbon for money",
+          "answer": "the Crusaders",
+          "isDailyDouble": false,
+          "orderNumber": 12,
+          "correctContestants": [
+            "Jennifer"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Baltazar",
+              "score": 1200
+            },
+            {
+              "player": "Jennifer",
+              "score": 1800
+            },
+            {
+              "player": "Jason",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "WELCOME TO LISBON",
+          "value": 400,
+          "clue": "(Jon of the Clue Crew reports from Alfama in Lisbon, Portugal.)  Built on bedrock, the Alfama area survived the 1755 earthquake that killed 60,000 people & inspired this author's critique of optimistic thinking in \"Candide\"",
+          "answer": "Voltaire",
+          "isDailyDouble": false,
+          "orderNumber": 13,
+          "correctContestants": [
+            "Jason"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Baltazar",
+              "score": 1200
+            },
+            {
+              "player": "Jennifer",
+              "score": 1800
+            },
+            {
+              "player": "Jason",
+              "score": 400
+            }
+          ]
+        },
+        {
+          "category": "WELCOME TO LISBON",
+          "value": 600,
+          "clue": "(Jon of the Clue Crew reports from the Monument to the Discoveries in Lisbon, Portugal.)  Lisbon's Monument to the Discoveries features many of Portugal's great seafarers, but the man in front is this royal patron who didn't personally discover anything",
+          "answer": "Henry the Navigator",
+          "isDailyDouble": false,
+          "orderNumber": 14,
+          "correctContestants": [
+            "Jennifer"
+          ],
+          "incorrectContestants": [
+            "Baltazar"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Baltazar",
+              "score": 600
+            },
+            {
+              "player": "Jennifer",
+              "score": 2400
+            },
+            {
+              "player": "Jason",
+              "score": 400
+            }
+          ]
+        },
+        {
+          "category": "TV CASTS",
+          "value": 400,
+          "clue": "John Larroquette,Christian Clemenson,James Spader",
+          "answer": "Boston Legal",
+          "isDailyDouble": false,
+          "orderNumber": 15,
+          "correctContestants": [
+            "Jason"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Baltazar",
+              "score": 600
+            },
+            {
+              "player": "Jennifer",
+              "score": 2400
+            },
+            {
+              "player": "Jason",
+              "score": 800
+            }
+          ]
+        },
+        {
+          "category": "TV CASTS",
+          "value": 600,
+          "clue": "Rob Morrow,David Krumholtz,Judd Hirsch",
+          "answer": "Numb3rs",
+          "isDailyDouble": false,
+          "orderNumber": 16,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Baltazar"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Baltazar",
+              "score": 0
+            },
+            {
+              "player": "Jennifer",
+              "score": 2400
+            },
+            {
+              "player": "Jason",
+              "score": 800
+            }
+          ]
+        },
+        {
+          "category": "TV CASTS",
+          "value": 800,
+          "clue": "Milo Ventimiglia,Jimmy Jean-Louis,Ali Larter",
+          "answer": "Heroes",
+          "isDailyDouble": false,
+          "orderNumber": 17,
+          "correctContestants": [
+            "Baltazar"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Baltazar",
+              "score": 800
+            },
+            {
+              "player": "Jennifer",
+              "score": 2400
+            },
+            {
+              "player": "Jason",
+              "score": 800
+            }
+          ]
+        },
+        {
+          "category": "TV CASTS",
+          "value": 1000,
+          "clue": "Kyle Chandler,Connie Britton,Zach Gilford",
+          "answer": "Friday Night Lights",
+          "isDailyDouble": false,
+          "orderNumber": 18,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Baltazar",
+              "score": 800
+            },
+            {
+              "player": "Jennifer",
+              "score": 2400
+            },
+            {
+              "player": "Jason",
+              "score": 800
+            }
+          ]
+        },
+        {
+          "category": "THE \"OC\"",
+          "value": 200,
+          "clue": "It's an eyeglass for one eye",
+          "answer": "a monocle",
+          "isDailyDouble": false,
+          "orderNumber": 19,
+          "correctContestants": [
+            "Jason"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Baltazar",
+              "score": 800
+            },
+            {
+              "player": "Jennifer",
+              "score": 2400
+            },
+            {
+              "player": "Jason",
+              "score": 1000
+            }
+          ]
+        },
+        {
+          "category": "THE \"OC\"",
+          "value": 400,
+          "clue": "It means great destruction or devastation, & some people \"wreak\" it",
+          "answer": "havoc",
+          "isDailyDouble": false,
+          "orderNumber": 20,
+          "correctContestants": [
+            "Jennifer"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Baltazar",
+              "score": 800
+            },
+            {
+              "player": "Jennifer",
+              "score": 2800
+            },
+            {
+              "player": "Jason",
+              "score": 1000
+            }
+          ]
+        },
+        {
+          "category": "THE \"OC\"",
+          "value": 600,
+          "clue": "They're footwear for every season; in winter, slip into the fleece-lined ones seen here",
+          "answer": "Crocs",
+          "isDailyDouble": false,
+          "orderNumber": 21,
+          "correctContestants": [
+            "Jennifer"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Baltazar",
+              "score": 800
+            },
+            {
+              "player": "Jennifer",
+              "score": 3400
+            },
+            {
+              "player": "Jason",
+              "score": 1000
+            }
+          ]
+        },
+        {
+          "category": "THE \"OC\"",
+          "value": 800,
+          "clue": "In an idiom meaning \"to the full extent\", these 2 items precede \"barrel\"",
+          "answer": "lock & stock",
+          "isDailyDouble": false,
+          "orderNumber": 22,
+          "correctContestants": [
+            "Jennifer"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Baltazar",
+              "score": 800
+            },
+            {
+              "player": "Jennifer",
+              "score": 4200
+            },
+            {
+              "player": "Jason",
+              "score": 1000
+            }
+          ]
+        },
+        {
+          "category": "THE \"OC\"",
+          "value": 1000,
+          "clue": "It's a chocolatey brown color, or a flavoring of coffee & chocolate",
+          "answer": "mocha",
+          "isDailyDouble": false,
+          "orderNumber": 23,
+          "correctContestants": [
+            "Jason"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Baltazar",
+              "score": 800
+            },
+            {
+              "player": "Jennifer",
+              "score": 4200
+            },
+            {
+              "player": "Jason",
+              "score": 2000
+            }
+          ]
+        },
+        {
+          "category": "COME FLY WITH ME",
+          "value": 200,
+          "clue": "Nearly 3,000 flights a day take to this airline's \"friendly skies\"",
+          "answer": "United",
+          "isDailyDouble": false,
+          "orderNumber": 24,
+          "correctContestants": [
+            "Jennifer"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Baltazar",
+              "score": 800
+            },
+            {
+              "player": "Jennifer",
+              "score": 4400
+            },
+            {
+              "player": "Jason",
+              "score": 2000
+            }
+          ]
+        },
+        {
+          "category": "COME FLY WITH ME",
+          "value": 400,
+          "clue": "\"You are now free to move about the country\" on this airline, founded in Texas in 1971",
+          "answer": "Southwest",
+          "isDailyDouble": false,
+          "orderNumber": 25,
+          "correctContestants": [
+            "Jason"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Baltazar",
+              "score": 800
+            },
+            {
+              "player": "Jennifer",
+              "score": 4400
+            },
+            {
+              "player": "Jason",
+              "score": 2400
+            }
+          ]
+        },
+        {
+          "category": "COME FLY WITH ME",
+          "value": 600,
+          "clue": "In 2008 this \"colorful\" airline got a new home at JFK's Terminal 5",
+          "answer": "JetBlue",
+          "isDailyDouble": false,
+          "orderNumber": 26,
+          "correctContestants": [
+            "Jason"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Baltazar",
+              "score": 800
+            },
+            {
+              "player": "Jennifer",
+              "score": 4400
+            },
+            {
+              "player": "Jason",
+              "score": 3000
+            }
+          ]
+        },
+        {
+          "category": "COME FLY WITH ME",
+          "value": 800,
+          "clue": "The new symbol for this airline is seen here",
+          "answer": "Qantas",
+          "isDailyDouble": false,
+          "orderNumber": 27,
+          "correctContestants": [
+            "Jennifer"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Baltazar",
+              "score": 800
+            },
+            {
+              "player": "Jennifer",
+              "score": 5200
+            },
+            {
+              "player": "Jason",
+              "score": 3000
+            }
+          ]
+        },
+        {
+          "category": "COME FLY WITH ME",
+          "value": 1000,
+          "clue": "In 2009 you could go one-way from Orlando to the Dublin head office of this airline for $242",
+          "answer": "Aer Lingus",
+          "isDailyDouble": false,
+          "orderNumber": 28,
+          "correctContestants": [
+            "Jason"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Baltazar",
+              "score": 800
+            },
+            {
+              "player": "Jennifer",
+              "score": 5200
+            },
+            {
+              "player": "Jason",
+              "score": 4000
+            }
+          ]
+        },
+        {
+          "category": "WELCOME TO LISBON",
+          "value": 800,
+          "clue": "(Kelly of the Clue Crew reports from a city square in Lisbon, Portugal.)  Portugal's great writers include José Saramago, who grew up in Lisbon & who wrote this novel adapted into a 2008 movie with Julianne Moore",
+          "answer": "Blindness",
+          "isDailyDouble": false,
+          "orderNumber": 29,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Baltazar",
+              "score": 800
+            },
+            {
+              "player": "Jennifer",
+              "score": 5200
+            },
+            {
+              "player": "Jason",
+              "score": 4000
+            }
+          ]
+        },
+        {
+          "category": "WELCOME TO LISBON",
+          "value": 1000,
+          "clue": "(Jon of the Clue Crew reports from the 25th of April Bridge in Lisbon, Portugal.)  Resembling the Golden Gate Bridge, Lisbon's 25th of April Bridge was originally named for this dictator, but is now named for the date of 1974's revolution against his regime",
+          "answer": "Antonio de Salazar",
+          "isDailyDouble": false,
+          "orderNumber": 30,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Baltazar",
+              "score": 800
+            },
+            {
+              "player": "Jennifer",
+              "score": 5200
+            },
+            {
+              "player": "Jason",
+              "score": 4000
+            }
+          ]
+        }
+      ],
+      "firstBreakScores": [
+        {
+          "player": "Baltazar",
+          "score": 600
+        },
+        {
+          "player": "Jennifer",
+          "score": 2400
+        },
+        {
+          "player": "Jason",
+          "score": 400
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "Baltazar",
+          "score": 800
+        },
+        {
+          "player": "Jennifer",
+          "score": 5200
+        },
+        {
+          "player": "Jason",
+          "score": 4000
+        }
+      ]
+    },
+    "doubleJeopardy": {
+      "categories": [
+        "OSCAR WINNERS IN 2009",
+        "THE READER",
+        "MILK",
+        "THE DARK KNIGHT",
+        "THE CURIOUS CASE OF BENJAMIN BRITTEN",
+        "WALL TO WALL-E's"
+      ],
+      "clues": [
+        {
+          "category": "THE DARK KNIGHT",
+          "value": 400,
+          "clue": "In one legend this top knight disguises himself in black armor to help King Arthur after they've had a falling out",
+          "answer": "Sir Lancelot",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Baltazar",
+              "score": 800
+            },
+            {
+              "player": "Jennifer",
+              "score": 5200
+            },
+            {
+              "player": "Jason",
+              "score": 4400
+            }
+          ]
+        },
+        {
+          "category": "THE DARK KNIGHT",
+          "value": 800,
+          "clue": "In this Monty Python film, King Arthur battles a very, very determined Black Knight",
+          "answer": "Monty Python and the Holy Grail",
+          "isDailyDouble": false,
+          "orderNumber": 2,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Jason"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Baltazar",
+              "score": 0
+            },
+            {
+              "player": "Jennifer",
+              "score": 5200
+            },
+            {
+              "player": "Jason",
+              "score": 3600
+            }
+          ]
+        },
+        {
+          "category": "THE DARK KNIGHT",
+          "value": 1200,
+          "clue": "In \"Ivanhoe\", this crusader king disguises himself as the Black Knight to aid the hero",
+          "answer": "Richard the Lionhearted",
+          "isDailyDouble": false,
+          "orderNumber": 3,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Baltazar",
+              "score": 0
+            },
+            {
+              "player": "Jennifer",
+              "score": 5200
+            },
+            {
+              "player": "Jason",
+              "score": 4800
+            }
+          ]
+        },
+        {
+          "category": "THE DARK KNIGHT",
+          "value": 1200,
+          "clue": "Edward of Woodstock, Knight of the Garter & heir to the British Throne, is better known to history as this",
+          "answer": "the Black Prince",
+          "isDailyDouble": true,
+          "orderNumber": 4,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Baltazar",
+              "score": 0
+            },
+            {
+              "player": "Jennifer",
+              "score": 5200
+            },
+            {
+              "player": "Jason",
+              "score": 3600
+            }
+          ]
+        },
+        {
+          "category": "THE DARK KNIGHT",
+          "value": 2000,
+          "clue": "In this author's \"Morte d'Arthur\", Sir Bewmaynes beats 3 brothers: the Black Knight, the Red Knight & the Green Knight",
+          "answer": "Sir Thomas Malory",
+          "isDailyDouble": false,
+          "orderNumber": 5,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Baltazar",
+              "score": 0
+            },
+            {
+              "player": "Jennifer",
+              "score": 5200
+            },
+            {
+              "player": "Jason",
+              "score": 3600
+            }
+          ]
+        },
+        {
+          "category": "WALL TO WALL-E's",
+          "value": 400,
+          "clue": "Tenders of an apiary",
+          "answer": "beekeepers",
+          "isDailyDouble": false,
+          "orderNumber": 6,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Baltazar",
+              "score": 0
+            },
+            {
+              "player": "Jennifer",
+              "score": 5600
+            },
+            {
+              "player": "Jason",
+              "score": 3600
+            }
+          ]
+        },
+        {
+          "category": "WALL TO WALL-E's",
+          "value": 2000,
+          "clue": "Georgia did it in January 1861; Venezuela did it in 1829",
+          "answer": "secede",
+          "isDailyDouble": true,
+          "orderNumber": 7,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Baltazar",
+              "score": 0
+            },
+            {
+              "player": "Jennifer",
+              "score": 7600
+            },
+            {
+              "player": "Jason",
+              "score": 3600
+            }
+          ]
+        },
+        {
+          "category": "WALL TO WALL-E's",
+          "value": 1200,
+          "clue": "Title for Billy Graham, Jesse Jackson or Sun Myung Moon",
+          "answer": "Reverend",
+          "isDailyDouble": false,
+          "orderNumber": 8,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Baltazar",
+              "score": 0
+            },
+            {
+              "player": "Jennifer",
+              "score": 8800
+            },
+            {
+              "player": "Jason",
+              "score": 3600
+            }
+          ]
+        },
+        {
+          "category": "WALL TO WALL-E's",
+          "value": 1600,
+          "clue": "8-letter synonym for \"anytime\"",
+          "answer": "whenever",
+          "isDailyDouble": false,
+          "orderNumber": 9,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Baltazar",
+              "score": 0
+            },
+            {
+              "player": "Jennifer",
+              "score": 8800
+            },
+            {
+              "player": "Jason",
+              "score": 5200
+            }
+          ]
+        },
+        {
+          "category": "WALL TO WALL-E's",
+          "value": 2000,
+          "clue": "Surname of Christopher Hewett's TV housekeeper character, or a popular Polish vodka",
+          "answer": "Belvedere",
+          "isDailyDouble": false,
+          "orderNumber": 10,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Baltazar",
+              "score": 0
+            },
+            {
+              "player": "Jennifer",
+              "score": 8800
+            },
+            {
+              "player": "Jason",
+              "score": 7200
+            }
+          ]
+        },
+        {
+          "category": "THE CURIOUS CASE OF BENJAMIN BRITTEN",
+          "value": 400,
+          "clue": "This network, which had given Britten work since the '30s, commissioned his first opera for TV, shown in 1971",
+          "answer": "the BBC",
+          "isDailyDouble": false,
+          "orderNumber": 11,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Baltazar",
+              "score": 0
+            },
+            {
+              "player": "Jennifer",
+              "score": 8800
+            },
+            {
+              "player": "Jason",
+              "score": 7600
+            }
+          ]
+        },
+        {
+          "category": "THE CURIOUS CASE OF BENJAMIN BRITTEN",
+          "value": 800,
+          "clue": "A friend of many musicians, Britten wrote a sonata for this stringed instrument for Mstislav Rostropovich",
+          "answer": "the cello",
+          "isDailyDouble": false,
+          "orderNumber": 12,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Jason"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Baltazar",
+              "score": -800
+            },
+            {
+              "player": "Jennifer",
+              "score": 9600
+            },
+            {
+              "player": "Jason",
+              "score": 6800
+            }
+          ]
+        },
+        {
+          "category": "MILK",
+          "value": 400,
+          "clue": "Milk Day, observed each January 11, celebrates the first delivery of milk in these containers back in 1878",
+          "answer": "glass bottles",
+          "isDailyDouble": false,
+          "orderNumber": 13,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Baltazar",
+              "score": -400
+            },
+            {
+              "player": "Jennifer",
+              "score": 9600
+            },
+            {
+              "player": "Jason",
+              "score": 6800
+            }
+          ]
+        },
+        {
+          "category": "MILK",
+          "value": 800,
+          "clue": "Milk with a fat content of 3.5% or higher is classed as this type",
+          "answer": "whole milk",
+          "isDailyDouble": false,
+          "orderNumber": 14,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Baltazar",
+              "score": -400
+            },
+            {
+              "player": "Jennifer",
+              "score": 8800
+            },
+            {
+              "player": "Jason",
+              "score": 7600
+            }
+          ]
+        },
+        {
+          "category": "MILK",
+          "value": 1200,
+          "clue": "Some dairies produce milk from this largest deer family member; to get close, farmers douse themselves with calf scent",
+          "answer": "moose",
+          "isDailyDouble": false,
+          "orderNumber": 15,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Baltazar",
+              "score": -400
+            },
+            {
+              "player": "Jennifer",
+              "score": 8800
+            },
+            {
+              "player": "Jason",
+              "score": 8800
+            }
+          ]
+        },
+        {
+          "category": "MILK",
+          "value": 1600,
+          "clue": "With advancing age, many people develop digestion troubles caused by decreased tolerance for this milk sugar",
+          "answer": "lactose",
+          "isDailyDouble": false,
+          "orderNumber": 16,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Baltazar",
+              "score": -400
+            },
+            {
+              "player": "Jennifer",
+              "score": 10400
+            },
+            {
+              "player": "Jason",
+              "score": 8800
+            }
+          ]
+        },
+        {
+          "category": "MILK",
+          "value": 2000,
+          "clue": "Milk is forced through small openings at high pressure to evenly distribute the cream in this process",
+          "answer": "homogenization",
+          "isDailyDouble": false,
+          "orderNumber": 17,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Baltazar",
+              "score": -400
+            },
+            {
+              "player": "Jennifer",
+              "score": 10400
+            },
+            {
+              "player": "Jason",
+              "score": 10800
+            }
+          ]
+        },
+        {
+          "category": "THE READER",
+          "value": 400,
+          "clue": "\"Mr. Timothy\" by Louis Bayard tells the tale of this Dickens character as an adult--God bless us!",
+          "answer": "Tiny Tim",
+          "isDailyDouble": false,
+          "orderNumber": 18,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Baltazar",
+              "score": -800
+            },
+            {
+              "player": "Jennifer",
+              "score": 10400
+            },
+            {
+              "player": "Jason",
+              "score": 11200
+            }
+          ]
+        },
+        {
+          "category": "THE READER",
+          "value": 800,
+          "clue": "\"The Song of Igor's Campaign\" is considered one of the finest poems written in this language",
+          "answer": "Russian",
+          "isDailyDouble": false,
+          "orderNumber": 19,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Baltazar",
+              "score": -800
+            },
+            {
+              "player": "Jennifer",
+              "score": 10400
+            },
+            {
+              "player": "Jason",
+              "score": 12000
+            }
+          ]
+        },
+        {
+          "category": "THE READER",
+          "value": 1200,
+          "clue": "In contrast to tough-guy novels, sentimental stories are said to be this hyphenated word, like a 3-minute egg",
+          "answer": "soft-boiled",
+          "isDailyDouble": false,
+          "orderNumber": 20,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Baltazar",
+              "score": -800
+            },
+            {
+              "player": "Jennifer",
+              "score": 9200
+            },
+            {
+              "player": "Jason",
+              "score": 13200
+            }
+          ]
+        },
+        {
+          "category": "THE READER",
+          "value": 1600,
+          "clue": "James Boyd's Revolutionary War novel \"Drums\" details Johnny Fraser's exploits in this \"Tar Heel State\"",
+          "answer": "North Carolina",
+          "isDailyDouble": false,
+          "orderNumber": 21,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Baltazar",
+              "score": -800
+            },
+            {
+              "player": "Jennifer",
+              "score": 9200
+            },
+            {
+              "player": "Jason",
+              "score": 14800
+            }
+          ]
+        },
+        {
+          "category": "THE READER",
+          "value": 2000,
+          "clue": "This squirrel who stars in a tale by Beatrix Potter has a brother named Twinkleberry",
+          "answer": "Squirrel Nutkin",
+          "isDailyDouble": false,
+          "orderNumber": 22,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Baltazar",
+              "score": -800
+            },
+            {
+              "player": "Jennifer",
+              "score": 9200
+            },
+            {
+              "player": "Jason",
+              "score": 14800
+            }
+          ]
+        },
+        {
+          "category": "OSCAR WINNERS IN 2009",
+          "value": 400,
+          "clue": "This film's 8 Oscars included one for original song \"Jai Ho\"",
+          "answer": "Slumdog Millionaire",
+          "isDailyDouble": false,
+          "orderNumber": 23,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Baltazar",
+              "score": -400
+            },
+            {
+              "player": "Jennifer",
+              "score": 9200
+            },
+            {
+              "player": "Jason",
+              "score": 14800
+            }
+          ]
+        },
+        {
+          "category": "OSCAR WINNERS IN 2009",
+          "value": 800,
+          "clue": "She was named Best Supporting Actress for \"Vicky Cristina Barcelona\"",
+          "answer": "Penélope Cruz",
+          "isDailyDouble": false,
+          "orderNumber": 24,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Baltazar",
+              "score": -400
+            },
+            {
+              "player": "Jennifer",
+              "score": 9200
+            },
+            {
+              "player": "Jason",
+              "score": 15600
+            }
+          ]
+        },
+        {
+          "category": "OSCAR WINNERS IN 2009",
+          "value": 1200,
+          "clue": "This comic's \"Kids\" must have been proud of his Jean Hersholt Humanitarian Award",
+          "answer": "Jerry Lewis",
+          "isDailyDouble": false,
+          "orderNumber": 25,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Baltazar",
+              "score": 800
+            },
+            {
+              "player": "Jennifer",
+              "score": 9200
+            },
+            {
+              "player": "Jason",
+              "score": 14400
+            }
+          ]
+        },
+        {
+          "category": "OSCAR WINNERS IN 2009",
+          "value": 1600,
+          "clue": "This film with Keira Knightley as an 18th century aristocrat was honored for its costume design",
+          "answer": "The Duchess",
+          "isDailyDouble": false,
+          "orderNumber": 26,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Baltazar",
+              "score": 2400
+            },
+            {
+              "player": "Jennifer",
+              "score": 9200
+            },
+            {
+              "player": "Jason",
+              "score": 14400
+            }
+          ]
+        },
+        {
+          "category": "OSCAR WINNERS IN 2009",
+          "value": 2000,
+          "clue": "A documentary on this Frenchman's \"little\" feat of wirewalking between the Twin Towers won an Oscar",
+          "answer": "Philippe Petit",
+          "isDailyDouble": false,
+          "orderNumber": 27,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Baltazar",
+              "score": 2400
+            },
+            {
+              "player": "Jennifer",
+              "score": 9200
+            },
+            {
+              "player": "Jason",
+              "score": 14400
+            }
+          ]
+        },
+        {
+          "category": "THE CURIOUS CASE OF BENJAMIN BRITTEN",
+          "value": 1200,
+          "clue": "In Britten's opera \"Albert Herring\", a young man is made this springtime \"King\" because no village girl is fit to be \"Queen\"",
+          "answer": "the May King",
+          "isDailyDouble": false,
+          "orderNumber": 28,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Baltazar",
+              "score": 2400
+            },
+            {
+              "player": "Jennifer",
+              "score": 9200
+            },
+            {
+              "player": "Jason",
+              "score": 14400
+            }
+          ]
+        },
+        {
+          "category": "THE CURIOUS CASE OF BENJAMIN BRITTEN",
+          "value": 1600,
+          "clue": "Britten's \"Young Person's Guide to\" this has introduced many to the sounds of the various instruments",
+          "answer": "the orchestra",
+          "isDailyDouble": false,
+          "orderNumber": 29,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Jennifer"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Baltazar",
+              "score": 800
+            },
+            {
+              "player": "Jennifer",
+              "score": 7600
+            },
+            {
+              "player": "Jason",
+              "score": 14400
+            }
+          ]
+        },
+        {
+          "category": "THE CURIOUS CASE OF BENJAMIN BRITTEN",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Baltazar",
+              "score": 800
+            },
+            {
+              "player": "Jennifer",
+              "score": 7600
+            },
+            {
+              "player": "Jason",
+              "score": 14400
+            }
+          ]
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "Baltazar",
+          "score": 800
+        },
+        {
+          "player": "Jennifer",
+          "score": 7600
+        },
+        {
+          "player": "Jason",
+          "score": 14400
+        }
+      ]
+    },
+    "finalJeopardy": {
+      "category": "INVENTIONS",
+      "clue": "In the 1870s this innovation revolutionized ranching & made John W. Gates a millionaire",
+      "answer": "barbed wire",
+      "responses": [
+        {
+          "contestant": "Baltazar",
+          "response": "What is automation?",
+          "isCorrect": false,
+          "isIncorrect": true,
+          "value": 800,
+          "finalScore": 0
+        },
+        {
+          "contestant": "Jennifer",
+          "response": "What is barbed wire",
+          "isCorrect": true,
+          "isIncorrect": false,
+          "value": 7599,
+          "finalScore": 15199
+        },
+        {
+          "contestant": "Jason",
+          "response": "What is barbed wire?",
+          "isCorrect": true,
+          "isIncorrect": false,
+          "value": 801,
+          "finalScore": 15201
+        }
+      ]
+    }
+  },
+  "finalScores": [
+    {
+      "player": "Baltazar",
+      "score": "$0"
+    },
+    {
+      "player": "Jennifer",
+      "score": "$15,199"
+    },
+    {
+      "player": "Jason",
+      "score": "$15,201"
+    }
+  ],
+  "coryatScores": [
+    {
+      "player": "Baltazar",
+      "score": 800
+    },
+    {
+      "player": "Jennifer",
+      "score": 6400
+    },
+    {
+      "player": "Jason",
+      "score": 17000
+    }
+  ]
+}

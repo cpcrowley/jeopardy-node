@@ -1,0 +1,1693 @@
+{
+  "gameId": 6415,
+  "showNumber": "686",
+  "title": "Show #686 - Monday, September 7, 1987",
+  "date": "1987-09-07",
+  "comments": "First game of Season 4.",
+  "contestants": [
+    "Michael",
+    "Phyllis",
+    "Ken"
+  ],
+  "rounds": {
+    "jeopardy": {
+      "categories": [
+        "FACTS & FIGURES",
+        "STARTS WITH \"G\"",
+        "COUNTRY MUSIC TRIVIA",
+        "U.S. MILITARY",
+        "POETRY",
+        "GEOGRAPHICAL \"SAINT\"S"
+      ],
+      "clues": [
+        {
+          "category": "POETRY",
+          "value": 100,
+          "clue": "Robert Louis Stevenson said it \"goes in & out with me\"",
+          "answer": "his shadow",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Michael",
+            "Ken"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Michael",
+              "score": -100
+            },
+            {
+              "player": "Phyllis",
+              "score": 0
+            },
+            {
+              "player": "Ken",
+              "score": -100
+            }
+          ]
+        },
+        {
+          "category": "GEOGRAPHICAL \"SAINT\"S",
+          "value": 100,
+          "clue": "The Twin Cities' saintly side",
+          "answer": "Saint Paul",
+          "isDailyDouble": false,
+          "orderNumber": 2,
+          "correctContestants": [
+            "Michael"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michael",
+              "score": 0
+            },
+            {
+              "player": "Phyllis",
+              "score": 0
+            },
+            {
+              "player": "Ken",
+              "score": -100
+            }
+          ]
+        },
+        {
+          "category": "GEOGRAPHICAL \"SAINT\"S",
+          "value": 200,
+          "clue": "In Canada, it's the name of a river, a gulf & a seaway",
+          "answer": "Saint Lawrence",
+          "isDailyDouble": false,
+          "orderNumber": 3,
+          "correctContestants": [
+            "Michael"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michael",
+              "score": 200
+            },
+            {
+              "player": "Phyllis",
+              "score": 0
+            },
+            {
+              "player": "Ken",
+              "score": -100
+            }
+          ]
+        },
+        {
+          "category": "GEOGRAPHICAL \"SAINT\"S",
+          "value": 300,
+          "clue": "Columbus named this Virgin Island Santa Cruz, but it's now called this, which means the same thing",
+          "answer": "Saint Croix",
+          "isDailyDouble": false,
+          "orderNumber": 4,
+          "correctContestants": [
+            "Michael"
+          ],
+          "incorrectContestants": [
+            "Phyllis"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michael",
+              "score": 500
+            },
+            {
+              "player": "Phyllis",
+              "score": -300
+            },
+            {
+              "player": "Ken",
+              "score": -100
+            }
+          ]
+        },
+        {
+          "category": "GEOGRAPHICAL \"SAINT\"S",
+          "value": 400,
+          "clue": "You might go to this resort in Cornwall to meet a man with 7 wives",
+          "answer": "Saint Ives",
+          "isDailyDouble": false,
+          "orderNumber": 5,
+          "correctContestants": [
+            "Phyllis"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michael",
+              "score": 500
+            },
+            {
+              "player": "Phyllis",
+              "score": 100
+            },
+            {
+              "player": "Ken",
+              "score": -100
+            }
+          ]
+        },
+        {
+          "category": "GEOGRAPHICAL \"SAINT\"S",
+          "value": 500,
+          "clue": "This city was the site of the 1st trial of the Dred Scott case, in 1847",
+          "answer": "Saint Louis (Missouri)",
+          "isDailyDouble": false,
+          "orderNumber": 6,
+          "correctContestants": [
+            "Ken"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michael",
+              "score": 500
+            },
+            {
+              "player": "Phyllis",
+              "score": 100
+            },
+            {
+              "player": "Ken",
+              "score": 400
+            }
+          ]
+        },
+        {
+          "category": "U.S. MILITARY",
+          "value": 100,
+          "clue": "Service branch now responsible for all major icebreaking for U.S. armed forces",
+          "answer": "the Coast Guard",
+          "isDailyDouble": false,
+          "orderNumber": 7,
+          "correctContestants": [
+            "Phyllis"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michael",
+              "score": 500
+            },
+            {
+              "player": "Phyllis",
+              "score": 200
+            },
+            {
+              "player": "Ken",
+              "score": 400
+            }
+          ]
+        },
+        {
+          "category": "STARTS WITH \"G\"",
+          "value": 100,
+          "clue": "Avarice",
+          "answer": "greed",
+          "isDailyDouble": false,
+          "orderNumber": 8,
+          "correctContestants": [
+            "Michael"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michael",
+              "score": 600
+            },
+            {
+              "player": "Phyllis",
+              "score": 200
+            },
+            {
+              "player": "Ken",
+              "score": 400
+            }
+          ]
+        },
+        {
+          "category": "STARTS WITH \"G\"",
+          "value": 200,
+          "clue": "An unsanitary cafe, or the soiled utensil they'd expect you to eat with",
+          "answer": "a greasy spoon",
+          "isDailyDouble": false,
+          "orderNumber": 9,
+          "correctContestants": [
+            "Michael"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michael",
+              "score": 800
+            },
+            {
+              "player": "Phyllis",
+              "score": 200
+            },
+            {
+              "player": "Ken",
+              "score": 400
+            }
+          ]
+        },
+        {
+          "category": "STARTS WITH \"G\"",
+          "value": 300,
+          "clue": "Avian term for the number zero",
+          "answer": "a goose egg",
+          "isDailyDouble": false,
+          "orderNumber": 10,
+          "correctContestants": [
+            "Phyllis"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michael",
+              "score": 800
+            },
+            {
+              "player": "Phyllis",
+              "score": 500
+            },
+            {
+              "player": "Ken",
+              "score": 400
+            }
+          ]
+        },
+        {
+          "category": "STARTS WITH \"G\"",
+          "value": 400,
+          "clue": "The inflammation of this firm connective tissue is called gingivitis",
+          "answer": "the gums",
+          "isDailyDouble": false,
+          "orderNumber": 11,
+          "correctContestants": [
+            "Phyllis"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michael",
+              "score": 800
+            },
+            {
+              "player": "Phyllis",
+              "score": 900
+            },
+            {
+              "player": "Ken",
+              "score": 400
+            }
+          ]
+        },
+        {
+          "category": "STARTS WITH \"G\"",
+          "value": 500,
+          "clue": "Even bad wives' surnames were once preceded by this word, short for \"goodwife\"",
+          "answer": "goody",
+          "isDailyDouble": false,
+          "orderNumber": 12,
+          "correctContestants": [
+            "Michael"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michael",
+              "score": 1300
+            },
+            {
+              "player": "Phyllis",
+              "score": 900
+            },
+            {
+              "player": "Ken",
+              "score": 400
+            }
+          ]
+        },
+        {
+          "category": "FACTS & FIGURES",
+          "value": 100,
+          "clue": "Now over 3 million, the population of this west coast U.S. city in 1850 was only 1610",
+          "answer": "Los Angeles",
+          "isDailyDouble": false,
+          "orderNumber": 13,
+          "correctContestants": [
+            "Phyllis"
+          ],
+          "incorrectContestants": [
+            "Michael"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michael",
+              "score": 1200
+            },
+            {
+              "player": "Phyllis",
+              "score": 1000
+            },
+            {
+              "player": "Ken",
+              "score": 400
+            }
+          ]
+        },
+        {
+          "category": "FACTS & FIGURES",
+          "value": 200,
+          "clue": "As of Feb. 1987, 355,691 people, down from 596,897, held this Pentagon security clearance rank",
+          "answer": "Top Secret",
+          "isDailyDouble": false,
+          "orderNumber": 14,
+          "correctContestants": [
+            "Ken"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michael",
+              "score": 1200
+            },
+            {
+              "player": "Phyllis",
+              "score": 1000
+            },
+            {
+              "player": "Ken",
+              "score": 600
+            }
+          ]
+        },
+        {
+          "category": "U.S. MILITARY",
+          "value": 200,
+          "clue": "It's said at peak strength, U.S. Air Forces made up only about 10% of Allied air power in this war",
+          "answer": "the First World War",
+          "isDailyDouble": false,
+          "orderNumber": 15,
+          "correctContestants": [
+            "Phyllis"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michael",
+              "score": 1200
+            },
+            {
+              "player": "Phyllis",
+              "score": 1200
+            },
+            {
+              "player": "Ken",
+              "score": 600
+            }
+          ]
+        },
+        {
+          "category": "U.S. MILITARY",
+          "value": 300,
+          "clue": "Until 1890 when these vessels came into prominence, the Navy had consisted mainly of cruisers",
+          "answer": "battleships",
+          "isDailyDouble": false,
+          "orderNumber": 16,
+          "correctContestants": [
+            "Ken"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michael",
+              "score": 1200
+            },
+            {
+              "player": "Phyllis",
+              "score": 1200
+            },
+            {
+              "player": "Ken",
+              "score": 900
+            }
+          ]
+        },
+        {
+          "category": "U.S. MILITARY",
+          "value": 400,
+          "clue": "San Francisco headquarters of the 6th Army, it's been a military reservation since 1776",
+          "answer": "the Presidio",
+          "isDailyDouble": false,
+          "orderNumber": 17,
+          "correctContestants": [
+            "Phyllis"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michael",
+              "score": 1200
+            },
+            {
+              "player": "Phyllis",
+              "score": 1600
+            },
+            {
+              "player": "Ken",
+              "score": 900
+            }
+          ]
+        },
+        {
+          "category": "U.S. MILITARY",
+          "value": 500,
+          "clue": "Used since 1806, its \"Commandant's House\" is oldest continuous official residence in Washington",
+          "answer": "the Marine Corps",
+          "isDailyDouble": false,
+          "orderNumber": 18,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Michael",
+              "score": 1200
+            },
+            {
+              "player": "Phyllis",
+              "score": 1600
+            },
+            {
+              "player": "Ken",
+              "score": 900
+            }
+          ]
+        },
+        {
+          "category": "FACTS & FIGURES",
+          "value": 300,
+          "clue": "USA Today says this ex-\"GMA\" host averaged 4.3 \"Oh, goshes\" per broadcast",
+          "answer": "David Hartman",
+          "isDailyDouble": false,
+          "orderNumber": 19,
+          "correctContestants": [
+            "Phyllis"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michael",
+              "score": 1200
+            },
+            {
+              "player": "Phyllis",
+              "score": 1900
+            },
+            {
+              "player": "Ken",
+              "score": 900
+            }
+          ]
+        },
+        {
+          "category": "FACTS & FIGURES",
+          "value": 400,
+          "clue": "At 83%, it's the reason men & women gave most often when asked why they got married",
+          "answer": "because they were in love",
+          "isDailyDouble": false,
+          "orderNumber": 20,
+          "correctContestants": [
+            "Phyllis"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michael",
+              "score": 1200
+            },
+            {
+              "player": "Phyllis",
+              "score": 2300
+            },
+            {
+              "player": "Ken",
+              "score": 900
+            }
+          ]
+        },
+        {
+          "category": "FACTS & FIGURES",
+          "value": 500,
+          "clue": "In 1986, this kitchen appliance costing only 5 books was S&H Green Stamps' most popular item",
+          "answer": "an electric can opener",
+          "isDailyDouble": false,
+          "orderNumber": 21,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Phyllis",
+            "Ken"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Michael",
+              "score": 1200
+            },
+            {
+              "player": "Phyllis",
+              "score": 1800
+            },
+            {
+              "player": "Ken",
+              "score": 400
+            }
+          ]
+        },
+        {
+          "category": "COUNTRY MUSIC TRIVIA",
+          "value": 100,
+          "clue": "Tho Loretta Lynn was a coal miner's daughter, she was named for this star of \"The Farmer's Daughter\"",
+          "answer": "Loretta Young",
+          "isDailyDouble": false,
+          "orderNumber": 22,
+          "correctContestants": [
+            "Phyllis"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michael",
+              "score": 1200
+            },
+            {
+              "player": "Phyllis",
+              "score": 1900
+            },
+            {
+              "player": "Ken",
+              "score": 400
+            }
+          ]
+        },
+        {
+          "category": "COUNTRY MUSIC TRIVIA",
+          "value": 200,
+          "clue": "The title of his 1985 autobiography is \"Stuttering Boy\"",
+          "answer": "Mel Tillis",
+          "isDailyDouble": false,
+          "orderNumber": 23,
+          "correctContestants": [
+            "Phyllis"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michael",
+              "score": 1200
+            },
+            {
+              "player": "Phyllis",
+              "score": 2100
+            },
+            {
+              "player": "Ken",
+              "score": 400
+            }
+          ]
+        },
+        {
+          "category": "COUNTRY MUSIC TRIVIA",
+          "value": 300,
+          "clue": "In 1973, 10 years after her death, she became 1st female solo artist elected to Country Hall of Fame",
+          "answer": "Patsy Cline",
+          "isDailyDouble": false,
+          "orderNumber": 24,
+          "correctContestants": [
+            "Ken"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michael",
+              "score": 1200
+            },
+            {
+              "player": "Phyllis",
+              "score": 2100
+            },
+            {
+              "player": "Ken",
+              "score": 700
+            }
+          ]
+        },
+        {
+          "category": "COUNTRY MUSIC TRIVIA",
+          "value": 400,
+          "clue": "In 1980, this singer found his 1st national hit while \"Lookin' For Love\"",
+          "answer": "Johnny Lee",
+          "isDailyDouble": false,
+          "orderNumber": 25,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Michael",
+              "score": 1200
+            },
+            {
+              "player": "Phyllis",
+              "score": 2100
+            },
+            {
+              "player": "Ken",
+              "score": 700
+            }
+          ]
+        },
+        {
+          "category": "COUNTRY MUSIC TRIVIA",
+          "value": 350,
+          "clue": "2 of the 3 female superstars featured on the 1987 album \"Trio\"",
+          "answer": "Linda Ronstadt & Dolly Parton (& Emmylou Harris)",
+          "isDailyDouble": true,
+          "orderNumber": 26,
+          "correctContestants": [
+            "Ken"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michael",
+              "score": 1200
+            },
+            {
+              "player": "Phyllis",
+              "score": 2100
+            },
+            {
+              "player": "Ken",
+              "score": 1050
+            }
+          ]
+        },
+        {
+          "category": "POETRY",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michael",
+              "score": 1200
+            },
+            {
+              "player": "Phyllis",
+              "score": 2100
+            },
+            {
+              "player": "Ken",
+              "score": 1050
+            }
+          ]
+        },
+        {
+          "category": "POETRY",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michael",
+              "score": 1200
+            },
+            {
+              "player": "Phyllis",
+              "score": 2100
+            },
+            {
+              "player": "Ken",
+              "score": 1050
+            }
+          ]
+        },
+        {
+          "category": "POETRY",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michael",
+              "score": 1200
+            },
+            {
+              "player": "Phyllis",
+              "score": 2100
+            },
+            {
+              "player": "Ken",
+              "score": 1050
+            }
+          ]
+        },
+        {
+          "category": "POETRY",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michael",
+              "score": 1200
+            },
+            {
+              "player": "Phyllis",
+              "score": 2100
+            },
+            {
+              "player": "Ken",
+              "score": 1050
+            }
+          ]
+        }
+      ],
+      "firstBreakScores": [
+        {
+          "player": "Michael",
+          "score": 1300
+        },
+        {
+          "player": "Phyllis",
+          "score": 900
+        },
+        {
+          "player": "Ken",
+          "score": 400
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "Michael",
+          "score": 1200
+        },
+        {
+          "player": "Phyllis",
+          "score": 2100
+        },
+        {
+          "player": "Ken",
+          "score": 1050
+        }
+      ]
+    },
+    "doubleJeopardy": {
+      "categories": [
+        "PRESIDENTS",
+        "INDIANS",
+        "SHAKESPEARE ON BROADWAY",
+        "BIOLOGY",
+        "ENGLAND",
+        "CELEBRITY JEOPARDY!"
+      ],
+      "clues": [
+        {
+          "category": "INDIANS",
+          "value": 200,
+          "clue": "The name of this cooked mix of lima beans & corn is from the Narraganset \"msickquatash\", \"ear of corn\"",
+          "answer": "succotash",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michael",
+              "score": 1200
+            },
+            {
+              "player": "Phyllis",
+              "score": 2100
+            },
+            {
+              "player": "Ken",
+              "score": 1250
+            }
+          ]
+        },
+        {
+          "category": "INDIANS",
+          "value": 400,
+          "clue": "For Plains tribes this had a hard sole & soft upper, for eastern tribes, a soft sole & soft upper",
+          "answer": "a moccasin",
+          "isDailyDouble": false,
+          "orderNumber": 2,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michael",
+              "score": 1200
+            },
+            {
+              "player": "Phyllis",
+              "score": 2500
+            },
+            {
+              "player": "Ken",
+              "score": 1250
+            }
+          ]
+        },
+        {
+          "category": "SHAKESPEARE ON BROADWAY",
+          "value": 200,
+          "clue": "Laurence Olivier & Vivien Leigh starred in 1951 as both Shaw's \"Caesar & Cleopatra\" & this duo",
+          "answer": "Anthony & Cleopatra",
+          "isDailyDouble": false,
+          "orderNumber": 3,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michael",
+              "score": 1200
+            },
+            {
+              "player": "Phyllis",
+              "score": 2700
+            },
+            {
+              "player": "Ken",
+              "score": 1250
+            }
+          ]
+        },
+        {
+          "category": "SHAKESPEARE ON BROADWAY",
+          "value": 400,
+          "clue": "Cole Porter musical based on \"The Taming of the Shrew\"",
+          "answer": "Kiss Me, Kate",
+          "isDailyDouble": false,
+          "orderNumber": 4,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michael",
+              "score": 1200
+            },
+            {
+              "player": "Phyllis",
+              "score": 2700
+            },
+            {
+              "player": "Ken",
+              "score": 1650
+            }
+          ]
+        },
+        {
+          "category": "INDIANS",
+          "value": 600,
+          "clue": "Cheeshateaumuck was the only Indian graduate of this college in colonial times",
+          "answer": "Harvard",
+          "isDailyDouble": false,
+          "orderNumber": 5,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michael",
+              "score": 1200
+            },
+            {
+              "player": "Phyllis",
+              "score": 3300
+            },
+            {
+              "player": "Ken",
+              "score": 1650
+            }
+          ]
+        },
+        {
+          "category": "SHAKESPEARE ON BROADWAY",
+          "value": 600,
+          "clue": "In 1979, this \"Godfather\" star limped onto Broadway as \"Richard III\"",
+          "answer": "Al Pacino",
+          "isDailyDouble": false,
+          "orderNumber": 6,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michael",
+              "score": 1800
+            },
+            {
+              "player": "Phyllis",
+              "score": 2700
+            },
+            {
+              "player": "Ken",
+              "score": 1650
+            }
+          ]
+        },
+        {
+          "category": "BIOLOGY",
+          "value": 200,
+          "clue": "Distinguishing color of chlorophyta, 1 of 3 major groups of algae",
+          "answer": "green",
+          "isDailyDouble": false,
+          "orderNumber": 7,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michael",
+              "score": 2000
+            },
+            {
+              "player": "Phyllis",
+              "score": 2700
+            },
+            {
+              "player": "Ken",
+              "score": 1650
+            }
+          ]
+        },
+        {
+          "category": "BIOLOGY",
+          "value": 400,
+          "clue": "A chromosome map identifies these units & what part of the organism they control",
+          "answer": "genes",
+          "isDailyDouble": false,
+          "orderNumber": 8,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michael",
+              "score": 2400
+            },
+            {
+              "player": "Phyllis",
+              "score": 2700
+            },
+            {
+              "player": "Ken",
+              "score": 1650
+            }
+          ]
+        },
+        {
+          "category": "BIOLOGY",
+          "value": 600,
+          "clue": "This book published in 1859 applied theory of natural selection to plant evolution, too",
+          "answer": "The Origin of the Species",
+          "isDailyDouble": false,
+          "orderNumber": 9,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Michael",
+              "score": 2400
+            },
+            {
+              "player": "Phyllis",
+              "score": 2100
+            },
+            {
+              "player": "Ken",
+              "score": 1650
+            }
+          ]
+        },
+        {
+          "category": "BIOLOGY",
+          "value": 800,
+          "clue": "Term for the \"message\" conducting along a nerve fiber, it's also a type of Isuzu",
+          "answer": "an impulse",
+          "isDailyDouble": false,
+          "orderNumber": 10,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michael",
+              "score": 3200
+            },
+            {
+              "player": "Phyllis",
+              "score": 2100
+            },
+            {
+              "player": "Ken",
+              "score": 1650
+            }
+          ]
+        },
+        {
+          "category": "BIOLOGY",
+          "value": 1000,
+          "clue": "From New Latin for \"in glass\", it describes fertilization which took place in a test tube",
+          "answer": "in vitro",
+          "isDailyDouble": false,
+          "orderNumber": 11,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michael",
+              "score": 3200
+            },
+            {
+              "player": "Phyllis",
+              "score": 3100
+            },
+            {
+              "player": "Ken",
+              "score": 1650
+            }
+          ]
+        },
+        {
+          "category": "SHAKESPEARE ON BROADWAY",
+          "value": 800,
+          "clue": "She played Juliet on Broadway in 1951, 12 years after co-starring in \"Gone with the Wind\"",
+          "answer": "Olivia de Havilland",
+          "isDailyDouble": false,
+          "orderNumber": 12,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michael",
+              "score": 3200
+            },
+            {
+              "player": "Phyllis",
+              "score": 2300
+            },
+            {
+              "player": "Ken",
+              "score": 2450
+            }
+          ]
+        },
+        {
+          "category": "INDIANS",
+          "value": 800,
+          "clue": "The 1825 census showed this \"proud\" nation owned 1277 Black slaves",
+          "answer": "the Cherokees",
+          "isDailyDouble": false,
+          "orderNumber": 13,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michael",
+              "score": 3200
+            },
+            {
+              "player": "Phyllis",
+              "score": 2300
+            },
+            {
+              "player": "Ken",
+              "score": 3250
+            }
+          ]
+        },
+        {
+          "category": "INDIANS",
+          "value": 1000,
+          "clue": "The Ojibwa or Ojibway tribe's name was garbled by Europeans into this, still used today",
+          "answer": "Chippewa",
+          "isDailyDouble": false,
+          "orderNumber": 14,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michael",
+              "score": 3200
+            },
+            {
+              "player": "Phyllis",
+              "score": 2300
+            },
+            {
+              "player": "Ken",
+              "score": 4250
+            }
+          ]
+        },
+        {
+          "category": "ENGLAND",
+          "value": 200,
+          "clue": "This takes place at Buckingham Palace at 11:30 a.m., whether the Queen is in or out",
+          "answer": "changing of the guard",
+          "isDailyDouble": false,
+          "orderNumber": 15,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michael",
+              "score": 3200
+            },
+            {
+              "player": "Phyllis",
+              "score": 2500
+            },
+            {
+              "player": "Ken",
+              "score": 4250
+            }
+          ]
+        },
+        {
+          "category": "SHAKESPEARE ON BROADWAY",
+          "value": 1000,
+          "clue": "\"Your Own Thing\" was a 1968 rock & roll update of this numerically titled play",
+          "answer": "Twelfth Night",
+          "isDailyDouble": false,
+          "orderNumber": 16,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michael",
+              "score": 2200
+            },
+            {
+              "player": "Phyllis",
+              "score": 3500
+            },
+            {
+              "player": "Ken",
+              "score": 4250
+            }
+          ]
+        },
+        {
+          "category": "PRESIDENTS",
+          "value": 200,
+          "clue": "While no presidents have been named Smith, 2 have had this name, USA's 2nd-most-common surname",
+          "answer": "Johnson",
+          "isDailyDouble": false,
+          "orderNumber": 17,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michael",
+              "score": 2200
+            },
+            {
+              "player": "Phyllis",
+              "score": 3500
+            },
+            {
+              "player": "Ken",
+              "score": 4450
+            }
+          ]
+        },
+        {
+          "category": "ENGLAND",
+          "value": 400,
+          "clue": "In 1802, she left France along with her 2 sons & collection of wax models",
+          "answer": "Madame Tussaud",
+          "isDailyDouble": false,
+          "orderNumber": 18,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michael",
+              "score": 2200
+            },
+            {
+              "player": "Phyllis",
+              "score": 3900
+            },
+            {
+              "player": "Ken",
+              "score": 4450
+            }
+          ]
+        },
+        {
+          "category": "PRESIDENTS",
+          "value": 400,
+          "clue": "While President Lincoln gave 1 in 1863, Pres. Eisenhower had 1 from 1951 until his death",
+          "answer": "a Gettysburg Address",
+          "isDailyDouble": true,
+          "orderNumber": 19,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michael",
+              "score": 2200
+            },
+            {
+              "player": "Phyllis",
+              "score": 4300
+            },
+            {
+              "player": "Ken",
+              "score": 4450
+            }
+          ]
+        },
+        {
+          "category": "PRESIDENTS",
+          "value": 600,
+          "clue": "In 1919, FDR wrote \"There could not be a better\" president than this man whom FDR later defeated",
+          "answer": "(Herbert) Hoover",
+          "isDailyDouble": false,
+          "orderNumber": 20,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michael",
+              "score": 1600
+            },
+            {
+              "player": "Phyllis",
+              "score": 4900
+            },
+            {
+              "player": "Ken",
+              "score": 4450
+            }
+          ]
+        },
+        {
+          "category": "PRESIDENTS",
+          "value": 800,
+          "clue": "His last words were \"I know that I am going where Lucy is\"",
+          "answer": "Rutherford B. Hayes",
+          "isDailyDouble": false,
+          "orderNumber": 21,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Michael",
+              "score": 1600
+            },
+            {
+              "player": "Phyllis",
+              "score": 4900
+            },
+            {
+              "player": "Ken",
+              "score": 3650
+            }
+          ]
+        },
+        {
+          "category": "PRESIDENTS",
+          "value": 1000,
+          "clue": "A relative said that he \"wanted to be the bride at every wedding & the corpse at every funeral\"",
+          "answer": "Teddy Roosevelt",
+          "isDailyDouble": false,
+          "orderNumber": 22,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Michael",
+              "score": 1600
+            },
+            {
+              "player": "Phyllis",
+              "score": 4900
+            },
+            {
+              "player": "Ken",
+              "score": 3650
+            }
+          ]
+        },
+        {
+          "category": "CELEBRITY JEOPARDY!",
+          "value": 200,
+          "clue": "I wrote for Will Rogers & 5 presidents but am best known as Buddy Sorrell on \"Dick van Dyke\"",
+          "answer": "Morey Amsterdam",
+          "isDailyDouble": false,
+          "orderNumber": 23,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michael",
+              "score": 1600
+            },
+            {
+              "player": "Phyllis",
+              "score": 5100
+            },
+            {
+              "player": "Ken",
+              "score": 3650
+            }
+          ]
+        },
+        {
+          "category": "CELEBRITY JEOPARDY!",
+          "value": 400,
+          "clue": "\"Show of Shows\" star, I started on TV in 1949 in the \"Admiral Broadway Review\"",
+          "answer": "Sid Caesar",
+          "isDailyDouble": false,
+          "orderNumber": 24,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michael",
+              "score": 1600
+            },
+            {
+              "player": "Phyllis",
+              "score": 5100
+            },
+            {
+              "player": "Ken",
+              "score": 4050
+            }
+          ]
+        },
+        {
+          "category": "ENGLAND",
+          "value": 600,
+          "clue": "She was the only female in the 1976 Montreal Olympics who didn't have to undergo a sex test",
+          "answer": "Princess Anne",
+          "isDailyDouble": false,
+          "orderNumber": 25,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michael",
+              "score": 2200
+            },
+            {
+              "player": "Phyllis",
+              "score": 5100
+            },
+            {
+              "player": "Ken",
+              "score": 4050
+            }
+          ]
+        },
+        {
+          "category": "ENGLAND",
+          "value": 1000,
+          "clue": "English landmark the New Vaudeville Band had a gripe against in the following No. 1 hit:",
+          "answer": "Winchester Cathedral",
+          "isDailyDouble": true,
+          "orderNumber": 26,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michael",
+              "score": 3200
+            },
+            {
+              "player": "Phyllis",
+              "score": 5100
+            },
+            {
+              "player": "Ken",
+              "score": 4050
+            }
+          ]
+        },
+        {
+          "category": "CELEBRITY JEOPARDY!",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michael",
+              "score": 3200
+            },
+            {
+              "player": "Phyllis",
+              "score": 5100
+            },
+            {
+              "player": "Ken",
+              "score": 4050
+            }
+          ]
+        },
+        {
+          "category": "CELEBRITY JEOPARDY!",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michael",
+              "score": 3200
+            },
+            {
+              "player": "Phyllis",
+              "score": 5100
+            },
+            {
+              "player": "Ken",
+              "score": 4050
+            }
+          ]
+        },
+        {
+          "category": "ENGLAND",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michael",
+              "score": 3200
+            },
+            {
+              "player": "Phyllis",
+              "score": 5100
+            },
+            {
+              "player": "Ken",
+              "score": 4050
+            }
+          ]
+        },
+        {
+          "category": "CELEBRITY JEOPARDY!",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Michael",
+              "score": 3200
+            },
+            {
+              "player": "Phyllis",
+              "score": 5100
+            },
+            {
+              "player": "Ken",
+              "score": 4050
+            }
+          ]
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "Michael",
+          "score": 3200
+        },
+        {
+          "player": "Phyllis",
+          "score": 5100
+        },
+        {
+          "player": "Ken",
+          "score": 4050
+        }
+      ]
+    },
+    "finalJeopardy": {
+      "category": "FAMOUS QUOTES",
+      "clue": "Though Neil Armstrong says he uttered it, this word is missing from tapes of his famous quote",
+      "answer": "a",
+      "responses": [
+        {
+          "contestant": "Michael",
+          "response": "What is one?",
+          "isCorrect": false,
+          "isIncorrect": true,
+          "value": 3200,
+          "finalScore": 0
+        },
+        {
+          "contestant": "Ken",
+          "response": "What is \"A\"?",
+          "isCorrect": true,
+          "isIncorrect": false,
+          "value": 3500,
+          "finalScore": 7550
+        },
+        {
+          "contestant": "Phyllis",
+          "response": "What is small?",
+          "isCorrect": false,
+          "isIncorrect": true,
+          "value": 3001,
+          "finalScore": 2099
+        }
+      ]
+    }
+  },
+  "finalScores": [
+    {
+      "player": "Michael",
+      "score": "$0"
+    },
+    {
+      "player": "Phyllis",
+      "score": "$2,099"
+    },
+    {
+      "player": "Ken",
+      "score": "$7,550"
+    }
+  ],
+  "coryatScores": [
+    {
+      "player": "Michael",
+      "score": 3000
+    },
+    {
+      "player": "Phyllis",
+      "score": 5100
+    },
+    {
+      "player": "Ken",
+      "score": 4200
+    }
+  ]
+}

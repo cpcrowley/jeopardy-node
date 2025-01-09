@@ -1,0 +1,1695 @@
+{
+  "gameId": 4158,
+  "showNumber": "497",
+  "title": "Show #497 - Tuesday, November 4, 1986",
+  "date": "1986-11-04",
+  "comments": "",
+  "contestants": [
+    "Sherman",
+    "Nancy",
+    "Dave"
+  ],
+  "rounds": {
+    "jeopardy": {
+      "categories": [
+        "ANIMALS",
+        "MUSIC",
+        "AMERICAN INDIANS",
+        "FOOD",
+        "TRANSPORTATION",
+        "CARTOONS"
+      ],
+      "clues": [
+        {
+          "category": "CARTOONS",
+          "value": 100,
+          "clue": "Bambi's friend \"Flower\" was this",
+          "answer": "a skunk",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [
+            "Nancy"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Sherman",
+              "score": 0
+            },
+            {
+              "player": "Nancy",
+              "score": 100
+            },
+            {
+              "player": "Dave",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "FOOD",
+          "value": 100,
+          "clue": "The name of this brand of coffee comes from the French \"sans caffeine\"",
+          "answer": "Sanka",
+          "isDailyDouble": false,
+          "orderNumber": 2,
+          "correctContestants": [
+            "Sherman"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Sherman",
+              "score": 100
+            },
+            {
+              "player": "Nancy",
+              "score": 100
+            },
+            {
+              "player": "Dave",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "CARTOONS",
+          "value": 200,
+          "clue": "Gargamel",
+          "answer": "the enemy of The Smurfs",
+          "isDailyDouble": false,
+          "orderNumber": 3,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Sherman",
+              "score": 100
+            },
+            {
+              "player": "Nancy",
+              "score": 100
+            },
+            {
+              "player": "Dave",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "CARTOONS",
+          "value": 300,
+          "clue": "Appropriately named ghost horse in Casper the Friendly Ghost cartoons",
+          "answer": "Nightmare",
+          "isDailyDouble": false,
+          "orderNumber": 4,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Sherman",
+              "score": 100
+            },
+            {
+              "player": "Nancy",
+              "score": 100
+            },
+            {
+              "player": "Dave",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "CARTOONS",
+          "value": 400,
+          "clue": "Cartoon family originally seen in prime time that lived in the Skypad Apartments",
+          "answer": "the Jetsons",
+          "isDailyDouble": false,
+          "orderNumber": 5,
+          "correctContestants": [
+            "Nancy"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Sherman",
+              "score": 100
+            },
+            {
+              "player": "Nancy",
+              "score": 500
+            },
+            {
+              "player": "Dave",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "CARTOONS",
+          "value": 500,
+          "clue": "\"Top Cat\" was a take-off on this sitcom character",
+          "answer": "Sergeant Bilko",
+          "isDailyDouble": false,
+          "orderNumber": 6,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Sherman",
+              "score": 100
+            },
+            {
+              "player": "Nancy",
+              "score": 500
+            },
+            {
+              "player": "Dave",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "FOOD",
+          "value": 200,
+          "clue": "This state's official dish is chili, pardner",
+          "answer": "Texas",
+          "isDailyDouble": false,
+          "orderNumber": 7,
+          "correctContestants": [
+            "Nancy"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Sherman",
+              "score": 100
+            },
+            {
+              "player": "Nancy",
+              "score": 700
+            },
+            {
+              "player": "Dave",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "FOOD",
+          "value": 300,
+          "clue": "It's said Henry David Thoreau invented this loaf with dried fruit baked in",
+          "answer": "raisin bread",
+          "isDailyDouble": false,
+          "orderNumber": 8,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Dave"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Sherman",
+              "score": 100
+            },
+            {
+              "player": "Nancy",
+              "score": 700
+            },
+            {
+              "player": "Dave",
+              "score": -300
+            }
+          ]
+        },
+        {
+          "category": "FOOD",
+          "value": 400,
+          "clue": "The only Woody Allen film named for a food",
+          "answer": "\"Bananas\"",
+          "isDailyDouble": false,
+          "orderNumber": 9,
+          "correctContestants": [
+            "Dave"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Sherman",
+              "score": 100
+            },
+            {
+              "player": "Nancy",
+              "score": 700
+            },
+            {
+              "player": "Dave",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "category": "FOOD",
+          "value": 500,
+          "clue": "Sales of this mineral supplement have increased 7-fold since 1980",
+          "answer": "calcium",
+          "isDailyDouble": false,
+          "orderNumber": 10,
+          "correctContestants": [
+            "Dave"
+          ],
+          "incorrectContestants": [
+            "Nancy"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Sherman",
+              "score": 100
+            },
+            {
+              "player": "Nancy",
+              "score": 200
+            },
+            {
+              "player": "Dave",
+              "score": 600
+            }
+          ]
+        },
+        {
+          "category": "MUSIC",
+          "value": 100,
+          "clue": "Invented in the 1960s, this engineer's synthesizer was used for \"Switched on Bach\"",
+          "answer": "Moog",
+          "isDailyDouble": false,
+          "orderNumber": 11,
+          "correctContestants": [
+            "Nancy"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Sherman",
+              "score": 100
+            },
+            {
+              "player": "Nancy",
+              "score": 300
+            },
+            {
+              "player": "Dave",
+              "score": 600
+            }
+          ]
+        },
+        {
+          "category": "ANIMALS",
+          "value": 100,
+          "clue": "Of African killer bees or common honeybees, the ones who've killed more people in the U.S.",
+          "answer": "common honeybees",
+          "isDailyDouble": false,
+          "orderNumber": 12,
+          "correctContestants": [
+            "Dave"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Sherman",
+              "score": 100
+            },
+            {
+              "player": "Nancy",
+              "score": 300
+            },
+            {
+              "player": "Dave",
+              "score": 700
+            }
+          ]
+        },
+        {
+          "category": "MUSIC",
+          "value": 200,
+          "clue": "Of a clarinet, bagpipe, or oboe, the one which uses a double reed",
+          "answer": "an oboe",
+          "isDailyDouble": false,
+          "orderNumber": 13,
+          "correctContestants": [
+            "Sherman"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Sherman",
+              "score": 300
+            },
+            {
+              "player": "Nancy",
+              "score": 300
+            },
+            {
+              "player": "Dave",
+              "score": 700
+            }
+          ]
+        },
+        {
+          "category": "TRANSPORTATION",
+          "value": 100,
+          "clue": "For about $60 million you can buy one of their 767 jetliners",
+          "answer": "Boeing",
+          "isDailyDouble": false,
+          "orderNumber": 14,
+          "correctContestants": [
+            "Dave"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Sherman",
+              "score": 300
+            },
+            {
+              "player": "Nancy",
+              "score": 300
+            },
+            {
+              "player": "Dave",
+              "score": 800
+            }
+          ]
+        },
+        {
+          "category": "TRANSPORTATION",
+          "value": 200,
+          "clue": "In World War II, U.S. troops called these vehicles \"meat wagons\"",
+          "answer": "ambulances",
+          "isDailyDouble": false,
+          "orderNumber": 15,
+          "correctContestants": [
+            "Nancy"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Sherman",
+              "score": 300
+            },
+            {
+              "player": "Nancy",
+              "score": 500
+            },
+            {
+              "player": "Dave",
+              "score": 800
+            }
+          ]
+        },
+        {
+          "category": "TRANSPORTATION",
+          "value": 300,
+          "clue": "From the French for \"to carry\" it's what Lewis & Clark had to do a lot of with their canoes",
+          "answer": "portage",
+          "isDailyDouble": false,
+          "orderNumber": 16,
+          "correctContestants": [
+            "Nancy"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Sherman",
+              "score": 300
+            },
+            {
+              "player": "Nancy",
+              "score": 800
+            },
+            {
+              "player": "Dave",
+              "score": 800
+            }
+          ]
+        },
+        {
+          "category": "TRANSPORTATION",
+          "value": 400,
+          "clue": "Up to 40 times cheaper than air, it's the least expensive way to ship bulk cargo",
+          "answer": "ship",
+          "isDailyDouble": false,
+          "orderNumber": 17,
+          "correctContestants": [
+            "Nancy"
+          ],
+          "incorrectContestants": [
+            "Dave"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Sherman",
+              "score": 300
+            },
+            {
+              "player": "Nancy",
+              "score": 1200
+            },
+            {
+              "player": "Dave",
+              "score": 400
+            }
+          ]
+        },
+        {
+          "category": "TRANSPORTATION",
+          "value": 500,
+          "clue": "Major world power that averages 1 car per 3,853 people",
+          "answer": "China",
+          "isDailyDouble": true,
+          "orderNumber": 18,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Nancy"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Sherman",
+              "score": 300
+            },
+            {
+              "player": "Nancy",
+              "score": 700
+            },
+            {
+              "player": "Dave",
+              "score": 400
+            }
+          ]
+        },
+        {
+          "category": "ANIMALS",
+          "value": 200,
+          "clue": "The bedbug hunter is called \"The Kissing Bug\" because it bites its victims here",
+          "answer": "on the lips (or around the mouth)",
+          "isDailyDouble": false,
+          "orderNumber": 19,
+          "correctContestants": [
+            "Dave"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Sherman",
+              "score": 300
+            },
+            {
+              "player": "Nancy",
+              "score": 700
+            },
+            {
+              "player": "Dave",
+              "score": 600
+            }
+          ]
+        },
+        {
+          "category": "MUSIC",
+          "value": 300,
+          "clue": "Herman Hupfeld, who wrote \"When Yuba Plays the Rumba on the Tuba\" also penned this \"Casablanca\" hit",
+          "answer": "\"As Time Goes By\"",
+          "isDailyDouble": false,
+          "orderNumber": 20,
+          "correctContestants": [
+            "Nancy"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Sherman",
+              "score": 300
+            },
+            {
+              "player": "Nancy",
+              "score": 1000
+            },
+            {
+              "player": "Dave",
+              "score": 600
+            }
+          ]
+        },
+        {
+          "category": "MUSIC",
+          "value": 400,
+          "clue": "It refers to the key & meter signals at the beginning of the composition, not Beethoven's autograph",
+          "answer": "a signature",
+          "isDailyDouble": false,
+          "orderNumber": 21,
+          "correctContestants": [
+            "Nancy"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Sherman",
+              "score": 300
+            },
+            {
+              "player": "Nancy",
+              "score": 1400
+            },
+            {
+              "player": "Dave",
+              "score": 600
+            }
+          ]
+        },
+        {
+          "category": "MUSIC",
+          "value": 500,
+          "clue": "African folk song sung in Zulu by Miriam Makeba & incorporated into \"The Lion Sleeps Tonight\"",
+          "answer": "a \"Wimba Way\" or \"Wimoweh\"",
+          "isDailyDouble": false,
+          "orderNumber": 22,
+          "correctContestants": [
+            "Dave"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Sherman",
+              "score": 300
+            },
+            {
+              "player": "Nancy",
+              "score": 1400
+            },
+            {
+              "player": "Dave",
+              "score": 1100
+            }
+          ]
+        },
+        {
+          "category": "ANIMALS",
+          "value": 300,
+          "clue": "Australia's maned goose operates under an alias; it's really one of these \"daffy\" creatures",
+          "answer": "a duck",
+          "isDailyDouble": false,
+          "orderNumber": 23,
+          "correctContestants": [
+            "Dave"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Sherman",
+              "score": 300
+            },
+            {
+              "player": "Nancy",
+              "score": 1400
+            },
+            {
+              "player": "Dave",
+              "score": 1400
+            }
+          ]
+        },
+        {
+          "category": "ANIMALS",
+          "value": 400,
+          "clue": "Legend says a canis latrans, one of these raised Pecos Bill & taught him how to howl at the moon",
+          "answer": "a coyote",
+          "isDailyDouble": false,
+          "orderNumber": 24,
+          "correctContestants": [
+            "Nancy"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Sherman",
+              "score": 300
+            },
+            {
+              "player": "Nancy",
+              "score": 1800
+            },
+            {
+              "player": "Dave",
+              "score": 1400
+            }
+          ]
+        },
+        {
+          "category": "ANIMALS",
+          "value": 500,
+          "clue": "New Zealanders used to raise red deer for these, which were ground & used as aphrodisiacs",
+          "answer": "their horns (or antlers)",
+          "isDailyDouble": false,
+          "orderNumber": 25,
+          "correctContestants": [
+            "Nancy"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Sherman",
+              "score": 300
+            },
+            {
+              "player": "Nancy",
+              "score": 2300
+            },
+            {
+              "player": "Dave",
+              "score": 1400
+            }
+          ]
+        },
+        {
+          "category": "AMERICAN INDIANS",
+          "value": 200,
+          "clue": "In reality, it was a dime novelist, not the Indians, who coined the term \"Great White Father\" for him",
+          "answer": "the President",
+          "isDailyDouble": false,
+          "orderNumber": 26,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Sherman"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Sherman",
+              "score": 100
+            },
+            {
+              "player": "Nancy",
+              "score": 2300
+            },
+            {
+              "player": "Dave",
+              "score": 1400
+            }
+          ]
+        },
+        {
+          "category": "AMERICAN INDIANS",
+          "value": 300,
+          "clue": "In a 1971 #1 hit, Paul Revere & the Raiders said this tribe was \"so proud to live, so proud to die\"",
+          "answer": "the Cherokee",
+          "isDailyDouble": false,
+          "orderNumber": 27,
+          "correctContestants": [
+            "Nancy"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Sherman",
+              "score": 100
+            },
+            {
+              "player": "Nancy",
+              "score": 2600
+            },
+            {
+              "player": "Dave",
+              "score": 1400
+            }
+          ]
+        },
+        {
+          "category": "AMERICAN INDIANS",
+          "value": 500,
+          "clue": "The tribe called itself \"Dakota\" meaning \"allies\" while others called them \"Sioux\" meaning this",
+          "answer": "enemies",
+          "isDailyDouble": false,
+          "orderNumber": 28,
+          "correctContestants": [
+            "Dave"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Sherman",
+              "score": 100
+            },
+            {
+              "player": "Nancy",
+              "score": 2600
+            },
+            {
+              "player": "Dave",
+              "score": 1900
+            }
+          ]
+        },
+        {
+          "category": "AMERICAN INDIANS",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Sherman",
+              "score": 100
+            },
+            {
+              "player": "Nancy",
+              "score": 2600
+            },
+            {
+              "player": "Dave",
+              "score": 1900
+            }
+          ]
+        },
+        {
+          "category": "AMERICAN INDIANS",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Sherman",
+              "score": 100
+            },
+            {
+              "player": "Nancy",
+              "score": 2600
+            },
+            {
+              "player": "Dave",
+              "score": 1900
+            }
+          ]
+        }
+      ],
+      "firstBreakScores": [
+        {
+          "player": "Sherman",
+          "score": 300
+        },
+        {
+          "player": "Nancy",
+          "score": 300
+        },
+        {
+          "player": "Dave",
+          "score": 700
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "Sherman",
+          "score": 100
+        },
+        {
+          "player": "Nancy",
+          "score": 2600
+        },
+        {
+          "player": "Dave",
+          "score": 1900
+        }
+      ]
+    },
+    "doubleJeopardy": {
+      "categories": [
+        "FIRST LINES",
+        "THE MIDDLE AGES",
+        "THE TODAY SHOW",
+        "NORTH AFRICA",
+        "PHYSICALLY CHALLENGED",
+        "-OLOGIES"
+      ],
+      "clues": [
+        {
+          "category": "THE TODAY SHOW",
+          "value": 200,
+          "clue": "They are, today, the 2 \"permanent\" co-anchors of \"Today\", though she's taken maternity leave twice",
+          "answer": "Jane Pauley & Bryant Gumbel",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Sherman",
+              "score": 300
+            },
+            {
+              "player": "Nancy",
+              "score": 2600
+            },
+            {
+              "player": "Dave",
+              "score": 1900
+            }
+          ]
+        },
+        {
+          "category": "THE TODAY SHOW",
+          "value": 400,
+          "clue": "\"Today\" was the brainchild of Sylvester \"Pat\" Weaver, father of this \"Alien\" actress",
+          "answer": "Sigourney Weaver",
+          "isDailyDouble": false,
+          "orderNumber": 2,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Sherman",
+              "score": 300
+            },
+            {
+              "player": "Nancy",
+              "score": 2600
+            },
+            {
+              "player": "Dave",
+              "score": 2300
+            }
+          ]
+        },
+        {
+          "category": "THE TODAY SHOW",
+          "value": 1300,
+          "clue": "After writing for \"Today\" for 3 years, Barbara Walters made her on-camera debut covering this 1963 event",
+          "answer": "the JFK assassination and funeral",
+          "isDailyDouble": true,
+          "orderNumber": 3,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Sherman",
+              "score": 300
+            },
+            {
+              "player": "Nancy",
+              "score": 2600
+            },
+            {
+              "player": "Dave",
+              "score": 3600
+            }
+          ]
+        },
+        {
+          "category": "THE TODAY SHOW",
+          "value": 800,
+          "clue": "He was to be Dave Garroway's 1959 summer replacement till confessing that \"Twenty One\" was fixed",
+          "answer": "Charles Van Doren",
+          "isDailyDouble": false,
+          "orderNumber": 4,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Sherman",
+              "score": 300
+            },
+            {
+              "player": "Nancy",
+              "score": 2600
+            },
+            {
+              "player": "Dave",
+              "score": 3600
+            }
+          ]
+        },
+        {
+          "category": "THE TODAY SHOW",
+          "value": 1000,
+          "clue": "Estelle Parsons was the 1st of these, followed by Lee Ann Meriwether, Helen O'Connell, & Florence Henderson",
+          "answer": "\"the Today girls\" (or \"weather girls\")",
+          "isDailyDouble": false,
+          "orderNumber": 5,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Dave"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Sherman",
+              "score": 300
+            },
+            {
+              "player": "Nancy",
+              "score": 1600
+            },
+            {
+              "player": "Dave",
+              "score": 2600
+            }
+          ]
+        },
+        {
+          "category": "-OLOGIES",
+          "value": 200,
+          "clue": "Of myology, urology, & ourology, the fake",
+          "answer": "ourology",
+          "isDailyDouble": false,
+          "orderNumber": 6,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Sherman",
+              "score": 300
+            },
+            {
+              "player": "Nancy",
+              "score": 1600
+            },
+            {
+              "player": "Dave",
+              "score": 2800
+            }
+          ]
+        },
+        {
+          "category": "-OLOGIES",
+          "value": 400,
+          "clue": "\"Lord of the Flies\" isn't one of these, but \"Lord of the Rings\" is",
+          "answer": "a trilogy",
+          "isDailyDouble": false,
+          "orderNumber": 7,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Sherman",
+              "score": 300
+            },
+            {
+              "player": "Nancy",
+              "score": 1600
+            },
+            {
+              "player": "Dave",
+              "score": 3200
+            }
+          ]
+        },
+        {
+          "category": "-OLOGIES",
+          "value": 600,
+          "clue": "Comparing us to the Russians, Sting notes, \"We share the same biology regardless of\" this",
+          "answer": "ideology",
+          "isDailyDouble": false,
+          "orderNumber": 8,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Sherman",
+              "score": 300
+            },
+            {
+              "player": "Nancy",
+              "score": 2200
+            },
+            {
+              "player": "Dave",
+              "score": 3200
+            }
+          ]
+        },
+        {
+          "category": "THE MIDDLE AGES",
+          "value": 200,
+          "clue": "Adjective specifically meaning belonging to or characteristic of the Middle Ages",
+          "answer": "Medieval",
+          "isDailyDouble": false,
+          "orderNumber": 9,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Sherman",
+              "score": 300
+            },
+            {
+              "player": "Nancy",
+              "score": 2400
+            },
+            {
+              "player": "Dave",
+              "score": 3200
+            }
+          ]
+        },
+        {
+          "category": "THE MIDDLE AGES",
+          "value": 400,
+          "clue": "In the early 8th century, a group of Berbers & Arabs conquered this European country",
+          "answer": "Spain",
+          "isDailyDouble": false,
+          "orderNumber": 10,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Sherman",
+              "score": 300
+            },
+            {
+              "player": "Nancy",
+              "score": 2000
+            },
+            {
+              "player": "Dave",
+              "score": 3600
+            }
+          ]
+        },
+        {
+          "category": "-OLOGIES",
+          "value": 800,
+          "clue": "This science of involuntary reactions merits close study, but watch out for knee jerks",
+          "answer": "reflexology",
+          "isDailyDouble": false,
+          "orderNumber": 11,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Sherman",
+              "score": 300
+            },
+            {
+              "player": "Nancy",
+              "score": 2800
+            },
+            {
+              "player": "Dave",
+              "score": 3600
+            }
+          ]
+        },
+        {
+          "category": "-OLOGIES",
+          "value": 1000,
+          "clue": "The study practiced by doctors who treat tumors, it sounds like the study of doctors who carry beepers",
+          "answer": "oncology",
+          "isDailyDouble": false,
+          "orderNumber": 12,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Sherman",
+              "score": 300
+            },
+            {
+              "player": "Nancy",
+              "score": 2800
+            },
+            {
+              "player": "Dave",
+              "score": 3600
+            }
+          ]
+        },
+        {
+          "category": "THE MIDDLE AGES",
+          "value": 600,
+          "clue": "Historical epoch that evolved from & is said to have marked the end of the Middle Ages",
+          "answer": "the Renaissance",
+          "isDailyDouble": false,
+          "orderNumber": 13,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Sherman",
+              "score": 300
+            },
+            {
+              "player": "Nancy",
+              "score": 2800
+            },
+            {
+              "player": "Dave",
+              "score": 4200
+            }
+          ]
+        },
+        {
+          "category": "THE MIDDLE AGES",
+          "value": 800,
+          "clue": "For 1,100 years this Italian city was a republic ruled by an elected official called the Doge",
+          "answer": "Venice",
+          "isDailyDouble": false,
+          "orderNumber": 14,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Sherman",
+              "score": 300
+            },
+            {
+              "player": "Nancy",
+              "score": 3600
+            },
+            {
+              "player": "Dave",
+              "score": 4200
+            }
+          ]
+        },
+        {
+          "category": "THE MIDDLE AGES",
+          "value": 1000,
+          "clue": "Many Europeans were eagerly expecting this to occur at the millennium in the year 1000",
+          "answer": "the second coming of Christ",
+          "isDailyDouble": false,
+          "orderNumber": 15,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Sherman",
+              "score": 1300
+            },
+            {
+              "player": "Nancy",
+              "score": 3600
+            },
+            {
+              "player": "Dave",
+              "score": 4200
+            }
+          ]
+        },
+        {
+          "category": "FIRST LINES",
+          "value": 200,
+          "clue": "\"I wish I was in the land of cotton\"",
+          "answer": "\"Dixie\"",
+          "isDailyDouble": false,
+          "orderNumber": 16,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Sherman",
+              "score": 1500
+            },
+            {
+              "player": "Nancy",
+              "score": 3600
+            },
+            {
+              "player": "Dave",
+              "score": 4200
+            }
+          ]
+        },
+        {
+          "category": "FIRST LINES",
+          "value": 400,
+          "clue": "Completes Longfellow's opening line \"Listen, my children, & you shall hear\"",
+          "answer": "\"of the midnight ride of Paul Revere\"",
+          "isDailyDouble": false,
+          "orderNumber": 17,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Sherman",
+              "score": 1900
+            },
+            {
+              "player": "Nancy",
+              "score": 3600
+            },
+            {
+              "player": "Dave",
+              "score": 4200
+            }
+          ]
+        },
+        {
+          "category": "FIRST LINES",
+          "value": 600,
+          "clue": "Its 1st 3 words are \"We the People\"",
+          "answer": "the U.S. Constution's preamble",
+          "isDailyDouble": false,
+          "orderNumber": 18,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Sherman",
+              "score": 1900
+            },
+            {
+              "player": "Nancy",
+              "score": 3600
+            },
+            {
+              "player": "Dave",
+              "score": 4800
+            }
+          ]
+        },
+        {
+          "category": "FIRST LINES",
+          "value": 800,
+          "clue": "\"When I wrote the following pages, or rather the bulk of them, I lived alone, in the woods\"",
+          "answer": "Walden",
+          "isDailyDouble": false,
+          "orderNumber": 19,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Sherman",
+              "score": 2700
+            },
+            {
+              "player": "Nancy",
+              "score": 3600
+            },
+            {
+              "player": "Dave",
+              "score": 4800
+            }
+          ]
+        },
+        {
+          "category": "FIRST LINES",
+          "value": 1000,
+          "clue": "\"In the 2nd century of the Christian era, the empire of Rome comprehended the fairest part of the Earth\"",
+          "answer": "The History of the Decline and Fall of the Roman Empire",
+          "isDailyDouble": false,
+          "orderNumber": 20,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Sherman",
+              "score": 2700
+            },
+            {
+              "player": "Nancy",
+              "score": 3600
+            },
+            {
+              "player": "Dave",
+              "score": 4800
+            }
+          ]
+        },
+        {
+          "category": "PHYSICALLY CHALLENGED",
+          "value": 200,
+          "clue": "Though paralyzed in both legs, he was elected Governor of N.Y. York as well as President",
+          "answer": "FDR",
+          "isDailyDouble": false,
+          "orderNumber": 21,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Sherman",
+              "score": 2900
+            },
+            {
+              "player": "Nancy",
+              "score": 3600
+            },
+            {
+              "player": "Dave",
+              "score": 4800
+            }
+          ]
+        },
+        {
+          "category": "PHYSICALLY CHALLENGED",
+          "value": 1000,
+          "clue": "He's gone through his mother's words, \"You've lost your sight, not your mind\":",
+          "answer": "Ray Charles",
+          "isDailyDouble": true,
+          "orderNumber": 22,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Sherman",
+              "score": 3900
+            },
+            {
+              "player": "Nancy",
+              "score": 3600
+            },
+            {
+              "player": "Dave",
+              "score": 4800
+            }
+          ]
+        },
+        {
+          "category": "PHYSICALLY CHALLENGED",
+          "value": 600,
+          "clue": "He overcame polio as a child to become the dean of game show hosts",
+          "answer": "Bill Cullen",
+          "isDailyDouble": false,
+          "orderNumber": 23,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Sherman",
+              "score": 3900
+            },
+            {
+              "player": "Nancy",
+              "score": 3600
+            },
+            {
+              "player": "Dave",
+              "score": 4800
+            }
+          ]
+        },
+        {
+          "category": "PHYSICALLY CHALLENGED",
+          "value": 800,
+          "clue": "In 1933, this 1-eyed Texan became the 1st man to fly solo around the world",
+          "answer": "Wiley Post",
+          "isDailyDouble": false,
+          "orderNumber": 24,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Sherman",
+              "score": 4700
+            },
+            {
+              "player": "Nancy",
+              "score": 3600
+            },
+            {
+              "player": "Dave",
+              "score": 4800
+            }
+          ]
+        },
+        {
+          "category": "PHYSICALLY CHALLENGED",
+          "value": 1000,
+          "clue": "Severely burned in a fire at age 8, he set a world record running the mile in 1934 despite a toeless foot",
+          "answer": "Glenn Cunningham",
+          "isDailyDouble": false,
+          "orderNumber": 25,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Sherman",
+              "score": 5700
+            },
+            {
+              "player": "Nancy",
+              "score": 3600
+            },
+            {
+              "player": "Dave",
+              "score": 4800
+            }
+          ]
+        },
+        {
+          "category": "NORTH AFRICA",
+          "value": 200,
+          "clue": "It's the only major river to flow through Northern Africa",
+          "answer": "the Nile",
+          "isDailyDouble": false,
+          "orderNumber": 26,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Sherman",
+              "score": 5700
+            },
+            {
+              "player": "Nancy",
+              "score": 3800
+            },
+            {
+              "player": "Dave",
+              "score": 4800
+            }
+          ]
+        },
+        {
+          "category": "NORTH AFRICA",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Sherman",
+              "score": 5700
+            },
+            {
+              "player": "Nancy",
+              "score": 3800
+            },
+            {
+              "player": "Dave",
+              "score": 4800
+            }
+          ]
+        },
+        {
+          "category": "NORTH AFRICA",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Sherman",
+              "score": 5700
+            },
+            {
+              "player": "Nancy",
+              "score": 3800
+            },
+            {
+              "player": "Dave",
+              "score": 4800
+            }
+          ]
+        },
+        {
+          "category": "NORTH AFRICA",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Sherman",
+              "score": 5700
+            },
+            {
+              "player": "Nancy",
+              "score": 3800
+            },
+            {
+              "player": "Dave",
+              "score": 4800
+            }
+          ]
+        },
+        {
+          "category": "NORTH AFRICA",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Sherman",
+              "score": 5700
+            },
+            {
+              "player": "Nancy",
+              "score": 3800
+            },
+            {
+              "player": "Dave",
+              "score": 4800
+            }
+          ]
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "Sherman",
+          "score": 5700
+        },
+        {
+          "player": "Nancy",
+          "score": 3800
+        },
+        {
+          "player": "Dave",
+          "score": 4800
+        }
+      ]
+    },
+    "finalJeopardy": {
+      "category": "ADVERTISING",
+      "clue": "In the U.S., more money is spent advertising in this medium than any other",
+      "answer": "newspapers",
+      "responses": [
+        {
+          "contestant": "Nancy",
+          "response": "What is radio?",
+          "isCorrect": false,
+          "isIncorrect": true,
+          "value": 3798,
+          "finalScore": 2
+        },
+        {
+          "contestant": "Dave",
+          "response": "What are daily newspapers?",
+          "isCorrect": true,
+          "isIncorrect": false,
+          "value": 4600,
+          "finalScore": 9400
+        },
+        {
+          "contestant": "Sherman",
+          "response": "What is Television?",
+          "isCorrect": false,
+          "isIncorrect": true,
+          "value": 4000,
+          "finalScore": 1700
+        }
+      ]
+    }
+  },
+  "finalScores": [
+    {
+      "player": "Sherman",
+      "score": "$1,700"
+    },
+    {
+      "player": "Nancy",
+      "score": "$2"
+    },
+    {
+      "player": "Dave",
+      "score": "$9,400"
+    }
+  ],
+  "coryatScores": [
+    {
+      "player": "Sherman",
+      "score": 5100
+    },
+    {
+      "player": "Nancy",
+      "score": 4300
+    },
+    {
+      "player": "Dave",
+      "score": 4100
+    }
+  ]
+}

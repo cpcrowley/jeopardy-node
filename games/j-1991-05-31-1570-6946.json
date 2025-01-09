@@ -1,0 +1,1703 @@
+{
+  "gameId": 6946,
+  "showNumber": "1570",
+  "title": "Show #1570 - Friday, May 31, 1991",
+  "date": "1991-05-31",
+  "comments": "",
+  "contestants": [
+    "Fred",
+    "David",
+    "Alec"
+  ],
+  "rounds": {
+    "jeopardy": {
+      "categories": [
+        "THE AMERICAN REVOLUTION",
+        "THEATRE",
+        "WORLD FACTS",
+        "THE OLYMPICS",
+        "4-LETTER WORDS",
+        "DESSERTS"
+      ],
+      "clues": [
+        {
+          "category": "THEATRE",
+          "value": 100,
+          "clue": "This S, Beckett play inspired another playwright to write a follow-up, \"Godot Has Come\"",
+          "answer": "Waiting for Godot",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [
+            "Alec"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Fred",
+              "score": 0
+            },
+            {
+              "player": "David",
+              "score": 0
+            },
+            {
+              "player": "Alec",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "category": "THEATRE",
+          "value": 200,
+          "clue": "In the play, \"84 Charing Cross Road\" is the address of this type of shop",
+          "answer": "a bookstore",
+          "isDailyDouble": false,
+          "orderNumber": 2,
+          "correctContestants": [
+            "Alec"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Fred",
+              "score": 0
+            },
+            {
+              "player": "David",
+              "score": 0
+            },
+            {
+              "player": "Alec",
+              "score": 300
+            }
+          ]
+        },
+        {
+          "category": "THEATRE",
+          "value": 500,
+          "clue": "Comparing it to \"Les Miz\", one critic called this blockbuster musical \"Les Vietnamiz\"",
+          "answer": "Miss Saigon",
+          "isDailyDouble": true,
+          "orderNumber": 3,
+          "correctContestants": [
+            "Alec"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Fred",
+              "score": 0
+            },
+            {
+              "player": "David",
+              "score": 0
+            },
+            {
+              "player": "Alec",
+              "score": 800
+            }
+          ]
+        },
+        {
+          "category": "THEATRE",
+          "value": 400,
+          "clue": "In \"Of Thee I Sing\", John P. Wintergreen's campaign slogan is \"Put love in\" this house",
+          "answer": "the White House",
+          "isDailyDouble": false,
+          "orderNumber": 4,
+          "correctContestants": [
+            "Alec"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Fred",
+              "score": 0
+            },
+            {
+              "player": "David",
+              "score": 0
+            },
+            {
+              "player": "Alec",
+              "score": 1200
+            }
+          ]
+        },
+        {
+          "category": "THEATRE",
+          "value": 500,
+          "clue": "Shaw play that takes place \"towards the end of the XXXIII dynasty\"",
+          "answer": "Caesar and Cleopatra",
+          "isDailyDouble": false,
+          "orderNumber": 5,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Fred"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Fred",
+              "score": -500
+            },
+            {
+              "player": "David",
+              "score": 0
+            },
+            {
+              "player": "Alec",
+              "score": 1200
+            }
+          ]
+        },
+        {
+          "category": "WORLD FACTS",
+          "value": 100,
+          "clue": "Buenos Aires province is this country's largest in area & population",
+          "answer": "Argentina",
+          "isDailyDouble": false,
+          "orderNumber": 6,
+          "correctContestants": [
+            "Fred"
+          ],
+          "incorrectContestants": [
+            "David"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Fred",
+              "score": -400
+            },
+            {
+              "player": "David",
+              "score": -100
+            },
+            {
+              "player": "Alec",
+              "score": 1200
+            }
+          ]
+        },
+        {
+          "category": "WORLD FACTS",
+          "value": 200,
+          "clue": "Only about 15% of the population of this country is Monegasque",
+          "answer": "Monaco",
+          "isDailyDouble": false,
+          "orderNumber": 7,
+          "correctContestants": [
+            "Fred"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Fred",
+              "score": -200
+            },
+            {
+              "player": "David",
+              "score": -100
+            },
+            {
+              "player": "Alec",
+              "score": 1200
+            }
+          ]
+        },
+        {
+          "category": "WORLD FACTS",
+          "value": 300,
+          "clue": "Of the Inca, the Dinka or the Do, the largest non-Arab ethnic group in the Sudan",
+          "answer": "the Dinka",
+          "isDailyDouble": false,
+          "orderNumber": 8,
+          "correctContestants": [
+            "David"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Fred",
+              "score": -200
+            },
+            {
+              "player": "David",
+              "score": 200
+            },
+            {
+              "player": "Alec",
+              "score": 1200
+            }
+          ]
+        },
+        {
+          "category": "WORLD FACTS",
+          "value": 400,
+          "clue": "The world's longest railway tunnel links 2 major islands in this country known for fast trains",
+          "answer": "Japan",
+          "isDailyDouble": false,
+          "orderNumber": 9,
+          "correctContestants": [
+            "Fred"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Fred",
+              "score": 200
+            },
+            {
+              "player": "David",
+              "score": 200
+            },
+            {
+              "player": "Alec",
+              "score": 1200
+            }
+          ]
+        },
+        {
+          "category": "WORLD FACTS",
+          "value": 500,
+          "clue": "Known as the land of the thunder dragon, Bhutan is sandwiched between these 2 large countries",
+          "answer": "India & China",
+          "isDailyDouble": false,
+          "orderNumber": 10,
+          "correctContestants": [
+            "Fred"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Fred",
+              "score": 700
+            },
+            {
+              "player": "David",
+              "score": 200
+            },
+            {
+              "player": "Alec",
+              "score": 1200
+            }
+          ]
+        },
+        {
+          "category": "THE AMERICAN REVOLUTION",
+          "value": 100,
+          "clue": "On Feb. 6. 1778 this country became the 1st to recognize the independence of the United States",
+          "answer": "France",
+          "isDailyDouble": false,
+          "orderNumber": 11,
+          "correctContestants": [
+            "David"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Fred",
+              "score": 700
+            },
+            {
+              "player": "David",
+              "score": 300
+            },
+            {
+              "player": "Alec",
+              "score": 1200
+            }
+          ]
+        },
+        {
+          "category": "THE AMERICAN REVOLUTION",
+          "value": 300,
+          "clue": "The Battle of Long Island was fought in what is now this NYC borough",
+          "answer": "Brooklyn",
+          "isDailyDouble": false,
+          "orderNumber": 12,
+          "correctContestants": [
+            "Alec"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Fred",
+              "score": 700
+            },
+            {
+              "player": "David",
+              "score": 300
+            },
+            {
+              "player": "Alec",
+              "score": 1500
+            }
+          ]
+        },
+        {
+          "category": "THE AMERICAN REVOLUTION",
+          "value": 200,
+          "clue": "The British recaptured this fort on Lake Champlain in 1777, but abandoned it later that year",
+          "answer": "Fort Ticonderoga",
+          "isDailyDouble": false,
+          "orderNumber": 13,
+          "correctContestants": [
+            "Fred"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Fred",
+              "score": 900
+            },
+            {
+              "player": "David",
+              "score": 300
+            },
+            {
+              "player": "Alec",
+              "score": 1500
+            }
+          ]
+        },
+        {
+          "category": "THE AMERICAN REVOLUTION",
+          "value": 400,
+          "clue": "On Dec. 25, 1776 Washington crossed the Delaware & captured about 1,000 Hessians in this city",
+          "answer": "Trenton (New Jersey)",
+          "isDailyDouble": false,
+          "orderNumber": 14,
+          "correctContestants": [
+            "David"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Fred",
+              "score": 900
+            },
+            {
+              "player": "David",
+              "score": 700
+            },
+            {
+              "player": "Alec",
+              "score": 1500
+            }
+          ]
+        },
+        {
+          "category": "THE AMERICAN REVOLUTION",
+          "value": 500,
+          "clue": "Last name of brothers William & Richard, who led British land & sea forces respectively",
+          "answer": "Howe",
+          "isDailyDouble": false,
+          "orderNumber": 15,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "David"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Fred",
+              "score": 900
+            },
+            {
+              "player": "David",
+              "score": 200
+            },
+            {
+              "player": "Alec",
+              "score": 1500
+            }
+          ]
+        },
+        {
+          "category": "THE OLYMPICS",
+          "value": 100,
+          "clue": "Like second-place medals, those for first place are a also made of this, but coated with gold",
+          "answer": "silver",
+          "isDailyDouble": false,
+          "orderNumber": 16,
+          "correctContestants": [
+            "Fred"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Fred",
+              "score": 1000
+            },
+            {
+              "player": "David",
+              "score": 200
+            },
+            {
+              "player": "Alec",
+              "score": 1500
+            }
+          ]
+        },
+        {
+          "category": "THE OLYMPICS",
+          "value": 200,
+          "clue": "In 1984 Jesse Owens' granddaughter Gina Hemphill was one of those who carried this",
+          "answer": "the torch",
+          "isDailyDouble": false,
+          "orderNumber": 17,
+          "correctContestants": [
+            "David"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Fred",
+              "score": 1000
+            },
+            {
+              "player": "David",
+              "score": 400
+            },
+            {
+              "player": "Alec",
+              "score": 1500
+            }
+          ]
+        },
+        {
+          "category": "DESSERTS",
+          "value": 100,
+          "clue": "A French buche de noel is traditionally served for this holiday",
+          "answer": "Christmas",
+          "isDailyDouble": false,
+          "orderNumber": 18,
+          "correctContestants": [
+            "Fred"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Fred",
+              "score": 1100
+            },
+            {
+              "player": "David",
+              "score": 400
+            },
+            {
+              "player": "Alec",
+              "score": 1500
+            }
+          ]
+        },
+        {
+          "category": "THE OLYMPICS",
+          "value": 300,
+          "clue": "For men, the metal ball used in this event weighs 16 lbs., almost twice as much as the women's",
+          "answer": "the shotput",
+          "isDailyDouble": false,
+          "orderNumber": 19,
+          "correctContestants": [
+            "Alec"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Fred",
+              "score": 1100
+            },
+            {
+              "player": "David",
+              "score": 400
+            },
+            {
+              "player": "Alec",
+              "score": 1800
+            }
+          ]
+        },
+        {
+          "category": "THE OLYMPICS",
+          "value": 400,
+          "clue": "One of two demonstration sports played at the 1984 Summer Olympics",
+          "answer": "tennis (or baseball)",
+          "isDailyDouble": false,
+          "orderNumber": 20,
+          "correctContestants": [
+            "David"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Fred",
+              "score": 1100
+            },
+            {
+              "player": "David",
+              "score": 800
+            },
+            {
+              "player": "Alec",
+              "score": 1800
+            }
+          ]
+        },
+        {
+          "category": "4-LETTER WORDS",
+          "value": 100,
+          "clue": "Hope you don't find yourself \"out on\" one of these large branches of a tree",
+          "answer": "a limb",
+          "isDailyDouble": false,
+          "orderNumber": 21,
+          "correctContestants": [
+            "Fred"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Fred",
+              "score": 1200
+            },
+            {
+              "player": "David",
+              "score": 800
+            },
+            {
+              "player": "Alec",
+              "score": 1800
+            }
+          ]
+        },
+        {
+          "category": "4-LETTER WORDS",
+          "value": 200,
+          "clue": "To raise on the hind legs like a horse, or to raise a child",
+          "answer": "rear",
+          "isDailyDouble": false,
+          "orderNumber": 22,
+          "correctContestants": [
+            "Alec"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Fred",
+              "score": 1200
+            },
+            {
+              "player": "David",
+              "score": 800
+            },
+            {
+              "player": "Alec",
+              "score": 2000
+            }
+          ]
+        },
+        {
+          "category": "4-LETTER WORDS",
+          "value": 300,
+          "clue": "The handle of a dagger, or what something pushed to the limit is done up to",
+          "answer": "the hilt",
+          "isDailyDouble": false,
+          "orderNumber": 23,
+          "correctContestants": [
+            "Fred"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Fred",
+              "score": 1500
+            },
+            {
+              "player": "David",
+              "score": 800
+            },
+            {
+              "player": "Alec",
+              "score": 2000
+            }
+          ]
+        },
+        {
+          "category": "4-LETTER WORDS",
+          "value": 400,
+          "clue": "To trade one thing for another, it formerly meant \"to strike hands in closing a bargain\"",
+          "answer": "swap",
+          "isDailyDouble": false,
+          "orderNumber": 24,
+          "correctContestants": [
+            "Fred"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Fred",
+              "score": 1900
+            },
+            {
+              "player": "David",
+              "score": 800
+            },
+            {
+              "player": "Alec",
+              "score": 2000
+            }
+          ]
+        },
+        {
+          "category": "4-LETTER WORDS",
+          "value": 500,
+          "clue": "A type of freshwater fish, or to complain constantly",
+          "answer": "to carp",
+          "isDailyDouble": false,
+          "orderNumber": 25,
+          "correctContestants": [
+            "Fred"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Fred",
+              "score": 2400
+            },
+            {
+              "player": "David",
+              "score": 800
+            },
+            {
+              "player": "Alec",
+              "score": 2000
+            }
+          ]
+        },
+        {
+          "category": "THE OLYMPICS",
+          "value": 500,
+          "clue": "Grace Kelly's father & brother each earned medals in this rowing event",
+          "answer": "single sculls",
+          "isDailyDouble": false,
+          "orderNumber": 26,
+          "correctContestants": [
+            "Alec"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Fred",
+              "score": 2400
+            },
+            {
+              "player": "David",
+              "score": 800
+            },
+            {
+              "player": "Alec",
+              "score": 2500
+            }
+          ]
+        },
+        {
+          "category": "DESSERTS",
+          "value": 200,
+          "clue": "Sponge cake, sherry, jam & custard combine to make this \"piddling\" English dessert",
+          "answer": "a trifle",
+          "isDailyDouble": false,
+          "orderNumber": 27,
+          "correctContestants": [
+            "Alec"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Fred",
+              "score": 2400
+            },
+            {
+              "player": "David",
+              "score": 800
+            },
+            {
+              "player": "Alec",
+              "score": 2700
+            }
+          ]
+        },
+        {
+          "category": "DESSERTS",
+          "value": 300,
+          "clue": "The most popular type of this baked fruit & breadcrumb pudding is \"apple Brown\"",
+          "answer": "Betty",
+          "isDailyDouble": false,
+          "orderNumber": 28,
+          "correctContestants": [
+            "David"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Fred",
+              "score": 2400
+            },
+            {
+              "player": "David",
+              "score": 1100
+            },
+            {
+              "player": "Alec",
+              "score": 2700
+            }
+          ]
+        },
+        {
+          "category": "DESSERTS",
+          "value": 400,
+          "clue": "Pennsylvania Dutch pie whose name probably refers to the difficulty of keeping flies off it",
+          "answer": "shoo-fly pie",
+          "isDailyDouble": false,
+          "orderNumber": 29,
+          "correctContestants": [
+            "Alec"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Fred",
+              "score": 2400
+            },
+            {
+              "player": "David",
+              "score": 1100
+            },
+            {
+              "player": "Alec",
+              "score": 3100
+            }
+          ]
+        },
+        {
+          "category": "DESSERTS",
+          "value": 500,
+          "clue": "Cream puffs & these oblong iced pastries are made from the same choux pastry dough",
+          "answer": "an eclair",
+          "isDailyDouble": false,
+          "orderNumber": 30,
+          "correctContestants": [
+            "David"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Fred",
+              "score": 2400
+            },
+            {
+              "player": "David",
+              "score": 1600
+            },
+            {
+              "player": "Alec",
+              "score": 3100
+            }
+          ]
+        }
+      ],
+      "firstBreakScores": [
+        {
+          "player": "Fred",
+          "score": 900
+        },
+        {
+          "player": "David",
+          "score": 200
+        },
+        {
+          "player": "Alec",
+          "score": 1500
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "Fred",
+          "score": 2400
+        },
+        {
+          "player": "David",
+          "score": 1600
+        },
+        {
+          "player": "Alec",
+          "score": 3100
+        }
+      ]
+    },
+    "doubleJeopardy": {
+      "categories": [
+        "BUSINESS & INDUSTRY",
+        "QUEENS OF ENGLAND",
+        "HODGEPODGE",
+        "LANGUAGES",
+        "SCIENTISTS",
+        "BIBLICAL QUOTES"
+      ],
+      "clues": [
+        {
+          "category": "BUSINESS & INDUSTRY",
+          "value": 200,
+          "clue": "You don't have to be a \"girl\" to know this is the No. 1 \"temp\" company in the U.S.",
+          "answer": "Kelly Girl (or Kelly Services)",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Fred",
+              "score": 2400
+            },
+            {
+              "player": "David",
+              "score": 1800
+            },
+            {
+              "player": "Alec",
+              "score": 3100
+            }
+          ]
+        },
+        {
+          "category": "BUSINESS & INDUSTRY",
+          "value": 400,
+          "clue": "In 1981 Nissan dropped this brand name for its cars sold in the U.S.",
+          "answer": "Datsun",
+          "isDailyDouble": false,
+          "orderNumber": 2,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Fred",
+              "score": 2400
+            },
+            {
+              "player": "David",
+              "score": 1800
+            },
+            {
+              "player": "Alec",
+              "score": 3500
+            }
+          ]
+        },
+        {
+          "category": "BUSINESS & INDUSTRY",
+          "value": 600,
+          "clue": "This company was formed by the merger of Zapata Petroleum & South Penn Oil Company",
+          "answer": "Pennzoil",
+          "isDailyDouble": false,
+          "orderNumber": 3,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Fred",
+              "score": 3000
+            },
+            {
+              "player": "David",
+              "score": 1800
+            },
+            {
+              "player": "Alec",
+              "score": 3500
+            }
+          ]
+        },
+        {
+          "category": "QUEENS OF ENGLAND",
+          "value": 200,
+          "clue": "In 1959 she became the 1st reigning British sovereign to visit Chicago",
+          "answer": "Queen Elizabeth II",
+          "isDailyDouble": false,
+          "orderNumber": 4,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Fred",
+              "score": 3200
+            },
+            {
+              "player": "David",
+              "score": 1800
+            },
+            {
+              "player": "Alec",
+              "score": 3500
+            }
+          ]
+        },
+        {
+          "category": "QUEENS OF ENGLAND",
+          "value": 400,
+          "clue": "Queenly name that preceded of Castile, of Provence and of Aquitaine",
+          "answer": "Eleanor",
+          "isDailyDouble": false,
+          "orderNumber": 5,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Fred",
+              "score": 3200
+            },
+            {
+              "player": "David",
+              "score": 2200
+            },
+            {
+              "player": "Alec",
+              "score": 3500
+            }
+          ]
+        },
+        {
+          "category": "BUSINESS & INDUSTRY",
+          "value": 800,
+          "clue": "Villard, Ballantine & Del Rey are imprints of this publisher co-founded by   Bennett Cerf",
+          "answer": "Random House",
+          "isDailyDouble": false,
+          "orderNumber": 6,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Fred",
+              "score": 3200
+            },
+            {
+              "player": "David",
+              "score": 2200
+            },
+            {
+              "player": "Alec",
+              "score": 4300
+            }
+          ]
+        },
+        {
+          "category": "BUSINESS & INDUSTRY",
+          "value": 1000,
+          "clue": "According to its commercials, this chemical company \"lets you do great things\"",
+          "answer": "Dow",
+          "isDailyDouble": false,
+          "orderNumber": 7,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Fred",
+              "score": 3200
+            },
+            {
+              "player": "David",
+              "score": 2200
+            },
+            {
+              "player": "Alec",
+              "score": 5300
+            }
+          ]
+        },
+        {
+          "category": "LANGUAGES",
+          "value": 200,
+          "clue": "Until the 20th c. U.S. college students had to read Greek & this other classical language",
+          "answer": "Latin",
+          "isDailyDouble": false,
+          "orderNumber": 8,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Fred",
+              "score": 3200
+            },
+            {
+              "player": "David",
+              "score": 2400
+            },
+            {
+              "player": "Alec",
+              "score": 5300
+            }
+          ]
+        },
+        {
+          "category": "QUEENS OF ENGLAND",
+          "value": 600,
+          "clue": "His wife, Henrietta Maria, fled to France in 1644 & never saw him again; he was executed in 1649",
+          "answer": "Charles I",
+          "isDailyDouble": false,
+          "orderNumber": 9,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Fred",
+              "score": 3800
+            },
+            {
+              "player": "David",
+              "score": 2400
+            },
+            {
+              "player": "Alec",
+              "score": 5300
+            }
+          ]
+        },
+        {
+          "category": "QUEENS OF ENGLAND",
+          "value": 800,
+          "clue": "We don't know if his teenage wife, Isabel of Angouleme, was ever called Isabel Lackland",
+          "answer": "King John",
+          "isDailyDouble": false,
+          "orderNumber": 10,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Fred",
+              "score": 4600
+            },
+            {
+              "player": "David",
+              "score": 2400
+            },
+            {
+              "player": "Alec",
+              "score": 5300
+            }
+          ]
+        },
+        {
+          "category": "QUEENS OF ENGLAND",
+          "value": 1000,
+          "clue": "When this consort of King George V saw a haystack during WWII, she said, \"So that's what hay looks like\"",
+          "answer": "Queen Mary",
+          "isDailyDouble": false,
+          "orderNumber": 11,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Fred",
+              "score": 5600
+            },
+            {
+              "player": "David",
+              "score": 2400
+            },
+            {
+              "player": "Alec",
+              "score": 5300
+            }
+          ]
+        },
+        {
+          "category": "LANGUAGES",
+          "value": 400,
+          "clue": "Today the Baltic languages comprise only Lettish or Latvian & this",
+          "answer": "Lithuanian",
+          "isDailyDouble": false,
+          "orderNumber": 12,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Alec"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Fred",
+              "score": 5600
+            },
+            {
+              "player": "David",
+              "score": 2000
+            },
+            {
+              "player": "Alec",
+              "score": 4900
+            }
+          ]
+        },
+        {
+          "category": "LANGUAGES",
+          "value": 600,
+          "clue": "For nearly 3 centuries after the Norman Conquest, it was the language of English nobility",
+          "answer": "French",
+          "isDailyDouble": false,
+          "orderNumber": 13,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Fred",
+              "score": 5600
+            },
+            {
+              "player": "David",
+              "score": 2000
+            },
+            {
+              "player": "Alec",
+              "score": 5500
+            }
+          ]
+        },
+        {
+          "category": "LANGUAGES",
+          "value": 1000,
+          "clue": "1 of the 2 Great Lakes that's also the name of an American Indian language",
+          "answer": "Huron (or Erie)",
+          "isDailyDouble": true,
+          "orderNumber": 14,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Fred",
+              "score": 5600
+            },
+            {
+              "player": "David",
+              "score": 2000
+            },
+            {
+              "player": "Alec",
+              "score": 6500
+            }
+          ]
+        },
+        {
+          "category": "LANGUAGES",
+          "value": 1000,
+          "clue": "It's the official language of Suriname",
+          "answer": "Dutch",
+          "isDailyDouble": false,
+          "orderNumber": 15,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Fred",
+              "score": 5600
+            },
+            {
+              "player": "David",
+              "score": 2000
+            },
+            {
+              "player": "Alec",
+              "score": 7500
+            }
+          ]
+        },
+        {
+          "category": "SCIENTISTS",
+          "value": 200,
+          "clue": "Though not the first to make one, Fahrenheit was the first to fill a thermometer with this metal",
+          "answer": "mercury",
+          "isDailyDouble": false,
+          "orderNumber": 16,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Fred",
+              "score": 5600
+            },
+            {
+              "player": "David",
+              "score": 2000
+            },
+            {
+              "player": "Alec",
+              "score": 7700
+            }
+          ]
+        },
+        {
+          "category": "SCIENTISTS",
+          "value": 400,
+          "clue": "By mounting lenses in a tube, Dutch optician Hans Lippershey created one before Galileo",
+          "answer": "a telescope",
+          "isDailyDouble": false,
+          "orderNumber": 17,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Fred",
+              "score": 5600
+            },
+            {
+              "player": "David",
+              "score": 2000
+            },
+            {
+              "player": "Alec",
+              "score": 8100
+            }
+          ]
+        },
+        {
+          "category": "SCIENTISTS",
+          "value": 600,
+          "clue": "This astronomer is known by the Latinized version of his Danish name, Tyge",
+          "answer": "Tycho Brahe",
+          "isDailyDouble": false,
+          "orderNumber": 18,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Fred",
+              "score": 6200
+            },
+            {
+              "player": "David",
+              "score": 2000
+            },
+            {
+              "player": "Alec",
+              "score": 8100
+            }
+          ]
+        },
+        {
+          "category": "SCIENTISTS",
+          "value": 800,
+          "clue": "James Hutton, author of \"Theory of the Earth\", is considered the \"father of\" this science",
+          "answer": "geology",
+          "isDailyDouble": false,
+          "orderNumber": 19,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Fred",
+              "score": 6200
+            },
+            {
+              "player": "David",
+              "score": 2000
+            },
+            {
+              "player": "Alec",
+              "score": 8900
+            }
+          ]
+        },
+        {
+          "category": "SCIENTISTS",
+          "value": 1000,
+          "clue": "In 1943 this physicist was put in charge of the Los Alamos labs where the first A-bomb was built",
+          "answer": "Oppenheimer",
+          "isDailyDouble": false,
+          "orderNumber": 20,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Fred",
+              "score": 6200
+            },
+            {
+              "player": "David",
+              "score": 3000
+            },
+            {
+              "player": "Alec",
+              "score": 8900
+            }
+          ]
+        },
+        {
+          "category": "BIBLICAL QUOTES",
+          "value": 200,
+          "clue": "Aptly, they are the first three words of the Bible",
+          "answer": "In the beginning",
+          "isDailyDouble": false,
+          "orderNumber": 21,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Fred",
+              "score": 6400
+            },
+            {
+              "player": "David",
+              "score": 3000
+            },
+            {
+              "player": "Alec",
+              "score": 8900
+            }
+          ]
+        },
+        {
+          "category": "HODGEPODGE",
+          "value": 200,
+          "clue": "Dread Zeppelin is a band that records reggae versions of this group's music",
+          "answer": "Led Zeppelin",
+          "isDailyDouble": false,
+          "orderNumber": 22,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Fred",
+              "score": 6400
+            },
+            {
+              "player": "David",
+              "score": 3200
+            },
+            {
+              "player": "Alec",
+              "score": 8900
+            }
+          ]
+        },
+        {
+          "category": "BIBLICAL QUOTES",
+          "value": 600,
+          "clue": "Apostle who asked, \"Lord,... bid me come unto thee\" when Jesus walked on the water",
+          "answer": "Peter",
+          "isDailyDouble": false,
+          "orderNumber": 23,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Fred",
+              "score": 6400
+            },
+            {
+              "player": "David",
+              "score": 3200
+            },
+            {
+              "player": "Alec",
+              "score": 8900
+            }
+          ]
+        },
+        {
+          "category": "HODGEPODGE",
+          "value": 400,
+          "clue": "The 2 identical new versions of this presidential plane will cost a total of $260 million",
+          "answer": "Air Force One",
+          "isDailyDouble": false,
+          "orderNumber": 24,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Fred",
+              "score": 6400
+            },
+            {
+              "player": "David",
+              "score": 3200
+            },
+            {
+              "player": "Alec",
+              "score": 9300
+            }
+          ]
+        },
+        {
+          "category": "HODGEPODGE",
+          "value": 600,
+          "clue": "Invented for a college football team in the early '60s, Newsweek calls it \"the granddaddy of sports drinks\"",
+          "answer": "Gatorade",
+          "isDailyDouble": false,
+          "orderNumber": 25,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Fred",
+              "score": 6400
+            },
+            {
+              "player": "David",
+              "score": 3200
+            },
+            {
+              "player": "Alec",
+              "score": 9900
+            }
+          ]
+        },
+        {
+          "category": "HODGEPODGE",
+          "value": 800,
+          "clue": "Among the 7 ancient world wonders were 2 statues, Zeus at Olympia & this",
+          "answer": "the Colossus of Rhodes",
+          "isDailyDouble": false,
+          "orderNumber": 26,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Fred",
+              "score": 6400
+            },
+            {
+              "player": "David",
+              "score": 4000
+            },
+            {
+              "player": "Alec",
+              "score": 9900
+            }
+          ]
+        },
+        {
+          "category": "HODGEPODGE",
+          "value": 1000,
+          "clue": "In the name of a national non-profit organization, the initials RIF stand for this",
+          "answer": "Reading Is Fundamental",
+          "isDailyDouble": false,
+          "orderNumber": 27,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Fred",
+              "score": 6400
+            },
+            {
+              "player": "David",
+              "score": 4000
+            },
+            {
+              "player": "Alec",
+              "score": 10900
+            }
+          ]
+        },
+        {
+          "category": "BIBLICAL QUOTES",
+          "value": 400,
+          "clue": "Resigned to his woes, he said, \"The Lord gave, and the Lord hath taken away\"",
+          "answer": "Job",
+          "isDailyDouble": false,
+          "orderNumber": 28,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Fred",
+              "score": 6400
+            },
+            {
+              "player": "David",
+              "score": 4400
+            },
+            {
+              "player": "Alec",
+              "score": 10900
+            }
+          ]
+        },
+        {
+          "category": "BIBLICAL QUOTES",
+          "value": 800,
+          "clue": "At the Jordan he called Jesus \"the lamb of God, which taketh away the sin of the world\"",
+          "answer": "John the Baptist",
+          "isDailyDouble": false,
+          "orderNumber": 29,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Fred",
+              "score": 6400
+            },
+            {
+              "player": "David",
+              "score": 4400
+            },
+            {
+              "player": "Alec",
+              "score": 11700
+            }
+          ]
+        },
+        {
+          "category": "BIBLICAL QUOTES",
+          "value": 1000,
+          "clue": "He wailed, \"Would God I had died for thee, O Absalom, my son, my son!\"",
+          "answer": "King David",
+          "isDailyDouble": true,
+          "orderNumber": 30,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Fred",
+              "score": 6400
+            },
+            {
+              "player": "David",
+              "score": 4400
+            },
+            {
+              "player": "Alec",
+              "score": 12700
+            }
+          ]
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "Fred",
+          "score": 6400
+        },
+        {
+          "player": "David",
+          "score": 4400
+        },
+        {
+          "player": "Alec",
+          "score": 12700
+        }
+      ]
+    },
+    "finalJeopardy": {
+      "category": "TELEVISION",
+      "clue": "This documentary series was the highest-rated series in PBS history",
+      "answer": "The Civil War",
+      "responses": [
+        {
+          "contestant": "David",
+          "response": "What is The Civil War",
+          "isCorrect": true,
+          "isIncorrect": false,
+          "value": 2100,
+          "finalScore": 6500
+        },
+        {
+          "contestant": "Fred",
+          "response": "What is Jewels of the Crown?",
+          "isCorrect": false,
+          "isIncorrect": true,
+          "value": 6350,
+          "finalScore": 50
+        },
+        {
+          "contestant": "Alec",
+          "response": "What was 'The Civil War'",
+          "isCorrect": true,
+          "isIncorrect": false,
+          "value": 3899,
+          "finalScore": 16599
+        }
+      ]
+    }
+  },
+  "finalScores": [
+    {
+      "player": "Fred",
+      "score": "$50"
+    },
+    {
+      "player": "David",
+      "score": "$6,500"
+    },
+    {
+      "player": "Alec",
+      "score": "$16,599"
+    }
+  ],
+  "coryatScores": [
+    {
+      "player": "Fred",
+      "score": 6400
+    },
+    {
+      "player": "David",
+      "score": 4400
+    },
+    {
+      "player": "Alec",
+      "score": 12300
+    }
+  ]
+}

@@ -1,0 +1,1687 @@
+{
+  "gameId": 5268,
+  "showNumber": "1090",
+  "title": "Show #1090 - Friday, May 5, 1989",
+  "date": "1989-05-05",
+  "comments": "",
+  "contestants": [
+    "Bill",
+    "Phil",
+    "Michael"
+  ],
+  "rounds": {
+    "jeopardy": {
+      "categories": [
+        "ZOOLOGY",
+        "DISC JOCKEYS",
+        "RELIGION",
+        "HOLLYWOOD",
+        "POTENT POTABLES",
+        "\"BAR\"S"
+      ],
+      "clues": [
+        {
+          "category": "RELIGION",
+          "value": 300,
+          "clue": "Roman Catholics are married at this kind of mass",
+          "answer": "nuptial mass",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [
+            "Phil"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bill",
+              "score": 0
+            },
+            {
+              "player": "Phil",
+              "score": 300
+            },
+            {
+              "player": "Michael",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "\"BAR\"S",
+          "value": 100,
+          "clue": "Dog talk",
+          "answer": "barking",
+          "isDailyDouble": false,
+          "orderNumber": 2,
+          "correctContestants": [
+            "Michael"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bill",
+              "score": 0
+            },
+            {
+              "player": "Phil",
+              "score": 300
+            },
+            {
+              "player": "Michael",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "category": "\"BAR\"S",
+          "value": 200,
+          "clue": "Examples are the Goths, the Vandals & Conan",
+          "answer": "barbarians",
+          "isDailyDouble": false,
+          "orderNumber": 3,
+          "correctContestants": [
+            "Bill"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bill",
+              "score": 200
+            },
+            {
+              "player": "Phil",
+              "score": 300
+            },
+            {
+              "player": "Michael",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "category": "RELIGION",
+          "value": 400,
+          "clue": "Ceremony whose name means \"daughter of the commandment\" in Hebrew",
+          "answer": "bat mitzvah (or bas mitzvah)",
+          "isDailyDouble": false,
+          "orderNumber": 4,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Bill"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Bill",
+              "score": -200
+            },
+            {
+              "player": "Phil",
+              "score": 300
+            },
+            {
+              "player": "Michael",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "category": "RELIGION",
+          "value": 500,
+          "clue": "Heritage USA, described as a \"religious Disneyland\", is a theme park located in this state",
+          "answer": "South Carolina",
+          "isDailyDouble": false,
+          "orderNumber": 5,
+          "correctContestants": [
+            "Bill"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bill",
+              "score": 300
+            },
+            {
+              "player": "Phil",
+              "score": 300
+            },
+            {
+              "player": "Michael",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "category": "RELIGION",
+          "value": 100,
+          "clue": "Abraham, Moses & Jesus are considered prophets in this holy book of Islam",
+          "answer": "the Koran",
+          "isDailyDouble": false,
+          "orderNumber": 6,
+          "correctContestants": [
+            "Michael"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bill",
+              "score": 300
+            },
+            {
+              "player": "Phil",
+              "score": 300
+            },
+            {
+              "player": "Michael",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "RELIGION",
+          "value": 200,
+          "clue": "The name for this heavenly being comes from the Greek word for \"messenger\"",
+          "answer": "angel",
+          "isDailyDouble": false,
+          "orderNumber": 7,
+          "correctContestants": [
+            "Bill"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bill",
+              "score": 500
+            },
+            {
+              "player": "Phil",
+              "score": 300
+            },
+            {
+              "player": "Michael",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "\"BAR\"S",
+          "value": 300,
+          "clue": "A bass, a baritone, a tenor & a lead getting a haircut",
+          "answer": "barbershop quartet",
+          "isDailyDouble": false,
+          "orderNumber": 8,
+          "correctContestants": [
+            "Bill"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bill",
+              "score": 800
+            },
+            {
+              "player": "Phil",
+              "score": 300
+            },
+            {
+              "player": "Michael",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "POTENT POTABLES",
+          "value": 300,
+          "clue": "If she were alive to see her picture on the Bombay gin label, she might not be amused",
+          "answer": "Queen Victoria",
+          "isDailyDouble": false,
+          "orderNumber": 9,
+          "correctContestants": [
+            "Phil"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bill",
+              "score": 800
+            },
+            {
+              "player": "Phil",
+              "score": 600
+            },
+            {
+              "player": "Michael",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "DISC JOCKEYS",
+          "value": 100,
+          "clue": "In July 1954 Memphis DJ Dewey Phillips became the 1st to air a record by this future superstar",
+          "answer": "Elvis Presley",
+          "isDailyDouble": false,
+          "orderNumber": 10,
+          "correctContestants": [
+            "Phil"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bill",
+              "score": 800
+            },
+            {
+              "player": "Phil",
+              "score": 700
+            },
+            {
+              "player": "Michael",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "DISC JOCKEYS",
+          "value": 200,
+          "clue": "In 1969 Detroit DJ Russ Gibb & his listeners discovered musical \"clues\" to this Beatle's \"death\"",
+          "answer": "Paul McCartney",
+          "isDailyDouble": false,
+          "orderNumber": 11,
+          "correctContestants": [
+            "Phil"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bill",
+              "score": 800
+            },
+            {
+              "player": "Phil",
+              "score": 900
+            },
+            {
+              "player": "Michael",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "HOLLYWOOD",
+          "value": 100,
+          "clue": "In 1988 Penthouse magazine offered a $50,000 reward for this late sex symbol's missing diary",
+          "answer": "Marilyn Monroe",
+          "isDailyDouble": false,
+          "orderNumber": 12,
+          "correctContestants": [
+            "Phil"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bill",
+              "score": 800
+            },
+            {
+              "player": "Phil",
+              "score": 1000
+            },
+            {
+              "player": "Michael",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "HOLLYWOOD",
+          "value": 200,
+          "clue": "He was a Hollywood tycoon before becoming an ambassador & the father of a president",
+          "answer": "Joseph Kennedy",
+          "isDailyDouble": false,
+          "orderNumber": 13,
+          "correctContestants": [
+            "Phil"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bill",
+              "score": 800
+            },
+            {
+              "player": "Phil",
+              "score": 1200
+            },
+            {
+              "player": "Michael",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "\"BAR\"S",
+          "value": 400,
+          "clue": "A tsetse that's taken to frequenting taverns",
+          "answer": "barfly",
+          "isDailyDouble": false,
+          "orderNumber": 14,
+          "correctContestants": [
+            "Phil"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bill",
+              "score": 800
+            },
+            {
+              "player": "Phil",
+              "score": 1600
+            },
+            {
+              "player": "Michael",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "\"BAR\"S",
+          "value": 1000,
+          "clue": "A Venetian boat song, or this duet from Offenbach's \"Tales of Hoffmann\":",
+          "answer": "barcarolle",
+          "isDailyDouble": true,
+          "orderNumber": 15,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Phil"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bill",
+              "score": 800
+            },
+            {
+              "player": "Phil",
+              "score": 600
+            },
+            {
+              "player": "Michael",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "HOLLYWOOD",
+          "value": 300,
+          "clue": "Gloria Swanson, Janet Gaynor & Louise Dresser were the 1st people ever nominated for this award",
+          "answer": "Academy Award for Best Actress",
+          "isDailyDouble": false,
+          "orderNumber": 16,
+          "correctContestants": [
+            "Phil"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bill",
+              "score": 800
+            },
+            {
+              "player": "Phil",
+              "score": 900
+            },
+            {
+              "player": "Michael",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "HOLLYWOOD",
+          "value": 400,
+          "clue": "George Raft is entombed at Forest Lawn next to this man who played Chico in \"Chico & the Man\"",
+          "answer": "Freddie Prinze",
+          "isDailyDouble": false,
+          "orderNumber": 17,
+          "correctContestants": [
+            "Michael"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bill",
+              "score": 800
+            },
+            {
+              "player": "Phil",
+              "score": 900
+            },
+            {
+              "player": "Michael",
+              "score": 600
+            }
+          ]
+        },
+        {
+          "category": "DISC JOCKEYS",
+          "value": 300,
+          "clue": "Dr. Johnny Fever & Venus Flytrap were resident DJs in this CBS sitcom",
+          "answer": "WKRP in Cincinnati",
+          "isDailyDouble": false,
+          "orderNumber": 18,
+          "correctContestants": [
+            "Phil"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bill",
+              "score": 800
+            },
+            {
+              "player": "Phil",
+              "score": 1200
+            },
+            {
+              "player": "Michael",
+              "score": 600
+            }
+          ]
+        },
+        {
+          "category": "DISC JOCKEYS",
+          "value": 400,
+          "clue": "Cleveland DJ Alan Freed is credited with popularizing this music term, which had been around for years",
+          "answer": "rock and roll",
+          "isDailyDouble": false,
+          "orderNumber": 19,
+          "correctContestants": [
+            "Michael"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bill",
+              "score": 800
+            },
+            {
+              "player": "Phil",
+              "score": 1200
+            },
+            {
+              "player": "Michael",
+              "score": 1000
+            }
+          ]
+        },
+        {
+          "category": "DISC JOCKEYS",
+          "value": 500,
+          "clue": "In 1965 the real Adrian Cronauer was a morning drive-time disc jockey here",
+          "answer": "Vietnam",
+          "isDailyDouble": false,
+          "orderNumber": 20,
+          "correctContestants": [
+            "Michael"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bill",
+              "score": 800
+            },
+            {
+              "player": "Phil",
+              "score": 1200
+            },
+            {
+              "player": "Michael",
+              "score": 1500
+            }
+          ]
+        },
+        {
+          "category": "HOLLYWOOD",
+          "value": 500,
+          "clue": "Watching a group of kids argue over pieces of wood inspired him to produce the \"Our Gang\" comedies",
+          "answer": "Hal Roach",
+          "isDailyDouble": false,
+          "orderNumber": 21,
+          "correctContestants": [
+            "Phil"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bill",
+              "score": 800
+            },
+            {
+              "player": "Phil",
+              "score": 1700
+            },
+            {
+              "player": "Michael",
+              "score": 1500
+            }
+          ]
+        },
+        {
+          "category": "ZOOLOGY",
+          "value": 100,
+          "clue": "Another name for the frigate bird, or a Portuguese jellyfish",
+          "answer": "man o' war",
+          "isDailyDouble": false,
+          "orderNumber": 22,
+          "correctContestants": [
+            "Michael"
+          ],
+          "incorrectContestants": [
+            "Bill"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bill",
+              "score": 700
+            },
+            {
+              "player": "Phil",
+              "score": 1700
+            },
+            {
+              "player": "Michael",
+              "score": 1600
+            }
+          ]
+        },
+        {
+          "category": "ZOOLOGY",
+          "value": 500,
+          "clue": "The eggs of a fish in the ovary, or a big deer",
+          "answer": "roe",
+          "isDailyDouble": false,
+          "orderNumber": 23,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Bill",
+              "score": 700
+            },
+            {
+              "player": "Phil",
+              "score": 1700
+            },
+            {
+              "player": "Michael",
+              "score": 1600
+            }
+          ]
+        },
+        {
+          "category": "POTENT POTABLES",
+          "value": 500,
+          "clue": "Stolichnaya's Pertsovka vodka gets its spicy flavor from these, pictured on the label",
+          "answer": "red peppers",
+          "isDailyDouble": false,
+          "orderNumber": 24,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Bill",
+              "score": 700
+            },
+            {
+              "player": "Phil",
+              "score": 1700
+            },
+            {
+              "player": "Michael",
+              "score": 1600
+            }
+          ]
+        },
+        {
+          "category": "POTENT POTABLES",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bill",
+              "score": 700
+            },
+            {
+              "player": "Phil",
+              "score": 1700
+            },
+            {
+              "player": "Michael",
+              "score": 1600
+            }
+          ]
+        },
+        {
+          "category": "ZOOLOGY",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bill",
+              "score": 700
+            },
+            {
+              "player": "Phil",
+              "score": 1700
+            },
+            {
+              "player": "Michael",
+              "score": 1600
+            }
+          ]
+        },
+        {
+          "category": "POTENT POTABLES",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bill",
+              "score": 700
+            },
+            {
+              "player": "Phil",
+              "score": 1700
+            },
+            {
+              "player": "Michael",
+              "score": 1600
+            }
+          ]
+        },
+        {
+          "category": "ZOOLOGY",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bill",
+              "score": 700
+            },
+            {
+              "player": "Phil",
+              "score": 1700
+            },
+            {
+              "player": "Michael",
+              "score": 1600
+            }
+          ]
+        },
+        {
+          "category": "ZOOLOGY",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bill",
+              "score": 700
+            },
+            {
+              "player": "Phil",
+              "score": 1700
+            },
+            {
+              "player": "Michael",
+              "score": 1600
+            }
+          ]
+        },
+        {
+          "category": "POTENT POTABLES",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bill",
+              "score": 700
+            },
+            {
+              "player": "Phil",
+              "score": 1700
+            },
+            {
+              "player": "Michael",
+              "score": 1600
+            }
+          ]
+        }
+      ],
+      "firstBreakScores": [
+        {
+          "player": "Bill",
+          "score": 800
+        },
+        {
+          "player": "Phil",
+          "score": 1200
+        },
+        {
+          "player": "Michael",
+          "score": 200
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "Bill",
+          "score": 700
+        },
+        {
+          "player": "Phil",
+          "score": 1700
+        },
+        {
+          "player": "Michael",
+          "score": 1600
+        }
+      ]
+    },
+    "doubleJeopardy": {
+      "categories": [
+        "MEDICINE",
+        "FAMOUS FRENCHMEN",
+        "FASHION HISTORY",
+        "BOOKS & AUTHORS",
+        "U.S. STATES",
+        "THE SUPERNATURAL"
+      ],
+      "clues": [
+        {
+          "category": "U.S. STATES",
+          "value": 800,
+          "clue": "This Southeast state's official seal depicts an Indian girl strewing flowers",
+          "answer": "Florida",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Bill",
+              "score": 700
+            },
+            {
+              "player": "Phil",
+              "score": 1700
+            },
+            {
+              "player": "Michael",
+              "score": 1600
+            }
+          ]
+        },
+        {
+          "category": "U.S. STATES",
+          "value": 1000,
+          "clue": "This state's Black Warrior National Forest was renamed in honor of T. Bankhead's father",
+          "answer": "Alabama",
+          "isDailyDouble": false,
+          "orderNumber": 2,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bill",
+              "score": 700
+            },
+            {
+              "player": "Phil",
+              "score": 2700
+            },
+            {
+              "player": "Michael",
+              "score": 1600
+            }
+          ]
+        },
+        {
+          "category": "U.S. STATES",
+          "value": 200,
+          "clue": "This state has an entire museum devoted to barbed wire, but as far as we know, there's no Toto museum",
+          "answer": "Kansas",
+          "isDailyDouble": false,
+          "orderNumber": 3,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bill",
+              "score": 700
+            },
+            {
+              "player": "Phil",
+              "score": 2900
+            },
+            {
+              "player": "Michael",
+              "score": 1600
+            }
+          ]
+        },
+        {
+          "category": "FAMOUS FRENCHMEN",
+          "value": 200,
+          "clue": "Louise, Mimi, Gigi & Fanny were a few of the fictional women in this debonair Frenchman's life",
+          "answer": "Maurice Chevalier",
+          "isDailyDouble": false,
+          "orderNumber": 4,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bill",
+              "score": 500
+            },
+            {
+              "player": "Phil",
+              "score": 3100
+            },
+            {
+              "player": "Michael",
+              "score": 1600
+            }
+          ]
+        },
+        {
+          "category": "FAMOUS FRENCHMEN",
+          "value": 400,
+          "clue": "Robespierre met the same fate just 18 months after demanding that this king be guillotined",
+          "answer": "Louis XVI",
+          "isDailyDouble": false,
+          "orderNumber": 5,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bill",
+              "score": 500
+            },
+            {
+              "player": "Phil",
+              "score": 3100
+            },
+            {
+              "player": "Michael",
+              "score": 2000
+            }
+          ]
+        },
+        {
+          "category": "FASHION HISTORY",
+          "value": 200,
+          "clue": "This large shoulder scarf, sometimes made of mink, was the big fashion news of 1950",
+          "answer": "mink stole",
+          "isDailyDouble": false,
+          "orderNumber": 6,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Bill",
+              "score": 500
+            },
+            {
+              "player": "Phil",
+              "score": 3100
+            },
+            {
+              "player": "Michael",
+              "score": 2000
+            }
+          ]
+        },
+        {
+          "category": "FASHION HISTORY",
+          "value": 400,
+          "clue": "The clothes & hairstyles of the 1960s produced this gender-blender look",
+          "answer": "unisex",
+          "isDailyDouble": false,
+          "orderNumber": 7,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Phil"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bill",
+              "score": 100
+            },
+            {
+              "player": "Phil",
+              "score": 2700
+            },
+            {
+              "player": "Michael",
+              "score": 2400
+            }
+          ]
+        },
+        {
+          "category": "FASHION HISTORY",
+          "value": 600,
+          "clue": "The bright red jacket worn at a fox hunt isn't called a \"red\" but this",
+          "answer": "pink coat",
+          "isDailyDouble": false,
+          "orderNumber": 8,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Bill",
+              "score": -500
+            },
+            {
+              "player": "Phil",
+              "score": 2700
+            },
+            {
+              "player": "Michael",
+              "score": 2400
+            }
+          ]
+        },
+        {
+          "category": "FASHION HISTORY",
+          "value": 800,
+          "clue": "An 1882 French play that lent its name to a soft felt hat with foldable brim & creased crown",
+          "answer": "fedora",
+          "isDailyDouble": false,
+          "orderNumber": 9,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bill",
+              "score": 300
+            },
+            {
+              "player": "Phil",
+              "score": 2700
+            },
+            {
+              "player": "Michael",
+              "score": 2400
+            }
+          ]
+        },
+        {
+          "category": "FAMOUS FRENCHMEN",
+          "value": 600,
+          "clue": "A 19th c. writer & statesman, or a thick slice of beef filet with béarnaise or chateau sauce named for him",
+          "answer": "Chateaubriand",
+          "isDailyDouble": false,
+          "orderNumber": 10,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bill",
+              "score": 300
+            },
+            {
+              "player": "Phil",
+              "score": 3300
+            },
+            {
+              "player": "Michael",
+              "score": 2400
+            }
+          ]
+        },
+        {
+          "category": "U.S. STATES",
+          "value": 400,
+          "clue": "The only state represented by 2 senators of Japanese descent",
+          "answer": "Hawaii",
+          "isDailyDouble": false,
+          "orderNumber": 11,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bill",
+              "score": 300
+            },
+            {
+              "player": "Phil",
+              "score": 3700
+            },
+            {
+              "player": "Michael",
+              "score": 2000
+            }
+          ]
+        },
+        {
+          "category": "U.S. STATES",
+          "value": 600,
+          "clue": "South Carolina's flag has a blue field with this state tree in the center",
+          "answer": "palmetto",
+          "isDailyDouble": false,
+          "orderNumber": 12,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bill",
+              "score": 300
+            },
+            {
+              "player": "Phil",
+              "score": 4300
+            },
+            {
+              "player": "Michael",
+              "score": 2000
+            }
+          ]
+        },
+        {
+          "category": "MEDICINE",
+          "value": 200,
+          "clue": "A sharp pain in your temple, blurred vision & nausea are all symptoms of this type of severe headache",
+          "answer": "migraine",
+          "isDailyDouble": false,
+          "orderNumber": 13,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bill",
+              "score": 300
+            },
+            {
+              "player": "Phil",
+              "score": 4500
+            },
+            {
+              "player": "Michael",
+              "score": 2000
+            }
+          ]
+        },
+        {
+          "category": "MEDICINE",
+          "value": 400,
+          "clue": "If you've had a myocardial infarction, you've had one of these -- so stop smoking, eat right & exercise",
+          "answer": "heart attack",
+          "isDailyDouble": false,
+          "orderNumber": 14,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bill",
+              "score": 300
+            },
+            {
+              "player": "Phil",
+              "score": 4500
+            },
+            {
+              "player": "Michael",
+              "score": 2400
+            }
+          ]
+        },
+        {
+          "category": "FASHION HISTORY",
+          "value": 1000,
+          "clue": "These shoes, also known as \"spike heels\", are almost as pointed as the daggers of the same name",
+          "answer": "stilettos",
+          "isDailyDouble": false,
+          "orderNumber": 15,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bill",
+              "score": 300
+            },
+            {
+              "player": "Phil",
+              "score": 4500
+            },
+            {
+              "player": "Michael",
+              "score": 3400
+            }
+          ]
+        },
+        {
+          "category": "BOOKS & AUTHORS",
+          "value": 200,
+          "clue": "\"The Mystery of Marie Roget\" is Poe's sequel to this story about \"The Murders in\" this place",
+          "answer": "the Rue Morgue",
+          "isDailyDouble": false,
+          "orderNumber": 16,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bill",
+              "score": 300
+            },
+            {
+              "player": "Phil",
+              "score": 4500
+            },
+            {
+              "player": "Michael",
+              "score": 3600
+            }
+          ]
+        },
+        {
+          "category": "BOOKS & AUTHORS",
+          "value": 400,
+          "clue": "He also wrote \"The Life & Death of Mr. Badman\", but he's more famous for \"The Pilgrim's Progress\"",
+          "answer": "John Bunyan",
+          "isDailyDouble": false,
+          "orderNumber": 17,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bill",
+              "score": 300
+            },
+            {
+              "player": "Phil",
+              "score": 4900
+            },
+            {
+              "player": "Michael",
+              "score": 3600
+            }
+          ]
+        },
+        {
+          "category": "BOOKS & AUTHORS",
+          "value": 800,
+          "clue": "With success of new Nancy Drew & Hardy Boys books, these Laura Lee Hope kids were brought back",
+          "answer": "the Bobbsey Twins",
+          "isDailyDouble": true,
+          "orderNumber": 18,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bill",
+              "score": 300
+            },
+            {
+              "player": "Phil",
+              "score": 5700
+            },
+            {
+              "player": "Michael",
+              "score": 3600
+            }
+          ]
+        },
+        {
+          "category": "BOOKS & AUTHORS",
+          "value": 800,
+          "clue": "Her 1st novel was \"Adam Bede\"",
+          "answer": "George Eliot",
+          "isDailyDouble": false,
+          "orderNumber": 19,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bill",
+              "score": 300
+            },
+            {
+              "player": "Phil",
+              "score": 6500
+            },
+            {
+              "player": "Michael",
+              "score": 3600
+            }
+          ]
+        },
+        {
+          "category": "BOOKS & AUTHORS",
+          "value": 1000,
+          "clue": "In the Wilkie Collins novel \"The Moonstone\", the Moonstone was this",
+          "answer": "big diamond",
+          "isDailyDouble": false,
+          "orderNumber": 20,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Bill",
+              "score": 300
+            },
+            {
+              "player": "Phil",
+              "score": 6500
+            },
+            {
+              "player": "Michael",
+              "score": 3600
+            }
+          ]
+        },
+        {
+          "category": "FAMOUS FRENCHMEN",
+          "value": 800,
+          "clue": "Film director whose \"Stolen Kisses\" was a sequel to his \"The 400 Blows\"",
+          "answer": "Francois Truffaut",
+          "isDailyDouble": false,
+          "orderNumber": 21,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bill",
+              "score": 300
+            },
+            {
+              "player": "Phil",
+              "score": 7300
+            },
+            {
+              "player": "Michael",
+              "score": 3600
+            }
+          ]
+        },
+        {
+          "category": "FAMOUS FRENCHMEN",
+          "value": 1000,
+          "clue": "In his 1835 book about America, he said, \"I know of no country where the love of money has taken stronger hold\"",
+          "answer": "de Tocqueville",
+          "isDailyDouble": false,
+          "orderNumber": 22,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bill",
+              "score": 300
+            },
+            {
+              "player": "Phil",
+              "score": 7300
+            },
+            {
+              "player": "Michael",
+              "score": 4600
+            }
+          ]
+        },
+        {
+          "category": "MEDICINE",
+          "value": 600,
+          "clue": "Surgery is only occasionally recommended now for this inflammation of lymphoid tissue in the throat",
+          "answer": "tonsillitis",
+          "isDailyDouble": false,
+          "orderNumber": 23,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bill",
+              "score": 900
+            },
+            {
+              "player": "Phil",
+              "score": 7300
+            },
+            {
+              "player": "Michael",
+              "score": 4600
+            }
+          ]
+        },
+        {
+          "category": "MEDICINE",
+          "value": 800,
+          "clue": "Too much alcohol or rich food doesn't cause this joint inflammation, but it may trigger attacks",
+          "answer": "gout",
+          "isDailyDouble": false,
+          "orderNumber": 24,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bill",
+              "score": 1700
+            },
+            {
+              "player": "Phil",
+              "score": 7300
+            },
+            {
+              "player": "Michael",
+              "score": 4600
+            }
+          ]
+        },
+        {
+          "category": "MEDICINE",
+          "value": 1000,
+          "clue": "It's defined as a wound or shock caused by sudden physical injury",
+          "answer": "trauma",
+          "isDailyDouble": false,
+          "orderNumber": 25,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bill",
+              "score": 1700
+            },
+            {
+              "player": "Phil",
+              "score": 8300
+            },
+            {
+              "player": "Michael",
+              "score": 4600
+            }
+          ]
+        },
+        {
+          "category": "THE SUPERNATURAL",
+          "value": 200,
+          "clue": "Pyromancy is the art of doing this with fire",
+          "answer": "fortune telling",
+          "isDailyDouble": false,
+          "orderNumber": 26,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bill",
+              "score": 1700
+            },
+            {
+              "player": "Phil",
+              "score": 8500
+            },
+            {
+              "player": "Michael",
+              "score": 4600
+            }
+          ]
+        },
+        {
+          "category": "THE SUPERNATURAL",
+          "value": 400,
+          "clue": "To the Greeks, Hecate was a goddess of sorcery, in this Shakespeare play, she was a witch",
+          "answer": "\"Macbeth\"",
+          "isDailyDouble": false,
+          "orderNumber": 27,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bill",
+              "score": 1700
+            },
+            {
+              "player": "Phil",
+              "score": 8500
+            },
+            {
+              "player": "Michael",
+              "score": 5000
+            }
+          ]
+        },
+        {
+          "category": "THE SUPERNATURAL",
+          "value": 1000,
+          "clue": "The Bible says this Hebrew king asked the witch of Endor to raise up the spirit of Samuel",
+          "answer": "Saul",
+          "isDailyDouble": false,
+          "orderNumber": 28,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Bill",
+              "score": 1700
+            },
+            {
+              "player": "Phil",
+              "score": 8500
+            },
+            {
+              "player": "Michael",
+              "score": 5000
+            }
+          ]
+        },
+        {
+          "category": "THE SUPERNATURAL",
+          "value": 1000,
+          "clue": "From the Greek for \"distant experience\", it's also called thought transference or mind reading",
+          "answer": "mental telepathy",
+          "isDailyDouble": true,
+          "orderNumber": 29,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bill",
+              "score": 1700
+            },
+            {
+              "player": "Phil",
+              "score": 8500
+            },
+            {
+              "player": "Michael",
+              "score": 4000
+            }
+          ]
+        },
+        {
+          "category": "THE SUPERNATURAL",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bill",
+              "score": 1700
+            },
+            {
+              "player": "Phil",
+              "score": 8500
+            },
+            {
+              "player": "Michael",
+              "score": 4000
+            }
+          ]
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "Bill",
+          "score": 1700
+        },
+        {
+          "player": "Phil",
+          "score": 8500
+        },
+        {
+          "player": "Michael",
+          "score": 4000
+        }
+      ]
+    },
+    "finalJeopardy": {
+      "category": "WOMEN IN POLITICS",
+      "clue": "In 1974 she became the 1st woman head of state anywhere in the Americas",
+      "answer": "Isabel Peron (of Argentina)",
+      "responses": [
+        {
+          "contestant": "Bill",
+          "response": "Who is Isabell Peron?",
+          "isCorrect": true,
+          "isIncorrect": false,
+          "value": 1700,
+          "finalScore": 3400
+        },
+        {
+          "contestant": "Michael",
+          "response": "Who is Nancy Reagan?",
+          "isCorrect": false,
+          "isIncorrect": true,
+          "value": 599,
+          "finalScore": 3401
+        },
+        {
+          "contestant": "Phil",
+          "response": "Who is",
+          "isCorrect": false,
+          "isIncorrect": true,
+          "value": 250,
+          "finalScore": 8250
+        }
+      ]
+    }
+  },
+  "finalScores": [
+    {
+      "player": "Bill",
+      "score": "$3,400"
+    },
+    {
+      "player": "Phil",
+      "score": "$8,250"
+    },
+    {
+      "player": "Michael",
+      "score": "$3,401"
+    }
+  ],
+  "coryatScores": [
+    {
+      "player": "Bill",
+      "score": 1700
+    },
+    {
+      "player": "Phil",
+      "score": 9300
+    },
+    {
+      "player": "Michael",
+      "score": 5000
+    }
+  ]
+}

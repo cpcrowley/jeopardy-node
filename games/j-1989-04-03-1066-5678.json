@@ -1,0 +1,1689 @@
+{
+  "gameId": 5678,
+  "showNumber": "1066",
+  "title": "Show #1066 - Monday, April 3, 1989",
+  "date": "1989-04-03",
+  "comments": "Jim Tompkins-MacLaine game 3.",
+  "contestants": [
+    "Jim",
+    "Judy",
+    "Ken"
+  ],
+  "rounds": {
+    "jeopardy": {
+      "categories": [
+        "THE 17th CENTURY",
+        "HOUSEHOLD HINTS",
+        "ACTORS & ACTRESSES",
+        "TECHNOLOGY",
+        "THE GRAND CANYON",
+        "HYPNOTISM"
+      ],
+      "clues": [
+        {
+          "category": "ACTORS & ACTRESSES",
+          "value": 100,
+          "clue": "Late comedian Dick Shawn played John Ritter's father on this sitcom",
+          "answer": "Three's Company",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [
+            "Judy"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jim",
+              "score": 0
+            },
+            {
+              "player": "Judy",
+              "score": 100
+            },
+            {
+              "player": "Ken",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "ACTORS & ACTRESSES",
+          "value": 200,
+          "clue": "On Broadway he played the Artful Dodger in \"Oliver!\" before he started \"Monkee\"ing around",
+          "answer": "Davy Jones",
+          "isDailyDouble": false,
+          "orderNumber": 2,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Jim"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Jim",
+              "score": -200
+            },
+            {
+              "player": "Judy",
+              "score": 100
+            },
+            {
+              "player": "Ken",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "ACTORS & ACTRESSES",
+          "value": 300,
+          "clue": "Other actresses have been called sex goddesses, but this redheaded star of the '40s was \"The Love Goddess\"",
+          "answer": "Rita Hayworth",
+          "isDailyDouble": false,
+          "orderNumber": 3,
+          "correctContestants": [
+            "Ken"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jim",
+              "score": -200
+            },
+            {
+              "player": "Judy",
+              "score": 100
+            },
+            {
+              "player": "Ken",
+              "score": 300
+            }
+          ]
+        },
+        {
+          "category": "TECHNOLOGY",
+          "value": 100,
+          "clue": "The Europeans felt nature abhorred one, Otto von Guericke created a pretty good one in 1650",
+          "answer": "vacuum",
+          "isDailyDouble": false,
+          "orderNumber": 4,
+          "correctContestants": [
+            "Ken"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jim",
+              "score": -200
+            },
+            {
+              "player": "Judy",
+              "score": 100
+            },
+            {
+              "player": "Ken",
+              "score": 400
+            }
+          ]
+        },
+        {
+          "category": "TECHNOLOGY",
+          "value": 200,
+          "clue": "Meat packer Gustavus Swift hired an engineer to design this type of railroad car",
+          "answer": "refrigerator car",
+          "isDailyDouble": false,
+          "orderNumber": 5,
+          "correctContestants": [
+            "Jim"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jim",
+              "score": 0
+            },
+            {
+              "player": "Judy",
+              "score": 100
+            },
+            {
+              "player": "Ken",
+              "score": 400
+            }
+          ]
+        },
+        {
+          "category": "ACTORS & ACTRESSES",
+          "value": 400,
+          "clue": "This \"Golden Girl\" was nominated for the 1st \"Best Actress\" Emmy in 1950 but didn't win",
+          "answer": "Betty White",
+          "isDailyDouble": false,
+          "orderNumber": 6,
+          "correctContestants": [
+            "Jim"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jim",
+              "score": 400
+            },
+            {
+              "player": "Judy",
+              "score": 100
+            },
+            {
+              "player": "Ken",
+              "score": 400
+            }
+          ]
+        },
+        {
+          "category": "ACTORS & ACTRESSES",
+          "value": 500,
+          "clue": "A 1988 Oscar nominee for \"Anna\", she went to her 1st prom with Ted Koppel, who gave her her 1st kiss",
+          "answer": "Sally Kirkland",
+          "isDailyDouble": false,
+          "orderNumber": 7,
+          "correctContestants": [
+            "Jim"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jim",
+              "score": 900
+            },
+            {
+              "player": "Judy",
+              "score": 100
+            },
+            {
+              "player": "Ken",
+              "score": 400
+            }
+          ]
+        },
+        {
+          "category": "THE GRAND CANYON",
+          "value": 100,
+          "clue": "The Grand Canyon was carved out by this river",
+          "answer": "Colorado",
+          "isDailyDouble": false,
+          "orderNumber": 8,
+          "correctContestants": [
+            "Jim"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jim",
+              "score": 1000
+            },
+            {
+              "player": "Judy",
+              "score": 100
+            },
+            {
+              "player": "Ken",
+              "score": 400
+            }
+          ]
+        },
+        {
+          "category": "THE GRAND CANYON",
+          "value": 200,
+          "clue": "Grand Canyon National Park covers an area larger than this state",
+          "answer": "Rhode Island",
+          "isDailyDouble": false,
+          "orderNumber": 9,
+          "correctContestants": [
+            "Ken"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jim",
+              "score": 1000
+            },
+            {
+              "player": "Judy",
+              "score": 100
+            },
+            {
+              "player": "Ken",
+              "score": 600
+            }
+          ]
+        },
+        {
+          "category": "HYPNOTISM",
+          "value": 100,
+          "clue": "Hypnodontics is hypnosis utilized by these practitioners",
+          "answer": "dentists",
+          "isDailyDouble": false,
+          "orderNumber": 10,
+          "correctContestants": [
+            "Jim"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jim",
+              "score": 1100
+            },
+            {
+              "player": "Judy",
+              "score": 100
+            },
+            {
+              "player": "Ken",
+              "score": 600
+            }
+          ]
+        },
+        {
+          "category": "HOUSEHOLD HINTS",
+          "value": 100,
+          "clue": "Scattering spearmint on your shelves may help keep these picnic pests out of your kitchen",
+          "answer": "ants",
+          "isDailyDouble": false,
+          "orderNumber": 11,
+          "correctContestants": [
+            "Ken"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jim",
+              "score": 1100
+            },
+            {
+              "player": "Judy",
+              "score": 100
+            },
+            {
+              "player": "Ken",
+              "score": 700
+            }
+          ]
+        },
+        {
+          "category": "HYPNOTISM",
+          "value": 200,
+          "clue": "By 1895 he stopped using hypnosis for treating hysteria in favor of a new technique, free association",
+          "answer": "Sigmund Freud",
+          "isDailyDouble": false,
+          "orderNumber": 12,
+          "correctContestants": [
+            "Jim"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jim",
+              "score": 1300
+            },
+            {
+              "player": "Judy",
+              "score": 100
+            },
+            {
+              "player": "Ken",
+              "score": 700
+            }
+          ]
+        },
+        {
+          "category": "HOUSEHOLD HINTS",
+          "value": 200,
+          "clue": "To keep this from happening to brown sugar, put a small piece of bread in the box",
+          "answer": "getting hard",
+          "isDailyDouble": false,
+          "orderNumber": 13,
+          "correctContestants": [
+            "Jim"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jim",
+              "score": 1500
+            },
+            {
+              "player": "Judy",
+              "score": 100
+            },
+            {
+              "player": "Ken",
+              "score": 700
+            }
+          ]
+        },
+        {
+          "category": "THE 17th CENTURY",
+          "value": 100,
+          "clue": "This series of wars ran from 1618 to 1648, so the name makes good sense",
+          "answer": "Thirty Years' War",
+          "isDailyDouble": false,
+          "orderNumber": 14,
+          "correctContestants": [
+            "Ken"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jim",
+              "score": 1500
+            },
+            {
+              "player": "Judy",
+              "score": 100
+            },
+            {
+              "player": "Ken",
+              "score": 800
+            }
+          ]
+        },
+        {
+          "category": "THE 17th CENTURY",
+          "value": 800,
+          "clue": "Charles XII of Sweden is famous for having done this at his coronation a century before Napoleon did it",
+          "answer": "crowning himself",
+          "isDailyDouble": true,
+          "orderNumber": 15,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Ken"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jim",
+              "score": 1500
+            },
+            {
+              "player": "Judy",
+              "score": 100
+            },
+            {
+              "player": "Ken",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "THE 17th CENTURY",
+          "value": 200,
+          "clue": "The Durants said of this French king's reign, \"It was an age of strict manners and loose morals\"",
+          "answer": "Louis XIV",
+          "isDailyDouble": false,
+          "orderNumber": 16,
+          "correctContestants": [
+            "Ken"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jim",
+              "score": 1500
+            },
+            {
+              "player": "Judy",
+              "score": 100
+            },
+            {
+              "player": "Ken",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "THE 17th CENTURY",
+          "value": 400,
+          "clue": "In 1689 this czar overthrew his half sister Sophie & forced her to enter a convent",
+          "answer": "Peter the Great",
+          "isDailyDouble": false,
+          "orderNumber": 17,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Ken"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Jim",
+              "score": 1500
+            },
+            {
+              "player": "Judy",
+              "score": 100
+            },
+            {
+              "player": "Ken",
+              "score": -200
+            }
+          ]
+        },
+        {
+          "category": "THE 17th CENTURY",
+          "value": 500,
+          "clue": "Derisive name given Puritans who cut their hair short in reaction to the long-haired Cavaliers",
+          "answer": "Roundheads",
+          "isDailyDouble": false,
+          "orderNumber": 18,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Jim",
+              "score": 1500
+            },
+            {
+              "player": "Judy",
+              "score": 100
+            },
+            {
+              "player": "Ken",
+              "score": -200
+            }
+          ]
+        },
+        {
+          "category": "TECHNOLOGY",
+          "value": 300,
+          "clue": "In September 1988 this Mideast country launched its 1st satellite",
+          "answer": "Israel",
+          "isDailyDouble": false,
+          "orderNumber": 19,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Judy",
+            "Ken"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Jim",
+              "score": 1500
+            },
+            {
+              "player": "Judy",
+              "score": -200
+            },
+            {
+              "player": "Ken",
+              "score": -500
+            }
+          ]
+        },
+        {
+          "category": "TECHNOLOGY",
+          "value": 400,
+          "clue": "There's a $1.3 mil. prize for a computer prog. that can beat a master player of this Oriental board game",
+          "answer": "go",
+          "isDailyDouble": false,
+          "orderNumber": 20,
+          "correctContestants": [
+            "Ken"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jim",
+              "score": 1500
+            },
+            {
+              "player": "Judy",
+              "score": -200
+            },
+            {
+              "player": "Ken",
+              "score": -100
+            }
+          ]
+        },
+        {
+          "category": "TECHNOLOGY",
+          "value": 500,
+          "clue": "Lead in crystal glass not only makes it sturdier, it causes the glass to do this better",
+          "answer": "sparkle (reflect)",
+          "isDailyDouble": false,
+          "orderNumber": 21,
+          "correctContestants": [
+            "Jim"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jim",
+              "score": 2000
+            },
+            {
+              "player": "Judy",
+              "score": -200
+            },
+            {
+              "player": "Ken",
+              "score": -100
+            }
+          ]
+        },
+        {
+          "category": "THE GRAND CANYON",
+          "value": 300,
+          "clue": "An apartment at the El Tovar Hotel, or a composition by Ferde Grofe",
+          "answer": "\"Grand Canyon Suite\"",
+          "isDailyDouble": false,
+          "orderNumber": 22,
+          "correctContestants": [
+            "Ken"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jim",
+              "score": 2000
+            },
+            {
+              "player": "Judy",
+              "score": -200
+            },
+            {
+              "player": "Ken",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "HYPNOTISM",
+          "value": 300,
+          "clue": "Genesis 2:21-22 sounds a lot like God put Adam in a trance in order to do this",
+          "answer": "remove his rib",
+          "isDailyDouble": false,
+          "orderNumber": 23,
+          "correctContestants": [
+            "Judy"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jim",
+              "score": 2000
+            },
+            {
+              "player": "Judy",
+              "score": 100
+            },
+            {
+              "player": "Ken",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "HYPNOTISM",
+          "value": 400,
+          "clue": "A subject can be hypnotized by staring deeply into a rotating disk with this design on it",
+          "answer": "spiral",
+          "isDailyDouble": false,
+          "orderNumber": 24,
+          "correctContestants": [
+            "Judy"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jim",
+              "score": 2000
+            },
+            {
+              "player": "Judy",
+              "score": 500
+            },
+            {
+              "player": "Ken",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "HOUSEHOLD HINTS",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jim",
+              "score": 2000
+            },
+            {
+              "player": "Judy",
+              "score": 500
+            },
+            {
+              "player": "Ken",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "HOUSEHOLD HINTS",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jim",
+              "score": 2000
+            },
+            {
+              "player": "Judy",
+              "score": 500
+            },
+            {
+              "player": "Ken",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "THE GRAND CANYON",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jim",
+              "score": 2000
+            },
+            {
+              "player": "Judy",
+              "score": 500
+            },
+            {
+              "player": "Ken",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "HOUSEHOLD HINTS",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jim",
+              "score": 2000
+            },
+            {
+              "player": "Judy",
+              "score": 500
+            },
+            {
+              "player": "Ken",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "THE GRAND CANYON",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jim",
+              "score": 2000
+            },
+            {
+              "player": "Judy",
+              "score": 500
+            },
+            {
+              "player": "Ken",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "HYPNOTISM",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jim",
+              "score": 2000
+            },
+            {
+              "player": "Judy",
+              "score": 500
+            },
+            {
+              "player": "Ken",
+              "score": 200
+            }
+          ]
+        }
+      ],
+      "firstBreakScores": [
+        {
+          "player": "Jim",
+          "score": 1500
+        },
+        {
+          "player": "Judy",
+          "score": 100
+        },
+        {
+          "player": "Ken",
+          "score": 800
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "Jim",
+          "score": 2000
+        },
+        {
+          "player": "Judy",
+          "score": 500
+        },
+        {
+          "player": "Ken",
+          "score": 200
+        }
+      ]
+    },
+    "doubleJeopardy": {
+      "categories": [
+        "CONGRESS",
+        "CATS",
+        "ARTISTS",
+        "THE PLANETS",
+        "LITERATURE",
+        "\"EX\" MARKS THE SPOT"
+      ],
+      "clues": [
+        {
+          "category": "LITERATURE",
+          "value": 600,
+          "clue": "this poet's 1st book, \"the enormous room\", described his experiences in a french detention camp",
+          "answer": "e.e. cummings",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jim",
+              "score": 2000
+            },
+            {
+              "player": "Judy",
+              "score": 1100
+            },
+            {
+              "player": "Ken",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "LITERATURE",
+          "value": 200,
+          "clue": "After George B. Shaw stopped writing novels, he wrote his 1st one of these, \"Widowers' Houses\"",
+          "answer": "play",
+          "isDailyDouble": false,
+          "orderNumber": 2,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jim",
+              "score": 2200
+            },
+            {
+              "player": "Judy",
+              "score": 1100
+            },
+            {
+              "player": "Ken",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "LITERATURE",
+          "value": 400,
+          "clue": "In 1988 special baseball cards were printed to advertise the centennial edition of this poem",
+          "answer": "\"Casey at the Bat\"",
+          "isDailyDouble": false,
+          "orderNumber": 3,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jim",
+              "score": 2200
+            },
+            {
+              "player": "Judy",
+              "score": 1500
+            },
+            {
+              "player": "Ken",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "LITERATURE",
+          "value": 800,
+          "clue": "Journalist known for his account of the Russian Revolution, \"10 Days That Shook the World\"",
+          "answer": "John Reed",
+          "isDailyDouble": false,
+          "orderNumber": 4,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jim",
+              "score": 3000
+            },
+            {
+              "player": "Judy",
+              "score": 1500
+            },
+            {
+              "player": "Ken",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "LITERATURE",
+          "value": 1000,
+          "clue": "Marcel Proust published \"Swann's Way\", the 1st part of this lengthy novel, at his own expense",
+          "answer": "Remembrance of Things Past",
+          "isDailyDouble": false,
+          "orderNumber": 5,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jim",
+              "score": 3000
+            },
+            {
+              "player": "Judy",
+              "score": 1500
+            },
+            {
+              "player": "Ken",
+              "score": 1200
+            }
+          ]
+        },
+        {
+          "category": "THE PLANETS",
+          "value": 200,
+          "clue": "Rotoring in the opposite direction from Earth, it's called \"Earth's Twin\"",
+          "answer": "Venus",
+          "isDailyDouble": false,
+          "orderNumber": 6,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jim",
+              "score": 3200
+            },
+            {
+              "player": "Judy",
+              "score": 1500
+            },
+            {
+              "player": "Ken",
+              "score": 1200
+            }
+          ]
+        },
+        {
+          "category": "\"EX\" MARKS THE SPOT",
+          "value": 200,
+          "clue": "The U.S. Postal Service guarantees overnight delivery of letters sent this way",
+          "answer": "Express Mail",
+          "isDailyDouble": false,
+          "orderNumber": 7,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jim",
+              "score": 3200
+            },
+            {
+              "player": "Judy",
+              "score": 1500
+            },
+            {
+              "player": "Ken",
+              "score": 1400
+            }
+          ]
+        },
+        {
+          "category": "THE PLANETS",
+          "value": 400,
+          "clue": "Scientists use this letter to designate the planet that may be beyond Pluto in our solar system",
+          "answer": "Planet X",
+          "isDailyDouble": false,
+          "orderNumber": 8,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jim",
+              "score": 3200
+            },
+            {
+              "player": "Judy",
+              "score": 1900
+            },
+            {
+              "player": "Ken",
+              "score": 1400
+            }
+          ]
+        },
+        {
+          "category": "THE PLANETS",
+          "value": 600,
+          "clue": "The planet William Herschel discovered in 1781 & named Georgium Sidus after George III is now called this",
+          "answer": "Uranus",
+          "isDailyDouble": false,
+          "orderNumber": 9,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jim",
+              "score": 3200
+            },
+            {
+              "player": "Judy",
+              "score": 2500
+            },
+            {
+              "player": "Ken",
+              "score": 1400
+            }
+          ]
+        },
+        {
+          "category": "THE PLANETS",
+          "value": 800,
+          "clue": "A few weeks after this planet was found in the sky in 1846, its moon Triton was discovered",
+          "answer": "Neptune",
+          "isDailyDouble": false,
+          "orderNumber": 10,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jim",
+              "score": 3200
+            },
+            {
+              "player": "Judy",
+              "score": 3300
+            },
+            {
+              "player": "Ken",
+              "score": 1400
+            }
+          ]
+        },
+        {
+          "category": "THE PLANETS",
+          "value": 1000,
+          "clue": "In the time it takes Deimos to make one orbit around Mars, this, its other moon, has made almost 4",
+          "answer": "Phobos",
+          "isDailyDouble": false,
+          "orderNumber": 11,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jim",
+              "score": 3200
+            },
+            {
+              "player": "Judy",
+              "score": 4300
+            },
+            {
+              "player": "Ken",
+              "score": 1400
+            }
+          ]
+        },
+        {
+          "category": "CATS",
+          "value": 200,
+          "clue": "This cat, the most popular of the long-haired breeds, probably came from the Middle East",
+          "answer": "Persian",
+          "isDailyDouble": false,
+          "orderNumber": 12,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jim",
+              "score": 3400
+            },
+            {
+              "player": "Judy",
+              "score": 4300
+            },
+            {
+              "player": "Ken",
+              "score": 1400
+            }
+          ]
+        },
+        {
+          "category": "ARTISTS",
+          "value": 200,
+          "clue": "Spanish artist who designed the \"Monstrous Cubist\" costumes for the Cocteau/Satie ballet \"Parade\"",
+          "answer": "Pablo Picasso",
+          "isDailyDouble": false,
+          "orderNumber": 13,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Judy",
+            "Ken"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Jim",
+              "score": 3200
+            },
+            {
+              "player": "Judy",
+              "score": 4100
+            },
+            {
+              "player": "Ken",
+              "score": 1200
+            }
+          ]
+        },
+        {
+          "category": "\"EX\" MARKS THE SPOT",
+          "value": 600,
+          "clue": "A bet in which you pick the 1st & 2nd place horses at the track is called this",
+          "answer": "exacta",
+          "isDailyDouble": false,
+          "orderNumber": 14,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jim",
+              "score": 3200
+            },
+            {
+              "player": "Judy",
+              "score": 4700
+            },
+            {
+              "player": "Ken",
+              "score": 1200
+            }
+          ]
+        },
+        {
+          "category": "\"EX\" MARKS THE SPOT",
+          "value": 400,
+          "clue": "To expel an evil spirit by a religious ceremony, not by doing Jane Fonda's workout",
+          "answer": "exorcise",
+          "isDailyDouble": false,
+          "orderNumber": 15,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jim",
+              "score": 3600
+            },
+            {
+              "player": "Judy",
+              "score": 4700
+            },
+            {
+              "player": "Ken",
+              "score": 1200
+            }
+          ]
+        },
+        {
+          "category": "\"EX\" MARKS THE SPOT",
+          "value": 800,
+          "clue": "In Norman times it was the king's countinghouse; today it's the name applied to Britain's public funds",
+          "answer": "Exchequer",
+          "isDailyDouble": false,
+          "orderNumber": 16,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jim",
+              "score": 3600
+            },
+            {
+              "player": "Judy",
+              "score": 5500
+            },
+            {
+              "player": "Ken",
+              "score": 1200
+            }
+          ]
+        },
+        {
+          "category": "\"EX\" MARKS THE SPOT",
+          "value": 1000,
+          "clue": "From the Latin meaning \"higher\" or \"ever upward\", it's the state motto of New York",
+          "answer": "\"Excelsior\"",
+          "isDailyDouble": false,
+          "orderNumber": 17,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jim",
+              "score": 3600
+            },
+            {
+              "player": "Judy",
+              "score": 6500
+            },
+            {
+              "player": "Ken",
+              "score": 1200
+            }
+          ]
+        },
+        {
+          "category": "ARTISTS",
+          "value": 400,
+          "clue": "He's been called \"The Supreme Portrayer of Montmartre Night Life\"",
+          "answer": "Toulouse-Lautrec",
+          "isDailyDouble": false,
+          "orderNumber": 18,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jim",
+              "score": 3200
+            },
+            {
+              "player": "Judy",
+              "score": 6500
+            },
+            {
+              "player": "Ken",
+              "score": 1600
+            }
+          ]
+        },
+        {
+          "category": "ARTISTS",
+          "value": 600,
+          "clue": "Manet's first name was Edouard & Monet's was this",
+          "answer": "Claude",
+          "isDailyDouble": false,
+          "orderNumber": 19,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jim",
+              "score": 3800
+            },
+            {
+              "player": "Judy",
+              "score": 6500
+            },
+            {
+              "player": "Ken",
+              "score": 1600
+            }
+          ]
+        },
+        {
+          "category": "ARTISTS",
+          "value": 2000,
+          "clue": "Parisian who created the sculpture seen here to study body movement, not for exhibition:",
+          "answer": "Edgar Degas",
+          "isDailyDouble": true,
+          "orderNumber": 20,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jim",
+              "score": 5800
+            },
+            {
+              "player": "Judy",
+              "score": 6500
+            },
+            {
+              "player": "Ken",
+              "score": 1600
+            }
+          ]
+        },
+        {
+          "category": "ARTISTS",
+          "value": 1000,
+          "clue": "This Somerset Maugham novel is based on the life of Paul Gauguin",
+          "answer": "The Moon and Sixpence",
+          "isDailyDouble": false,
+          "orderNumber": 21,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jim",
+              "score": 5800
+            },
+            {
+              "player": "Judy",
+              "score": 6500
+            },
+            {
+              "player": "Ken",
+              "score": 2600
+            }
+          ]
+        },
+        {
+          "category": "CONGRESS",
+          "value": 200,
+          "clue": "This legislative body gives its advice & consent to treaties made by the president",
+          "answer": "the Senate",
+          "isDailyDouble": false,
+          "orderNumber": 22,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jim",
+              "score": 5800
+            },
+            {
+              "player": "Judy",
+              "score": 6700
+            },
+            {
+              "player": "Ken",
+              "score": 2600
+            }
+          ]
+        },
+        {
+          "category": "CONGRESS",
+          "value": 400,
+          "clue": "Though elected from a district just like all other congressmen, his salary is highest",
+          "answer": "speaker of the house",
+          "isDailyDouble": false,
+          "orderNumber": 23,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jim",
+              "score": 5800
+            },
+            {
+              "player": "Judy",
+              "score": 7100
+            },
+            {
+              "player": "Ken",
+              "score": 2600
+            }
+          ]
+        },
+        {
+          "category": "CATS",
+          "value": 400,
+          "clue": "The points of extremities of these cats are either blue, chocolate, lilac or seal",
+          "answer": "Siamese",
+          "isDailyDouble": false,
+          "orderNumber": 24,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jim",
+              "score": 6200
+            },
+            {
+              "player": "Judy",
+              "score": 7100
+            },
+            {
+              "player": "Ken",
+              "score": 2600
+            }
+          ]
+        },
+        {
+          "category": "CATS",
+          "value": 600,
+          "clue": "Because of its coloring most often white, yellow & black, it's also called a \"tortoiseshell - & white\"",
+          "answer": "calico",
+          "isDailyDouble": false,
+          "orderNumber": 25,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jim",
+              "score": 6200
+            },
+            {
+              "player": "Judy",
+              "score": 7700
+            },
+            {
+              "player": "Ken",
+              "score": 2600
+            }
+          ]
+        },
+        {
+          "category": "CATS",
+          "value": 800,
+          "clue": "This cat has been bred in Ethiopia for thousands of years",
+          "answer": "Abyssinian",
+          "isDailyDouble": false,
+          "orderNumber": 26,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jim",
+              "score": 6200
+            },
+            {
+              "player": "Judy",
+              "score": 8500
+            },
+            {
+              "player": "Ken",
+              "score": 2600
+            }
+          ]
+        },
+        {
+          "category": "CATS",
+          "value": 1000,
+          "clue": "Bred in New England, this large cat looks something like the nocturnal animal for which it's named",
+          "answer": "Maine coon",
+          "isDailyDouble": false,
+          "orderNumber": 27,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Jim",
+              "score": 5200
+            },
+            {
+              "player": "Judy",
+              "score": 8500
+            },
+            {
+              "player": "Ken",
+              "score": 2600
+            }
+          ]
+        },
+        {
+          "category": "CONGRESS",
+          "value": 500,
+          "clue": "2 of the 3 areas of qualification set by the Constitution for election to Congress",
+          "answer": "(2 of) age, residence & citizenship",
+          "isDailyDouble": true,
+          "orderNumber": 28,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jim",
+              "score": 5200
+            },
+            {
+              "player": "Judy",
+              "score": 9000
+            },
+            {
+              "player": "Ken",
+              "score": 2600
+            }
+          ]
+        },
+        {
+          "category": "CONGRESS",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jim",
+              "score": 5200
+            },
+            {
+              "player": "Judy",
+              "score": 9000
+            },
+            {
+              "player": "Ken",
+              "score": 2600
+            }
+          ]
+        },
+        {
+          "category": "CONGRESS",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jim",
+              "score": 5200
+            },
+            {
+              "player": "Judy",
+              "score": 9000
+            },
+            {
+              "player": "Ken",
+              "score": 2600
+            }
+          ]
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "Jim",
+          "score": 5200
+        },
+        {
+          "player": "Judy",
+          "score": 9000
+        },
+        {
+          "player": "Ken",
+          "score": 2600
+        }
+      ]
+    },
+    "finalJeopardy": {
+      "category": "WORLD AFFAIRS",
+      "clue": "In 1963 these 3 nations signed the Nuclear Test Ban Treaty",
+      "answer": "the U.S., U.S.S.R. & the U.K.",
+      "responses": [
+        {
+          "contestant": "Ken",
+          "response": "What are the U.S., USSR and UK?",
+          "isCorrect": true,
+          "isIncorrect": false,
+          "value": 2500,
+          "finalScore": 5100
+        },
+        {
+          "contestant": "Jim",
+          "response": "What are the U.S., U.S.S.R and the U.K.?",
+          "isCorrect": true,
+          "isIncorrect": false,
+          "value": 5000,
+          "finalScore": 10200
+        },
+        {
+          "contestant": "Judy",
+          "response": "What were the USSR, USA, and China?",
+          "isCorrect": false,
+          "isIncorrect": true,
+          "value": 1401,
+          "finalScore": 7599
+        }
+      ]
+    }
+  },
+  "finalScores": [
+    {
+      "player": "Jim",
+      "score": "$10,200"
+    },
+    {
+      "player": "Judy",
+      "score": "$7,599"
+    },
+    {
+      "player": "Ken",
+      "score": "$5,100"
+    }
+  ],
+  "coryatScores": [
+    {
+      "player": "Jim",
+      "score": 4000
+    },
+    {
+      "player": "Judy",
+      "score": 9100
+    },
+    {
+      "player": "Ken",
+      "score": 3400
+    }
+  ]
+}

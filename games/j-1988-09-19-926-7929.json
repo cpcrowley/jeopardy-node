@@ -1,0 +1,1705 @@
+{
+  "gameId": 7929,
+  "showNumber": "926",
+  "title": "Show #926 - Monday, September 19, 1988",
+  "date": "1988-09-19",
+  "comments": "",
+  "contestants": [
+    "Jack",
+    "Phil",
+    "Sara"
+  ],
+  "rounds": {
+    "jeopardy": {
+      "categories": [
+        "WORLD CAPITALS",
+        "FOOD",
+        "AMERICAN INDIANS",
+        "ACTORS & ROLES",
+        "SPORTS",
+        "WINE, WOMEN & SONG"
+      ],
+      "clues": [
+        {
+          "category": "WORLD CAPITALS",
+          "value": 100,
+          "clue": "Temppeliaukio Church, which was carved from solid rock, is in this Finnish capital",
+          "answer": "Helsinki",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [
+            "Sara"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jack",
+              "score": 0
+            },
+            {
+              "player": "Phil",
+              "score": 0
+            },
+            {
+              "player": "Sara",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "category": "WORLD CAPITALS",
+          "value": 200,
+          "clue": "The changing of the guard on Parliament Hill is one this Canadian city's main summer attractions",
+          "answer": "Ottawa",
+          "isDailyDouble": false,
+          "orderNumber": 2,
+          "correctContestants": [
+            "Phil"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jack",
+              "score": 0
+            },
+            {
+              "player": "Phil",
+              "score": 200
+            },
+            {
+              "player": "Sara",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "category": "WORLD CAPITALS",
+          "value": 300,
+          "clue": "This Arab capital is divided into Christian & Muslim halves",
+          "answer": "Beirut",
+          "isDailyDouble": false,
+          "orderNumber": 3,
+          "correctContestants": [
+            "Jack"
+          ],
+          "incorrectContestants": [
+            "Phil",
+            "Sara"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jack",
+              "score": 300
+            },
+            {
+              "player": "Phil",
+              "score": -100
+            },
+            {
+              "player": "Sara",
+              "score": -200
+            }
+          ]
+        },
+        {
+          "category": "WORLD CAPITALS",
+          "value": 400,
+          "clue": "It's the capital of Serbia as well as the capital of Yugoslavia",
+          "answer": "Belgrade",
+          "isDailyDouble": false,
+          "orderNumber": 4,
+          "correctContestants": [
+            "Jack"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jack",
+              "score": 700
+            },
+            {
+              "player": "Phil",
+              "score": -100
+            },
+            {
+              "player": "Sara",
+              "score": -200
+            }
+          ]
+        },
+        {
+          "category": "WORLD CAPITALS",
+          "value": 500,
+          "clue": "Being the southernmost of South Africa's 3 capitals makes it southernmost capital in Africa",
+          "answer": "Cape Town",
+          "isDailyDouble": false,
+          "orderNumber": 5,
+          "correctContestants": [
+            "Sara"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jack",
+              "score": 700
+            },
+            {
+              "player": "Phil",
+              "score": -100
+            },
+            {
+              "player": "Sara",
+              "score": 300
+            }
+          ]
+        },
+        {
+          "category": "FOOD",
+          "value": 100,
+          "clue": "Prickly pears are plucked from this type of plant",
+          "answer": "a cactus",
+          "isDailyDouble": false,
+          "orderNumber": 6,
+          "correctContestants": [
+            "Sara"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jack",
+              "score": 700
+            },
+            {
+              "player": "Phil",
+              "score": -100
+            },
+            {
+              "player": "Sara",
+              "score": 400
+            }
+          ]
+        },
+        {
+          "category": "FOOD",
+          "value": 200,
+          "clue": "Guinness says the longest pork one ever made stretched over 8 miles in \"link\"th",
+          "answer": "a sausage",
+          "isDailyDouble": false,
+          "orderNumber": 7,
+          "correctContestants": [
+            "Phil"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jack",
+              "score": 700
+            },
+            {
+              "player": "Phil",
+              "score": 100
+            },
+            {
+              "player": "Sara",
+              "score": 400
+            }
+          ]
+        },
+        {
+          "category": "SPORTS",
+          "value": 100,
+          "clue": "Sport which scores in increments of 1, 3, 6 & occasionally 2 points",
+          "answer": "football",
+          "isDailyDouble": false,
+          "orderNumber": 8,
+          "correctContestants": [
+            "Phil"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jack",
+              "score": 700
+            },
+            {
+              "player": "Phil",
+              "score": 200
+            },
+            {
+              "player": "Sara",
+              "score": 400
+            }
+          ]
+        },
+        {
+          "category": "SPORTS",
+          "value": 200,
+          "clue": "In baseball, if a fair ball pops out of the glove of an outfielder & over the fence, it's ruled this",
+          "answer": "a home run",
+          "isDailyDouble": false,
+          "orderNumber": 9,
+          "correctContestants": [
+            "Phil"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jack",
+              "score": 700
+            },
+            {
+              "player": "Phil",
+              "score": 400
+            },
+            {
+              "player": "Sara",
+              "score": 400
+            }
+          ]
+        },
+        {
+          "category": "SPORTS",
+          "value": 300,
+          "clue": "When judges' marks are announced for gymnastics events, these 2 scores are discarded",
+          "answer": "the highest & the lowest",
+          "isDailyDouble": false,
+          "orderNumber": 10,
+          "correctContestants": [
+            "Sara"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jack",
+              "score": 700
+            },
+            {
+              "player": "Phil",
+              "score": 400
+            },
+            {
+              "player": "Sara",
+              "score": 700
+            }
+          ]
+        },
+        {
+          "category": "FOOD",
+          "value": 300,
+          "clue": "Challah, a Jewish festival bread, gets its gold color from eggs or a pinch of this spice",
+          "answer": "saffron",
+          "isDailyDouble": false,
+          "orderNumber": 11,
+          "correctContestants": [
+            "Sara"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jack",
+              "score": 700
+            },
+            {
+              "player": "Phil",
+              "score": 400
+            },
+            {
+              "player": "Sara",
+              "score": 1000
+            }
+          ]
+        },
+        {
+          "category": "FOOD",
+          "value": 1000,
+          "clue": "The FDA forbids the use of the word \"caviar\" alone on a label unless it comes from this type of fish",
+          "answer": "sturgeon",
+          "isDailyDouble": true,
+          "orderNumber": 12,
+          "correctContestants": [
+            "Sara"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jack",
+              "score": 700
+            },
+            {
+              "player": "Phil",
+              "score": 400
+            },
+            {
+              "player": "Sara",
+              "score": 2000
+            }
+          ]
+        },
+        {
+          "category": "FOOD",
+          "value": 500,
+          "clue": "Mangoes are a common ingredient in this pungent Indian relish",
+          "answer": "chutney",
+          "isDailyDouble": false,
+          "orderNumber": 13,
+          "correctContestants": [
+            "Sara"
+          ],
+          "incorrectContestants": [
+            "Jack"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jack",
+              "score": 200
+            },
+            {
+              "player": "Phil",
+              "score": 400
+            },
+            {
+              "player": "Sara",
+              "score": 2500
+            }
+          ]
+        },
+        {
+          "category": "WINE, WOMEN & SONG",
+          "value": 100,
+          "clue": "Winemaking in the U.S. all but died with the start of this in 1920",
+          "answer": "Prohibition",
+          "isDailyDouble": false,
+          "orderNumber": 14,
+          "correctContestants": [
+            "Phil"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jack",
+              "score": 200
+            },
+            {
+              "player": "Phil",
+              "score": 500
+            },
+            {
+              "player": "Sara",
+              "score": 2500
+            }
+          ]
+        },
+        {
+          "category": "SPORTS",
+          "value": 400,
+          "clue": "Sport in which Australia might beat Pakistan by an innings & 21 runs",
+          "answer": "cricket",
+          "isDailyDouble": false,
+          "orderNumber": 15,
+          "correctContestants": [
+            "Phil"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jack",
+              "score": 200
+            },
+            {
+              "player": "Phil",
+              "score": 900
+            },
+            {
+              "player": "Sara",
+              "score": 2500
+            }
+          ]
+        },
+        {
+          "category": "SPORTS",
+          "value": 500,
+          "clue": "In this, you get 1 point for each stone in the house & closer to the tee than any stone of the opposing team",
+          "answer": "curling",
+          "isDailyDouble": false,
+          "orderNumber": 16,
+          "correctContestants": [
+            "Sara"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jack",
+              "score": 200
+            },
+            {
+              "player": "Phil",
+              "score": 900
+            },
+            {
+              "player": "Sara",
+              "score": 3000
+            }
+          ]
+        },
+        {
+          "category": "WINE, WOMEN & SONG",
+          "value": 200,
+          "clue": "She earned a Ph.D. from Cambridge writing about Shakespeare before writing \"The Female Eunuch\"",
+          "answer": "Germaine Greer",
+          "isDailyDouble": false,
+          "orderNumber": 17,
+          "correctContestants": [
+            "Jack"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jack",
+              "score": 400
+            },
+            {
+              "player": "Phil",
+              "score": 900
+            },
+            {
+              "player": "Sara",
+              "score": 3000
+            }
+          ]
+        },
+        {
+          "category": "AMERICAN INDIANS",
+          "value": 100,
+          "clue": "The Hopi 1st rode on these in the 16th century",
+          "answer": "horses",
+          "isDailyDouble": false,
+          "orderNumber": 18,
+          "correctContestants": [
+            "Jack"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jack",
+              "score": 500
+            },
+            {
+              "player": "Phil",
+              "score": 900
+            },
+            {
+              "player": "Sara",
+              "score": 3000
+            }
+          ]
+        },
+        {
+          "category": "AMERICAN INDIANS",
+          "value": 200,
+          "clue": "Famous Seneca orator Red Jacket got his name from the scarlet coat they gave him",
+          "answer": "the British",
+          "isDailyDouble": false,
+          "orderNumber": 19,
+          "correctContestants": [
+            "Jack"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jack",
+              "score": 700
+            },
+            {
+              "player": "Phil",
+              "score": 900
+            },
+            {
+              "player": "Sara",
+              "score": 3000
+            }
+          ]
+        },
+        {
+          "category": "AMERICAN INDIANS",
+          "value": 300,
+          "clue": "The Natchez were known for flattening this part of their bodies",
+          "answer": "their foreheads (heads)",
+          "isDailyDouble": false,
+          "orderNumber": 20,
+          "correctContestants": [
+            "Phil"
+          ],
+          "incorrectContestants": [
+            "Jack"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jack",
+              "score": 400
+            },
+            {
+              "player": "Phil",
+              "score": 1200
+            },
+            {
+              "player": "Sara",
+              "score": 3000
+            }
+          ]
+        },
+        {
+          "category": "AMERICAN INDIANS",
+          "value": 400,
+          "clue": "According to historian Clark Wissler, it was the only language Sequoya knew",
+          "answer": "Cherokee",
+          "isDailyDouble": false,
+          "orderNumber": 21,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Jack",
+              "score": 400
+            },
+            {
+              "player": "Phil",
+              "score": 1200
+            },
+            {
+              "player": "Sara",
+              "score": 3000
+            }
+          ]
+        },
+        {
+          "category": "AMERICAN INDIANS",
+          "value": 500,
+          "clue": "Until the Tuscarora joined, the Iroquois consisted of this many \"nations\"",
+          "answer": "5",
+          "isDailyDouble": false,
+          "orderNumber": 22,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Jack",
+            "Phil"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Jack",
+              "score": -100
+            },
+            {
+              "player": "Phil",
+              "score": 700
+            },
+            {
+              "player": "Sara",
+              "score": 3000
+            }
+          ]
+        },
+        {
+          "category": "ACTORS & ROLES",
+          "value": 100,
+          "clue": "In 1955 Walter Matthau played Nathan Detroit in a revival of this Broadway musical",
+          "answer": "Guys and Dolls",
+          "isDailyDouble": false,
+          "orderNumber": 23,
+          "correctContestants": [
+            "Phil"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jack",
+              "score": -100
+            },
+            {
+              "player": "Phil",
+              "score": 800
+            },
+            {
+              "player": "Sara",
+              "score": 3000
+            }
+          ]
+        },
+        {
+          "category": "ACTORS & ROLES",
+          "value": 400,
+          "clue": "She played Coach's daughter on \"Cheers\", but now she's \"Moonlighting\"",
+          "answer": "Allyce Beasley",
+          "isDailyDouble": false,
+          "orderNumber": 24,
+          "correctContestants": [
+            "Jack"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jack",
+              "score": 300
+            },
+            {
+              "player": "Phil",
+              "score": 800
+            },
+            {
+              "player": "Sara",
+              "score": 3000
+            }
+          ]
+        },
+        {
+          "category": "ACTORS & ROLES",
+          "value": 500,
+          "clue": "This pugilistic Pulitzer Prize winner played architect Stanford White in \"Ragtime\"",
+          "answer": "Norman Mailer",
+          "isDailyDouble": false,
+          "orderNumber": 25,
+          "correctContestants": [
+            "Sara"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jack",
+              "score": 300
+            },
+            {
+              "player": "Phil",
+              "score": 800
+            },
+            {
+              "player": "Sara",
+              "score": 3500
+            }
+          ]
+        },
+        {
+          "category": "WINE, WOMEN & SONG",
+          "value": 300,
+          "clue": "In song, they \"make me happy, make me feel fine\"",
+          "answer": "tiny bubbles",
+          "isDailyDouble": false,
+          "orderNumber": 26,
+          "correctContestants": [
+            "Jack"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jack",
+              "score": 600
+            },
+            {
+              "player": "Phil",
+              "score": 800
+            },
+            {
+              "player": "Sara",
+              "score": 3500
+            }
+          ]
+        },
+        {
+          "category": "ACTORS & ROLES",
+          "value": 300,
+          "clue": "TV Guide quoted this ex-\"Dallas\" star as saying, \"I'd die to do the life story of Miss Piggy!\"",
+          "answer": "Victoria Principal",
+          "isDailyDouble": false,
+          "orderNumber": 27,
+          "correctContestants": [
+            "Jack"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jack",
+              "score": 900
+            },
+            {
+              "player": "Phil",
+              "score": 800
+            },
+            {
+              "player": "Sara",
+              "score": 3500
+            }
+          ]
+        },
+        {
+          "category": "ACTORS & ROLES",
+          "value": 200,
+          "clue": "In '78 he made his directorial debut, directing himself as star of \"Paradise Alley\"",
+          "answer": "Sylvester Stallone",
+          "isDailyDouble": false,
+          "orderNumber": 28,
+          "correctContestants": [
+            "Jack"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jack",
+              "score": 1100
+            },
+            {
+              "player": "Phil",
+              "score": 800
+            },
+            {
+              "player": "Sara",
+              "score": 3500
+            }
+          ]
+        },
+        {
+          "category": "WINE, WOMEN & SONG",
+          "value": 400,
+          "clue": "She was \"Miss Burbank\" in 1948, several years before she began \"Singin' in the Rain\"",
+          "answer": "Debbie Reynolds",
+          "isDailyDouble": false,
+          "orderNumber": 29,
+          "correctContestants": [
+            "Jack"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jack",
+              "score": 1500
+            },
+            {
+              "player": "Phil",
+              "score": 800
+            },
+            {
+              "player": "Sara",
+              "score": 3500
+            }
+          ]
+        },
+        {
+          "category": "WINE, WOMEN & SONG",
+          "value": 500,
+          "clue": "This wine touted itself, \"on ice, that's nice\"",
+          "answer": "Riunite",
+          "isDailyDouble": false,
+          "orderNumber": 30,
+          "correctContestants": [
+            "Sara"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jack",
+              "score": 1500
+            },
+            {
+              "player": "Phil",
+              "score": 800
+            },
+            {
+              "player": "Sara",
+              "score": 4000
+            }
+          ]
+        }
+      ],
+      "firstBreakScores": [
+        {
+          "player": "Jack",
+          "score": 700
+        },
+        {
+          "player": "Phil",
+          "score": 400
+        },
+        {
+          "player": "Sara",
+          "score": 2000
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "Jack",
+          "score": 1500
+        },
+        {
+          "player": "Phil",
+          "score": 800
+        },
+        {
+          "player": "Sara",
+          "score": 4000
+        }
+      ]
+    },
+    "doubleJeopardy": {
+      "categories": [
+        "STARTS WITH \"MU\"",
+        "AIRPORTS",
+        "FICTIONAL CHARACTERS",
+        "POLITICAL NICKNAMES",
+        "SCIENCE",
+        "GILBERT & SULLIVAN"
+      ],
+      "clues": [
+        {
+          "category": "STARTS WITH \"MU\"",
+          "value": 400,
+          "clue": "A protective covering of organic substances placed around plants to  control weeds",
+          "answer": "mulch",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jack",
+              "score": 1900
+            },
+            {
+              "player": "Phil",
+              "score": 800
+            },
+            {
+              "player": "Sara",
+              "score": 4000
+            }
+          ]
+        },
+        {
+          "category": "AIRPORTS",
+          "value": 200,
+          "clue": "7 1/2 times larger than La Guardia, New York International is known by this name",
+          "answer": "JFK",
+          "isDailyDouble": false,
+          "orderNumber": 2,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jack",
+              "score": 1900
+            },
+            {
+              "player": "Phil",
+              "score": 800
+            },
+            {
+              "player": "Sara",
+              "score": 4200
+            }
+          ]
+        },
+        {
+          "category": "STARTS WITH \"MU\"",
+          "value": 600,
+          "clue": "Teddy Roosevelt labeled crusading writers like Upton Sinclair & Ida Tarbell as these",
+          "answer": "muckrakers",
+          "isDailyDouble": false,
+          "orderNumber": 3,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jack",
+              "score": 1900
+            },
+            {
+              "player": "Phil",
+              "score": 800
+            },
+            {
+              "player": "Sara",
+              "score": 4800
+            }
+          ]
+        },
+        {
+          "category": "STARTS WITH \"MU\"",
+          "value": 800,
+          "clue": "Type of \"Love\" that's the subject of the following:\"Nibblin' on bacon, chewin' on cheese / Sam says to Susie / Honey, would you please be my Mrs.? / Suzie she says yes, with her kisses...\"",
+          "answer": "\"Muskrat Love\"",
+          "isDailyDouble": true,
+          "orderNumber": 4,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jack",
+              "score": 1900
+            },
+            {
+              "player": "Phil",
+              "score": 800
+            },
+            {
+              "player": "Sara",
+              "score": 4000
+            }
+          ]
+        },
+        {
+          "category": "STARTS WITH \"MU\"",
+          "value": 1000,
+          "clue": "LePage's is a famous brand of this type of glue",
+          "answer": "mucilage",
+          "isDailyDouble": false,
+          "orderNumber": 5,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jack",
+              "score": 1900
+            },
+            {
+              "player": "Phil",
+              "score": 800
+            },
+            {
+              "player": "Sara",
+              "score": 5000
+            }
+          ]
+        },
+        {
+          "category": "STARTS WITH \"MU\"",
+          "value": 200,
+          "clue": "Name that follows Eddie, Audie & Dale",
+          "answer": "Murphy",
+          "isDailyDouble": false,
+          "orderNumber": 6,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jack",
+              "score": 2100
+            },
+            {
+              "player": "Phil",
+              "score": 800
+            },
+            {
+              "player": "Sara",
+              "score": 5000
+            }
+          ]
+        },
+        {
+          "category": "AIRPORTS",
+          "value": 400,
+          "clue": "Rome's airport is named for this 16th century aeronautical pioneer",
+          "answer": "da Vinci",
+          "isDailyDouble": false,
+          "orderNumber": 7,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jack",
+              "score": 2500
+            },
+            {
+              "player": "Phil",
+              "score": 800
+            },
+            {
+              "player": "Sara",
+              "score": 5000
+            }
+          ]
+        },
+        {
+          "category": "AIRPORTS",
+          "value": 600,
+          "clue": "Arriving in his famous plane, he dedicated Kansas City's new airport in 1927",
+          "answer": "Lindbergh",
+          "isDailyDouble": false,
+          "orderNumber": 8,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jack",
+              "score": 2500
+            },
+            {
+              "player": "Phil",
+              "score": 1400
+            },
+            {
+              "player": "Sara",
+              "score": 5000
+            }
+          ]
+        },
+        {
+          "category": "AIRPORTS",
+          "value": 800,
+          "clue": "Will Rogers World Airport helps link this city with the world",
+          "answer": "Oklahoma City",
+          "isDailyDouble": false,
+          "orderNumber": 9,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jack",
+              "score": 2500
+            },
+            {
+              "player": "Phil",
+              "score": 2200
+            },
+            {
+              "player": "Sara",
+              "score": 5000
+            }
+          ]
+        },
+        {
+          "category": "AIRPORTS",
+          "value": 1000,
+          "clue": "Located in Chantilly, Va., this airport covers an area more than half the size of Manhattan",
+          "answer": "Dulles",
+          "isDailyDouble": false,
+          "orderNumber": 10,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jack",
+              "score": 2500
+            },
+            {
+              "player": "Phil",
+              "score": 2200
+            },
+            {
+              "player": "Sara",
+              "score": 6000
+            }
+          ]
+        },
+        {
+          "category": "FICTIONAL CHARACTERS",
+          "value": 200,
+          "clue": "C. Auguste Dupin, the amateur detective in Poe's stories, lived at No. 33, Rue Dunot in this city",
+          "answer": "Paris",
+          "isDailyDouble": false,
+          "orderNumber": 11,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jack",
+              "score": 2500
+            },
+            {
+              "player": "Phil",
+              "score": 2400
+            },
+            {
+              "player": "Sara",
+              "score": 6000
+            }
+          ]
+        },
+        {
+          "category": "POLITICAL NICKNAMES",
+          "value": 200,
+          "clue": "He's been called \"the Peanut Politician\"",
+          "answer": "Jimmy Carter",
+          "isDailyDouble": false,
+          "orderNumber": 12,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jack",
+              "score": 2500
+            },
+            {
+              "player": "Phil",
+              "score": 2600
+            },
+            {
+              "player": "Sara",
+              "score": 6000
+            }
+          ]
+        },
+        {
+          "category": "POLITICAL NICKNAMES",
+          "value": 1000,
+          "clue": "In office from 1955 until his death in 1976, he was called \"the last of the big-city bosses\"",
+          "answer": "(Richard) Daley",
+          "isDailyDouble": true,
+          "orderNumber": 13,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jack",
+              "score": 2500
+            },
+            {
+              "player": "Phil",
+              "score": 3600
+            },
+            {
+              "player": "Sara",
+              "score": 6000
+            }
+          ]
+        },
+        {
+          "category": "POLITICAL NICKNAMES",
+          "value": 600,
+          "clue": "While Ohio's Robert Taft was \"Mr. Republican\", this Texan was \"Mr. Democrat\" & \"Mr. Sam\"",
+          "answer": "Sam Rayburn",
+          "isDailyDouble": false,
+          "orderNumber": 14,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jack",
+              "score": 2500
+            },
+            {
+              "player": "Phil",
+              "score": 3600
+            },
+            {
+              "player": "Sara",
+              "score": 6600
+            }
+          ]
+        },
+        {
+          "category": "FICTIONAL CHARACTERS",
+          "value": 400,
+          "clue": "In Melville's novella, this title character killed Claggart",
+          "answer": "Billy Budd",
+          "isDailyDouble": false,
+          "orderNumber": 15,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jack",
+              "score": 2900
+            },
+            {
+              "player": "Phil",
+              "score": 3600
+            },
+            {
+              "player": "Sara",
+              "score": 6600
+            }
+          ]
+        },
+        {
+          "category": "POLITICAL NICKNAMES",
+          "value": 800,
+          "clue": "After introducing the coinage of copper pennies, he became known as \"Alexander the Coppersmith\"",
+          "answer": "Alexander Hamilton",
+          "isDailyDouble": false,
+          "orderNumber": 16,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jack",
+              "score": 3700
+            },
+            {
+              "player": "Phil",
+              "score": 3600
+            },
+            {
+              "player": "Sara",
+              "score": 6600
+            }
+          ]
+        },
+        {
+          "category": "POLITICAL NICKNAMES",
+          "value": 1000,
+          "clue": "When this Hoosier ran against FDR, he was dubbed \"the barefoot boy from Wall Street\"",
+          "answer": "Wendell Willkie",
+          "isDailyDouble": false,
+          "orderNumber": 17,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jack",
+              "score": 4700
+            },
+            {
+              "player": "Phil",
+              "score": 3600
+            },
+            {
+              "player": "Sara",
+              "score": 6600
+            }
+          ]
+        },
+        {
+          "category": "FICTIONAL CHARACTERS",
+          "value": 600,
+          "clue": "Tragic Doctor who begged, \"Sweet Helen, make me immortal with a kiss\"",
+          "answer": "(Doctor) Faustus",
+          "isDailyDouble": false,
+          "orderNumber": 18,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jack",
+              "score": 5300
+            },
+            {
+              "player": "Phil",
+              "score": 3600
+            },
+            {
+              "player": "Sara",
+              "score": 6600
+            }
+          ]
+        },
+        {
+          "category": "FICTIONAL CHARACTERS",
+          "value": 800,
+          "clue": "Cal & Aron Trask are modern day equivalents of Cain & Abel in this American novel",
+          "answer": "East of Eden",
+          "isDailyDouble": false,
+          "orderNumber": 19,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Jack",
+              "score": 5300
+            },
+            {
+              "player": "Phil",
+              "score": 3600
+            },
+            {
+              "player": "Sara",
+              "score": 6600
+            }
+          ]
+        },
+        {
+          "category": "FICTIONAL CHARACTERS",
+          "value": 1000,
+          "clue": "In \"Le Morte d'Arthur\", this bastard son dealt King Arthur his death blow",
+          "answer": "Mordred",
+          "isDailyDouble": false,
+          "orderNumber": 20,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Jack",
+              "score": 4300
+            },
+            {
+              "player": "Phil",
+              "score": 3600
+            },
+            {
+              "player": "Sara",
+              "score": 6600
+            }
+          ]
+        },
+        {
+          "category": "SCIENCE",
+          "value": 200,
+          "clue": "Newly discovered by an Australian astronomer, comet Bradfield is the brightest comet since this one",
+          "answer": "Halley's",
+          "isDailyDouble": false,
+          "orderNumber": 21,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jack",
+              "score": 4300
+            },
+            {
+              "player": "Phil",
+              "score": 3800
+            },
+            {
+              "player": "Sara",
+              "score": 6600
+            }
+          ]
+        },
+        {
+          "category": "SCIENCE",
+          "value": 400,
+          "clue": "University of Iowa physicist who discovered 2 radiation belts encircling the Earth",
+          "answer": "(James) Van Allen",
+          "isDailyDouble": false,
+          "orderNumber": 22,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jack",
+              "score": 4300
+            },
+            {
+              "player": "Phil",
+              "score": 4200
+            },
+            {
+              "player": "Sara",
+              "score": 6600
+            }
+          ]
+        },
+        {
+          "category": "SCIENCE",
+          "value": 600,
+          "clue": "Organic chemistry has been defined as the chemistry of this element & its compounds",
+          "answer": "carbon",
+          "isDailyDouble": false,
+          "orderNumber": 23,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jack",
+              "score": 4300
+            },
+            {
+              "player": "Phil",
+              "score": 4800
+            },
+            {
+              "player": "Sara",
+              "score": 6600
+            }
+          ]
+        },
+        {
+          "category": "SCIENCE",
+          "value": 800,
+          "clue": "U.S. News said this \"Father of the H-bomb\" may come to be known as \"Father of Star Wars\" too",
+          "answer": "Edward Teller",
+          "isDailyDouble": false,
+          "orderNumber": 24,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Jack",
+              "score": 3500
+            },
+            {
+              "player": "Phil",
+              "score": 4800
+            },
+            {
+              "player": "Sara",
+              "score": 6600
+            }
+          ]
+        },
+        {
+          "category": "SCIENCE",
+          "value": 1000,
+          "clue": "Nathaniel Hayward sold Chas. Goodyear his process for treating rubber with this element",
+          "answer": "sulfur",
+          "isDailyDouble": false,
+          "orderNumber": 25,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Jack",
+              "score": 2500
+            },
+            {
+              "player": "Phil",
+              "score": 4800
+            },
+            {
+              "player": "Sara",
+              "score": 6600
+            }
+          ]
+        },
+        {
+          "category": "GILBERT & SULLIVAN",
+          "value": 800,
+          "clue": "To avoid \"pirated\" U.S. versions, Gilbert & Sullivan oversaw the opening of it in N.Y. on Dec. 31, 1879",
+          "answer": "The Pirates of Penzance",
+          "isDailyDouble": false,
+          "orderNumber": 26,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jack",
+              "score": 2500
+            },
+            {
+              "player": "Phil",
+              "score": 4800
+            },
+            {
+              "player": "Sara",
+              "score": 7400
+            }
+          ]
+        },
+        {
+          "category": "GILBERT & SULLIVAN",
+          "value": 1000,
+          "clue": "Operetta whose title reflects the work done by its Venetian heroes, Marco & Giuseppe",
+          "answer": "The Gondoliers",
+          "isDailyDouble": false,
+          "orderNumber": 27,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jack",
+              "score": 2500
+            },
+            {
+              "player": "Phil",
+              "score": 4800
+            },
+            {
+              "player": "Sara",
+              "score": 8400
+            }
+          ]
+        },
+        {
+          "category": "GILBERT & SULLIVAN",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jack",
+              "score": 2500
+            },
+            {
+              "player": "Phil",
+              "score": 4800
+            },
+            {
+              "player": "Sara",
+              "score": 8400
+            }
+          ]
+        },
+        {
+          "category": "GILBERT & SULLIVAN",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jack",
+              "score": 2500
+            },
+            {
+              "player": "Phil",
+              "score": 4800
+            },
+            {
+              "player": "Sara",
+              "score": 8400
+            }
+          ]
+        },
+        {
+          "category": "GILBERT & SULLIVAN",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jack",
+              "score": 2500
+            },
+            {
+              "player": "Phil",
+              "score": 4800
+            },
+            {
+              "player": "Sara",
+              "score": 8400
+            }
+          ]
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "Jack",
+          "score": 2500
+        },
+        {
+          "player": "Phil",
+          "score": 4800
+        },
+        {
+          "player": "Sara",
+          "score": 8400
+        }
+      ]
+    },
+    "finalJeopardy": {
+      "category": "MYTHOLOGY",
+      "clue": "2 of the 3 goddesses who were contestants in the famous beauty contest judged by Paris",
+      "answer": "(2 of) Aphrodite, Athena or Hera",
+      "responses": [
+        {
+          "contestant": "Jack",
+          "response": "Who were Aphrodite and Athena?",
+          "isCorrect": true,
+          "isIncorrect": false,
+          "value": 200,
+          "finalScore": 2700
+        },
+        {
+          "contestant": "Phil",
+          "response": "Who were Aphrodite & Diana",
+          "isCorrect": false,
+          "isIncorrect": true,
+          "value": 2500,
+          "finalScore": 2300
+        },
+        {
+          "contestant": "Sara",
+          "response": "Who are Aphrodite and Artem",
+          "isCorrect": false,
+          "isIncorrect": true,
+          "value": 1201,
+          "finalScore": 7199
+        }
+      ]
+    }
+  },
+  "finalScores": [
+    {
+      "player": "Jack",
+      "score": "$2,700"
+    },
+    {
+      "player": "Phil",
+      "score": "$2,300"
+    },
+    {
+      "player": "Sara",
+      "score": "$7,199"
+    }
+  ],
+  "coryatScores": [
+    {
+      "player": "Jack",
+      "score": 2500
+    },
+    {
+      "player": "Phil",
+      "score": 4200
+    },
+    {
+      "player": "Sara",
+      "score": 8600
+    }
+  ]
+}

@@ -1,0 +1,1699 @@
+{
+  "gameId": 453,
+  "showNumber": "4822",
+  "title": "Show #4822 - Tuesday, July 19, 2005",
+  "date": "2005-07-19",
+  "comments": "David Madden game 11.",
+  "contestants": [
+    "David",
+    "Richard",
+    "Margaret"
+  ],
+  "rounds": {
+    "jeopardy": {
+      "categories": [
+        "ON THE MAP",
+        "TV GUIDE SAYS",
+        "ALSO A BASEBALL TEAM",
+        "20th CENTURY NAMES",
+        "YOU DO THE MATH",
+        "\"F\" STOP"
+      ],
+      "clues": [
+        {
+          "category": "ON THE MAP",
+          "value": 800,
+          "clue": "2 of the 4 countries that border Thailand",
+          "answer": "(2 of) Myanmar, Cambodia, Laos, & Malaysia",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [
+            "David"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 800
+            },
+            {
+              "player": "Richard",
+              "score": 0
+            },
+            {
+              "player": "Margaret",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "ON THE MAP",
+          "value": 800,
+          "clue": "The International Date Line is an imaginary line running roughly along this meridian of longitude",
+          "answer": "180 degrees",
+          "isDailyDouble": true,
+          "orderNumber": 2,
+          "correctContestants": [
+            "David"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 1600
+            },
+            {
+              "player": "Richard",
+              "score": 0
+            },
+            {
+              "player": "Margaret",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "ON THE MAP",
+          "value": 600,
+          "clue": "1 of the 2 Central American countries that do not touch both the Atlantic & the Pacific",
+          "answer": "(1 of) Belize or El Salvador",
+          "isDailyDouble": false,
+          "orderNumber": 3,
+          "correctContestants": [
+            "Richard"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 1600
+            },
+            {
+              "player": "Richard",
+              "score": 600
+            },
+            {
+              "player": "Margaret",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "ON THE MAP",
+          "value": 400,
+          "clue": "This river flows 1,700 miles across Iraq & empties into the Persian Gulf just past the city of Basra",
+          "answer": "the Euphrates",
+          "isDailyDouble": false,
+          "orderNumber": 4,
+          "correctContestants": [
+            "Richard"
+          ],
+          "incorrectContestants": [
+            "David"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 1200
+            },
+            {
+              "player": "Richard",
+              "score": 1000
+            },
+            {
+              "player": "Margaret",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "ON THE MAP",
+          "value": 200,
+          "clue": "Lausanne, Switzerland isn't the last resort on this lake",
+          "answer": "Lake Geneva",
+          "isDailyDouble": false,
+          "orderNumber": 5,
+          "correctContestants": [
+            "Richard"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 1200
+            },
+            {
+              "player": "Richard",
+              "score": 1200
+            },
+            {
+              "player": "Margaret",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "TV GUIDE SAYS",
+          "value": 200,
+          "clue": "\"Jerry Forgets His Date's Name\"",
+          "answer": "Seinfeld",
+          "isDailyDouble": false,
+          "orderNumber": 6,
+          "correctContestants": [
+            "David"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 1400
+            },
+            {
+              "player": "Richard",
+              "score": 1200
+            },
+            {
+              "player": "Margaret",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "ALSO A BASEBALL TEAM",
+          "value": 1000,
+          "clue": "Icterus galbula songbirds",
+          "answer": "orioles",
+          "isDailyDouble": false,
+          "orderNumber": 7,
+          "correctContestants": [
+            "David"
+          ],
+          "incorrectContestants": [
+            "Margaret"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 2400
+            },
+            {
+              "player": "Richard",
+              "score": 1200
+            },
+            {
+              "player": "Margaret",
+              "score": -1000
+            }
+          ]
+        },
+        {
+          "category": "ALSO A BASEBALL TEAM",
+          "value": 800,
+          "clue": "Split zygotes",
+          "answer": "twins",
+          "isDailyDouble": false,
+          "orderNumber": 8,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 2400
+            },
+            {
+              "player": "Richard",
+              "score": 1200
+            },
+            {
+              "player": "Margaret",
+              "score": -1000
+            }
+          ]
+        },
+        {
+          "category": "ALSO A BASEBALL TEAM",
+          "value": 600,
+          "clue": "Numbers like 1, 2 & 7012",
+          "answer": "cardinals",
+          "isDailyDouble": false,
+          "orderNumber": 9,
+          "correctContestants": [
+            "Richard"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 2400
+            },
+            {
+              "player": "Richard",
+              "score": 1800
+            },
+            {
+              "player": "Margaret",
+              "score": -1000
+            }
+          ]
+        },
+        {
+          "category": "TV GUIDE SAYS",
+          "value": 400,
+          "clue": "\"Ryan's attempt to reunite Lindsay and Caleb backfires... Seth's comic doodlings open Summer's eyes\"",
+          "answer": "The O.C. ",
+          "isDailyDouble": false,
+          "orderNumber": 10,
+          "correctContestants": [
+            "Margaret"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 2400
+            },
+            {
+              "player": "Richard",
+              "score": 1800
+            },
+            {
+              "player": "Margaret",
+              "score": -600
+            }
+          ]
+        },
+        {
+          "category": "TV GUIDE SAYS",
+          "value": 600,
+          "clue": "\"The teams make their way through Budapest on the seventh leg... One team opts for the fast forward\"",
+          "answer": "The Amazing Race",
+          "isDailyDouble": false,
+          "orderNumber": 11,
+          "correctContestants": [
+            "Richard"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 2400
+            },
+            {
+              "player": "Richard",
+              "score": 2400
+            },
+            {
+              "player": "Margaret",
+              "score": -600
+            }
+          ]
+        },
+        {
+          "category": "TV GUIDE SAYS",
+          "value": 800,
+          "clue": "\"A former deathrow inmate gets a new lease on life with rhinoplasty\"",
+          "answer": "Extreme Makeover",
+          "isDailyDouble": false,
+          "orderNumber": 12,
+          "correctContestants": [
+            "Richard"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 2400
+            },
+            {
+              "player": "Richard",
+              "score": 3200
+            },
+            {
+              "player": "Margaret",
+              "score": -600
+            }
+          ]
+        },
+        {
+          "category": "TV GUIDE SAYS",
+          "value": 1000,
+          "clue": "\"The two teams run motels at the Jersey Shore\"",
+          "answer": "The Apprentice",
+          "isDailyDouble": false,
+          "orderNumber": 13,
+          "correctContestants": [
+            "Margaret"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 2400
+            },
+            {
+              "player": "Richard",
+              "score": 3200
+            },
+            {
+              "player": "Margaret",
+              "score": 400
+            }
+          ]
+        },
+        {
+          "category": "\"F\" STOP",
+          "value": 200,
+          "clue": "It can precede horn, twist & kiss",
+          "answer": "French",
+          "isDailyDouble": false,
+          "orderNumber": 14,
+          "correctContestants": [
+            "Richard"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 2400
+            },
+            {
+              "player": "Richard",
+              "score": 3400
+            },
+            {
+              "player": "Margaret",
+              "score": 400
+            }
+          ]
+        },
+        {
+          "category": "20th CENTURY NAMES",
+          "value": 200,
+          "clue": "His family was in exile, so this future king of Spain was born in Rome, on January 5, 1938",
+          "answer": "Juan Carlos",
+          "isDailyDouble": false,
+          "orderNumber": 15,
+          "correctContestants": [
+            "David"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 2600
+            },
+            {
+              "player": "Richard",
+              "score": 3400
+            },
+            {
+              "player": "Margaret",
+              "score": 400
+            }
+          ]
+        },
+        {
+          "category": "20th CENTURY NAMES",
+          "value": 1000,
+          "clue": "In the '50s this obstetrician literally wrote the book on \"Painless Childbirth\"",
+          "answer": "Lamaze",
+          "isDailyDouble": false,
+          "orderNumber": 16,
+          "correctContestants": [
+            "David"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 3600
+            },
+            {
+              "player": "Richard",
+              "score": 3400
+            },
+            {
+              "player": "Margaret",
+              "score": 400
+            }
+          ]
+        },
+        {
+          "category": "20th CENTURY NAMES",
+          "value": 800,
+          "clue": "This world leader was vacationing on the Black Sea coast when he was ousted from power in October 1964",
+          "answer": "Khrushchev",
+          "isDailyDouble": false,
+          "orderNumber": 17,
+          "correctContestants": [
+            "Richard"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 3600
+            },
+            {
+              "player": "Richard",
+              "score": 4200
+            },
+            {
+              "player": "Margaret",
+              "score": 400
+            }
+          ]
+        },
+        {
+          "category": "20th CENTURY NAMES",
+          "value": 600,
+          "clue": "In the first transcontinental phone call, on January 26, 1915, Alexander Graham Bell once again spoke to this man",
+          "answer": "Watson",
+          "isDailyDouble": false,
+          "orderNumber": 18,
+          "correctContestants": [
+            "Richard"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 3600
+            },
+            {
+              "player": "Richard",
+              "score": 4800
+            },
+            {
+              "player": "Margaret",
+              "score": 400
+            }
+          ]
+        },
+        {
+          "category": "20th CENTURY NAMES",
+          "value": 400,
+          "clue": "(Hi, I'm Anderson Cooper of CNN.)  I won an Emmy for my contribution to ABC's coverage of this famous woman's 1997 funeral",
+          "answer": "(Princess) Diana",
+          "isDailyDouble": false,
+          "orderNumber": 19,
+          "correctContestants": [
+            "Richard"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 3600
+            },
+            {
+              "player": "Richard",
+              "score": 5200
+            },
+            {
+              "player": "Margaret",
+              "score": 400
+            }
+          ]
+        },
+        {
+          "category": "\"F\" STOP",
+          "value": 400,
+          "clue": "Strengthen against an attack, or add vitamins & minerals to milk",
+          "answer": "fortify",
+          "isDailyDouble": false,
+          "orderNumber": 20,
+          "correctContestants": [
+            "Richard"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 3600
+            },
+            {
+              "player": "Richard",
+              "score": 5600
+            },
+            {
+              "player": "Margaret",
+              "score": 400
+            }
+          ]
+        },
+        {
+          "category": "\"F\" STOP",
+          "value": 600,
+          "clue": "William F. Buckley was its host from 1966 to 1999",
+          "answer": "Firing Line",
+          "isDailyDouble": false,
+          "orderNumber": 21,
+          "correctContestants": [
+            "Richard"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 3600
+            },
+            {
+              "player": "Richard",
+              "score": 6200
+            },
+            {
+              "player": "Margaret",
+              "score": 400
+            }
+          ]
+        },
+        {
+          "category": "\"F\" STOP",
+          "value": 800,
+          "clue": "To kill insects with gas released into a tented house",
+          "answer": "fumigate",
+          "isDailyDouble": false,
+          "orderNumber": 22,
+          "correctContestants": [
+            "David"
+          ],
+          "incorrectContestants": [
+            "Margaret"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 4400
+            },
+            {
+              "player": "Richard",
+              "score": 6200
+            },
+            {
+              "player": "Margaret",
+              "score": -400
+            }
+          ]
+        },
+        {
+          "category": "\"F\" STOP",
+          "value": 1000,
+          "clue": "Meat from the upper part of a side of pork, usually cured by salt",
+          "answer": "fatback",
+          "isDailyDouble": false,
+          "orderNumber": 23,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 4400
+            },
+            {
+              "player": "Richard",
+              "score": 6200
+            },
+            {
+              "player": "Margaret",
+              "score": -400
+            }
+          ]
+        },
+        {
+          "category": "YOU DO THE MATH",
+          "value": 200,
+          "clue": "Jim has 6 apples, Billy has 4, Michele has 2 & Debbie has 8 for an average of this many",
+          "answer": "5",
+          "isDailyDouble": false,
+          "orderNumber": 24,
+          "correctContestants": [
+            "Margaret"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 4400
+            },
+            {
+              "player": "Richard",
+              "score": 6200
+            },
+            {
+              "player": "Margaret",
+              "score": -200
+            }
+          ]
+        },
+        {
+          "category": "YOU DO THE MATH",
+          "value": 400,
+          "clue": "It's the sum of any integer & its negative",
+          "answer": "0",
+          "isDailyDouble": false,
+          "orderNumber": 25,
+          "correctContestants": [
+            "Richard"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 4400
+            },
+            {
+              "player": "Richard",
+              "score": 6600
+            },
+            {
+              "player": "Margaret",
+              "score": -200
+            }
+          ]
+        },
+        {
+          "category": "ALSO A BASEBALL TEAM",
+          "value": 400,
+          "clue": "Don Quixote thought the windmills were these",
+          "answer": "giants",
+          "isDailyDouble": false,
+          "orderNumber": 26,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 4400
+            },
+            {
+              "player": "Richard",
+              "score": 6600
+            },
+            {
+              "player": "Margaret",
+              "score": -200
+            }
+          ]
+        },
+        {
+          "category": "ALSO A BASEBALL TEAM",
+          "value": 200,
+          "clue": "Raphael, Michael, Gabriel & Uriel",
+          "answer": "angels",
+          "isDailyDouble": false,
+          "orderNumber": 27,
+          "correctContestants": [
+            "Margaret"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 4400
+            },
+            {
+              "player": "Richard",
+              "score": 6600
+            },
+            {
+              "player": "Margaret",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "YOU DO THE MATH",
+          "value": 600,
+          "clue": "It's 44 plus 7, minus 23, times 10 divided by 2",
+          "answer": "140",
+          "isDailyDouble": false,
+          "orderNumber": 28,
+          "correctContestants": [
+            "Margaret"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 4400
+            },
+            {
+              "player": "Richard",
+              "score": 6600
+            },
+            {
+              "player": "Margaret",
+              "score": 600
+            }
+          ]
+        },
+        {
+          "category": "YOU DO THE MATH",
+          "value": 1000,
+          "clue": "(Jimmy of the Clue Crew points to a math problem on a blackboard.)  The fraction here reduces to this8k42k",
+          "answer": "4k3",
+          "isDailyDouble": false,
+          "orderNumber": 29,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 4400
+            },
+            {
+              "player": "Richard",
+              "score": 6600
+            },
+            {
+              "player": "Margaret",
+              "score": 600
+            }
+          ]
+        },
+        {
+          "category": "YOU DO THE MATH",
+          "value": 800,
+          "clue": "If 5 chickens each lay an egg every Monday, Wednesday & Friday only, it'll take this many weeks to make a 30-egg omelet",
+          "answer": "2",
+          "isDailyDouble": false,
+          "orderNumber": 30,
+          "correctContestants": [
+            "Margaret"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 4400
+            },
+            {
+              "player": "Richard",
+              "score": 6600
+            },
+            {
+              "player": "Margaret",
+              "score": 1400
+            }
+          ]
+        }
+      ],
+      "firstBreakScores": [
+        {
+          "player": "David",
+          "score": 3600
+        },
+        {
+          "player": "Richard",
+          "score": 3400
+        },
+        {
+          "player": "Margaret",
+          "score": 400
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "David",
+          "score": 4400
+        },
+        {
+          "player": "Richard",
+          "score": 6600
+        },
+        {
+          "player": "Margaret",
+          "score": 1400
+        }
+      ]
+    },
+    "doubleJeopardy": {
+      "categories": [
+        "AUTHORS",
+        "MORGAN FREEMAN FILM ROLES",
+        "IN THE \"BRIG\"",
+        "APRIL",
+        "SHOWERS",
+        "THE MAYFLOWER"
+      ],
+      "clues": [
+        {
+          "category": "MORGAN FREEMAN FILM ROLES",
+          "value": 1200,
+          "clue": "God(2003)",
+          "answer": "Bruce Almighty",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 4400
+            },
+            {
+              "player": "Richard",
+              "score": 7800
+            },
+            {
+              "player": "Margaret",
+              "score": 1400
+            }
+          ]
+        },
+        {
+          "category": "AUTHORS",
+          "value": 1200,
+          "clue": "He based \"The Moon and Sixpence\" on the life of Gauguin, but his character was British",
+          "answer": "Somerset Maugham",
+          "isDailyDouble": false,
+          "orderNumber": 2,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 4400
+            },
+            {
+              "player": "Richard",
+              "score": 9000
+            },
+            {
+              "player": "Margaret",
+              "score": 1400
+            }
+          ]
+        },
+        {
+          "category": "AUTHORS",
+          "value": 2000,
+          "clue": "(Jeff Probst delivers the clue from Vanuatu.)  This author who served in the New Hebrides in World War II transformed the Vanuatan island of Umboi into his Bali Hai",
+          "answer": "James A. Michener",
+          "isDailyDouble": true,
+          "orderNumber": 3,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 4400
+            },
+            {
+              "player": "Richard",
+              "score": 11000
+            },
+            {
+              "player": "Margaret",
+              "score": 1400
+            }
+          ]
+        },
+        {
+          "category": "AUTHORS",
+          "value": 2000,
+          "clue": "This author's old third-floor room at 85 W. 3rd in Greenwich Village is haunted; residents hear \"tell-tale\" signs",
+          "answer": "(Edgar Allan) Poe",
+          "isDailyDouble": false,
+          "orderNumber": 4,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 4400
+            },
+            {
+              "player": "Richard",
+              "score": 13000
+            },
+            {
+              "player": "Margaret",
+              "score": 1400
+            }
+          ]
+        },
+        {
+          "category": "MORGAN FREEMAN FILM ROLES",
+          "value": 1600,
+          "clue": "Old West gunslinger Ned Logan(1992)",
+          "answer": "Unforgiven",
+          "isDailyDouble": false,
+          "orderNumber": 5,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 4400
+            },
+            {
+              "player": "Richard",
+              "score": 13000
+            },
+            {
+              "player": "Margaret",
+              "score": 3000
+            }
+          ]
+        },
+        {
+          "category": "MORGAN FREEMAN FILM ROLES",
+          "value": 2000,
+          "clue": "Baseball bat-wielding principal Joe Clark(1989)",
+          "answer": "Lean on Me",
+          "isDailyDouble": false,
+          "orderNumber": 6,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Margaret"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 4400
+            },
+            {
+              "player": "Richard",
+              "score": 11000
+            },
+            {
+              "player": "Margaret",
+              "score": 1000
+            }
+          ]
+        },
+        {
+          "category": "MORGAN FREEMAN FILM ROLES",
+          "value": 800,
+          "clue": "Ex-boxer Eddie, aka \"Scrap-Iron\"(2004)",
+          "answer": "Million Dollar Baby",
+          "isDailyDouble": false,
+          "orderNumber": 7,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 4400
+            },
+            {
+              "player": "Richard",
+              "score": 11000
+            },
+            {
+              "player": "Margaret",
+              "score": 1800
+            }
+          ]
+        },
+        {
+          "category": "MORGAN FREEMAN FILM ROLES",
+          "value": 400,
+          "clue": "Chauffeur Hoke Colburn(1989)",
+          "answer": "Driving Miss Daisy",
+          "isDailyDouble": false,
+          "orderNumber": 8,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 4400
+            },
+            {
+              "player": "Richard",
+              "score": 11400
+            },
+            {
+              "player": "Margaret",
+              "score": 1800
+            }
+          ]
+        },
+        {
+          "category": "APRIL",
+          "value": 1200,
+          "clue": "This seaway that enables ocean vessels to reach inland ports on the Great Lakes opened to shipping April 25, 1959",
+          "answer": "the St. Lawrence Seaway",
+          "isDailyDouble": false,
+          "orderNumber": 9,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 5600
+            },
+            {
+              "player": "Richard",
+              "score": 11400
+            },
+            {
+              "player": "Margaret",
+              "score": 1800
+            }
+          ]
+        },
+        {
+          "category": "APRIL",
+          "value": 1600,
+          "clue": "In a predawn raid on April 22, 2000, federal agents in Miami swooped in & seized this boy",
+          "answer": "(Elian) Gonzalez",
+          "isDailyDouble": false,
+          "orderNumber": 10,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 7200
+            },
+            {
+              "player": "Richard",
+              "score": 11400
+            },
+            {
+              "player": "Margaret",
+              "score": 1800
+            }
+          ]
+        },
+        {
+          "category": "THE MAYFLOWER",
+          "value": 1600,
+          "clue": "He served as the first military leader of the Mayflower's colonists",
+          "answer": "Miles Standish",
+          "isDailyDouble": false,
+          "orderNumber": 11,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 7200
+            },
+            {
+              "player": "Richard",
+              "score": 11400
+            },
+            {
+              "player": "Margaret",
+              "score": 1800
+            }
+          ]
+        },
+        {
+          "category": "THE MAYFLOWER",
+          "value": 4000,
+          "clue": "At a bicentennial celebration of the Mayflower's journey, this orator popularized the term \"Pilgrim\"",
+          "answer": "Daniel Webster",
+          "isDailyDouble": true,
+          "orderNumber": 12,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 11200
+            },
+            {
+              "player": "Richard",
+              "score": 11400
+            },
+            {
+              "player": "Margaret",
+              "score": 1800
+            }
+          ]
+        },
+        {
+          "category": "IN THE \"BRIG\"",
+          "value": 2000,
+          "clue": "2-masted sailing ship",
+          "answer": "a brigantine",
+          "isDailyDouble": false,
+          "orderNumber": 13,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 11200
+            },
+            {
+              "player": "Richard",
+              "score": 11400
+            },
+            {
+              "player": "Margaret",
+              "score": 1800
+            }
+          ]
+        },
+        {
+          "category": "IN THE \"BRIG\"",
+          "value": 1600,
+          "clue": "A bandit operating in isolated terrain",
+          "answer": "a brigand",
+          "isDailyDouble": false,
+          "orderNumber": 14,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 11200
+            },
+            {
+              "player": "Richard",
+              "score": 13000
+            },
+            {
+              "player": "Margaret",
+              "score": 1800
+            }
+          ]
+        },
+        {
+          "category": "APRIL",
+          "value": 2000,
+          "clue": "On April 3, 1964 he gave his famous \"Ballot or the Bullet\" speech in Cleveland, Ohio",
+          "answer": "Malcolm X",
+          "isDailyDouble": false,
+          "orderNumber": 15,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 11200
+            },
+            {
+              "player": "Richard",
+              "score": 13000
+            },
+            {
+              "player": "Margaret",
+              "score": 1800
+            }
+          ]
+        },
+        {
+          "category": "IN THE \"BRIG\"",
+          "value": 1200,
+          "clue": "This redneck movie reviewer is the alter-ego of John Bloom",
+          "answer": "Joe Bob Briggs",
+          "isDailyDouble": false,
+          "orderNumber": 16,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 11200
+            },
+            {
+              "player": "Richard",
+              "score": 13000
+            },
+            {
+              "player": "Margaret",
+              "score": 1800
+            }
+          ]
+        },
+        {
+          "category": "AUTHORS",
+          "value": 800,
+          "clue": "(Hi. I'm Peggy Noonan.)  In 2001 I hit the bestseller lists with \"When Character Was King: A Story of\" this 40th president",
+          "answer": "Ronald Reagan",
+          "isDailyDouble": false,
+          "orderNumber": 17,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 11200
+            },
+            {
+              "player": "Richard",
+              "score": 13000
+            },
+            {
+              "player": "Margaret",
+              "score": 2600
+            }
+          ]
+        },
+        {
+          "category": "SHOWERS",
+          "value": 2000,
+          "clue": "In the shower scene in \"Psycho\", it was curtains for this Janet Leigh character",
+          "answer": "Marion Crane",
+          "isDailyDouble": false,
+          "orderNumber": 18,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 13200
+            },
+            {
+              "player": "Richard",
+              "score": 13000
+            },
+            {
+              "player": "Margaret",
+              "score": 2600
+            }
+          ]
+        },
+        {
+          "category": "SHOWERS",
+          "value": 1600,
+          "clue": "This god disguised himself as a shower of gold when he seduced Danae & produced Perseus",
+          "answer": "Zeus",
+          "isDailyDouble": false,
+          "orderNumber": 19,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 14800
+            },
+            {
+              "player": "Richard",
+              "score": 13000
+            },
+            {
+              "player": "Margaret",
+              "score": 2600
+            }
+          ]
+        },
+        {
+          "category": "THE MAYFLOWER",
+          "value": 2000,
+          "clue": "His \"History of Plymouth Plantation\" is one of the main sources about the trip & the new colony",
+          "answer": "William Bradford",
+          "isDailyDouble": false,
+          "orderNumber": 20,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 14800
+            },
+            {
+              "player": "Richard",
+              "score": 13000
+            },
+            {
+              "player": "Margaret",
+              "score": 2600
+            }
+          ]
+        },
+        {
+          "category": "AUTHORS",
+          "value": 400,
+          "clue": "It's said that this \"Kim\" author's autograph was so prized in the 1890s that many of his personal checks were never cashed",
+          "answer": "Rudyard Kipling",
+          "isDailyDouble": false,
+          "orderNumber": 21,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 15200
+            },
+            {
+              "player": "Richard",
+              "score": 13000
+            },
+            {
+              "player": "Margaret",
+              "score": 2600
+            }
+          ]
+        },
+        {
+          "category": "SHOWERS",
+          "value": 1200,
+          "clue": "Johnson & Johnson has marketed a \"Body Cloths\" version of this product to keep you fresh between washes",
+          "answer": "Shower to Shower",
+          "isDailyDouble": false,
+          "orderNumber": 22,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 15200
+            },
+            {
+              "player": "Richard",
+              "score": 14200
+            },
+            {
+              "player": "Margaret",
+              "score": 2600
+            }
+          ]
+        },
+        {
+          "category": "APRIL",
+          "value": 800,
+          "clue": "This Green-friendly day is observed nationally in the U.S. on the last Friday in April",
+          "answer": "Arbor Day",
+          "isDailyDouble": false,
+          "orderNumber": 23,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 16000
+            },
+            {
+              "player": "Richard",
+              "score": 14200
+            },
+            {
+              "player": "Margaret",
+              "score": 2600
+            }
+          ]
+        },
+        {
+          "category": "APRIL",
+          "value": 400,
+          "clue": "On April 3, 1945, an all-black platoon called the Dusty Devastators saw action for the first time in this country",
+          "answer": "Germany",
+          "isDailyDouble": false,
+          "orderNumber": 24,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 16400
+            },
+            {
+              "player": "Richard",
+              "score": 14200
+            },
+            {
+              "player": "Margaret",
+              "score": 2600
+            }
+          ]
+        },
+        {
+          "category": "IN THE \"BRIG\"",
+          "value": 400,
+          "clue": "2 or more combat battalions",
+          "answer": "brigade",
+          "isDailyDouble": false,
+          "orderNumber": 25,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 16400
+            },
+            {
+              "player": "Richard",
+              "score": 14200
+            },
+            {
+              "player": "Margaret",
+              "score": 3000
+            }
+          ]
+        },
+        {
+          "category": "IN THE \"BRIG\"",
+          "value": 800,
+          "clue": "Provo, Utah is the home of this college's main campus",
+          "answer": "Brigham Young",
+          "isDailyDouble": false,
+          "orderNumber": 26,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 17200
+            },
+            {
+              "player": "Richard",
+              "score": 14200
+            },
+            {
+              "player": "Margaret",
+              "score": 3000
+            }
+          ]
+        },
+        {
+          "category": "SHOWERS",
+          "value": 400,
+          "clue": "In this activity, tossing the balls in a circle instead of a figure eight is known as a shower",
+          "answer": "juggling",
+          "isDailyDouble": false,
+          "orderNumber": 27,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 17600
+            },
+            {
+              "player": "Richard",
+              "score": 14200
+            },
+            {
+              "player": "Margaret",
+              "score": 3000
+            }
+          ]
+        },
+        {
+          "category": "THE MAYFLOWER",
+          "value": 400,
+          "clue": "After a 66-day journey, the Mayflower arrived in the New World in November of this year",
+          "answer": "1620",
+          "isDailyDouble": false,
+          "orderNumber": 28,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 17200
+            },
+            {
+              "player": "Richard",
+              "score": 14200
+            },
+            {
+              "player": "Margaret",
+              "score": 3000
+            }
+          ]
+        },
+        {
+          "category": "THE MAYFLOWER",
+          "value": 800,
+          "clue": "41 male passengers onboard the Mayflower signed it in November",
+          "answer": "the Mayflower Compact",
+          "isDailyDouble": false,
+          "orderNumber": 29,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 18000
+            },
+            {
+              "player": "Richard",
+              "score": 14200
+            },
+            {
+              "player": "Margaret",
+              "score": 3000
+            }
+          ]
+        },
+        {
+          "category": "SHOWERS",
+          "value": 800,
+          "clue": "At the beginning of the 1986 season of \"Dallas\", this character was seen taking a shower",
+          "answer": "Bobby Ewing",
+          "isDailyDouble": false,
+          "orderNumber": 30,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "David",
+              "score": 18000
+            },
+            {
+              "player": "Richard",
+              "score": 15000
+            },
+            {
+              "player": "Margaret",
+              "score": 3000
+            }
+          ]
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "David",
+          "score": 18000
+        },
+        {
+          "player": "Richard",
+          "score": 15000
+        },
+        {
+          "player": "Margaret",
+          "score": 3000
+        }
+      ]
+    },
+    "finalJeopardy": {
+      "category": "WORDS IN LITERATURE",
+      "clue": "In Webster's, it means either a soldier using a certain muzzle-loading weapon, or a boon companion",
+      "answer": "musketeer",
+      "responses": [
+        {
+          "contestant": "Margaret",
+          "response": "What is infantry?",
+          "isCorrect": false,
+          "isIncorrect": true,
+          "value": 1,
+          "finalScore": 2999
+        },
+        {
+          "contestant": "Richard",
+          "response": "What is a friend?",
+          "isCorrect": false,
+          "isIncorrect": true,
+          "value": 14999,
+          "finalScore": 1
+        },
+        {
+          "contestant": "David",
+          "response": "What is musketeer",
+          "isCorrect": true,
+          "isIncorrect": false,
+          "value": 12001,
+          "finalScore": 30001
+        }
+      ]
+    }
+  },
+  "finalScores": [
+    {
+      "player": "David",
+      "score": "$30,001"
+    },
+    {
+      "player": "Richard",
+      "score": "$1"
+    },
+    {
+      "player": "Margaret",
+      "score": "$2,999"
+    }
+  ],
+  "coryatScores": [
+    {
+      "player": "David",
+      "score": 15400
+    },
+    {
+      "player": "Richard",
+      "score": 14600
+    },
+    {
+      "player": "Margaret",
+      "score": 3000
+    }
+  ]
+}

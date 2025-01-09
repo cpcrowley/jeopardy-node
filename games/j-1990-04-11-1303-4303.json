@@ -1,0 +1,1706 @@
+{
+  "gameId": 4303,
+  "showNumber": "1303",
+  "title": "Show #1303 - Wednesday, April 11, 1990",
+  "date": "1990-04-11",
+  "comments": "",
+  "contestants": [
+    "Ed",
+    "Bill",
+    "Roy"
+  ],
+  "rounds": {
+    "jeopardy": {
+      "categories": [
+        "EUROPEAN HISTORY",
+        "SINGERS & THEIR ROLES",
+        "LEGAL LINGO",
+        "MEDICAL MATTERS",
+        "COMMON BONDS",
+        "MARK TWAIN"
+      ],
+      "clues": [
+        {
+          "category": "MARK TWAIN",
+          "value": 100,
+          "clue": "In \"Pudd'nhead Wilson\", Twain said a classic is \"a book which people praise & don't\" do this",
+          "answer": "read",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [
+            "Roy"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ed",
+              "score": 0
+            },
+            {
+              "player": "Bill",
+              "score": 0
+            },
+            {
+              "player": "Roy",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "category": "EUROPEAN HISTORY",
+          "value": 400,
+          "clue": "This republic immediately preceded Hitler's 3rd Reich",
+          "answer": "Weimar Republic",
+          "isDailyDouble": false,
+          "orderNumber": 2,
+          "correctContestants": [
+            "Roy"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ed",
+              "score": 0
+            },
+            {
+              "player": "Bill",
+              "score": 0
+            },
+            {
+              "player": "Roy",
+              "score": 500
+            }
+          ]
+        },
+        {
+          "category": "EUROPEAN HISTORY",
+          "value": 500,
+          "clue": "This French city's Palace of the Popes was the center of Christianity for most of the 14th century",
+          "answer": "Avignon",
+          "isDailyDouble": false,
+          "orderNumber": 3,
+          "correctContestants": [
+            "Bill"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ed",
+              "score": 0
+            },
+            {
+              "player": "Bill",
+              "score": 500
+            },
+            {
+              "player": "Roy",
+              "score": 500
+            }
+          ]
+        },
+        {
+          "category": "EUROPEAN HISTORY",
+          "value": 300,
+          "clue": "The ancient Romans called this land \"Hibernia\"",
+          "answer": "Ireland",
+          "isDailyDouble": false,
+          "orderNumber": 4,
+          "correctContestants": [
+            "Roy"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ed",
+              "score": 0
+            },
+            {
+              "player": "Bill",
+              "score": 500
+            },
+            {
+              "player": "Roy",
+              "score": 800
+            }
+          ]
+        },
+        {
+          "category": "SINGERS & THEIR ROLES",
+          "value": 400,
+          "clue": "He made 2 films, \"Come September\" & \"That Funny Feeling\", with his wife, Sandra Dee",
+          "answer": "Bobby Darin",
+          "isDailyDouble": false,
+          "orderNumber": 5,
+          "correctContestants": [
+            "Ed"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ed",
+              "score": 400
+            },
+            {
+              "player": "Bill",
+              "score": 500
+            },
+            {
+              "player": "Roy",
+              "score": 800
+            }
+          ]
+        },
+        {
+          "category": "MARK TWAIN",
+          "value": 200,
+          "clue": "In 1894 Twain took this title character \"Abroad\" & 2 years later he became a \"Detective\"",
+          "answer": "Tom Sawyer",
+          "isDailyDouble": false,
+          "orderNumber": 6,
+          "correctContestants": [
+            "Roy"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ed",
+              "score": 400
+            },
+            {
+              "player": "Bill",
+              "score": 500
+            },
+            {
+              "player": "Roy",
+              "score": 1000
+            }
+          ]
+        },
+        {
+          "category": "SINGERS & THEIR ROLES",
+          "value": 500,
+          "clue": "She acted & sang in \"Pete Kelly's Blues\" & provided the voices of the Siamese cats in \"Lady & the Tramp\"",
+          "answer": "Peggy Lee",
+          "isDailyDouble": false,
+          "orderNumber": 7,
+          "correctContestants": [
+            "Ed"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ed",
+              "score": 900
+            },
+            {
+              "player": "Bill",
+              "score": 500
+            },
+            {
+              "player": "Roy",
+              "score": 1000
+            }
+          ]
+        },
+        {
+          "category": "MARK TWAIN",
+          "value": 300,
+          "clue": "He worked as a riverboat pilot on the Mississippi until traffic was curtailed due to this",
+          "answer": "outbreak of the Civil War",
+          "isDailyDouble": false,
+          "orderNumber": 8,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Ed",
+            "Bill"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Ed",
+              "score": 600
+            },
+            {
+              "player": "Bill",
+              "score": 200
+            },
+            {
+              "player": "Roy",
+              "score": 1000
+            }
+          ]
+        },
+        {
+          "category": "COMMON BONDS",
+          "value": 100,
+          "clue": "T.E., Vicki, Welk",
+          "answer": "the name of Lawrence",
+          "isDailyDouble": false,
+          "orderNumber": 9,
+          "correctContestants": [
+            "Roy"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ed",
+              "score": 600
+            },
+            {
+              "player": "Bill",
+              "score": 200
+            },
+            {
+              "player": "Roy",
+              "score": 1100
+            }
+          ]
+        },
+        {
+          "category": "LEGAL LINGO",
+          "value": 400,
+          "clue": "In this type of law school \"court\", 2 teams of students take opposing sides of an imaginary case",
+          "answer": "moot court",
+          "isDailyDouble": false,
+          "orderNumber": 10,
+          "correctContestants": [
+            "Ed"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ed",
+              "score": 1000
+            },
+            {
+              "player": "Bill",
+              "score": 200
+            },
+            {
+              "player": "Roy",
+              "score": 1100
+            }
+          ]
+        },
+        {
+          "category": "MEDICAL MATTERS",
+          "value": 100,
+          "clue": "You have hypertension when this is abnormally high",
+          "answer": "blood pressure",
+          "isDailyDouble": false,
+          "orderNumber": 11,
+          "correctContestants": [
+            "Roy"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ed",
+              "score": 1000
+            },
+            {
+              "player": "Bill",
+              "score": 200
+            },
+            {
+              "player": "Roy",
+              "score": 1200
+            }
+          ]
+        },
+        {
+          "category": "LEGAL LINGO",
+          "value": 500,
+          "clue": "Middle English for \"to shut out\", it means to bar one's right to redeem mortgaged property",
+          "answer": "foreclose",
+          "isDailyDouble": false,
+          "orderNumber": 12,
+          "correctContestants": [
+            "Ed"
+          ],
+          "incorrectContestants": [
+            "Roy"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ed",
+              "score": 1500
+            },
+            {
+              "player": "Bill",
+              "score": 200
+            },
+            {
+              "player": "Roy",
+              "score": 700
+            }
+          ]
+        },
+        {
+          "category": "LEGAL LINGO",
+          "value": 100,
+          "clue": "Larceny is usually divided into these 2 classes depending on the value of the stolen property",
+          "answer": "petty & grand",
+          "isDailyDouble": false,
+          "orderNumber": 13,
+          "correctContestants": [
+            "Bill"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ed",
+              "score": 1500
+            },
+            {
+              "player": "Bill",
+              "score": 300
+            },
+            {
+              "player": "Roy",
+              "score": 700
+            }
+          ]
+        },
+        {
+          "category": "LEGAL LINGO",
+          "value": 300,
+          "clue": "Paying an attorney to insure that his services will be available puts him \"on\" this",
+          "answer": "retainer",
+          "isDailyDouble": false,
+          "orderNumber": 14,
+          "correctContestants": [
+            "Bill"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ed",
+              "score": 1500
+            },
+            {
+              "player": "Bill",
+              "score": 600
+            },
+            {
+              "player": "Roy",
+              "score": 700
+            }
+          ]
+        },
+        {
+          "category": "MEDICAL MATTERS",
+          "value": 400,
+          "clue": "This sugar is the body's chief source of energy for cell metabolism",
+          "answer": "glucose",
+          "isDailyDouble": false,
+          "orderNumber": 15,
+          "correctContestants": [
+            "Ed"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ed",
+              "score": 1900
+            },
+            {
+              "player": "Bill",
+              "score": 600
+            },
+            {
+              "player": "Roy",
+              "score": 700
+            }
+          ]
+        },
+        {
+          "category": "MEDICAL MATTERS",
+          "value": 200,
+          "clue": "It's what the \"P\" stands for in G.P.",
+          "answer": "practitioner",
+          "isDailyDouble": false,
+          "orderNumber": 16,
+          "correctContestants": [
+            "Roy"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ed",
+              "score": 1900
+            },
+            {
+              "player": "Bill",
+              "score": 600
+            },
+            {
+              "player": "Roy",
+              "score": 900
+            }
+          ]
+        },
+        {
+          "category": "MEDICAL MATTERS",
+          "value": 900,
+          "clue": "This most common suffix in medicine means \"inflammation of \"",
+          "answer": "-itis",
+          "isDailyDouble": true,
+          "orderNumber": 17,
+          "correctContestants": [
+            "Roy"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ed",
+              "score": 1900
+            },
+            {
+              "player": "Bill",
+              "score": 600
+            },
+            {
+              "player": "Roy",
+              "score": 1800
+            }
+          ]
+        },
+        {
+          "category": "COMMON BONDS",
+          "value": 400,
+          "clue": "A piano, a kite, a marionette",
+          "answer": "all stringed",
+          "isDailyDouble": false,
+          "orderNumber": 18,
+          "correctContestants": [
+            "Bill"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ed",
+              "score": 1900
+            },
+            {
+              "player": "Bill",
+              "score": 1000
+            },
+            {
+              "player": "Roy",
+              "score": 1800
+            }
+          ]
+        },
+        {
+          "category": "COMMON BONDS",
+          "value": 500,
+          "clue": "Bilge water, gasoline, iron",
+          "answer": "things you pump",
+          "isDailyDouble": false,
+          "orderNumber": 19,
+          "correctContestants": [
+            "Ed"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ed",
+              "score": 2400
+            },
+            {
+              "player": "Bill",
+              "score": 1000
+            },
+            {
+              "player": "Roy",
+              "score": 1800
+            }
+          ]
+        },
+        {
+          "category": "COMMON BONDS",
+          "value": 200,
+          "clue": "The Rainbow Coalition, Operation Breadbasket, PUSH",
+          "answer": "Jesse Jackson's projects",
+          "isDailyDouble": false,
+          "orderNumber": 20,
+          "correctContestants": [
+            "Bill"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ed",
+              "score": 2400
+            },
+            {
+              "player": "Bill",
+              "score": 1200
+            },
+            {
+              "player": "Roy",
+              "score": 1800
+            }
+          ]
+        },
+        {
+          "category": "MARK TWAIN",
+          "value": 400,
+          "clue": "Samuel Clemens 1st used the name Mark Twain in 1863 while writing for this Nevada town's newspaper",
+          "answer": "Virginia City",
+          "isDailyDouble": false,
+          "orderNumber": 21,
+          "correctContestants": [
+            "Ed"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ed",
+              "score": 2800
+            },
+            {
+              "player": "Bill",
+              "score": 1200
+            },
+            {
+              "player": "Roy",
+              "score": 1800
+            }
+          ]
+        },
+        {
+          "category": "MARK TWAIN",
+          "value": 500,
+          "clue": "When 1st published, this book of Twain's travels to Europe was sold mainly by door-to-door salesman",
+          "answer": "The Innocents Abroad",
+          "isDailyDouble": false,
+          "orderNumber": 22,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Bill",
+            "Roy"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Ed",
+              "score": 2800
+            },
+            {
+              "player": "Bill",
+              "score": 700
+            },
+            {
+              "player": "Roy",
+              "score": 1300
+            }
+          ]
+        },
+        {
+          "category": "COMMON BONDS",
+          "value": 300,
+          "clue": "Gravure, silkscreen, offset",
+          "answer": "styles of printing",
+          "isDailyDouble": false,
+          "orderNumber": 23,
+          "correctContestants": [
+            "Roy"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ed",
+              "score": 2800
+            },
+            {
+              "player": "Bill",
+              "score": 700
+            },
+            {
+              "player": "Roy",
+              "score": 1600
+            }
+          ]
+        },
+        {
+          "category": "SINGERS & THEIR ROLES",
+          "value": 300,
+          "clue": "She was the Acid Queen in \"Tommy\" & Auntie Entity in \"Mad Max Beyond Thunderdome\"",
+          "answer": "Tina Turner",
+          "isDailyDouble": false,
+          "orderNumber": 24,
+          "correctContestants": [
+            "Roy"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ed",
+              "score": 2800
+            },
+            {
+              "player": "Bill",
+              "score": 700
+            },
+            {
+              "player": "Roy",
+              "score": 1900
+            }
+          ]
+        },
+        {
+          "category": "MEDICAL MATTERS",
+          "value": 300,
+          "clue": "Before becoming a resident, most medical college graduates spend a year in this capacity",
+          "answer": "intern",
+          "isDailyDouble": false,
+          "orderNumber": 25,
+          "correctContestants": [
+            "Roy"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ed",
+              "score": 2800
+            },
+            {
+              "player": "Bill",
+              "score": 700
+            },
+            {
+              "player": "Roy",
+              "score": 2200
+            }
+          ]
+        },
+        {
+          "category": "EUROPEAN HISTORY",
+          "value": 200,
+          "clue": "Their marriage in 1469 began the unification of nearly all of present-day Spain",
+          "answer": "Ferdinand & Isabella",
+          "isDailyDouble": false,
+          "orderNumber": 26,
+          "correctContestants": [
+            "Bill"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ed",
+              "score": 2800
+            },
+            {
+              "player": "Bill",
+              "score": 900
+            },
+            {
+              "player": "Roy",
+              "score": 2200
+            }
+          ]
+        },
+        {
+          "category": "EUROPEAN HISTORY",
+          "value": 100,
+          "clue": "Of the Greek city-states, it was the 1st to raise a standing army",
+          "answer": "Sparta",
+          "isDailyDouble": false,
+          "orderNumber": 27,
+          "correctContestants": [
+            "Bill"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ed",
+              "score": 2800
+            },
+            {
+              "player": "Bill",
+              "score": 1000
+            },
+            {
+              "player": "Roy",
+              "score": 2200
+            }
+          ]
+        },
+        {
+          "category": "LEGAL LINGO",
+          "value": 200,
+          "clue": "\"At the time in question I was on a retreat in the Himalayas\" is an example of one",
+          "answer": "alibi",
+          "isDailyDouble": false,
+          "orderNumber": 28,
+          "correctContestants": [
+            "Ed"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ed",
+              "score": 3000
+            },
+            {
+              "player": "Bill",
+              "score": 1000
+            },
+            {
+              "player": "Roy",
+              "score": 2200
+            }
+          ]
+        },
+        {
+          "category": "SINGERS & THEIR ROLES",
+          "value": 200,
+          "clue": "On stage, he was Ziggy Stardust, the king of space rock, & on film, an alien in \"The Man Who Fell to Earth\"",
+          "answer": "David Bowie",
+          "isDailyDouble": false,
+          "orderNumber": 29,
+          "correctContestants": [
+            "Roy"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ed",
+              "score": 3000
+            },
+            {
+              "player": "Bill",
+              "score": 1000
+            },
+            {
+              "player": "Roy",
+              "score": 2400
+            }
+          ]
+        },
+        {
+          "category": "SINGERS & THEIR ROLES",
+          "value": 100,
+          "clue": "She played Betsy Booth to Mickey Rooney's \"Andy Hardy\"",
+          "answer": "Judy Garland",
+          "isDailyDouble": false,
+          "orderNumber": 30,
+          "correctContestants": [
+            "Roy"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ed",
+              "score": 3000
+            },
+            {
+              "player": "Bill",
+              "score": 1000
+            },
+            {
+              "player": "Roy",
+              "score": 2500
+            }
+          ]
+        }
+      ],
+      "firstBreakScores": [
+        {
+          "player": "Ed",
+          "score": 1500
+        },
+        {
+          "player": "Bill",
+          "score": 600
+        },
+        {
+          "player": "Roy",
+          "score": 700
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "Ed",
+          "score": 3000
+        },
+        {
+          "player": "Bill",
+          "score": 1000
+        },
+        {
+          "player": "Roy",
+          "score": 2500
+        }
+      ]
+    },
+    "doubleJeopardy": {
+      "categories": [
+        "FOREIGN WORDS & PHRASES",
+        "DRAMA",
+        "COUNTRIES OF THE WORLD",
+        "REFERENCE BOOKS",
+        "PEOPLE",
+        "WHALES"
+      ],
+      "clues": [
+        {
+          "category": "FOREIGN WORDS & PHRASES",
+          "value": 200,
+          "clue": "Phrase used to describe an 18th century German literary movement, it means \"storm & stress\"",
+          "answer": "Sturm und Drang",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ed",
+              "score": 3000
+            },
+            {
+              "player": "Bill",
+              "score": 1000
+            },
+            {
+              "player": "Roy",
+              "score": 2700
+            }
+          ]
+        },
+        {
+          "category": "FOREIGN WORDS & PHRASES",
+          "value": 400,
+          "clue": "Spanish for \"little war\", it describes limited attacks behind enemy lines",
+          "answer": "guerrilla",
+          "isDailyDouble": false,
+          "orderNumber": 2,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ed",
+              "score": 3400
+            },
+            {
+              "player": "Bill",
+              "score": 1000
+            },
+            {
+              "player": "Roy",
+              "score": 2700
+            }
+          ]
+        },
+        {
+          "category": "DRAMA",
+          "value": 200,
+          "clue": "Eugene O'Neill wrote about a \"Long Day's Journey into\" this",
+          "answer": "Night",
+          "isDailyDouble": false,
+          "orderNumber": 3,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ed",
+              "score": 3400
+            },
+            {
+              "player": "Bill",
+              "score": 1000
+            },
+            {
+              "player": "Roy",
+              "score": 2900
+            }
+          ]
+        },
+        {
+          "category": "FOREIGN WORDS & PHRASES",
+          "value": 600,
+          "clue": "French for \"to know what to do\"; you've got it if you're sophisticated & self-confident",
+          "answer": "savoir-faire",
+          "isDailyDouble": false,
+          "orderNumber": 4,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ed",
+              "score": 3400
+            },
+            {
+              "player": "Bill",
+              "score": 1000
+            },
+            {
+              "player": "Roy",
+              "score": 3500
+            }
+          ]
+        },
+        {
+          "category": "FOREIGN WORDS & PHRASES",
+          "value": 800,
+          "clue": "Chinese phrase meaning \"work together\", it's come to mean unswervingly loyal or enthusiastic",
+          "answer": "gung-ho",
+          "isDailyDouble": false,
+          "orderNumber": 5,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ed",
+              "score": 3400
+            },
+            {
+              "player": "Bill",
+              "score": 1000
+            },
+            {
+              "player": "Roy",
+              "score": 4300
+            }
+          ]
+        },
+        {
+          "category": "FOREIGN WORDS & PHRASES",
+          "value": 1000,
+          "clue": "From the Persian word for \"give\", it's a gift of money used as a tip or bribe in the Mideast",
+          "answer": "baksheesh",
+          "isDailyDouble": false,
+          "orderNumber": 6,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ed",
+              "score": 4400
+            },
+            {
+              "player": "Bill",
+              "score": 1000
+            },
+            {
+              "player": "Roy",
+              "score": 4300
+            }
+          ]
+        },
+        {
+          "category": "WHALES",
+          "value": 200,
+          "clue": "Experts can identify species of whales by the height & share of water vapor exhaled through this",
+          "answer": "blowhole",
+          "isDailyDouble": false,
+          "orderNumber": 7,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ed",
+              "score": 4600
+            },
+            {
+              "player": "Bill",
+              "score": 1000
+            },
+            {
+              "player": "Roy",
+              "score": 4300
+            }
+          ]
+        },
+        {
+          "category": "PEOPLE",
+          "value": 200,
+          "clue": "The cast of \"L.A. Law\" refers to these married co-stars as \"The Tuckerberries\"",
+          "answer": "Michael Tucker & Jill Eikenberry",
+          "isDailyDouble": false,
+          "orderNumber": 8,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ed",
+              "score": 4800
+            },
+            {
+              "player": "Bill",
+              "score": 800
+            },
+            {
+              "player": "Roy",
+              "score": 4300
+            }
+          ]
+        },
+        {
+          "category": "REFERENCE BOOKS",
+          "value": 200,
+          "clue": "Leslie Halliwell & Leonard Maltin are both known for writing guides to these",
+          "answer": "movies",
+          "isDailyDouble": false,
+          "orderNumber": 9,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ed",
+              "score": 4800
+            },
+            {
+              "player": "Bill",
+              "score": 1000
+            },
+            {
+              "player": "Roy",
+              "score": 4300
+            }
+          ]
+        },
+        {
+          "category": "REFERENCE BOOKS",
+          "value": 400,
+          "clue": "As the credits indicate, many \"Jeopardy!\" clues are verified using this ency. from Macmillan",
+          "answer": "Collier's",
+          "isDailyDouble": false,
+          "orderNumber": 10,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Bill",
+            "Roy"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Ed",
+              "score": 4400
+            },
+            {
+              "player": "Bill",
+              "score": 600
+            },
+            {
+              "player": "Roy",
+              "score": 3900
+            }
+          ]
+        },
+        {
+          "category": "COUNTRIES OF THE WORLD",
+          "value": 200,
+          "clue": "In Pre-Columbian times the region that's now this country was called Quito, for the Quitu Indian natives",
+          "answer": "Ecuador",
+          "isDailyDouble": false,
+          "orderNumber": 11,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ed",
+              "score": 4600
+            },
+            {
+              "player": "Bill",
+              "score": 600
+            },
+            {
+              "player": "Roy",
+              "score": 3900
+            }
+          ]
+        },
+        {
+          "category": "DRAMA",
+          "value": 400,
+          "clue": "Robert Sherwood told about Duke Mantee in \"The Petrified Forest\" & this man \"in Illinois\"",
+          "answer": "Abe Lincoln",
+          "isDailyDouble": false,
+          "orderNumber": 12,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ed",
+              "score": 5000
+            },
+            {
+              "player": "Bill",
+              "score": 600
+            },
+            {
+              "player": "Roy",
+              "score": 3900
+            }
+          ]
+        },
+        {
+          "category": "COUNTRIES OF THE WORLD",
+          "value": 400,
+          "clue": "This country's Olympic Stadium features a statue of long distance runner Paavo Nurmi",
+          "answer": "Finland",
+          "isDailyDouble": false,
+          "orderNumber": 13,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ed",
+              "score": 5400
+            },
+            {
+              "player": "Bill",
+              "score": 600
+            },
+            {
+              "player": "Roy",
+              "score": 3900
+            }
+          ]
+        },
+        {
+          "category": "PEOPLE",
+          "value": 400,
+          "clue": "In 1964 Anthony Blunt secretly admitted to being a spy, but he kept his job as art advisor to her",
+          "answer": "Queen Elizabeth II",
+          "isDailyDouble": false,
+          "orderNumber": 14,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ed",
+              "score": 5400
+            },
+            {
+              "player": "Bill",
+              "score": 600
+            },
+            {
+              "player": "Roy",
+              "score": 4300
+            }
+          ]
+        },
+        {
+          "category": "DRAMA",
+          "value": 600,
+          "clue": "In the 1st line of this 1949 work, Linda calls with some trepidation, \"Willy!\"",
+          "answer": "Death of a Salesman",
+          "isDailyDouble": false,
+          "orderNumber": 15,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ed",
+              "score": 5400
+            },
+            {
+              "player": "Bill",
+              "score": 600
+            },
+            {
+              "player": "Roy",
+              "score": 4900
+            }
+          ]
+        },
+        {
+          "category": "DRAMA",
+          "value": 800,
+          "clue": "Noel Coward's \"Bitter Sweet\" opened in 1929 & this play of his with the same initials opened in 1941",
+          "answer": "Blithe Spirit",
+          "isDailyDouble": false,
+          "orderNumber": 16,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ed",
+              "score": 6200
+            },
+            {
+              "player": "Bill",
+              "score": 600
+            },
+            {
+              "player": "Roy",
+              "score": 4900
+            }
+          ]
+        },
+        {
+          "category": "WHALES",
+          "value": 400,
+          "clue": "This country accounts for the most whales killed each year",
+          "answer": "Japan",
+          "isDailyDouble": false,
+          "orderNumber": 17,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ed",
+              "score": 6600
+            },
+            {
+              "player": "Bill",
+              "score": 600
+            },
+            {
+              "player": "Roy",
+              "score": 4900
+            }
+          ]
+        },
+        {
+          "category": "PEOPLE",
+          "value": 600,
+          "clue": "In 1938 this wrestler married Babe Didrikson",
+          "answer": "George Zaharias",
+          "isDailyDouble": false,
+          "orderNumber": 18,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ed",
+              "score": 7200
+            },
+            {
+              "player": "Bill",
+              "score": 600
+            },
+            {
+              "player": "Roy",
+              "score": 4900
+            }
+          ]
+        },
+        {
+          "category": "REFERENCE BOOKS",
+          "value": 600,
+          "clue": "Irma S. Rombauer & Marion Rombauer Becker 1st published this cookbook in 1931",
+          "answer": "(The) Joy of Cooking",
+          "isDailyDouble": false,
+          "orderNumber": 19,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ed",
+              "score": 7200
+            },
+            {
+              "player": "Bill",
+              "score": 600
+            },
+            {
+              "player": "Roy",
+              "score": 5500
+            }
+          ]
+        },
+        {
+          "category": "DRAMA",
+          "value": 3000,
+          "clue": "A Longfellow poem & a Lillian Hellman play share this timely title",
+          "answer": "The Children's Hour",
+          "isDailyDouble": true,
+          "orderNumber": 20,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ed",
+              "score": 7200
+            },
+            {
+              "player": "Bill",
+              "score": 600
+            },
+            {
+              "player": "Roy",
+              "score": 8500
+            }
+          ]
+        },
+        {
+          "category": "COUNTRIES OF THE WORLD",
+          "value": 600,
+          "clue": "The former German colony of South West Africa is now known by this name",
+          "answer": "Namibia",
+          "isDailyDouble": false,
+          "orderNumber": 21,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ed",
+              "score": 7800
+            },
+            {
+              "player": "Bill",
+              "score": 600
+            },
+            {
+              "player": "Roy",
+              "score": 8500
+            }
+          ]
+        },
+        {
+          "category": "WHALES",
+          "value": 600,
+          "clue": "Also known as the sulfur-bottom whale, it's the largest animal that ever lived",
+          "answer": "blue whale",
+          "isDailyDouble": false,
+          "orderNumber": 22,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ed",
+              "score": 7800
+            },
+            {
+              "player": "Bill",
+              "score": 600
+            },
+            {
+              "player": "Roy",
+              "score": 9100
+            }
+          ]
+        },
+        {
+          "category": "COUNTRIES OF THE WORLD",
+          "value": 800,
+          "clue": "In the 19th century this Asian nation was divided into 3 regions: Annam, Tonkin & Cochin China",
+          "answer": "Vietnam",
+          "isDailyDouble": false,
+          "orderNumber": 23,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ed",
+              "score": 7800
+            },
+            {
+              "player": "Bill",
+              "score": 600
+            },
+            {
+              "player": "Roy",
+              "score": 9900
+            }
+          ]
+        },
+        {
+          "category": "COUNTRIES OF THE WORLD",
+          "value": 1000,
+          "clue": "A 15-mile causeway connects this Persian Gulf island nation with Saudia Arabia",
+          "answer": "Bahrain",
+          "isDailyDouble": false,
+          "orderNumber": 24,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Ed",
+              "score": 7800
+            },
+            {
+              "player": "Bill",
+              "score": 600
+            },
+            {
+              "player": "Roy",
+              "score": 9900
+            }
+          ]
+        },
+        {
+          "category": "PEOPLE",
+          "value": 800,
+          "clue": "She graced the June 19, 1989 cover of People holding her baby daughter, Danielle Riley Keough",
+          "answer": "Lisa Marie Presley",
+          "isDailyDouble": false,
+          "orderNumber": 25,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Ed",
+              "score": 7800
+            },
+            {
+              "player": "Bill",
+              "score": 600
+            },
+            {
+              "player": "Roy",
+              "score": 9900
+            }
+          ]
+        },
+        {
+          "category": "PEOPLE",
+          "value": 1000,
+          "clue": "This comedian directed 3 films before receiving his 1st Oscar nomination, for acting in \"Broadcast News\"",
+          "answer": "Albert Brooks",
+          "isDailyDouble": false,
+          "orderNumber": 26,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ed",
+              "score": 7800
+            },
+            {
+              "player": "Bill",
+              "score": 1600
+            },
+            {
+              "player": "Roy",
+              "score": 9900
+            }
+          ]
+        },
+        {
+          "category": "REFERENCE BOOKS",
+          "value": 1000,
+          "clue": "All doctors in the U.S. receive a free copy of the PDR, this book of pharmaceutical information",
+          "answer": "Physicians' Desk Reference",
+          "isDailyDouble": false,
+          "orderNumber": 27,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ed",
+              "score": 8800
+            },
+            {
+              "player": "Bill",
+              "score": 1600
+            },
+            {
+              "player": "Roy",
+              "score": 9900
+            }
+          ]
+        },
+        {
+          "category": "WHALES",
+          "value": 1000,
+          "clue": "This Arctic whale, identified by its long tusk, is also called the unicorn whale",
+          "answer": "narwhal",
+          "isDailyDouble": false,
+          "orderNumber": 28,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ed",
+              "score": 9800
+            },
+            {
+              "player": "Bill",
+              "score": 1600
+            },
+            {
+              "player": "Roy",
+              "score": 9900
+            }
+          ]
+        },
+        {
+          "category": "WHALES",
+          "value": 2000,
+          "clue": "Common name of the whale seen here, its scientific name means \"big-winged New Englander\"",
+          "answer": "humpback",
+          "isDailyDouble": true,
+          "orderNumber": 29,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ed",
+              "score": 7800
+            },
+            {
+              "player": "Bill",
+              "score": 1600
+            },
+            {
+              "player": "Roy",
+              "score": 9900
+            }
+          ]
+        },
+        {
+          "category": "REFERENCE BOOKS",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Ed",
+              "score": 7800
+            },
+            {
+              "player": "Bill",
+              "score": 1600
+            },
+            {
+              "player": "Roy",
+              "score": 9900
+            }
+          ]
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "Ed",
+          "score": 7800
+        },
+        {
+          "player": "Bill",
+          "score": 1600
+        },
+        {
+          "player": "Roy",
+          "score": 9900
+        }
+      ]
+    },
+    "finalJeopardy": {
+      "category": "THE ROARING '20s",
+      "clue": "Term given to the flowering of Black American arts & letters",
+      "answer": "the Harlem Renaissance",
+      "responses": [
+        {
+          "contestant": "Bill",
+          "response": "What is Harlem Renaissance",
+          "isCorrect": true,
+          "isIncorrect": false,
+          "value": 1500,
+          "finalScore": 3100
+        },
+        {
+          "contestant": "Ed",
+          "response": "What is Harlem Night",
+          "isCorrect": false,
+          "isIncorrect": true,
+          "value": 7800,
+          "finalScore": 0
+        },
+        {
+          "contestant": "Roy",
+          "response": "What was the Harlem Renaissance",
+          "isCorrect": true,
+          "isIncorrect": false,
+          "value": 5701,
+          "finalScore": 15601
+        }
+      ]
+    }
+  },
+  "finalScores": [
+    {
+      "player": "Ed",
+      "score": "$0"
+    },
+    {
+      "player": "Bill",
+      "score": "$3,100"
+    },
+    {
+      "player": "Roy",
+      "score": "$15,601"
+    }
+  ],
+  "coryatScores": [
+    {
+      "player": "Ed",
+      "score": 9800
+    },
+    {
+      "player": "Bill",
+      "score": 1600
+    },
+    {
+      "player": "Roy",
+      "score": 7500
+    }
+  ]
+}

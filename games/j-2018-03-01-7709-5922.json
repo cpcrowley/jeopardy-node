@@ -1,0 +1,1702 @@
+{
+  "gameId": 5922,
+  "showNumber": "7709",
+  "title": "Show #7709 - Thursday, March 1, 2018",
+  "date": "2018-03-01",
+  "comments": "First regular-play game to end in a Tiebreaker Round.",
+  "contestants": [
+    "Laura",
+    "Scott",
+    "Sarah"
+  ],
+  "rounds": {
+    "jeopardy": {
+      "categories": [
+        "THAT'S ABOUT THE SIZE OF IT",
+        "FOOD FRANCHISES",
+        "HISTORIC TRIOS",
+        "MAILING IT IN",
+        "ERIN",
+        "GO \"BRA\""
+      ],
+      "clues": [
+        {
+          "category": "HISTORIC TRIOS",
+          "value": 200,
+          "clue": "Crassus, Pompey & this guy made up the first Roman triumvirate",
+          "answer": "Caesar",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [
+            "Sarah"
+          ],
+          "incorrectContestants": [
+            "Scott"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Laura",
+              "score": 0
+            },
+            {
+              "player": "Scott",
+              "score": -200
+            },
+            {
+              "player": "Sarah",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "FOOD FRANCHISES",
+          "value": 400,
+          "clue": "In 1989 Auntie Anne's began selling lemonade & these from its first store location",
+          "answer": "pretzels",
+          "isDailyDouble": false,
+          "orderNumber": 2,
+          "correctContestants": [
+            "Laura"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Laura",
+              "score": 400
+            },
+            {
+              "player": "Scott",
+              "score": -200
+            },
+            {
+              "player": "Sarah",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "HISTORIC TRIOS",
+          "value": 400,
+          "clue": "In World War II, Germany, Italy & Japan made up this trio of \"powers\"",
+          "answer": "the Axis",
+          "isDailyDouble": false,
+          "orderNumber": 3,
+          "correctContestants": [
+            "Scott"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Laura",
+              "score": 400
+            },
+            {
+              "player": "Scott",
+              "score": 200
+            },
+            {
+              "player": "Sarah",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "HISTORIC TRIOS",
+          "value": 1000,
+          "clue": "As its name suggests, this caravel was the smallest of Columbus' ships in 1492",
+          "answer": "the Niña",
+          "isDailyDouble": true,
+          "orderNumber": 4,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Scott"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Laura",
+              "score": 400
+            },
+            {
+              "player": "Scott",
+              "score": -800
+            },
+            {
+              "player": "Sarah",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "HISTORIC TRIOS",
+          "value": 800,
+          "clue": "During the 1917 Russian Revolution, this faction promised the people \"peace, land & bread\"",
+          "answer": "the Bolsheviks",
+          "isDailyDouble": false,
+          "orderNumber": 5,
+          "correctContestants": [
+            "Sarah"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Laura",
+              "score": 400
+            },
+            {
+              "player": "Scott",
+              "score": -800
+            },
+            {
+              "player": "Sarah",
+              "score": 1000
+            }
+          ]
+        },
+        {
+          "category": "HISTORIC TRIOS",
+          "value": 1000,
+          "clue": "With Israel's Yitzhak Rabin & Shimon Peres, this man won the 1994 Nobel Peace Prize",
+          "answer": "(Yasser) Arafat",
+          "isDailyDouble": false,
+          "orderNumber": 6,
+          "correctContestants": [
+            "Scott"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Laura",
+              "score": 400
+            },
+            {
+              "player": "Scott",
+              "score": 200
+            },
+            {
+              "player": "Sarah",
+              "score": 1000
+            }
+          ]
+        },
+        {
+          "category": "FOOD FRANCHISES",
+          "value": 200,
+          "clue": "\"America runs on\" baked goods & coffee from this alliterative chain that began franchising in 1955",
+          "answer": "Dunkin' Donuts",
+          "isDailyDouble": false,
+          "orderNumber": 7,
+          "correctContestants": [
+            "Sarah"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Laura",
+              "score": 400
+            },
+            {
+              "player": "Scott",
+              "score": 200
+            },
+            {
+              "player": "Sarah",
+              "score": 1200
+            }
+          ]
+        },
+        {
+          "category": "FOOD FRANCHISES",
+          "value": 600,
+          "clue": "Oh yeah, I'll have a blast at this franchised drive-in that once promised \"service at the speed of sound\"",
+          "answer": "Sonic",
+          "isDailyDouble": false,
+          "orderNumber": 8,
+          "correctContestants": [
+            "Scott"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Laura",
+              "score": 400
+            },
+            {
+              "player": "Scott",
+              "score": 800
+            },
+            {
+              "player": "Sarah",
+              "score": 1200
+            }
+          ]
+        },
+        {
+          "category": "FOOD FRANCHISES",
+          "value": 800,
+          "clue": "Someone pass the syrup--this chain built the last of its iconic A-frame restaurants in 1979",
+          "answer": "IHOP",
+          "isDailyDouble": false,
+          "orderNumber": 9,
+          "correctContestants": [
+            "Laura"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Laura",
+              "score": 1200
+            },
+            {
+              "player": "Scott",
+              "score": 800
+            },
+            {
+              "player": "Sarah",
+              "score": 1200
+            }
+          ]
+        },
+        {
+          "category": "FOOD FRANCHISES",
+          "value": 1000,
+          "clue": "If you can't get to Louisiana, visit this chain named for a  \"French Connection\" character, not a cartoon one",
+          "answer": "Popeyes",
+          "isDailyDouble": false,
+          "orderNumber": 10,
+          "correctContestants": [
+            "Sarah"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Laura",
+              "score": 1200
+            },
+            {
+              "player": "Scott",
+              "score": 800
+            },
+            {
+              "player": "Sarah",
+              "score": 2200
+            }
+          ]
+        },
+        {
+          "category": "GO \"BRA\"",
+          "value": 400,
+          "clue": "This butterfly is named for a much larger animal",
+          "answer": "a zebra butterfly",
+          "isDailyDouble": false,
+          "orderNumber": 11,
+          "correctContestants": [
+            "Laura"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Laura",
+              "score": 1600
+            },
+            {
+              "player": "Scott",
+              "score": 800
+            },
+            {
+              "player": "Sarah",
+              "score": 2200
+            }
+          ]
+        },
+        {
+          "category": "GO \"BRA\"",
+          "value": 200,
+          "clue": "A multi-branched ornamental lighting item",
+          "answer": "a candelabra",
+          "isDailyDouble": false,
+          "orderNumber": 12,
+          "correctContestants": [
+            "Sarah"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Laura",
+              "score": 1600
+            },
+            {
+              "player": "Scott",
+              "score": 800
+            },
+            {
+              "player": "Sarah",
+              "score": 2400
+            }
+          ]
+        },
+        {
+          "category": "GO \"BRA\"",
+          "value": 600,
+          "clue": "\"Starting Here, Starting Now\" ends the 1966 album \"Color Me\" this first name",
+          "answer": "Barbra",
+          "isDailyDouble": false,
+          "orderNumber": 13,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Laura"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Laura",
+              "score": 1000
+            },
+            {
+              "player": "Scott",
+              "score": 800
+            },
+            {
+              "player": "Sarah",
+              "score": 2400
+            }
+          ]
+        },
+        {
+          "category": "GO \"BRA\"",
+          "value": 800,
+          "clue": "Symbolic math branch",
+          "answer": "algebra",
+          "isDailyDouble": false,
+          "orderNumber": 14,
+          "correctContestants": [
+            "Laura"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Laura",
+              "score": 1800
+            },
+            {
+              "player": "Scott",
+              "score": 800
+            },
+            {
+              "player": "Sarah",
+              "score": 2400
+            }
+          ]
+        },
+        {
+          "category": "GO \"BRA\"",
+          "value": 1000,
+          "clue": "A person born in Israel",
+          "answer": "a Sabra",
+          "isDailyDouble": false,
+          "orderNumber": 15,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Laura",
+              "score": 1800
+            },
+            {
+              "player": "Scott",
+              "score": 800
+            },
+            {
+              "player": "Sarah",
+              "score": 2400
+            }
+          ]
+        },
+        {
+          "category": "MAILING IT IN",
+          "value": 200,
+          "clue": "If a friend is building a wall or a whole house, mail him this basic piece of material, standard size 3 5/8 & 2 1/4 x 8 inches",
+          "answer": "a brick",
+          "isDailyDouble": false,
+          "orderNumber": 16,
+          "correctContestants": [
+            "Sarah"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Laura",
+              "score": 1800
+            },
+            {
+              "player": "Scott",
+              "score": 800
+            },
+            {
+              "player": "Sarah",
+              "score": 2600
+            }
+          ]
+        },
+        {
+          "category": "MAILING IT IN",
+          "value": 400,
+          "clue": "Your buddy needs to play ultimate, so Wham-O! Send an All Sport or Dyn-O-Glo one of these",
+          "answer": "a Frisbee",
+          "isDailyDouble": false,
+          "orderNumber": 17,
+          "correctContestants": [
+            "Sarah"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Laura",
+              "score": 1800
+            },
+            {
+              "player": "Scott",
+              "score": 800
+            },
+            {
+              "player": "Sarah",
+              "score": 3000
+            }
+          ]
+        },
+        {
+          "category": "MAILING IT IN",
+          "value": 600,
+          "clue": "Take a whack at sending this candy-filled party item; rainbow donkey is a popular type",
+          "answer": "a piñata",
+          "isDailyDouble": false,
+          "orderNumber": 18,
+          "correctContestants": [
+            "Laura"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Laura",
+              "score": 2400
+            },
+            {
+              "player": "Scott",
+              "score": 800
+            },
+            {
+              "player": "Sarah",
+              "score": 3000
+            }
+          ]
+        },
+        {
+          "category": "MAILING IT IN",
+          "value": 800,
+          "clue": "Charlie Brown's in luck if he wants to paint an address on one of these he got over & over on Halloween in a TV special",
+          "answer": "a rock",
+          "isDailyDouble": false,
+          "orderNumber": 19,
+          "correctContestants": [
+            "Sarah"
+          ],
+          "incorrectContestants": [
+            "Scott"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Laura",
+              "score": 2400
+            },
+            {
+              "player": "Scott",
+              "score": 0
+            },
+            {
+              "player": "Sarah",
+              "score": 3800
+            }
+          ]
+        },
+        {
+          "category": "MAILING IT IN",
+          "value": 1000,
+          "clue": "Slap an address & postage on this tropical item & the recipient can enjoy its solid dried meat called copra",
+          "answer": "a coconut",
+          "isDailyDouble": false,
+          "orderNumber": 20,
+          "correctContestants": [
+            "Laura"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Laura",
+              "score": 3400
+            },
+            {
+              "player": "Scott",
+              "score": 0
+            },
+            {
+              "player": "Sarah",
+              "score": 3800
+            }
+          ]
+        },
+        {
+          "category": "THAT'S ABOUT THE SIZE OF IT",
+          "value": 200,
+          "clue": "This smallest U.S. state can fit inside the Big Island of Hawaii",
+          "answer": "Rhode Island",
+          "isDailyDouble": false,
+          "orderNumber": 21,
+          "correctContestants": [
+            "Scott"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Laura",
+              "score": 3400
+            },
+            {
+              "player": "Scott",
+              "score": 200
+            },
+            {
+              "player": "Sarah",
+              "score": 3800
+            }
+          ]
+        },
+        {
+          "category": "THAT'S ABOUT THE SIZE OF IT",
+          "value": 400,
+          "clue": "Think there are a lot of people in the eastern United States? Compare this country and there's clearly room for a billion",
+          "answer": "India",
+          "isDailyDouble": false,
+          "orderNumber": 22,
+          "correctContestants": [
+            "Scott"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Laura",
+              "score": 3400
+            },
+            {
+              "player": "Scott",
+              "score": 600
+            },
+            {
+              "player": "Sarah",
+              "score": 3800
+            }
+          ]
+        },
+        {
+          "category": "THAT'S ABOUT THE SIZE OF IT",
+          "value": 600,
+          "clue": "With no Mercator projection, this island from up north doesn't look so big--it's smaller than Argentina",
+          "answer": "Greenland",
+          "isDailyDouble": false,
+          "orderNumber": 23,
+          "correctContestants": [
+            "Sarah"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Laura",
+              "score": 3400
+            },
+            {
+              "player": "Scott",
+              "score": 600
+            },
+            {
+              "player": "Sarah",
+              "score": 4400
+            }
+          ]
+        },
+        {
+          "category": "THAT'S ABOUT THE SIZE OF IT",
+          "value": 800,
+          "clue": "If you take this country out of South America, it would stretch from the Barents Sea down to the Persian Gulf",
+          "answer": "Chile",
+          "isDailyDouble": false,
+          "orderNumber": 24,
+          "correctContestants": [
+            "Laura"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Laura",
+              "score": 4200
+            },
+            {
+              "player": "Scott",
+              "score": 600
+            },
+            {
+              "player": "Sarah",
+              "score": 4400
+            }
+          ]
+        },
+        {
+          "category": "THAT'S ABOUT THE SIZE OF IT",
+          "value": 1000,
+          "clue": "This Scandinavian country is larger than California, but California has 30 million more people",
+          "answer": "Sweden",
+          "isDailyDouble": false,
+          "orderNumber": 25,
+          "correctContestants": [
+            "Sarah"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Laura",
+              "score": 4200
+            },
+            {
+              "player": "Scott",
+              "score": 600
+            },
+            {
+              "player": "Sarah",
+              "score": 5400
+            }
+          ]
+        },
+        {
+          "category": "ERIN",
+          "value": 400,
+          "clue": "Erin Moran was Joanie, the non-nose-twitching daughter on this 1970s sitcom",
+          "answer": "Happy Days",
+          "isDailyDouble": false,
+          "orderNumber": 26,
+          "correctContestants": [
+            "Scott"
+          ],
+          "incorrectContestants": [
+            "Laura",
+            "Sarah"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Laura",
+              "score": 3800
+            },
+            {
+              "player": "Scott",
+              "score": 1000
+            },
+            {
+              "player": "Sarah",
+              "score": 5000
+            }
+          ]
+        },
+        {
+          "category": "ERIN",
+          "value": 600,
+          "clue": "Erin Andrews was the gameface for CoverGirl when it was the official beauty partner of this male sports league",
+          "answer": "the NFL",
+          "isDailyDouble": false,
+          "orderNumber": 27,
+          "correctContestants": [
+            "Scott"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Laura",
+              "score": 3800
+            },
+            {
+              "player": "Scott",
+              "score": 1600
+            },
+            {
+              "player": "Sarah",
+              "score": 5000
+            }
+          ]
+        },
+        {
+          "category": "ERIN",
+          "value": 800,
+          "clue": "This CNN anchor tries to stay ahead of the news on her show \"Out Front\"",
+          "answer": "Erin Burnett",
+          "isDailyDouble": false,
+          "orderNumber": 28,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Laura"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Laura",
+              "score": 3000
+            },
+            {
+              "player": "Scott",
+              "score": 1600
+            },
+            {
+              "player": "Sarah",
+              "score": 5000
+            }
+          ]
+        },
+        {
+          "category": "ERIN",
+          "value": 1000,
+          "clue": "Erin Mouré, a poet from this country, won a Governor General's Award for \"Furious\"",
+          "answer": "Canada",
+          "isDailyDouble": false,
+          "orderNumber": 29,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Laura",
+              "score": 3000
+            },
+            {
+              "player": "Scott",
+              "score": 1600
+            },
+            {
+              "player": "Sarah",
+              "score": 5000
+            }
+          ]
+        },
+        {
+          "category": "ERIN",
+          "value": 200,
+          "clue": "Erin Murphy was Tabitha, the nose-twitching daughter witch on this 1960s sitcom",
+          "answer": "Bewitched",
+          "isDailyDouble": false,
+          "orderNumber": 30,
+          "correctContestants": [
+            "Sarah"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Laura",
+              "score": 3000
+            },
+            {
+              "player": "Scott",
+              "score": 1600
+            },
+            {
+              "player": "Sarah",
+              "score": 5200
+            }
+          ]
+        }
+      ],
+      "firstBreakScores": [
+        {
+          "player": "Laura",
+          "score": 1800
+        },
+        {
+          "player": "Scott",
+          "score": 800
+        },
+        {
+          "player": "Sarah",
+          "score": 2400
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "Laura",
+          "score": 3000
+        },
+        {
+          "player": "Scott",
+          "score": 1600
+        },
+        {
+          "player": "Sarah",
+          "score": 5200
+        }
+      ]
+    },
+    "doubleJeopardy": {
+      "categories": [
+        "ALIMENTARY SCHOOL",
+        "14-LETTER WORDS",
+        "GETTING THE BAND BACK TOGETHER",
+        "SEEING THINGS DIFFERENTLY",
+        "SUCH NOVEL CHARACTERS",
+        "WE'LL TAKE YOUR MEASURE!"
+      ],
+      "clues": [
+        {
+          "category": "SUCH NOVEL CHARACTERS",
+          "value": 400,
+          "clue": "Behaving like this hard-charging hero of a 1605 Spanish work has become shorthand for impractical idealism",
+          "answer": "Don Quixote",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Laura",
+              "score": 3000
+            },
+            {
+              "player": "Scott",
+              "score": 1600
+            },
+            {
+              "player": "Sarah",
+              "score": 5600
+            }
+          ]
+        },
+        {
+          "category": "ALIMENTARY SCHOOL",
+          "value": 800,
+          "clue": "This slimy membrane lines the organs & passages of the alimentary canal",
+          "answer": "mucus membrane",
+          "isDailyDouble": false,
+          "orderNumber": 2,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Laura",
+              "score": 3000
+            },
+            {
+              "player": "Scott",
+              "score": 1600
+            },
+            {
+              "player": "Sarah",
+              "score": 4800
+            }
+          ]
+        },
+        {
+          "category": "SUCH NOVEL CHARACTERS",
+          "value": 1200,
+          "clue": "This one of Dumas' 3 musketeers is the extrovert of the group--loud, brash & a courageous fighter & friend",
+          "answer": "Porthos",
+          "isDailyDouble": false,
+          "orderNumber": 3,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Laura",
+              "score": 3000
+            },
+            {
+              "player": "Scott",
+              "score": 1600
+            },
+            {
+              "player": "Sarah",
+              "score": 6000
+            }
+          ]
+        },
+        {
+          "category": "SUCH NOVEL CHARACTERS",
+          "value": 1600,
+          "clue": "\"I have brains & almost all the rest of the world are fools\", says Becky Sharp in this author's \"Vanity Fair\"",
+          "answer": "Thackeray",
+          "isDailyDouble": false,
+          "orderNumber": 4,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Laura",
+              "score": 3000
+            },
+            {
+              "player": "Scott",
+              "score": 3200
+            },
+            {
+              "player": "Sarah",
+              "score": 6000
+            }
+          ]
+        },
+        {
+          "category": "SUCH NOVEL CHARACTERS",
+          "value": 3000,
+          "clue": "During the French Revolution, Sir Percy Blakeney disguises himself as this hero to rescue the wrongly jailed",
+          "answer": "the Scarlet Pimpernel",
+          "isDailyDouble": true,
+          "orderNumber": 5,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Laura",
+              "score": 3000
+            },
+            {
+              "player": "Scott",
+              "score": 200
+            },
+            {
+              "player": "Sarah",
+              "score": 6000
+            }
+          ]
+        },
+        {
+          "category": "SUCH NOVEL CHARACTERS",
+          "value": 800,
+          "clue": "In \"Little Women\" this character declares, \"I'm dying to go and fight with Papa. And I can only stay at home & knit\"",
+          "answer": "Jo",
+          "isDailyDouble": false,
+          "orderNumber": 6,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Laura",
+              "score": 3000
+            },
+            {
+              "player": "Scott",
+              "score": 1000
+            },
+            {
+              "player": "Sarah",
+              "score": 6000
+            }
+          ]
+        },
+        {
+          "category": "14-LETTER WORDS",
+          "value": 400,
+          "clue": "Today a secretary is often rightly called this 14-letter type of \"assistant\"",
+          "answer": "administrative",
+          "isDailyDouble": false,
+          "orderNumber": 7,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Laura",
+              "score": 3400
+            },
+            {
+              "player": "Scott",
+              "score": 1000
+            },
+            {
+              "player": "Sarah",
+              "score": 6000
+            }
+          ]
+        },
+        {
+          "category": "14-LETTER WORDS",
+          "value": 800,
+          "clue": "To kill the pathogenic microorganisms in milk using this process, it's necessary to heat it to at least 145°F",
+          "answer": "pasteurization",
+          "isDailyDouble": false,
+          "orderNumber": 8,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Laura",
+              "score": 3400
+            },
+            {
+              "player": "Scott",
+              "score": 1000
+            },
+            {
+              "player": "Sarah",
+              "score": 6800
+            }
+          ]
+        },
+        {
+          "category": "GETTING THE BAND BACK TOGETHER",
+          "value": 1200,
+          "clue": "The setlist at their 2007 reunion show included \"Kashmir\" & \"In My Time Of Dying\"",
+          "answer": "Led Zeppelin",
+          "isDailyDouble": false,
+          "orderNumber": 9,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Laura",
+              "score": 4600
+            },
+            {
+              "player": "Scott",
+              "score": 1000
+            },
+            {
+              "player": "Sarah",
+              "score": 6800
+            }
+          ]
+        },
+        {
+          "category": "GETTING THE BAND BACK TOGETHER",
+          "value": 400,
+          "clue": "\"We never broke up, we just took a 14-year vacation\", said Glenn Frey at this band's first reunion show in 1994",
+          "answer": "the Eagles",
+          "isDailyDouble": false,
+          "orderNumber": 10,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Laura",
+              "score": 5000
+            },
+            {
+              "player": "Scott",
+              "score": 1000
+            },
+            {
+              "player": "Sarah",
+              "score": 6800
+            }
+          ]
+        },
+        {
+          "category": "GETTING THE BAND BACK TOGETHER",
+          "value": 800,
+          "clue": "The Jackson 5 reunited in 1983 for this record label's 25th anniversary special",
+          "answer": "Motown",
+          "isDailyDouble": false,
+          "orderNumber": 11,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Laura",
+              "score": 5800
+            },
+            {
+              "player": "Scott",
+              "score": 1000
+            },
+            {
+              "player": "Sarah",
+              "score": 6800
+            }
+          ]
+        },
+        {
+          "category": "GETTING THE BAND BACK TOGETHER",
+          "value": 1600,
+          "clue": "An estimated 500,000 people jammed New York's Central Park to see this duo's 1981 reunion concert",
+          "answer": "Simon & Garfunkel",
+          "isDailyDouble": false,
+          "orderNumber": 12,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Laura",
+              "score": 7400
+            },
+            {
+              "player": "Scott",
+              "score": 1000
+            },
+            {
+              "player": "Sarah",
+              "score": 6800
+            }
+          ]
+        },
+        {
+          "category": "GETTING THE BAND BACK TOGETHER",
+          "value": 2000,
+          "clue": "This band's Black Francis said of reunions, \"This ain't about the art anymore...now it's time to talk about the money\"",
+          "answer": "the Pixies",
+          "isDailyDouble": false,
+          "orderNumber": 13,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Laura",
+              "score": 7400
+            },
+            {
+              "player": "Scott",
+              "score": 1000
+            },
+            {
+              "player": "Sarah",
+              "score": 8800
+            }
+          ]
+        },
+        {
+          "category": "14-LETTER WORDS",
+          "value": 1200,
+          "clue": "Can I tell you something this way, just between ourselves?",
+          "answer": "confidentially",
+          "isDailyDouble": false,
+          "orderNumber": 14,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Laura",
+              "score": 7400
+            },
+            {
+              "player": "Scott",
+              "score": 1000
+            },
+            {
+              "player": "Sarah",
+              "score": 10000
+            }
+          ]
+        },
+        {
+          "category": "14-LETTER WORDS",
+          "value": 1600,
+          "clue": "Like layers of rock, it's the hierarchical division of society according to rank, caste or class",
+          "answer": "stratification",
+          "isDailyDouble": false,
+          "orderNumber": 15,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Laura",
+              "score": 9000
+            },
+            {
+              "player": "Scott",
+              "score": 1000
+            },
+            {
+              "player": "Sarah",
+              "score": 10000
+            }
+          ]
+        },
+        {
+          "category": "14-LETTER WORDS",
+          "value": 2000,
+          "clue": "John Calvin wrote of this belief, \"Eternal life is foreordained for some, eternal damnation for others\"",
+          "answer": "predestination",
+          "isDailyDouble": false,
+          "orderNumber": 16,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Laura",
+              "score": 11000
+            },
+            {
+              "player": "Scott",
+              "score": 1000
+            },
+            {
+              "player": "Sarah",
+              "score": 10000
+            }
+          ]
+        },
+        {
+          "category": "SEEING THINGS DIFFERENTLY",
+          "value": 400,
+          "clue": "Suzuki Roshi, a master of this type of Buddhism, coined the term \"beginner's mind\" for seeing the world afresh",
+          "answer": "Zen",
+          "isDailyDouble": false,
+          "orderNumber": 17,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Laura",
+              "score": 11400
+            },
+            {
+              "player": "Scott",
+              "score": 1000
+            },
+            {
+              "player": "Sarah",
+              "score": 10000
+            }
+          ]
+        },
+        {
+          "category": "SEEING THINGS DIFFERENTLY",
+          "value": 800,
+          "clue": "Customized online content can keep people in a \"filter\" this, the title of a 2012 book that suggest peeking out of yours",
+          "answer": "a bubble",
+          "isDailyDouble": false,
+          "orderNumber": 18,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Laura",
+              "score": 11400
+            },
+            {
+              "player": "Scott",
+              "score": 1000
+            },
+            {
+              "player": "Sarah",
+              "score": 10800
+            }
+          ]
+        },
+        {
+          "category": "ALIMENTARY SCHOOL",
+          "value": 1200,
+          "clue": "In 2017 Bangladesh gave refugees 900,000 doses of vaccine against this waterborne alimentary disease",
+          "answer": "cholera",
+          "isDailyDouble": false,
+          "orderNumber": 19,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Laura",
+              "score": 11400
+            },
+            {
+              "player": "Scott",
+              "score": 1000
+            },
+            {
+              "player": "Sarah",
+              "score": 12000
+            }
+          ]
+        },
+        {
+          "category": "SEEING THINGS DIFFERENTLY",
+          "value": 1200,
+          "clue": "St. Paul wrote, \"For now we see through\" this, \"darkly; but then face to face\"",
+          "answer": "a glass",
+          "isDailyDouble": false,
+          "orderNumber": 20,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Laura",
+              "score": 12600
+            },
+            {
+              "player": "Scott",
+              "score": 1000
+            },
+            {
+              "player": "Sarah",
+              "score": 12000
+            }
+          ]
+        },
+        {
+          "category": "SEEING THINGS DIFFERENTLY",
+          "value": 1600,
+          "clue": "You get a virtual reality experience when puttin' on the Rift from this company",
+          "answer": "Oculus",
+          "isDailyDouble": false,
+          "orderNumber": 21,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Laura",
+              "score": 14200
+            },
+            {
+              "player": "Scott",
+              "score": 1000
+            },
+            {
+              "player": "Sarah",
+              "score": 12000
+            }
+          ]
+        },
+        {
+          "category": "SEEING THINGS DIFFERENTLY",
+          "value": 2000,
+          "clue": "Novels with multiple narrators' points of view include this Barbara Kingsolver \"Bible\"",
+          "answer": "The Poisonwood Bible",
+          "isDailyDouble": false,
+          "orderNumber": 22,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Laura",
+              "score": 14200
+            },
+            {
+              "player": "Scott",
+              "score": 3000
+            },
+            {
+              "player": "Sarah",
+              "score": 12000
+            }
+          ]
+        },
+        {
+          "category": "WE'LL TAKE YOUR MEASURE!",
+          "value": 1200,
+          "clue": "Consult a galvanometer to measure amperes of this",
+          "answer": "electrical current",
+          "isDailyDouble": false,
+          "orderNumber": 23,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Laura",
+              "score": 14200
+            },
+            {
+              "player": "Scott",
+              "score": 3000
+            },
+            {
+              "player": "Sarah",
+              "score": 12000
+            }
+          ]
+        },
+        {
+          "category": "WE'LL TAKE YOUR MEASURE!",
+          "value": 1600,
+          "clue": "Glucometers are a big part of life for people with this",
+          "answer": "diabetes",
+          "isDailyDouble": false,
+          "orderNumber": 24,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Laura",
+              "score": 14200
+            },
+            {
+              "player": "Scott",
+              "score": 3000
+            },
+            {
+              "player": "Sarah",
+              "score": 13600
+            }
+          ]
+        },
+        {
+          "category": "WE'LL TAKE YOUR MEASURE!",
+          "value": 800,
+          "clue": "Anemometers measure this, especially in a tunnel",
+          "answer": "wind speed",
+          "isDailyDouble": false,
+          "orderNumber": 25,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Laura",
+              "score": 15000
+            },
+            {
+              "player": "Scott",
+              "score": 3000
+            },
+            {
+              "player": "Sarah",
+              "score": 13600
+            }
+          ]
+        },
+        {
+          "category": "WE'LL TAKE YOUR MEASURE!",
+          "value": 2000,
+          "clue": "Used by the USGS, creepmeters gauge the slip of these, such as the strike-slip type",
+          "answer": "fault lines",
+          "isDailyDouble": false,
+          "orderNumber": 26,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Laura",
+              "score": 15000
+            },
+            {
+              "player": "Scott",
+              "score": 5000
+            },
+            {
+              "player": "Sarah",
+              "score": 13600
+            }
+          ]
+        },
+        {
+          "category": "ALIMENTARY SCHOOL",
+          "value": 1000,
+          "clue": "Often changing in shape, this organ contains both cardiac & pyloric sphincters",
+          "answer": "the stomach",
+          "isDailyDouble": true,
+          "orderNumber": 27,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Laura",
+              "score": 15000
+            },
+            {
+              "player": "Scott",
+              "score": 4000
+            },
+            {
+              "player": "Sarah",
+              "score": 13600
+            }
+          ]
+        },
+        {
+          "category": "ALIMENTARY SCHOOL",
+          "value": 2000,
+          "clue": "From the Greek for \"throat\", this passageway has nasal & oral sections",
+          "answer": "the pharynx",
+          "isDailyDouble": false,
+          "orderNumber": 28,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Laura",
+              "score": 15000
+            },
+            {
+              "player": "Scott",
+              "score": 4000
+            },
+            {
+              "player": "Sarah",
+              "score": 11600
+            }
+          ]
+        },
+        {
+          "category": "ALIMENTARY SCHOOL",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Laura",
+              "score": 15000
+            },
+            {
+              "player": "Scott",
+              "score": 4000
+            },
+            {
+              "player": "Sarah",
+              "score": 11600
+            }
+          ]
+        },
+        {
+          "category": "WE'LL TAKE YOUR MEASURE!",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Laura",
+              "score": 15000
+            },
+            {
+              "player": "Scott",
+              "score": 4000
+            },
+            {
+              "player": "Sarah",
+              "score": 11600
+            }
+          ]
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "Laura",
+          "score": 15000
+        },
+        {
+          "player": "Scott",
+          "score": 4000
+        },
+        {
+          "player": "Sarah",
+          "score": 11600
+        }
+      ]
+    },
+    "finalJeopardy": {
+      "category": "EUROPEAN ISLANDSWAY BACK IN 2017",
+      "clue": "Once known as the Norman Isles, per the British government this group is \"not part of the U.K.\" & has \"never been colonies\"",
+      "answer": "the Channel Islands",
+      "responses": [
+        {
+          "contestant": "Scott",
+          "response": "What are the Canary Islands?",
+          "isCorrect": false,
+          "isIncorrect": true,
+          "value": 3995,
+          "finalScore": 5
+        },
+        {
+          "contestant": "Sarah",
+          "response": "What are the Faroe Islands",
+          "isCorrect": false,
+          "isIncorrect": true,
+          "value": 4801,
+          "finalScore": 6799
+        },
+        {
+          "contestant": "Laura",
+          "response": "What the Shetland Islands",
+          "isCorrect": false,
+          "isIncorrect": true,
+          "value": 8201,
+          "finalScore": 6799
+        }
+      ]
+    }
+  },
+  "finalScores": [
+    {
+      "player": "Laura",
+      "score": "$6,799"
+    },
+    {
+      "player": "Scott",
+      "score": "$5"
+    },
+    {
+      "player": "Sarah",
+      "score": "$6,799"
+    }
+  ],
+  "coryatScores": [
+    {
+      "player": "Laura",
+      "score": 15000
+    },
+    {
+      "player": "Scott",
+      "score": 9000
+    },
+    {
+      "player": "Sarah",
+      "score": 11600
+    }
+  ]
+}

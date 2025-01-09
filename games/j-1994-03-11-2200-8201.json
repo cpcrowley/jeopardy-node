@@ -1,0 +1,1702 @@
+{
+  "gameId": 8201,
+  "showNumber": "2200",
+  "title": "Show #2200 - Friday, March 11, 1994",
+  "date": "1994-03-11",
+  "comments": "Amy Fine game 1.",
+  "contestants": [
+    "Olivia",
+    "Josh",
+    "Amy"
+  ],
+  "rounds": {
+    "jeopardy": {
+      "categories": [
+        "ANIMALS",
+        "MEMORIALS & MONUMENTS",
+        "CRIME & PUNISHMENT",
+        "THE CARIBBEAN",
+        "SEWING",
+        "3-LETTER WORDS"
+      ],
+      "clues": [
+        {
+          "category": "ANIMALS",
+          "value": 100,
+          "clue": "The part of the shell that covers this reptile's back is the carapace; the plastron covers the belly",
+          "answer": "a turtle",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [
+            "Olivia"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Olivia",
+              "score": 100
+            },
+            {
+              "player": "Josh",
+              "score": 0
+            },
+            {
+              "player": "Amy",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "ANIMALS",
+          "value": 200,
+          "clue": "Types of this animal include skinks, geckos & the six-lined racerunner",
+          "answer": "lizards",
+          "isDailyDouble": false,
+          "orderNumber": 2,
+          "correctContestants": [
+            "Olivia"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Olivia",
+              "score": 300
+            },
+            {
+              "player": "Josh",
+              "score": 0
+            },
+            {
+              "player": "Amy",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "ANIMALS",
+          "value": 300,
+          "clue": "This largest seal may grow to a length of 20 feet & weigh up to 8,000 pounds",
+          "answer": "the elephant seal",
+          "isDailyDouble": false,
+          "orderNumber": 3,
+          "correctContestants": [
+            "Olivia"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Olivia",
+              "score": 600
+            },
+            {
+              "player": "Josh",
+              "score": 0
+            },
+            {
+              "player": "Amy",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "ANIMALS",
+          "value": 400,
+          "clue": "Related to the hamster, the Mongolian species of this rodent is a popular pet",
+          "answer": "a gerbil",
+          "isDailyDouble": false,
+          "orderNumber": 4,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Olivia",
+              "score": 600
+            },
+            {
+              "player": "Josh",
+              "score": 0
+            },
+            {
+              "player": "Amy",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "ANIMALS",
+          "value": 500,
+          "clue": "This smallest of the apes inhabits the forests of Southeast Asia",
+          "answer": "a gibbon",
+          "isDailyDouble": false,
+          "orderNumber": 5,
+          "correctContestants": [
+            "Amy"
+          ],
+          "incorrectContestants": [
+            "Olivia",
+            "Josh"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Olivia",
+              "score": 100
+            },
+            {
+              "player": "Josh",
+              "score": -500
+            },
+            {
+              "player": "Amy",
+              "score": 500
+            }
+          ]
+        },
+        {
+          "category": "CRIME & PUNISHMENT",
+          "value": 100,
+          "clue": "Mohammed Salameh was arrested when he asked for his $400 deposit on the van used in this 2/93 bombing",
+          "answer": "the World Trade Center bombing",
+          "isDailyDouble": false,
+          "orderNumber": 6,
+          "correctContestants": [
+            "Amy"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Olivia",
+              "score": 100
+            },
+            {
+              "player": "Josh",
+              "score": -500
+            },
+            {
+              "player": "Amy",
+              "score": 600
+            }
+          ]
+        },
+        {
+          "category": "CRIME & PUNISHMENT",
+          "value": 200,
+          "clue": "Someone dishonest may pull a con on you, con being short for this",
+          "answer": "confidence (game)",
+          "isDailyDouble": false,
+          "orderNumber": 7,
+          "correctContestants": [
+            "Olivia"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Olivia",
+              "score": 300
+            },
+            {
+              "player": "Josh",
+              "score": -500
+            },
+            {
+              "player": "Amy",
+              "score": 600
+            }
+          ]
+        },
+        {
+          "category": "CRIME & PUNISHMENT",
+          "value": 300,
+          "clue": "A 7-member armed task force is currently going after ex-convicts in Kansas who violate this",
+          "answer": "parole",
+          "isDailyDouble": false,
+          "orderNumber": 8,
+          "correctContestants": [
+            "Olivia"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Olivia",
+              "score": 600
+            },
+            {
+              "player": "Josh",
+              "score": -500
+            },
+            {
+              "player": "Amy",
+              "score": 600
+            }
+          ]
+        },
+        {
+          "category": "CRIME & PUNISHMENT",
+          "value": 400,
+          "clue": "Oops! One of these was found in 1920 on the farm of Senator Morris Sheppard, who wrote the 18th Amendment",
+          "answer": "a still",
+          "isDailyDouble": false,
+          "orderNumber": 9,
+          "correctContestants": [
+            "Amy"
+          ],
+          "incorrectContestants": [
+            "Olivia"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Olivia",
+              "score": 200
+            },
+            {
+              "player": "Josh",
+              "score": -500
+            },
+            {
+              "player": "Amy",
+              "score": 1000
+            }
+          ]
+        },
+        {
+          "category": "CRIME & PUNISHMENT",
+          "value": 500,
+          "clue": "These include loan sharking, gambling, narcotics, tennis; the last isn't illegal, just a clue",
+          "answer": "rackets",
+          "isDailyDouble": false,
+          "orderNumber": 10,
+          "correctContestants": [
+            "Josh"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Olivia",
+              "score": 200
+            },
+            {
+              "player": "Josh",
+              "score": 0
+            },
+            {
+              "player": "Amy",
+              "score": 1000
+            }
+          ]
+        },
+        {
+          "category": "MEMORIALS & MONUMENTS",
+          "value": 300,
+          "clue": "A bronze statue in New Rumley, Ohio marks the birthplace of this \"Boy General\"",
+          "answer": "George Armstrong Custer",
+          "isDailyDouble": false,
+          "orderNumber": 11,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Olivia"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Olivia",
+              "score": -100
+            },
+            {
+              "player": "Josh",
+              "score": 0
+            },
+            {
+              "player": "Amy",
+              "score": 1000
+            }
+          ]
+        },
+        {
+          "category": "MEMORIALS & MONUMENTS",
+          "value": 200,
+          "clue": "In Atchison, Kansas one of the original depots from this early railroad now stands as a monument to it",
+          "answer": "the Atchison, Topeka & Santa Fe",
+          "isDailyDouble": false,
+          "orderNumber": 12,
+          "correctContestants": [
+            "Amy"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Olivia",
+              "score": -100
+            },
+            {
+              "player": "Josh",
+              "score": 0
+            },
+            {
+              "player": "Amy",
+              "score": 1200
+            }
+          ]
+        },
+        {
+          "category": "MEMORIALS & MONUMENTS",
+          "value": 400,
+          "clue": "A monument in Richmond, Va. honors this native son who danced with Shirley Temple in several films",
+          "answer": "Bill \"Bojangles\" Robinson",
+          "isDailyDouble": false,
+          "orderNumber": 13,
+          "correctContestants": [
+            "Josh"
+          ],
+          "incorrectContestants": [
+            "Olivia"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Olivia",
+              "score": -500
+            },
+            {
+              "player": "Josh",
+              "score": 400
+            },
+            {
+              "player": "Amy",
+              "score": 1200
+            }
+          ]
+        },
+        {
+          "category": "MEMORIALS & MONUMENTS",
+          "value": 500,
+          "clue": "The 4 states whose seals appear on the Four Corners Monument in the western U.S.",
+          "answer": "New Mexico, Arizona, Colorado & Utah",
+          "isDailyDouble": true,
+          "orderNumber": 14,
+          "correctContestants": [
+            "Josh"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Olivia",
+              "score": -500
+            },
+            {
+              "player": "Josh",
+              "score": 900
+            },
+            {
+              "player": "Amy",
+              "score": 1200
+            }
+          ]
+        },
+        {
+          "category": "3-LETTER WORDS",
+          "value": 300,
+          "clue": "A synonym for sass, or the open spout on a pitcher",
+          "answer": "lip",
+          "isDailyDouble": false,
+          "orderNumber": 15,
+          "correctContestants": [
+            "Amy"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Olivia",
+              "score": -500
+            },
+            {
+              "player": "Josh",
+              "score": 900
+            },
+            {
+              "player": "Amy",
+              "score": 1500
+            }
+          ]
+        },
+        {
+          "category": "3-LETTER WORDS",
+          "value": 100,
+          "clue": "At a restaurant 15% of the bill is standard for this",
+          "answer": "a tip",
+          "isDailyDouble": false,
+          "orderNumber": 16,
+          "correctContestants": [
+            "Amy"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Olivia",
+              "score": -500
+            },
+            {
+              "player": "Josh",
+              "score": 900
+            },
+            {
+              "player": "Amy",
+              "score": 1600
+            }
+          ]
+        },
+        {
+          "category": "3-LETTER WORDS",
+          "value": 200,
+          "clue": "In \"Great Expectations\", it's Philip Pirrip's nickname",
+          "answer": "Pip",
+          "isDailyDouble": false,
+          "orderNumber": 17,
+          "correctContestants": [
+            "Olivia"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Olivia",
+              "score": -300
+            },
+            {
+              "player": "Josh",
+              "score": 900
+            },
+            {
+              "player": "Amy",
+              "score": 1600
+            }
+          ]
+        },
+        {
+          "category": "3-LETTER WORDS",
+          "value": 400,
+          "clue": "A small pinch, or tuck's partner",
+          "answer": "nip",
+          "isDailyDouble": false,
+          "orderNumber": 18,
+          "correctContestants": [
+            "Amy"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Olivia",
+              "score": -300
+            },
+            {
+              "player": "Josh",
+              "score": 900
+            },
+            {
+              "player": "Amy",
+              "score": 2000
+            }
+          ]
+        },
+        {
+          "category": "3-LETTER WORDS",
+          "value": 500,
+          "clue": "It's the basic monetary unit of Laos, or British for a bed",
+          "answer": "kip",
+          "isDailyDouble": false,
+          "orderNumber": 19,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Amy"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Olivia",
+              "score": -300
+            },
+            {
+              "player": "Josh",
+              "score": 900
+            },
+            {
+              "player": "Amy",
+              "score": 1500
+            }
+          ]
+        },
+        {
+          "category": "SEWING",
+          "value": 100,
+          "clue": "This Scottish skirt traditionally closes at the waist with a buckle",
+          "answer": "a kilt",
+          "isDailyDouble": false,
+          "orderNumber": 20,
+          "correctContestants": [
+            "Josh"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Olivia",
+              "score": -300
+            },
+            {
+              "player": "Josh",
+              "score": 1000
+            },
+            {
+              "player": "Amy",
+              "score": 1500
+            }
+          ]
+        },
+        {
+          "category": "SEWING",
+          "value": 200,
+          "clue": "Gimp is an upholstery trim or a heavy type of this sewing supply used for strength",
+          "answer": "thread",
+          "isDailyDouble": false,
+          "orderNumber": 21,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Olivia",
+              "score": -300
+            },
+            {
+              "player": "Josh",
+              "score": 1000
+            },
+            {
+              "player": "Amy",
+              "score": 1500
+            }
+          ]
+        },
+        {
+          "category": "MEMORIALS & MONUMENTS",
+          "value": 100,
+          "clue": "In 1938 FDR dedicated the Eternal Light Memorial on this Pennsylvania battlefield",
+          "answer": "Gettysburg",
+          "isDailyDouble": false,
+          "orderNumber": 22,
+          "correctContestants": [
+            "Olivia"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Olivia",
+              "score": -200
+            },
+            {
+              "player": "Josh",
+              "score": 1000
+            },
+            {
+              "player": "Amy",
+              "score": 1500
+            }
+          ]
+        },
+        {
+          "category": "THE CARIBBEAN",
+          "value": 100,
+          "clue": "Barbados is renowned for making a dark type of this liquor",
+          "answer": "rum",
+          "isDailyDouble": false,
+          "orderNumber": 23,
+          "correctContestants": [
+            "Amy"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Olivia",
+              "score": -200
+            },
+            {
+              "player": "Josh",
+              "score": 1000
+            },
+            {
+              "player": "Amy",
+              "score": 1600
+            }
+          ]
+        },
+        {
+          "category": "THE CARIBBEAN",
+          "value": 200,
+          "clue": "It's the basic unit of currency on Martinique",
+          "answer": "the franc",
+          "isDailyDouble": false,
+          "orderNumber": 24,
+          "correctContestants": [
+            "Olivia"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Olivia",
+              "score": 0
+            },
+            {
+              "player": "Josh",
+              "score": 1000
+            },
+            {
+              "player": "Amy",
+              "score": 1600
+            }
+          ]
+        },
+        {
+          "category": "THE CARIBBEAN",
+          "value": 300,
+          "clue": "Doctor's Cave is the most famous beach in this Jamaican area nicknamed Mo' Bay",
+          "answer": "Montego",
+          "isDailyDouble": false,
+          "orderNumber": 25,
+          "correctContestants": [
+            "Josh"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Olivia",
+              "score": 0
+            },
+            {
+              "player": "Josh",
+              "score": 1300
+            },
+            {
+              "player": "Amy",
+              "score": 1600
+            }
+          ]
+        },
+        {
+          "category": "THE CARIBBEAN",
+          "value": 400,
+          "clue": "Many exotic birds live on this, Trinidad's sister island",
+          "answer": "Tobago",
+          "isDailyDouble": false,
+          "orderNumber": 26,
+          "correctContestants": [
+            "Josh"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Olivia",
+              "score": 0
+            },
+            {
+              "player": "Josh",
+              "score": 1700
+            },
+            {
+              "player": "Amy",
+              "score": 1600
+            }
+          ]
+        },
+        {
+          "category": "THE CARIBBEAN",
+          "value": 500,
+          "clue": "This person appoints the governor of the Turks & Caicos Islands",
+          "answer": "her majesty the Queen of England (Elizabeth II)",
+          "isDailyDouble": false,
+          "orderNumber": 27,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Olivia",
+              "score": 0
+            },
+            {
+              "player": "Josh",
+              "score": 1700
+            },
+            {
+              "player": "Amy",
+              "score": 1600
+            }
+          ]
+        },
+        {
+          "category": "SEWING",
+          "value": 300,
+          "clue": "For Miss Figure types, this measurement is taken 7-9 inches below the waist",
+          "answer": "the hips",
+          "isDailyDouble": false,
+          "orderNumber": 28,
+          "correctContestants": [
+            "Josh"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Olivia",
+              "score": 0
+            },
+            {
+              "player": "Josh",
+              "score": 2000
+            },
+            {
+              "player": "Amy",
+              "score": 1600
+            }
+          ]
+        },
+        {
+          "category": "SEWING",
+          "value": 400,
+          "clue": "\"Anatomical\" term for the sewing machine part that holds fabric in place while sewing",
+          "answer": "the foot",
+          "isDailyDouble": false,
+          "orderNumber": 29,
+          "correctContestants": [
+            "Amy"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Olivia",
+              "score": 0
+            },
+            {
+              "player": "Josh",
+              "score": 2000
+            },
+            {
+              "player": "Amy",
+              "score": 2000
+            }
+          ]
+        },
+        {
+          "category": "SEWING",
+          "value": 500,
+          "clue": "Colors that run together in the washing of a fabric are said to do this",
+          "answer": "bleed",
+          "isDailyDouble": false,
+          "orderNumber": 30,
+          "correctContestants": [
+            "Olivia"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Olivia",
+              "score": 500
+            },
+            {
+              "player": "Josh",
+              "score": 2000
+            },
+            {
+              "player": "Amy",
+              "score": 2000
+            }
+          ]
+        }
+      ],
+      "firstBreakScores": [
+        {
+          "player": "Olivia",
+          "score": -500
+        },
+        {
+          "player": "Josh",
+          "score": 900
+        },
+        {
+          "player": "Amy",
+          "score": 1200
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "Olivia",
+          "score": 500
+        },
+        {
+          "player": "Josh",
+          "score": 2000
+        },
+        {
+          "player": "Amy",
+          "score": 2000
+        }
+      ]
+    },
+    "doubleJeopardy": {
+      "categories": [
+        "THE FRENCH REVOLUTION",
+        "COLLEGES & UNIVERSITIES",
+        "MOUNTAINS",
+        "BUSINESS & INDUSTRY",
+        "FAMOUS NAMES",
+        "ACTORS PLAYING AUTHORS"
+      ],
+      "clues": [
+        {
+          "category": "COLLEGES & UNIVERSITIES",
+          "value": 200,
+          "clue": "City in which you'd find Rockefeller, Fordham & St. John's universities",
+          "answer": "New York City",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Olivia",
+              "score": 700
+            },
+            {
+              "player": "Josh",
+              "score": 2000
+            },
+            {
+              "player": "Amy",
+              "score": 2000
+            }
+          ]
+        },
+        {
+          "category": "COLLEGES & UNIVERSITIES",
+          "value": 400,
+          "clue": "In 1820 this military academy was the only U.S. school with an engineering program",
+          "answer": "West Point",
+          "isDailyDouble": false,
+          "orderNumber": 2,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Olivia",
+              "score": 700
+            },
+            {
+              "player": "Josh",
+              "score": 2400
+            },
+            {
+              "player": "Amy",
+              "score": 2000
+            }
+          ]
+        },
+        {
+          "category": "COLLEGES & UNIVERSITIES",
+          "value": 600,
+          "clue": "This Atlanta Technical Institute's school of textile engineering helped design NASA's space suits",
+          "answer": "Georgia Tech",
+          "isDailyDouble": false,
+          "orderNumber": 3,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Olivia",
+              "score": 700
+            },
+            {
+              "player": "Josh",
+              "score": 2400
+            },
+            {
+              "player": "Amy",
+              "score": 2600
+            }
+          ]
+        },
+        {
+          "category": "COLLEGES & UNIVERSITIES",
+          "value": 800,
+          "clue": "It's the nickname of the University of Colorado's athletic teams",
+          "answer": "the Buffaloes",
+          "isDailyDouble": false,
+          "orderNumber": 4,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Olivia",
+              "score": 700
+            },
+            {
+              "player": "Josh",
+              "score": 3200
+            },
+            {
+              "player": "Amy",
+              "score": 2600
+            }
+          ]
+        },
+        {
+          "category": "COLLEGES & UNIVERSITIES",
+          "value": 1000,
+          "clue": "Its Fayetteville campus is the site of the Fulbright Institute of International Relations",
+          "answer": "the University of Arkansas",
+          "isDailyDouble": false,
+          "orderNumber": 5,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Olivia",
+              "score": -300
+            },
+            {
+              "player": "Josh",
+              "score": 4200
+            },
+            {
+              "player": "Amy",
+              "score": 2600
+            }
+          ]
+        },
+        {
+          "category": "FAMOUS NAMES",
+          "value": 400,
+          "clue": "2 of his compositions were adopted as the state songs of Kentucky & Florida",
+          "answer": "Stephen Foster",
+          "isDailyDouble": false,
+          "orderNumber": 6,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Olivia",
+              "score": -300
+            },
+            {
+              "player": "Josh",
+              "score": 4200
+            },
+            {
+              "player": "Amy",
+              "score": 3000
+            }
+          ]
+        },
+        {
+          "category": "FAMOUS NAMES",
+          "value": 600,
+          "clue": "Diaghilev dismissed this dancer in 1913 after he married another dancer, Romola de Pulszky",
+          "answer": "Nijinsky",
+          "isDailyDouble": false,
+          "orderNumber": 7,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Olivia",
+              "score": -300
+            },
+            {
+              "player": "Josh",
+              "score": 4200
+            },
+            {
+              "player": "Amy",
+              "score": 3600
+            }
+          ]
+        },
+        {
+          "category": "FAMOUS NAMES",
+          "value": 800,
+          "clue": "In 1900 he was appointed head of the U.S. Army Yellow Fever Commission",
+          "answer": "Walter Reed",
+          "isDailyDouble": false,
+          "orderNumber": 8,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Olivia",
+              "score": 500
+            },
+            {
+              "player": "Josh",
+              "score": 3400
+            },
+            {
+              "player": "Amy",
+              "score": 3600
+            }
+          ]
+        },
+        {
+          "category": "FAMOUS NAMES",
+          "value": 1000,
+          "clue": "While publisher of The World, he was indicted for libeling Theodore Roosevelt & J.P. Morgan, among others",
+          "answer": "Joseph Pulitzer",
+          "isDailyDouble": false,
+          "orderNumber": 9,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Amy"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Olivia",
+              "score": 500
+            },
+            {
+              "player": "Josh",
+              "score": 2400
+            },
+            {
+              "player": "Amy",
+              "score": 2600
+            }
+          ]
+        },
+        {
+          "category": "FAMOUS NAMES",
+          "value": 200,
+          "clue": "In 1896 he coined the term psychoanalysis",
+          "answer": "Sigmund Freud",
+          "isDailyDouble": false,
+          "orderNumber": 10,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Olivia",
+              "score": 500
+            },
+            {
+              "player": "Josh",
+              "score": 2400
+            },
+            {
+              "player": "Amy",
+              "score": 2800
+            }
+          ]
+        },
+        {
+          "category": "MOUNTAINS",
+          "value": 200,
+          "clue": "In 1852 a government survey of India established that it was the highest point on Earth",
+          "answer": "Everest",
+          "isDailyDouble": false,
+          "orderNumber": 11,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Olivia",
+              "score": 500
+            },
+            {
+              "player": "Josh",
+              "score": 2600
+            },
+            {
+              "player": "Amy",
+              "score": 2800
+            }
+          ]
+        },
+        {
+          "category": "MOUNTAINS",
+          "value": 400,
+          "clue": "In Alaska, 17,400-foot Mount Foraker is considered the sister peak of this mountain",
+          "answer": "McKinley",
+          "isDailyDouble": false,
+          "orderNumber": 12,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Olivia",
+              "score": 500
+            },
+            {
+              "player": "Josh",
+              "score": 3000
+            },
+            {
+              "player": "Amy",
+              "score": 2800
+            }
+          ]
+        },
+        {
+          "category": "ACTORS PLAYING AUTHORS",
+          "value": 600,
+          "clue": "Sydney Greenstreet appeared as Thackeray in \"Devotion\", a 1946 film about these British literary sisters",
+          "answer": "the Brontes",
+          "isDailyDouble": false,
+          "orderNumber": 13,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Olivia",
+              "score": 500
+            },
+            {
+              "player": "Josh",
+              "score": 3600
+            },
+            {
+              "player": "Amy",
+              "score": 2800
+            }
+          ]
+        },
+        {
+          "category": "ACTORS PLAYING AUTHORS",
+          "value": 400,
+          "clue": "Helen Hayes played this renowned antislavery novelist in a 1943 play",
+          "answer": "Harriet Beecher Stowe",
+          "isDailyDouble": false,
+          "orderNumber": 14,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Olivia",
+              "score": 900
+            },
+            {
+              "player": "Josh",
+              "score": 3600
+            },
+            {
+              "player": "Amy",
+              "score": 2800
+            }
+          ]
+        },
+        {
+          "category": "ACTORS PLAYING AUTHORS",
+          "value": 200,
+          "clue": "This was Frank Langella's stage role in \"A Cry of Players\"; Anne Bancroft played Anne Hathaway",
+          "answer": "Shakespeare",
+          "isDailyDouble": false,
+          "orderNumber": 15,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Olivia",
+              "score": 900
+            },
+            {
+              "player": "Josh",
+              "score": 3800
+            },
+            {
+              "player": "Amy",
+              "score": 2800
+            }
+          ]
+        },
+        {
+          "category": "ACTORS PLAYING AUTHORS",
+          "value": 800,
+          "clue": "Glenda Jackson portrayed this British poet onstage & on film in \"Stevie\"",
+          "answer": "Stevie Smith",
+          "isDailyDouble": false,
+          "orderNumber": 16,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Olivia",
+              "score": 900
+            },
+            {
+              "player": "Josh",
+              "score": 3800
+            },
+            {
+              "player": "Amy",
+              "score": 3600
+            }
+          ]
+        },
+        {
+          "category": "ACTORS PLAYING AUTHORS",
+          "value": 1000,
+          "clue": "John Carradine played this author of \"The Outcasts of Poker Flat\" in a 1944 film about Mark Twain",
+          "answer": "Bret Harte",
+          "isDailyDouble": false,
+          "orderNumber": 17,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Olivia",
+              "score": 900
+            },
+            {
+              "player": "Josh",
+              "score": 4800
+            },
+            {
+              "player": "Amy",
+              "score": 3600
+            }
+          ]
+        },
+        {
+          "category": "THE FRENCH REVOLUTION",
+          "value": 600,
+          "clue": "In August 1789 the new National Assembly gave this king the title \"Restorer of French Liberty\"",
+          "answer": "Louis XVI",
+          "isDailyDouble": false,
+          "orderNumber": 18,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Olivia",
+              "score": 900
+            },
+            {
+              "player": "Josh",
+              "score": 4800
+            },
+            {
+              "player": "Amy",
+              "score": 3600
+            }
+          ]
+        },
+        {
+          "category": "THE FRENCH REVOLUTION",
+          "value": 400,
+          "clue": "On Oct. 5, 1789 the National Guard, led by Lafayette, & thousands of women headed to this palace",
+          "answer": "Versailles",
+          "isDailyDouble": false,
+          "orderNumber": 19,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Olivia",
+              "score": 900
+            },
+            {
+              "player": "Josh",
+              "score": 4800
+            },
+            {
+              "player": "Amy",
+              "score": 4000
+            }
+          ]
+        },
+        {
+          "category": "THE FRENCH REVOLUTION",
+          "value": 800,
+          "clue": "Robespierre found his goose, not his lobster, was cooked on the 10th of this new month",
+          "answer": "Thermidor",
+          "isDailyDouble": false,
+          "orderNumber": 20,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Olivia",
+              "score": 900
+            },
+            {
+              "player": "Josh",
+              "score": 4800
+            },
+            {
+              "player": "Amy",
+              "score": 4000
+            }
+          ]
+        },
+        {
+          "category": "THE FRENCH REVOLUTION",
+          "value": 200,
+          "clue": "After taking arms from the Invalides on July 14, 1789, the mob stormed this prison",
+          "answer": "the Bastille",
+          "isDailyDouble": false,
+          "orderNumber": 21,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Olivia",
+              "score": 900
+            },
+            {
+              "player": "Josh",
+              "score": 5000
+            },
+            {
+              "player": "Amy",
+              "score": 4000
+            }
+          ]
+        },
+        {
+          "category": "THE FRENCH REVOLUTION",
+          "value": 1000,
+          "clue": "In 1790 Paris was divided into 48 sections & the country was divided into 83 of these",
+          "answer": "departments",
+          "isDailyDouble": true,
+          "orderNumber": 22,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Olivia",
+              "score": 900
+            },
+            {
+              "player": "Josh",
+              "score": 6000
+            },
+            {
+              "player": "Amy",
+              "score": 4000
+            }
+          ]
+        },
+        {
+          "category": "BUSINESS & INDUSTRY",
+          "value": 200,
+          "clue": "In the 1980s Johnson & Johnson introduced Acuvue, a disposable type of these",
+          "answer": "contact lenses",
+          "isDailyDouble": false,
+          "orderNumber": 23,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Olivia",
+              "score": 900
+            },
+            {
+              "player": "Josh",
+              "score": 6000
+            },
+            {
+              "player": "Amy",
+              "score": 4200
+            }
+          ]
+        },
+        {
+          "category": "BUSINESS & INDUSTRY",
+          "value": 1000,
+          "clue": "KPMG Peat Marwick is the largest of the \"Big Six\" firms in this business",
+          "answer": "public accounting",
+          "isDailyDouble": false,
+          "orderNumber": 24,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Olivia",
+              "score": 900
+            },
+            {
+              "player": "Josh",
+              "score": 6000
+            },
+            {
+              "player": "Amy",
+              "score": 5200
+            }
+          ]
+        },
+        {
+          "category": "BUSINESS & INDUSTRY",
+          "value": 800,
+          "clue": "In 1974 Knight Newspapers merged with this company",
+          "answer": "Ridder",
+          "isDailyDouble": false,
+          "orderNumber": 25,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Olivia",
+              "score": 900
+            },
+            {
+              "player": "Josh",
+              "score": 6000
+            },
+            {
+              "player": "Amy",
+              "score": 6000
+            }
+          ]
+        },
+        {
+          "category": "MOUNTAINS",
+          "value": 1000,
+          "clue": "This mountain comprises 3 principal extinct volcanoes: Kibo, Mawenzi & Shira",
+          "answer": "Kilimanjaro",
+          "isDailyDouble": true,
+          "orderNumber": 26,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Olivia",
+              "score": 900
+            },
+            {
+              "player": "Josh",
+              "score": 6000
+            },
+            {
+              "player": "Amy",
+              "score": 7000
+            }
+          ]
+        },
+        {
+          "category": "MOUNTAINS",
+          "value": 800,
+          "clue": "These mountains extend from Cape Dra in Morocco to Cape Bon in Tunisia",
+          "answer": "the Atlas Mountains",
+          "isDailyDouble": false,
+          "orderNumber": 27,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Olivia",
+              "score": 1700
+            },
+            {
+              "player": "Josh",
+              "score": 6000
+            },
+            {
+              "player": "Amy",
+              "score": 7000
+            }
+          ]
+        },
+        {
+          "category": "MOUNTAINS",
+          "value": 600,
+          "clue": "Snowdon in Gwynedd County is the highest mountain in this part of the U.K.",
+          "answer": "Wales",
+          "isDailyDouble": false,
+          "orderNumber": 28,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Olivia",
+              "score": 1700
+            },
+            {
+              "player": "Josh",
+              "score": 6600
+            },
+            {
+              "player": "Amy",
+              "score": 7000
+            }
+          ]
+        },
+        {
+          "category": "BUSINESS & INDUSTRY",
+          "value": 600,
+          "clue": "K Mart Corporation is based in Troy in this state",
+          "answer": "Michigan",
+          "isDailyDouble": false,
+          "orderNumber": 29,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Olivia",
+              "score": 2300
+            },
+            {
+              "player": "Josh",
+              "score": 6600
+            },
+            {
+              "player": "Amy",
+              "score": 7000
+            }
+          ]
+        },
+        {
+          "category": "BUSINESS & INDUSTRY",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Olivia",
+              "score": 2300
+            },
+            {
+              "player": "Josh",
+              "score": 6600
+            },
+            {
+              "player": "Amy",
+              "score": 7000
+            }
+          ]
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "Olivia",
+          "score": 2300
+        },
+        {
+          "player": "Josh",
+          "score": 6600
+        },
+        {
+          "player": "Amy",
+          "score": 7000
+        }
+      ]
+    },
+    "finalJeopardy": {
+      "category": "THE WINTER OLYMPICS",
+      "clue": "In some events of this competition, each miss requires a 150-meter penalty lap",
+      "answer": "the biathlon",
+      "responses": [
+        {
+          "contestant": "Olivia",
+          "response": "What is the biathalon?",
+          "isCorrect": true,
+          "isIncorrect": false,
+          "value": 0,
+          "finalScore": 2300
+        },
+        {
+          "contestant": "Josh",
+          "response": "What is speed ska",
+          "isCorrect": false,
+          "isIncorrect": true,
+          "value": 6600,
+          "finalScore": 0
+        },
+        {
+          "contestant": "Amy",
+          "response": "What is biathlon?",
+          "isCorrect": true,
+          "isIncorrect": false,
+          "value": 6201,
+          "finalScore": 13201
+        }
+      ]
+    }
+  },
+  "finalScores": [
+    {
+      "player": "Olivia",
+      "score": "$2,300"
+    },
+    {
+      "player": "Josh",
+      "score": "$0"
+    },
+    {
+      "player": "Amy",
+      "score": "$13,201"
+    }
+  ],
+  "coryatScores": [
+    {
+      "player": "Olivia",
+      "score": 2300
+    },
+    {
+      "player": "Josh",
+      "score": 6600
+    },
+    {
+      "player": "Amy",
+      "score": 7000
+    }
+  ]
+}

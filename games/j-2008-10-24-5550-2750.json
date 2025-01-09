@@ -1,0 +1,1706 @@
+{
+  "gameId": 2750,
+  "showNumber": "5550",
+  "title": "Show #5550 - Friday, October 24, 2008",
+  "date": "2008-10-24",
+  "comments": "",
+  "contestants": [
+    "Tom",
+    "Mathew",
+    "Mandy"
+  ],
+  "rounds": {
+    "jeopardy": {
+      "categories": [
+        "THE UNITED NATIONS",
+        "GO, KELLY!",
+        "THE PILGRIMS",
+        "FILL IN THE BOOK TITLE",
+        "SHAPE UP",
+        "WHAT THE \"H\"?"
+      ],
+      "clues": [
+        {
+          "category": "WHAT THE \"H\"?",
+          "value": 200,
+          "clue": "It's someone held prisoner until certain demands are met",
+          "answer": "a hostage",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [
+            "Mandy"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 0
+            },
+            {
+              "player": "Mathew",
+              "score": 0
+            },
+            {
+              "player": "Mandy",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "WHAT THE \"H\"?",
+          "value": 400,
+          "clue": "(Kelly of the Clue Crew shows a brainy animation on the monitor.)  When cerebral arteries become dilated, it can often lead to this vascular pain also known as cephalalgia",
+          "answer": "a headache",
+          "isDailyDouble": false,
+          "orderNumber": 2,
+          "correctContestants": [
+            "Tom"
+          ],
+          "incorrectContestants": [
+            "Mandy"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 400
+            },
+            {
+              "player": "Mathew",
+              "score": 0
+            },
+            {
+              "player": "Mandy",
+              "score": -200
+            }
+          ]
+        },
+        {
+          "category": "WHAT THE \"H\"?",
+          "value": 600,
+          "clue": "Hopefully this cozy Kansas state song from around 1873 is about a dwelling on open land, not on a stove",
+          "answer": "\"Home On The Range\"",
+          "isDailyDouble": false,
+          "orderNumber": 3,
+          "correctContestants": [
+            "Tom"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 1000
+            },
+            {
+              "player": "Mathew",
+              "score": 0
+            },
+            {
+              "player": "Mandy",
+              "score": -200
+            }
+          ]
+        },
+        {
+          "category": "WHAT THE \"H\"?",
+          "value": 800,
+          "clue": "This old-fashioned word means \"until the present time\"",
+          "answer": "hitherto (heretofore accepted)",
+          "isDailyDouble": false,
+          "orderNumber": 4,
+          "correctContestants": [
+            "Mathew"
+          ],
+          "incorrectContestants": [
+            "Tom",
+            "Mandy"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 200
+            },
+            {
+              "player": "Mathew",
+              "score": 800
+            },
+            {
+              "player": "Mandy",
+              "score": -1000
+            }
+          ]
+        },
+        {
+          "category": "THE UNITED NATIONS",
+          "value": 200,
+          "clue": "(Richard Roth reads from the U.N.)  You'll fit right in here at the U.N. if you know either of these 2 languages, the predominant ones used for daily communication & signage",
+          "answer": "English & French",
+          "isDailyDouble": false,
+          "orderNumber": 5,
+          "correctContestants": [
+            "Mathew"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 200
+            },
+            {
+              "player": "Mathew",
+              "score": 1000
+            },
+            {
+              "player": "Mandy",
+              "score": -1000
+            }
+          ]
+        },
+        {
+          "category": "THE UNITED NATIONS",
+          "value": 400,
+          "clue": "(Richard Roth reads from the U.N. floor.)  In February 2003 I reported on this Secretary of State's visit to the U.N. to present evidence of Iraq's failure to disarm",
+          "answer": "Colin Powell",
+          "isDailyDouble": false,
+          "orderNumber": 6,
+          "correctContestants": [
+            "Mathew"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 200
+            },
+            {
+              "player": "Mathew",
+              "score": 1400
+            },
+            {
+              "player": "Mandy",
+              "score": -1000
+            }
+          ]
+        },
+        {
+          "category": "THE UNITED NATIONS",
+          "value": 600,
+          "clue": "(Richard Roth reads from outside the U.N.)  A gift to the U.N. from the USSR, the \"Let Us Beat Swords into Plowshares\" statue gets its title from this prophet",
+          "answer": "Isaiah",
+          "isDailyDouble": false,
+          "orderNumber": 7,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 200
+            },
+            {
+              "player": "Mathew",
+              "score": 1400
+            },
+            {
+              "player": "Mandy",
+              "score": -1000
+            }
+          ]
+        },
+        {
+          "category": "THE UNITED NATIONS",
+          "value": 1000,
+          "clue": "(Richard Roth reads from outside the U.N.)  In 2008 one of the U.N.'s urgent concerns was getting relief supplies to the Irrawaddy Delta in this country",
+          "answer": "Burma (or Myanmar)",
+          "isDailyDouble": true,
+          "orderNumber": 8,
+          "correctContestants": [
+            "Mathew"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 200
+            },
+            {
+              "player": "Mathew",
+              "score": 2400
+            },
+            {
+              "player": "Mandy",
+              "score": -1000
+            }
+          ]
+        },
+        {
+          "category": "THE UNITED NATIONS",
+          "value": 1000,
+          "clue": "(Richard Roth reads from the U.N. floor.)  Appointed by George W. Bush during a congressional recess, this U.S. ambassador to the U.N. stirred up for controversy when he served here in 2005 & 2006",
+          "answer": "(John) Bolton",
+          "isDailyDouble": false,
+          "orderNumber": 9,
+          "correctContestants": [
+            "Tom"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 1200
+            },
+            {
+              "player": "Mathew",
+              "score": 2400
+            },
+            {
+              "player": "Mandy",
+              "score": -1000
+            }
+          ]
+        },
+        {
+          "category": "WHAT THE \"H\"?",
+          "value": 1000,
+          "clue": "Yes, Mr. Sulu, it's the person who steers the ship",
+          "answer": "the helmsman",
+          "isDailyDouble": false,
+          "orderNumber": 10,
+          "correctContestants": [
+            "Mathew"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 1200
+            },
+            {
+              "player": "Mathew",
+              "score": 3400
+            },
+            {
+              "player": "Mandy",
+              "score": -1000
+            }
+          ]
+        },
+        {
+          "category": "THE PILGRIMS",
+          "value": 200,
+          "clue": "Prior to settling in America, the Pilgrims sought religious freedom in Leiden, in this country, in 1609",
+          "answer": "Holland (or the Netherlands)",
+          "isDailyDouble": false,
+          "orderNumber": 11,
+          "correctContestants": [
+            "Mandy"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 1200
+            },
+            {
+              "player": "Mathew",
+              "score": 3400
+            },
+            {
+              "player": "Mandy",
+              "score": -800
+            }
+          ]
+        },
+        {
+          "category": "FILL IN THE BOOK TITLE",
+          "value": 200,
+          "clue": "\"B.N.W.\"by Aldous Huxley",
+          "answer": "Brave New World",
+          "isDailyDouble": false,
+          "orderNumber": 12,
+          "correctContestants": [
+            "Mathew"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 1200
+            },
+            {
+              "player": "Mathew",
+              "score": 3600
+            },
+            {
+              "player": "Mandy",
+              "score": -800
+            }
+          ]
+        },
+        {
+          "category": "FILL IN THE BOOK TITLE",
+          "value": 400,
+          "clue": "\"T.W.A.T.G.\"by John Irving",
+          "answer": "The World According to Garp",
+          "isDailyDouble": false,
+          "orderNumber": 13,
+          "correctContestants": [
+            "Tom"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 1600
+            },
+            {
+              "player": "Mathew",
+              "score": 3600
+            },
+            {
+              "player": "Mandy",
+              "score": -800
+            }
+          ]
+        },
+        {
+          "category": "FILL IN THE BOOK TITLE",
+          "value": 600,
+          "clue": "\"S.O.S.\"by Toni Morrison",
+          "answer": "Song of Solomon",
+          "isDailyDouble": false,
+          "orderNumber": 14,
+          "correctContestants": [
+            "Mandy"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 1600
+            },
+            {
+              "player": "Mathew",
+              "score": 3600
+            },
+            {
+              "player": "Mandy",
+              "score": -200
+            }
+          ]
+        },
+        {
+          "category": "FILL IN THE BOOK TITLE",
+          "value": 800,
+          "clue": "\"S.A.L.\"by D.H. Lawrence",
+          "answer": "Sons and Lovers",
+          "isDailyDouble": false,
+          "orderNumber": 15,
+          "correctContestants": [
+            "Tom"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 2400
+            },
+            {
+              "player": "Mathew",
+              "score": 3600
+            },
+            {
+              "player": "Mandy",
+              "score": -200
+            }
+          ]
+        },
+        {
+          "category": "FILL IN THE BOOK TITLE",
+          "value": 1000,
+          "clue": "\"W., O.\"by Sherwood Anderson",
+          "answer": "Winesburg, Ohio",
+          "isDailyDouble": false,
+          "orderNumber": 16,
+          "correctContestants": [
+            "Tom"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 3400
+            },
+            {
+              "player": "Mathew",
+              "score": 3600
+            },
+            {
+              "player": "Mandy",
+              "score": -200
+            }
+          ]
+        },
+        {
+          "category": "GO, KELLY!",
+          "value": 200,
+          "clue": "She beat out Justin Guarini to become the first \"American Idol\"",
+          "answer": "Kelly Clarkson",
+          "isDailyDouble": false,
+          "orderNumber": 17,
+          "correctContestants": [
+            "Tom"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 3600
+            },
+            {
+              "player": "Mathew",
+              "score": 3600
+            },
+            {
+              "player": "Mandy",
+              "score": -200
+            }
+          ]
+        },
+        {
+          "category": "GO, KELLY!",
+          "value": 400,
+          "clue": "He was the me in 1942's \"For Me and My Gal\" with Judy Garland",
+          "answer": "Gene Kelly",
+          "isDailyDouble": false,
+          "orderNumber": 18,
+          "correctContestants": [
+            "Tom"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 4000
+            },
+            {
+              "player": "Mathew",
+              "score": 3600
+            },
+            {
+              "player": "Mandy",
+              "score": -200
+            }
+          ]
+        },
+        {
+          "category": "GO, KELLY!",
+          "value": 600,
+          "clue": "Oscar winner for 1954's \"The Country Girl\"",
+          "answer": "Grace Kelly",
+          "isDailyDouble": false,
+          "orderNumber": 19,
+          "correctContestants": [
+            "Tom"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 4600
+            },
+            {
+              "player": "Mathew",
+              "score": 3600
+            },
+            {
+              "player": "Mandy",
+              "score": -200
+            }
+          ]
+        },
+        {
+          "category": "GO, KELLY!",
+          "value": 800,
+          "clue": "He was a losing Super Bowl quarterback 4 times",
+          "answer": "Jim Kelly",
+          "isDailyDouble": false,
+          "orderNumber": 20,
+          "correctContestants": [
+            "Tom"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 5400
+            },
+            {
+              "player": "Mathew",
+              "score": 3600
+            },
+            {
+              "player": "Mandy",
+              "score": -200
+            }
+          ]
+        },
+        {
+          "category": "GO, KELLY!",
+          "value": 1000,
+          "clue": "\"Clown\" is the 1954 autobiography of this creator of the mournful clown character Weary Willie",
+          "answer": "Emmett Kelly",
+          "isDailyDouble": false,
+          "orderNumber": 21,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 5400
+            },
+            {
+              "player": "Mathew",
+              "score": 3600
+            },
+            {
+              "player": "Mandy",
+              "score": -200
+            }
+          ]
+        },
+        {
+          "category": "THE PILGRIMS",
+          "value": 400,
+          "clue": "This last surviving signer of the Mayflower Compact died in 1687; wife Priscilla is believed to have preceded him",
+          "answer": "John Alden",
+          "isDailyDouble": false,
+          "orderNumber": 22,
+          "correctContestants": [
+            "Mandy"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 5400
+            },
+            {
+              "player": "Mathew",
+              "score": 3600
+            },
+            {
+              "player": "Mandy",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "SHAPE UP",
+          "value": 200,
+          "clue": "When referring to the shape of the nose, aquiline means hooked like this bird's beak",
+          "answer": "an eagle",
+          "isDailyDouble": false,
+          "orderNumber": 23,
+          "correctContestants": [
+            "Mandy"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 5400
+            },
+            {
+              "player": "Mathew",
+              "score": 3600
+            },
+            {
+              "player": "Mandy",
+              "score": 400
+            }
+          ]
+        },
+        {
+          "category": "SHAPE UP",
+          "value": 400,
+          "clue": "The popular gem shape seen here is named for this fruit",
+          "answer": "a pear",
+          "isDailyDouble": false,
+          "orderNumber": 24,
+          "correctContestants": [
+            "Mandy"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 5400
+            },
+            {
+              "player": "Mathew",
+              "score": 3600
+            },
+            {
+              "player": "Mandy",
+              "score": 800
+            }
+          ]
+        },
+        {
+          "category": "SHAPE UP",
+          "value": 600,
+          "clue": "The appendix is often described by this adjective meaning \"worm-shaped\"",
+          "answer": "vermiform",
+          "isDailyDouble": false,
+          "orderNumber": 25,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 5400
+            },
+            {
+              "player": "Mathew",
+              "score": 3600
+            },
+            {
+              "player": "Mandy",
+              "score": 800
+            }
+          ]
+        },
+        {
+          "category": "SHAPE UP",
+          "value": 800,
+          "clue": "This 9-letter word for \"cross-shaped\" comes from the Latin word for \"cross\"",
+          "answer": "cruciform",
+          "isDailyDouble": false,
+          "orderNumber": 26,
+          "correctContestants": [
+            "Mathew"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 5400
+            },
+            {
+              "player": "Mathew",
+              "score": 4400
+            },
+            {
+              "player": "Mandy",
+              "score": 800
+            }
+          ]
+        },
+        {
+          "category": "SHAPE UP",
+          "value": 1000,
+          "clue": "These smallest formed elements in the blood are named for their disklike shape",
+          "answer": "platelets",
+          "isDailyDouble": false,
+          "orderNumber": 27,
+          "correctContestants": [
+            "Tom"
+          ],
+          "incorrectContestants": [
+            "Mandy"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 6400
+            },
+            {
+              "player": "Mathew",
+              "score": 4400
+            },
+            {
+              "player": "Mandy",
+              "score": -200
+            }
+          ]
+        },
+        {
+          "category": "THE PILGRIMS",
+          "value": 600,
+          "clue": "This Pawtuxet Indian who taught the Pilgrims how to plant crops is said to have lived in England from 1605 to 1614",
+          "answer": "Squanto",
+          "isDailyDouble": false,
+          "orderNumber": 28,
+          "correctContestants": [
+            "Mandy"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 6400
+            },
+            {
+              "player": "Mathew",
+              "score": 4400
+            },
+            {
+              "player": "Mandy",
+              "score": 400
+            }
+          ]
+        },
+        {
+          "category": "THE PILGRIMS",
+          "value": 800,
+          "clue": "The Mayflower Compact referred to the Pilgrims as \"loyal subjects of\" this \"dread sovereign\"",
+          "answer": "James I of England",
+          "isDailyDouble": false,
+          "orderNumber": 29,
+          "correctContestants": [
+            "Tom"
+          ],
+          "incorrectContestants": [
+            "Mathew"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 7200
+            },
+            {
+              "player": "Mathew",
+              "score": 3600
+            },
+            {
+              "player": "Mandy",
+              "score": 400
+            }
+          ]
+        },
+        {
+          "category": "THE PILGRIMS",
+          "value": 1000,
+          "clue": "A war with the Indians that broke out in 1675 was named for the Wampanoag leader called King this",
+          "answer": "Philip",
+          "isDailyDouble": false,
+          "orderNumber": 30,
+          "correctContestants": [
+            "Mandy"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 7200
+            },
+            {
+              "player": "Mathew",
+              "score": 3600
+            },
+            {
+              "player": "Mandy",
+              "score": 1400
+            }
+          ]
+        }
+      ],
+      "firstBreakScores": [
+        {
+          "player": "Tom",
+          "score": 1600
+        },
+        {
+          "player": "Mathew",
+          "score": 3600
+        },
+        {
+          "player": "Mandy",
+          "score": -800
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "Tom",
+          "score": 7200
+        },
+        {
+          "player": "Mathew",
+          "score": 3600
+        },
+        {
+          "player": "Mandy",
+          "score": 1400
+        }
+      ]
+    },
+    "doubleJeopardy": {
+      "categories": [
+        "PROJECT RUNWAY",
+        "MAKE IT WORK!",
+        "HOW IS GEORGIA TODAY?",
+        "I'M CONCERNED...",
+        "ONE DAY YOU'RE \"IN\", THE NEXT YOU'RE \"OUT\"",
+        "AUF WIEDERSEHEN"
+      ],
+      "clues": [
+        {
+          "category": "ONE DAY YOU'RE \"IN\", THE NEXT YOU'RE \"OUT\"",
+          "value": 400,
+          "clue": "A boat made by hollowing out a log",
+          "answer": "a dugout",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 7600
+            },
+            {
+              "player": "Mathew",
+              "score": 3600
+            },
+            {
+              "player": "Mandy",
+              "score": 1400
+            }
+          ]
+        },
+        {
+          "category": "PROJECT RUNWAY",
+          "value": 400,
+          "clue": "In the 1920s, her \"poor girl\" look of simple & comfortable clothes attracted wealthy women tired of corsets",
+          "answer": "(Coco) Chanel",
+          "isDailyDouble": false,
+          "orderNumber": 2,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 7600
+            },
+            {
+              "player": "Mathew",
+              "score": 3600
+            },
+            {
+              "player": "Mandy",
+              "score": 1800
+            }
+          ]
+        },
+        {
+          "category": "ONE DAY YOU'RE \"IN\", THE NEXT YOU'RE \"OUT\"",
+          "value": 800,
+          "clue": "Sushi's on me; it's the colorful name of the food fish Thunnus albacares",
+          "answer": "yellowfin",
+          "isDailyDouble": false,
+          "orderNumber": 3,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 7600
+            },
+            {
+              "player": "Mathew",
+              "score": 2800
+            },
+            {
+              "player": "Mandy",
+              "score": 2600
+            }
+          ]
+        },
+        {
+          "category": "ONE DAY YOU'RE \"IN\", THE NEXT YOU'RE \"OUT\"",
+          "value": 1200,
+          "clue": "This term for a circus or carnival worker is also the title of an Elvis Presley film",
+          "answer": "roustabout",
+          "isDailyDouble": false,
+          "orderNumber": 4,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 7600
+            },
+            {
+              "player": "Mathew",
+              "score": 2800
+            },
+            {
+              "player": "Mandy",
+              "score": 3800
+            }
+          ]
+        },
+        {
+          "category": "ONE DAY YOU'RE \"IN\", THE NEXT YOU'RE \"OUT\"",
+          "value": 1600,
+          "clue": "Recently legalized, this green aromatic liqueur can be around 70% alcohol",
+          "answer": "absinthe",
+          "isDailyDouble": false,
+          "orderNumber": 5,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 7600
+            },
+            {
+              "player": "Mathew",
+              "score": 2800
+            },
+            {
+              "player": "Mandy",
+              "score": 5400
+            }
+          ]
+        },
+        {
+          "category": "ONE DAY YOU'RE \"IN\", THE NEXT YOU'RE \"OUT\"",
+          "value": 2000,
+          "clue": "A long home run, or pull with a politico",
+          "answer": "clout",
+          "isDailyDouble": false,
+          "orderNumber": 6,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 7600
+            },
+            {
+              "player": "Mathew",
+              "score": 2800
+            },
+            {
+              "player": "Mandy",
+              "score": 3400
+            }
+          ]
+        },
+        {
+          "category": "AUF WIEDERSEHEN",
+          "value": 400,
+          "clue": "On Aug. 25, 1900 God could have said this philosopher \"is dead\"",
+          "answer": "Nietzsche",
+          "isDailyDouble": false,
+          "orderNumber": 7,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 8000
+            },
+            {
+              "player": "Mathew",
+              "score": 2800
+            },
+            {
+              "player": "Mandy",
+              "score": 3400
+            }
+          ]
+        },
+        {
+          "category": "AUF WIEDERSEHEN",
+          "value": 800,
+          "clue": "This physicist's temperature read extremely cold on any scale on Sept. 16, 1736",
+          "answer": "Fahrenheit",
+          "isDailyDouble": false,
+          "orderNumber": 8,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 8000
+            },
+            {
+              "player": "Mathew",
+              "score": 3600
+            },
+            {
+              "player": "Mandy",
+              "score": 2600
+            }
+          ]
+        },
+        {
+          "category": "HOW IS GEORGIA TODAY?",
+          "value": 400,
+          "clue": "Gori, occupied by Russian troops in 2008, was the birthplace of this Soviet dictator in 1879",
+          "answer": "Stalin",
+          "isDailyDouble": false,
+          "orderNumber": 9,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 8000
+            },
+            {
+              "player": "Mathew",
+              "score": 4000
+            },
+            {
+              "player": "Mandy",
+              "score": 2600
+            }
+          ]
+        },
+        {
+          "category": "HOW IS GEORGIA TODAY?",
+          "value": 800,
+          "clue": "Tblisi, the capital, was linked by rail to the Black Sea in 1872 & to this sea in 1883",
+          "answer": "the Caspian",
+          "isDailyDouble": false,
+          "orderNumber": 10,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 8000
+            },
+            {
+              "player": "Mathew",
+              "score": 4800
+            },
+            {
+              "player": "Mandy",
+              "score": 2600
+            }
+          ]
+        },
+        {
+          "category": "HOW IS GEORGIA TODAY?",
+          "value": 1200,
+          "clue": "In the summer of 2008, Georgia tried to discipline this breakaway region & Russia responded with great force",
+          "answer": "South Ossetia",
+          "isDailyDouble": false,
+          "orderNumber": 11,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 8000
+            },
+            {
+              "player": "Mathew",
+              "score": 6000
+            },
+            {
+              "player": "Mandy",
+              "score": 2600
+            }
+          ]
+        },
+        {
+          "category": "HOW IS GEORGIA TODAY?",
+          "value": 1600,
+          "clue": "Georgia's main mountain system is this one, where Europe & Asia converge",
+          "answer": "the Caucasus",
+          "isDailyDouble": false,
+          "orderNumber": 12,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 8000
+            },
+            {
+              "player": "Mathew",
+              "score": 7600
+            },
+            {
+              "player": "Mandy",
+              "score": 2600
+            }
+          ]
+        },
+        {
+          "category": "HOW IS GEORGIA TODAY?",
+          "value": 2000,
+          "clue": "Only 40 during the 2008 crisis, this Georgian president worked for a NYC law firm in the '90s",
+          "answer": "Saakashvili",
+          "isDailyDouble": false,
+          "orderNumber": 13,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 8000
+            },
+            {
+              "player": "Mathew",
+              "score": 9600
+            },
+            {
+              "player": "Mandy",
+              "score": 2600
+            }
+          ]
+        },
+        {
+          "category": "AUF WIEDERSEHEN",
+          "value": 1200,
+          "clue": "This German novelist's death was not in Venice but in Switzerland on Aug. 12, 1955",
+          "answer": "Thomas Mann",
+          "isDailyDouble": false,
+          "orderNumber": 14,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 8000
+            },
+            {
+              "player": "Mathew",
+              "score": 9600
+            },
+            {
+              "player": "Mandy",
+              "score": 3800
+            }
+          ]
+        },
+        {
+          "category": "AUF WIEDERSEHEN",
+          "value": 3000,
+          "clue": "The planets may have been in motion, but after Nov. 15, 1630, this German astronomer wasn't",
+          "answer": "(Johannes) Kepler",
+          "isDailyDouble": true,
+          "orderNumber": 15,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 8000
+            },
+            {
+              "player": "Mathew",
+              "score": 9600
+            },
+            {
+              "player": "Mandy",
+              "score": 6800
+            }
+          ]
+        },
+        {
+          "category": "AUF WIEDERSEHEN",
+          "value": 2000,
+          "clue": "After June 25, 1822 this writer had no more \"Tales\" to tell & no more E.T.A.s",
+          "answer": "Hoffmann",
+          "isDailyDouble": false,
+          "orderNumber": 16,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 8000
+            },
+            {
+              "player": "Mathew",
+              "score": 9600
+            },
+            {
+              "player": "Mandy",
+              "score": 8800
+            }
+          ]
+        },
+        {
+          "category": "PROJECT RUNWAY",
+          "value": 800,
+          "clue": "This designer, hailed as the man who brought pants to women, died in 2008",
+          "answer": "Yves Saint Laurent",
+          "isDailyDouble": false,
+          "orderNumber": 17,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Mandy"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 7200
+            },
+            {
+              "player": "Mathew",
+              "score": 9600
+            },
+            {
+              "player": "Mandy",
+              "score": 8000
+            }
+          ]
+        },
+        {
+          "category": "PROJECT RUNWAY",
+          "value": 1200,
+          "clue": "This Italian duo, partners in life & business, use the initials D&G from their last names as the company logo",
+          "answer": "Dolce & Gabbana",
+          "isDailyDouble": false,
+          "orderNumber": 18,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 8400
+            },
+            {
+              "player": "Mathew",
+              "score": 9600
+            },
+            {
+              "player": "Mandy",
+              "score": 8000
+            }
+          ]
+        },
+        {
+          "category": "MAKE IT WORK!",
+          "value": 400,
+          "clue": "Meryl Streep wonders, \"Is there some reason my coffee isn't here?  Has she died or something?\" in this workplace film",
+          "answer": "The Devil Wears Prada",
+          "isDailyDouble": false,
+          "orderNumber": 19,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 8800
+            },
+            {
+              "player": "Mathew",
+              "score": 9600
+            },
+            {
+              "player": "Mandy",
+              "score": 8000
+            }
+          ]
+        },
+        {
+          "category": "MAKE IT WORK!",
+          "value": 800,
+          "clue": "Charlie Sheen hears \"Greed... is good\" in this film, which came out just after the 1987 stock market crash",
+          "answer": "Wall Street",
+          "isDailyDouble": false,
+          "orderNumber": 20,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 8800
+            },
+            {
+              "player": "Mathew",
+              "score": 9600
+            },
+            {
+              "player": "Mandy",
+              "score": 8800
+            }
+          ]
+        },
+        {
+          "category": "MAKE IT WORK!",
+          "value": 1200,
+          "clue": "Will Ferrell tells San Diego to stay classy (among other things) working in this title job",
+          "answer": "Anchorman",
+          "isDailyDouble": false,
+          "orderNumber": 21,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 10000
+            },
+            {
+              "player": "Mathew",
+              "score": 9600
+            },
+            {
+              "player": "Mandy",
+              "score": 8800
+            }
+          ]
+        },
+        {
+          "category": "MAKE IT WORK!",
+          "value": 2000,
+          "clue": "It seems the ratio of Stanley nickels to Schrute bucks is the same as unicorns to leprechauns on this sitcom",
+          "answer": "The Office",
+          "isDailyDouble": false,
+          "orderNumber": 22,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 10000
+            },
+            {
+              "player": "Mathew",
+              "score": 11600
+            },
+            {
+              "player": "Mandy",
+              "score": 8800
+            }
+          ]
+        },
+        {
+          "category": "MAKE IT WORK!",
+          "value": 1600,
+          "clue": "Lily, Jane & Dolly think they've killed their boss at Consolidated Companies in this film",
+          "answer": "9 to 5",
+          "isDailyDouble": false,
+          "orderNumber": 23,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 10000
+            },
+            {
+              "player": "Mathew",
+              "score": 11600
+            },
+            {
+              "player": "Mandy",
+              "score": 10400
+            }
+          ]
+        },
+        {
+          "category": "PROJECT RUNWAY",
+          "value": 1600,
+          "clue": "His first women's collection was launched at Bergdorf's before he was a judge on \"Project Runway\"",
+          "answer": "Michael Kors",
+          "isDailyDouble": false,
+          "orderNumber": 24,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 11600
+            },
+            {
+              "player": "Mathew",
+              "score": 11600
+            },
+            {
+              "player": "Mandy",
+              "score": 10400
+            }
+          ]
+        },
+        {
+          "category": "PROJECT RUNWAY",
+          "value": 2000,
+          "clue": "Her house model was Edie Sedgwick & she started her foray into retail with a store called Betsey Bunki Nini",
+          "answer": "Betsey Johnson",
+          "isDailyDouble": false,
+          "orderNumber": 25,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 13600
+            },
+            {
+              "player": "Mathew",
+              "score": 11600
+            },
+            {
+              "player": "Mandy",
+              "score": 10400
+            }
+          ]
+        },
+        {
+          "category": "I'M CONCERNED...",
+          "value": 2000,
+          "clue": "Founded in 1912, this group concerned with Jewish unity is the Women's Zionist Organization of America",
+          "answer": "Hadassah",
+          "isDailyDouble": false,
+          "orderNumber": 26,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 11600
+            },
+            {
+              "player": "Mathew",
+              "score": 13600
+            },
+            {
+              "player": "Mandy",
+              "score": 10400
+            }
+          ]
+        },
+        {
+          "category": "I'M CONCERNED...",
+          "value": 400,
+          "clue": "This international organization concerned with helping victims of war was founded in Geneva in 1863",
+          "answer": "the Red Cross",
+          "isDailyDouble": false,
+          "orderNumber": 27,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 11600
+            },
+            {
+              "player": "Mathew",
+              "score": 13600
+            },
+            {
+              "player": "Mandy",
+              "score": 10800
+            }
+          ]
+        },
+        {
+          "category": "I'M CONCERNED...",
+          "value": 3000,
+          "clue": "This acronym of a humanitarian organization that fights poverty is a synonym for \"concern\"",
+          "answer": "CARE",
+          "isDailyDouble": true,
+          "orderNumber": 28,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 11600
+            },
+            {
+              "player": "Mathew",
+              "score": 13600
+            },
+            {
+              "player": "Mandy",
+              "score": 13800
+            }
+          ]
+        },
+        {
+          "category": "I'M CONCERNED...",
+          "value": 1200,
+          "clue": "\"Oxfam\" is short for the Oxford Committee for this Relief",
+          "answer": "Famine",
+          "isDailyDouble": false,
+          "orderNumber": 29,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Mandy"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 10400
+            },
+            {
+              "player": "Mathew",
+              "score": 14800
+            },
+            {
+              "player": "Mandy",
+              "score": 12600
+            }
+          ]
+        },
+        {
+          "category": "I'M CONCERNED...",
+          "value": 1600,
+          "clue": "This group, BBBS, concerns itself with helping children reach their potential by matching them with mentors",
+          "answer": "Big Brothers Big Sisters (of America)",
+          "isDailyDouble": false,
+          "orderNumber": 30,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 12000
+            },
+            {
+              "player": "Mathew",
+              "score": 14800
+            },
+            {
+              "player": "Mandy",
+              "score": 12600
+            }
+          ]
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "Tom",
+          "score": 12000
+        },
+        {
+          "player": "Mathew",
+          "score": 14800
+        },
+        {
+          "player": "Mandy",
+          "score": 12600
+        }
+      ]
+    },
+    "finalJeopardy": {
+      "category": "PEOPLE ON CURRENCY",
+      "clue": "Though born 4,000 miles from Havana, he adorns the Cuban 3-peso note",
+      "answer": "Che Guevara",
+      "responses": [
+        {
+          "contestant": "Tom",
+          "response": "Who is Che Guevara?",
+          "isCorrect": true,
+          "isIncorrect": false,
+          "value": 7600,
+          "finalScore": 19600
+        },
+        {
+          "contestant": "Mandy",
+          "response": "Who is Che? Che Lenin",
+          "isCorrect": true,
+          "isIncorrect": false,
+          "value": 12000,
+          "finalScore": 24600
+        },
+        {
+          "contestant": "Mathew",
+          "response": "Who is Ché Guevara?",
+          "isCorrect": true,
+          "isIncorrect": false,
+          "value": 10401,
+          "finalScore": 25201
+        }
+      ]
+    }
+  },
+  "finalScores": [
+    {
+      "player": "Tom",
+      "score": "$19,600"
+    },
+    {
+      "player": "Mathew",
+      "score": "$25,201"
+    },
+    {
+      "player": "Mandy",
+      "score": "$24,600"
+    }
+  ],
+  "coryatScores": [
+    {
+      "player": "Tom",
+      "score": 12000
+    },
+    {
+      "player": "Mathew",
+      "score": 14600
+    },
+    {
+      "player": "Mandy",
+      "score": 9000
+    }
+  ]
+}

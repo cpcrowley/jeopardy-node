@@ -1,0 +1,1680 @@
+{
+  "gameId": 7979,
+  "showNumber": "19",
+  "title": "Jeopardy! Masters game #19 - Wednesday, May 24, 2023",
+  "date": "2023-05-24",
+  "comments": "2023 Jeopardy! Masters final game 1.",
+  "contestants": [
+    "James",
+    "Matt",
+    "Mattea"
+  ],
+  "rounds": {
+    "jeopardy": {
+      "categories": [
+        "SO YOU THINK YOU'RE PRETTY GOOD AT THIS",
+        "IN THE WORLD CAPITAL",
+        "RECENT EVENTS",
+        "COMPOSERS",
+        "SOME HARD WORDS",
+        "COPS & ROBBERS TV"
+      ],
+      "clues": [
+        {
+          "category": "IN THE WORLD CAPITAL",
+          "value": 1000,
+          "clue": "The Zytglogge tower & astronomical clock, which inspired Einstein & his special theory of relativity",
+          "answer": "Bern",
+          "isDailyDouble": true,
+          "orderNumber": 1,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "James"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "James",
+              "score": -1000
+            },
+            {
+              "player": "Matt",
+              "score": 0
+            },
+            {
+              "player": "Mattea",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "IN THE WORLD CAPITAL",
+          "value": 800,
+          "clue": "The Bob Marley Home & Museum",
+          "answer": "Kingston",
+          "isDailyDouble": false,
+          "orderNumber": 2,
+          "correctContestants": [
+            "Mattea"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "James",
+              "score": -1000
+            },
+            {
+              "player": "Matt",
+              "score": 0
+            },
+            {
+              "player": "Mattea",
+              "score": 800
+            }
+          ]
+        },
+        {
+          "category": "IN THE WORLD CAPITAL",
+          "value": 600,
+          "clue": "The Hanging Church & nearby Coptic Museum",
+          "answer": "Cairo",
+          "isDailyDouble": false,
+          "orderNumber": 3,
+          "correctContestants": [
+            "James"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "James",
+              "score": -400
+            },
+            {
+              "player": "Matt",
+              "score": 0
+            },
+            {
+              "player": "Mattea",
+              "score": 800
+            }
+          ]
+        },
+        {
+          "category": "IN THE WORLD CAPITAL",
+          "value": 400,
+          "clue": "Seen here, the city's most visited attraction, Schönbrunn Palace",
+          "answer": "Vienna",
+          "isDailyDouble": false,
+          "orderNumber": 4,
+          "correctContestants": [
+            "James"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "James",
+              "score": 0
+            },
+            {
+              "player": "Matt",
+              "score": 0
+            },
+            {
+              "player": "Mattea",
+              "score": 800
+            }
+          ]
+        },
+        {
+          "category": "IN THE WORLD CAPITAL",
+          "value": 200,
+          "clue": "Site of Mahatma Gandhi's assassination, Gandhi Smriti, now a memorial & museum",
+          "answer": "New Delhi",
+          "isDailyDouble": false,
+          "orderNumber": 5,
+          "correctContestants": [
+            "Mattea"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "James",
+              "score": 0
+            },
+            {
+              "player": "Matt",
+              "score": 0
+            },
+            {
+              "player": "Mattea",
+              "score": 1000
+            }
+          ]
+        },
+        {
+          "category": "RECENT EVENTS",
+          "value": 1000,
+          "clue": "With 50,000 mercenaries, many from prisons, the outfit called this group has become a key part of Russia's force in Ukraine",
+          "answer": "the Wagner Group",
+          "isDailyDouble": false,
+          "orderNumber": 6,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "James",
+              "score": 0
+            },
+            {
+              "player": "Matt",
+              "score": 0
+            },
+            {
+              "player": "Mattea",
+              "score": 1000
+            }
+          ]
+        },
+        {
+          "category": "RECENT EVENTS",
+          "value": 800,
+          "clue": "Subheads in a piece on this N.Y. rep.: \"lied about where he went to... college\"; \"allegedly swindled a disabled vet whose dog was dying\"",
+          "answer": "George Santos",
+          "isDailyDouble": false,
+          "orderNumber": 7,
+          "correctContestants": [
+            "Mattea"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "James",
+              "score": 0
+            },
+            {
+              "player": "Matt",
+              "score": 0
+            },
+            {
+              "player": "Mattea",
+              "score": 1800
+            }
+          ]
+        },
+        {
+          "category": "RECENT EVENTS",
+          "value": 600,
+          "clue": "The FDA gave early approval to Leqembi, a breakthrough drug that clears amyloid protein buildup from the brain to fight this disease",
+          "answer": "Alzheimer's",
+          "isDailyDouble": false,
+          "orderNumber": 8,
+          "correctContestants": [
+            "Matt"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "James",
+              "score": 0
+            },
+            {
+              "player": "Matt",
+              "score": 600
+            },
+            {
+              "player": "Mattea",
+              "score": 1800
+            }
+          ]
+        },
+        {
+          "category": "COMPOSERS",
+          "value": 1000,
+          "clue": "\"Hella good fugues, Nicky\", or words to that effect, was Tchaikovsky's response when this young composer sent him some works",
+          "answer": "Rimsky-Korsakov",
+          "isDailyDouble": false,
+          "orderNumber": 9,
+          "correctContestants": [
+            "James"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "James",
+              "score": 1000
+            },
+            {
+              "player": "Matt",
+              "score": 600
+            },
+            {
+              "player": "Mattea",
+              "score": 1800
+            }
+          ]
+        },
+        {
+          "category": "COMPOSERS",
+          "value": 800,
+          "clue": "Already a veteran of Tin Pan Alley & Broadway, in 1932 he premiered his own \"Second Rhapsody\", Serge Koussevitzky conducting",
+          "answer": "George Gershwin",
+          "isDailyDouble": false,
+          "orderNumber": 10,
+          "correctContestants": [
+            "Mattea"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "James",
+              "score": 1000
+            },
+            {
+              "player": "Matt",
+              "score": 600
+            },
+            {
+              "player": "Mattea",
+              "score": 2600
+            }
+          ]
+        },
+        {
+          "category": "COMPOSERS",
+          "value": 600,
+          "clue": "\"Rinaldo\", overture heard here, is one of dozens of operas by this man also famous for oratorios",
+          "answer": "Handel",
+          "isDailyDouble": false,
+          "orderNumber": 11,
+          "correctContestants": [
+            "James"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "James",
+              "score": 1600
+            },
+            {
+              "player": "Matt",
+              "score": 600
+            },
+            {
+              "player": "Mattea",
+              "score": 2600
+            }
+          ]
+        },
+        {
+          "category": "COMPOSERS",
+          "value": 400,
+          "clue": "You didn't want to mess with Erik Satie on his daily walks through this city, as he always carried a hammer",
+          "answer": "Paris",
+          "isDailyDouble": false,
+          "orderNumber": 12,
+          "correctContestants": [
+            "Matt"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "James",
+              "score": 1600
+            },
+            {
+              "player": "Matt",
+              "score": 1000
+            },
+            {
+              "player": "Mattea",
+              "score": 2600
+            }
+          ]
+        },
+        {
+          "category": "SOME HARD WORDS",
+          "value": 1000,
+          "clue": "Old French for \"diamond\", it can mean a diamond or other object of unyielding firmness",
+          "answer": "adamant",
+          "isDailyDouble": false,
+          "orderNumber": 13,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "James",
+              "score": 1600
+            },
+            {
+              "player": "Matt",
+              "score": 1000
+            },
+            {
+              "player": "Mattea",
+              "score": 2600
+            }
+          ]
+        },
+        {
+          "category": "SOME HARD WORDS",
+          "value": 800,
+          "clue": "Thoroughly heated via immersion, or the type of fiction mastered by James M. Cain",
+          "answer": "hard-boiled",
+          "isDailyDouble": false,
+          "orderNumber": 14,
+          "correctContestants": [
+            "Mattea"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "James",
+              "score": 1600
+            },
+            {
+              "player": "Matt",
+              "score": 1000
+            },
+            {
+              "player": "Mattea",
+              "score": 3400
+            }
+          ]
+        },
+        {
+          "category": "SOME HARD WORDS",
+          "value": 600,
+          "clue": "This synonym for indifferent is a homonym of a word for hardened skin",
+          "answer": "callous",
+          "isDailyDouble": false,
+          "orderNumber": 15,
+          "correctContestants": [
+            "Matt"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "James",
+              "score": 1600
+            },
+            {
+              "player": "Matt",
+              "score": 1600
+            },
+            {
+              "player": "Mattea",
+              "score": 3400
+            }
+          ]
+        },
+        {
+          "category": "SO YOU THINK YOU'RE PRETTY GOOD AT THIS",
+          "value": 1000,
+          "clue": "Acting as your own attorney, this Latin phrase for \"in one's own behalf\"? you know what they say about a lawyer who represents himself",
+          "answer": "pro se",
+          "isDailyDouble": false,
+          "orderNumber": 16,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "James",
+              "score": 1600
+            },
+            {
+              "player": "Matt",
+              "score": 1600
+            },
+            {
+              "player": "Mattea",
+              "score": 3400
+            }
+          ]
+        },
+        {
+          "category": "SO YOU THINK YOU'RE PRETTY GOOD AT THIS",
+          "value": 800,
+          "clue": "He fought the chimera and was on top of the world riding Pegasus, but rode him too high and fell to Earth",
+          "answer": "Bellerophon",
+          "isDailyDouble": false,
+          "orderNumber": 17,
+          "correctContestants": [
+            "James"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "James",
+              "score": 2400
+            },
+            {
+              "player": "Matt",
+              "score": 1600
+            },
+            {
+              "player": "Mattea",
+              "score": 3400
+            }
+          ]
+        },
+        {
+          "category": "SO YOU THINK YOU'RE PRETTY GOOD AT THIS",
+          "value": 600,
+          "clue": "In Super Bowl III this 15-win team with stars like John Mackey was favored by 18 over the Jets",
+          "answer": "the Baltimore Colts",
+          "isDailyDouble": false,
+          "orderNumber": 18,
+          "correctContestants": [
+            "James"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "James",
+              "score": 3000
+            },
+            {
+              "player": "Matt",
+              "score": 1600
+            },
+            {
+              "player": "Mattea",
+              "score": 3400
+            }
+          ]
+        },
+        {
+          "category": "SO YOU THINK YOU'RE PRETTY GOOD AT THIS",
+          "value": 400,
+          "clue": "On Dec. 20, 2000 the execs of this Houston company were feeling good with the stock at $79; a year later it was at 42 cents",
+          "answer": "Enron",
+          "isDailyDouble": false,
+          "orderNumber": 19,
+          "correctContestants": [
+            "Mattea"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "James",
+              "score": 3000
+            },
+            {
+              "player": "Matt",
+              "score": 1600
+            },
+            {
+              "player": "Mattea",
+              "score": 3800
+            }
+          ]
+        },
+        {
+          "category": "SO YOU THINK YOU'RE PRETTY GOOD AT THIS",
+          "value": 200,
+          "clue": "Called invincible, it was sent from Spain in 1588 by King Philip II to invade England; it proved... vincible",
+          "answer": "Spanish Armada",
+          "isDailyDouble": false,
+          "orderNumber": 20,
+          "correctContestants": [
+            "Matt"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "James",
+              "score": 3000
+            },
+            {
+              "player": "Matt",
+              "score": 1800
+            },
+            {
+              "player": "Mattea",
+              "score": 3800
+            }
+          ]
+        },
+        {
+          "category": "COPS & ROBBERS TV",
+          "value": 1000,
+          "clue": "From 1967 to 1975 Raymond Burr battled evildoers from his wheelchair as this crimefighter",
+          "answer": "Ironside",
+          "isDailyDouble": false,
+          "orderNumber": 21,
+          "correctContestants": [
+            "Matt"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "James",
+              "score": 3000
+            },
+            {
+              "player": "Matt",
+              "score": 2800
+            },
+            {
+              "player": "Mattea",
+              "score": 3800
+            }
+          ]
+        },
+        {
+          "category": "COPS & ROBBERS TV",
+          "value": 800,
+          "clue": "As Lilly Rush on this show, Kathryn Morris was a cop determined not to let forgotten crimes & victims stay that way",
+          "answer": "Cold Case",
+          "isDailyDouble": false,
+          "orderNumber": 22,
+          "correctContestants": [
+            "Matt"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "James",
+              "score": 3000
+            },
+            {
+              "player": "Matt",
+              "score": 3600
+            },
+            {
+              "player": "Mattea",
+              "score": 3800
+            }
+          ]
+        },
+        {
+          "category": "COPS & ROBBERS TV",
+          "value": 600,
+          "clue": "The exploits of a real-life criminal gang in early 20th century Birmingham, England were the basis for this series",
+          "answer": "Peaky Blinders",
+          "isDailyDouble": false,
+          "orderNumber": 23,
+          "correctContestants": [
+            "James"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "James",
+              "score": 3600
+            },
+            {
+              "player": "Matt",
+              "score": 3600
+            },
+            {
+              "player": "Mattea",
+              "score": 3800
+            }
+          ]
+        },
+        {
+          "category": "COPS & ROBBERS TV",
+          "value": 400,
+          "clue": "This New Jersey strip club was a place to hang out & discuss mafia business on \"The Sopranos\"",
+          "answer": "Bada Bing!",
+          "isDailyDouble": false,
+          "orderNumber": 24,
+          "correctContestants": [
+            "Matt"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "James",
+              "score": 3600
+            },
+            {
+              "player": "Matt",
+              "score": 4000
+            },
+            {
+              "player": "Mattea",
+              "score": 3800
+            }
+          ]
+        },
+        {
+          "category": "COMPOSERS",
+          "value": 200,
+          "clue": "Scott Joplin published the haunting \"Bethena, a Concert\" this kind of dance music soon after the 1904 death of his wife",
+          "answer": "waltz",
+          "isDailyDouble": false,
+          "orderNumber": 25,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Mattea"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "James",
+              "score": 3600
+            },
+            {
+              "player": "Matt",
+              "score": 4000
+            },
+            {
+              "player": "Mattea",
+              "score": 3600
+            }
+          ]
+        },
+        {
+          "category": "SOME HARD WORDS",
+          "value": 400,
+          "clue": "Stoves & stomachs are made of this 2-word alloy formed in a mold",
+          "answer": "cast iron",
+          "isDailyDouble": false,
+          "orderNumber": 26,
+          "correctContestants": [
+            "James"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "James",
+              "score": 4000
+            },
+            {
+              "player": "Matt",
+              "score": 4000
+            },
+            {
+              "player": "Mattea",
+              "score": 3600
+            }
+          ]
+        },
+        {
+          "category": "SOME HARD WORDS",
+          "value": 200,
+          "clue": "The task is this, meaning extraordinarily difficult? must be a job for a mythical Greek hero!",
+          "answer": "Herculean",
+          "isDailyDouble": false,
+          "orderNumber": 27,
+          "correctContestants": [
+            "Matt"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "James",
+              "score": 4000
+            },
+            {
+              "player": "Matt",
+              "score": 4200
+            },
+            {
+              "player": "Mattea",
+              "score": 3600
+            }
+          ]
+        },
+        {
+          "category": "COPS & ROBBERS TV",
+          "value": 200,
+          "clue": "Christine & Mary Beth were the first names of this title police twosome played by Sharon & Tyne",
+          "answer": "Cagney and Lacey",
+          "isDailyDouble": false,
+          "orderNumber": 28,
+          "correctContestants": [
+            "Matt"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "James",
+              "score": 4000
+            },
+            {
+              "player": "Matt",
+              "score": 4400
+            },
+            {
+              "player": "Mattea",
+              "score": 3600
+            }
+          ]
+        },
+        {
+          "category": "RECENT EVENTS",
+          "value": 400,
+          "clue": "In Feb. 2023 a young girl was rescued after 147 hours in rubble from the devastating 7.8 earthquake in Syria & this country",
+          "answer": "Turkey",
+          "isDailyDouble": false,
+          "orderNumber": 29,
+          "correctContestants": [
+            "James"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "James",
+              "score": 4400
+            },
+            {
+              "player": "Matt",
+              "score": 4400
+            },
+            {
+              "player": "Mattea",
+              "score": 3600
+            }
+          ]
+        },
+        {
+          "category": "RECENT EVENTS",
+          "value": 200,
+          "clue": "This world capital pulled back on its wild & weedy ways with a 2023 ban on smoking marijuana in its famous red light district",
+          "answer": "Amsterdam",
+          "isDailyDouble": false,
+          "orderNumber": 30,
+          "correctContestants": [
+            "James"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "James",
+              "score": 4600
+            },
+            {
+              "player": "Matt",
+              "score": 4400
+            },
+            {
+              "player": "Mattea",
+              "score": 3600
+            }
+          ]
+        }
+      ],
+      "firstBreakScores": [],
+      "endOfRoundScores": [
+        {
+          "player": "James",
+          "score": 4600
+        },
+        {
+          "player": "Matt",
+          "score": 4400
+        },
+        {
+          "player": "Mattea",
+          "score": 3600
+        }
+      ]
+    },
+    "doubleJeopardy": {
+      "categories": [
+        "NATIONAL HISTORICAL PARKS",
+        "FURNITURE & FURNISHINGS",
+        "3-\"SY\"LLABLE WORDS",
+        "HORROR MOVIES",
+        "BRITISH AUTHORS",
+        "WHAT'S ALL THIS?"
+      ],
+      "clues": [
+        {
+          "category": "NATIONAL HISTORICAL PARKS",
+          "value": 1600,
+          "clue": "A historical park devoted to the whaling industry in this Massachusetts city features a museum & the schooner Ernestina",
+          "answer": "New Bedford",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "James",
+              "score": 4600
+            },
+            {
+              "player": "Matt",
+              "score": 6000
+            },
+            {
+              "player": "Mattea",
+              "score": 3600
+            }
+          ]
+        },
+        {
+          "category": "BRITISH AUTHORS",
+          "value": 1200,
+          "clue": "This author who set many of his novels in Wessex also had a terrier named Wessex",
+          "answer": "Thomas Hardy",
+          "isDailyDouble": false,
+          "orderNumber": 2,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "James",
+              "score": 5800
+            },
+            {
+              "player": "Matt",
+              "score": 6000
+            },
+            {
+              "player": "Mattea",
+              "score": 3600
+            }
+          ]
+        },
+        {
+          "category": "NATIONAL HISTORICAL PARKS",
+          "value": 1200,
+          "clue": "The World War II home front is the focus of the park in Richmond, California named for this symbol of women in the workforce",
+          "answer": "Rosie the Riveter",
+          "isDailyDouble": false,
+          "orderNumber": 3,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "James",
+              "score": 7000
+            },
+            {
+              "player": "Matt",
+              "score": 6000
+            },
+            {
+              "player": "Mattea",
+              "score": 3600
+            }
+          ]
+        },
+        {
+          "category": "NATIONAL HISTORICAL PARKS",
+          "value": 800,
+          "clue": "Palo Alto Battlefield National Historical Park preserves the Texas site of the first battle in this 1846-48 war",
+          "answer": "the Mexican-American War",
+          "isDailyDouble": false,
+          "orderNumber": 4,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "James",
+              "score": 7000
+            },
+            {
+              "player": "Matt",
+              "score": 6000
+            },
+            {
+              "player": "Mattea",
+              "score": 4400
+            }
+          ]
+        },
+        {
+          "category": "NATIONAL HISTORICAL PARKS",
+          "value": 2000,
+          "clue": "The Manhattan Project Historical Park's 3 locations are Los Alamos, Oak Ridge & this site near Richland, Washington",
+          "answer": "the Hanford Nuclear Site",
+          "isDailyDouble": false,
+          "orderNumber": 5,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "James",
+              "score": 7000
+            },
+            {
+              "player": "Matt",
+              "score": 4000
+            },
+            {
+              "player": "Mattea",
+              "score": 4400
+            }
+          ]
+        },
+        {
+          "category": "BRITISH AUTHORS",
+          "value": 1600,
+          "clue": "Gilbert Keith were the given names of this author famous for his Father Brown detective stories",
+          "answer": "Chesterton",
+          "isDailyDouble": false,
+          "orderNumber": 6,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "James",
+              "score": 8600
+            },
+            {
+              "player": "Matt",
+              "score": 4000
+            },
+            {
+              "player": "Mattea",
+              "score": 4400
+            }
+          ]
+        },
+        {
+          "category": "BRITISH AUTHORS",
+          "value": 8600,
+          "clue": "First & last name of the lesser-known sibling who wrote the semi-autobiographical \"Agnes Grey\"",
+          "answer": "Anne Bronte",
+          "isDailyDouble": true,
+          "orderNumber": 7,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "James",
+              "score": 17200
+            },
+            {
+              "player": "Matt",
+              "score": 4000
+            },
+            {
+              "player": "Mattea",
+              "score": 4400
+            }
+          ]
+        },
+        {
+          "category": "WHAT'S ALL THIS?",
+          "value": 1200,
+          "clue": "An asterism in Cygnus made up of Deneb, Sadr, Albireo, Fawaris & Aljanah",
+          "answer": "the Northern Cross",
+          "isDailyDouble": false,
+          "orderNumber": 8,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "James",
+              "score": 16000
+            },
+            {
+              "player": "Matt",
+              "score": 4000
+            },
+            {
+              "player": "Mattea",
+              "score": 4400
+            }
+          ]
+        },
+        {
+          "category": "WHAT'S ALL THIS?",
+          "value": 1600,
+          "clue": "21 provinces, including Govi-Altay & Suhbaatar",
+          "answer": "Mongolia",
+          "isDailyDouble": false,
+          "orderNumber": 9,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "James",
+              "score": 16000
+            },
+            {
+              "player": "Matt",
+              "score": 4000
+            },
+            {
+              "player": "Mattea",
+              "score": 4400
+            }
+          ]
+        },
+        {
+          "category": "WHAT'S ALL THIS?",
+          "value": 800,
+          "clue": "3 oxygen atoms, one single coordinate covalent bond, one double covalent bond",
+          "answer": "an ozone molecule",
+          "isDailyDouble": false,
+          "orderNumber": 10,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "James",
+              "score": 16800
+            },
+            {
+              "player": "Matt",
+              "score": 4000
+            },
+            {
+              "player": "Mattea",
+              "score": 4400
+            }
+          ]
+        },
+        {
+          "category": "WHAT'S ALL THIS?",
+          "value": 2000,
+          "clue": "5 sections: \"The Burial of the Dead\", \"A Game of Chess\", \"The Fire Sermon\", \"Death by Water\" & \"What the Thunder Said\"",
+          "answer": "\"The Waste Land\"",
+          "isDailyDouble": false,
+          "orderNumber": 11,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "James",
+              "score": 16800
+            },
+            {
+              "player": "Matt",
+              "score": 4000
+            },
+            {
+              "player": "Mattea",
+              "score": 4400
+            }
+          ]
+        },
+        {
+          "category": "FURNITURE & FURNISHINGS",
+          "value": 1200,
+          "clue": "This word for a thick, ropy texture can apply to carpets as well as sweaters; put it down in less heavily trafficked areas",
+          "answer": "cable (or cable-knit)",
+          "isDailyDouble": false,
+          "orderNumber": 12,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "James",
+              "score": 16800
+            },
+            {
+              "player": "Matt",
+              "score": 4000
+            },
+            {
+              "player": "Mattea",
+              "score": 4400
+            }
+          ]
+        },
+        {
+          "category": "FURNITURE & FURNISHINGS",
+          "value": 1600,
+          "clue": "From the French for \"female gardener\", it's a large ornamental container, as seen here",
+          "answer": "jardiniere",
+          "isDailyDouble": false,
+          "orderNumber": 13,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "James",
+              "score": 16800
+            },
+            {
+              "player": "Matt",
+              "score": 4000
+            },
+            {
+              "player": "Mattea",
+              "score": 6000
+            }
+          ]
+        },
+        {
+          "category": "FURNITURE & FURNISHINGS",
+          "value": 800,
+          "clue": "It bears the name of its inventor, who needed extra sleeping space in his cramped apartment; he called it in-a-dor",
+          "answer": "Murphy bed",
+          "isDailyDouble": false,
+          "orderNumber": 14,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "James",
+              "score": 16800
+            },
+            {
+              "player": "Matt",
+              "score": 4800
+            },
+            {
+              "player": "Mattea",
+              "score": 6000
+            }
+          ]
+        },
+        {
+          "category": "FURNITURE & FURNISHINGS",
+          "value": 2000,
+          "clue": "This S-shaped leg on Queen Anne & Chippendale style furniture often features decorative carvings of acanthus leaves",
+          "answer": "a cabriole",
+          "isDailyDouble": false,
+          "orderNumber": 15,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "James",
+              "score": 18800
+            },
+            {
+              "player": "Matt",
+              "score": 4800
+            },
+            {
+              "player": "Mattea",
+              "score": 6000
+            }
+          ]
+        },
+        {
+          "category": "3-\"SY\"LLABLE WORDS",
+          "value": 1200,
+          "clue": "The seat of Onondaga County, it's on the south end of Onondaga lake",
+          "answer": "Syracuse",
+          "isDailyDouble": false,
+          "orderNumber": 16,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "James",
+              "score": 18800
+            },
+            {
+              "player": "Matt",
+              "score": 4800
+            },
+            {
+              "player": "Mattea",
+              "score": 7200
+            }
+          ]
+        },
+        {
+          "category": "3-\"SY\"LLABLE WORDS",
+          "value": 1600,
+          "clue": "Voluptuary & sensualist are synonyms for this word for someone devoted to luxury",
+          "answer": "a sybarite",
+          "isDailyDouble": false,
+          "orderNumber": 17,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "James",
+              "score": 18800
+            },
+            {
+              "player": "Matt",
+              "score": 4800
+            },
+            {
+              "player": "Mattea",
+              "score": 7200
+            }
+          ]
+        },
+        {
+          "category": "3-\"SY\"LLABLE WORDS",
+          "value": 7200,
+          "clue": "A lack of blood flow to the brain & a drop in blood pressure cause this, the medical term for fainting",
+          "answer": "syncope",
+          "isDailyDouble": true,
+          "orderNumber": 18,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "James",
+              "score": 18800
+            },
+            {
+              "player": "Matt",
+              "score": 4800
+            },
+            {
+              "player": "Mattea",
+              "score": 14400
+            }
+          ]
+        },
+        {
+          "category": "HORROR MOVIES",
+          "value": 2000,
+          "clue": "This Georges Franju classic about plastic surgery inspired a Billy Idol song & an Almodóvar film",
+          "answer": "Eyes Without a Face",
+          "isDailyDouble": false,
+          "orderNumber": 19,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "James",
+              "score": 18800
+            },
+            {
+              "player": "Matt",
+              "score": 4800
+            },
+            {
+              "player": "Mattea",
+              "score": 16400
+            }
+          ]
+        },
+        {
+          "category": "HORROR MOVIES",
+          "value": 1600,
+          "clue": "She stars in Fresh, which seems like a rom-com at first, but thanks to Sebastian Stan, she soon learns there's more on the menu",
+          "answer": "Daisy Edgar Jones",
+          "isDailyDouble": false,
+          "orderNumber": 20,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "James",
+              "score": 18800
+            },
+            {
+              "player": "Matt",
+              "score": 4800
+            },
+            {
+              "player": "Mattea",
+              "score": 16400
+            }
+          ]
+        },
+        {
+          "category": "HORROR MOVIES",
+          "value": 1200,
+          "clue": "\"Drag Me To Hell\", directed by this horror heavyweight, focuses on a woman placed under the curse of the Lamia by a wicked witch",
+          "answer": "Sam Raimi",
+          "isDailyDouble": false,
+          "orderNumber": 21,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "James",
+              "score": 18800
+            },
+            {
+              "player": "Matt",
+              "score": 4800
+            },
+            {
+              "player": "Mattea",
+              "score": 16400
+            }
+          ]
+        },
+        {
+          "category": "HORROR MOVIES",
+          "value": 800,
+          "clue": "This title girl from a 2018 movie came & gave without taking & they took her away from Nic Cage; big mistake--he's good with a chainsaw",
+          "answer": "Mandy",
+          "isDailyDouble": false,
+          "orderNumber": 22,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "James",
+              "score": 19600
+            },
+            {
+              "player": "Matt",
+              "score": 4800
+            },
+            {
+              "player": "Mattea",
+              "score": 16400
+            }
+          ]
+        },
+        {
+          "category": "HORROR MOVIES",
+          "value": 400,
+          "clue": "This character drowning at Camp Crystal Lake leads to all kinds of murderous fallout in \"Friday the 13th\"",
+          "answer": "Jason",
+          "isDailyDouble": false,
+          "orderNumber": 23,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "James",
+              "score": 20000
+            },
+            {
+              "player": "Matt",
+              "score": 4800
+            },
+            {
+              "player": "Mattea",
+              "score": 16400
+            }
+          ]
+        },
+        {
+          "category": "BRITISH AUTHORS",
+          "value": 2000,
+          "clue": "He's the bestselling author of \"Utopia Avenue\" & \"Cloud Atlas\"",
+          "answer": "Mitchell",
+          "isDailyDouble": false,
+          "orderNumber": 24,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "James",
+              "score": 22000
+            },
+            {
+              "player": "Matt",
+              "score": 4800
+            },
+            {
+              "player": "Mattea",
+              "score": 16400
+            }
+          ]
+        },
+        {
+          "category": "BRITISH AUTHORS",
+          "value": 400,
+          "clue": "In his youth he was a chocolate tester for Cadbury, which no doubt inspired his \"Charlie and the Chocolate Factory\"",
+          "answer": "Dahl",
+          "isDailyDouble": false,
+          "orderNumber": 25,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "James",
+              "score": 22000
+            },
+            {
+              "player": "Matt",
+              "score": 5200
+            },
+            {
+              "player": "Mattea",
+              "score": 16400
+            }
+          ]
+        },
+        {
+          "category": "3-\"SY\"LLABLE WORDS",
+          "value": 800,
+          "clue": "It's the S in S.L.E., the most common type of lupus, an autoimmune disease",
+          "answer": "systemic",
+          "isDailyDouble": false,
+          "orderNumber": 26,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "James",
+              "score": 22000
+            },
+            {
+              "player": "Matt",
+              "score": 5200
+            },
+            {
+              "player": "Mattea",
+              "score": 16400
+            }
+          ]
+        },
+        {
+          "category": "NATIONAL HISTORICAL PARKS",
+          "value": 400,
+          "clue": "A highlight of the Dayton Aviation Heritage Park is a guided tour of these 2 guys' bicycle shop",
+          "answer": "the Wright Brothers",
+          "isDailyDouble": false,
+          "orderNumber": 27,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "James",
+              "score": 22400
+            },
+            {
+              "player": "Matt",
+              "score": 5200
+            },
+            {
+              "player": "Mattea",
+              "score": 16400
+            }
+          ]
+        },
+        {
+          "category": "FURNITURE & FURNISHINGS",
+          "value": 400,
+          "clue": "Although founded in 1943, this furniture company didn't open its first retail store until 1958 in Älmhult, Sweden",
+          "answer": "IKEA",
+          "isDailyDouble": false,
+          "orderNumber": 28,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "James",
+              "score": 22400
+            },
+            {
+              "player": "Matt",
+              "score": 5600
+            },
+            {
+              "player": "Mattea",
+              "score": 16400
+            }
+          ]
+        },
+        {
+          "category": "WHAT'S ALL THIS?",
+          "value": 400,
+          "clue": "4 movements, including the \"Ode To Joy\"",
+          "answer": "Beethoven's 9th",
+          "isDailyDouble": false,
+          "orderNumber": 29,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "James",
+              "score": 22400
+            },
+            {
+              "player": "Matt",
+              "score": 6000
+            },
+            {
+              "player": "Mattea",
+              "score": 16400
+            }
+          ]
+        },
+        {
+          "category": "3-\"SY\"LLABLE WORDS",
+          "value": 400,
+          "clue": "In ancient Athens, it was a class of informers; today, it's a total suck-up",
+          "answer": "sycophant",
+          "isDailyDouble": false,
+          "orderNumber": 30,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "James",
+              "score": 22400
+            },
+            {
+              "player": "Matt",
+              "score": 6000
+            },
+            {
+              "player": "Mattea",
+              "score": 16800
+            }
+          ]
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "James",
+          "score": 22400
+        },
+        {
+          "player": "Matt",
+          "score": 6000
+        },
+        {
+          "player": "Mattea",
+          "score": 16800
+        }
+      ]
+    },
+    "finalJeopardy": {
+      "category": "AFRICA",
+      "clue": "A major seaport & formerly a world capital, this city has a name from Arabic for \"house of peace\"",
+      "answer": "Dar es Salaam",
+      "responses": [
+        {
+          "contestant": "Matt",
+          "response": "What Dar-es-Salaam",
+          "isCorrect": true,
+          "isIncorrect": false,
+          "value": 6000,
+          "finalScore": 12000
+        },
+        {
+          "contestant": "Mattea",
+          "response": "What is Dar es Salaam?",
+          "isCorrect": true,
+          "isIncorrect": false,
+          "value": 8000,
+          "finalScore": 24800
+        },
+        {
+          "contestant": "James",
+          "response": "What is Dar Es Salaam",
+          "isCorrect": true,
+          "isIncorrect": false,
+          "value": 11914,
+          "finalScore": 34314
+        }
+      ]
+    }
+  },
+  "finalScores": [
+    {
+      "player": "James",
+      "score": "34,314"
+    },
+    {
+      "player": "Matt",
+      "score": "12,000"
+    },
+    {
+      "player": "Mattea",
+      "score": "24,800"
+    }
+  ],
+  "coryatScores": [
+    {
+      "player": "James",
+      "score": 15600
+    },
+    {
+      "player": "Matt",
+      "score": 6000
+    },
+    {
+      "player": "Mattea",
+      "score": 11600
+    }
+  ]
+}

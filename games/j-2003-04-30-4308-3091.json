@@ -1,0 +1,1689 @@
+{
+  "gameId": 3091,
+  "showNumber": "4308",
+  "title": "Show #4308 - Wednesday, April 30, 2003",
+  "date": "2003-04-30",
+  "comments": "2003 Celebrity Jeopardy! game 3.",
+  "contestants": [
+    "Brad",
+    "Linda",
+    "Will"
+  ],
+  "rounds": {
+    "jeopardy": {
+      "categories": [
+        "BRAIN SURGERY FOR DUMMIES",
+        "AGENTS & MANAGERS",
+        "AMERICAN DREAMS",
+        "BOTTLED WATER",
+        "READY FOR YOUR NUDE SCENE?",
+        "CATS ALL, FOLKS"
+      ],
+      "clues": [
+        {
+          "category": "AGENTS & MANAGERS",
+          "value": 200,
+          "clue": "Alan Eagleson was Bobby Orr's agent before founding this league's player's association",
+          "answer": "National Hockey League",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Brad"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Brad",
+              "score": -200
+            },
+            {
+              "player": "Linda",
+              "score": 0
+            },
+            {
+              "player": "Will",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "AMERICAN DREAMS",
+          "value": 200,
+          "clue": "His famous \"I Have a Dream\" speech ends, \"Free at last!  Free at last!  Thank God Almighty, we are free at last!\"",
+          "answer": "Dr. Martin Luther King, Jr.",
+          "isDailyDouble": false,
+          "orderNumber": 2,
+          "correctContestants": [
+            "Brad"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Brad",
+              "score": 0
+            },
+            {
+              "player": "Linda",
+              "score": 0
+            },
+            {
+              "player": "Will",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "BOTTLED WATER",
+          "value": 400,
+          "clue": "This sparkling French mineral water that comes in a green bottle is named for a doctor from Nimes",
+          "answer": "Perrier",
+          "isDailyDouble": false,
+          "orderNumber": 3,
+          "correctContestants": [
+            "Linda"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Brad",
+              "score": 0
+            },
+            {
+              "player": "Linda",
+              "score": 400
+            },
+            {
+              "player": "Will",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "READY FOR YOUR NUDE SCENE?",
+          "value": 200,
+          "clue": "Leonardo DiCaprio will sketch you in the nude to emulate this 1997 film",
+          "answer": "Titanic",
+          "isDailyDouble": false,
+          "orderNumber": 4,
+          "correctContestants": [
+            "Will"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Brad",
+              "score": 0
+            },
+            {
+              "player": "Linda",
+              "score": 400
+            },
+            {
+              "player": "Will",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "AMERICAN DREAMS",
+          "value": 400,
+          "clue": "Patrick Henry said, \"I know not what course others may take, but as for me, give me\" this \"or give me death!\"",
+          "answer": "liberty",
+          "isDailyDouble": false,
+          "orderNumber": 5,
+          "correctContestants": [
+            "Will"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Brad",
+              "score": 0
+            },
+            {
+              "player": "Linda",
+              "score": 400
+            },
+            {
+              "player": "Will",
+              "score": 600
+            }
+          ]
+        },
+        {
+          "category": "AMERICAN DREAMS",
+          "value": 600,
+          "clue": "The Declaration of Independence says one of our rights is the \"pursuit of\" this",
+          "answer": "happiness",
+          "isDailyDouble": false,
+          "orderNumber": 6,
+          "correctContestants": [
+            "Will"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Brad",
+              "score": 0
+            },
+            {
+              "player": "Linda",
+              "score": 400
+            },
+            {
+              "player": "Will",
+              "score": 1200
+            }
+          ]
+        },
+        {
+          "category": "AMERICAN DREAMS",
+          "value": 800,
+          "clue": "In May 1961 he vowed to land a man on the moon & return him safely to Earth by the end of the decade",
+          "answer": "John F. Kennedy",
+          "isDailyDouble": false,
+          "orderNumber": 7,
+          "correctContestants": [
+            "Will"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Brad",
+              "score": 0
+            },
+            {
+              "player": "Linda",
+              "score": 400
+            },
+            {
+              "player": "Will",
+              "score": 2000
+            }
+          ]
+        },
+        {
+          "category": "AMERICAN DREAMS",
+          "value": 1000,
+          "clue": "The first of FDR's \"Four Freedoms\" was freedom of this \"and expression\"",
+          "answer": "speech",
+          "isDailyDouble": false,
+          "orderNumber": 8,
+          "correctContestants": [
+            "Brad"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Brad",
+              "score": 1000
+            },
+            {
+              "player": "Linda",
+              "score": 400
+            },
+            {
+              "player": "Will",
+              "score": 2000
+            }
+          ]
+        },
+        {
+          "category": "BRAIN SURGERY FOR DUMMIES",
+          "value": 200,
+          "clue": "It's an important first step in a craniotomy, even if the patient doesn't want the Vin Diesel look",
+          "answer": "shaving the head",
+          "isDailyDouble": false,
+          "orderNumber": 9,
+          "correctContestants": [
+            "Linda"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Brad",
+              "score": 1000
+            },
+            {
+              "player": "Linda",
+              "score": 600
+            },
+            {
+              "player": "Will",
+              "score": 2000
+            }
+          ]
+        },
+        {
+          "category": "BOTTLED WATER",
+          "value": 600,
+          "clue": "Called a \"fitness water\" because vitamins are added to it, Propel is from the makers of this sports drink",
+          "answer": "Gatorade",
+          "isDailyDouble": false,
+          "orderNumber": 10,
+          "correctContestants": [
+            "Brad"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Brad",
+              "score": 1600
+            },
+            {
+              "player": "Linda",
+              "score": 600
+            },
+            {
+              "player": "Will",
+              "score": 2000
+            }
+          ]
+        },
+        {
+          "category": "CATS ALL, FOLKS",
+          "value": 400,
+          "clue": "Proverbially, this type of inquisitiveness is what \"killed the cat\"",
+          "answer": "curiosity",
+          "isDailyDouble": false,
+          "orderNumber": 11,
+          "correctContestants": [
+            "Brad"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Brad",
+              "score": 2000
+            },
+            {
+              "player": "Linda",
+              "score": 600
+            },
+            {
+              "player": "Will",
+              "score": 2000
+            }
+          ]
+        },
+        {
+          "category": "CATS ALL, FOLKS",
+          "value": 600,
+          "clue": "He's the long-time MGM superstar seen here",
+          "answer": "Tom",
+          "isDailyDouble": false,
+          "orderNumber": 12,
+          "correctContestants": [
+            "Linda"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Brad",
+              "score": 2000
+            },
+            {
+              "player": "Linda",
+              "score": 1200
+            },
+            {
+              "player": "Will",
+              "score": 2000
+            }
+          ]
+        },
+        {
+          "category": "CATS ALL, FOLKS",
+          "value": 800,
+          "clue": "Except for the cheetah, all cats can retract these",
+          "answer": "claws",
+          "isDailyDouble": false,
+          "orderNumber": 13,
+          "correctContestants": [
+            "Will"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Brad",
+              "score": 2000
+            },
+            {
+              "player": "Linda",
+              "score": 1200
+            },
+            {
+              "player": "Will",
+              "score": 2800
+            }
+          ]
+        },
+        {
+          "category": "CATS ALL, FOLKS",
+          "value": 1000,
+          "clue": "One of the very few curly-haired varieties of cat, the Cornish Rex was developed in this country",
+          "answer": "England",
+          "isDailyDouble": false,
+          "orderNumber": 14,
+          "correctContestants": [
+            "Linda"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Brad",
+              "score": 2000
+            },
+            {
+              "player": "Linda",
+              "score": 2200
+            },
+            {
+              "player": "Will",
+              "score": 2800
+            }
+          ]
+        },
+        {
+          "category": "BRAIN SURGERY FOR DUMMIES",
+          "value": 400,
+          "clue": "Tree surgeons use the chain type of this; brain surgeons use the gigli type",
+          "answer": "saw",
+          "isDailyDouble": false,
+          "orderNumber": 15,
+          "correctContestants": [
+            "Brad"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Brad",
+              "score": 2400
+            },
+            {
+              "player": "Linda",
+              "score": 2200
+            },
+            {
+              "player": "Will",
+              "score": 2800
+            }
+          ]
+        },
+        {
+          "category": "AGENTS & MANAGERS",
+          "value": 400,
+          "clue": "Miller Huggins, \"The Mighty Mite\", managed this 1920s baseball team called \"Murderers' Row\"",
+          "answer": "New York Yankees",
+          "isDailyDouble": false,
+          "orderNumber": 16,
+          "correctContestants": [
+            "Will"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Brad",
+              "score": 2400
+            },
+            {
+              "player": "Linda",
+              "score": 2200
+            },
+            {
+              "player": "Will",
+              "score": 3200
+            }
+          ]
+        },
+        {
+          "category": "AGENTS & MANAGERS",
+          "value": 600,
+          "clue": "Agent Leigh Steinberg wrote \"Winning with Integrity\" & was a model for this Tom Cruise character",
+          "answer": "Jerry Maguire",
+          "isDailyDouble": false,
+          "orderNumber": 17,
+          "correctContestants": [
+            "Linda"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Brad",
+              "score": 2400
+            },
+            {
+              "player": "Linda",
+              "score": 2800
+            },
+            {
+              "player": "Will",
+              "score": 3200
+            }
+          ]
+        },
+        {
+          "category": "BOTTLED WATER",
+          "value": 800,
+          "clue": "The natural rock formation in the California mountains seen here gave this water brand its name & \"points\" to its stream",
+          "answer": "Arrowhead",
+          "isDailyDouble": true,
+          "orderNumber": 18,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Linda"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Brad",
+              "score": 2400
+            },
+            {
+              "player": "Linda",
+              "score": 2000
+            },
+            {
+              "player": "Will",
+              "score": 3200
+            }
+          ]
+        },
+        {
+          "category": "READY FOR YOUR NUDE SCENE?",
+          "value": 400,
+          "clue": "Uh-oh!  You might want to go on this diet program promoted by Fergie",
+          "answer": "Weight Watchers",
+          "isDailyDouble": false,
+          "orderNumber": 19,
+          "correctContestants": [
+            "Brad"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Brad",
+              "score": 2800
+            },
+            {
+              "player": "Linda",
+              "score": 2000
+            },
+            {
+              "player": "Will",
+              "score": 3200
+            }
+          ]
+        },
+        {
+          "category": "CATS ALL, FOLKS",
+          "value": 200,
+          "clue": "This Asian carnivore is the largest member of the cat family & the only big cat with striped fur",
+          "answer": "tiger",
+          "isDailyDouble": false,
+          "orderNumber": 20,
+          "correctContestants": [
+            "Brad"
+          ],
+          "incorrectContestants": [
+            "Linda"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Brad",
+              "score": 3000
+            },
+            {
+              "player": "Linda",
+              "score": 1800
+            },
+            {
+              "player": "Will",
+              "score": 3200
+            }
+          ]
+        },
+        {
+          "category": "READY FOR YOUR NUDE SCENE?",
+          "value": 600,
+          "clue": "We'll film your scene on this kind of \"set\" that has a minimal crew -- no gawkers allowed",
+          "answer": "closed set",
+          "isDailyDouble": false,
+          "orderNumber": 21,
+          "correctContestants": [
+            "Will"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Brad",
+              "score": 3000
+            },
+            {
+              "player": "Linda",
+              "score": 1800
+            },
+            {
+              "player": "Will",
+              "score": 3800
+            }
+          ]
+        },
+        {
+          "category": "READY FOR YOUR NUDE SCENE?",
+          "value": 800,
+          "clue": "The camera won't reveal too much when you play this Egyptian queen: you'll be up to your \"asp\" in a milk bath",
+          "answer": "Cleopatra",
+          "isDailyDouble": false,
+          "orderNumber": 22,
+          "correctContestants": [
+            "Brad"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Brad",
+              "score": 3800
+            },
+            {
+              "player": "Linda",
+              "score": 1800
+            },
+            {
+              "player": "Will",
+              "score": 3800
+            }
+          ]
+        },
+        {
+          "category": "READY FOR YOUR NUDE SCENE?",
+          "value": 1000,
+          "clue": "Some fans may watch your nude scene with their \"Eyes\" this (as in the title of a Stanley Kubrick film)",
+          "answer": "Eyes Wide Shut",
+          "isDailyDouble": false,
+          "orderNumber": 23,
+          "correctContestants": [
+            "Linda"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Brad",
+              "score": 3800
+            },
+            {
+              "player": "Linda",
+              "score": 2800
+            },
+            {
+              "player": "Will",
+              "score": 3800
+            }
+          ]
+        },
+        {
+          "category": "BRAIN SURGERY FOR DUMMIES",
+          "value": 800,
+          "clue": "Pituitary surgery may be done by going in through this, the same way patients may have to pay the surgeon",
+          "answer": "through the nose",
+          "isDailyDouble": false,
+          "orderNumber": 24,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Brad"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Brad",
+              "score": 3000
+            },
+            {
+              "player": "Linda",
+              "score": 2800
+            },
+            {
+              "player": "Will",
+              "score": 3800
+            }
+          ]
+        },
+        {
+          "category": "BOTTLED WATER",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Brad",
+              "score": 3000
+            },
+            {
+              "player": "Linda",
+              "score": 2800
+            },
+            {
+              "player": "Will",
+              "score": 3800
+            }
+          ]
+        },
+        {
+          "category": "BRAIN SURGERY FOR DUMMIES",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Brad",
+              "score": 3000
+            },
+            {
+              "player": "Linda",
+              "score": 2800
+            },
+            {
+              "player": "Will",
+              "score": 3800
+            }
+          ]
+        },
+        {
+          "category": "AGENTS & MANAGERS",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Brad",
+              "score": 3000
+            },
+            {
+              "player": "Linda",
+              "score": 2800
+            },
+            {
+              "player": "Will",
+              "score": 3800
+            }
+          ]
+        },
+        {
+          "category": "BRAIN SURGERY FOR DUMMIES",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Brad",
+              "score": 3000
+            },
+            {
+              "player": "Linda",
+              "score": 2800
+            },
+            {
+              "player": "Will",
+              "score": 3800
+            }
+          ]
+        },
+        {
+          "category": "AGENTS & MANAGERS",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Brad",
+              "score": 3000
+            },
+            {
+              "player": "Linda",
+              "score": 2800
+            },
+            {
+              "player": "Will",
+              "score": 3800
+            }
+          ]
+        },
+        {
+          "category": "BOTTLED WATER",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Brad",
+              "score": 3000
+            },
+            {
+              "player": "Linda",
+              "score": 2800
+            },
+            {
+              "player": "Will",
+              "score": 3800
+            }
+          ]
+        }
+      ],
+      "firstBreakScores": [
+        {
+          "player": "Brad",
+          "score": 2400
+        },
+        {
+          "player": "Linda",
+          "score": 2200
+        },
+        {
+          "player": "Will",
+          "score": 2800
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "Brad",
+          "score": 3000
+        },
+        {
+          "player": "Linda",
+          "score": 2800
+        },
+        {
+          "player": "Will",
+          "score": 3800
+        }
+      ]
+    },
+    "doubleJeopardy": {
+      "categories": [
+        "AN \"F\" IN HISTORY",
+        "GOING COUNTRY",
+        "21st CENTURY MOVIES",
+        "THE SHAKESPEARE PLAY'S THE THING",
+        "STAR TRACK",
+        "WHO DOES HE THINK HE IS?"
+      ],
+      "clues": [
+        {
+          "category": "THE SHAKESPEARE PLAY'S THE THING",
+          "value": 400,
+          "clue": "In this play Emilia tells Iago & Desdemona, \"The moor's abused by some most villainous knave\"",
+          "answer": "Othello",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Brad",
+              "score": 3000
+            },
+            {
+              "player": "Linda",
+              "score": 3200
+            },
+            {
+              "player": "Will",
+              "score": 3800
+            }
+          ]
+        },
+        {
+          "category": "THE SHAKESPEARE PLAY'S THE THING",
+          "value": 800,
+          "clue": "Later a title character, this cruel king made his 1st appearance in a Shakespeare play in \"Henry VI, Part 2\"",
+          "answer": "Richard III",
+          "isDailyDouble": false,
+          "orderNumber": 2,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Brad",
+              "score": 3000
+            },
+            {
+              "player": "Linda",
+              "score": 3200
+            },
+            {
+              "player": "Will",
+              "score": 3800
+            }
+          ]
+        },
+        {
+          "category": "THE SHAKESPEARE PLAY'S THE THING",
+          "value": 1200,
+          "clue": "Alas, this deceased court jester in \"Hamlet\" was \"A fellow of infinite jest, of most excellent fancy\"",
+          "answer": "Yorick",
+          "isDailyDouble": false,
+          "orderNumber": 3,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Brad",
+              "score": 3000
+            },
+            {
+              "player": "Linda",
+              "score": 3200
+            },
+            {
+              "player": "Will",
+              "score": 3800
+            }
+          ]
+        },
+        {
+          "category": "THE SHAKESPEARE PLAY'S THE THING",
+          "value": 1600,
+          "clue": "Disguised as a lawyer, she saves Antonio from the revenge of Shylock",
+          "answer": "Portia",
+          "isDailyDouble": false,
+          "orderNumber": 4,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Brad",
+              "score": 3000
+            },
+            {
+              "player": "Linda",
+              "score": 3200
+            },
+            {
+              "player": "Will",
+              "score": 3800
+            }
+          ]
+        },
+        {
+          "category": "THE SHAKESPEARE PLAY'S THE THING",
+          "value": 2000,
+          "clue": "He was the fairy king; Titania was his queen",
+          "answer": "Oberon",
+          "isDailyDouble": false,
+          "orderNumber": 5,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Brad",
+              "score": 3000
+            },
+            {
+              "player": "Linda",
+              "score": 5200
+            },
+            {
+              "player": "Will",
+              "score": 3800
+            }
+          ]
+        },
+        {
+          "category": "21st CENTURY MOVIES",
+          "value": 400,
+          "clue": "\"Memento\" & \"Irreversible\" share this unusual storytelling technique",
+          "answer": "reverse/backwards",
+          "isDailyDouble": false,
+          "orderNumber": 6,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Brad",
+              "score": 3000
+            },
+            {
+              "player": "Linda",
+              "score": 5600
+            },
+            {
+              "player": "Will",
+              "score": 3800
+            }
+          ]
+        },
+        {
+          "category": "21st CENTURY MOVIES",
+          "value": 800,
+          "clue": "(Sofia of the Clue Crew in Kauai, Hawaii)  Hawaiian jungles stood in for African jungles when this 2003 Bruce Willis movie was filmed",
+          "answer": "Tears of the Sun",
+          "isDailyDouble": false,
+          "orderNumber": 7,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Brad",
+              "score": 3000
+            },
+            {
+              "player": "Linda",
+              "score": 5600
+            },
+            {
+              "player": "Will",
+              "score": 3800
+            }
+          ]
+        },
+        {
+          "category": "21st CENTURY MOVIES",
+          "value": 1200,
+          "clue": "As a Manhattan mom named Meg, this actress gets a bit panicky in \"Panic Room\"",
+          "answer": "Jodie Foster",
+          "isDailyDouble": false,
+          "orderNumber": 8,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Brad",
+              "score": 4200
+            },
+            {
+              "player": "Linda",
+              "score": 5600
+            },
+            {
+              "player": "Will",
+              "score": 3800
+            }
+          ]
+        },
+        {
+          "category": "GOING COUNTRY",
+          "value": 1200,
+          "clue": "It's the largest country in the Caribbean & it's only about 90 miles south of Florida",
+          "answer": "Cuba",
+          "isDailyDouble": false,
+          "orderNumber": 9,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Brad",
+              "score": 5400
+            },
+            {
+              "player": "Linda",
+              "score": 5600
+            },
+            {
+              "player": "Will",
+              "score": 3800
+            }
+          ]
+        },
+        {
+          "category": "AN \"F\" IN HISTORY",
+          "value": 800,
+          "clue": "In June of 1752, this man famously flew a kite in a thunderstorm as part of an electricity experiment",
+          "answer": "Ben Franklin",
+          "isDailyDouble": false,
+          "orderNumber": 10,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Brad",
+              "score": 6200
+            },
+            {
+              "player": "Linda",
+              "score": 5600
+            },
+            {
+              "player": "Will",
+              "score": 3800
+            }
+          ]
+        },
+        {
+          "category": "AN \"F\" IN HISTORY",
+          "value": 1200,
+          "clue": "First name of the famous nursing pioneer known as \"The Lady with the Lamp\"",
+          "answer": "Florence (Nightingale)",
+          "isDailyDouble": false,
+          "orderNumber": 11,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Brad",
+              "score": 6200
+            },
+            {
+              "player": "Linda",
+              "score": 5600
+            },
+            {
+              "player": "Will",
+              "score": 3800
+            }
+          ]
+        },
+        {
+          "category": "STAR TRACK",
+          "value": 800,
+          "clue": "Country of birth of the famed beauty seen here",
+          "answer": "Sweden (Ingrid Bergman)",
+          "isDailyDouble": false,
+          "orderNumber": 12,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Brad",
+              "score": 6200
+            },
+            {
+              "player": "Linda",
+              "score": 4800
+            },
+            {
+              "player": "Will",
+              "score": 3800
+            }
+          ]
+        },
+        {
+          "category": "WHO DOES HE THINK HE IS?",
+          "value": 800,
+          "clue": "He never goes anywhere without a mask & cape (Hey!  Stop cutting \"Z\"s into my sofa!) He thinks he's...",
+          "answer": "Zorro",
+          "isDailyDouble": false,
+          "orderNumber": 13,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Brad",
+              "score": 6200
+            },
+            {
+              "player": "Linda",
+              "score": 4800
+            },
+            {
+              "player": "Will",
+              "score": 4600
+            }
+          ]
+        },
+        {
+          "category": "WHO DOES HE THINK HE IS?",
+          "value": 1200,
+          "clue": "If he shoots an apple off my head, I'll tell him he doesn't have the legs for lederhosen!  He thinks he's...",
+          "answer": "William Tell",
+          "isDailyDouble": false,
+          "orderNumber": 14,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Brad",
+              "score": 6200
+            },
+            {
+              "player": "Linda",
+              "score": 4800
+            },
+            {
+              "player": "Will",
+              "score": 5800
+            }
+          ]
+        },
+        {
+          "category": "WHO DOES HE THINK HE IS?",
+          "value": 1600,
+          "clue": "He's flouncing around in a 3'-high wig, screaming \"Let them eat cake!\"  (He's really lost his head!) He thinks he's...",
+          "answer": "Marie Antoinette",
+          "isDailyDouble": false,
+          "orderNumber": 15,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Brad",
+              "score": 6200
+            },
+            {
+              "player": "Linda",
+              "score": 4800
+            },
+            {
+              "player": "Will",
+              "score": 5800
+            }
+          ]
+        },
+        {
+          "category": "WHO DOES HE THINK HE IS?",
+          "value": 400,
+          "clue": "He's hanging out in the woods with a bunch of guys in tights; says they're his \"Merry Men\" -- He thinks he's...",
+          "answer": "Robin Hood",
+          "isDailyDouble": false,
+          "orderNumber": 16,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Brad",
+              "score": 6200
+            },
+            {
+              "player": "Linda",
+              "score": 4800
+            },
+            {
+              "player": "Will",
+              "score": 6200
+            }
+          ]
+        },
+        {
+          "category": "WHO DOES HE THINK HE IS?",
+          "value": 2000,
+          "clue": "He keeps writing gloomy poetry & muttering about some girl named Annabel Lee; yep, he's really \"Raven\" -- He thinks he's...",
+          "answer": "Edgar Allan Poe",
+          "isDailyDouble": false,
+          "orderNumber": 17,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Brad",
+              "score": 6200
+            },
+            {
+              "player": "Linda",
+              "score": 4800
+            },
+            {
+              "player": "Will",
+              "score": 8200
+            }
+          ]
+        },
+        {
+          "category": "AN \"F\" IN HISTORY",
+          "value": 400,
+          "clue": "This car company once used characters from the comic strip Peanuts in commercials for its Falcon",
+          "answer": "Ford",
+          "isDailyDouble": false,
+          "orderNumber": 18,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Brad",
+              "score": 6200
+            },
+            {
+              "player": "Linda",
+              "score": 4800
+            },
+            {
+              "player": "Will",
+              "score": 8600
+            }
+          ]
+        },
+        {
+          "category": "AN \"F\" IN HISTORY",
+          "value": 1600,
+          "clue": "Don't slip as you name this Austrian doctor who founded the therapeutic method of psychoanalysis",
+          "answer": "(Sigmund) Freud",
+          "isDailyDouble": false,
+          "orderNumber": 19,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Brad",
+              "score": 6200
+            },
+            {
+              "player": "Linda",
+              "score": 4800
+            },
+            {
+              "player": "Will",
+              "score": 10200
+            }
+          ]
+        },
+        {
+          "category": "AN \"F\" IN HISTORY",
+          "value": 2000,
+          "clue": "This Spanish king married Queen Isabella in 1469 & sent Columbus off to America in 1492",
+          "answer": "Ferdinand",
+          "isDailyDouble": false,
+          "orderNumber": 20,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Brad",
+              "score": 6200
+            },
+            {
+              "player": "Linda",
+              "score": 6800
+            },
+            {
+              "player": "Will",
+              "score": 10200
+            }
+          ]
+        },
+        {
+          "category": "21st CENTURY MOVIES",
+          "value": 1600,
+          "clue": "This Robert Altman film set in a manor was nominated for a Best Picture Oscar",
+          "answer": "Gosford Park",
+          "isDailyDouble": false,
+          "orderNumber": 21,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Brad",
+              "score": 6200
+            },
+            {
+              "player": "Linda",
+              "score": 8400
+            },
+            {
+              "player": "Will",
+              "score": 10200
+            }
+          ]
+        },
+        {
+          "category": "21st CENTURY MOVIES",
+          "value": 2000,
+          "clue": "It stars Robin Williams as a psychotic nebbish obsessed with a suburban family",
+          "answer": "One Hour Photo",
+          "isDailyDouble": false,
+          "orderNumber": 22,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Brad",
+              "score": 8200
+            },
+            {
+              "player": "Linda",
+              "score": 8400
+            },
+            {
+              "player": "Will",
+              "score": 8200
+            }
+          ]
+        },
+        {
+          "category": "STAR TRACK",
+          "value": 1200,
+          "clue": "Michael Mann, the director of \"The Insider\", called this actor \"A young Marlon Brando\"",
+          "answer": "Russell Crowe",
+          "isDailyDouble": false,
+          "orderNumber": 23,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Brad",
+              "score": 8200
+            },
+            {
+              "player": "Linda",
+              "score": 9600
+            },
+            {
+              "player": "Will",
+              "score": 8200
+            }
+          ]
+        },
+        {
+          "category": "STAR TRACK",
+          "value": 400,
+          "clue": "This star of \"Sex and the City\" is Mrs. Matthew Broderick",
+          "answer": "Sarah Jessica Parker",
+          "isDailyDouble": false,
+          "orderNumber": 24,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Brad",
+              "score": 8200
+            },
+            {
+              "player": "Linda",
+              "score": 10000
+            },
+            {
+              "player": "Will",
+              "score": 8200
+            }
+          ]
+        },
+        {
+          "category": "STAR TRACK",
+          "value": 1000,
+          "clue": "Paulette Goddard nearly got this coveted 1939 role & was even given Southern accent lessons",
+          "answer": "Scarlett O'Hara",
+          "isDailyDouble": true,
+          "orderNumber": 25,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Brad",
+              "score": 8200
+            },
+            {
+              "player": "Linda",
+              "score": 9000
+            },
+            {
+              "player": "Will",
+              "score": 8200
+            }
+          ]
+        },
+        {
+          "category": "STAR TRACK",
+          "value": 2000,
+          "clue": "In the 1930s several stars had this last name: Dick sang, Eleanor danced & William detected",
+          "answer": "Powell",
+          "isDailyDouble": false,
+          "orderNumber": 26,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Brad",
+              "score": 8200
+            },
+            {
+              "player": "Linda",
+              "score": 9000
+            },
+            {
+              "player": "Will",
+              "score": 8200
+            }
+          ]
+        },
+        {
+          "category": "GOING COUNTRY",
+          "value": 400,
+          "clue": "In 1975 the fall of Saigon ended the war in this country",
+          "answer": "Vietnam",
+          "isDailyDouble": false,
+          "orderNumber": 27,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Brad",
+              "score": 8600
+            },
+            {
+              "player": "Linda",
+              "score": 9000
+            },
+            {
+              "player": "Will",
+              "score": 8200
+            }
+          ]
+        },
+        {
+          "category": "GOING COUNTRY",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Brad",
+              "score": 8600
+            },
+            {
+              "player": "Linda",
+              "score": 9000
+            },
+            {
+              "player": "Will",
+              "score": 8200
+            }
+          ]
+        },
+        {
+          "category": "GOING COUNTRY",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Brad",
+              "score": 8600
+            },
+            {
+              "player": "Linda",
+              "score": 9000
+            },
+            {
+              "player": "Will",
+              "score": 8200
+            }
+          ]
+        },
+        {
+          "category": "GOING COUNTRY",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Brad",
+              "score": 8600
+            },
+            {
+              "player": "Linda",
+              "score": 9000
+            },
+            {
+              "player": "Will",
+              "score": 8200
+            }
+          ]
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "Brad",
+          "score": 8600
+        },
+        {
+          "player": "Linda",
+          "score": 9000
+        },
+        {
+          "player": "Will",
+          "score": 8200
+        }
+      ]
+    },
+    "finalJeopardy": {
+      "category": "FAMILIAR PHRASES",
+      "clue": "This phrase meaning \"discuss the most important matter\" dates back to 1920s movie editing",
+      "answer": "cut to the chase",
+      "responses": [
+        {
+          "contestant": "Will",
+          "response": "What is Cut to the Chase?",
+          "isCorrect": true,
+          "isIncorrect": false,
+          "value": 8200,
+          "finalScore": 16400
+        },
+        {
+          "contestant": "Brad",
+          "response": "What is Cut to the Chase?",
+          "isCorrect": true,
+          "isIncorrect": false,
+          "value": 4000,
+          "finalScore": 12600
+        },
+        {
+          "contestant": "Linda",
+          "response": "What is Keep It Short",
+          "isCorrect": false,
+          "isIncorrect": true,
+          "value": 6000,
+          "finalScore": 3000
+        }
+      ]
+    }
+  },
+  "finalScores": [
+    {
+      "player": "Brad",
+      "score": "$12,600"
+    },
+    {
+      "player": "Linda",
+      "score": "$3,000"
+    },
+    {
+      "player": "Will",
+      "score": "$16,400"
+    }
+  ],
+  "coryatScores": [
+    {
+      "player": "Brad",
+      "score": 8600
+    },
+    {
+      "player": "Linda",
+      "score": 10800
+    },
+    {
+      "player": "Will",
+      "score": 8200
+    }
+  ]
+}

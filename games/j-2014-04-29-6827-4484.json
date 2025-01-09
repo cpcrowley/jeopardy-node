@@ -1,0 +1,1699 @@
+{
+  "gameId": 4484,
+  "showNumber": "6827",
+  "title": "Show #6827 - Tuesday, April 29, 2014",
+  "date": "2014-04-29",
+  "comments": "Julia Collins game 7.",
+  "contestants": [
+    "Julia",
+    "Mary",
+    "Nick"
+  ],
+  "rounds": {
+    "jeopardy": {
+      "categories": [
+        "THE NEW YORK TIMES YOU NEVER FORGET YOUR FIRST",
+        "ARMY BRATS",
+        "IT'S THE END \"FER\" YOU!",
+        "THE TV CHESSBOARD",
+        "DAM LIES",
+        "STATISTICS"
+      ],
+      "clues": [
+        {
+          "category": "THE NEW YORK TIMES YOU NEVER FORGET YOUR FIRST",
+          "value": 200,
+          "clue": "(I'm Ben Brantley.)  The first show I reviewed for The New York Times was an ill-fated 1993 sequel to this beloved musical; there wasn't much to like--even the dog who played Sandy was rather wooden",
+          "answer": "Annie",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [
+            "Julia"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Julia",
+              "score": 200
+            },
+            {
+              "player": "Mary",
+              "score": 0
+            },
+            {
+              "player": "Nick",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "THE NEW YORK TIMES YOU NEVER FORGET YOUR FIRST",
+          "value": 400,
+          "clue": "(I'm Mark Bittman.)  Today locally grown food is the rage, but in 1991 my first Times  article was about how overnight mail brings fresh food from far off, like these crustaceans sent from Maine",
+          "answer": "lobsters",
+          "isDailyDouble": false,
+          "orderNumber": 2,
+          "correctContestants": [
+            "Julia"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Julia",
+              "score": 600
+            },
+            {
+              "player": "Mary",
+              "score": 0
+            },
+            {
+              "player": "Nick",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "THE NEW YORK TIMES YOU NEVER FORGET YOUR FIRST",
+          "value": 600,
+          "clue": "(I'm Andrew R. Sorkin.)  I wrote my first article for the Times in 1995 when I was still in high school about \"Why You Still Can't Buy a Flaming Pink Computer\"; this Apple model came along 3 years later",
+          "answer": "the iMac",
+          "isDailyDouble": false,
+          "orderNumber": 3,
+          "correctContestants": [
+            "Nick"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Julia",
+              "score": 600
+            },
+            {
+              "player": "Mary",
+              "score": 0
+            },
+            {
+              "player": "Nick",
+              "score": 600
+            }
+          ]
+        },
+        {
+          "category": "DAM LIES",
+          "value": 200,
+          "clue": "Russia's Bratsk Dam lies in this region where there's frost most days of the year",
+          "answer": "Siberia",
+          "isDailyDouble": false,
+          "orderNumber": 4,
+          "correctContestants": [
+            "Mary"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Julia",
+              "score": 600
+            },
+            {
+              "player": "Mary",
+              "score": 200
+            },
+            {
+              "player": "Nick",
+              "score": 600
+            }
+          ]
+        },
+        {
+          "category": "DAM LIES",
+          "value": 1000,
+          "clue": "The Euphrates Dam in this country created Lake Assad",
+          "answer": "Syria",
+          "isDailyDouble": true,
+          "orderNumber": 5,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Mary"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Julia",
+              "score": 600
+            },
+            {
+              "player": "Mary",
+              "score": -800
+            },
+            {
+              "player": "Nick",
+              "score": 600
+            }
+          ]
+        },
+        {
+          "category": "DAM LIES",
+          "value": 600,
+          "clue": "BC Hydro operates the Mica Dam, which lies on this U.S.-Canadian river",
+          "answer": "the Columbia",
+          "isDailyDouble": false,
+          "orderNumber": 6,
+          "correctContestants": [
+            "Julia"
+          ],
+          "incorrectContestants": [
+            "Mary"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Julia",
+              "score": 1200
+            },
+            {
+              "player": "Mary",
+              "score": -1400
+            },
+            {
+              "player": "Nick",
+              "score": 600
+            }
+          ]
+        },
+        {
+          "category": "THE NEW YORK TIMES YOU NEVER FORGET YOUR FIRST",
+          "value": 800,
+          "clue": "(I'm Amy Harmon.)  My first Times byline was in 1997, about the 50th anniversary of a mysterious event in this New Mexico city; \"The X-Files\" & Art Bell's radio show were other signs of the '90s interest in UFOs",
+          "answer": "Roswell",
+          "isDailyDouble": false,
+          "orderNumber": 7,
+          "correctContestants": [
+            "Mary"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Julia",
+              "score": 1200
+            },
+            {
+              "player": "Mary",
+              "score": -600
+            },
+            {
+              "player": "Nick",
+              "score": 600
+            }
+          ]
+        },
+        {
+          "category": "THE NEW YORK TIMES YOU NEVER FORGET YOUR FIRST",
+          "value": 1000,
+          "clue": "(I'm Frank Bruni.)  In June 2004 I started a pretty good gig as the Times restaurant critic with a review of the squab liver & buttered breadcrumb pasta topping at Babbo, run by this exuberant master of Italian food",
+          "answer": "Mario Batali",
+          "isDailyDouble": false,
+          "orderNumber": 8,
+          "correctContestants": [
+            "Julia"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Julia",
+              "score": 2200
+            },
+            {
+              "player": "Mary",
+              "score": -600
+            },
+            {
+              "player": "Nick",
+              "score": 600
+            }
+          ]
+        },
+        {
+          "category": "THE TV CHESSBOARD",
+          "value": 200,
+          "clue": "Desperate sellers come to the Vegas shop run by the Harrisons & ask, \"What's it worth?\" on this History Channel show",
+          "answer": "Pawn Stars",
+          "isDailyDouble": false,
+          "orderNumber": 9,
+          "correctContestants": [
+            "Julia"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Julia",
+              "score": 2400
+            },
+            {
+              "player": "Mary",
+              "score": -600
+            },
+            {
+              "player": "Nick",
+              "score": 600
+            }
+          ]
+        },
+        {
+          "category": "THE TV CHESSBOARD",
+          "value": 400,
+          "clue": "In 2010 this suspenders-wearing host signed off from his CNN talk show after 25 years",
+          "answer": "Larry King",
+          "isDailyDouble": false,
+          "orderNumber": 10,
+          "correctContestants": [
+            "Julia"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Julia",
+              "score": 2800
+            },
+            {
+              "player": "Mary",
+              "score": -600
+            },
+            {
+              "player": "Nick",
+              "score": 600
+            }
+          ]
+        },
+        {
+          "category": "THE TV CHESSBOARD",
+          "value": 600,
+          "clue": "KITT was the talking car on this '80s adventure show",
+          "answer": "Knight Rider",
+          "isDailyDouble": false,
+          "orderNumber": 11,
+          "correctContestants": [
+            "Nick"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Julia",
+              "score": 2800
+            },
+            {
+              "player": "Mary",
+              "score": -600
+            },
+            {
+              "player": "Nick",
+              "score": 1200
+            }
+          ]
+        },
+        {
+          "category": "ARMY BRATS",
+          "value": 200,
+          "clue": "The father of this \"Stormin'\" commander in the first Gulf War served in the military during WWI & WWII",
+          "answer": "Norman Schwarzkopf",
+          "isDailyDouble": false,
+          "orderNumber": 12,
+          "correctContestants": [
+            "Nick"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Julia",
+              "score": 2800
+            },
+            {
+              "player": "Mary",
+              "score": -600
+            },
+            {
+              "player": "Nick",
+              "score": 1400
+            }
+          ]
+        },
+        {
+          "category": "ARMY BRATS",
+          "value": 400,
+          "clue": "RG2 was stationed on Okinawa when this son & future football star was born",
+          "answer": "R(obert) Griffin III",
+          "isDailyDouble": false,
+          "orderNumber": 13,
+          "correctContestants": [
+            "Nick"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Julia",
+              "score": 2800
+            },
+            {
+              "player": "Mary",
+              "score": -600
+            },
+            {
+              "player": "Nick",
+              "score": 1800
+            }
+          ]
+        },
+        {
+          "category": "ARMY BRATS",
+          "value": 600,
+          "clue": "He grew up on bases before he was a Georgia congressman, House speaker & candidate for president",
+          "answer": "Newt Gingrich",
+          "isDailyDouble": false,
+          "orderNumber": 14,
+          "correctContestants": [
+            "Julia"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Julia",
+              "score": 3400
+            },
+            {
+              "player": "Mary",
+              "score": -600
+            },
+            {
+              "player": "Nick",
+              "score": 1800
+            }
+          ]
+        },
+        {
+          "category": "ARMY BRATS",
+          "value": 800,
+          "clue": "This redheaded daughter of a U.S. Army judge scored same-year Oscar nominations for \"The Hours\" & \"Far from Heaven\"",
+          "answer": "Julianne Moore",
+          "isDailyDouble": false,
+          "orderNumber": 15,
+          "correctContestants": [
+            "Julia"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Julia",
+              "score": 4200
+            },
+            {
+              "player": "Mary",
+              "score": -600
+            },
+            {
+              "player": "Nick",
+              "score": 1800
+            }
+          ]
+        },
+        {
+          "category": "THE TV CHESSBOARD",
+          "value": 800,
+          "clue": "Kelly Bishop played Lauren Graham's often critical mother on this early 2000s show",
+          "answer": "Gilmore Girls",
+          "isDailyDouble": false,
+          "orderNumber": 16,
+          "correctContestants": [
+            "Julia"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Julia",
+              "score": 5000
+            },
+            {
+              "player": "Mary",
+              "score": -600
+            },
+            {
+              "player": "Nick",
+              "score": 1800
+            }
+          ]
+        },
+        {
+          "category": "THE TV CHESSBOARD",
+          "value": 1000,
+          "clue": "In 1993 Halle Berry played this title Alex Haley heroine, daughter of a plantation owner & a slave",
+          "answer": "Queen",
+          "isDailyDouble": false,
+          "orderNumber": 17,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Julia",
+              "score": 5000
+            },
+            {
+              "player": "Mary",
+              "score": -600
+            },
+            {
+              "player": "Nick",
+              "score": 1800
+            }
+          ]
+        },
+        {
+          "category": "STATISTICS",
+          "value": 200,
+          "clue": "Positive news: in 2013 NYC had fewer than 350 of these, compared to more than 2,100 in 1991",
+          "answer": "murders",
+          "isDailyDouble": false,
+          "orderNumber": 18,
+          "correctContestants": [
+            "Mary"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Julia",
+              "score": 5000
+            },
+            {
+              "player": "Mary",
+              "score": -400
+            },
+            {
+              "player": "Nick",
+              "score": 1800
+            }
+          ]
+        },
+        {
+          "category": "IT'S THE END \"FER\" YOU!",
+          "value": 200,
+          "clue": "A pine, fir or spruce",
+          "answer": "a conifer",
+          "isDailyDouble": false,
+          "orderNumber": 19,
+          "correctContestants": [
+            "Mary"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Julia",
+              "score": 5000
+            },
+            {
+              "player": "Mary",
+              "score": -200
+            },
+            {
+              "player": "Nick",
+              "score": 1800
+            }
+          ]
+        },
+        {
+          "category": "IT'S THE END \"FER\" YOU!",
+          "value": 400,
+          "clue": "Troy Aikman did this from Oklahoma to UCLA--good move",
+          "answer": "transfer",
+          "isDailyDouble": false,
+          "orderNumber": 20,
+          "correctContestants": [
+            "Julia"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Julia",
+              "score": 5400
+            },
+            {
+              "player": "Mary",
+              "score": -200
+            },
+            {
+              "player": "Nick",
+              "score": 1800
+            }
+          ]
+        },
+        {
+          "category": "IT'S THE END \"FER\" YOU!",
+          "value": 600,
+          "clue": "A box or chest for valuables; fill it now!",
+          "answer": "coffer",
+          "isDailyDouble": false,
+          "orderNumber": 21,
+          "correctContestants": [
+            "Julia"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Julia",
+              "score": 6000
+            },
+            {
+              "player": "Mary",
+              "score": -200
+            },
+            {
+              "player": "Nick",
+              "score": 1800
+            }
+          ]
+        },
+        {
+          "category": "IT'S THE END \"FER\" YOU!",
+          "value": 800,
+          "clue": "To steal, purloin or filch",
+          "answer": "pilfer",
+          "isDailyDouble": false,
+          "orderNumber": 22,
+          "correctContestants": [
+            "Mary"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Julia",
+              "score": 6000
+            },
+            {
+              "player": "Mary",
+              "score": 600
+            },
+            {
+              "player": "Nick",
+              "score": 1800
+            }
+          ]
+        },
+        {
+          "category": "IT'S THE END \"FER\" YOU!",
+          "value": 1000,
+          "clue": "A geological formation conducting ground water",
+          "answer": "aquifer",
+          "isDailyDouble": false,
+          "orderNumber": 23,
+          "correctContestants": [
+            "Nick"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Julia",
+              "score": 6000
+            },
+            {
+              "player": "Mary",
+              "score": 600
+            },
+            {
+              "player": "Nick",
+              "score": 2800
+            }
+          ]
+        },
+        {
+          "category": "ARMY BRATS",
+          "value": 1000,
+          "clue": "Robert E. Lee was the son of this soldier, seen here  with one of the beasts that gave him his nickname",
+          "answer": "\"Lighthorse\" Harry Lee",
+          "isDailyDouble": false,
+          "orderNumber": 24,
+          "correctContestants": [
+            "Julia"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Julia",
+              "score": 7000
+            },
+            {
+              "player": "Mary",
+              "score": 600
+            },
+            {
+              "player": "Nick",
+              "score": 2800
+            }
+          ]
+        },
+        {
+          "category": "DAM LIES",
+          "value": 800,
+          "clue": "The Aswan High Dam created this reservoir named for an Egyptian president",
+          "answer": "Lake Nasser",
+          "isDailyDouble": false,
+          "orderNumber": 25,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Mary"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Julia",
+              "score": 7000
+            },
+            {
+              "player": "Mary",
+              "score": -200
+            },
+            {
+              "player": "Nick",
+              "score": 2800
+            }
+          ]
+        },
+        {
+          "category": "STATISTICS",
+          "value": 1000,
+          "clue": "2000-2010 figures show the fatality rate in this job is 31 times that for all workers, 1/3 of deaths from falling overboard",
+          "answer": "fishermen",
+          "isDailyDouble": false,
+          "orderNumber": 26,
+          "correctContestants": [
+            "Julia"
+          ],
+          "incorrectContestants": [
+            "Mary"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Julia",
+              "score": 8000
+            },
+            {
+              "player": "Mary",
+              "score": -1200
+            },
+            {
+              "player": "Nick",
+              "score": 2800
+            }
+          ]
+        },
+        {
+          "category": "STATISTICS",
+          "value": 800,
+          "clue": "According to a Pew report, today 20% of Americans 18-29 have this status; in 1960 it was 59%",
+          "answer": "married",
+          "isDailyDouble": false,
+          "orderNumber": 27,
+          "correctContestants": [
+            "Nick"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Julia",
+              "score": 8000
+            },
+            {
+              "player": "Mary",
+              "score": -1200
+            },
+            {
+              "player": "Nick",
+              "score": 3600
+            }
+          ]
+        },
+        {
+          "category": "STATISTICS",
+          "value": 600,
+          "clue": "A Logitech survey found that about half the time, that TV remote you can't locate is actually here",
+          "answer": "in the couch cushions",
+          "isDailyDouble": false,
+          "orderNumber": 28,
+          "correctContestants": [
+            "Nick"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Julia",
+              "score": 8000
+            },
+            {
+              "player": "Mary",
+              "score": -1200
+            },
+            {
+              "player": "Nick",
+              "score": 4200
+            }
+          ]
+        },
+        {
+          "category": "STATISTICS",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Julia",
+              "score": 8000
+            },
+            {
+              "player": "Mary",
+              "score": -1200
+            },
+            {
+              "player": "Nick",
+              "score": 4200
+            }
+          ]
+        },
+        {
+          "category": "DAM LIES",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Julia",
+              "score": 8000
+            },
+            {
+              "player": "Mary",
+              "score": -1200
+            },
+            {
+              "player": "Nick",
+              "score": 4200
+            }
+          ]
+        }
+      ],
+      "firstBreakScores": [
+        {
+          "player": "Julia",
+          "score": 2800
+        },
+        {
+          "player": "Mary",
+          "score": -600
+        },
+        {
+          "player": "Nick",
+          "score": 1400
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "Julia",
+          "score": 8000
+        },
+        {
+          "player": "Mary",
+          "score": -1200
+        },
+        {
+          "player": "Nick",
+          "score": 4200
+        }
+      ]
+    },
+    "doubleJeopardy": {
+      "categories": [
+        "RECENT HISTORICAL FICTION",
+        "AMERICANA",
+        "ABBREVIATED ABC",
+        "I DIRECTED MY WIFE IN THAT FILM",
+        "GEOGRAPHIC ANAGRAMS",
+        "SCIENCE & SCIENTISTS"
+      ],
+      "clues": [
+        {
+          "category": "AMERICANA",
+          "value": 2000,
+          "clue": "After Noah Webster's death, the company named for these brothers bought the rights to his dictionary",
+          "answer": "the Merriam Brothers",
+          "isDailyDouble": true,
+          "orderNumber": 1,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Julia",
+              "score": 8000
+            },
+            {
+              "player": "Mary",
+              "score": 800
+            },
+            {
+              "player": "Nick",
+              "score": 4200
+            }
+          ]
+        },
+        {
+          "category": "AMERICANA",
+          "value": 1200,
+          "clue": "Florida's Lake Worth was named for William Worth, a U.S. military leader during these nearby native wars",
+          "answer": "the Seminole Wars",
+          "isDailyDouble": false,
+          "orderNumber": 2,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Julia",
+              "score": 8000
+            },
+            {
+              "player": "Mary",
+              "score": 2000
+            },
+            {
+              "player": "Nick",
+              "score": 4200
+            }
+          ]
+        },
+        {
+          "category": "AMERICANA",
+          "value": 1600,
+          "clue": "This cowboy of folklore met his first wife, Slue-Foot Sue, while she was riding a catfish on the Rio Grande",
+          "answer": "Pecos Bill",
+          "isDailyDouble": false,
+          "orderNumber": 3,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Julia",
+              "score": 9600
+            },
+            {
+              "player": "Mary",
+              "score": 2000
+            },
+            {
+              "player": "Nick",
+              "score": 4200
+            }
+          ]
+        },
+        {
+          "category": "AMERICANA",
+          "value": 2000,
+          "clue": "This minister wrote anecdotal bios of Ben Franklin & William Penn as well as the one about George Washington",
+          "answer": "Parson Weems",
+          "isDailyDouble": false,
+          "orderNumber": 4,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Julia",
+              "score": 11600
+            },
+            {
+              "player": "Mary",
+              "score": 2000
+            },
+            {
+              "player": "Nick",
+              "score": 4200
+            }
+          ]
+        },
+        {
+          "category": "RECENT HISTORICAL FICTION",
+          "value": 400,
+          "clue": "Melanie Benjamin's \"The Aviator's Wife\" fictionalized the life & marriage of Anne Morrow & this man",
+          "answer": "Charles Lindbergh",
+          "isDailyDouble": false,
+          "orderNumber": 5,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Julia",
+              "score": 11600
+            },
+            {
+              "player": "Mary",
+              "score": 2400
+            },
+            {
+              "player": "Nick",
+              "score": 4200
+            }
+          ]
+        },
+        {
+          "category": "RECENT HISTORICAL FICTION",
+          "value": 800,
+          "clue": "\"The Painted Girls\" is a novel of 2 sisters in Paris, one of whom models for a dancer sculpture by this artist",
+          "answer": "Degas",
+          "isDailyDouble": false,
+          "orderNumber": 6,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Julia",
+              "score": 12400
+            },
+            {
+              "player": "Mary",
+              "score": 2400
+            },
+            {
+              "player": "Nick",
+              "score": 4200
+            }
+          ]
+        },
+        {
+          "category": "AMERICANA",
+          "value": 400,
+          "clue": "These kitschy front yard birds have their own \"scientific\" name, Phoenicopteris ruber plasticus",
+          "answer": "pink flamingos",
+          "isDailyDouble": false,
+          "orderNumber": 7,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Julia",
+              "score": 12400
+            },
+            {
+              "player": "Mary",
+              "score": 2800
+            },
+            {
+              "player": "Nick",
+              "score": 4200
+            }
+          ]
+        },
+        {
+          "category": "RECENT HISTORICAL FICTION",
+          "value": 1200,
+          "clue": "\"The Dovekeepers\" blends together stories centered on the siege at this Judean desert stronghold 2,000 years ago",
+          "answer": "Masada",
+          "isDailyDouble": false,
+          "orderNumber": 8,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Julia",
+              "score": 12400
+            },
+            {
+              "player": "Mary",
+              "score": 4000
+            },
+            {
+              "player": "Nick",
+              "score": 4200
+            }
+          ]
+        },
+        {
+          "category": "RECENT HISTORICAL FICTION",
+          "value": 1600,
+          "clue": "In 2011's \"Caleb's Crossing\", a man strives to become the first Native American to graduate from this college",
+          "answer": "Harvard",
+          "isDailyDouble": false,
+          "orderNumber": 9,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Julia",
+              "score": 12400
+            },
+            {
+              "player": "Mary",
+              "score": 4000
+            },
+            {
+              "player": "Nick",
+              "score": 4200
+            }
+          ]
+        },
+        {
+          "category": "RECENT HISTORICAL FICTION",
+          "value": 2000,
+          "clue": "Made into a successful TV miniseries, this Philippa Gregory novel dramatized the life of the wife of Edward IV",
+          "answer": "The White Queen",
+          "isDailyDouble": false,
+          "orderNumber": 10,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Julia",
+              "score": 12400
+            },
+            {
+              "player": "Mary",
+              "score": 4000
+            },
+            {
+              "player": "Nick",
+              "score": 4200
+            }
+          ]
+        },
+        {
+          "category": "GEOGRAPHIC ANAGRAMS",
+          "value": 800,
+          "clue": "As soon as I got to this country it started to rain",
+          "answer": "Iran (from rain)",
+          "isDailyDouble": false,
+          "orderNumber": 11,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Julia",
+              "score": 12400
+            },
+            {
+              "player": "Mary",
+              "score": 4800
+            },
+            {
+              "player": "Nick",
+              "score": 4200
+            }
+          ]
+        },
+        {
+          "category": "GEOGRAPHIC ANAGRAMS",
+          "value": 1200,
+          "clue": "Today I received mail from this African country",
+          "answer": "Mali (from mail)",
+          "isDailyDouble": false,
+          "orderNumber": 12,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Julia",
+              "score": 13600
+            },
+            {
+              "player": "Mary",
+              "score": 4800
+            },
+            {
+              "player": "Nick",
+              "score": 4200
+            }
+          ]
+        },
+        {
+          "category": "I DIRECTED MY WIFE IN THAT FILM",
+          "value": 400,
+          "clue": "Joanne Woodwardin \"The Glass Menagerie\"",
+          "answer": "Paul Newman",
+          "isDailyDouble": false,
+          "orderNumber": 13,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Julia",
+              "score": 13600
+            },
+            {
+              "player": "Mary",
+              "score": 5200
+            },
+            {
+              "player": "Nick",
+              "score": 4200
+            }
+          ]
+        },
+        {
+          "category": "GEOGRAPHIC ANAGRAMS",
+          "value": 1600,
+          "clue": "After my trip to Tobago, I'll visit this world capital",
+          "answer": "Bogotá (from Tobago)",
+          "isDailyDouble": false,
+          "orderNumber": 14,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Julia",
+              "score": 13600
+            },
+            {
+              "player": "Mary",
+              "score": 5200
+            },
+            {
+              "player": "Nick",
+              "score": 5800
+            }
+          ]
+        },
+        {
+          "category": "SCIENCE & SCIENTISTS",
+          "value": 400,
+          "clue": "This German-born engineer oversaw the production of Saturn rockets in Huntsville, Alabama",
+          "answer": "Wernher von Braun",
+          "isDailyDouble": false,
+          "orderNumber": 15,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Mary"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Julia",
+              "score": 13200
+            },
+            {
+              "player": "Mary",
+              "score": 4800
+            },
+            {
+              "player": "Nick",
+              "score": 5800
+            }
+          ]
+        },
+        {
+          "category": "SCIENCE & SCIENTISTS",
+          "value": 800,
+          "clue": "This zoological class includes spiders & scorpions",
+          "answer": "arachnids",
+          "isDailyDouble": false,
+          "orderNumber": 16,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Julia",
+              "score": 14000
+            },
+            {
+              "player": "Mary",
+              "score": 4800
+            },
+            {
+              "player": "Nick",
+              "score": 5800
+            }
+          ]
+        },
+        {
+          "category": "I DIRECTED MY WIFE IN THAT FILM",
+          "value": 800,
+          "clue": "Paulette Goddardin \"The Great Dictator\"",
+          "answer": "Charlie Chaplin",
+          "isDailyDouble": false,
+          "orderNumber": 17,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Julia",
+              "score": 14000
+            },
+            {
+              "player": "Mary",
+              "score": 5600
+            },
+            {
+              "player": "Nick",
+              "score": 5800
+            }
+          ]
+        },
+        {
+          "category": "I DIRECTED MY WIFE IN THAT FILM",
+          "value": 1200,
+          "clue": "Leslie Mann in\"The 40-Year-Old Virgin\"",
+          "answer": "Judd Apatow",
+          "isDailyDouble": false,
+          "orderNumber": 18,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Julia",
+              "score": 15200
+            },
+            {
+              "player": "Mary",
+              "score": 5600
+            },
+            {
+              "player": "Nick",
+              "score": 5800
+            }
+          ]
+        },
+        {
+          "category": "I DIRECTED MY WIFE IN THAT FILM",
+          "value": 1600,
+          "clue": "Kate Winslet in\"Revolutionary Road\"",
+          "answer": "Sam Mendes",
+          "isDailyDouble": false,
+          "orderNumber": 19,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Julia",
+              "score": 16800
+            },
+            {
+              "player": "Mary",
+              "score": 5600
+            },
+            {
+              "player": "Nick",
+              "score": 5800
+            }
+          ]
+        },
+        {
+          "category": "I DIRECTED MY WIFE IN THAT FILM",
+          "value": 2000,
+          "clue": "Gena Rowlands in\"A Woman Under the Influence\"",
+          "answer": "John Cassavetes",
+          "isDailyDouble": false,
+          "orderNumber": 20,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Julia",
+              "score": 16800
+            },
+            {
+              "player": "Mary",
+              "score": 7600
+            },
+            {
+              "player": "Nick",
+              "score": 5800
+            }
+          ]
+        },
+        {
+          "category": "GEOGRAPHIC ANAGRAMS",
+          "value": 2000,
+          "clue": "I cannot believe this Chinese city is properly called Guangzhou",
+          "answer": "Canton (from cannot)",
+          "isDailyDouble": false,
+          "orderNumber": 21,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Julia",
+              "score": 18800
+            },
+            {
+              "player": "Mary",
+              "score": 7600
+            },
+            {
+              "player": "Nick",
+              "score": 5800
+            }
+          ]
+        },
+        {
+          "category": "SCIENCE & SCIENTISTS",
+          "value": 3500,
+          "clue": "He was in charge of Italy's radio service during World War I",
+          "answer": "Marconi",
+          "isDailyDouble": true,
+          "orderNumber": 22,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Julia",
+              "score": 22300
+            },
+            {
+              "player": "Mary",
+              "score": 7600
+            },
+            {
+              "player": "Nick",
+              "score": 5800
+            }
+          ]
+        },
+        {
+          "category": "SCIENCE & SCIENTISTS",
+          "value": 1600,
+          "clue": "Fritz Haber won a Nobel Prize for producing this gas from hydrogen & nitrogen",
+          "answer": "ammonia",
+          "isDailyDouble": false,
+          "orderNumber": 23,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Julia",
+              "score": 20700
+            },
+            {
+              "player": "Mary",
+              "score": 7600
+            },
+            {
+              "player": "Nick",
+              "score": 5800
+            }
+          ]
+        },
+        {
+          "category": "SCIENCE & SCIENTISTS",
+          "value": 2000,
+          "clue": "In 1867 he came up with the idea of using carbolic acid to kill germs in surgical wounds",
+          "answer": "(Joseph) Lister",
+          "isDailyDouble": false,
+          "orderNumber": 24,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Julia",
+              "score": 20700
+            },
+            {
+              "player": "Mary",
+              "score": 9600
+            },
+            {
+              "player": "Nick",
+              "score": 5800
+            }
+          ]
+        },
+        {
+          "category": "ABBREVIATED ABC",
+          "value": 400,
+          "clue": "ABC is not only the American Broadcasting Company but also this Commonwealth one",
+          "answer": "the Australian Broadcasting Company",
+          "isDailyDouble": false,
+          "orderNumber": 25,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Julia",
+              "score": 20700
+            },
+            {
+              "player": "Mary",
+              "score": 9600
+            },
+            {
+              "player": "Nick",
+              "score": 6200
+            }
+          ]
+        },
+        {
+          "category": "ABBREVIATED ABC",
+          "value": 2000,
+          "clue": "The Caribbean ABC islands are Aruba, Bonaire & this one",
+          "answer": "Curaçao",
+          "isDailyDouble": false,
+          "orderNumber": 26,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Julia",
+              "score": 22700
+            },
+            {
+              "player": "Mary",
+              "score": 9600
+            },
+            {
+              "player": "Nick",
+              "score": 6200
+            }
+          ]
+        },
+        {
+          "category": "ABBREVIATED ABC",
+          "value": 1600,
+          "clue": "The 1980s introduction of ABC, or activity-based costing, revolutionized this \"A\" field",
+          "answer": "accounting",
+          "isDailyDouble": false,
+          "orderNumber": 27,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Julia",
+              "score": 24300
+            },
+            {
+              "player": "Mary",
+              "score": 9600
+            },
+            {
+              "player": "Nick",
+              "score": 6200
+            }
+          ]
+        },
+        {
+          "category": "ABBREVIATED ABC",
+          "value": 1200,
+          "clue": "To standardize the rules, the ABC or American Congress of this popular participation sport was founded in 1895",
+          "answer": "bowling",
+          "isDailyDouble": false,
+          "orderNumber": 28,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Julia",
+              "score": 24300
+            },
+            {
+              "player": "Mary",
+              "score": 9600
+            },
+            {
+              "player": "Nick",
+              "score": 6200
+            }
+          ]
+        },
+        {
+          "category": "ABBREVIATED ABC",
+          "value": 800,
+          "clue": "Used as shorthand when administering CPR, ABC is \"airway\", this function & \"circulation\"",
+          "answer": "breathing",
+          "isDailyDouble": false,
+          "orderNumber": 29,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Julia",
+              "score": 25100
+            },
+            {
+              "player": "Mary",
+              "score": 9600
+            },
+            {
+              "player": "Nick",
+              "score": 6200
+            }
+          ]
+        },
+        {
+          "category": "GEOGRAPHIC ANAGRAMS",
+          "value": 400,
+          "clue": "From Kyoto we flew to this city",
+          "answer": "Tokyo (from Kyoto)",
+          "isDailyDouble": false,
+          "orderNumber": 30,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Julia",
+              "score": 25100
+            },
+            {
+              "player": "Mary",
+              "score": 10000
+            },
+            {
+              "player": "Nick",
+              "score": 6200
+            }
+          ]
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "Julia",
+          "score": 25100
+        },
+        {
+          "player": "Mary",
+          "score": 10000
+        },
+        {
+          "player": "Nick",
+          "score": 6200
+        }
+      ]
+    },
+    "finalJeopardy": {
+      "category": "U.S. HISTORY",
+      "clue": "Messrs. Gusenberg, Gusenberg, May, Weinshank, Clark, Heyer & Schwimmer famously died on this day in 1929",
+      "answer": "February 14 (or Valentine's Day)",
+      "responses": [
+        {
+          "contestant": "Nick",
+          "response": "What is July 4th",
+          "isCorrect": false,
+          "isIncorrect": true,
+          "value": 6199,
+          "finalScore": 1
+        },
+        {
+          "contestant": "Mary",
+          "response": "What is Black Friday?",
+          "isCorrect": false,
+          "isIncorrect": true,
+          "value": 9999,
+          "finalScore": 1
+        },
+        {
+          "contestant": "Julia",
+          "response": "What is October 8?",
+          "isCorrect": false,
+          "isIncorrect": true,
+          "value": 5000,
+          "finalScore": 20100
+        }
+      ]
+    }
+  },
+  "finalScores": [
+    {
+      "player": "Julia",
+      "score": "$20,100"
+    },
+    {
+      "player": "Mary",
+      "score": "$1"
+    },
+    {
+      "player": "Nick",
+      "score": "$1"
+    }
+  ],
+  "coryatScores": [
+    {
+      "player": "Julia",
+      "score": 22800
+    },
+    {
+      "player": "Mary",
+      "score": 9800
+    },
+    {
+      "player": "Nick",
+      "score": 6200
+    }
+  ]
+}

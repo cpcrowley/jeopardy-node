@@ -1,0 +1,1701 @@
+{
+  "gameId": 3937,
+  "showNumber": "6415",
+  "title": "Show #6415 - Friday, July 6, 2012",
+  "date": "2012-07-06",
+  "comments": "",
+  "contestants": [
+    "Stephanie",
+    "Henry",
+    "Susan"
+  ],
+  "rounds": {
+    "jeopardy": {
+      "categories": [
+        "STARTING WORDS",
+        "E BAY",
+        "DECONSTRUCTING THE NURSERY RHYME",
+        "THE WEBS OF WEBSITES",
+        "ICE CREAM",
+        "JIMMY'S ON TOP"
+      ],
+      "clues": [
+        {
+          "category": "STARTING WORDS",
+          "value": 200,
+          "clue": "On May 17, 2010 Meryl Streep spoke at this graduation ceremony at Barnard College",
+          "answer": "commencement",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Stephanie",
+              "score": 0
+            },
+            {
+              "player": "Henry",
+              "score": 0
+            },
+            {
+              "player": "Susan",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "STARTING WORDS",
+          "value": 800,
+          "clue": "To begin a process, or to admit a pledge into a college fraternity",
+          "answer": "initiate",
+          "isDailyDouble": true,
+          "orderNumber": 2,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Stephanie"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Stephanie",
+              "score": -800
+            },
+            {
+              "player": "Henry",
+              "score": 0
+            },
+            {
+              "player": "Susan",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "STARTING WORDS",
+          "value": 600,
+          "clue": "It means to start; pronounced differently, it's the last name of a 1970s Israeli Prime Minister",
+          "answer": "Begin",
+          "isDailyDouble": false,
+          "orderNumber": 3,
+          "correctContestants": [
+            "Henry"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Stephanie",
+              "score": -800
+            },
+            {
+              "player": "Henry",
+              "score": 600
+            },
+            {
+              "player": "Susan",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "ICE CREAM",
+          "value": 200,
+          "clue": "Amaretto Almond Crunch & Blueberry Crumble are limited edition flavors of this ice cream with an umlaut in its name",
+          "answer": "Häagen-Dazs",
+          "isDailyDouble": false,
+          "orderNumber": 4,
+          "correctContestants": [
+            "Susan"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Stephanie",
+              "score": -800
+            },
+            {
+              "player": "Henry",
+              "score": 600
+            },
+            {
+              "player": "Susan",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "ICE CREAM",
+          "value": 400,
+          "clue": "In 1923 Harry Burt patented these ice cream bars on a stick; bringing a pail of them for patent officials to sample was smart",
+          "answer": "a Good Humor Bar",
+          "isDailyDouble": false,
+          "orderNumber": 5,
+          "correctContestants": [
+            "Henry"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Stephanie",
+              "score": -800
+            },
+            {
+              "player": "Henry",
+              "score": 1000
+            },
+            {
+              "player": "Susan",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "ICE CREAM",
+          "value": 600,
+          "clue": "An \"ice cream parade\" through the Blue Hall of Stockholm's city hall is part of the banquet after these awards",
+          "answer": "Nobel Prizes",
+          "isDailyDouble": false,
+          "orderNumber": 6,
+          "correctContestants": [
+            "Susan"
+          ],
+          "incorrectContestants": [
+            "Henry"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Stephanie",
+              "score": -800
+            },
+            {
+              "player": "Henry",
+              "score": 400
+            },
+            {
+              "player": "Susan",
+              "score": 800
+            }
+          ]
+        },
+        {
+          "category": "ICE CREAM",
+          "value": 800,
+          "clue": "This \"original sundae cone\" from Nestle is named for its resemblance to part of a fried chicken",
+          "answer": "a Drumstick",
+          "isDailyDouble": false,
+          "orderNumber": 7,
+          "correctContestants": [
+            "Stephanie"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Stephanie",
+              "score": 0
+            },
+            {
+              "player": "Henry",
+              "score": 400
+            },
+            {
+              "player": "Susan",
+              "score": 800
+            }
+          ]
+        },
+        {
+          "category": "ICE CREAM",
+          "value": 1000,
+          "clue": "Top off a Japanese meal with these golf-ball-sized ice cream treats wrapped in soft dough",
+          "answer": "mochi",
+          "isDailyDouble": false,
+          "orderNumber": 8,
+          "correctContestants": [
+            "Stephanie"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Stephanie",
+              "score": 1000
+            },
+            {
+              "player": "Henry",
+              "score": 400
+            },
+            {
+              "player": "Susan",
+              "score": 800
+            }
+          ]
+        },
+        {
+          "category": "THE WEBS OF WEBSITES",
+          "value": 200,
+          "clue": "YouTube & Blogger are part of this company, the No. 1 search engine",
+          "answer": "Google",
+          "isDailyDouble": false,
+          "orderNumber": 9,
+          "correctContestants": [
+            "Stephanie"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Stephanie",
+              "score": 1200
+            },
+            {
+              "player": "Henry",
+              "score": 400
+            },
+            {
+              "player": "Susan",
+              "score": 800
+            }
+          ]
+        },
+        {
+          "category": "THE WEBS OF WEBSITES",
+          "value": 400,
+          "clue": "This newspaper company also gives you information at its website about.com",
+          "answer": "The New York Times",
+          "isDailyDouble": false,
+          "orderNumber": 10,
+          "correctContestants": [
+            "Henry"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Stephanie",
+              "score": 1200
+            },
+            {
+              "player": "Henry",
+              "score": 800
+            },
+            {
+              "player": "Susan",
+              "score": 800
+            }
+          ]
+        },
+        {
+          "category": "THE WEBS OF WEBSITES",
+          "value": 600,
+          "clue": "AOL owns patch.com & this site for information about films playing in your area",
+          "answer": "Moviefone",
+          "isDailyDouble": false,
+          "orderNumber": 11,
+          "correctContestants": [
+            "Susan"
+          ],
+          "incorrectContestants": [
+            "Henry"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Stephanie",
+              "score": 1200
+            },
+            {
+              "player": "Henry",
+              "score": 200
+            },
+            {
+              "player": "Susan",
+              "score": 1400
+            }
+          ]
+        },
+        {
+          "category": "THE WEBS OF WEBSITES",
+          "value": 800,
+          "clue": "Keep an \"eye\" on this broadcaster's site; its brands include Urban Baby & last.fm",
+          "answer": "CBS",
+          "isDailyDouble": false,
+          "orderNumber": 12,
+          "correctContestants": [
+            "Susan"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Stephanie",
+              "score": 1200
+            },
+            {
+              "player": "Henry",
+              "score": 200
+            },
+            {
+              "player": "Susan",
+              "score": 2200
+            }
+          ]
+        },
+        {
+          "category": "THE WEBS OF WEBSITES",
+          "value": 1000,
+          "clue": "IAC sites include College Humor, ask.com & this \"Daily\" news site, Newsweek's online home",
+          "answer": "the Daily Beast",
+          "isDailyDouble": false,
+          "orderNumber": 13,
+          "correctContestants": [
+            "Henry"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Stephanie",
+              "score": 1200
+            },
+            {
+              "player": "Henry",
+              "score": 1200
+            },
+            {
+              "player": "Susan",
+              "score": 2200
+            }
+          ]
+        },
+        {
+          "category": "JIMMY'S ON TOP",
+          "value": 200,
+          "clue": "\"Late Night with\" this former \"SNL\" guy has won 3 primetime Emmys",
+          "answer": "Jimmy Fallon",
+          "isDailyDouble": false,
+          "orderNumber": 14,
+          "correctContestants": [
+            "Susan"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Stephanie",
+              "score": 1200
+            },
+            {
+              "player": "Henry",
+              "score": 1200
+            },
+            {
+              "player": "Susan",
+              "score": 2400
+            }
+          ]
+        },
+        {
+          "category": "JIMMY'S ON TOP",
+          "value": 400,
+          "clue": "In the '70s this left-handed tennis player was ranked No. 1 in the world for 160 consecutive weeks",
+          "answer": "Jimmy Connors",
+          "isDailyDouble": false,
+          "orderNumber": 15,
+          "correctContestants": [
+            "Susan"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Stephanie",
+              "score": 1200
+            },
+            {
+              "player": "Henry",
+              "score": 1200
+            },
+            {
+              "player": "Susan",
+              "score": 2800
+            }
+          ]
+        },
+        {
+          "category": "JIMMY'S ON TOP",
+          "value": 600,
+          "clue": "His song \"Big Bad John\" spent 2 weeks at the top of the country charts",
+          "answer": "Jimmy Dean",
+          "isDailyDouble": false,
+          "orderNumber": 16,
+          "correctContestants": [
+            "Susan"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Stephanie",
+              "score": 1200
+            },
+            {
+              "player": "Henry",
+              "score": 1200
+            },
+            {
+              "player": "Susan",
+              "score": 3400
+            }
+          ]
+        },
+        {
+          "category": "JIMMY'S ON TOP",
+          "value": 800,
+          "clue": "In 1985 this actor's wonderful life included getting the Presidential Medal of Freedom, the USA's highest civilian honor",
+          "answer": "Jimmy Stewart",
+          "isDailyDouble": false,
+          "orderNumber": 17,
+          "correctContestants": [
+            "Henry"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Stephanie",
+              "score": 1200
+            },
+            {
+              "player": "Henry",
+              "score": 2000
+            },
+            {
+              "player": "Susan",
+              "score": 3400
+            }
+          ]
+        },
+        {
+          "category": "JIMMY'S ON TOP",
+          "value": 1000,
+          "clue": "This man who sang \"You Can Get It If You Really Want\" is a recipient of Jamaica's Order of Merit",
+          "answer": "Jimmy Cliff",
+          "isDailyDouble": false,
+          "orderNumber": 18,
+          "correctContestants": [
+            "Susan"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Stephanie",
+              "score": 1200
+            },
+            {
+              "player": "Henry",
+              "score": 2000
+            },
+            {
+              "player": "Susan",
+              "score": 4400
+            }
+          ]
+        },
+        {
+          "category": "DECONSTRUCTING THE NURSERY RHYME",
+          "value": 200,
+          "clue": "This small boy based the perception of his behavior on the removal of a fruit item from pastry",
+          "answer": "Little Jack Horner",
+          "isDailyDouble": false,
+          "orderNumber": 19,
+          "correctContestants": [
+            "Susan"
+          ],
+          "incorrectContestants": [
+            "Stephanie"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Stephanie",
+              "score": 1000
+            },
+            {
+              "player": "Henry",
+              "score": 2000
+            },
+            {
+              "player": "Susan",
+              "score": 4600
+            }
+          ]
+        },
+        {
+          "category": "DECONSTRUCTING THE NURSERY RHYME",
+          "value": 400,
+          "clue": "We're still trying to figure out why royal equines aided in the surgery to save this guy who enjoyed living life on the edge",
+          "answer": "Humpty Dumpty",
+          "isDailyDouble": false,
+          "orderNumber": 20,
+          "correctContestants": [
+            "Henry"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Stephanie",
+              "score": 1000
+            },
+            {
+              "player": "Henry",
+              "score": 2400
+            },
+            {
+              "player": "Susan",
+              "score": 4600
+            }
+          ]
+        },
+        {
+          "category": "E BAY",
+          "value": 200,
+          "clue": "Eddrachillis Bay is at the mouth of Loch a Chairn Bhain on this country's northwest coast",
+          "answer": "Scotland",
+          "isDailyDouble": false,
+          "orderNumber": 21,
+          "correctContestants": [
+            "Stephanie"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Stephanie",
+              "score": 1200
+            },
+            {
+              "player": "Henry",
+              "score": 2400
+            },
+            {
+              "player": "Susan",
+              "score": 4600
+            }
+          ]
+        },
+        {
+          "category": "E BAY",
+          "value": 400,
+          "clue": "Englishman's Bay is on the leeward, or northern, side of this island that's just to the northeast of Trinidad",
+          "answer": "Tobago",
+          "isDailyDouble": false,
+          "orderNumber": 22,
+          "correctContestants": [
+            "Stephanie"
+          ],
+          "incorrectContestants": [
+            "Henry"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Stephanie",
+              "score": 1600
+            },
+            {
+              "player": "Henry",
+              "score": 2000
+            },
+            {
+              "player": "Susan",
+              "score": 4600
+            }
+          ]
+        },
+        {
+          "category": "E BAY",
+          "value": 600,
+          "clue": "Escambia Bay connects to Pensacola Bay off this state",
+          "answer": "Florida",
+          "isDailyDouble": false,
+          "orderNumber": 23,
+          "correctContestants": [
+            "Stephanie"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Stephanie",
+              "score": 2200
+            },
+            {
+              "player": "Henry",
+              "score": 2000
+            },
+            {
+              "player": "Susan",
+              "score": 4600
+            }
+          ]
+        },
+        {
+          "category": "E BAY",
+          "value": 800,
+          "clue": "The East Bay that produced punk musician East Bay Ray is the eastern shore of this California bay",
+          "answer": "San Francisco Bay",
+          "isDailyDouble": false,
+          "orderNumber": 24,
+          "correctContestants": [
+            "Henry"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Stephanie",
+              "score": 2200
+            },
+            {
+              "player": "Henry",
+              "score": 2800
+            },
+            {
+              "player": "Susan",
+              "score": 4600
+            }
+          ]
+        },
+        {
+          "category": "E BAY",
+          "value": 1000,
+          "clue": "Episkopi Bay is in the Greek sector on the south coast of this island",
+          "answer": "Cyprus",
+          "isDailyDouble": false,
+          "orderNumber": 25,
+          "correctContestants": [
+            "Stephanie"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Stephanie",
+              "score": 3200
+            },
+            {
+              "player": "Henry",
+              "score": 2800
+            },
+            {
+              "player": "Susan",
+              "score": 4600
+            }
+          ]
+        },
+        {
+          "category": "DECONSTRUCTING THE NURSERY RHYME",
+          "value": 1000,
+          "clue": "Obviously involved in a troubled marriage, this man locked his wife in a large version of the fruit of his dining choice",
+          "answer": "Peter, Peter, Pumpkin Eater",
+          "isDailyDouble": false,
+          "orderNumber": 26,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Susan"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Stephanie",
+              "score": 3200
+            },
+            {
+              "player": "Henry",
+              "score": 2800
+            },
+            {
+              "player": "Susan",
+              "score": 3600
+            }
+          ]
+        },
+        {
+          "category": "STARTING WORDS",
+          "value": 1000,
+          "clue": "In 1790, explorer James Bruce published \"Travels to discover\" this origin point \"of the Nile\"",
+          "answer": "the source",
+          "isDailyDouble": false,
+          "orderNumber": 27,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Henry"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Stephanie",
+              "score": 3200
+            },
+            {
+              "player": "Henry",
+              "score": 1800
+            },
+            {
+              "player": "Susan",
+              "score": 3600
+            }
+          ]
+        },
+        {
+          "category": "STARTING WORDS",
+          "value": 800,
+          "clue": "Every 4 years the U.S. holds a day named for this ceremony",
+          "answer": "inauguration",
+          "isDailyDouble": false,
+          "orderNumber": 28,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Stephanie",
+              "score": 3200
+            },
+            {
+              "player": "Henry",
+              "score": 1800
+            },
+            {
+              "player": "Susan",
+              "score": 3600
+            }
+          ]
+        },
+        {
+          "category": "DECONSTRUCTING THE NURSERY RHYME",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Stephanie",
+              "score": 3200
+            },
+            {
+              "player": "Henry",
+              "score": 1800
+            },
+            {
+              "player": "Susan",
+              "score": 3600
+            }
+          ]
+        },
+        {
+          "category": "DECONSTRUCTING THE NURSERY RHYME",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Stephanie",
+              "score": 3200
+            },
+            {
+              "player": "Henry",
+              "score": 1800
+            },
+            {
+              "player": "Susan",
+              "score": 3600
+            }
+          ]
+        }
+      ],
+      "firstBreakScores": [
+        {
+          "player": "Stephanie",
+          "score": 1200
+        },
+        {
+          "player": "Henry",
+          "score": 1200
+        },
+        {
+          "player": "Susan",
+          "score": 2200
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "Stephanie",
+          "score": 3200
+        },
+        {
+          "player": "Henry",
+          "score": 1800
+        },
+        {
+          "player": "Susan",
+          "score": 3600
+        }
+      ]
+    },
+    "doubleJeopardy": {
+      "categories": [
+        "NEWS OF THE 2010s",
+        "SUB TITLES",
+        "CITY MUSEUMS",
+        "COLOR TV",
+        "RHYME QUICK",
+        "IF IT AIN'T BAROQUE..."
+      ],
+      "clues": [
+        {
+          "category": "CITY MUSEUMS",
+          "value": 400,
+          "clue": "The National Gallery Of Art Of The United States",
+          "answer": "Washington, DC",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Stephanie",
+              "score": 3200
+            },
+            {
+              "player": "Henry",
+              "score": 2200
+            },
+            {
+              "player": "Susan",
+              "score": 3600
+            }
+          ]
+        },
+        {
+          "category": "CITY MUSEUMS",
+          "value": 800,
+          "clue": "The Solomon R. Guggenheim Museum Of Art",
+          "answer": "New York City",
+          "isDailyDouble": false,
+          "orderNumber": 2,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Stephanie",
+              "score": 4000
+            },
+            {
+              "player": "Henry",
+              "score": 2200
+            },
+            {
+              "player": "Susan",
+              "score": 3600
+            }
+          ]
+        },
+        {
+          "category": "CITY MUSEUMS",
+          "value": 1200,
+          "clue": "Carnegie Museum Of Natural History",
+          "answer": "Pittsburgh",
+          "isDailyDouble": false,
+          "orderNumber": 3,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Stephanie",
+              "score": 4000
+            },
+            {
+              "player": "Henry",
+              "score": 3400
+            },
+            {
+              "player": "Susan",
+              "score": 3600
+            }
+          ]
+        },
+        {
+          "category": "CITY MUSEUMS",
+          "value": 1600,
+          "clue": "The Museum Of The American West, formerly named for Gene Autry",
+          "answer": "Los Angeles",
+          "isDailyDouble": false,
+          "orderNumber": 4,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Stephanie",
+              "score": 4000
+            },
+            {
+              "player": "Henry",
+              "score": 5000
+            },
+            {
+              "player": "Susan",
+              "score": 3600
+            }
+          ]
+        },
+        {
+          "category": "CITY MUSEUMS",
+          "value": 2000,
+          "clue": "Western Reserve Historical Society",
+          "answer": "Cleveland (Ohio)",
+          "isDailyDouble": false,
+          "orderNumber": 5,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Stephanie",
+              "score": 4000
+            },
+            {
+              "player": "Henry",
+              "score": 7000
+            },
+            {
+              "player": "Susan",
+              "score": 3600
+            }
+          ]
+        },
+        {
+          "category": "NEWS OF THE 2010s",
+          "value": 400,
+          "clue": "His September 2011 announcement he'd run to be Russian president again was not greeted with the joy he'd hoped for",
+          "answer": "Putin",
+          "isDailyDouble": false,
+          "orderNumber": 6,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Stephanie",
+              "score": 4000
+            },
+            {
+              "player": "Henry",
+              "score": 7000
+            },
+            {
+              "player": "Susan",
+              "score": 4000
+            }
+          ]
+        },
+        {
+          "category": "NEWS OF THE 2010s",
+          "value": 800,
+          "clue": "On January 23, 2012 the Supreme Court said police need a warrant to put this type of tracking device on a suspect's car",
+          "answer": "a GPS",
+          "isDailyDouble": false,
+          "orderNumber": 7,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Stephanie",
+              "score": 4000
+            },
+            {
+              "player": "Henry",
+              "score": 7800
+            },
+            {
+              "player": "Susan",
+              "score": 4000
+            }
+          ]
+        },
+        {
+          "category": "NEWS OF THE 2010s",
+          "value": 1200,
+          "clue": "This purchasing method was big in the Depression; Walmart brought it back in 2011",
+          "answer": "layaway",
+          "isDailyDouble": false,
+          "orderNumber": 8,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Stephanie",
+              "score": 4000
+            },
+            {
+              "player": "Henry",
+              "score": 9000
+            },
+            {
+              "player": "Susan",
+              "score": 4000
+            }
+          ]
+        },
+        {
+          "category": "NEWS OF THE 2010s",
+          "value": 1600,
+          "clue": "She ended her presidential campaign right after the 2012 Iowa caucuses",
+          "answer": "Michele Bachmann",
+          "isDailyDouble": false,
+          "orderNumber": 9,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Stephanie",
+              "score": 4000
+            },
+            {
+              "player": "Henry",
+              "score": 10600
+            },
+            {
+              "player": "Susan",
+              "score": 4000
+            }
+          ]
+        },
+        {
+          "category": "NEWS OF THE 2010s",
+          "value": 2000,
+          "clue": "In January 2012 this Mideastern president vowed \"an iron hand\" against protests",
+          "answer": "Bashar Assad",
+          "isDailyDouble": true,
+          "orderNumber": 10,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Stephanie",
+              "score": 4000
+            },
+            {
+              "player": "Henry",
+              "score": 8600
+            },
+            {
+              "player": "Susan",
+              "score": 4000
+            }
+          ]
+        },
+        {
+          "category": "IF IT AIN'T BAROQUE...",
+          "value": 400,
+          "clue": "A 1912 work by Marc Chagall is titled after this musician found in the title of a Broadway show",
+          "answer": "Fiddler",
+          "isDailyDouble": false,
+          "orderNumber": 11,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Stephanie",
+              "score": 4000
+            },
+            {
+              "player": "Henry",
+              "score": 8600
+            },
+            {
+              "player": "Susan",
+              "score": 4000
+            }
+          ]
+        },
+        {
+          "category": "IF IT AIN'T BAROQUE...",
+          "value": 800,
+          "clue": "This Spaniard called some of his pieces \"hand-painted dream photographs\"",
+          "answer": "Salvador Dali",
+          "isDailyDouble": false,
+          "orderNumber": 12,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Susan"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Stephanie",
+              "score": 3200
+            },
+            {
+              "player": "Henry",
+              "score": 8600
+            },
+            {
+              "player": "Susan",
+              "score": 3200
+            }
+          ]
+        },
+        {
+          "category": "SUB TITLES",
+          "value": 400,
+          "clue": "\"Raising The Hunley\" describes the 2000 recovery of a sub lost off the South Carolina Coast during this war",
+          "answer": "the U.S. Civil War",
+          "isDailyDouble": false,
+          "orderNumber": 13,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Stephanie",
+              "score": 3600
+            },
+            {
+              "player": "Henry",
+              "score": 8600
+            },
+            {
+              "player": "Susan",
+              "score": 3200
+            }
+          ]
+        },
+        {
+          "category": "SUB TITLES",
+          "value": 800,
+          "clue": "Wolfgang Frank's \"The Sea Wolves\" is subtitled \"The Story Of German\" these submarines \"At War\"",
+          "answer": "U-Boats",
+          "isDailyDouble": false,
+          "orderNumber": 14,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Stephanie",
+              "score": 4400
+            },
+            {
+              "player": "Henry",
+              "score": 8600
+            },
+            {
+              "player": "Susan",
+              "score": 3200
+            }
+          ]
+        },
+        {
+          "category": "SUB TITLES",
+          "value": 1200,
+          "clue": "\"Clear the Bridge!\" tells the story of the USS Tang, sunk in WWII when one of her own these made a circular run",
+          "answer": "a torpedo",
+          "isDailyDouble": false,
+          "orderNumber": 15,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Stephanie",
+              "score": 4400
+            },
+            {
+              "player": "Henry",
+              "score": 8600
+            },
+            {
+              "player": "Susan",
+              "score": 4400
+            }
+          ]
+        },
+        {
+          "category": "SUB TITLES",
+          "value": 1600,
+          "clue": "1928's \"Raiders Of The Deep\" begins with a German submarine's controversial sinking of this passenger liner",
+          "answer": "the Lusitania",
+          "isDailyDouble": false,
+          "orderNumber": 16,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Stephanie",
+              "score": 6000
+            },
+            {
+              "player": "Henry",
+              "score": 8600
+            },
+            {
+              "player": "Susan",
+              "score": 4400
+            }
+          ]
+        },
+        {
+          "category": "SUB TITLES",
+          "value": 2000,
+          "clue": "\"Cry From The Deep\" recounts the tragic 2000 loss of this Russian nuclear submarine with all hands",
+          "answer": "the Kursk",
+          "isDailyDouble": false,
+          "orderNumber": 17,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Stephanie",
+              "score": 6000
+            },
+            {
+              "player": "Henry",
+              "score": 8600
+            },
+            {
+              "player": "Susan",
+              "score": 4400
+            }
+          ]
+        },
+        {
+          "category": "COLOR TV",
+          "value": 400,
+          "clue": "In the '90s Dennis Franz won 4 Lead Actor Emmys working the beat on this drama",
+          "answer": "NYPD Blue",
+          "isDailyDouble": false,
+          "orderNumber": 18,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Stephanie",
+              "score": 6000
+            },
+            {
+              "player": "Henry",
+              "score": 8600
+            },
+            {
+              "player": "Susan",
+              "score": 4800
+            }
+          ]
+        },
+        {
+          "category": "COLOR TV",
+          "value": 800,
+          "clue": "This sitcom detailed the lives of 4 older ladies living together in Miami in the mid-'80s",
+          "answer": "The Golden Girls",
+          "isDailyDouble": false,
+          "orderNumber": 19,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Stephanie",
+              "score": 6000
+            },
+            {
+              "player": "Henry",
+              "score": 8600
+            },
+            {
+              "player": "Susan",
+              "score": 5600
+            }
+          ]
+        },
+        {
+          "category": "COLOR TV",
+          "value": 1200,
+          "clue": "Ex-Chicago Bull Ken Reeves coached hoops at Carver High on this '70s drama",
+          "answer": "The White Shadow",
+          "isDailyDouble": false,
+          "orderNumber": 20,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Stephanie",
+              "score": 6000
+            },
+            {
+              "player": "Henry",
+              "score": 9800
+            },
+            {
+              "player": "Susan",
+              "score": 5600
+            }
+          ]
+        },
+        {
+          "category": "COLOR TV",
+          "value": 1600,
+          "clue": "Even after selling one of his paintings for $1 million, Eldin worked on the house of this '90s sitcom title woman",
+          "answer": "Murphy Brown",
+          "isDailyDouble": false,
+          "orderNumber": 21,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Stephanie",
+              "score": 6000
+            },
+            {
+              "player": "Henry",
+              "score": 11400
+            },
+            {
+              "player": "Susan",
+              "score": 5600
+            }
+          ]
+        },
+        {
+          "category": "COLOR TV",
+          "value": 2000,
+          "clue": "Hermey the Elf wanted to be a dentist in this 1964 Classic Christmas TV cartoon",
+          "answer": "Rudolph The Red-nosed Reindeer",
+          "isDailyDouble": false,
+          "orderNumber": 22,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Stephanie",
+              "score": 8000
+            },
+            {
+              "player": "Henry",
+              "score": 11400
+            },
+            {
+              "player": "Susan",
+              "score": 5600
+            }
+          ]
+        },
+        {
+          "category": "IF IT AIN'T BAROQUE...",
+          "value": 1200,
+          "clue": "1947's \"Lucifer\" was one of the first \"poured\" paintings by this artist",
+          "answer": "Jackson Pollock",
+          "isDailyDouble": false,
+          "orderNumber": 23,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Stephanie",
+              "score": 8000
+            },
+            {
+              "player": "Henry",
+              "score": 11400
+            },
+            {
+              "player": "Susan",
+              "score": 6800
+            }
+          ]
+        },
+        {
+          "category": "IF IT AIN'T BAROQUE...",
+          "value": 2000,
+          "clue": "Edward Hopper captured the isolation of urban life in this 1942 masterpiece depicting a diner that's open late",
+          "answer": "The Nighthawks",
+          "isDailyDouble": true,
+          "orderNumber": 24,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Stephanie",
+              "score": 8000
+            },
+            {
+              "player": "Henry",
+              "score": 11400
+            },
+            {
+              "player": "Susan",
+              "score": 8800
+            }
+          ]
+        },
+        {
+          "category": "IF IT AIN'T BAROQUE...",
+          "value": 2000,
+          "clue": "Georges Seurat painted a \"Sunday Afternoon On\" this island, literally \"the big platter\"",
+          "answer": "La Grande Jatte",
+          "isDailyDouble": false,
+          "orderNumber": 25,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Stephanie",
+              "score": 10000
+            },
+            {
+              "player": "Henry",
+              "score": 11400
+            },
+            {
+              "player": "Susan",
+              "score": 8800
+            }
+          ]
+        },
+        {
+          "category": "RHYME QUICK",
+          "value": 400,
+          "clue": "Sturdiest 3-pig construction material",
+          "answer": "brick",
+          "isDailyDouble": false,
+          "orderNumber": 26,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Stephanie",
+              "score": 10400
+            },
+            {
+              "player": "Henry",
+              "score": 11400
+            },
+            {
+              "player": "Susan",
+              "score": 8400
+            }
+          ]
+        },
+        {
+          "category": "RHYME QUICK",
+          "value": 800,
+          "clue": "A painful cramp of the neck",
+          "answer": "a crick",
+          "isDailyDouble": false,
+          "orderNumber": 27,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Stephanie",
+              "score": 11200
+            },
+            {
+              "player": "Henry",
+              "score": 11400
+            },
+            {
+              "player": "Susan",
+              "score": 8400
+            }
+          ]
+        },
+        {
+          "category": "RHYME QUICK",
+          "value": 1200,
+          "clue": "Yiddish for a comic's act",
+          "answer": "schtick",
+          "isDailyDouble": false,
+          "orderNumber": 28,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Stephanie",
+              "score": 11200
+            },
+            {
+              "player": "Henry",
+              "score": 11400
+            },
+            {
+              "player": "Susan",
+              "score": 9600
+            }
+          ]
+        },
+        {
+          "category": "RHYME QUICK",
+          "value": 1600,
+          "clue": "Term for a magazine printed on glossy paper",
+          "answer": "slick",
+          "isDailyDouble": false,
+          "orderNumber": 29,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Stephanie",
+              "score": 11200
+            },
+            {
+              "player": "Henry",
+              "score": 11400
+            },
+            {
+              "player": "Susan",
+              "score": 11200
+            }
+          ]
+        },
+        {
+          "category": "RHYME QUICK",
+          "value": 2000,
+          "clue": "An unbranded calf, or someone who doesn't conform",
+          "answer": "a maverick",
+          "isDailyDouble": false,
+          "orderNumber": 30,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Stephanie",
+              "score": 11200
+            },
+            {
+              "player": "Henry",
+              "score": 9400
+            },
+            {
+              "player": "Susan",
+              "score": 11200
+            }
+          ]
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "Stephanie",
+          "score": 11200
+        },
+        {
+          "player": "Henry",
+          "score": 9400
+        },
+        {
+          "player": "Susan",
+          "score": 11200
+        }
+      ]
+    },
+    "finalJeopardy": {
+      "category": "OPERA CHARACTERS",
+      "clue": "In a play subtitle, she's called \"the Chinese Sphinx\"; in a later opera her suitor calls her \"Principessa di Morte\"",
+      "answer": "Turandot",
+      "responses": [
+        {
+          "contestant": "Henry",
+          "response": "Who is Aidi",
+          "isCorrect": false,
+          "isIncorrect": true,
+          "value": 5000,
+          "finalScore": 4400
+        },
+        {
+          "contestant": "Susan",
+          "response": "Who was Cleopatra ?",
+          "isCorrect": false,
+          "isIncorrect": true,
+          "value": 5000,
+          "finalScore": 6200
+        },
+        {
+          "contestant": "Stephanie",
+          "response": "Who is Turandot?",
+          "isCorrect": true,
+          "isIncorrect": false,
+          "value": 11200,
+          "finalScore": 22400
+        }
+      ]
+    }
+  },
+  "finalScores": [
+    {
+      "player": "Stephanie",
+      "score": "$22,400"
+    },
+    {
+      "player": "Henry",
+      "score": "$4,400"
+    },
+    {
+      "player": "Susan",
+      "score": "$6,200"
+    }
+  ],
+  "coryatScores": [
+    {
+      "player": "Stephanie",
+      "score": 12000
+    },
+    {
+      "player": "Henry",
+      "score": 11400
+    },
+    {
+      "player": "Susan",
+      "score": 10800
+    }
+  ]
+}

@@ -1,0 +1,1701 @@
+{
+  "gameId": 7125,
+  "showNumber": "2600",
+  "title": "Show #2600 - Friday, December 15, 1995",
+  "date": "1995-12-15",
+  "comments": "Brad Plovan game 5.",
+  "contestants": [
+    "Brad",
+    "Bill",
+    "Sally"
+  ],
+  "rounds": {
+    "jeopardy": {
+      "categories": [
+        "20th CENTURY AMERICA",
+        "CLASSIC SONG LYRICS",
+        "DINING OUT",
+        "NATURE",
+        "HOLIDAYS & OBSERVANCES",
+        "IN OTHER WORDS..."
+      ],
+      "clues": [
+        {
+          "category": "NATURE",
+          "value": 100,
+          "clue": "The scented flowers of this shrub are used in perfume & its reddish dye is used as a hair coloring",
+          "answer": "henna",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [
+            "Sally"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Brad",
+              "score": 0
+            },
+            {
+              "player": "Bill",
+              "score": 0
+            },
+            {
+              "player": "Sally",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "category": "HOLIDAYS & OBSERVANCES",
+          "value": 100,
+          "clue": "This tree planting day was first celebrated on April 10, 1872 in Nebraska",
+          "answer": "Arbor Day",
+          "isDailyDouble": false,
+          "orderNumber": 2,
+          "correctContestants": [
+            "Bill"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Brad",
+              "score": 0
+            },
+            {
+              "player": "Bill",
+              "score": 100
+            },
+            {
+              "player": "Sally",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "category": "HOLIDAYS & OBSERVANCES",
+          "value": 200,
+          "clue": "The first president to proclaim this holiday as the third Sunday in June was Lyndon B. Johnson in 1966",
+          "answer": "Father's Day",
+          "isDailyDouble": false,
+          "orderNumber": 3,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Brad",
+            "Sally"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Brad",
+              "score": -200
+            },
+            {
+              "player": "Bill",
+              "score": 100
+            },
+            {
+              "player": "Sally",
+              "score": -100
+            }
+          ]
+        },
+        {
+          "category": "DINING OUT",
+          "value": 100,
+          "clue": "Fashion designer Pierre Cardin now owns the legendary Maxim's at 3 Rue Royale in this city",
+          "answer": "Paris",
+          "isDailyDouble": false,
+          "orderNumber": 4,
+          "correctContestants": [
+            "Bill"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Brad",
+              "score": -200
+            },
+            {
+              "player": "Bill",
+              "score": 200
+            },
+            {
+              "player": "Sally",
+              "score": -100
+            }
+          ]
+        },
+        {
+          "category": "CLASSIC SONG LYRICS",
+          "value": 100,
+          "clue": "He \"frolicked in the autumn mist in a land called Honah-Lee\"",
+          "answer": "Puff (the Magic Dragon)",
+          "isDailyDouble": false,
+          "orderNumber": 5,
+          "correctContestants": [
+            "Bill"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Brad",
+              "score": -200
+            },
+            {
+              "player": "Bill",
+              "score": 300
+            },
+            {
+              "player": "Sally",
+              "score": -100
+            }
+          ]
+        },
+        {
+          "category": "20th CENTURY AMERICA",
+          "value": 100,
+          "clue": "In July 1976 this mystery ailment killed 29 people at a Philadelphia convention",
+          "answer": "Legionnaires' disease",
+          "isDailyDouble": false,
+          "orderNumber": 6,
+          "correctContestants": [
+            "Sally"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Brad",
+              "score": -200
+            },
+            {
+              "player": "Bill",
+              "score": 300
+            },
+            {
+              "player": "Sally",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "20th CENTURY AMERICA",
+          "value": 200,
+          "clue": "On July 16, 1943 the U.S. detonated the first atomic bomb at Trinity site near this New Mexico city",
+          "answer": "Alamogordo",
+          "isDailyDouble": false,
+          "orderNumber": 7,
+          "correctContestants": [
+            "Sally"
+          ],
+          "incorrectContestants": [
+            "Brad"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Brad",
+              "score": -400
+            },
+            {
+              "player": "Bill",
+              "score": 300
+            },
+            {
+              "player": "Sally",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "20th CENTURY AMERICA",
+          "value": 300,
+          "clue": "In 1994 this Pontiac, Michigan stadium became the first indoor facility to hold a World Cup soccer match",
+          "answer": "the Silverdome",
+          "isDailyDouble": false,
+          "orderNumber": 8,
+          "correctContestants": [
+            "Brad"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Brad",
+              "score": -100
+            },
+            {
+              "player": "Bill",
+              "score": 300
+            },
+            {
+              "player": "Sally",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "NATURE",
+          "value": 200,
+          "clue": "With its legs spread out, this largest spider can be as large as a dinner plate",
+          "answer": "a tarantula",
+          "isDailyDouble": false,
+          "orderNumber": 9,
+          "correctContestants": [
+            "Brad"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Brad",
+              "score": 100
+            },
+            {
+              "player": "Bill",
+              "score": 300
+            },
+            {
+              "player": "Sally",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "NATURE",
+          "value": 300,
+          "clue": "Usually black in color, the glass known as obsidian forms when this cools rapidly",
+          "answer": "lava",
+          "isDailyDouble": false,
+          "orderNumber": 10,
+          "correctContestants": [
+            "Sally"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Brad",
+              "score": 100
+            },
+            {
+              "player": "Bill",
+              "score": 300
+            },
+            {
+              "player": "Sally",
+              "score": 500
+            }
+          ]
+        },
+        {
+          "category": "DINING OUT",
+          "value": 200,
+          "clue": "The Strawberry Street Cafe in this Virginia capital is noted for its bathtub salad bar",
+          "answer": "Richmond",
+          "isDailyDouble": false,
+          "orderNumber": 11,
+          "correctContestants": [
+            "Sally"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Brad",
+              "score": 100
+            },
+            {
+              "player": "Bill",
+              "score": 300
+            },
+            {
+              "player": "Sally",
+              "score": 700
+            }
+          ]
+        },
+        {
+          "category": "DINING OUT",
+          "value": 300,
+          "clue": "You can make his day by dining at his Hog's Breath Inn in Carmel, California",
+          "answer": "Clint Eastwood",
+          "isDailyDouble": false,
+          "orderNumber": 12,
+          "correctContestants": [
+            "Brad"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Brad",
+              "score": 400
+            },
+            {
+              "player": "Bill",
+              "score": 300
+            },
+            {
+              "player": "Sally",
+              "score": 700
+            }
+          ]
+        },
+        {
+          "category": "NATURE",
+          "value": 400,
+          "clue": "Encarta calls it \"the most economically valuable of all insects\"",
+          "answer": "the honey bee",
+          "isDailyDouble": false,
+          "orderNumber": 13,
+          "correctContestants": [
+            "Bill"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Brad",
+              "score": 400
+            },
+            {
+              "player": "Bill",
+              "score": 700
+            },
+            {
+              "player": "Sally",
+              "score": 700
+            }
+          ]
+        },
+        {
+          "category": "NATURE",
+          "value": 500,
+          "clue": "This large, flightless bird of Australia lays dark green eggs",
+          "answer": "the emu",
+          "isDailyDouble": true,
+          "orderNumber": 14,
+          "correctContestants": [
+            "Bill"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Brad",
+              "score": 400
+            },
+            {
+              "player": "Bill",
+              "score": 1200
+            },
+            {
+              "player": "Sally",
+              "score": 700
+            }
+          ]
+        },
+        {
+          "category": "CLASSIC SONG LYRICS",
+          "value": 200,
+          "clue": "Tony Orlando & Dawn hit that begins, \"I'm comin' home; I've done my time\"",
+          "answer": "\"Tie A Yellow Ribbon Round The Ole Oak Tree\"",
+          "isDailyDouble": false,
+          "orderNumber": 15,
+          "correctContestants": [
+            "Sally"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Brad",
+              "score": 400
+            },
+            {
+              "player": "Bill",
+              "score": 1200
+            },
+            {
+              "player": "Sally",
+              "score": 900
+            }
+          ]
+        },
+        {
+          "category": "CLASSIC SONG LYRICS",
+          "value": 300,
+          "clue": "\"When you walk through a storm\" do this \"and don't be afraid of the dark\"",
+          "answer": "Hold your head up high",
+          "isDailyDouble": false,
+          "orderNumber": 16,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Brad"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Brad",
+              "score": 100
+            },
+            {
+              "player": "Bill",
+              "score": 1200
+            },
+            {
+              "player": "Sally",
+              "score": 900
+            }
+          ]
+        },
+        {
+          "category": "CLASSIC SONG LYRICS",
+          "value": 400,
+          "clue": "Whenever I feel afraid, I hold my head erect and\" do this, \"so no one will suspect I'm afraid\"",
+          "answer": "whistle a happy tune",
+          "isDailyDouble": false,
+          "orderNumber": 17,
+          "correctContestants": [
+            "Bill"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Brad",
+              "score": 100
+            },
+            {
+              "player": "Bill",
+              "score": 1600
+            },
+            {
+              "player": "Sally",
+              "score": 900
+            }
+          ]
+        },
+        {
+          "category": "CLASSIC SONG LYRICS",
+          "value": 500,
+          "clue": "This song begins, \"Oh, we ain't got a barrel of money, maybe we're ragged and funny\"",
+          "answer": "\"Side By Side\"",
+          "isDailyDouble": false,
+          "orderNumber": 18,
+          "correctContestants": [
+            "Bill"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Brad",
+              "score": 100
+            },
+            {
+              "player": "Bill",
+              "score": 2100
+            },
+            {
+              "player": "Sally",
+              "score": 900
+            }
+          ]
+        },
+        {
+          "category": "20th CENTURY AMERICA",
+          "value": 400,
+          "clue": "In 1922 DeWitt Wallace & his wife Lila Acheson founded this monthly magazine",
+          "answer": "Reader's Digest",
+          "isDailyDouble": false,
+          "orderNumber": 19,
+          "correctContestants": [
+            "Sally"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Brad",
+              "score": 100
+            },
+            {
+              "player": "Bill",
+              "score": 2100
+            },
+            {
+              "player": "Sally",
+              "score": 1300
+            }
+          ]
+        },
+        {
+          "category": "20th CENTURY AMERICA",
+          "value": 500,
+          "clue": "On January 31, 1958, it became the first U.S. satellite to reach Earth orbit",
+          "answer": "Explorer I",
+          "isDailyDouble": false,
+          "orderNumber": 20,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Brad"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Brad",
+              "score": -400
+            },
+            {
+              "player": "Bill",
+              "score": 2100
+            },
+            {
+              "player": "Sally",
+              "score": 1300
+            }
+          ]
+        },
+        {
+          "category": "DINING OUT",
+          "value": 400,
+          "clue": "This religious leader's nephew owns the Snow Lion chain of Tibetan-themed restaurants in Indiana",
+          "answer": "the Dalai Lama",
+          "isDailyDouble": false,
+          "orderNumber": 21,
+          "correctContestants": [
+            "Sally"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Brad",
+              "score": -400
+            },
+            {
+              "player": "Bill",
+              "score": 2100
+            },
+            {
+              "player": "Sally",
+              "score": 1700
+            }
+          ]
+        },
+        {
+          "category": "DINING OUT",
+          "value": 500,
+          "clue": "Cafe Max in Pompano Beach, Florida serves batter-dipped, deep-fried rings made from these limes",
+          "answer": "key limes",
+          "isDailyDouble": false,
+          "orderNumber": 22,
+          "correctContestants": [
+            "Sally"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Brad",
+              "score": -400
+            },
+            {
+              "player": "Bill",
+              "score": 2100
+            },
+            {
+              "player": "Sally",
+              "score": 2200
+            }
+          ]
+        },
+        {
+          "category": "IN OTHER WORDS...",
+          "value": 100,
+          "clue": "Everything's okay which finishes okay",
+          "answer": "all's well that ends well",
+          "isDailyDouble": false,
+          "orderNumber": 23,
+          "correctContestants": [
+            "Brad"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Brad",
+              "score": -300
+            },
+            {
+              "player": "Bill",
+              "score": 2100
+            },
+            {
+              "player": "Sally",
+              "score": 2200
+            }
+          ]
+        },
+        {
+          "category": "HOLIDAYS & OBSERVANCES",
+          "value": 300,
+          "clue": "This holiday marking the end of World War I has also been referred to as Poppy Day",
+          "answer": "Remembrance Day (Veterans Day)",
+          "isDailyDouble": false,
+          "orderNumber": 24,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Bill",
+            "Sally"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Brad",
+              "score": -300
+            },
+            {
+              "player": "Bill",
+              "score": 1800
+            },
+            {
+              "player": "Sally",
+              "score": 1900
+            }
+          ]
+        },
+        {
+          "category": "HOLIDAYS & OBSERVANCES",
+          "value": 400,
+          "clue": "Every summer the Black Hills Passion Play is presented at Spearfish in this state",
+          "answer": "South Dakota",
+          "isDailyDouble": false,
+          "orderNumber": 25,
+          "correctContestants": [
+            "Brad"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Brad",
+              "score": 100
+            },
+            {
+              "player": "Bill",
+              "score": 1800
+            },
+            {
+              "player": "Sally",
+              "score": 1900
+            }
+          ]
+        },
+        {
+          "category": "HOLIDAYS & OBSERVANCES",
+          "value": 500,
+          "clue": "It's also known as Battle of Puebla Day",
+          "answer": "Cinco de Mayo",
+          "isDailyDouble": false,
+          "orderNumber": 26,
+          "correctContestants": [
+            "Sally"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Brad",
+              "score": 100
+            },
+            {
+              "player": "Bill",
+              "score": 1800
+            },
+            {
+              "player": "Sally",
+              "score": 2400
+            }
+          ]
+        },
+        {
+          "category": "IN OTHER WORDS...",
+          "value": 200,
+          "clue": "Unweighty like one quill",
+          "answer": "light as a feather",
+          "isDailyDouble": false,
+          "orderNumber": 27,
+          "correctContestants": [
+            "Bill"
+          ],
+          "incorrectContestants": [
+            "Brad"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Brad",
+              "score": -100
+            },
+            {
+              "player": "Bill",
+              "score": 2000
+            },
+            {
+              "player": "Sally",
+              "score": 2400
+            }
+          ]
+        },
+        {
+          "category": "IN OTHER WORDS...",
+          "value": 300,
+          "clue": "Non-moving rivers go to great depths",
+          "answer": "still waters run deep",
+          "isDailyDouble": false,
+          "orderNumber": 28,
+          "correctContestants": [
+            "Brad"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Brad",
+              "score": 200
+            },
+            {
+              "player": "Bill",
+              "score": 2000
+            },
+            {
+              "player": "Sally",
+              "score": 2400
+            }
+          ]
+        },
+        {
+          "category": "IN OTHER WORDS...",
+          "value": 400,
+          "clue": "Polish by hand in an opposite direction to the norm",
+          "answer": "rub the wrong way (go against the grain)",
+          "isDailyDouble": false,
+          "orderNumber": 29,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Brad",
+              "score": 200
+            },
+            {
+              "player": "Bill",
+              "score": 2000
+            },
+            {
+              "player": "Sally",
+              "score": 2400
+            }
+          ]
+        },
+        {
+          "category": "IN OTHER WORDS...",
+          "value": 500,
+          "clue": "An entirely original matchup between the Tigers & the Angels, for example",
+          "answer": "a whole new ballgame",
+          "isDailyDouble": false,
+          "orderNumber": 30,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Brad",
+              "score": 200
+            },
+            {
+              "player": "Bill",
+              "score": 2000
+            },
+            {
+              "player": "Sally",
+              "score": 2400
+            }
+          ]
+        }
+      ],
+      "firstBreakScores": [
+        {
+          "player": "Brad",
+          "score": 400
+        },
+        {
+          "player": "Bill",
+          "score": 1200
+        },
+        {
+          "player": "Sally",
+          "score": 700
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "Brad",
+          "score": 200
+        },
+        {
+          "player": "Bill",
+          "score": 2000
+        },
+        {
+          "player": "Sally",
+          "score": 2400
+        }
+      ]
+    },
+    "doubleJeopardy": {
+      "categories": [
+        "FAMOUS SCIENTISTS",
+        "GEOGRAPHY",
+        "RANKS & TITLES",
+        "WOMEN",
+        "THE ROMAN EMPIRE",
+        "KENNEDY CENTER HONOREES"
+      ],
+      "clues": [
+        {
+          "category": "FAMOUS SCIENTISTS",
+          "value": 200,
+          "clue": "Her book \"Radioactivite\" was published posthumously in 1935",
+          "answer": "Marie Curie",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Brad",
+              "score": 200
+            },
+            {
+              "player": "Bill",
+              "score": 2000
+            },
+            {
+              "player": "Sally",
+              "score": 2600
+            }
+          ]
+        },
+        {
+          "category": "WOMEN",
+          "value": 200,
+          "clue": "In 1970 this lead singer left The Supremes after an appearance in Las Vegas",
+          "answer": "Diana Ross",
+          "isDailyDouble": false,
+          "orderNumber": 2,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Brad",
+              "score": 200
+            },
+            {
+              "player": "Bill",
+              "score": 2000
+            },
+            {
+              "player": "Sally",
+              "score": 2800
+            }
+          ]
+        },
+        {
+          "category": "WOMEN",
+          "value": 400,
+          "clue": "Before entering the Senate, Dianne Feinstein was mayor of this city",
+          "answer": "San Francisco",
+          "isDailyDouble": false,
+          "orderNumber": 3,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Brad",
+              "score": 200
+            },
+            {
+              "player": "Bill",
+              "score": 2400
+            },
+            {
+              "player": "Sally",
+              "score": 2800
+            }
+          ]
+        },
+        {
+          "category": "FAMOUS SCIENTISTS",
+          "value": 400,
+          "clue": "In 1921 he testified about his peanut products before the House Ways & Means Committee",
+          "answer": "George Washington Carver",
+          "isDailyDouble": false,
+          "orderNumber": 4,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Brad",
+              "score": 600
+            },
+            {
+              "player": "Bill",
+              "score": 2400
+            },
+            {
+              "player": "Sally",
+              "score": 2800
+            }
+          ]
+        },
+        {
+          "category": "FAMOUS SCIENTISTS",
+          "value": 600,
+          "clue": "In 1926 this botanist was buried under a cedar tree in the yard of his Santa Rosa, California home",
+          "answer": "(Luther) Burbank",
+          "isDailyDouble": false,
+          "orderNumber": 5,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Brad",
+              "score": 600
+            },
+            {
+              "player": "Bill",
+              "score": 2400
+            },
+            {
+              "player": "Sally",
+              "score": 3400
+            }
+          ]
+        },
+        {
+          "category": "WOMEN",
+          "value": 600,
+          "clue": "This conservationist & author of \"Born Free\" was born Joy-Friederike Victoria Gessner",
+          "answer": "(Joy) Adamson",
+          "isDailyDouble": false,
+          "orderNumber": 6,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Brad",
+              "score": 600
+            },
+            {
+              "player": "Bill",
+              "score": 2400
+            },
+            {
+              "player": "Sally",
+              "score": 4000
+            }
+          ]
+        },
+        {
+          "category": "WOMEN",
+          "value": 800,
+          "clue": "This terribly gracious author of \"Entertaining\" was once a Wall Street stockbroker",
+          "answer": "Martha Stewart",
+          "isDailyDouble": false,
+          "orderNumber": 7,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Brad",
+              "score": -200
+            },
+            {
+              "player": "Bill",
+              "score": 2400
+            },
+            {
+              "player": "Sally",
+              "score": 4800
+            }
+          ]
+        },
+        {
+          "category": "WOMEN",
+          "value": 1000,
+          "clue": "Katharine Lee Bates, who wrote this patriotic poem in 1893, was a professor at Wellesley",
+          "answer": "America the Beautiful",
+          "isDailyDouble": false,
+          "orderNumber": 8,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Brad",
+              "score": -200
+            },
+            {
+              "player": "Bill",
+              "score": 2400
+            },
+            {
+              "player": "Sally",
+              "score": 4800
+            }
+          ]
+        },
+        {
+          "category": "KENNEDY CENTER HONOREES",
+          "value": 200,
+          "clue": "As of 1995 he's been the only talk show host honored",
+          "answer": "Johnny Carson",
+          "isDailyDouble": false,
+          "orderNumber": 9,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Brad",
+              "score": 0
+            },
+            {
+              "player": "Bill",
+              "score": 2400
+            },
+            {
+              "player": "Sally",
+              "score": 4800
+            }
+          ]
+        },
+        {
+          "category": "FAMOUS SCIENTISTS",
+          "value": 800,
+          "clue": "This German inventor of the rotary engine obtained his first patent in 1929",
+          "answer": "(Felix) Wankel",
+          "isDailyDouble": false,
+          "orderNumber": 10,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Brad",
+              "score": 800
+            },
+            {
+              "player": "Bill",
+              "score": 2400
+            },
+            {
+              "player": "Sally",
+              "score": 4800
+            }
+          ]
+        },
+        {
+          "category": "FAMOUS SCIENTISTS",
+          "value": 1000,
+          "clue": "Uranienborg & Stjerneborg were this Danish astronomer's observatories on the island of Ven",
+          "answer": "Tycho Brahe",
+          "isDailyDouble": false,
+          "orderNumber": 11,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Brad",
+              "score": 800
+            },
+            {
+              "player": "Bill",
+              "score": 2400
+            },
+            {
+              "player": "Sally",
+              "score": 5800
+            }
+          ]
+        },
+        {
+          "category": "KENNEDY CENTER HONOREES",
+          "value": 400,
+          "clue": "Fred Astaire was honored in 1978; this woman, his partner, was honored in 1992",
+          "answer": "Ginger Rogers",
+          "isDailyDouble": false,
+          "orderNumber": 12,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Brad",
+              "score": 800
+            },
+            {
+              "player": "Bill",
+              "score": 2800
+            },
+            {
+              "player": "Sally",
+              "score": 5400
+            }
+          ]
+        },
+        {
+          "category": "GEOGRAPHY",
+          "value": 200,
+          "clue": "Inlets along this country's coast include the Firth of Forth & the Firth of Lorn",
+          "answer": "Scotland",
+          "isDailyDouble": false,
+          "orderNumber": 13,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Brad",
+              "score": 800
+            },
+            {
+              "player": "Bill",
+              "score": 3000
+            },
+            {
+              "player": "Sally",
+              "score": 5400
+            }
+          ]
+        },
+        {
+          "category": "GEOGRAPHY",
+          "value": 400,
+          "clue": "Mount Meron in Upper Galilee is this country's highest point",
+          "answer": "Israel",
+          "isDailyDouble": false,
+          "orderNumber": 14,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Brad",
+              "score": 1200
+            },
+            {
+              "player": "Bill",
+              "score": 3000
+            },
+            {
+              "player": "Sally",
+              "score": 5400
+            }
+          ]
+        },
+        {
+          "category": "GEOGRAPHY",
+          "value": 600,
+          "clue": "The world's highest waterfall, Angel Falls, is located in the Guiana Highlands of this country",
+          "answer": "Venezuela",
+          "isDailyDouble": false,
+          "orderNumber": 15,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Brad",
+              "score": 1800
+            },
+            {
+              "player": "Bill",
+              "score": 3000
+            },
+            {
+              "player": "Sally",
+              "score": 5400
+            }
+          ]
+        },
+        {
+          "category": "GEOGRAPHY",
+          "value": 800,
+          "clue": "The ancient Babylonians lived in Mesopotamia. most of which now lies in this country",
+          "answer": "Iraq",
+          "isDailyDouble": false,
+          "orderNumber": 16,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Brad",
+              "score": 1800
+            },
+            {
+              "player": "Bill",
+              "score": 3800
+            },
+            {
+              "player": "Sally",
+              "score": 5400
+            }
+          ]
+        },
+        {
+          "category": "GEOGRAPHY",
+          "value": 3000,
+          "clue": "It's the last country the Rhine flows through before emptying into the North Sea",
+          "answer": "the Netherlands",
+          "isDailyDouble": true,
+          "orderNumber": 17,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Brad",
+              "score": 1800
+            },
+            {
+              "player": "Bill",
+              "score": 6800
+            },
+            {
+              "player": "Sally",
+              "score": 5400
+            }
+          ]
+        },
+        {
+          "category": "THE ROMAN EMPIRE",
+          "value": 200,
+          "clue": "She met Mark Antony in Cilicia in 41 B.C. & they became lovers",
+          "answer": "Cleopatra",
+          "isDailyDouble": false,
+          "orderNumber": 18,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Brad",
+              "score": 1800
+            },
+            {
+              "player": "Bill",
+              "score": 6800
+            },
+            {
+              "player": "Sally",
+              "score": 5600
+            }
+          ]
+        },
+        {
+          "category": "KENNEDY CENTER HONOREES",
+          "value": 600,
+          "clue": "There were good vibes all around when this jazz musician picked up his award in 1992",
+          "answer": "Lionel Hampton",
+          "isDailyDouble": false,
+          "orderNumber": 19,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Brad",
+              "score": 2400
+            },
+            {
+              "player": "Bill",
+              "score": 6800
+            },
+            {
+              "player": "Sally",
+              "score": 5600
+            }
+          ]
+        },
+        {
+          "category": "THE ROMAN EMPIRE",
+          "value": 400,
+          "clue": "This volcano near Pompeii served as a refuge for slaves during the revolt of Spartacus",
+          "answer": "Vesuvius",
+          "isDailyDouble": false,
+          "orderNumber": 20,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Brad",
+              "score": 2400
+            },
+            {
+              "player": "Bill",
+              "score": 7200
+            },
+            {
+              "player": "Sally",
+              "score": 5600
+            }
+          ]
+        },
+        {
+          "category": "RANKS & TITLES",
+          "value": 200,
+          "clue": "It's the feminine version of the address \"Milord\"",
+          "answer": "Milady",
+          "isDailyDouble": false,
+          "orderNumber": 21,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Brad",
+              "score": 2600
+            },
+            {
+              "player": "Bill",
+              "score": 7200
+            },
+            {
+              "player": "Sally",
+              "score": 5600
+            }
+          ]
+        },
+        {
+          "category": "THE ROMAN EMPIRE",
+          "value": 600,
+          "clue": "Live burial was the penalty for unchastity on the part of these Roman priestesses",
+          "answer": "the Vestal Virgins",
+          "isDailyDouble": false,
+          "orderNumber": 22,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Brad",
+              "score": 2600
+            },
+            {
+              "player": "Bill",
+              "score": 7800
+            },
+            {
+              "player": "Sally",
+              "score": 5600
+            }
+          ]
+        },
+        {
+          "category": "THE ROMAN EMPIRE",
+          "value": 800,
+          "clue": "Under Augustus this governmental body retained the privilege of minting all copper coinage",
+          "answer": "the Senate",
+          "isDailyDouble": false,
+          "orderNumber": 23,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Brad",
+              "score": 3400
+            },
+            {
+              "player": "Bill",
+              "score": 7800
+            },
+            {
+              "player": "Sally",
+              "score": 5600
+            }
+          ]
+        },
+        {
+          "category": "THE ROMAN EMPIRE",
+          "value": 2000,
+          "clue": "In 26 A.D. he succeeded Valerius Gratus as procurator of Judea",
+          "answer": "Pontius Pilate",
+          "isDailyDouble": true,
+          "orderNumber": 24,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Brad",
+              "score": 1400
+            },
+            {
+              "player": "Bill",
+              "score": 7800
+            },
+            {
+              "player": "Sally",
+              "score": 5600
+            }
+          ]
+        },
+        {
+          "category": "RANKS & TITLES",
+          "value": 400,
+          "clue": "Meaning first in position or rank, it's a synonym for prime minister",
+          "answer": "premier",
+          "isDailyDouble": false,
+          "orderNumber": 25,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Brad",
+              "score": 1800
+            },
+            {
+              "player": "Bill",
+              "score": 7800
+            },
+            {
+              "player": "Sally",
+              "score": 5600
+            }
+          ]
+        },
+        {
+          "category": "RANKS & TITLES",
+          "value": 600,
+          "clue": "A hetman or ataman was the leader of a village of these Russian horsemen",
+          "answer": "Cossacks",
+          "isDailyDouble": false,
+          "orderNumber": 26,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Brad",
+              "score": 2400
+            },
+            {
+              "player": "Bill",
+              "score": 7800
+            },
+            {
+              "player": "Sally",
+              "score": 5600
+            }
+          ]
+        },
+        {
+          "category": "RANKS & TITLES",
+          "value": 800,
+          "clue": "Czarevna is a title given to this person",
+          "answer": "the daughter of a czar",
+          "isDailyDouble": false,
+          "orderNumber": 27,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Brad",
+              "score": 3200
+            },
+            {
+              "player": "Bill",
+              "score": 7800
+            },
+            {
+              "player": "Sally",
+              "score": 5600
+            }
+          ]
+        },
+        {
+          "category": "RANKS & TITLES",
+          "value": 1000,
+          "clue": "You'll find a verger in a church & a shammes in one of these",
+          "answer": "a synagogue",
+          "isDailyDouble": false,
+          "orderNumber": 28,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Brad",
+              "score": 4200
+            },
+            {
+              "player": "Bill",
+              "score": 7800
+            },
+            {
+              "player": "Sally",
+              "score": 5600
+            }
+          ]
+        },
+        {
+          "category": "KENNEDY CENTER HONOREES",
+          "value": 800,
+          "clue": "1 of the 2 husband & wife acting pairs honored together, 1 in 1986, 1 in 1992",
+          "answer": "(1 of) Hume Cronyn & Jessica Tandy (or Paul Newman & Joanne Woodward)",
+          "isDailyDouble": false,
+          "orderNumber": 29,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Brad",
+              "score": 5000
+            },
+            {
+              "player": "Bill",
+              "score": 7800
+            },
+            {
+              "player": "Sally",
+              "score": 5600
+            }
+          ]
+        },
+        {
+          "category": "KENNEDY CENTER HONOREES",
+          "value": 1000,
+          "clue": "In December 1994 this political protester & former member of The Weavers picked up an award",
+          "answer": "Pete Seeger",
+          "isDailyDouble": false,
+          "orderNumber": 30,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Brad",
+              "score": 5000
+            },
+            {
+              "player": "Bill",
+              "score": 7800
+            },
+            {
+              "player": "Sally",
+              "score": 5600
+            }
+          ]
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "Brad",
+          "score": 5000
+        },
+        {
+          "player": "Bill",
+          "score": 7800
+        },
+        {
+          "player": "Sally",
+          "score": 5600
+        }
+      ]
+    },
+    "finalJeopardy": {
+      "category": "19th CENTURY NOVELS",
+      "clue": "Book 1, Chapter 4 of this 1880 work is entitled \"The Third Son Alyosha\"",
+      "answer": "The Brothers Karamazov",
+      "responses": [
+        {
+          "contestant": "Brad",
+          "response": "What is The Brothers Karamozov",
+          "isCorrect": true,
+          "isIncorrect": false,
+          "value": 5000,
+          "finalScore": 10000
+        },
+        {
+          "contestant": "Sally",
+          "response": "What is Ben Hur?",
+          "isCorrect": false,
+          "isIncorrect": true,
+          "value": 5599,
+          "finalScore": 1
+        },
+        {
+          "contestant": "Bill",
+          "response": "What is War and Peace",
+          "isCorrect": false,
+          "isIncorrect": true,
+          "value": 4000,
+          "finalScore": 3800
+        }
+      ]
+    }
+  },
+  "finalScores": [
+    {
+      "player": "Brad",
+      "score": "$10,000"
+    },
+    {
+      "player": "Bill",
+      "score": "$3,800"
+    },
+    {
+      "player": "Sally",
+      "score": "$1"
+    }
+  ],
+  "coryatScores": [
+    {
+      "player": "Brad",
+      "score": 7000
+    },
+    {
+      "player": "Bill",
+      "score": 5800
+    },
+    {
+      "player": "Sally",
+      "score": 5600
+    }
+  ]
+}

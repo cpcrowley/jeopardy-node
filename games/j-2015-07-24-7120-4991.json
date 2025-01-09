@@ -1,0 +1,1701 @@
+{
+  "gameId": 4991,
+  "showNumber": "7120",
+  "title": "Show #7120 - Friday, July 24, 2015",
+  "date": "2015-07-24",
+  "comments": "Scott Lord game 5.",
+  "contestants": [
+    "Scott",
+    "Tracy",
+    "Sam"
+  ],
+  "rounds": {
+    "jeopardy": {
+      "categories": [
+        "APOSTOLIC NAMES",
+        "STATE CAPITALS",
+        "TRANSPORTATION",
+        "NOT CHESS AGAIN!",
+        "TV ROLES",
+        "DOUBLE D WITH ANOTHER D"
+      ],
+      "clues": [
+        {
+          "category": "APOSTOLIC NAMES",
+          "value": 600,
+          "clue": "Actors Goode & Morrison",
+          "answer": "Matthew",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [
+            "Sam"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Scott",
+              "score": 0
+            },
+            {
+              "player": "Tracy",
+              "score": 0
+            },
+            {
+              "player": "Sam",
+              "score": 600
+            }
+          ]
+        },
+        {
+          "category": "APOSTOLIC NAMES",
+          "value": 200,
+          "clue": "McCutchen & Carnegie of Pennsylvania",
+          "answer": "Andrew",
+          "isDailyDouble": false,
+          "orderNumber": 2,
+          "correctContestants": [
+            "Sam"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Scott",
+              "score": 0
+            },
+            {
+              "player": "Tracy",
+              "score": 0
+            },
+            {
+              "player": "Sam",
+              "score": 800
+            }
+          ]
+        },
+        {
+          "category": "APOSTOLIC NAMES",
+          "value": 400,
+          "clue": "Philosophers Hobbes & Paine",
+          "answer": "Thomas",
+          "isDailyDouble": false,
+          "orderNumber": 3,
+          "correctContestants": [
+            "Tracy"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Scott",
+              "score": 0
+            },
+            {
+              "player": "Tracy",
+              "score": 400
+            },
+            {
+              "player": "Sam",
+              "score": 800
+            }
+          ]
+        },
+        {
+          "category": "APOSTOLIC NAMES",
+          "value": 800,
+          "clue": "Authors Pullman & Dick",
+          "answer": "Philip",
+          "isDailyDouble": false,
+          "orderNumber": 4,
+          "correctContestants": [
+            "Sam"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Scott",
+              "score": 0
+            },
+            {
+              "player": "Tracy",
+              "score": 400
+            },
+            {
+              "player": "Sam",
+              "score": 1600
+            }
+          ]
+        },
+        {
+          "category": "APOSTOLIC NAMES",
+          "value": 1000,
+          "clue": "Noted beard sporters Hetfield & Harden",
+          "answer": "James",
+          "isDailyDouble": false,
+          "orderNumber": 5,
+          "correctContestants": [
+            "Sam"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Scott",
+              "score": 0
+            },
+            {
+              "player": "Tracy",
+              "score": 400
+            },
+            {
+              "player": "Sam",
+              "score": 2600
+            }
+          ]
+        },
+        {
+          "category": "TRANSPORTATION",
+          "value": 200,
+          "clue": "In 1911 Eugene Ely made the first airplane landing on one of these, the USS Pennsylvania",
+          "answer": "a ship",
+          "isDailyDouble": false,
+          "orderNumber": 6,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Scott",
+            "Tracy"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Scott",
+              "score": -200
+            },
+            {
+              "player": "Tracy",
+              "score": 200
+            },
+            {
+              "player": "Sam",
+              "score": 2600
+            }
+          ]
+        },
+        {
+          "category": "TRANSPORTATION",
+          "value": 400,
+          "clue": "The Professional Caddies Association calls it \"the caddie's worst enemy\"",
+          "answer": "a golf cart",
+          "isDailyDouble": false,
+          "orderNumber": 7,
+          "correctContestants": [
+            "Sam"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Scott",
+              "score": -200
+            },
+            {
+              "player": "Tracy",
+              "score": 200
+            },
+            {
+              "player": "Sam",
+              "score": 3000
+            }
+          ]
+        },
+        {
+          "category": "TRANSPORTATION",
+          "value": 600,
+          "clue": "At 250+ miles, Wash. has the USA's longest project converting train tracks into a path, rhymingly called this to trail",
+          "answer": "rails-to-trails",
+          "isDailyDouble": false,
+          "orderNumber": 8,
+          "correctContestants": [
+            "Sam"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Scott",
+              "score": -200
+            },
+            {
+              "player": "Tracy",
+              "score": 200
+            },
+            {
+              "player": "Sam",
+              "score": 3600
+            }
+          ]
+        },
+        {
+          "category": "TRANSPORTATION",
+          "value": 800,
+          "clue": "Like Huck & Jim, a ship's steward named Poon Lim drifted on one of these--for 133 days before being rescued",
+          "answer": "a raft",
+          "isDailyDouble": false,
+          "orderNumber": 9,
+          "correctContestants": [
+            "Scott"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Scott",
+              "score": 600
+            },
+            {
+              "player": "Tracy",
+              "score": 200
+            },
+            {
+              "player": "Sam",
+              "score": 3600
+            }
+          ]
+        },
+        {
+          "category": "TRANSPORTATION",
+          "value": 1000,
+          "clue": "This eurocompany, really big in passenger jets, also produces close to 1/3 of the world's helicopters",
+          "answer": "Airbus",
+          "isDailyDouble": false,
+          "orderNumber": 10,
+          "correctContestants": [
+            "Sam"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Scott",
+              "score": 600
+            },
+            {
+              "player": "Tracy",
+              "score": 200
+            },
+            {
+              "player": "Sam",
+              "score": 4600
+            }
+          ]
+        },
+        {
+          "category": "TV ROLES",
+          "value": 200,
+          "clue": "On this series Andrew Lincoln is Sheriff's Deputy Rick Grimes, who awoke from a coma to a zombie apocalypse",
+          "answer": "The Walking Dead",
+          "isDailyDouble": false,
+          "orderNumber": 11,
+          "correctContestants": [
+            "Sam"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Scott",
+              "score": 600
+            },
+            {
+              "player": "Tracy",
+              "score": 200
+            },
+            {
+              "player": "Sam",
+              "score": 4800
+            }
+          ]
+        },
+        {
+          "category": "TV ROLES",
+          "value": 400,
+          "clue": "She plays \"Madam Secretary\" of State Elizabeth McCord",
+          "answer": "Téa Leoni",
+          "isDailyDouble": false,
+          "orderNumber": 12,
+          "correctContestants": [
+            "Scott"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Scott",
+              "score": 1000
+            },
+            {
+              "player": "Tracy",
+              "score": 200
+            },
+            {
+              "player": "Sam",
+              "score": 4800
+            }
+          ]
+        },
+        {
+          "category": "TV ROLES",
+          "value": 600,
+          "clue": "Kate Walsh played surgeon Addison Montgomery on this spinoff from \"Grey's Anatomy\"",
+          "answer": "Private Practice",
+          "isDailyDouble": false,
+          "orderNumber": 13,
+          "correctContestants": [
+            "Sam"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Scott",
+              "score": 1000
+            },
+            {
+              "player": "Tracy",
+              "score": 200
+            },
+            {
+              "player": "Sam",
+              "score": 5400
+            }
+          ]
+        },
+        {
+          "category": "TV ROLES",
+          "value": 800,
+          "clue": "Once suburban mom & \"Medium\" Allison DuBois, in 2015 she took on the role of Agent Avery Ryan on \"CSI: Cyber\"",
+          "answer": "Patricia Arquette",
+          "isDailyDouble": false,
+          "orderNumber": 14,
+          "correctContestants": [
+            "Sam"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Scott",
+              "score": 1000
+            },
+            {
+              "player": "Tracy",
+              "score": 200
+            },
+            {
+              "player": "Sam",
+              "score": 6200
+            }
+          ]
+        },
+        {
+          "category": "TV ROLES",
+          "value": 1000,
+          "clue": "Alex O'Loughlin plays this iconic role on the reboot version of \"Hawaii Five-O\"",
+          "answer": "Steve McGarrett",
+          "isDailyDouble": false,
+          "orderNumber": 15,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Scott",
+            "Tracy"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Scott",
+              "score": 0
+            },
+            {
+              "player": "Tracy",
+              "score": -800
+            },
+            {
+              "player": "Sam",
+              "score": 6200
+            }
+          ]
+        },
+        {
+          "category": "STATE CAPITALS",
+          "value": 200,
+          "clue": "Juneau had its beginning in 1880 when Richard Harris & Joe Juneau arrived in the area seeking this... what else?",
+          "answer": "gold",
+          "isDailyDouble": false,
+          "orderNumber": 16,
+          "correctContestants": [
+            "Scott"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Scott",
+              "score": 200
+            },
+            {
+              "player": "Tracy",
+              "score": -800
+            },
+            {
+              "player": "Sam",
+              "score": 6200
+            }
+          ]
+        },
+        {
+          "category": "NOT CHESS AGAIN!",
+          "value": 200,
+          "clue": "In doing this, a player moves a rook either 2 squares to the left or 3 to the right",
+          "answer": "castling",
+          "isDailyDouble": false,
+          "orderNumber": 17,
+          "correctContestants": [
+            "Scott"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Scott",
+              "score": 400
+            },
+            {
+              "player": "Tracy",
+              "score": -800
+            },
+            {
+              "player": "Sam",
+              "score": 6200
+            }
+          ]
+        },
+        {
+          "category": "NOT CHESS AGAIN!",
+          "value": 400,
+          "clue": "If one of these moves 2 squares rather than one, it may be captured \"en passant\", in passing",
+          "answer": "a pawn",
+          "isDailyDouble": false,
+          "orderNumber": 18,
+          "correctContestants": [
+            "Scott"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Scott",
+              "score": 800
+            },
+            {
+              "player": "Tracy",
+              "score": -800
+            },
+            {
+              "player": "Sam",
+              "score": 6200
+            }
+          ]
+        },
+        {
+          "category": "NOT CHESS AGAIN!",
+          "value": 1000,
+          "clue": "In a set of standard Staunton-style pieces, not bishops but these pieces are topped with crosses",
+          "answer": "kings",
+          "isDailyDouble": true,
+          "orderNumber": 19,
+          "correctContestants": [
+            "Scott"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Scott",
+              "score": 1800
+            },
+            {
+              "player": "Tracy",
+              "score": -800
+            },
+            {
+              "player": "Sam",
+              "score": 6200
+            }
+          ]
+        },
+        {
+          "category": "NOT CHESS AGAIN!",
+          "value": 800,
+          "clue": "White moves first & looks to increase his advantage; black replies & seeks to gain this, part of Wyoming's state nickname",
+          "answer": "equality",
+          "isDailyDouble": false,
+          "orderNumber": 20,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Scott",
+              "score": 1800
+            },
+            {
+              "player": "Tracy",
+              "score": -800
+            },
+            {
+              "player": "Sam",
+              "score": 6200
+            }
+          ]
+        },
+        {
+          "category": "NOT CHESS AGAIN!",
+          "value": 1000,
+          "clue": "If a game opens d4 d5 c4 you're playing the queen's this, you schemer you",
+          "answer": "a gambit",
+          "isDailyDouble": false,
+          "orderNumber": 21,
+          "correctContestants": [
+            "Sam"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Scott",
+              "score": 1800
+            },
+            {
+              "player": "Tracy",
+              "score": -800
+            },
+            {
+              "player": "Sam",
+              "score": 7200
+            }
+          ]
+        },
+        {
+          "category": "STATE CAPITALS",
+          "value": 400,
+          "clue": "In 1743 the site of this S.D. capital was claimed for France by the burial of a lead plate; the plate was found in 1913",
+          "answer": "Pierre",
+          "isDailyDouble": false,
+          "orderNumber": 22,
+          "correctContestants": [
+            "Tracy"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Scott",
+              "score": 1800
+            },
+            {
+              "player": "Tracy",
+              "score": -400
+            },
+            {
+              "player": "Sam",
+              "score": 7200
+            }
+          ]
+        },
+        {
+          "category": "STATE CAPITALS",
+          "value": 1000,
+          "clue": "(Kelly of the Clue Crew reports from the Parthenon in Nashville, TN.)  The Parthenon in Nashville boasts one of the world's largest sets of doors made from this metal--24' high & 7' wide",
+          "answer": "bronze",
+          "isDailyDouble": false,
+          "orderNumber": 23,
+          "correctContestants": [
+            "Tracy"
+          ],
+          "incorrectContestants": [
+            "Sam"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Scott",
+              "score": 1800
+            },
+            {
+              "player": "Tracy",
+              "score": 600
+            },
+            {
+              "player": "Sam",
+              "score": 6200
+            }
+          ]
+        },
+        {
+          "category": "STATE CAPITALS",
+          "value": 800,
+          "clue": "Atlanta's seal features this mythic bird, which symbolizes its rebuilding that began in 1865",
+          "answer": "the phoenix",
+          "isDailyDouble": false,
+          "orderNumber": 24,
+          "correctContestants": [
+            "Sam"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Scott",
+              "score": 1800
+            },
+            {
+              "player": "Tracy",
+              "score": 600
+            },
+            {
+              "player": "Sam",
+              "score": 7000
+            }
+          ]
+        },
+        {
+          "category": "STATE CAPITALS",
+          "value": 600,
+          "clue": "The only house Abraham Lincoln ever owned is located at Jackson & 8th Streets in this capital",
+          "answer": "Springfield",
+          "isDailyDouble": false,
+          "orderNumber": 25,
+          "correctContestants": [
+            "Scott"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Scott",
+              "score": 2400
+            },
+            {
+              "player": "Tracy",
+              "score": 600
+            },
+            {
+              "player": "Sam",
+              "score": 7000
+            }
+          ]
+        },
+        {
+          "category": "DOUBLE D WITH ANOTHER D",
+          "value": 600,
+          "clue": "It means \"snowboarded aggressively down the mountain\", dude",
+          "answer": "shredded",
+          "isDailyDouble": false,
+          "orderNumber": 26,
+          "correctContestants": [
+            "Sam"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Scott",
+              "score": 2400
+            },
+            {
+              "player": "Tracy",
+              "score": 600
+            },
+            {
+              "player": "Sam",
+              "score": 7600
+            }
+          ]
+        },
+        {
+          "category": "DOUBLE D WITH ANOTHER D",
+          "value": 800,
+          "clue": "Confined to your mattress",
+          "answer": "bedridden",
+          "isDailyDouble": false,
+          "orderNumber": 27,
+          "correctContestants": [
+            "Tracy"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Scott",
+              "score": 2400
+            },
+            {
+              "player": "Tracy",
+              "score": 1400
+            },
+            {
+              "player": "Sam",
+              "score": 7600
+            }
+          ]
+        },
+        {
+          "category": "DOUBLE D WITH ANOTHER D",
+          "value": 1000,
+          "clue": "Type of gently treated egg seen here",
+          "answer": "coddled",
+          "isDailyDouble": false,
+          "orderNumber": 28,
+          "correctContestants": [
+            "Tracy"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Scott",
+              "score": 2400
+            },
+            {
+              "player": "Tracy",
+              "score": 2400
+            },
+            {
+              "player": "Sam",
+              "score": 7600
+            }
+          ]
+        },
+        {
+          "category": "DOUBLE D WITH ANOTHER D",
+          "value": 400,
+          "clue": "\"Make room for\" this word that follows \"big\" & precedes \"longlegs\"",
+          "answer": "daddy",
+          "isDailyDouble": false,
+          "orderNumber": 29,
+          "correctContestants": [
+            "Sam"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Scott",
+              "score": 2400
+            },
+            {
+              "player": "Tracy",
+              "score": 2400
+            },
+            {
+              "player": "Sam",
+              "score": 8000
+            }
+          ]
+        },
+        {
+          "category": "DOUBLE D WITH ANOTHER D",
+          "value": 200,
+          "clue": "Physiologically dependent; might as well face it, you're this",
+          "answer": "addicted",
+          "isDailyDouble": false,
+          "orderNumber": 30,
+          "correctContestants": [
+            "Scott"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Scott",
+              "score": 2600
+            },
+            {
+              "player": "Tracy",
+              "score": 2400
+            },
+            {
+              "player": "Sam",
+              "score": 8000
+            }
+          ]
+        }
+      ],
+      "firstBreakScores": [
+        {
+          "player": "Scott",
+          "score": 0
+        },
+        {
+          "player": "Tracy",
+          "score": -800
+        },
+        {
+          "player": "Sam",
+          "score": 6200
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "Scott",
+          "score": 2600
+        },
+        {
+          "player": "Tracy",
+          "score": 2400
+        },
+        {
+          "player": "Sam",
+          "score": 8000
+        }
+      ]
+    },
+    "doubleJeopardy": {
+      "categories": [
+        "THE SECURITIES & EXCHANGE COMMISSION",
+        "IN WEBSTER'S DICTIONARY",
+        "WATER SCIENCE",
+        "\"A\"+ IN HISTORY",
+        "W. SOMERSET MAUGHAM",
+        "POP CULTURE"
+      ],
+      "clues": [
+        {
+          "category": "POP CULTURE",
+          "value": 400,
+          "clue": "In the new movie \"Pixels\", aliens send our own video game characters to menace Earth, including this one seen here",
+          "answer": "Pac-Man",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Scott",
+              "score": 3000
+            },
+            {
+              "player": "Tracy",
+              "score": 2400
+            },
+            {
+              "player": "Sam",
+              "score": 8000
+            }
+          ]
+        },
+        {
+          "category": "W. SOMERSET MAUGHAM",
+          "value": 400,
+          "clue": "Based on the life of Gauguin, \"The Moon and Sixpence\" takes place partly on this Pacific island",
+          "answer": "Tahiti",
+          "isDailyDouble": false,
+          "orderNumber": 2,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Scott",
+              "score": 3000
+            },
+            {
+              "player": "Tracy",
+              "score": 2800
+            },
+            {
+              "player": "Sam",
+              "score": 8000
+            }
+          ]
+        },
+        {
+          "category": "POP CULTURE",
+          "value": 800,
+          "clue": "This ace NBA rebounder & colorful personality was Deke Reynolds on TV's \"Special Ops Force\"",
+          "answer": "(Dennis) Rodman",
+          "isDailyDouble": false,
+          "orderNumber": 3,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Scott",
+              "score": 3800
+            },
+            {
+              "player": "Tracy",
+              "score": 2800
+            },
+            {
+              "player": "Sam",
+              "score": 8000
+            }
+          ]
+        },
+        {
+          "category": "W. SOMERSET MAUGHAM",
+          "value": 800,
+          "clue": "The same year as \"Ghostbusters\", Bill Murray went dramatic in a film of this Maugham novel with a \"sharp\" title",
+          "answer": "The Razor's Edge",
+          "isDailyDouble": false,
+          "orderNumber": 4,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Scott",
+              "score": 3800
+            },
+            {
+              "player": "Tracy",
+              "score": 3600
+            },
+            {
+              "player": "Sam",
+              "score": 8000
+            }
+          ]
+        },
+        {
+          "category": "WATER SCIENCE",
+          "value": 400,
+          "clue": "Mineral water from natural springs usually has a high level of carbonate of this chemical element",
+          "answer": "calcium",
+          "isDailyDouble": false,
+          "orderNumber": 5,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Scott",
+              "score": 3400
+            },
+            {
+              "player": "Tracy",
+              "score": 3600
+            },
+            {
+              "player": "Sam",
+              "score": 8400
+            }
+          ]
+        },
+        {
+          "category": "WATER SCIENCE",
+          "value": 800,
+          "clue": "Less steep waterfalls are called these, like a Northwest U.S. mountain range",
+          "answer": "cascades",
+          "isDailyDouble": false,
+          "orderNumber": 6,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Scott",
+              "score": 3400
+            },
+            {
+              "player": "Tracy",
+              "score": 3600
+            },
+            {
+              "player": "Sam",
+              "score": 9200
+            }
+          ]
+        },
+        {
+          "category": "WATER SCIENCE",
+          "value": 1200,
+          "clue": "The water in most hot springs is heated by this 5-letter substance",
+          "answer": "magma",
+          "isDailyDouble": false,
+          "orderNumber": 7,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Scott",
+              "score": 3400
+            },
+            {
+              "player": "Tracy",
+              "score": 4800
+            },
+            {
+              "player": "Sam",
+              "score": 9200
+            }
+          ]
+        },
+        {
+          "category": "WATER SCIENCE",
+          "value": 1600,
+          "clue": "It would cost about $2,000 to supply a family of 4 for a year with this, aka purified seawater",
+          "answer": "desalinated water",
+          "isDailyDouble": false,
+          "orderNumber": 8,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Scott",
+              "score": 3400
+            },
+            {
+              "player": "Tracy",
+              "score": 4800
+            },
+            {
+              "player": "Sam",
+              "score": 10800
+            }
+          ]
+        },
+        {
+          "category": "WATER SCIENCE",
+          "value": 2000,
+          "clue": "These natural pools whose water levels rise & fall exist in lava depressions in Hawaii",
+          "answer": "tide pools",
+          "isDailyDouble": false,
+          "orderNumber": 9,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Scott",
+              "score": 5400
+            },
+            {
+              "player": "Tracy",
+              "score": 4800
+            },
+            {
+              "player": "Sam",
+              "score": 10800
+            }
+          ]
+        },
+        {
+          "category": "W. SOMERSET MAUGHAM",
+          "value": 1200,
+          "clue": "\"The Hairless Mexican\" & \"The Traitor\" are 2 of Maugham's stories drawn from his exploits as a spy in this war",
+          "answer": "World War I",
+          "isDailyDouble": false,
+          "orderNumber": 10,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Scott",
+              "score": 6600
+            },
+            {
+              "player": "Tracy",
+              "score": 4800
+            },
+            {
+              "player": "Sam",
+              "score": 9600
+            }
+          ]
+        },
+        {
+          "category": "W. SOMERSET MAUGHAM",
+          "value": 1600,
+          "clue": "Philip's entanglement with Mildred is one of the restricting ties in the title of this novel",
+          "answer": "Of Human Bondage",
+          "isDailyDouble": false,
+          "orderNumber": 11,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Scott",
+              "score": 8200
+            },
+            {
+              "player": "Tracy",
+              "score": 4800
+            },
+            {
+              "player": "Sam",
+              "score": 9600
+            }
+          ]
+        },
+        {
+          "category": "W. SOMERSET MAUGHAM",
+          "value": 2000,
+          "clue": "Maugham's first novel had the alliterative title \"Liza of\" this London district",
+          "answer": "Lambeth",
+          "isDailyDouble": false,
+          "orderNumber": 12,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Scott",
+              "score": 8200
+            },
+            {
+              "player": "Tracy",
+              "score": 4800
+            },
+            {
+              "player": "Sam",
+              "score": 9600
+            }
+          ]
+        },
+        {
+          "category": "\"A\"+ IN HISTORY",
+          "value": 400,
+          "clue": "What's now Mexico City was once the capital of this empire",
+          "answer": "the Aztec",
+          "isDailyDouble": false,
+          "orderNumber": 13,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Scott",
+              "score": 8600
+            },
+            {
+              "player": "Tracy",
+              "score": 4800
+            },
+            {
+              "player": "Sam",
+              "score": 9600
+            }
+          ]
+        },
+        {
+          "category": "\"A\"+ IN HISTORY",
+          "value": 800,
+          "clue": "When he heard the North Pole had been reached, he changed his destination to the South Pole without telling his men",
+          "answer": "Amundsen",
+          "isDailyDouble": false,
+          "orderNumber": 14,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Scott",
+              "score": 8600
+            },
+            {
+              "player": "Tracy",
+              "score": 5600
+            },
+            {
+              "player": "Sam",
+              "score": 9600
+            }
+          ]
+        },
+        {
+          "category": "\"A\"+ IN HISTORY",
+          "value": 1200,
+          "clue": "The pact known as this document of Mudros marked the defeat of the Ottoman Empire",
+          "answer": "Armistice",
+          "isDailyDouble": false,
+          "orderNumber": 15,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Scott",
+              "score": 8600
+            },
+            {
+              "player": "Tracy",
+              "score": 5600
+            },
+            {
+              "player": "Sam",
+              "score": 9600
+            }
+          ]
+        },
+        {
+          "category": "\"A\"+ IN HISTORY",
+          "value": 3000,
+          "clue": "Flourishing between 3000 & 1100 B.C., Cycladic & Minoan were 2 of the cultures named for this sea",
+          "answer": "the Aegean",
+          "isDailyDouble": true,
+          "orderNumber": 16,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Scott",
+              "score": 8600
+            },
+            {
+              "player": "Tracy",
+              "score": 8600
+            },
+            {
+              "player": "Sam",
+              "score": 9600
+            }
+          ]
+        },
+        {
+          "category": "\"A\"+ IN HISTORY",
+          "value": 2000,
+          "clue": "German for \"union\", it was advocated between Germany & Austria in 1919 but became a reality in 1938",
+          "answer": "Anschluss",
+          "isDailyDouble": false,
+          "orderNumber": 17,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Scott",
+              "score": 10600
+            },
+            {
+              "player": "Tracy",
+              "score": 8600
+            },
+            {
+              "player": "Sam",
+              "score": 9600
+            }
+          ]
+        },
+        {
+          "category": "THE SECURITIES & EXCHANGE COMMISSION",
+          "value": 1000,
+          "clue": "The SEC regulates this type of 5-letter material that allows shareholders to vote without being present",
+          "answer": "a proxy",
+          "isDailyDouble": true,
+          "orderNumber": 18,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Scott",
+              "score": 11600
+            },
+            {
+              "player": "Tracy",
+              "score": 8600
+            },
+            {
+              "player": "Sam",
+              "score": 9600
+            }
+          ]
+        },
+        {
+          "category": "THE SECURITIES & EXCHANGE COMMISSION",
+          "value": 1600,
+          "clue": "Being misleading over a housing market investment cost this \"group\" $285 million when the SEC got wind of it",
+          "answer": "Citigroup",
+          "isDailyDouble": false,
+          "orderNumber": 19,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Scott",
+              "score": 11600
+            },
+            {
+              "player": "Tracy",
+              "score": 8600
+            },
+            {
+              "player": "Sam",
+              "score": 11200
+            }
+          ]
+        },
+        {
+          "category": "THE SECURITIES & EXCHANGE COMMISSION",
+          "value": 2000,
+          "clue": "She brought down John Gotti; \"You don't wanna mess with Mary Jo\", said President Obama, in nominating this current SEC head",
+          "answer": "Mary Jo White",
+          "isDailyDouble": false,
+          "orderNumber": 20,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Scott",
+              "score": 11600
+            },
+            {
+              "player": "Tracy",
+              "score": 8600
+            },
+            {
+              "player": "Sam",
+              "score": 11200
+            }
+          ]
+        },
+        {
+          "category": "POP CULTURE",
+          "value": 1200,
+          "clue": "The MTV Movie Award for Best Comedic Performance 2011: her in \"Easy A\"",
+          "answer": "Emma Stone",
+          "isDailyDouble": false,
+          "orderNumber": 21,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Scott",
+              "score": 11600
+            },
+            {
+              "player": "Tracy",
+              "score": 8600
+            },
+            {
+              "player": "Sam",
+              "score": 12400
+            }
+          ]
+        },
+        {
+          "category": "POP CULTURE",
+          "value": 1600,
+          "clue": "The title of this sitcom about the Huang family is a slighting phrase about immigrants",
+          "answer": "Fresh Off the Boat",
+          "isDailyDouble": false,
+          "orderNumber": 22,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Scott",
+              "score": 11600
+            },
+            {
+              "player": "Tracy",
+              "score": 10200
+            },
+            {
+              "player": "Sam",
+              "score": 10800
+            }
+          ]
+        },
+        {
+          "category": "POP CULTURE",
+          "value": 2000,
+          "clue": "Band that gave us the '80s hit \"Don't Dream It's Over\"",
+          "answer": "Crowded House",
+          "isDailyDouble": false,
+          "orderNumber": 23,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Scott",
+              "score": 11600
+            },
+            {
+              "player": "Tracy",
+              "score": 12200
+            },
+            {
+              "player": "Sam",
+              "score": 10800
+            }
+          ]
+        },
+        {
+          "category": "IN WEBSTER'S DICTIONARY",
+          "value": 2000,
+          "clue": "\"Die... or faint typically because of noxious gas or want of adequate oxygen\"",
+          "answer": "asphyxiate",
+          "isDailyDouble": false,
+          "orderNumber": 24,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Scott",
+              "score": 11600
+            },
+            {
+              "player": "Tracy",
+              "score": 12200
+            },
+            {
+              "player": "Sam",
+              "score": 12800
+            }
+          ]
+        },
+        {
+          "category": "IN WEBSTER'S DICTIONARY",
+          "value": 1600,
+          "clue": "\"A bay or recess in the shore of a sea, lake, or river\"",
+          "answer": "inlet",
+          "isDailyDouble": false,
+          "orderNumber": 25,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Scott",
+              "score": 13200
+            },
+            {
+              "player": "Tracy",
+              "score": 12200
+            },
+            {
+              "player": "Sam",
+              "score": 12800
+            }
+          ]
+        },
+        {
+          "category": "THE SECURITIES & EXCHANGE COMMISSION",
+          "value": 800,
+          "clue": "The SEC says this illegal type of trading involves \"possession of material, nonpublic information about\" a stock",
+          "answer": "insider trading",
+          "isDailyDouble": false,
+          "orderNumber": 26,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Scott",
+              "score": 13200
+            },
+            {
+              "player": "Tracy",
+              "score": 13000
+            },
+            {
+              "player": "Sam",
+              "score": 12800
+            }
+          ]
+        },
+        {
+          "category": "THE SECURITIES & EXCHANGE COMMISSION",
+          "value": 400,
+          "clue": "The SEC's original purpose was to give confidence to investors who lost money due to the crash of this year",
+          "answer": "1929",
+          "isDailyDouble": false,
+          "orderNumber": 27,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Scott",
+              "score": 13200
+            },
+            {
+              "player": "Tracy",
+              "score": 13000
+            },
+            {
+              "player": "Sam",
+              "score": 13200
+            }
+          ]
+        },
+        {
+          "category": "IN WEBSTER'S DICTIONARY",
+          "value": 800,
+          "clue": "\"To sing in a manner common among the Swiss and Tyrolean mountaineers\"",
+          "answer": "yodel",
+          "isDailyDouble": false,
+          "orderNumber": 28,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Scott",
+              "score": 13200
+            },
+            {
+              "player": "Tracy",
+              "score": 13800
+            },
+            {
+              "player": "Sam",
+              "score": 13200
+            }
+          ]
+        },
+        {
+          "category": "IN WEBSTER'S DICTIONARY",
+          "value": 1200,
+          "clue": "\"A machine for beheading\"",
+          "answer": "guillotine",
+          "isDailyDouble": false,
+          "orderNumber": 29,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Scott",
+              "score": 13200
+            },
+            {
+              "player": "Tracy",
+              "score": 13800
+            },
+            {
+              "player": "Sam",
+              "score": 14400
+            }
+          ]
+        },
+        {
+          "category": "IN WEBSTER'S DICTIONARY",
+          "value": 400,
+          "clue": "\"The student usu. of the highest rank in a graduating class\"",
+          "answer": "valedictorian",
+          "isDailyDouble": false,
+          "orderNumber": 30,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Scott",
+              "score": 13600
+            },
+            {
+              "player": "Tracy",
+              "score": 13800
+            },
+            {
+              "player": "Sam",
+              "score": 14400
+            }
+          ]
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "Scott",
+          "score": 13600
+        },
+        {
+          "player": "Tracy",
+          "score": 13800
+        },
+        {
+          "player": "Sam",
+          "score": 14400
+        }
+      ]
+    },
+    "finalJeopardy": {
+      "category": "NATIONAL AIRLINES",
+      "clue": "This small land's airline advertises a \"stopover\": 7 nights at no extra travel charge to break up a Boston-Brussels trip",
+      "answer": "Iceland",
+      "responses": [
+        {
+          "contestant": "Scott",
+          "response": "What is Icelandic Airlines",
+          "isCorrect": true,
+          "isIncorrect": false,
+          "value": 1000,
+          "finalScore": 14600
+        },
+        {
+          "contestant": "Tracy",
+          "response": "What is Air Belgium",
+          "isCorrect": false,
+          "isIncorrect": true,
+          "value": 13800,
+          "finalScore": 0
+        },
+        {
+          "contestant": "Sam",
+          "response": "What is Air Belgium",
+          "isCorrect": false,
+          "isIncorrect": true,
+          "value": 14000,
+          "finalScore": 400
+        }
+      ]
+    }
+  },
+  "finalScores": [
+    {
+      "player": "Scott",
+      "score": "$14,600"
+    },
+    {
+      "player": "Tracy",
+      "score": "$0"
+    },
+    {
+      "player": "Sam",
+      "score": "$400"
+    }
+  ],
+  "coryatScores": [
+    {
+      "player": "Scott",
+      "score": 13400
+    },
+    {
+      "player": "Tracy",
+      "score": 12400
+    },
+    {
+      "player": "Sam",
+      "score": 14400
+    }
+  ]
+}

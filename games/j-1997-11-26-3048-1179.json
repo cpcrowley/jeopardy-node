@@ -1,0 +1,1701 @@
+{
+  "gameId": 1179,
+  "showNumber": "3048",
+  "title": "Show #3048 - Wednesday, November 26, 1997",
+  "date": "1997-11-26",
+  "comments": "Bob Harris game 4.",
+  "contestants": [
+    "Bob",
+    "Wade",
+    "Chris"
+  ],
+  "rounds": {
+    "jeopardy": {
+      "categories": [
+        "THOSE DREADED STORY PROBLEMS",
+        "SURROUNDED BY WATER",
+        "SOMETHING'S \"FISH\"Y",
+        "THINK FAST",
+        "SHARKS!",
+        "PEOPLE IN HISTORY"
+      ],
+      "clues": [
+        {
+          "category": "SURROUNDED BY WATER",
+          "value": 100,
+          "clue": "Michigan's Isle Royale is the largest island surrounded by this largest Great Lake",
+          "answer": "Lake Superior",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [
+            "Bob"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 100
+            },
+            {
+              "player": "Wade",
+              "score": 0
+            },
+            {
+              "player": "Chris",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "SURROUNDED BY WATER",
+          "value": 200,
+          "clue": "When this canal opened in 1869, suddenly Africa was completely surrounded by water",
+          "answer": "Suez Canal",
+          "isDailyDouble": false,
+          "orderNumber": 2,
+          "correctContestants": [
+            "Bob"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 300
+            },
+            {
+              "player": "Wade",
+              "score": 0
+            },
+            {
+              "player": "Chris",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "SURROUNDED BY WATER",
+          "value": 300,
+          "clue": "It's the ocean that surrounds Mauritius",
+          "answer": "Indian Ocean",
+          "isDailyDouble": false,
+          "orderNumber": 3,
+          "correctContestants": [
+            "Bob"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 600
+            },
+            {
+              "player": "Wade",
+              "score": 0
+            },
+            {
+              "player": "Chris",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "SURROUNDED BY WATER",
+          "value": 400,
+          "clue": "New Zealand is bounded by the Pacific Ocean to the east & this sea to the west",
+          "answer": "the Tasman Sea",
+          "isDailyDouble": false,
+          "orderNumber": 4,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Chris"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 600
+            },
+            {
+              "player": "Wade",
+              "score": 0
+            },
+            {
+              "player": "Chris",
+              "score": -400
+            }
+          ]
+        },
+        {
+          "category": "SURROUNDED BY WATER",
+          "value": 500,
+          "clue": "The Gulf of Batabano separates the Isle of Pines from the rest of this island country",
+          "answer": "Cuba",
+          "isDailyDouble": false,
+          "orderNumber": 5,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 600
+            },
+            {
+              "player": "Wade",
+              "score": 0
+            },
+            {
+              "player": "Chris",
+              "score": -400
+            }
+          ]
+        },
+        {
+          "category": "SHARKS!",
+          "value": 100,
+          "clue": "All sharks have at least one dorsal fin & one caudal fin, better known as this",
+          "answer": "Tail",
+          "isDailyDouble": false,
+          "orderNumber": 6,
+          "correctContestants": [
+            "Bob"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 700
+            },
+            {
+              "player": "Wade",
+              "score": 0
+            },
+            {
+              "player": "Chris",
+              "score": -400
+            }
+          ]
+        },
+        {
+          "category": "SHARKS!",
+          "value": 200,
+          "clue": "The smallest of the 9 species of this shark actually looks more like a shovel up front",
+          "answer": "Hammerhead",
+          "isDailyDouble": false,
+          "orderNumber": 7,
+          "correctContestants": [
+            "Chris"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 700
+            },
+            {
+              "player": "Wade",
+              "score": 0
+            },
+            {
+              "player": "Chris",
+              "score": -200
+            }
+          ]
+        },
+        {
+          "category": "PEOPLE IN HISTORY",
+          "value": 100,
+          "clue": "This president was nicknamed the \"Sage of the Hermitage\"",
+          "answer": "Andrew Jackson",
+          "isDailyDouble": false,
+          "orderNumber": 8,
+          "correctContestants": [
+            "Wade"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 700
+            },
+            {
+              "player": "Wade",
+              "score": 100
+            },
+            {
+              "player": "Chris",
+              "score": -200
+            }
+          ]
+        },
+        {
+          "category": "PEOPLE IN HISTORY",
+          "value": 200,
+          "clue": "The Duke of Medina Sidonia commanded this famous fleet that the English defeated in 1588",
+          "answer": "Spanish Armada",
+          "isDailyDouble": false,
+          "orderNumber": 9,
+          "correctContestants": [
+            "Chris"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 700
+            },
+            {
+              "player": "Wade",
+              "score": 100
+            },
+            {
+              "player": "Chris",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "PEOPLE IN HISTORY",
+          "value": 300,
+          "clue": "Born in 1519, this Medici queen of France was the great-niece of Pope Leo X",
+          "answer": "Catherine de' Medici",
+          "isDailyDouble": false,
+          "orderNumber": 10,
+          "correctContestants": [
+            "Chris"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 700
+            },
+            {
+              "player": "Wade",
+              "score": 100
+            },
+            {
+              "player": "Chris",
+              "score": 300
+            }
+          ]
+        },
+        {
+          "category": "PEOPLE IN HISTORY",
+          "value": 400,
+          "clue": "Enrico Dandalo was in his 80s when he was elected Doge of this city in 1192",
+          "answer": "Venice",
+          "isDailyDouble": false,
+          "orderNumber": 11,
+          "correctContestants": [
+            "Chris"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 700
+            },
+            {
+              "player": "Wade",
+              "score": 100
+            },
+            {
+              "player": "Chris",
+              "score": 700
+            }
+          ]
+        },
+        {
+          "category": "PEOPLE IN HISTORY",
+          "value": 700,
+          "clue": "He was the first Scandinavian to serve as Secretary-General of the U.N.",
+          "answer": "Trygve Lie (Norway)",
+          "isDailyDouble": true,
+          "orderNumber": 12,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Chris"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 700
+            },
+            {
+              "player": "Wade",
+              "score": 100
+            },
+            {
+              "player": "Chris",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "SHARKS!",
+          "value": 500,
+          "clue": "It's said that black wetsuits attract great white sharks because swimmers resemble these animals",
+          "answer": "Seals",
+          "isDailyDouble": false,
+          "orderNumber": 13,
+          "correctContestants": [
+            "Wade"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 700
+            },
+            {
+              "player": "Wade",
+              "score": 600
+            },
+            {
+              "player": "Chris",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "SOMETHING'S \"FISH\"Y",
+          "value": 100,
+          "clue": "These VIPs like small ponds",
+          "answer": "Big fish",
+          "isDailyDouble": false,
+          "orderNumber": 14,
+          "correctContestants": [
+            "Wade"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 700
+            },
+            {
+              "player": "Wade",
+              "score": 700
+            },
+            {
+              "player": "Chris",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "SOMETHING'S \"FISH\"Y",
+          "value": 200,
+          "clue": "Someone removed from his usual environment, who may lung to return there",
+          "answer": "A fish out of water",
+          "isDailyDouble": false,
+          "orderNumber": 15,
+          "correctContestants": [
+            "Bob"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 900
+            },
+            {
+              "player": "Wade",
+              "score": 700
+            },
+            {
+              "player": "Chris",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "SOMETHING'S \"FISH\"Y",
+          "value": 300,
+          "clue": "It's a place without privacy",
+          "answer": "a fishbowl",
+          "isDailyDouble": false,
+          "orderNumber": 16,
+          "correctContestants": [
+            "Wade"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 900
+            },
+            {
+              "player": "Wade",
+              "score": 1000
+            },
+            {
+              "player": "Chris",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "SOMETHING'S \"FISH\"Y",
+          "value": 400,
+          "clue": "It's the process of reeling in praise for yourself",
+          "answer": "Fishing for compliments",
+          "isDailyDouble": false,
+          "orderNumber": 17,
+          "correctContestants": [
+            "Bob"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 1300
+            },
+            {
+              "player": "Wade",
+              "score": 1000
+            },
+            {
+              "player": "Chris",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "SOMETHING'S \"FISH\"Y",
+          "value": 500,
+          "clue": "It means to do one thing or another, but stop stalling",
+          "answer": "Fish or cut bait",
+          "isDailyDouble": false,
+          "orderNumber": 18,
+          "correctContestants": [
+            "Wade"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 1300
+            },
+            {
+              "player": "Wade",
+              "score": 1500
+            },
+            {
+              "player": "Chris",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "SHARKS!",
+          "value": 300,
+          "clue": "A new battery-powered device for divers repels sharks using this type of field",
+          "answer": "electromagnetic (or electrical)",
+          "isDailyDouble": false,
+          "orderNumber": 19,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Wade"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 1300
+            },
+            {
+              "player": "Wade",
+              "score": 1200
+            },
+            {
+              "player": "Chris",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "SHARKS!",
+          "value": 400,
+          "clue": "This term for a mass descent of sharks on prey is also applied to massive media interest",
+          "answer": "Feeding frenzy",
+          "isDailyDouble": false,
+          "orderNumber": 20,
+          "correctContestants": [
+            "Wade"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 1300
+            },
+            {
+              "player": "Wade",
+              "score": 1600
+            },
+            {
+              "player": "Chris",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "THOSE DREADED STORY PROBLEMS",
+          "value": 100,
+          "clue": "A 20-count book of 32c stamps costs this much",
+          "answer": "$6.40",
+          "isDailyDouble": false,
+          "orderNumber": 21,
+          "correctContestants": [
+            "Wade"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 1300
+            },
+            {
+              "player": "Wade",
+              "score": 1700
+            },
+            {
+              "player": "Chris",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "THOSE DREADED STORY PROBLEMS",
+          "value": 200,
+          "clue": "If Cowboy Bob has 3,200 \"feet\" of cattle in his herd, he has this many head",
+          "answer": "800",
+          "isDailyDouble": false,
+          "orderNumber": 22,
+          "correctContestants": [
+            "Wade"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 1300
+            },
+            {
+              "player": "Wade",
+              "score": 1900
+            },
+            {
+              "player": "Chris",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "THOSE DREADED STORY PROBLEMS",
+          "value": 300,
+          "clue": "It's the number of degrees the minute hand moves when going from 12 to 3",
+          "answer": "90",
+          "isDailyDouble": false,
+          "orderNumber": 23,
+          "correctContestants": [
+            "Wade"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 1300
+            },
+            {
+              "player": "Wade",
+              "score": 2200
+            },
+            {
+              "player": "Chris",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "THOSE DREADED STORY PROBLEMS",
+          "value": 400,
+          "clue": "If Tom's picket fence used 3\"-wide pickets, he'd need this many edge to edge to cover a 12' length",
+          "answer": "48",
+          "isDailyDouble": false,
+          "orderNumber": 24,
+          "correctContestants": [
+            "Wade"
+          ],
+          "incorrectContestants": [
+            "Chris"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 1300
+            },
+            {
+              "player": "Wade",
+              "score": 2600
+            },
+            {
+              "player": "Chris",
+              "score": -400
+            }
+          ]
+        },
+        {
+          "category": "THOSE DREADED STORY PROBLEMS",
+          "value": 500,
+          "clue": "If a dieting 2-ton elephant lost 10 pounds a week for a year he'd weigh this much",
+          "answer": "3,480 pounds",
+          "isDailyDouble": false,
+          "orderNumber": 25,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Bob"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 800
+            },
+            {
+              "player": "Wade",
+              "score": 2600
+            },
+            {
+              "player": "Chris",
+              "score": -400
+            }
+          ]
+        },
+        {
+          "category": "THINK FAST",
+          "value": 100,
+          "clue": "A person moving quickly is going by leaps & these",
+          "answer": "bounds",
+          "isDailyDouble": false,
+          "orderNumber": 26,
+          "correctContestants": [
+            "Chris"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 800
+            },
+            {
+              "player": "Wade",
+              "score": 2600
+            },
+            {
+              "player": "Chris",
+              "score": -300
+            }
+          ]
+        },
+        {
+          "category": "THINK FAST",
+          "value": 200,
+          "clue": "Floor it, or \"put the pedal to\" this",
+          "answer": "The metal",
+          "isDailyDouble": false,
+          "orderNumber": 27,
+          "correctContestants": [
+            "Bob"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 1000
+            },
+            {
+              "player": "Wade",
+              "score": 2600
+            },
+            {
+              "player": "Chris",
+              "score": -300
+            }
+          ]
+        },
+        {
+          "category": "THINK FAST",
+          "value": 300,
+          "clue": "People go like a blue one of these, or like one of lightning",
+          "answer": "streak",
+          "isDailyDouble": false,
+          "orderNumber": 28,
+          "correctContestants": [
+            "Bob"
+          ],
+          "incorrectContestants": [
+            "Wade"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 1300
+            },
+            {
+              "player": "Wade",
+              "score": 2300
+            },
+            {
+              "player": "Chris",
+              "score": -300
+            }
+          ]
+        },
+        {
+          "category": "THINK FAST",
+          "value": 400,
+          "clue": "A dictionary defines it as \"The instant's duration of a wink\"; little stars & eyes do it",
+          "answer": "Twinkle",
+          "isDailyDouble": false,
+          "orderNumber": 29,
+          "correctContestants": [
+            "Bob"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 1700
+            },
+            {
+              "player": "Wade",
+              "score": 2300
+            },
+            {
+              "player": "Chris",
+              "score": -300
+            }
+          ]
+        },
+        {
+          "category": "THINK FAST",
+          "value": 500,
+          "clue": "The material that people are \"hellbent for\" when moving quickly",
+          "answer": "Leather",
+          "isDailyDouble": false,
+          "orderNumber": 30,
+          "correctContestants": [
+            "Bob"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 2200
+            },
+            {
+              "player": "Wade",
+              "score": 2300
+            },
+            {
+              "player": "Chris",
+              "score": -300
+            }
+          ]
+        }
+      ],
+      "firstBreakScores": [
+        {
+          "player": "Bob",
+          "score": 900
+        },
+        {
+          "player": "Wade",
+          "score": 1000
+        },
+        {
+          "player": "Chris",
+          "score": 0
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "Bob",
+          "score": 2200
+        },
+        {
+          "player": "Wade",
+          "score": 2300
+        },
+        {
+          "player": "Chris",
+          "score": -300
+        }
+      ]
+    },
+    "doubleJeopardy": {
+      "categories": [
+        "FICTIONAL CHARACTERS",
+        "LONDON'S CITY GUILDS",
+        "ACTORS & ROLE",
+        "THE BIBLE",
+        "19th CENTURY OPERA",
+        "9-LETTER WORDS"
+      ],
+      "clues": [
+        {
+          "category": "THE BIBLE",
+          "value": 200,
+          "clue": "\"Now the Lord had prepared a great fish to swallow up\" this man",
+          "answer": "Jonah",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 2400
+            },
+            {
+              "player": "Wade",
+              "score": 2300
+            },
+            {
+              "player": "Chris",
+              "score": -300
+            }
+          ]
+        },
+        {
+          "category": "THE BIBLE",
+          "value": 400,
+          "clue": "6 days before Passover Jesus had a supper with this man whom he had raised from the dead",
+          "answer": "Lazarus",
+          "isDailyDouble": false,
+          "orderNumber": 2,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 2800
+            },
+            {
+              "player": "Wade",
+              "score": 2300
+            },
+            {
+              "player": "Chris",
+              "score": -300
+            }
+          ]
+        },
+        {
+          "category": "THE BIBLE",
+          "value": 600,
+          "clue": "In the book of Luke, this angel announces the births of both John the Baptist & Jesus Christ",
+          "answer": "Gabriel",
+          "isDailyDouble": false,
+          "orderNumber": 3,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 3400
+            },
+            {
+              "player": "Wade",
+              "score": 2300
+            },
+            {
+              "player": "Chris",
+              "score": -300
+            }
+          ]
+        },
+        {
+          "category": "THE BIBLE",
+          "value": 800,
+          "clue": "This future king of Israel was summoned to soothe King Saul with his harp playing",
+          "answer": "David",
+          "isDailyDouble": false,
+          "orderNumber": 4,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 3400
+            },
+            {
+              "player": "Wade",
+              "score": 3100
+            },
+            {
+              "player": "Chris",
+              "score": -300
+            }
+          ]
+        },
+        {
+          "category": "THE BIBLE",
+          "value": 1000,
+          "clue": "This king cast Shedrach, Meshach & Abednego into a fiery furnace",
+          "answer": "Nebuchadnezzar",
+          "isDailyDouble": false,
+          "orderNumber": 5,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 3400
+            },
+            {
+              "player": "Wade",
+              "score": 3100
+            },
+            {
+              "player": "Chris",
+              "score": 700
+            }
+          ]
+        },
+        {
+          "category": "19th CENTURY OPERA",
+          "value": 200,
+          "clue": "Sadly, most of this \"Carmen\" composer's opera \"Clarissa Harlowe\" is lost",
+          "answer": "Georges Bizet",
+          "isDailyDouble": false,
+          "orderNumber": 6,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 3600
+            },
+            {
+              "player": "Wade",
+              "score": 3100
+            },
+            {
+              "player": "Chris",
+              "score": 700
+            }
+          ]
+        },
+        {
+          "category": "19th CENTURY OPERA",
+          "value": 400,
+          "clue": "The title clowns of this Leoncavallo work arrive in a parade led by a donkey, not in a tiny car",
+          "answer": "Pagliacci",
+          "isDailyDouble": false,
+          "orderNumber": 7,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 3600
+            },
+            {
+              "player": "Wade",
+              "score": 3100
+            },
+            {
+              "player": "Chris",
+              "score": 1100
+            }
+          ]
+        },
+        {
+          "category": "19th CENTURY OPERA",
+          "value": 600,
+          "clue": "This composer's adopted niece, Johanna, created the role of Elisabeth in his opera \"Tannhauser\"",
+          "answer": "Richard Wagner",
+          "isDailyDouble": false,
+          "orderNumber": 8,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 4200
+            },
+            {
+              "player": "Wade",
+              "score": 3100
+            },
+            {
+              "player": "Chris",
+              "score": 1100
+            }
+          ]
+        },
+        {
+          "category": "19th CENTURY OPERA",
+          "value": 800,
+          "clue": "The ghost of Nino is a bass role in \"Semiramide\" by this composer of \"William Tell\"",
+          "answer": "Gioacchino Rossini",
+          "isDailyDouble": false,
+          "orderNumber": 9,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 4200
+            },
+            {
+              "player": "Wade",
+              "score": 3900
+            },
+            {
+              "player": "Chris",
+              "score": 1100
+            }
+          ]
+        },
+        {
+          "category": "19th CENTURY OPERA",
+          "value": 1000,
+          "clue": "\"Un ballo in maschera\" dramatizes the assassination of this country's King Gustavus III at a masked ball",
+          "answer": "Sweden",
+          "isDailyDouble": false,
+          "orderNumber": 10,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 5200
+            },
+            {
+              "player": "Wade",
+              "score": 3900
+            },
+            {
+              "player": "Chris",
+              "score": 1100
+            }
+          ]
+        },
+        {
+          "category": "FICTIONAL CHARACTERS",
+          "value": 200,
+          "clue": "Mickey Spillane's 1996 novel \"Black Alley\" is the first to feature this detective in 7 years",
+          "answer": "Mike Hammer",
+          "isDailyDouble": false,
+          "orderNumber": 11,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 5200
+            },
+            {
+              "player": "Wade",
+              "score": 4100
+            },
+            {
+              "player": "Chris",
+              "score": 1100
+            }
+          ]
+        },
+        {
+          "category": "FICTIONAL CHARACTERS",
+          "value": 400,
+          "clue": "Della & Jim Young are the impoverished couple of his 1906 short story \"The Gift Of The Magi\"",
+          "answer": "O. Henry (William Sydney Porter)",
+          "isDailyDouble": false,
+          "orderNumber": 12,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 5200
+            },
+            {
+              "player": "Wade",
+              "score": 4500
+            },
+            {
+              "player": "Chris",
+              "score": 1100
+            }
+          ]
+        },
+        {
+          "category": "FICTIONAL CHARACTERS",
+          "value": 600,
+          "clue": "Jake Barnes & Robert Cohn vie for the affection of Lady Brett Ashley in this Hemingway novel",
+          "answer": "The Sun Also Rises",
+          "isDailyDouble": false,
+          "orderNumber": 13,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 5800
+            },
+            {
+              "player": "Wade",
+              "score": 4500
+            },
+            {
+              "player": "Chris",
+              "score": 1100
+            }
+          ]
+        },
+        {
+          "category": "FICTIONAL CHARACTERS",
+          "value": 800,
+          "clue": "This shy officer in \"Catch-22\" was \"promoted by an I.B.M. machine with a sense of humor\"",
+          "answer": "Major Major",
+          "isDailyDouble": false,
+          "orderNumber": 14,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 5000
+            },
+            {
+              "player": "Wade",
+              "score": 4500
+            },
+            {
+              "player": "Chris",
+              "score": 1100
+            }
+          ]
+        },
+        {
+          "category": "FICTIONAL CHARACTERS",
+          "value": 1000,
+          "clue": "This protagonist of a Virginia Woolf novel changes from man to woman through 4 centuries",
+          "answer": "Orlando",
+          "isDailyDouble": false,
+          "orderNumber": 15,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 5000
+            },
+            {
+              "player": "Wade",
+              "score": 4500
+            },
+            {
+              "player": "Chris",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "category": "LONDON'S CITY GUILDS",
+          "value": 200,
+          "clue": "Bowyers make bows & coopers make these",
+          "answer": "Barrels",
+          "isDailyDouble": false,
+          "orderNumber": 16,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 5200
+            },
+            {
+              "player": "Wade",
+              "score": 4500
+            },
+            {
+              "player": "Chris",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "category": "LONDON'S CITY GUILDS",
+          "value": 400,
+          "clue": "Loriners make hardware for this genteel sport a little \"bit\" at a time",
+          "answer": "Polo (or anything to do with horses)",
+          "isDailyDouble": false,
+          "orderNumber": 17,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 5600
+            },
+            {
+              "player": "Wade",
+              "score": 4500
+            },
+            {
+              "player": "Chris",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "category": "LONDON'S CITY GUILDS",
+          "value": 600,
+          "clue": "\"If I were\" one of these \"And you were a lady\", I'd report to their hall at 1 Throgmorton Avenue",
+          "answer": "Carpenters",
+          "isDailyDouble": false,
+          "orderNumber": 18,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 6200
+            },
+            {
+              "player": "Wade",
+              "score": 4500
+            },
+            {
+              "player": "Chris",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "category": "LONDON'S CITY GUILDS",
+          "value": 800,
+          "clue": "One of the oldest guilds is the group of seafood sellers known as this",
+          "answer": "Fishmongers",
+          "isDailyDouble": false,
+          "orderNumber": 19,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 7000
+            },
+            {
+              "player": "Wade",
+              "score": 4500
+            },
+            {
+              "player": "Chris",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "category": "LONDON'S CITY GUILDS",
+          "value": 1000,
+          "clue": "If Melville's Bartleby moved from New York to London, he'd join the company of these",
+          "answer": "Scriveners",
+          "isDailyDouble": false,
+          "orderNumber": 20,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 8000
+            },
+            {
+              "player": "Wade",
+              "score": 4500
+            },
+            {
+              "player": "Chris",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "category": "ACTORS & ROLE",
+          "value": 200,
+          "clue": "Mom role shared by Barbara Billingsley & Janine Turner",
+          "answer": "June Cleaver",
+          "isDailyDouble": false,
+          "orderNumber": 21,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 8000
+            },
+            {
+              "player": "Wade",
+              "score": 4700
+            },
+            {
+              "player": "Chris",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "category": "ACTORS & ROLE",
+          "value": 400,
+          "clue": "Fess Parker & John Wayne have both played this king of the wild frontier",
+          "answer": "Davy Crockett",
+          "isDailyDouble": false,
+          "orderNumber": 22,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 7600
+            },
+            {
+              "player": "Wade",
+              "score": 4700
+            },
+            {
+              "player": "Chris",
+              "score": 500
+            }
+          ]
+        },
+        {
+          "category": "ACTORS & ROLE",
+          "value": 1000,
+          "clue": "In a 1996 Fox TV movie based on a British series, the 2 actors seen here both played this time lord:",
+          "answer": "Doctor Who",
+          "isDailyDouble": false,
+          "orderNumber": 23,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 8600
+            },
+            {
+              "player": "Wade",
+              "score": 4700
+            },
+            {
+              "player": "Chris",
+              "score": 500
+            }
+          ]
+        },
+        {
+          "category": "ACTORS & ROLE",
+          "value": 2000,
+          "clue": "Anne Parillaud role that led to the other 2 seen here:",
+          "answer": "La Femme Nikita",
+          "isDailyDouble": true,
+          "orderNumber": 24,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 10600
+            },
+            {
+              "player": "Wade",
+              "score": 4700
+            },
+            {
+              "player": "Chris",
+              "score": 500
+            }
+          ]
+        },
+        {
+          "category": "ACTORS & ROLE",
+          "value": 800,
+          "clue": "In 1994 Rosie O'Donnell was cast in this role in the stage version of \"Grease\"; in 1997 Lucy Lawless was",
+          "answer": "Rizzo",
+          "isDailyDouble": false,
+          "orderNumber": 25,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 10600
+            },
+            {
+              "player": "Wade",
+              "score": 5500
+            },
+            {
+              "player": "Chris",
+              "score": 500
+            }
+          ]
+        },
+        {
+          "category": "9-LETTER WORDS",
+          "value": 200,
+          "clue": "It's any of the first known inhabitants of a region, especially one from Australia",
+          "answer": "an aborigine",
+          "isDailyDouble": false,
+          "orderNumber": 26,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 10800
+            },
+            {
+              "player": "Wade",
+              "score": 5500
+            },
+            {
+              "player": "Chris",
+              "score": 500
+            }
+          ]
+        },
+        {
+          "category": "9-LETTER WORDS",
+          "value": 400,
+          "clue": "A collection of stories, or a collection of Beatles songs",
+          "answer": "Anthology",
+          "isDailyDouble": false,
+          "orderNumber": 27,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 10800
+            },
+            {
+              "player": "Wade",
+              "score": 5500
+            },
+            {
+              "player": "Chris",
+              "score": 900
+            }
+          ]
+        },
+        {
+          "category": "9-LETTER WORDS",
+          "value": 1000,
+          "clue": "It describes a 2-House legislature",
+          "answer": "Bicameral",
+          "isDailyDouble": false,
+          "orderNumber": 28,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 11800
+            },
+            {
+              "player": "Wade",
+              "score": 5500
+            },
+            {
+              "player": "Chris",
+              "score": 900
+            }
+          ]
+        },
+        {
+          "category": "9-LETTER WORDS",
+          "value": 600,
+          "clue": "It's another name for the femur",
+          "answer": "the thighbone",
+          "isDailyDouble": false,
+          "orderNumber": 29,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 11200
+            },
+            {
+              "player": "Wade",
+              "score": 5500
+            },
+            {
+              "player": "Chris",
+              "score": 900
+            }
+          ]
+        },
+        {
+          "category": "9-LETTER WORDS",
+          "value": 200,
+          "clue": "This brilliant shade of red derives its name from a Latin word for \"little worm\"",
+          "answer": "Vermilion",
+          "isDailyDouble": true,
+          "orderNumber": 30,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bob",
+              "score": 11400
+            },
+            {
+              "player": "Wade",
+              "score": 5500
+            },
+            {
+              "player": "Chris",
+              "score": 900
+            }
+          ]
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "Bob",
+          "score": 11400
+        },
+        {
+          "player": "Wade",
+          "score": 5500
+        },
+        {
+          "player": "Chris",
+          "score": 900
+        }
+      ]
+    },
+    "finalJeopardy": {
+      "category": "CANDY",
+      "clue": "Created in 1912, they were originally marketed with the slogan \"For That Stormy Breath\"",
+      "answer": "Life Savers",
+      "responses": [
+        {
+          "contestant": "Chris",
+          "response": "What are Certs",
+          "isCorrect": false,
+          "isIncorrect": true,
+          "value": 900,
+          "finalScore": 0
+        },
+        {
+          "contestant": "Wade",
+          "response": "What are Life Savers? (Jess & Trav)",
+          "isCorrect": true,
+          "isIncorrect": false,
+          "value": 13,
+          "finalScore": 5513
+        },
+        {
+          "contestant": "Bob",
+          "response": "What are Life Savers?",
+          "isCorrect": true,
+          "isIncorrect": false,
+          "value": 300,
+          "finalScore": 11700
+        }
+      ]
+    }
+  },
+  "finalScores": [
+    {
+      "player": "Bob",
+      "score": "$11,700"
+    },
+    {
+      "player": "Wade",
+      "score": "$5,513"
+    },
+    {
+      "player": "Chris",
+      "score": "$0"
+    }
+  ],
+  "coryatScores": [
+    {
+      "player": "Bob",
+      "score": 10600
+    },
+    {
+      "player": "Wade",
+      "score": 5500
+    },
+    {
+      "player": "Chris",
+      "score": 1600
+    }
+  ]
+}

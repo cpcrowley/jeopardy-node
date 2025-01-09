@@ -1,0 +1,1710 @@
+{
+  "gameId": 3180,
+  "showNumber": "4530",
+  "title": "Show #4530 - Friday, April 23, 2004",
+  "date": "2004-04-23",
+  "comments": "Tom Baker game 3.",
+  "contestants": [
+    "Tom",
+    "Liz",
+    "Marc"
+  ],
+  "rounds": {
+    "jeopardy": {
+      "categories": [
+        "ROYAL WOMEN",
+        "WORLD OF FOOD",
+        "NFL COACHES",
+        "\"OO\" WHO?",
+        "THE 7 CONTINENTS",
+        "FROM WHAT LANGUAGE"
+      ],
+      "clues": [
+        {
+          "category": "WORLD OF FOOD",
+          "value": 200,
+          "clue": "In a Mexican restaurant, you can get your choice of flour tortillas or this type",
+          "answer": "corn",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [
+            "Liz"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 0
+            },
+            {
+              "player": "Liz",
+              "score": 200
+            },
+            {
+              "player": "Marc",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "WORLD OF FOOD",
+          "value": 400,
+          "clue": "Basmati from India & jasmine from Thailand are aromatic types of this grain",
+          "answer": "rice",
+          "isDailyDouble": false,
+          "orderNumber": 2,
+          "correctContestants": [
+            "Tom"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 400
+            },
+            {
+              "player": "Liz",
+              "score": 200
+            },
+            {
+              "player": "Marc",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "WORLD OF FOOD",
+          "value": 600,
+          "clue": "This cool soup, a summertime specialty of Andalusia, is literally a \"liquid salad\"",
+          "answer": "gazpacho",
+          "isDailyDouble": false,
+          "orderNumber": 3,
+          "correctContestants": [
+            "Liz"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 400
+            },
+            {
+              "player": "Liz",
+              "score": 800
+            },
+            {
+              "player": "Marc",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "WORLD OF FOOD",
+          "value": 800,
+          "clue": "Consisting of chunks of grilled lamb on skewers, it's the Greek version of shish kebab",
+          "answer": "souvlaki",
+          "isDailyDouble": false,
+          "orderNumber": 4,
+          "correctContestants": [
+            "Tom"
+          ],
+          "incorrectContestants": [
+            "Marc"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 1200
+            },
+            {
+              "player": "Liz",
+              "score": 800
+            },
+            {
+              "player": "Marc",
+              "score": -800
+            }
+          ]
+        },
+        {
+          "category": "WORLD OF FOOD",
+          "value": 1000,
+          "clue": "Colcannon is an Irish peasant dish of mashed potatoes & traditionally this green, finely chopped",
+          "answer": "cabbage",
+          "isDailyDouble": false,
+          "orderNumber": 5,
+          "correctContestants": [
+            "Liz"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 1200
+            },
+            {
+              "player": "Liz",
+              "score": 1800
+            },
+            {
+              "player": "Marc",
+              "score": -800
+            }
+          ]
+        },
+        {
+          "category": "\"OO\" WHO?",
+          "value": 200,
+          "clue": "At his death in 1865, this assassin was supposedly engaged to Lucy Hale, daughter of an ex-senator",
+          "answer": "(John Wilkes) Booth",
+          "isDailyDouble": false,
+          "orderNumber": 6,
+          "correctContestants": [
+            "Tom"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 1400
+            },
+            {
+              "player": "Liz",
+              "score": 1800
+            },
+            {
+              "player": "Marc",
+              "score": -800
+            }
+          ]
+        },
+        {
+          "category": "\"OO\" WHO?",
+          "value": 400,
+          "clue": "These brothers, Joseph & Lyman, founded an upscale NYC department store in 1872",
+          "answer": "the Bloomingdales",
+          "isDailyDouble": false,
+          "orderNumber": 7,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Tom"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 1000
+            },
+            {
+              "player": "Liz",
+              "score": 1800
+            },
+            {
+              "player": "Marc",
+              "score": -800
+            }
+          ]
+        },
+        {
+          "category": "\"OO\" WHO?",
+          "value": 600,
+          "clue": "Unless we act now, she says, \"The world is... close to the day when there will be no more great apes in the wild\"",
+          "answer": "Jane Goodall",
+          "isDailyDouble": false,
+          "orderNumber": 8,
+          "correctContestants": [
+            "Liz"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 1000
+            },
+            {
+              "player": "Liz",
+              "score": 2400
+            },
+            {
+              "player": "Marc",
+              "score": -800
+            }
+          ]
+        },
+        {
+          "category": "\"OO\" WHO?",
+          "value": 800,
+          "clue": "Sometimes called the worst film director of all time, he died penniless in 1978",
+          "answer": "Ed Wood",
+          "isDailyDouble": false,
+          "orderNumber": 9,
+          "correctContestants": [
+            "Liz"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 1000
+            },
+            {
+              "player": "Liz",
+              "score": 3200
+            },
+            {
+              "player": "Marc",
+              "score": -800
+            }
+          ]
+        },
+        {
+          "category": "\"OO\" WHO?",
+          "value": 1000,
+          "clue": "Charlie Chaplin, that little tramp, married 2 16-year-old actresses as well as Paulette Goddard & her",
+          "answer": "Oona O'Neill",
+          "isDailyDouble": false,
+          "orderNumber": 10,
+          "correctContestants": [
+            "Liz"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 1000
+            },
+            {
+              "player": "Liz",
+              "score": 4200
+            },
+            {
+              "player": "Marc",
+              "score": -800
+            }
+          ]
+        },
+        {
+          "category": "ROYAL WOMEN",
+          "value": 200,
+          "clue": "In 1995 she told the BBC, \"I'd like to be a queen...in people's hearts, but I don't see myself being queen of this country\"",
+          "answer": "Princess Diana",
+          "isDailyDouble": false,
+          "orderNumber": 11,
+          "correctContestants": [
+            "Liz"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 1000
+            },
+            {
+              "player": "Liz",
+              "score": 4400
+            },
+            {
+              "player": "Marc",
+              "score": -800
+            }
+          ]
+        },
+        {
+          "category": "ROYAL WOMEN",
+          "value": 400,
+          "clue": "In 1492, she & her husband signed a decree ordering all Jews to convert to Christianity or leave the country",
+          "answer": "Queen Isabella",
+          "isDailyDouble": false,
+          "orderNumber": 12,
+          "correctContestants": [
+            "Marc"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 1000
+            },
+            {
+              "player": "Liz",
+              "score": 4400
+            },
+            {
+              "player": "Marc",
+              "score": -400
+            }
+          ]
+        },
+        {
+          "category": "ROYAL WOMEN",
+          "value": 600,
+          "clue": "An avid art collector, she founded the Hermitage Museum as a private gallery for her art collection",
+          "answer": "Catherine the Great",
+          "isDailyDouble": false,
+          "orderNumber": 13,
+          "correctContestants": [
+            "Liz"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 1000
+            },
+            {
+              "player": "Liz",
+              "score": 5000
+            },
+            {
+              "player": "Marc",
+              "score": -400
+            }
+          ]
+        },
+        {
+          "category": "ROYAL WOMEN",
+          "value": 800,
+          "clue": "Unlike her sister Stephanie, she's a princess of Great Britain as well as of Monaco",
+          "answer": "Princess Caroline",
+          "isDailyDouble": false,
+          "orderNumber": 14,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Liz"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 1000
+            },
+            {
+              "player": "Liz",
+              "score": 4200
+            },
+            {
+              "player": "Marc",
+              "score": -400
+            }
+          ]
+        },
+        {
+          "category": "ROYAL WOMEN",
+          "value": 1000,
+          "clue": "Marie Antoinette was among the 16 children of this Holy Roman empress & archduchess",
+          "answer": "Maria Theresa",
+          "isDailyDouble": false,
+          "orderNumber": 15,
+          "correctContestants": [
+            "Liz"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 1000
+            },
+            {
+              "player": "Liz",
+              "score": 5200
+            },
+            {
+              "player": "Marc",
+              "score": -400
+            }
+          ]
+        },
+        {
+          "category": "FROM WHAT LANGUAGE",
+          "value": 200,
+          "clue": "Judo",
+          "answer": "Japanese",
+          "isDailyDouble": false,
+          "orderNumber": 16,
+          "correctContestants": [
+            "Liz"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 1000
+            },
+            {
+              "player": "Liz",
+              "score": 5400
+            },
+            {
+              "player": "Marc",
+              "score": -400
+            }
+          ]
+        },
+        {
+          "category": "FROM WHAT LANGUAGE",
+          "value": 400,
+          "clue": "Machismo",
+          "answer": "Spanish",
+          "isDailyDouble": false,
+          "orderNumber": 17,
+          "correctContestants": [
+            "Tom"
+          ],
+          "incorrectContestants": [
+            "Marc"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 1400
+            },
+            {
+              "player": "Liz",
+              "score": 5400
+            },
+            {
+              "player": "Marc",
+              "score": -800
+            }
+          ]
+        },
+        {
+          "category": "FROM WHAT LANGUAGE",
+          "value": 600,
+          "clue": "Praline",
+          "answer": "French",
+          "isDailyDouble": false,
+          "orderNumber": 18,
+          "correctContestants": [
+            "Liz"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 1400
+            },
+            {
+              "player": "Liz",
+              "score": 6000
+            },
+            {
+              "player": "Marc",
+              "score": -800
+            }
+          ]
+        },
+        {
+          "category": "FROM WHAT LANGUAGE",
+          "value": 800,
+          "clue": "To kvell",
+          "answer": "Yiddish",
+          "isDailyDouble": false,
+          "orderNumber": 19,
+          "correctContestants": [
+            "Tom"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 2200
+            },
+            {
+              "player": "Liz",
+              "score": 6000
+            },
+            {
+              "player": "Marc",
+              "score": -800
+            }
+          ]
+        },
+        {
+          "category": "FROM WHAT LANGUAGE",
+          "value": 1000,
+          "clue": "Maelstrom",
+          "answer": "Dutch",
+          "isDailyDouble": false,
+          "orderNumber": 20,
+          "correctContestants": [
+            "Marc"
+          ],
+          "incorrectContestants": [
+            "Tom"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 1200
+            },
+            {
+              "player": "Liz",
+              "score": 6000
+            },
+            {
+              "player": "Marc",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "THE 7 CONTINENTS",
+          "value": 200,
+          "clue": "Population in summer: about 4,000; in winter, about 1,000",
+          "answer": "Antarctica",
+          "isDailyDouble": false,
+          "orderNumber": 21,
+          "correctContestants": [
+            "Liz"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 1200
+            },
+            {
+              "player": "Liz",
+              "score": 6200
+            },
+            {
+              "player": "Marc",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "THE 7 CONTINENTS",
+          "value": 400,
+          "clue": "At over 200 people per square mile, it has the highest population density",
+          "answer": "Asia",
+          "isDailyDouble": false,
+          "orderNumber": 22,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Tom"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 800
+            },
+            {
+              "player": "Liz",
+              "score": 6200
+            },
+            {
+              "player": "Marc",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "THE 7 CONTINENTS",
+          "value": 600,
+          "clue": "This continent has the highest per capita GNP at about $20,000 a person",
+          "answer": "North America",
+          "isDailyDouble": false,
+          "orderNumber": 23,
+          "correctContestants": [
+            "Marc"
+          ],
+          "incorrectContestants": [
+            "Tom",
+            "Liz"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 200
+            },
+            {
+              "player": "Liz",
+              "score": 5600
+            },
+            {
+              "player": "Marc",
+              "score": 800
+            }
+          ]
+        },
+        {
+          "category": "THE 7 CONTINENTS",
+          "value": 800,
+          "clue": "This continent is also a commonwealth",
+          "answer": "Australia",
+          "isDailyDouble": false,
+          "orderNumber": 24,
+          "correctContestants": [
+            "Tom"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 1000
+            },
+            {
+              "player": "Liz",
+              "score": 5600
+            },
+            {
+              "player": "Marc",
+              "score": 800
+            }
+          ]
+        },
+        {
+          "category": "THE 7 CONTINENTS",
+          "value": 1000,
+          "clue": "Its mainland section is composed of 12 independent countries",
+          "answer": "South America",
+          "isDailyDouble": false,
+          "orderNumber": 25,
+          "correctContestants": [
+            "Tom"
+          ],
+          "incorrectContestants": [
+            "Marc"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 2000
+            },
+            {
+              "player": "Liz",
+              "score": 5600
+            },
+            {
+              "player": "Marc",
+              "score": -200
+            }
+          ]
+        },
+        {
+          "category": "NFL COACHES",
+          "value": 200,
+          "clue": "He won 112 games as coach of the Raiders & has since won over a dozen Emmys for his football commentating",
+          "answer": "John Madden",
+          "isDailyDouble": false,
+          "orderNumber": 26,
+          "correctContestants": [
+            "Marc"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 2000
+            },
+            {
+              "player": "Liz",
+              "score": 5600
+            },
+            {
+              "player": "Marc",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "NFL COACHES",
+          "value": 400,
+          "clue": "(Hi, I'm Joey Galloway of the NFL.)  Since the beginnings in 1960, the Dallas Cowboys have had only 6 coaches, including this man for 29 years",
+          "answer": "Tom Landry",
+          "isDailyDouble": false,
+          "orderNumber": 27,
+          "correctContestants": [
+            "Liz"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 2000
+            },
+            {
+              "player": "Liz",
+              "score": 6000
+            },
+            {
+              "player": "Marc",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "NFL COACHES",
+          "value": 600,
+          "clue": "This former Miami coach is the winningest coach in NFL history",
+          "answer": "Don Shula",
+          "isDailyDouble": false,
+          "orderNumber": 28,
+          "correctContestants": [
+            "Liz"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 2000
+            },
+            {
+              "player": "Liz",
+              "score": 6600
+            },
+            {
+              "player": "Marc",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "NFL COACHES",
+          "value": 800,
+          "clue": "Now a broadcaster & businessman, his Chicago restaurant bears the logo seen here",
+          "answer": "(Mike) Ditka",
+          "isDailyDouble": false,
+          "orderNumber": 29,
+          "correctContestants": [
+            "Marc"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 2000
+            },
+            {
+              "player": "Liz",
+              "score": 6600
+            },
+            {
+              "player": "Marc",
+              "score": 800
+            }
+          ]
+        },
+        {
+          "category": "NFL COACHES",
+          "value": 1000,
+          "clue": "After he was fired from the team that was named for him, he went on to coach the Bengals",
+          "answer": "(Paul) Brown",
+          "isDailyDouble": true,
+          "orderNumber": 30,
+          "correctContestants": [
+            "Marc"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 2000
+            },
+            {
+              "player": "Liz",
+              "score": 6600
+            },
+            {
+              "player": "Marc",
+              "score": 1800
+            }
+          ]
+        }
+      ],
+      "firstBreakScores": [
+        {
+          "player": "Tom",
+          "score": 1000
+        },
+        {
+          "player": "Liz",
+          "score": 5200
+        },
+        {
+          "player": "Marc",
+          "score": -400
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "Tom",
+          "score": 2000
+        },
+        {
+          "player": "Liz",
+          "score": 6600
+        },
+        {
+          "player": "Marc",
+          "score": 1800
+        }
+      ]
+    },
+    "doubleJeopardy": {
+      "categories": [
+        "SCIENCE & TECHNOLOGY",
+        "OSCAR-NOMINATED SONGS",
+        "IMMIGRANTS",
+        "FEELINGS",
+        "MUSEUMS",
+        "WHAT IS IT ABOUT HIM?"
+      ],
+      "clues": [
+        {
+          "category": "SCIENCE & TECHNOLOGY",
+          "value": 400,
+          "clue": "On January 3, 2004 a spacecraft named Spirit successfully landed in Gusev Crater here to search for life",
+          "answer": "Mars",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 2400
+            },
+            {
+              "player": "Liz",
+              "score": 6600
+            },
+            {
+              "player": "Marc",
+              "score": 1800
+            }
+          ]
+        },
+        {
+          "category": "SCIENCE & TECHNOLOGY",
+          "value": 800,
+          "clue": "In 1913 at a plant in Highland Park, Michigan, a car from his company became the first produced on an assembly line",
+          "answer": "Henry Ford",
+          "isDailyDouble": false,
+          "orderNumber": 2,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 2400
+            },
+            {
+              "player": "Liz",
+              "score": 7400
+            },
+            {
+              "player": "Marc",
+              "score": 1800
+            }
+          ]
+        },
+        {
+          "category": "FEELINGS",
+          "value": 400,
+          "clue": "\"Happy Days\" can be traced back to a segment of this \"American Style\"",
+          "answer": "Love, American Style",
+          "isDailyDouble": false,
+          "orderNumber": 3,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 2400
+            },
+            {
+              "player": "Liz",
+              "score": 7400
+            },
+            {
+              "player": "Marc",
+              "score": 2200
+            }
+          ]
+        },
+        {
+          "category": "SCIENCE & TECHNOLOGY",
+          "value": 1200,
+          "clue": "(Jimmy of the Clue Crew reports with robot \"Grace\" at Carnegie-Mellon University in Pittsburgh.)  One of the ways Grace avoids obstacles is by scanning with this narrow beam of light",
+          "answer": "laser",
+          "isDailyDouble": false,
+          "orderNumber": 4,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 2400
+            },
+            {
+              "player": "Liz",
+              "score": 8600
+            },
+            {
+              "player": "Marc",
+              "score": 2200
+            }
+          ]
+        },
+        {
+          "category": "MUSEUMS",
+          "value": 400,
+          "clue": "The pot seen here in this state's state museum is from the Mogollon culture, possible ancestor of the Hopi",
+          "answer": "Arizona",
+          "isDailyDouble": false,
+          "orderNumber": 5,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 2400
+            },
+            {
+              "player": "Liz",
+              "score": 8600
+            },
+            {
+              "player": "Marc",
+              "score": 2600
+            }
+          ]
+        },
+        {
+          "category": "SCIENCE & TECHNOLOGY",
+          "value": 1600,
+          "clue": "Lord Rayleigh & Sir William Ramsey discovered this noble gas in 1894; it forms .94% of the Earth's atmosphere",
+          "answer": "argon",
+          "isDailyDouble": false,
+          "orderNumber": 6,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 2400
+            },
+            {
+              "player": "Liz",
+              "score": 8600
+            },
+            {
+              "player": "Marc",
+              "score": 4200
+            }
+          ]
+        },
+        {
+          "category": "SCIENCE & TECHNOLOGY",
+          "value": 2000,
+          "clue": "Energy (E) equals the frequency of radiant energy (V) times H, this German physicist's universal constant",
+          "answer": "(Max) Planck",
+          "isDailyDouble": false,
+          "orderNumber": 7,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 2400
+            },
+            {
+              "player": "Liz",
+              "score": 6600
+            },
+            {
+              "player": "Marc",
+              "score": 6200
+            }
+          ]
+        },
+        {
+          "category": "MUSEUMS",
+          "value": 800,
+          "clue": "This country's national museum has 3 sites in the capital & one in County Mayo devoted to rural life",
+          "answer": "Ireland",
+          "isDailyDouble": false,
+          "orderNumber": 8,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 3200
+            },
+            {
+              "player": "Liz",
+              "score": 6600
+            },
+            {
+              "player": "Marc",
+              "score": 6200
+            }
+          ]
+        },
+        {
+          "category": "MUSEUMS",
+          "value": 1200,
+          "clue": "Karl Marx is said to have written & dined in the Museum Tavern, across from this world-famous museum",
+          "answer": "the British Museum",
+          "isDailyDouble": false,
+          "orderNumber": 9,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 3200
+            },
+            {
+              "player": "Liz",
+              "score": 7800
+            },
+            {
+              "player": "Marc",
+              "score": 6200
+            }
+          ]
+        },
+        {
+          "category": "MUSEUMS",
+          "value": 1600,
+          "clue": "While this Manhattan museum is renovated, the exhibits are on display in Queens",
+          "answer": "MoMA (Museum of Modern Art)",
+          "isDailyDouble": false,
+          "orderNumber": 10,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 3200
+            },
+            {
+              "player": "Liz",
+              "score": 9400
+            },
+            {
+              "player": "Marc",
+              "score": 6200
+            }
+          ]
+        },
+        {
+          "category": "MUSEUMS",
+          "value": 2000,
+          "clue": "Located in Toronto's Queen's Park, ROM is Canada's largest museum; its name stands for this",
+          "answer": "Royal Ontario Museum",
+          "isDailyDouble": false,
+          "orderNumber": 11,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 3200
+            },
+            {
+              "player": "Liz",
+              "score": 11400
+            },
+            {
+              "player": "Marc",
+              "score": 6200
+            }
+          ]
+        },
+        {
+          "category": "WHAT IS IT ABOUT HIM?",
+          "value": 400,
+          "clue": "He's got this -- the quality, not the Rebecca Romijn-Stamos \"X-Men\" character",
+          "answer": "mystique",
+          "isDailyDouble": false,
+          "orderNumber": 12,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 3200
+            },
+            {
+              "player": "Liz",
+              "score": 11400
+            },
+            {
+              "player": "Marc",
+              "score": 6600
+            }
+          ]
+        },
+        {
+          "category": "IMMIGRANTS",
+          "value": 400,
+          "clue": "It's the birth country of California's current governor",
+          "answer": "Austria",
+          "isDailyDouble": false,
+          "orderNumber": 13,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 3600
+            },
+            {
+              "player": "Liz",
+              "score": 11400
+            },
+            {
+              "player": "Marc",
+              "score": 6600
+            }
+          ]
+        },
+        {
+          "category": "IMMIGRANTS",
+          "value": 800,
+          "clue": "This chairman of Intel was born Andras Grof in Budapest",
+          "answer": "Andrew Grove",
+          "isDailyDouble": false,
+          "orderNumber": 14,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 3600
+            },
+            {
+              "player": "Liz",
+              "score": 11400
+            },
+            {
+              "player": "Marc",
+              "score": 6600
+            }
+          ]
+        },
+        {
+          "category": "IMMIGRANTS",
+          "value": 3600,
+          "clue": "This woman who defended capitalism in her novels came to the U.S. from the USSR in 1926",
+          "answer": "Ayn Rand",
+          "isDailyDouble": true,
+          "orderNumber": 15,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 7200
+            },
+            {
+              "player": "Liz",
+              "score": 11400
+            },
+            {
+              "player": "Marc",
+              "score": 6600
+            }
+          ]
+        },
+        {
+          "category": "IMMIGRANTS",
+          "value": 1600,
+          "clue": "(Cheryl of the Clue Crew reports.)  Here at Ellis Island, I found a record of this composer's arrival in 1893, aged 5, under the name Israel Baline",
+          "answer": "Irving Berlin",
+          "isDailyDouble": false,
+          "orderNumber": 16,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 7200
+            },
+            {
+              "player": "Liz",
+              "score": 11400
+            },
+            {
+              "player": "Marc",
+              "score": 8200
+            }
+          ]
+        },
+        {
+          "category": "IMMIGRANTS",
+          "value": 2000,
+          "clue": "This Oscar-winning director's \"America, America\" is about fellow immigrants of Greek heritage",
+          "answer": "Elia Kazan",
+          "isDailyDouble": false,
+          "orderNumber": 17,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 5200
+            },
+            {
+              "player": "Liz",
+              "score": 11400
+            },
+            {
+              "player": "Marc",
+              "score": 8200
+            }
+          ]
+        },
+        {
+          "category": "OSCAR-NOMINATED SONGS",
+          "value": 400,
+          "clue": "\"Blame Canada\"(1999)",
+          "answer": "South Park",
+          "isDailyDouble": false,
+          "orderNumber": 18,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 5600
+            },
+            {
+              "player": "Liz",
+              "score": 11400
+            },
+            {
+              "player": "Marc",
+              "score": 8200
+            }
+          ]
+        },
+        {
+          "category": "WHAT IS IT ABOUT HIM?",
+          "value": 800,
+          "clue": "You don't have to tell him, \"Your\" this \"is requested\"; he just has it",
+          "answer": "presence",
+          "isDailyDouble": false,
+          "orderNumber": 19,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 6400
+            },
+            {
+              "player": "Liz",
+              "score": 11400
+            },
+            {
+              "player": "Marc",
+              "score": 8200
+            }
+          ]
+        },
+        {
+          "category": "WHAT IS IT ABOUT HIM?",
+          "value": 1200,
+          "clue": "Some politicians & some actors & he have this, from the Greek for \"favor\"",
+          "answer": "charisma",
+          "isDailyDouble": false,
+          "orderNumber": 20,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 6400
+            },
+            {
+              "player": "Liz",
+              "score": 12600
+            },
+            {
+              "player": "Marc",
+              "score": 8200
+            }
+          ]
+        },
+        {
+          "category": "WHAT IS IT ABOUT HIM?",
+          "value": 1600,
+          "clue": "I don't know what it is -- he has this French phrase meaning \"I don't know what\"",
+          "answer": "je ne sais quoi",
+          "isDailyDouble": false,
+          "orderNumber": 21,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 8000
+            },
+            {
+              "player": "Liz",
+              "score": 12600
+            },
+            {
+              "player": "Marc",
+              "score": 8200
+            }
+          ]
+        },
+        {
+          "category": "WHAT IS IT ABOUT HIM?",
+          "value": 6000,
+          "clue": "He sure has this quality that Pierre de Maricourt studied in lodestone",
+          "answer": "magnetism",
+          "isDailyDouble": true,
+          "orderNumber": 22,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 14000
+            },
+            {
+              "player": "Liz",
+              "score": 12600
+            },
+            {
+              "player": "Marc",
+              "score": 8200
+            }
+          ]
+        },
+        {
+          "category": "FEELINGS",
+          "value": 800,
+          "clue": "A 2000 tribute to Charles Schulz was titled \"Good\" this \"Charlie Brown\"",
+          "answer": "Grief",
+          "isDailyDouble": false,
+          "orderNumber": 23,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 14800
+            },
+            {
+              "player": "Liz",
+              "score": 11800
+            },
+            {
+              "player": "Marc",
+              "score": 8200
+            }
+          ]
+        },
+        {
+          "category": "FEELINGS",
+          "value": 1200,
+          "clue": "Bobby Knight & John McEnroe had cameos in the Adam Sandler film about managing this",
+          "answer": "anger",
+          "isDailyDouble": false,
+          "orderNumber": 24,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 16000
+            },
+            {
+              "player": "Liz",
+              "score": 11800
+            },
+            {
+              "player": "Marc",
+              "score": 8200
+            }
+          ]
+        },
+        {
+          "category": "FEELINGS",
+          "value": 1600,
+          "clue": "In 1973 Mean Joe Greene introduced a TV dinner for this-\"Man\"",
+          "answer": "Hungry-Man",
+          "isDailyDouble": false,
+          "orderNumber": 25,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 16000
+            },
+            {
+              "player": "Liz",
+              "score": 13400
+            },
+            {
+              "player": "Marc",
+              "score": 8200
+            }
+          ]
+        },
+        {
+          "category": "FEELINGS",
+          "value": 2000,
+          "clue": "Emmett Kelly's Weary Willie is this type of clown; it's also a type of \"sack\"",
+          "answer": "sad sack",
+          "isDailyDouble": false,
+          "orderNumber": 26,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 18000
+            },
+            {
+              "player": "Liz",
+              "score": 13400
+            },
+            {
+              "player": "Marc",
+              "score": 8200
+            }
+          ]
+        },
+        {
+          "category": "OSCAR-NOMINATED SONGS",
+          "value": 800,
+          "clue": "\"Be Our Guest\"(1991)",
+          "answer": "Beauty and the Beast",
+          "isDailyDouble": false,
+          "orderNumber": 27,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 18800
+            },
+            {
+              "player": "Liz",
+              "score": 13400
+            },
+            {
+              "player": "Marc",
+              "score": 8200
+            }
+          ]
+        },
+        {
+          "category": "OSCAR-NOMINATED SONGS",
+          "value": 1200,
+          "clue": "\"The Rainbow Connection\"(1979)",
+          "answer": "The Muppet Movie",
+          "isDailyDouble": false,
+          "orderNumber": 28,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 18800
+            },
+            {
+              "player": "Liz",
+              "score": 14600
+            },
+            {
+              "player": "Marc",
+              "score": 8200
+            }
+          ]
+        },
+        {
+          "category": "OSCAR-NOMINATED SONGS",
+          "value": 1600,
+          "clue": "\"Up Where We Belong\"(1982)",
+          "answer": "An Officer and a Gentleman",
+          "isDailyDouble": false,
+          "orderNumber": 29,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 18800
+            },
+            {
+              "player": "Liz",
+              "score": 16200
+            },
+            {
+              "player": "Marc",
+              "score": 8200
+            }
+          ]
+        },
+        {
+          "category": "OSCAR-NOMINATED SONGS",
+          "value": 2000,
+          "clue": "\"The Hands That Built America\"(2002)",
+          "answer": "Gangs of New York",
+          "isDailyDouble": false,
+          "orderNumber": 30,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Tom",
+              "score": 18800
+            },
+            {
+              "player": "Liz",
+              "score": 16200
+            },
+            {
+              "player": "Marc",
+              "score": 8200
+            }
+          ]
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "Tom",
+          "score": 18800
+        },
+        {
+          "player": "Liz",
+          "score": 16200
+        },
+        {
+          "player": "Marc",
+          "score": 8200
+        }
+      ]
+    },
+    "finalJeopardy": {
+      "category": "CLASSICAL COMPOSERS",
+      "clue": "The first movement of his 1868 first symphony is subtitled \"Dreams of a Winter Journey\"",
+      "answer": "Pyotr Ilyich Tchaikovsky",
+      "responses": [
+        {
+          "contestant": "Marc",
+          "response": "Who is Ravel",
+          "isCorrect": false,
+          "isIncorrect": true,
+          "value": 5400,
+          "finalScore": 2800
+        },
+        {
+          "contestant": "Liz",
+          "response": "Who is Sibelius?",
+          "isCorrect": false,
+          "isIncorrect": true,
+          "value": 300,
+          "finalScore": 15900
+        },
+        {
+          "contestant": "Tom",
+          "response": "Who is Tchaikovsky?",
+          "isCorrect": true,
+          "isIncorrect": false,
+          "value": 13500,
+          "finalScore": 32300
+        }
+      ]
+    }
+  },
+  "finalScores": [
+    {
+      "player": "Tom",
+      "score": "$32,300"
+    },
+    {
+      "player": "Liz",
+      "score": "$15,900"
+    },
+    {
+      "player": "Marc",
+      "score": "$2,800"
+    }
+  ],
+  "coryatScores": [
+    {
+      "player": "Tom",
+      "score": 12400
+    },
+    {
+      "player": "Liz",
+      "score": 16200
+    },
+    {
+      "player": "Marc",
+      "score": 8200
+    }
+  ]
+}

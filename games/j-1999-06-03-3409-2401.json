@@ -1,0 +1,1704 @@
+{
+  "gameId": 2401,
+  "showNumber": "3409",
+  "title": "Show #3409 - Thursday, June 3, 1999",
+  "date": "1999-06-03",
+  "comments": "",
+  "contestants": [
+    "Dave",
+    "Marina",
+    "Preston"
+  ],
+  "rounds": {
+    "jeopardy": {
+      "categories": [
+        "BRITISH PRIME MINISTERS",
+        "COUNTY SEATS",
+        "\"DREAM\"Y SONGS",
+        "BILL GATES' 50 BILLION",
+        "SPOUSE IN COMMON",
+        "GANGSTER'S DICTIONARY"
+      ],
+      "clues": [
+        {
+          "category": "\"DREAM\"Y SONGS",
+          "value": 100,
+          "clue": "1 of 2 \"dream\"y Top 20 songs recorded by Cass Elliott with The Mamas and The Papas",
+          "answer": "\"California Dreamin'\" & \"Dream a Little Dream of Me\"",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [
+            "Marina"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Dave",
+              "score": 0
+            },
+            {
+              "player": "Marina",
+              "score": 100
+            },
+            {
+              "player": "Preston",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "\"DREAM\"Y SONGS",
+          "value": 200,
+          "clue": "Title that follows \"When I want you in my arms, when I want you and all your charms, whenever I want you...\"",
+          "answer": "\"All I Have to Do Is Dream\"",
+          "isDailyDouble": false,
+          "orderNumber": 2,
+          "correctContestants": [
+            "Marina"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Dave",
+              "score": 0
+            },
+            {
+              "player": "Marina",
+              "score": 300
+            },
+            {
+              "player": "Preston",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "SPOUSE IN COMMON",
+          "value": 100,
+          "clue": "Elliott Gould,James Brolin",
+          "answer": "Barbra Streisand",
+          "isDailyDouble": false,
+          "orderNumber": 3,
+          "correctContestants": [
+            "Preston"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Dave",
+              "score": 0
+            },
+            {
+              "player": "Marina",
+              "score": 300
+            },
+            {
+              "player": "Preston",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "category": "\"DREAM\"Y SONGS",
+          "value": 300,
+          "clue": "\"Cheer up sleepy Jean, oh what can it mean to\" one of these \"and a homecoming queen\"",
+          "answer": "A daydream believer",
+          "isDailyDouble": false,
+          "orderNumber": 4,
+          "correctContestants": [
+            "Dave"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Dave",
+              "score": 300
+            },
+            {
+              "player": "Marina",
+              "score": 300
+            },
+            {
+              "player": "Preston",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "category": "\"DREAM\"Y SONGS",
+          "value": 400,
+          "clue": "In 1959 Bobby Darin wailed, \"Every night I hope and pray\", she \"will come my way\"",
+          "answer": "\"Dream Lover\"",
+          "isDailyDouble": false,
+          "orderNumber": 5,
+          "correctContestants": [
+            "Preston"
+          ],
+          "incorrectContestants": [
+            "Marina"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Dave",
+              "score": 300
+            },
+            {
+              "player": "Marina",
+              "score": -100
+            },
+            {
+              "player": "Preston",
+              "score": 500
+            }
+          ]
+        },
+        {
+          "category": "\"DREAM\"Y SONGS",
+          "value": 500,
+          "clue": "In the 1986 film \"Blue Velvet\", Dean Stockwell performs a lip-synched rendition of this Roy Orbison hit",
+          "answer": "\"In Dreams\"",
+          "isDailyDouble": false,
+          "orderNumber": 6,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Preston"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Dave",
+              "score": 300
+            },
+            {
+              "player": "Marina",
+              "score": -100
+            },
+            {
+              "player": "Preston",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "SPOUSE IN COMMON",
+          "value": 200,
+          "clue": "Heather Locklear,Pamela Anderson",
+          "answer": "Tommy Lee",
+          "isDailyDouble": false,
+          "orderNumber": 7,
+          "correctContestants": [
+            "Dave"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Dave",
+              "score": 500
+            },
+            {
+              "player": "Marina",
+              "score": -100
+            },
+            {
+              "player": "Preston",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "SPOUSE IN COMMON",
+          "value": 300,
+          "clue": "Roger Vadim,Tom Hayden",
+          "answer": "Jane Fonda",
+          "isDailyDouble": false,
+          "orderNumber": 8,
+          "correctContestants": [
+            "Dave"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Dave",
+              "score": 800
+            },
+            {
+              "player": "Marina",
+              "score": -100
+            },
+            {
+              "player": "Preston",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "SPOUSE IN COMMON",
+          "value": 400,
+          "clue": "Ava Gardner,Mia Farrow",
+          "answer": "Frank Sinatra",
+          "isDailyDouble": false,
+          "orderNumber": 9,
+          "correctContestants": [
+            "Dave"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Dave",
+              "score": 1200
+            },
+            {
+              "player": "Marina",
+              "score": -100
+            },
+            {
+              "player": "Preston",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "SPOUSE IN COMMON",
+          "value": 500,
+          "clue": "Ursula Andress,Linda Evans",
+          "answer": "John Derek",
+          "isDailyDouble": false,
+          "orderNumber": 10,
+          "correctContestants": [
+            "Dave"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Dave",
+              "score": 1700
+            },
+            {
+              "player": "Marina",
+              "score": -100
+            },
+            {
+              "player": "Preston",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "COUNTY SEATS",
+          "value": 100,
+          "clue": "Hilo, I love you, you're the seat of this county that's also a \"Big Island\"",
+          "answer": "Hawaii",
+          "isDailyDouble": false,
+          "orderNumber": 11,
+          "correctContestants": [
+            "Marina"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Dave",
+              "score": 1700
+            },
+            {
+              "player": "Marina",
+              "score": 0
+            },
+            {
+              "player": "Preston",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "COUNTY SEATS",
+          "value": 200,
+          "clue": "Paris (population 8,730) is the seat of Bourbon County in this state",
+          "answer": "Kentucky",
+          "isDailyDouble": false,
+          "orderNumber": 12,
+          "correctContestants": [
+            "Preston"
+          ],
+          "incorrectContestants": [
+            "Dave"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Dave",
+              "score": 1500
+            },
+            {
+              "player": "Marina",
+              "score": 0
+            },
+            {
+              "player": "Preston",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "COUNTY SEATS",
+          "value": 300,
+          "clue": "This Iowa city, the seat of Black Hawk County, has a name Wellington would remember",
+          "answer": "Waterloo",
+          "isDailyDouble": false,
+          "orderNumber": 13,
+          "correctContestants": [
+            "Dave"
+          ],
+          "incorrectContestants": [
+            "Marina"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Dave",
+              "score": 1800
+            },
+            {
+              "player": "Marina",
+              "score": -300
+            },
+            {
+              "player": "Preston",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "COUNTY SEATS",
+          "value": 400,
+          "clue": "Quincy, Illinois is the seat of a county with this presidential name",
+          "answer": "Adams",
+          "isDailyDouble": false,
+          "orderNumber": 14,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Marina",
+            "Preston"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Dave",
+              "score": 1800
+            },
+            {
+              "player": "Marina",
+              "score": -700
+            },
+            {
+              "player": "Preston",
+              "score": -200
+            }
+          ]
+        },
+        {
+          "category": "COUNTY SEATS",
+          "value": 500,
+          "clue": "As I walked out in the streets of this city, I was in the seat of Webb County, Texas",
+          "answer": "Laredo",
+          "isDailyDouble": false,
+          "orderNumber": 15,
+          "correctContestants": [
+            "Dave"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Dave",
+              "score": 2300
+            },
+            {
+              "player": "Marina",
+              "score": -700
+            },
+            {
+              "player": "Preston",
+              "score": -200
+            }
+          ]
+        },
+        {
+          "category": "BRITISH PRIME MINISTERS",
+          "value": 100,
+          "clue": "1940-1945,1951-1955",
+          "answer": "Winston Churchill",
+          "isDailyDouble": false,
+          "orderNumber": 16,
+          "correctContestants": [
+            "Marina"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Dave",
+              "score": 2300
+            },
+            {
+              "player": "Marina",
+              "score": -600
+            },
+            {
+              "player": "Preston",
+              "score": -200
+            }
+          ]
+        },
+        {
+          "category": "GANGSTER'S DICTIONARY",
+          "value": 100,
+          "clue": "I hates it when the cops put these \"bracelets\" on me after a bust",
+          "answer": "Handcuffs",
+          "isDailyDouble": false,
+          "orderNumber": 17,
+          "correctContestants": [
+            "Preston"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Dave",
+              "score": 2300
+            },
+            {
+              "player": "Marina",
+              "score": -600
+            },
+            {
+              "player": "Preston",
+              "score": -100
+            }
+          ]
+        },
+        {
+          "category": "BRITISH PRIME MINISTERS",
+          "value": 200,
+          "clue": "1990-1997",
+          "answer": "John Major",
+          "isDailyDouble": false,
+          "orderNumber": 18,
+          "correctContestants": [
+            "Preston"
+          ],
+          "incorrectContestants": [
+            "Marina"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Dave",
+              "score": 2300
+            },
+            {
+              "player": "Marina",
+              "score": -800
+            },
+            {
+              "player": "Preston",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "category": "BRITISH PRIME MINISTERS",
+          "value": 300,
+          "clue": "1937-1940",
+          "answer": "Neville Chamberlain",
+          "isDailyDouble": false,
+          "orderNumber": 19,
+          "correctContestants": [
+            "Preston"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Dave",
+              "score": 2300
+            },
+            {
+              "player": "Marina",
+              "score": -800
+            },
+            {
+              "player": "Preston",
+              "score": 400
+            }
+          ]
+        },
+        {
+          "category": "BRITISH PRIME MINISTERS",
+          "value": 400,
+          "clue": "The Elder,1766-1768;The Younger,1783-1801,1804-1806",
+          "answer": "William Pitt",
+          "isDailyDouble": true,
+          "orderNumber": 20,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Preston"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Dave",
+              "score": 2300
+            },
+            {
+              "player": "Marina",
+              "score": -800
+            },
+            {
+              "player": "Preston",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "BRITISH PRIME MINISTERS",
+          "value": 500,
+          "clue": "1945-1951",
+          "answer": "Clement Attlee",
+          "isDailyDouble": false,
+          "orderNumber": 21,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Dave",
+              "score": 2300
+            },
+            {
+              "player": "Marina",
+              "score": -800
+            },
+            {
+              "player": "Preston",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "GANGSTER'S DICTIONARY",
+          "value": 200,
+          "clue": "You mugs, I need a \"can opener\", a tool used to open one of these, not a tin can",
+          "answer": "Safe",
+          "isDailyDouble": false,
+          "orderNumber": 22,
+          "correctContestants": [
+            "Dave"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Dave",
+              "score": 2500
+            },
+            {
+              "player": "Marina",
+              "score": -800
+            },
+            {
+              "player": "Preston",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "GANGSTER'S DICTIONARY",
+          "value": 300,
+          "clue": "Roll out these \"bones\", boys, so we can play some games of chance",
+          "answer": "Dice",
+          "isDailyDouble": false,
+          "orderNumber": 23,
+          "correctContestants": [
+            "Dave"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Dave",
+              "score": 2800
+            },
+            {
+              "player": "Marina",
+              "score": -800
+            },
+            {
+              "player": "Preston",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "GANGSTER'S DICTIONARY",
+          "value": 400,
+          "clue": "One day I might go legit & get a cush job as a \"gumshoe\", a private one of these",
+          "answer": "a detective (or private eye)",
+          "isDailyDouble": false,
+          "orderNumber": 24,
+          "correctContestants": [
+            "Dave"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Dave",
+              "score": 3200
+            },
+            {
+              "player": "Marina",
+              "score": -800
+            },
+            {
+              "player": "Preston",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "GANGSTER'S DICTIONARY",
+          "value": 500,
+          "clue": "Keep your head low... I just saw a \"salt & pepper\", one of these, go by",
+          "answer": "a police car",
+          "isDailyDouble": false,
+          "orderNumber": 25,
+          "correctContestants": [
+            "Marina"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Dave",
+              "score": 3200
+            },
+            {
+              "player": "Marina",
+              "score": -300
+            },
+            {
+              "player": "Preston",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "BILL GATES' 50 BILLION",
+          "value": 100,
+          "clue": "If his employee's price is $50.00, Bill could buy a billion of the \"98\" version of this operating system",
+          "answer": "Windows",
+          "isDailyDouble": false,
+          "orderNumber": 26,
+          "correctContestants": [
+            "Marina"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Dave",
+              "score": 3200
+            },
+            {
+              "player": "Marina",
+              "score": -200
+            },
+            {
+              "player": "Preston",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "BILL GATES' 50 BILLION",
+          "value": 200,
+          "clue": "In this state where he lives, Bill could pay the governor's salary for 413,000 years",
+          "answer": "Washington",
+          "isDailyDouble": false,
+          "orderNumber": 27,
+          "correctContestants": [
+            "Marina"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Dave",
+              "score": 3200
+            },
+            {
+              "player": "Marina",
+              "score": 0
+            },
+            {
+              "player": "Preston",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "BILL GATES' 50 BILLION",
+          "value": 300,
+          "clue": "In 1997 Americans spent about $40 billion on these, & many wanted to be in Bill's",
+          "answer": "shoes",
+          "isDailyDouble": false,
+          "orderNumber": 28,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Dave",
+              "score": 3200
+            },
+            {
+              "player": "Marina",
+              "score": 0
+            },
+            {
+              "player": "Preston",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "BILL GATES' 50 BILLION",
+          "value": 400,
+          "clue": "OK, we're not allowing for inflation, but Bill could afford over 8,000 Steve Austins, this title character",
+          "answer": "the Six Million Dollar Man (or the Bionic Man)",
+          "isDailyDouble": false,
+          "orderNumber": 29,
+          "correctContestants": [
+            "Preston"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Dave",
+              "score": 3200
+            },
+            {
+              "player": "Marina",
+              "score": 0
+            },
+            {
+              "player": "Preston",
+              "score": 400
+            }
+          ]
+        },
+        {
+          "category": "BILL GATES' 50 BILLION",
+          "value": 500,
+          "clue": "Bill could easily bid on Bolivia: their GDP, this annual figure, is less than half what he's worth",
+          "answer": "Gross Domestic Product",
+          "isDailyDouble": false,
+          "orderNumber": 30,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Preston"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Dave",
+              "score": 3200
+            },
+            {
+              "player": "Marina",
+              "score": 0
+            },
+            {
+              "player": "Preston",
+              "score": -100
+            }
+          ]
+        }
+      ],
+      "firstBreakScores": [
+        {
+          "player": "Dave",
+          "score": 2300
+        },
+        {
+          "player": "Marina",
+          "score": -700
+        },
+        {
+          "player": "Preston",
+          "score": -200
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "Dave",
+          "score": 3200
+        },
+        {
+          "player": "Marina",
+          "score": 0
+        },
+        {
+          "player": "Preston",
+          "score": -100
+        }
+      ]
+    },
+    "doubleJeopardy": {
+      "categories": [
+        "CIVIL WAR LITERATURE",
+        "HISTORIC NAMES",
+        "TV MINISERIES",
+        "TAKE A PILL",
+        "KNOTS TO YOU",
+        "THAT'S WHAT THEY SAID"
+      ],
+      "clues": [
+        {
+          "category": "CIVIL WAR LITERATURE",
+          "value": 200,
+          "clue": "Henry Fleming shares a tent with a loud soldier & a tall soldier in this Stephen Crane novel",
+          "answer": "The Red Badge of Courage",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Dave",
+              "score": 3400
+            },
+            {
+              "player": "Marina",
+              "score": 0
+            },
+            {
+              "player": "Preston",
+              "score": -100
+            }
+          ]
+        },
+        {
+          "category": "CIVIL WAR LITERATURE",
+          "value": 400,
+          "clue": "Joanna Higgins' 1998 novel \"A Soldier's Book\" tells the story of Ira Stevens, a Union P.O.W. in this notorious prison",
+          "answer": "Andersonville",
+          "isDailyDouble": false,
+          "orderNumber": 2,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Dave",
+              "score": 3400
+            },
+            {
+              "player": "Marina",
+              "score": 0
+            },
+            {
+              "player": "Preston",
+              "score": 300
+            }
+          ]
+        },
+        {
+          "category": "CIVIL WAR LITERATURE",
+          "value": 500,
+          "clue": "He drew on his wartime nursing experience for the poem \"The Wound-Dresser\"",
+          "answer": "Walt Whitman",
+          "isDailyDouble": true,
+          "orderNumber": 3,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Dave",
+              "score": 3400
+            },
+            {
+              "player": "Marina",
+              "score": 0
+            },
+            {
+              "player": "Preston",
+              "score": 800
+            }
+          ]
+        },
+        {
+          "category": "CIVIL WAR LITERATURE",
+          "value": 800,
+          "clue": "His works about the war include the essay \"What I Saw of Shiloh\" & the story \"An Occurrence at Owl Creek Bridge\"",
+          "answer": "Ambrose Bierce",
+          "isDailyDouble": false,
+          "orderNumber": 4,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Dave",
+              "score": 3400
+            },
+            {
+              "player": "Marina",
+              "score": 0
+            },
+            {
+              "player": "Preston",
+              "score": 1600
+            }
+          ]
+        },
+        {
+          "category": "CIVIL WAR LITERATURE",
+          "value": 1000,
+          "clue": "Jeff Shaara has written a prequel & a sequel to this 1974 novel about Gettysburg by his father Michael",
+          "answer": "The Killer Angels",
+          "isDailyDouble": false,
+          "orderNumber": 5,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Dave",
+              "score": 3400
+            },
+            {
+              "player": "Marina",
+              "score": 0
+            },
+            {
+              "player": "Preston",
+              "score": 2600
+            }
+          ]
+        },
+        {
+          "category": "HISTORIC NAMES",
+          "value": 200,
+          "clue": "His epitaph reads, \"Founder of Boys Town and Lover of Christ and Man\"",
+          "answer": "Father Flanagan",
+          "isDailyDouble": false,
+          "orderNumber": 6,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Dave",
+              "score": 3400
+            },
+            {
+              "player": "Marina",
+              "score": 200
+            },
+            {
+              "player": "Preston",
+              "score": 2600
+            }
+          ]
+        },
+        {
+          "category": "HISTORIC NAMES",
+          "value": 400,
+          "clue": "While rounding the tip of South America in 1520, this Portuguese explorer named Cape Virgines & Patagonia",
+          "answer": "Ferdinand Magellan",
+          "isDailyDouble": false,
+          "orderNumber": 7,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Dave",
+              "score": 3400
+            },
+            {
+              "player": "Marina",
+              "score": 600
+            },
+            {
+              "player": "Preston",
+              "score": 2200
+            }
+          ]
+        },
+        {
+          "category": "HISTORIC NAMES",
+          "value": 600,
+          "clue": "It's been said that the 1831 Russian capture of Warsaw inspired him to write his C minor etude",
+          "answer": "Frédéric Chopin",
+          "isDailyDouble": false,
+          "orderNumber": 8,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Dave",
+              "score": 3400
+            },
+            {
+              "player": "Marina",
+              "score": 0
+            },
+            {
+              "player": "Preston",
+              "score": 2800
+            }
+          ]
+        },
+        {
+          "category": "HISTORIC NAMES",
+          "value": 800,
+          "clue": "This family that once controlled Nicaragua saw 2 members killed -- the father in 1956, a son in 1980",
+          "answer": "Somoza",
+          "isDailyDouble": false,
+          "orderNumber": 9,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Dave",
+              "score": 4200
+            },
+            {
+              "player": "Marina",
+              "score": 0
+            },
+            {
+              "player": "Preston",
+              "score": 2800
+            }
+          ]
+        },
+        {
+          "category": "HISTORIC NAMES",
+          "value": 1000,
+          "clue": "This discoverer of Uranus thought the sun was an inhabited body with a luminous atmosphere",
+          "answer": "William Herschel",
+          "isDailyDouble": false,
+          "orderNumber": 10,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Dave",
+              "score": 4200
+            },
+            {
+              "player": "Marina",
+              "score": 0
+            },
+            {
+              "player": "Preston",
+              "score": 2800
+            }
+          ]
+        },
+        {
+          "category": "THAT'S WHAT THEY SAID",
+          "value": 200,
+          "clue": "After her election, this British prime minister said that she owed \"everything to my father\"",
+          "answer": "Margaret Thatcher",
+          "isDailyDouble": false,
+          "orderNumber": 11,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Dave",
+              "score": 4200
+            },
+            {
+              "player": "Marina",
+              "score": 200
+            },
+            {
+              "player": "Preston",
+              "score": 2800
+            }
+          ]
+        },
+        {
+          "category": "TV MINISERIES",
+          "value": 200,
+          "clue": "You could call Henry Thomas Ishmael & Patrick Stewart Ahab in this 1998 miniseries",
+          "answer": "Moby-Dick",
+          "isDailyDouble": false,
+          "orderNumber": 12,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Dave",
+              "score": 4400
+            },
+            {
+              "player": "Marina",
+              "score": 200
+            },
+            {
+              "player": "Preston",
+              "score": 2800
+            }
+          ]
+        },
+        {
+          "category": "THAT'S WHAT THEY SAID",
+          "value": 400,
+          "clue": "This author's Mr. Bumble declared that \"The law is a ass, a idiot\"",
+          "answer": "Charles Dickens",
+          "isDailyDouble": false,
+          "orderNumber": 13,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Dave",
+              "score": 4800
+            },
+            {
+              "player": "Marina",
+              "score": 200
+            },
+            {
+              "player": "Preston",
+              "score": 2800
+            }
+          ]
+        },
+        {
+          "category": "THAT'S WHAT THEY SAID",
+          "value": 600,
+          "clue": "In 1803 Jacques Delille wrote, \"Fate chooses our relatives, we choose\" these",
+          "answer": "our friends",
+          "isDailyDouble": false,
+          "orderNumber": 14,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Dave",
+              "score": 4800
+            },
+            {
+              "player": "Marina",
+              "score": 800
+            },
+            {
+              "player": "Preston",
+              "score": 2800
+            }
+          ]
+        },
+        {
+          "category": "THAT'S WHAT THEY SAID",
+          "value": 800,
+          "clue": "\"When the one great scorer comes to write against your name, he marks -- not that you won or lost -- but\" this",
+          "answer": "how you played the game",
+          "isDailyDouble": false,
+          "orderNumber": 15,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Dave",
+              "score": 5600
+            },
+            {
+              "player": "Marina",
+              "score": 800
+            },
+            {
+              "player": "Preston",
+              "score": 2800
+            }
+          ]
+        },
+        {
+          "category": "THAT'S WHAT THEY SAID",
+          "value": 1000,
+          "clue": "In his 1918 poem \"Prairie\", he wrote, \"I tell you the past is a bucket of ashes\"",
+          "answer": "Carl Sandburg",
+          "isDailyDouble": false,
+          "orderNumber": 16,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Dave",
+              "score": 5600
+            },
+            {
+              "player": "Marina",
+              "score": 800
+            },
+            {
+              "player": "Preston",
+              "score": 2800
+            }
+          ]
+        },
+        {
+          "category": "KNOTS TO YOU",
+          "value": 200,
+          "clue": "The honda is a slip knot used by cowboys to make this tool of the trade",
+          "answer": "a lasso",
+          "isDailyDouble": false,
+          "orderNumber": 17,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Dave",
+              "score": 5600
+            },
+            {
+              "player": "Marina",
+              "score": 1000
+            },
+            {
+              "player": "Preston",
+              "score": 2800
+            }
+          ]
+        },
+        {
+          "category": "TV MINISERIES",
+          "value": 400,
+          "clue": "Vanessa Williams played Calypso & Greta Scacchi was the long-suffering Penelope in this 1997 epic",
+          "answer": "The Odyssey",
+          "isDailyDouble": false,
+          "orderNumber": 18,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Dave",
+              "score": 5200
+            },
+            {
+              "player": "Marina",
+              "score": 1000
+            },
+            {
+              "player": "Preston",
+              "score": 2800
+            }
+          ]
+        },
+        {
+          "category": "TV MINISERIES",
+          "value": 600,
+          "clue": "(Hi, I'm Kristoff St. John from The Young and the Restless.)  Earlier in my career, I appeared in \"Roots: The Next Generation\", playing this author as a boy",
+          "answer": "Alex Haley",
+          "isDailyDouble": false,
+          "orderNumber": 19,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Dave",
+              "score": 5200
+            },
+            {
+              "player": "Marina",
+              "score": 1000
+            },
+            {
+              "player": "Preston",
+              "score": 3400
+            }
+          ]
+        },
+        {
+          "category": "TV MINISERIES",
+          "value": 800,
+          "clue": "Robert Duvall sat tall in the saddle as Augustus McCrae in this 1989 4-part western",
+          "answer": "Lonesome Dove",
+          "isDailyDouble": false,
+          "orderNumber": 20,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Dave",
+              "score": 5200
+            },
+            {
+              "player": "Marina",
+              "score": 1000
+            },
+            {
+              "player": "Preston",
+              "score": 4200
+            }
+          ]
+        },
+        {
+          "category": "TV MINISERIES",
+          "value": 1000,
+          "clue": "(Hi, I'm Stephen Collins of 7th Heaven.)  In 1994 I played Ashley Wilkes in this miniseries sequel to \"Gone with the Wind\"",
+          "answer": "Scarlett",
+          "isDailyDouble": false,
+          "orderNumber": 21,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Dave",
+              "score": 5200
+            },
+            {
+              "player": "Marina",
+              "score": 2000
+            },
+            {
+              "player": "Preston",
+              "score": 4200
+            }
+          ]
+        },
+        {
+          "category": "KNOTS TO YOU",
+          "value": 400,
+          "clue": "Alexander the Great cut it with his sword after being told that whoever could undo it would rule Asia",
+          "answer": "Gordian Knot",
+          "isDailyDouble": false,
+          "orderNumber": 22,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Dave",
+              "score": 5600
+            },
+            {
+              "player": "Marina",
+              "score": 2000
+            },
+            {
+              "player": "Preston",
+              "score": 4200
+            }
+          ]
+        },
+        {
+          "category": "KNOTS TO YOU",
+          "value": 600,
+          "clue": "It is second only to \"Gunsmoke\" as TV's longest-running primetime drama series",
+          "answer": "Knots Landing",
+          "isDailyDouble": false,
+          "orderNumber": 23,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Dave",
+              "score": 5600
+            },
+            {
+              "player": "Marina",
+              "score": 2000
+            },
+            {
+              "player": "Preston",
+              "score": 4800
+            }
+          ]
+        },
+        {
+          "category": "KNOTS TO YOU",
+          "value": 800,
+          "clue": "This South American civilization used Quipu, a system of knots, to record dates & large sums of figures",
+          "answer": "Incas",
+          "isDailyDouble": false,
+          "orderNumber": 24,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Dave",
+              "score": 5600
+            },
+            {
+              "player": "Marina",
+              "score": 2000
+            },
+            {
+              "player": "Preston",
+              "score": 5600
+            }
+          ]
+        },
+        {
+          "category": "KNOTS TO YOU",
+          "value": 1000,
+          "clue": "From the Turkish for \"napkin\", it's the art which creates decorative items by knotting cord, rope or string",
+          "answer": "Macrame",
+          "isDailyDouble": false,
+          "orderNumber": 25,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Dave",
+              "score": 5600
+            },
+            {
+              "player": "Marina",
+              "score": 3000
+            },
+            {
+              "player": "Preston",
+              "score": 5600
+            }
+          ]
+        },
+        {
+          "category": "TAKE A PILL",
+          "value": 200,
+          "clue": "Bayer hailed the FDA's endorsement of this drug for use during a suspected heart attack",
+          "answer": "aspirin",
+          "isDailyDouble": false,
+          "orderNumber": 26,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Dave",
+              "score": 5800
+            },
+            {
+              "player": "Marina",
+              "score": 3000
+            },
+            {
+              "player": "Preston",
+              "score": 5600
+            }
+          ]
+        },
+        {
+          "category": "TAKE A PILL",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Dave",
+              "score": 5800
+            },
+            {
+              "player": "Marina",
+              "score": 3000
+            },
+            {
+              "player": "Preston",
+              "score": 5600
+            }
+          ]
+        },
+        {
+          "category": "TAKE A PILL",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Dave",
+              "score": 5800
+            },
+            {
+              "player": "Marina",
+              "score": 3000
+            },
+            {
+              "player": "Preston",
+              "score": 5600
+            }
+          ]
+        },
+        {
+          "category": "TAKE A PILL",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Dave",
+              "score": 5800
+            },
+            {
+              "player": "Marina",
+              "score": 3000
+            },
+            {
+              "player": "Preston",
+              "score": 5600
+            }
+          ]
+        },
+        {
+          "category": "TAKE A PILL",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Dave",
+              "score": 5800
+            },
+            {
+              "player": "Marina",
+              "score": 3000
+            },
+            {
+              "player": "Preston",
+              "score": 5600
+            }
+          ]
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "Dave",
+          "score": 5800
+        },
+        {
+          "player": "Marina",
+          "score": 3000
+        },
+        {
+          "player": "Preston",
+          "score": 5600
+        }
+      ]
+    },
+    "finalJeopardy": {
+      "category": "WORLD EVENTS",
+      "clue": "The 3 people who did this most recently were Midori Ito, Muhammad Ali & Crown Prince Haakon of Norway",
+      "answer": "Lighting the Olympic flame at the Olympic Games",
+      "responses": [
+        {
+          "contestant": "Marina",
+          "response": "What is climb",
+          "isCorrect": false,
+          "isIncorrect": true,
+          "value": 2900,
+          "finalScore": 100
+        },
+        {
+          "contestant": "Preston",
+          "response": "What is carried the Olympic torch",
+          "isCorrect": false,
+          "isIncorrect": true,
+          "value": 1400,
+          "finalScore": 4200
+        },
+        {
+          "contestant": "Dave",
+          "response": "What is win Nobel Peace Prizes",
+          "isCorrect": false,
+          "isIncorrect": true,
+          "value": 5400,
+          "finalScore": 400
+        }
+      ]
+    }
+  },
+  "finalScores": [
+    {
+      "player": "Dave",
+      "score": "$400"
+    },
+    {
+      "player": "Marina",
+      "score": "$100"
+    },
+    {
+      "player": "Preston",
+      "score": "$4,200"
+    }
+  ],
+  "coryatScores": [
+    {
+      "player": "Dave",
+      "score": 5800
+    },
+    {
+      "player": "Marina",
+      "score": 3000
+    },
+    {
+      "player": "Preston",
+      "score": 6100
+    }
+  ]
+}

@@ -1,0 +1,1702 @@
+{
+  "gameId": 4422,
+  "showNumber": "6771",
+  "title": "Show #6771 - Monday, February 10, 2014",
+  "date": "2014-02-10",
+  "comments": "2014 College Championship quarterfinal game 1.",
+  "contestants": [
+    "James",
+    "Sarah",
+    "Whitney"
+  ],
+  "rounds": {
+    "jeopardy": {
+      "categories": [
+        "NOVELS BY QUOTE",
+        "BACKING BANDS",
+        "NAMES IN NATURE",
+        "CAL TECH",
+        "OTHER COLLEGES",
+        "\"ACA\"DEMIA"
+      ],
+      "clues": [
+        {
+          "category": "BACKING BANDS",
+          "value": 200,
+          "clue": "Bob Marley & the ____",
+          "answer": "Wailers",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [
+            "James"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "James",
+              "score": 200
+            },
+            {
+              "player": "Sarah",
+              "score": 0
+            },
+            {
+              "player": "Whitney",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "BACKING BANDS",
+          "value": 400,
+          "clue": "Ziggy Marley & the ____ Makers",
+          "answer": "Melody",
+          "isDailyDouble": false,
+          "orderNumber": 2,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Whitney"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "James",
+              "score": 200
+            },
+            {
+              "player": "Sarah",
+              "score": 0
+            },
+            {
+              "player": "Whitney",
+              "score": -400
+            }
+          ]
+        },
+        {
+          "category": "BACKING BANDS",
+          "value": 600,
+          "clue": "Florence + the ____",
+          "answer": "Machine",
+          "isDailyDouble": false,
+          "orderNumber": 3,
+          "correctContestants": [
+            "Whitney"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "James",
+              "score": 200
+            },
+            {
+              "player": "Sarah",
+              "score": 0
+            },
+            {
+              "player": "Whitney",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "BACKING BANDS",
+          "value": 800,
+          "clue": "Fitz & the ____",
+          "answer": "Tantrums",
+          "isDailyDouble": false,
+          "orderNumber": 4,
+          "correctContestants": [
+            "Whitney"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "James",
+              "score": 200
+            },
+            {
+              "player": "Sarah",
+              "score": 0
+            },
+            {
+              "player": "Whitney",
+              "score": 1000
+            }
+          ]
+        },
+        {
+          "category": "BACKING BANDS",
+          "value": 1000,
+          "clue": "Edward Sharpe and the ____ ____",
+          "answer": "Magnetic Zeros",
+          "isDailyDouble": false,
+          "orderNumber": 5,
+          "correctContestants": [
+            "James"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "James",
+              "score": 1200
+            },
+            {
+              "player": "Sarah",
+              "score": 0
+            },
+            {
+              "player": "Whitney",
+              "score": 1000
+            }
+          ]
+        },
+        {
+          "category": "NOVELS BY QUOTE",
+          "value": 200,
+          "clue": "A classic:\"On the breast of her gown, in fine red cloth... appeared the letter A\"",
+          "answer": "The Scarlet Letter",
+          "isDailyDouble": false,
+          "orderNumber": 6,
+          "correctContestants": [
+            "James"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "James",
+              "score": 1400
+            },
+            {
+              "player": "Sarah",
+              "score": 0
+            },
+            {
+              "player": "Whitney",
+              "score": 1000
+            }
+          ]
+        },
+        {
+          "category": "NOVELS BY QUOTE",
+          "value": 400,
+          "clue": "So goth:\"I beheld the wretch--the miserable monster whom I had created\"",
+          "answer": "Frankenstein",
+          "isDailyDouble": false,
+          "orderNumber": 7,
+          "correctContestants": [
+            "Whitney"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "James",
+              "score": 1400
+            },
+            {
+              "player": "Sarah",
+              "score": 0
+            },
+            {
+              "player": "Whitney",
+              "score": 1400
+            }
+          ]
+        },
+        {
+          "category": "NOVELS BY QUOTE",
+          "value": 600,
+          "clue": "A modern classic:\"My guess was that Richard Parker was on the floor of the lifeboat\"",
+          "answer": "Life of Pi",
+          "isDailyDouble": false,
+          "orderNumber": 8,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "James",
+              "score": 1400
+            },
+            {
+              "player": "Sarah",
+              "score": 0
+            },
+            {
+              "player": "Whitney",
+              "score": 1400
+            }
+          ]
+        },
+        {
+          "category": "NOVELS BY QUOTE",
+          "value": 800,
+          "clue": "From 1982:\"Dear God, he beat me today because he say I winked at a boy in church\"",
+          "answer": "The Color Purple",
+          "isDailyDouble": false,
+          "orderNumber": 9,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Whitney"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "James",
+              "score": 1400
+            },
+            {
+              "player": "Sarah",
+              "score": 0
+            },
+            {
+              "player": "Whitney",
+              "score": 600
+            }
+          ]
+        },
+        {
+          "category": "NOVELS BY QUOTE",
+          "value": 1000,
+          "clue": "Retells a biblical story:\"First Aron prayed silently for Cal\"",
+          "answer": "East of Eden",
+          "isDailyDouble": false,
+          "orderNumber": 10,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "James",
+              "score": 1400
+            },
+            {
+              "player": "Sarah",
+              "score": 0
+            },
+            {
+              "player": "Whitney",
+              "score": 600
+            }
+          ]
+        },
+        {
+          "category": "\"ACA\"DEMIA",
+          "value": 200,
+          "clue": "Kraft first boxed it up with cheese in 1937",
+          "answer": "macaroni",
+          "isDailyDouble": false,
+          "orderNumber": 11,
+          "correctContestants": [
+            "Whitney"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "James",
+              "score": 1400
+            },
+            {
+              "player": "Sarah",
+              "score": 0
+            },
+            {
+              "player": "Whitney",
+              "score": 800
+            }
+          ]
+        },
+        {
+          "category": "\"ACA\"DEMIA",
+          "value": 400,
+          "clue": "She guided Meriwether, William & the corps",
+          "answer": "Sacagawea",
+          "isDailyDouble": false,
+          "orderNumber": 12,
+          "correctContestants": [
+            "Sarah"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "James",
+              "score": 1400
+            },
+            {
+              "player": "Sarah",
+              "score": 400
+            },
+            {
+              "player": "Whitney",
+              "score": 800
+            }
+          ]
+        },
+        {
+          "category": "\"ACA\"DEMIA",
+          "value": 600,
+          "clue": "This word follows \"Danse\" in the type of grisly artwork seen here",
+          "answer": "macabre",
+          "isDailyDouble": false,
+          "orderNumber": 13,
+          "correctContestants": [
+            "James"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "James",
+              "score": 2000
+            },
+            {
+              "player": "Sarah",
+              "score": 400
+            },
+            {
+              "player": "Whitney",
+              "score": 800
+            }
+          ]
+        },
+        {
+          "category": "\"ACA\"DEMIA",
+          "value": 800,
+          "clue": "Percussion gourds filled with beads or beans",
+          "answer": "maracas",
+          "isDailyDouble": false,
+          "orderNumber": 14,
+          "correctContestants": [
+            "Whitney"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "James",
+              "score": 2000
+            },
+            {
+              "player": "Sarah",
+              "score": 400
+            },
+            {
+              "player": "Whitney",
+              "score": 1600
+            }
+          ]
+        },
+        {
+          "category": "\"ACA\"DEMIA",
+          "value": 1000,
+          "clue": "A large sign posted or carried in a public place",
+          "answer": "a placard",
+          "isDailyDouble": false,
+          "orderNumber": 15,
+          "correctContestants": [
+            "James"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "James",
+              "score": 3000
+            },
+            {
+              "player": "Sarah",
+              "score": 400
+            },
+            {
+              "player": "Whitney",
+              "score": 1600
+            }
+          ]
+        },
+        {
+          "category": "NAMES IN NATURE",
+          "value": 200,
+          "clue": "Use caution when trying to extinguish these ants that are named for their painful, burning stings",
+          "answer": "fire ants",
+          "isDailyDouble": false,
+          "orderNumber": 16,
+          "correctContestants": [
+            "Whitney"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "James",
+              "score": 3000
+            },
+            {
+              "player": "Sarah",
+              "score": 400
+            },
+            {
+              "player": "Whitney",
+              "score": 1800
+            }
+          ]
+        },
+        {
+          "category": "NAMES IN NATURE",
+          "value": 400,
+          "clue": "Not surprisingly, this mammal's name is from Algonquian for \"one who squirts\"",
+          "answer": "a skunk",
+          "isDailyDouble": false,
+          "orderNumber": 17,
+          "correctContestants": [
+            "James"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "James",
+              "score": 3400
+            },
+            {
+              "player": "Sarah",
+              "score": 400
+            },
+            {
+              "player": "Whitney",
+              "score": 1800
+            }
+          ]
+        },
+        {
+          "category": "NAMES IN NATURE",
+          "value": 600,
+          "clue": "You'll notice that something is missing on this critter named for a British isle",
+          "answer": "a Manx (cat)",
+          "isDailyDouble": false,
+          "orderNumber": 18,
+          "correctContestants": [
+            "Whitney"
+          ],
+          "incorrectContestants": [
+            "James",
+            "Sarah"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "James",
+              "score": 2800
+            },
+            {
+              "player": "Sarah",
+              "score": -200
+            },
+            {
+              "player": "Whitney",
+              "score": 2400
+            }
+          ]
+        },
+        {
+          "category": "NAMES IN NATURE",
+          "value": 600,
+          "clue": "They have only one cell each but can take pride in their name. from the Greek for \"first animals\"",
+          "answer": "protozoa",
+          "isDailyDouble": true,
+          "orderNumber": 19,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Whitney"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "James",
+              "score": 2800
+            },
+            {
+              "player": "Sarah",
+              "score": -200
+            },
+            {
+              "player": "Whitney",
+              "score": 1800
+            }
+          ]
+        },
+        {
+          "category": "NAMES IN NATURE",
+          "value": 1000,
+          "clue": "Its name can also mean someone who nags or scolds",
+          "answer": "a shrew",
+          "isDailyDouble": false,
+          "orderNumber": 20,
+          "correctContestants": [
+            "Whitney"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "James",
+              "score": 2800
+            },
+            {
+              "player": "Sarah",
+              "score": -200
+            },
+            {
+              "player": "Whitney",
+              "score": 2800
+            }
+          ]
+        },
+        {
+          "category": "OTHER COLLEGES",
+          "value": 200,
+          "clue": "Founded in 1961, Hamburger University is this chain's training center",
+          "answer": "McDonald's",
+          "isDailyDouble": false,
+          "orderNumber": 21,
+          "correctContestants": [
+            "James"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "James",
+              "score": 3000
+            },
+            {
+              "player": "Sarah",
+              "score": -200
+            },
+            {
+              "player": "Whitney",
+              "score": 2800
+            }
+          ]
+        },
+        {
+          "category": "OTHER COLLEGES",
+          "value": 400,
+          "clue": "It was proposed during the Constitutional Convention to provide a system to choose the VP & the president",
+          "answer": "the Electoral College",
+          "isDailyDouble": false,
+          "orderNumber": 22,
+          "correctContestants": [
+            "Whitney"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "James",
+              "score": 3000
+            },
+            {
+              "player": "Sarah",
+              "score": -200
+            },
+            {
+              "player": "Whitney",
+              "score": 3200
+            }
+          ]
+        },
+        {
+          "category": "OTHER COLLEGES",
+          "value": 600,
+          "clue": "Though there is no fixed campus, you can still apply to Ringling Bros. and Barnum & Bailey's college for these performers",
+          "answer": "clowns",
+          "isDailyDouble": false,
+          "orderNumber": 23,
+          "correctContestants": [
+            "James"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "James",
+              "score": 3600
+            },
+            {
+              "player": "Sarah",
+              "score": -200
+            },
+            {
+              "player": "Whitney",
+              "score": 3200
+            }
+          ]
+        },
+        {
+          "category": "OTHER COLLEGES",
+          "value": 800,
+          "clue": "The official heraldic authority for England is the college of these, which also grants coats of these",
+          "answer": "arms",
+          "isDailyDouble": false,
+          "orderNumber": 24,
+          "correctContestants": [
+            "Whitney"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "James",
+              "score": 3600
+            },
+            {
+              "player": "Sarah",
+              "score": -200
+            },
+            {
+              "player": "Whitney",
+              "score": 4000
+            }
+          ]
+        },
+        {
+          "category": "OTHER COLLEGES",
+          "value": 1000,
+          "clue": "Formed in 1150, this group chooses the pope",
+          "answer": "the College of Cardinals",
+          "isDailyDouble": false,
+          "orderNumber": 25,
+          "correctContestants": [
+            "Sarah"
+          ],
+          "incorrectContestants": [
+            "James"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "James",
+              "score": 2600
+            },
+            {
+              "player": "Sarah",
+              "score": 800
+            },
+            {
+              "player": "Whitney",
+              "score": 4000
+            }
+          ]
+        },
+        {
+          "category": "CAL TECH",
+          "value": 200,
+          "clue": "Established in Mountain View in 1956, Shockley Semiconductor helped put this element in the name of a \"Valley\"",
+          "answer": "silicon",
+          "isDailyDouble": false,
+          "orderNumber": 26,
+          "correctContestants": [
+            "Whitney"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "James",
+              "score": 2600
+            },
+            {
+              "player": "Sarah",
+              "score": 800
+            },
+            {
+              "player": "Whitney",
+              "score": 4200
+            }
+          ]
+        },
+        {
+          "category": "CAL TECH",
+          "value": 400,
+          "clue": "Despite the name, the San Jose headquarters of this maker of the creative cloud isn't built of clay bricks",
+          "answer": "Adobe",
+          "isDailyDouble": false,
+          "orderNumber": 27,
+          "correctContestants": [
+            "Whitney"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "James",
+              "score": 2600
+            },
+            {
+              "player": "Sarah",
+              "score": 800
+            },
+            {
+              "player": "Whitney",
+              "score": 4600
+            }
+          ]
+        },
+        {
+          "category": "CAL TECH",
+          "value": 600,
+          "clue": "Tony Hawk owns a Huntington Beach company that makes these pieces of sporting equipment",
+          "answer": "skateboards",
+          "isDailyDouble": false,
+          "orderNumber": 28,
+          "correctContestants": [
+            "Whitney"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "James",
+              "score": 2600
+            },
+            {
+              "player": "Sarah",
+              "score": 800
+            },
+            {
+              "player": "Whitney",
+              "score": 5200
+            }
+          ]
+        },
+        {
+          "category": "CAL TECH",
+          "value": 800,
+          "clue": "Los Gatos is home to this 40-million member movie & TV streaming business",
+          "answer": "Netflix",
+          "isDailyDouble": false,
+          "orderNumber": 29,
+          "correctContestants": [
+            "James"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "James",
+              "score": 3400
+            },
+            {
+              "player": "Sarah",
+              "score": 800
+            },
+            {
+              "player": "Whitney",
+              "score": 5200
+            }
+          ]
+        },
+        {
+          "category": "CAL TECH",
+          "value": 1000,
+          "clue": "Carlsbad's Callaway makes hi-tech these, like the FT Optiforce",
+          "answer": "golf clubs",
+          "isDailyDouble": false,
+          "orderNumber": 30,
+          "correctContestants": [
+            "Whitney"
+          ],
+          "incorrectContestants": [
+            "Sarah"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "James",
+              "score": 3400
+            },
+            {
+              "player": "Sarah",
+              "score": -200
+            },
+            {
+              "player": "Whitney",
+              "score": 6200
+            }
+          ]
+        }
+      ],
+      "firstBreakScores": [
+        {
+          "player": "James",
+          "score": 3000
+        },
+        {
+          "player": "Sarah",
+          "score": 400
+        },
+        {
+          "player": "Whitney",
+          "score": 1600
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "James",
+          "score": 3400
+        },
+        {
+          "player": "Sarah",
+          "score": -200
+        },
+        {
+          "player": "Whitney",
+          "score": 6200
+        }
+      ]
+    },
+    "doubleJeopardy": {
+      "categories": [
+        "ANCIENT HISTORY",
+        "POP CULTURE",
+        "FAMOUS HOMES",
+        "CLASSICAL MUSIC",
+        "\"D\" PLUS",
+        "THERE'S ALWAYS NEXT TERM"
+      ],
+      "clues": [
+        {
+          "category": "POP CULTURE",
+          "value": 400,
+          "clue": "Chloe Grace Moretz was the title telekinetic teen in a 2013 remake of this horror movie",
+          "answer": "Carrie",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "James",
+              "score": 3400
+            },
+            {
+              "player": "Sarah",
+              "score": 200
+            },
+            {
+              "player": "Whitney",
+              "score": 6200
+            }
+          ]
+        },
+        {
+          "category": "POP CULTURE",
+          "value": 800,
+          "clue": "Keep up--this \"momager\" & husband Bruce have separated",
+          "answer": "Kris Jenner",
+          "isDailyDouble": false,
+          "orderNumber": 2,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "James",
+              "score": 3400
+            },
+            {
+              "player": "Sarah",
+              "score": 200
+            },
+            {
+              "player": "Whitney",
+              "score": 7000
+            }
+          ]
+        },
+        {
+          "category": "POP CULTURE",
+          "value": 1200,
+          "clue": "This comic actress brought \"The Heat\" to movie theaters",
+          "answer": "Melissa McCarthy",
+          "isDailyDouble": false,
+          "orderNumber": 3,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "James",
+              "score": 3400
+            },
+            {
+              "player": "Sarah",
+              "score": 1400
+            },
+            {
+              "player": "Whitney",
+              "score": 7000
+            }
+          ]
+        },
+        {
+          "category": "POP CULTURE",
+          "value": 1600,
+          "clue": "Back in 2008 Chris Hardwick started this website & podcast devoted to all things geeky",
+          "answer": "the Nerdist",
+          "isDailyDouble": false,
+          "orderNumber": 4,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "James",
+              "score": 5000
+            },
+            {
+              "player": "Sarah",
+              "score": 1400
+            },
+            {
+              "player": "Whitney",
+              "score": 7000
+            }
+          ]
+        },
+        {
+          "category": "POP CULTURE",
+          "value": 2000,
+          "clue": "4-letter name of the band heard here\"Lessons in life /Your life is a lie /Now there's no time...\"",
+          "answer": "MGMT",
+          "isDailyDouble": false,
+          "orderNumber": 5,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "James",
+              "score": 7000
+            },
+            {
+              "player": "Sarah",
+              "score": 1400
+            },
+            {
+              "player": "Whitney",
+              "score": 7000
+            }
+          ]
+        },
+        {
+          "category": "ANCIENT HISTORY",
+          "value": 400,
+          "clue": "Under this Babylonian king's code, receiving stolen property was punishable by death",
+          "answer": "Hammurabi",
+          "isDailyDouble": false,
+          "orderNumber": 6,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "James",
+              "score": 7400
+            },
+            {
+              "player": "Sarah",
+              "score": 1400
+            },
+            {
+              "player": "Whitney",
+              "score": 7000
+            }
+          ]
+        },
+        {
+          "category": "ANCIENT HISTORY",
+          "value": 800,
+          "clue": "This escaped gladiator took refuge on Mount Vesuvius, where he built a large army",
+          "answer": "Spartacus",
+          "isDailyDouble": false,
+          "orderNumber": 7,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "James",
+              "score": 7400
+            },
+            {
+              "player": "Sarah",
+              "score": 1400
+            },
+            {
+              "player": "Whitney",
+              "score": 7000
+            }
+          ]
+        },
+        {
+          "category": "ANCIENT HISTORY",
+          "value": 1200,
+          "clue": "The last prophecy of this Greek Oracle was a prediction that it would be the last one",
+          "answer": "(the Oracle of) Delphi",
+          "isDailyDouble": false,
+          "orderNumber": 8,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "James",
+              "score": 7400
+            },
+            {
+              "player": "Sarah",
+              "score": 2600
+            },
+            {
+              "player": "Whitney",
+              "score": 5800
+            }
+          ]
+        },
+        {
+          "category": "ANCIENT HISTORY",
+          "value": 1600,
+          "clue": "Mayan hieroglyphics often used this type of symbolic puzzle in which drawn objects represented words",
+          "answer": "a rebus",
+          "isDailyDouble": false,
+          "orderNumber": 9,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "James",
+              "score": 7400
+            },
+            {
+              "player": "Sarah",
+              "score": 2600
+            },
+            {
+              "player": "Whitney",
+              "score": 7400
+            }
+          ]
+        },
+        {
+          "category": "ANCIENT HISTORY",
+          "value": 600,
+          "clue": "In 439 A.D. Genseric the Vandal captured this North African city, which became the Vandal capital",
+          "answer": "Carthage",
+          "isDailyDouble": true,
+          "orderNumber": 10,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "James",
+              "score": 7400
+            },
+            {
+              "player": "Sarah",
+              "score": 2600
+            },
+            {
+              "player": "Whitney",
+              "score": 6800
+            }
+          ]
+        },
+        {
+          "category": "FAMOUS HOMES",
+          "value": 400,
+          "clue": "The \"Witch House\" in this New England city is where witch trial judge Jonathan Corwin lived in the 1690s",
+          "answer": "Salem",
+          "isDailyDouble": false,
+          "orderNumber": 11,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "James",
+              "score": 7800
+            },
+            {
+              "player": "Sarah",
+              "score": 2600
+            },
+            {
+              "player": "Whitney",
+              "score": 6800
+            }
+          ]
+        },
+        {
+          "category": "FAMOUS HOMES",
+          "value": 1000,
+          "clue": "Peacefield in Quincy, Massachusetts was the mansion of this man who purchased it in 1787",
+          "answer": "John Adams",
+          "isDailyDouble": true,
+          "orderNumber": 12,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "James",
+              "score": 8800
+            },
+            {
+              "player": "Sarah",
+              "score": 2600
+            },
+            {
+              "player": "Whitney",
+              "score": 6800
+            }
+          ]
+        },
+        {
+          "category": "FAMOUS HOMES",
+          "value": 1200,
+          "clue": "Biltmore Estate, one of the largest homes in the U.S., is an attraction in Asheville in this state",
+          "answer": "North Carolina",
+          "isDailyDouble": false,
+          "orderNumber": 13,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "James",
+              "score": 10000
+            },
+            {
+              "player": "Sarah",
+              "score": 2600
+            },
+            {
+              "player": "Whitney",
+              "score": 6800
+            }
+          ]
+        },
+        {
+          "category": "FAMOUS HOMES",
+          "value": 1600,
+          "clue": "Miramare Castle was the project of this man who soon met a sad end as ruler of Mexico",
+          "answer": "Maximilian",
+          "isDailyDouble": false,
+          "orderNumber": 14,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "James",
+              "score": 11600
+            },
+            {
+              "player": "Sarah",
+              "score": 2600
+            },
+            {
+              "player": "Whitney",
+              "score": 6800
+            }
+          ]
+        },
+        {
+          "category": "FAMOUS HOMES",
+          "value": 2000,
+          "clue": "As of January 2014 Gracie Mansion at East End Ave. & 88th Street is this man's official residence",
+          "answer": "Bill de Blasio",
+          "isDailyDouble": false,
+          "orderNumber": 15,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "James",
+              "score": 11600
+            },
+            {
+              "player": "Sarah",
+              "score": 2600
+            },
+            {
+              "player": "Whitney",
+              "score": 6800
+            }
+          ]
+        },
+        {
+          "category": "\"D\" PLUS",
+          "value": 400,
+          "clue": "Ambition, or the way Phil Mickelson starts a round",
+          "answer": "a drive",
+          "isDailyDouble": false,
+          "orderNumber": 16,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "James",
+              "score": 11600
+            },
+            {
+              "player": "Sarah",
+              "score": 2200
+            },
+            {
+              "player": "Whitney",
+              "score": 6800
+            }
+          ]
+        },
+        {
+          "category": "\"D\" PLUS",
+          "value": 800,
+          "clue": "(Sarah of the Clue Crew inflates a large black bag.)  The black plastic of the solar bag allows for rapid absorption of the sun's rays speeding up the heated air molecules, which become less this than the cool air outside, causing the bag to float",
+          "answer": "dense",
+          "isDailyDouble": false,
+          "orderNumber": 17,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "James",
+              "score": 11600
+            },
+            {
+              "player": "Sarah",
+              "score": 3000
+            },
+            {
+              "player": "Whitney",
+              "score": 6800
+            }
+          ]
+        },
+        {
+          "category": "\"D\" PLUS",
+          "value": 1200,
+          "clue": "Traditionally, money & goods given by a bride's family to a groom",
+          "answer": "a dowry",
+          "isDailyDouble": false,
+          "orderNumber": 18,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "James",
+              "score": 11600
+            },
+            {
+              "player": "Sarah",
+              "score": 4200
+            },
+            {
+              "player": "Whitney",
+              "score": 6800
+            }
+          ]
+        },
+        {
+          "category": "\"D\" PLUS",
+          "value": 1600,
+          "clue": "Today something you all aspire to, in ancient Rome it was a document folded double acting as a sort of passport",
+          "answer": "a diploma",
+          "isDailyDouble": false,
+          "orderNumber": 19,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "James",
+              "score": 10000
+            },
+            {
+              "player": "Sarah",
+              "score": 4200
+            },
+            {
+              "player": "Whitney",
+              "score": 8400
+            }
+          ]
+        },
+        {
+          "category": "\"D\" PLUS",
+          "value": 2000,
+          "clue": "From the Hindi, it's another name for blue denim jeans",
+          "answer": "dungarees",
+          "isDailyDouble": false,
+          "orderNumber": 20,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "James",
+              "score": 10000
+            },
+            {
+              "player": "Sarah",
+              "score": 4200
+            },
+            {
+              "player": "Whitney",
+              "score": 8400
+            }
+          ]
+        },
+        {
+          "category": "CLASSICAL MUSIC",
+          "value": 400,
+          "clue": "The 4-note opening motif of this Beethoven symphony is said to be fate knocking at the door",
+          "answer": "the 5th",
+          "isDailyDouble": false,
+          "orderNumber": 21,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "James",
+              "score": 10000
+            },
+            {
+              "player": "Sarah",
+              "score": 4200
+            },
+            {
+              "player": "Whitney",
+              "score": 8800
+            }
+          ]
+        },
+        {
+          "category": "CLASSICAL MUSIC",
+          "value": 800,
+          "clue": "At age 37, Rossini wrote his last opera--this one about an archer",
+          "answer": "William Tell",
+          "isDailyDouble": false,
+          "orderNumber": 22,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "James",
+              "score": 10800
+            },
+            {
+              "player": "Sarah",
+              "score": 4200
+            },
+            {
+              "player": "Whitney",
+              "score": 8800
+            }
+          ]
+        },
+        {
+          "category": "CLASSICAL MUSIC",
+          "value": 1200,
+          "clue": "Hallelujah!  He composed the \"Messiah\" oratorio",
+          "answer": "Handel",
+          "isDailyDouble": false,
+          "orderNumber": 23,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "James",
+              "score": 10800
+            },
+            {
+              "player": "Sarah",
+              "score": 4200
+            },
+            {
+              "player": "Whitney",
+              "score": 10000
+            }
+          ]
+        },
+        {
+          "category": "CLASSICAL MUSIC",
+          "value": 1600,
+          "clue": "This composer of \"Bolero\" said it was \"a piece for orchestra without music\"",
+          "answer": "Maurice Ravel",
+          "isDailyDouble": false,
+          "orderNumber": 24,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "James",
+              "score": 10800
+            },
+            {
+              "player": "Sarah",
+              "score": 4200
+            },
+            {
+              "player": "Whitney",
+              "score": 10000
+            }
+          ]
+        },
+        {
+          "category": "CLASSICAL MUSIC",
+          "value": 2000,
+          "clue": "Aram Khachaturian composed this \"Dance\" for his ballet \"Gayane\"",
+          "answer": "\"The Sabre Dance\"",
+          "isDailyDouble": false,
+          "orderNumber": 25,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "James",
+              "score": 8800
+            },
+            {
+              "player": "Sarah",
+              "score": 4200
+            },
+            {
+              "player": "Whitney",
+              "score": 10000
+            }
+          ]
+        },
+        {
+          "category": "THERE'S ALWAYS NEXT TERM",
+          "value": 400,
+          "clue": "In taxonomy:Kingdom, phylum...",
+          "answer": "class",
+          "isDailyDouble": false,
+          "orderNumber": 26,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "James",
+              "score": 8400
+            },
+            {
+              "player": "Sarah",
+              "score": 4200
+            },
+            {
+              "player": "Whitney",
+              "score": 10000
+            }
+          ]
+        },
+        {
+          "category": "THERE'S ALWAYS NEXT TERM",
+          "value": 800,
+          "clue": "In the Greek alphabet:Rho, sigma...",
+          "answer": "tau",
+          "isDailyDouble": false,
+          "orderNumber": 27,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "James",
+              "score": 8400
+            },
+            {
+              "player": "Sarah",
+              "score": 5000
+            },
+            {
+              "player": "Whitney",
+              "score": 10000
+            }
+          ]
+        },
+        {
+          "category": "THERE'S ALWAYS NEXT TERM",
+          "value": 1200,
+          "clue": "In U.S. House GOP leadership:Speaker, Majority Leader...",
+          "answer": "Majority Whip",
+          "isDailyDouble": false,
+          "orderNumber": 28,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "James",
+              "score": 7200
+            },
+            {
+              "player": "Sarah",
+              "score": 6200
+            },
+            {
+              "player": "Whitney",
+              "score": 10000
+            }
+          ]
+        },
+        {
+          "category": "THERE'S ALWAYS NEXT TERM",
+          "value": 1600,
+          "clue": "In geologic time:Eon, era...",
+          "answer": "period",
+          "isDailyDouble": false,
+          "orderNumber": 29,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "James",
+              "score": 7200
+            },
+            {
+              "player": "Sarah",
+              "score": 6200
+            },
+            {
+              "player": "Whitney",
+              "score": 10000
+            }
+          ]
+        },
+        {
+          "category": "THERE'S ALWAYS NEXT TERM",
+          "value": 2000,
+          "clue": "In the Chinese calendar:Dragon, snake...",
+          "answer": "horse",
+          "isDailyDouble": false,
+          "orderNumber": 30,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "James",
+              "score": 9200
+            },
+            {
+              "player": "Sarah",
+              "score": 6200
+            },
+            {
+              "player": "Whitney",
+              "score": 10000
+            }
+          ]
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "James",
+          "score": 9200
+        },
+        {
+          "player": "Sarah",
+          "score": 6200
+        },
+        {
+          "player": "Whitney",
+          "score": 10000
+        }
+      ]
+    },
+    "finalJeopardy": {
+      "category": "ISLANDS",
+      "clue": "In a satellite photo, volcanic activity can be seen on this 10,000-square-mile island",
+      "answer": "Sicily",
+      "responses": [
+        {
+          "contestant": "Sarah",
+          "response": "What is Crete Sicily?",
+          "isCorrect": false,
+          "isIncorrect": true,
+          "value": 4800,
+          "finalScore": 1400
+        },
+        {
+          "contestant": "James",
+          "response": "What is Fiji?",
+          "isCorrect": false,
+          "isIncorrect": true,
+          "value": 9200,
+          "finalScore": 0
+        },
+        {
+          "contestant": "Whitney",
+          "response": "What is Crete?",
+          "isCorrect": false,
+          "isIncorrect": true,
+          "value": 0,
+          "finalScore": 10000
+        }
+      ]
+    }
+  },
+  "finalScores": [
+    {
+      "player": "James",
+      "score": "$0"
+    },
+    {
+      "player": "Sarah",
+      "score": "$1,400"
+    },
+    {
+      "player": "Whitney",
+      "score": "$10,000"
+    }
+  ],
+  "coryatScores": [
+    {
+      "player": "James",
+      "score": 9000
+    },
+    {
+      "player": "Sarah",
+      "score": 6200
+    },
+    {
+      "player": "Whitney",
+      "score": 11200
+    }
+  ]
+}

@@ -1,0 +1,1701 @@
+{
+  "gameId": 712,
+  "showNumber": "1424",
+  "title": "Show #1424 - Thursday, November 8, 1990",
+  "date": "1990-11-08",
+  "comments": "1990 Tournament of Champions quarterfinal game 4.",
+  "contestants": [
+    "Richard",
+    "Erik",
+    "Lisa"
+  ],
+  "rounds": {
+    "jeopardy": {
+      "categories": [
+        "\"M\" TV",
+        "WORLD HISTORY",
+        "WEATHER",
+        "LANGUAGES",
+        "GEMS",
+        "FRIENDLY PHRASES"
+      ],
+      "clues": [
+        {
+          "category": "WORLD HISTORY",
+          "value": 100,
+          "clue": "Peter the Great abolished the aristocratic Boyar class in this country",
+          "answer": "Russia",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [
+            "Lisa"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Richard",
+              "score": 0
+            },
+            {
+              "player": "Erik",
+              "score": 0
+            },
+            {
+              "player": "Lisa",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "category": "WORLD HISTORY",
+          "value": 200,
+          "clue": "Alessandro, the first Duke of Florence, was an illegitimate member of this family",
+          "answer": "the Medicis",
+          "isDailyDouble": false,
+          "orderNumber": 2,
+          "correctContestants": [
+            "Erik"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Richard",
+              "score": 0
+            },
+            {
+              "player": "Erik",
+              "score": 200
+            },
+            {
+              "player": "Lisa",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "category": "LANGUAGES",
+          "value": 100,
+          "clue": "More people in county Galway speak this language than in any other county",
+          "answer": "Irish Gaelic",
+          "isDailyDouble": false,
+          "orderNumber": 3,
+          "correctContestants": [
+            "Erik"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Richard",
+              "score": 0
+            },
+            {
+              "player": "Erik",
+              "score": 300
+            },
+            {
+              "player": "Lisa",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "category": "LANGUAGES",
+          "value": 200,
+          "clue": "Gullah is still spoken by some blacks in this country",
+          "answer": "the United States",
+          "isDailyDouble": false,
+          "orderNumber": 4,
+          "correctContestants": [
+            "Erik"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Richard",
+              "score": 0
+            },
+            {
+              "player": "Erik",
+              "score": 500
+            },
+            {
+              "player": "Lisa",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "category": "LANGUAGES",
+          "value": 300,
+          "clue": "The Ciceronian Age followed by the Augustan Age created the Golden Age of literature in this language",
+          "answer": "Latin",
+          "isDailyDouble": false,
+          "orderNumber": 5,
+          "correctContestants": [
+            "Erik"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Richard",
+              "score": 0
+            },
+            {
+              "player": "Erik",
+              "score": 800
+            },
+            {
+              "player": "Lisa",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "category": "LANGUAGES",
+          "value": 400,
+          "clue": "R. Tagore, who won the Nobel Prize in literature, wrote in this language of Bangladesh",
+          "answer": "Bengali",
+          "isDailyDouble": false,
+          "orderNumber": 6,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Richard"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Richard",
+              "score": -400
+            },
+            {
+              "player": "Erik",
+              "score": 800
+            },
+            {
+              "player": "Lisa",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "category": "LANGUAGES",
+          "value": 500,
+          "clue": "Hausa, Yoruba & Ibo are the principal African languages spoken in this country",
+          "answer": "Nigeria",
+          "isDailyDouble": false,
+          "orderNumber": 7,
+          "correctContestants": [
+            "Erik"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Richard",
+              "score": -400
+            },
+            {
+              "player": "Erik",
+              "score": 1300
+            },
+            {
+              "player": "Lisa",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "category": "WORLD HISTORY",
+          "value": 300,
+          "clue": "During the Napoleonic Wars, the royal family of Portugal fled to this colony",
+          "answer": "Brazil",
+          "isDailyDouble": true,
+          "orderNumber": 8,
+          "correctContestants": [
+            "Erik"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Richard",
+              "score": -400
+            },
+            {
+              "player": "Erik",
+              "score": 1600
+            },
+            {
+              "player": "Lisa",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "category": "WORLD HISTORY",
+          "value": 400,
+          "clue": "This German-born archaeologist made a fortune in the Crimean War, which allowed him to look for Troy",
+          "answer": "(Heinrich) Schliemann",
+          "isDailyDouble": false,
+          "orderNumber": 9,
+          "correctContestants": [
+            "Richard"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Richard",
+              "score": 0
+            },
+            {
+              "player": "Erik",
+              "score": 1600
+            },
+            {
+              "player": "Lisa",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "category": "WORLD HISTORY",
+          "value": 500,
+          "clue": "More than 1 million turned out for his funeral procession in the Philippines August 31, 1983",
+          "answer": "Benigno Aquino",
+          "isDailyDouble": false,
+          "orderNumber": 10,
+          "correctContestants": [
+            "Lisa"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Richard",
+              "score": 0
+            },
+            {
+              "player": "Erik",
+              "score": 1600
+            },
+            {
+              "player": "Lisa",
+              "score": 600
+            }
+          ]
+        },
+        {
+          "category": "\"M\" TV",
+          "value": 100,
+          "clue": "The novel it was derived from was written by a doctor who'd actually served in the Korean War",
+          "answer": "M*A*S*H",
+          "isDailyDouble": false,
+          "orderNumber": 11,
+          "correctContestants": [
+            "Richard"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Richard",
+              "score": 100
+            },
+            {
+              "player": "Erik",
+              "score": 1600
+            },
+            {
+              "player": "Lisa",
+              "score": 600
+            }
+          ]
+        },
+        {
+          "category": "WEATHER",
+          "value": 100,
+          "clue": "An anemometer is an instrument used to measure the speed of this",
+          "answer": "wind",
+          "isDailyDouble": false,
+          "orderNumber": 12,
+          "correctContestants": [
+            "Richard"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Richard",
+              "score": 200
+            },
+            {
+              "player": "Erik",
+              "score": 1600
+            },
+            {
+              "player": "Lisa",
+              "score": 600
+            }
+          ]
+        },
+        {
+          "category": "WEATHER",
+          "value": 200,
+          "clue": "The THI, it tells you exactly how miserable you are on a hot summer day",
+          "answer": "the temperature-humidity index",
+          "isDailyDouble": false,
+          "orderNumber": 13,
+          "correctContestants": [
+            "Richard"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Richard",
+              "score": 400
+            },
+            {
+              "player": "Erik",
+              "score": 1600
+            },
+            {
+              "player": "Lisa",
+              "score": 600
+            }
+          ]
+        },
+        {
+          "category": "WEATHER",
+          "value": 300,
+          "clue": "Word used to describe rain, snow or fog with a pH value of less than 5.6",
+          "answer": "acid rain",
+          "isDailyDouble": false,
+          "orderNumber": 14,
+          "correctContestants": [
+            "Richard"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Richard",
+              "score": 700
+            },
+            {
+              "player": "Erik",
+              "score": 1600
+            },
+            {
+              "player": "Lisa",
+              "score": 600
+            }
+          ]
+        },
+        {
+          "category": "WEATHER",
+          "value": 400,
+          "clue": "The Rocky Mountain equivalent of the Alpine wind called a foehn",
+          "answer": "the chinook",
+          "isDailyDouble": false,
+          "orderNumber": 15,
+          "correctContestants": [
+            "Richard"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Richard",
+              "score": 1100
+            },
+            {
+              "player": "Erik",
+              "score": 1600
+            },
+            {
+              "player": "Lisa",
+              "score": 600
+            }
+          ]
+        },
+        {
+          "category": "WEATHER",
+          "value": 500,
+          "clue": "The Humboldt Current is also called this, for the S. American country off the coast it's found",
+          "answer": "Peru (current)",
+          "isDailyDouble": false,
+          "orderNumber": 16,
+          "correctContestants": [
+            "Richard"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Richard",
+              "score": 1600
+            },
+            {
+              "player": "Erik",
+              "score": 1600
+            },
+            {
+              "player": "Lisa",
+              "score": 600
+            }
+          ]
+        },
+        {
+          "category": "GEMS",
+          "value": 100,
+          "clue": "The name of this gemstone came from the Greek \"Smaragdos\", which probably meant any green stone",
+          "answer": "the emerald",
+          "isDailyDouble": false,
+          "orderNumber": 17,
+          "correctContestants": [
+            "Richard"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Richard",
+              "score": 1700
+            },
+            {
+              "player": "Erik",
+              "score": 1600
+            },
+            {
+              "player": "Lisa",
+              "score": 600
+            }
+          ]
+        },
+        {
+          "category": "FRIENDLY PHRASES",
+          "value": 100,
+          "clue": "He is \"a friend indeed\"",
+          "answer": "a friend in need",
+          "isDailyDouble": false,
+          "orderNumber": 18,
+          "correctContestants": [
+            "Richard"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Richard",
+              "score": 1800
+            },
+            {
+              "player": "Erik",
+              "score": 1600
+            },
+            {
+              "player": "Lisa",
+              "score": 600
+            }
+          ]
+        },
+        {
+          "category": "FRIENDLY PHRASES",
+          "value": 200,
+          "clue": "Finishes the saying, \"Friendship is a plant which must be often...\"",
+          "answer": "watered",
+          "isDailyDouble": false,
+          "orderNumber": 19,
+          "correctContestants": [
+            "Richard"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Richard",
+              "score": 2000
+            },
+            {
+              "player": "Erik",
+              "score": 1600
+            },
+            {
+              "player": "Lisa",
+              "score": 600
+            }
+          ]
+        },
+        {
+          "category": "FRIENDLY PHRASES",
+          "value": 300,
+          "clue": "Christ said, \"Greater love hath no man\" than to do this \"for his friends\"",
+          "answer": "to give up his life (or to lay down his life)",
+          "isDailyDouble": false,
+          "orderNumber": 20,
+          "correctContestants": [
+            "Lisa"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Richard",
+              "score": 2000
+            },
+            {
+              "player": "Erik",
+              "score": 1600
+            },
+            {
+              "player": "Lisa",
+              "score": 900
+            }
+          ]
+        },
+        {
+          "category": "FRIENDLY PHRASES",
+          "value": 400,
+          "clue": "\"Prosperity makes friends\" but this \"tries them\"",
+          "answer": "adversity",
+          "isDailyDouble": false,
+          "orderNumber": 21,
+          "correctContestants": [
+            "Richard"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Richard",
+              "score": 2400
+            },
+            {
+              "player": "Erik",
+              "score": 1600
+            },
+            {
+              "player": "Lisa",
+              "score": 900
+            }
+          ]
+        },
+        {
+          "category": "FRIENDLY PHRASES",
+          "value": 500,
+          "clue": "Friends are \"the thieves\" of this",
+          "answer": "time",
+          "isDailyDouble": false,
+          "orderNumber": 22,
+          "correctContestants": [
+            "Richard"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Richard",
+              "score": 2900
+            },
+            {
+              "player": "Erik",
+              "score": 1600
+            },
+            {
+              "player": "Lisa",
+              "score": 900
+            }
+          ]
+        },
+        {
+          "category": "GEMS",
+          "value": 200,
+          "clue": "The 787-carat Great Mogul Diamond was the largest found in this country",
+          "answer": "India",
+          "isDailyDouble": false,
+          "orderNumber": 23,
+          "correctContestants": [
+            "Erik"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Richard",
+              "score": 2900
+            },
+            {
+              "player": "Erik",
+              "score": 1800
+            },
+            {
+              "player": "Lisa",
+              "score": 900
+            }
+          ]
+        },
+        {
+          "category": "GEMS",
+          "value": 300,
+          "clue": "Many of the red stones are classified as the \"fire\" variety of this fiery gem come from Mexico",
+          "answer": "opals",
+          "isDailyDouble": false,
+          "orderNumber": 24,
+          "correctContestants": [
+            "Erik"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Richard",
+              "score": 2900
+            },
+            {
+              "player": "Erik",
+              "score": 2100
+            },
+            {
+              "player": "Lisa",
+              "score": 900
+            }
+          ]
+        },
+        {
+          "category": "GEMS",
+          "value": 400,
+          "clue": "Rubies are a form of this stone, the hardest in the world after diamond",
+          "answer": "corundum",
+          "isDailyDouble": false,
+          "orderNumber": 25,
+          "correctContestants": [
+            "Erik"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Richard",
+              "score": 2900
+            },
+            {
+              "player": "Erik",
+              "score": 2500
+            },
+            {
+              "player": "Lisa",
+              "score": 900
+            }
+          ]
+        },
+        {
+          "category": "GEMS",
+          "value": 500,
+          "clue": "According to Britannica, this August birthstone is also called precious olivine",
+          "answer": "peridot",
+          "isDailyDouble": false,
+          "orderNumber": 26,
+          "correctContestants": [
+            "Lisa"
+          ],
+          "incorrectContestants": [
+            "Richard"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Richard",
+              "score": 2400
+            },
+            {
+              "player": "Erik",
+              "score": 2500
+            },
+            {
+              "player": "Lisa",
+              "score": 1400
+            }
+          ]
+        },
+        {
+          "category": "\"M\" TV",
+          "value": 200,
+          "clue": "In a 1987 show, Matt Frewer played a dual role, Edison Carter & this title character",
+          "answer": "Max Headroom",
+          "isDailyDouble": false,
+          "orderNumber": 27,
+          "correctContestants": [
+            "Richard"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Richard",
+              "score": 2600
+            },
+            {
+              "player": "Erik",
+              "score": 2500
+            },
+            {
+              "player": "Lisa",
+              "score": 1400
+            }
+          ]
+        },
+        {
+          "category": "\"M\" TV",
+          "value": 300,
+          "clue": "Edith Bunker's caustic cousin",
+          "answer": "Maude",
+          "isDailyDouble": false,
+          "orderNumber": 28,
+          "correctContestants": [
+            "Lisa"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Richard",
+              "score": 2600
+            },
+            {
+              "player": "Erik",
+              "score": 2500
+            },
+            {
+              "player": "Lisa",
+              "score": 1700
+            }
+          ]
+        },
+        {
+          "category": "\"M\" TV",
+          "value": 400,
+          "clue": "In 1970-71 this show about an M.D. became the first ABC series to rank No. 1 for a full season",
+          "answer": "Marcus Welby, M.D.",
+          "isDailyDouble": false,
+          "orderNumber": 29,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Richard",
+              "score": 2600
+            },
+            {
+              "player": "Erik",
+              "score": 2500
+            },
+            {
+              "player": "Lisa",
+              "score": 1700
+            }
+          ]
+        },
+        {
+          "category": "\"M\" TV",
+          "value": 500,
+          "clue": "This show's first season included a 12-part presentation of \"The First Churchills\"",
+          "answer": "Masterpiece Theatre",
+          "isDailyDouble": false,
+          "orderNumber": 30,
+          "correctContestants": [
+            "Erik"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Richard",
+              "score": 2600
+            },
+            {
+              "player": "Erik",
+              "score": 3000
+            },
+            {
+              "player": "Lisa",
+              "score": 1700
+            }
+          ]
+        }
+      ],
+      "firstBreakScores": [
+        {
+          "player": "Richard",
+          "score": 400
+        },
+        {
+          "player": "Erik",
+          "score": 1600
+        },
+        {
+          "player": "Lisa",
+          "score": 600
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "Richard",
+          "score": 2600
+        },
+        {
+          "player": "Erik",
+          "score": 3000
+        },
+        {
+          "player": "Lisa",
+          "score": 1700
+        }
+      ]
+    },
+    "doubleJeopardy": {
+      "categories": [
+        "POETRY",
+        "FAMOUS GERMANS",
+        "FOOD",
+        "REPUBLICANS",
+        "ISLANDS",
+        "MUSICAL THEATER"
+      ],
+      "clues": [
+        {
+          "category": "MUSICAL THEATER",
+          "value": 200,
+          "clue": "In 1967 Pearl Bailey led an all-black cast in this musical",
+          "answer": "Hello, Dolly!",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Richard",
+              "score": 2600
+            },
+            {
+              "player": "Erik",
+              "score": 3000
+            },
+            {
+              "player": "Lisa",
+              "score": 1900
+            }
+          ]
+        },
+        {
+          "category": "MUSICAL THEATER",
+          "value": 400,
+          "clue": "In this musical based on a Roger Corman film, no one heeds the musical warning, \"Don't feed the plants!\"",
+          "answer": "Little Shop of Horrors",
+          "isDailyDouble": false,
+          "orderNumber": 2,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Richard",
+              "score": 2600
+            },
+            {
+              "player": "Erik",
+              "score": 3400
+            },
+            {
+              "player": "Lisa",
+              "score": 1900
+            }
+          ]
+        },
+        {
+          "category": "FOOD",
+          "value": 200,
+          "clue": "When spaghetti is cooked \"al dente\", it means it's firm to this body part",
+          "answer": "the teeth",
+          "isDailyDouble": false,
+          "orderNumber": 3,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Richard",
+              "score": 2600
+            },
+            {
+              "player": "Erik",
+              "score": 3600
+            },
+            {
+              "player": "Lisa",
+              "score": 1900
+            }
+          ]
+        },
+        {
+          "category": "FOOD",
+          "value": 400,
+          "clue": "Pumpernickel bread is made primarily of this grain",
+          "answer": "rye",
+          "isDailyDouble": false,
+          "orderNumber": 4,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Richard",
+              "score": 3000
+            },
+            {
+              "player": "Erik",
+              "score": 3600
+            },
+            {
+              "player": "Lisa",
+              "score": 1900
+            }
+          ]
+        },
+        {
+          "category": "REPUBLICANS",
+          "value": 200,
+          "clue": "He was the first man in Indiana history to get more than 60% of the votes for senator, in 1986",
+          "answer": "Dan Quayle",
+          "isDailyDouble": false,
+          "orderNumber": 5,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Richard",
+              "score": 3000
+            },
+            {
+              "player": "Erik",
+              "score": 3800
+            },
+            {
+              "player": "Lisa",
+              "score": 1900
+            }
+          ]
+        },
+        {
+          "category": "FOOD",
+          "value": 600,
+          "clue": "It's the culinary term for burnt sugar or a candy made from browned sugar",
+          "answer": "caramel",
+          "isDailyDouble": false,
+          "orderNumber": 6,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Richard",
+              "score": 3600
+            },
+            {
+              "player": "Erik",
+              "score": 3800
+            },
+            {
+              "player": "Lisa",
+              "score": 1900
+            }
+          ]
+        },
+        {
+          "category": "ISLANDS",
+          "value": 200,
+          "clue": "This barren Italian island became famous after a fictional \"Count\" uncovered a treasure there",
+          "answer": "Monte Cristo",
+          "isDailyDouble": false,
+          "orderNumber": 7,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Richard",
+              "score": 3600
+            },
+            {
+              "player": "Erik",
+              "score": 4000
+            },
+            {
+              "player": "Lisa",
+              "score": 1900
+            }
+          ]
+        },
+        {
+          "category": "FOOD",
+          "value": 800,
+          "clue": "Halal meat is slaughtered according to the laws of this religion",
+          "answer": "Islam",
+          "isDailyDouble": false,
+          "orderNumber": 8,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Richard",
+              "score": 3600
+            },
+            {
+              "player": "Erik",
+              "score": 4800
+            },
+            {
+              "player": "Lisa",
+              "score": 1900
+            }
+          ]
+        },
+        {
+          "category": "FOOD",
+          "value": 1000,
+          "clue": "The herb also called Chinese parsley or fresh coriander is called this in Mexican cooking",
+          "answer": "cilantro",
+          "isDailyDouble": false,
+          "orderNumber": 9,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Richard",
+              "score": 3600
+            },
+            {
+              "player": "Erik",
+              "score": 4800
+            },
+            {
+              "player": "Lisa",
+              "score": 2900
+            }
+          ]
+        },
+        {
+          "category": "MUSICAL THEATER",
+          "value": 600,
+          "clue": "In 1990 this ex-TV cop won a Tony for her Broadway role as Gypsy's mom",
+          "answer": "Tyne Daly",
+          "isDailyDouble": false,
+          "orderNumber": 10,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Richard",
+              "score": 3600
+            },
+            {
+              "player": "Erik",
+              "score": 4800
+            },
+            {
+              "player": "Lisa",
+              "score": 3500
+            }
+          ]
+        },
+        {
+          "category": "MUSICAL THEATER",
+          "value": 800,
+          "clue": "As the witch, P. Rashad went \"Into the Woods\" on Broadway to sing this composer's ditties",
+          "answer": "(Stephen) Sondheim",
+          "isDailyDouble": false,
+          "orderNumber": 11,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Richard",
+              "score": 3600
+            },
+            {
+              "player": "Erik",
+              "score": 5600
+            },
+            {
+              "player": "Lisa",
+              "score": 3500
+            }
+          ]
+        },
+        {
+          "category": "MUSICAL THEATER",
+          "value": 1000,
+          "clue": "This actress, who originated the role of Anna in \"The King & I\", died during its run in 1952",
+          "answer": "Gertrude Lawrence",
+          "isDailyDouble": false,
+          "orderNumber": 12,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Richard",
+              "score": 3600
+            },
+            {
+              "player": "Erik",
+              "score": 5600
+            },
+            {
+              "player": "Lisa",
+              "score": 3500
+            }
+          ]
+        },
+        {
+          "category": "FAMOUS GERMANS",
+          "value": 200,
+          "clue": "Jacob was born into this family in 1785 & his brother Wilhelm in 1786 & we're not telling tales",
+          "answer": "Grimm",
+          "isDailyDouble": false,
+          "orderNumber": 13,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Richard",
+              "score": 3800
+            },
+            {
+              "player": "Erik",
+              "score": 5600
+            },
+            {
+              "player": "Lisa",
+              "score": 3500
+            }
+          ]
+        },
+        {
+          "category": "FAMOUS GERMANS",
+          "value": 400,
+          "clue": "Her sister-in-law Anett Potzsch is also an Olympic gold medalist in figure skating",
+          "answer": "Katarina Witt",
+          "isDailyDouble": false,
+          "orderNumber": 14,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Richard",
+              "score": 4200
+            },
+            {
+              "player": "Erik",
+              "score": 5600
+            },
+            {
+              "player": "Lisa",
+              "score": 3500
+            }
+          ]
+        },
+        {
+          "category": "FAMOUS GERMANS",
+          "value": 600,
+          "clue": "German who designed the Me-262, the first jet plane used in war",
+          "answer": "Willy Messerschmitt",
+          "isDailyDouble": false,
+          "orderNumber": 15,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Richard",
+              "score": 4800
+            },
+            {
+              "player": "Erik",
+              "score": 5600
+            },
+            {
+              "player": "Lisa",
+              "score": 3500
+            }
+          ]
+        },
+        {
+          "category": "FAMOUS GERMANS",
+          "value": 800,
+          "clue": "German director Wim Wenders cast her in her 1st film, \"The Wrong Move\", & used her again in \"Paris, Texas\"",
+          "answer": "Nastassja Kinski",
+          "isDailyDouble": false,
+          "orderNumber": 16,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Richard",
+              "score": 4800
+            },
+            {
+              "player": "Erik",
+              "score": 5600
+            },
+            {
+              "player": "Lisa",
+              "score": 3500
+            }
+          ]
+        },
+        {
+          "category": "FAMOUS GERMANS",
+          "value": 1000,
+          "clue": "19th century German whose name is synonymous with guidebook",
+          "answer": "Baedeker",
+          "isDailyDouble": false,
+          "orderNumber": 17,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Richard",
+              "score": 5800
+            },
+            {
+              "player": "Erik",
+              "score": 5600
+            },
+            {
+              "player": "Lisa",
+              "score": 3500
+            }
+          ]
+        },
+        {
+          "category": "ISLANDS",
+          "value": 400,
+          "clue": "Once called Oyster Island, it became part of the Statue of Liberty nat'l monument in 1965",
+          "answer": "Ellis Island",
+          "isDailyDouble": false,
+          "orderNumber": 18,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Richard",
+              "score": 6200
+            },
+            {
+              "player": "Erik",
+              "score": 5600
+            },
+            {
+              "player": "Lisa",
+              "score": 3500
+            }
+          ]
+        },
+        {
+          "category": "ISLANDS",
+          "value": 600,
+          "clue": "One of Iowa's quad cities & a railroad bear the name of this island",
+          "answer": "Rock Island",
+          "isDailyDouble": false,
+          "orderNumber": 19,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Richard",
+              "score": 6200
+            },
+            {
+              "player": "Erik",
+              "score": 6200
+            },
+            {
+              "player": "Lisa",
+              "score": 3500
+            }
+          ]
+        },
+        {
+          "category": "ISLANDS",
+          "value": 1500,
+          "clue": "3 of the 4 islands that make up the Greater Antilles",
+          "answer": "(3 of) Cuba, Jamaica, Hispaniola, Puerto Rico",
+          "isDailyDouble": true,
+          "orderNumber": 20,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Richard",
+              "score": 6200
+            },
+            {
+              "player": "Erik",
+              "score": 7700
+            },
+            {
+              "player": "Lisa",
+              "score": 3500
+            }
+          ]
+        },
+        {
+          "category": "ISLANDS",
+          "value": 1000,
+          "clue": "Named for a fire god, Surtsey emerged from the Atlantic in '63 & became part of this country",
+          "answer": "Iceland",
+          "isDailyDouble": false,
+          "orderNumber": 21,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Richard",
+              "score": 7200
+            },
+            {
+              "player": "Erik",
+              "score": 7700
+            },
+            {
+              "player": "Lisa",
+              "score": 3500
+            }
+          ]
+        },
+        {
+          "category": "REPUBLICANS",
+          "value": 400,
+          "clue": "Christian Herter succeeded this man as Eisenhower's Secretary of State",
+          "answer": "John Foster Dulles",
+          "isDailyDouble": false,
+          "orderNumber": 22,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Richard",
+              "score": 7600
+            },
+            {
+              "player": "Erik",
+              "score": 7700
+            },
+            {
+              "player": "Lisa",
+              "score": 3500
+            }
+          ]
+        },
+        {
+          "category": "REPUBLICANS",
+          "value": 600,
+          "clue": "The grandson of this longtime Philadelphia A's manager has been Florida's junior senator since 1989",
+          "answer": "Connie Mack",
+          "isDailyDouble": false,
+          "orderNumber": 23,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Richard",
+              "score": 7600
+            },
+            {
+              "player": "Erik",
+              "score": 8300
+            },
+            {
+              "player": "Lisa",
+              "score": 3500
+            }
+          ]
+        },
+        {
+          "category": "POETRY",
+          "value": 200,
+          "clue": "Poe wrote, \"They tinkle, tinkle, tinkle, in the icy air of night!\"",
+          "answer": "the bells",
+          "isDailyDouble": false,
+          "orderNumber": 24,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Richard",
+              "score": 7800
+            },
+            {
+              "player": "Erik",
+              "score": 8300
+            },
+            {
+              "player": "Lisa",
+              "score": 3500
+            }
+          ]
+        },
+        {
+          "category": "REPUBLICANS",
+          "value": 800,
+          "clue": "Nixon's running mate in 1960, he was ambassador to South Vietnam under JFK & LBJ",
+          "answer": "(Henry Cabot) Lodge",
+          "isDailyDouble": false,
+          "orderNumber": 25,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Richard",
+              "score": 8600
+            },
+            {
+              "player": "Erik",
+              "score": 8300
+            },
+            {
+              "player": "Lisa",
+              "score": 3500
+            }
+          ]
+        },
+        {
+          "category": "REPUBLICANS",
+          "value": 1000,
+          "clue": "In 1984, the year after he switched to the G.O.P., he was elected a senator from Texas",
+          "answer": "Phil Gramm",
+          "isDailyDouble": false,
+          "orderNumber": 26,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Richard",
+              "score": 8600
+            },
+            {
+              "player": "Erik",
+              "score": 9300
+            },
+            {
+              "player": "Lisa",
+              "score": 3500
+            }
+          ]
+        },
+        {
+          "category": "POETRY",
+          "value": 400,
+          "clue": "This Illinois poet wrote what many consider to be the definitive biography of Abraham Lincoln",
+          "answer": "Carl Sandburg",
+          "isDailyDouble": false,
+          "orderNumber": 27,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Richard",
+              "score": 9000
+            },
+            {
+              "player": "Erik",
+              "score": 9300
+            },
+            {
+              "player": "Lisa",
+              "score": 3500
+            }
+          ]
+        },
+        {
+          "category": "POETRY",
+          "value": 600,
+          "clue": "He wrote, \"Home is the place where, when you have to go there, they have to take you in\"",
+          "answer": "Robert Frost",
+          "isDailyDouble": false,
+          "orderNumber": 28,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Richard",
+              "score": 9000
+            },
+            {
+              "player": "Erik",
+              "score": 9300
+            },
+            {
+              "player": "Lisa",
+              "score": 3500
+            }
+          ]
+        },
+        {
+          "category": "POETRY",
+          "value": 900,
+          "clue": "This 1928 poem by Stephen Vincent Benet includes lines from the song \"Dixie\"",
+          "answer": "\"John Brown's Body\"",
+          "isDailyDouble": true,
+          "orderNumber": 29,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Richard",
+              "score": 9900
+            },
+            {
+              "player": "Erik",
+              "score": 9300
+            },
+            {
+              "player": "Lisa",
+              "score": 3500
+            }
+          ]
+        },
+        {
+          "category": "POETRY",
+          "value": 1000,
+          "clue": "While in prison he wrote, \"I could not love thee, dear, so much, loved I not honor more\"",
+          "answer": "Richard Lovelace",
+          "isDailyDouble": false,
+          "orderNumber": 30,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Lisa"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Richard",
+              "score": 9900
+            },
+            {
+              "player": "Erik",
+              "score": 8300
+            },
+            {
+              "player": "Lisa",
+              "score": 2500
+            }
+          ]
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "Richard",
+          "score": 9900
+        },
+        {
+          "player": "Erik",
+          "score": 8300
+        },
+        {
+          "player": "Lisa",
+          "score": 2500
+        }
+      ]
+    },
+    "finalJeopardy": {
+      "category": "WORLD GEOGRAPHY",
+      "clue": "This country contains South America's highest & lowest points",
+      "answer": "Argentina",
+      "responses": [
+        {
+          "contestant": "Lisa",
+          "response": "What is Chile?",
+          "isCorrect": false,
+          "isIncorrect": true,
+          "value": 2500,
+          "finalScore": 0
+        },
+        {
+          "contestant": "Erik",
+          "response": "What is Chile?",
+          "isCorrect": false,
+          "isIncorrect": true,
+          "value": 700,
+          "finalScore": 7600
+        },
+        {
+          "contestant": "Richard",
+          "response": "What is Chile?",
+          "isCorrect": false,
+          "isIncorrect": true,
+          "value": 7000,
+          "finalScore": 2900
+        }
+      ]
+    }
+  },
+  "finalScores": [
+    {
+      "player": "Richard",
+      "score": "$2,900"
+    },
+    {
+      "player": "Erik",
+      "score": "$7,600"
+    },
+    {
+      "player": "Lisa",
+      "score": "$0"
+    }
+  ],
+  "coryatScores": [
+    {
+      "player": "Richard",
+      "score": 9800
+    },
+    {
+      "player": "Erik",
+      "score": 7600
+    },
+    {
+      "player": "Lisa",
+      "score": 2500
+    }
+  ]
+}

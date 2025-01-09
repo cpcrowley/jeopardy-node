@@ -1,0 +1,1705 @@
+{
+  "gameId": 3501,
+  "showNumber": "482",
+  "title": "Show #482 - Tuesday, October 14, 1986",
+  "date": "1986-10-14",
+  "comments": "Dave Traini game 3.",
+  "contestants": [
+    "Dave",
+    "Ian",
+    "Paul"
+  ],
+  "rounds": {
+    "jeopardy": {
+      "categories": [
+        "ROMANIA",
+        "MUSICALS",
+        "MILK",
+        "ICE HOCKEY",
+        "THE BIBLE",
+        "\"GLAD\" TIDINGS"
+      ],
+      "clues": [
+        {
+          "category": "ROMANIA",
+          "value": 100,
+          "clue": "Legend holds that a shepherd named Bucur founded this capital city",
+          "answer": "Bucharest",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [
+            "Paul"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Dave",
+              "score": 0
+            },
+            {
+              "player": "Ian",
+              "score": 0
+            },
+            {
+              "player": "Paul",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "category": "MILK",
+          "value": 100,
+          "clue": "Process in which fat globules are broken up so that they don't rise to the top",
+          "answer": "homogenization",
+          "isDailyDouble": false,
+          "orderNumber": 2,
+          "correctContestants": [
+            "Paul"
+          ],
+          "incorrectContestants": [
+            "Dave"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Dave",
+              "score": -100
+            },
+            {
+              "player": "Ian",
+              "score": 0
+            },
+            {
+              "player": "Paul",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "MILK",
+          "value": 200,
+          "clue": "Appropriately, this state called \"America's Dairyland\" leads the U.S. in milk production",
+          "answer": "Wisconsin",
+          "isDailyDouble": false,
+          "orderNumber": 3,
+          "correctContestants": [
+            "Dave"
+          ],
+          "incorrectContestants": [
+            "Ian"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Dave",
+              "score": 100
+            },
+            {
+              "player": "Ian",
+              "score": -200
+            },
+            {
+              "player": "Paul",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "ROMANIA",
+          "value": 200,
+          "clue": "On TV's \"The Munsters\", part of Romania where Grandpa was born & Herman was assembled",
+          "answer": "Transylvania",
+          "isDailyDouble": false,
+          "orderNumber": 4,
+          "correctContestants": [
+            "Paul"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Dave",
+              "score": 100
+            },
+            {
+              "player": "Ian",
+              "score": -200
+            },
+            {
+              "player": "Paul",
+              "score": 400
+            }
+          ]
+        },
+        {
+          "category": "MILK",
+          "value": 300,
+          "clue": "A milking machine has this many milking cups",
+          "answer": "4",
+          "isDailyDouble": false,
+          "orderNumber": 5,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Ian"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Dave",
+              "score": 100
+            },
+            {
+              "player": "Ian",
+              "score": -500
+            },
+            {
+              "player": "Paul",
+              "score": 400
+            }
+          ]
+        },
+        {
+          "category": "MILK",
+          "value": 400,
+          "clue": "Skim milk is fortified with D & this vitamin that's lost when the butterfat is removed",
+          "answer": "vitamin A",
+          "isDailyDouble": false,
+          "orderNumber": 6,
+          "correctContestants": [
+            "Ian"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Dave",
+              "score": 100
+            },
+            {
+              "player": "Ian",
+              "score": -100
+            },
+            {
+              "player": "Paul",
+              "score": 400
+            }
+          ]
+        },
+        {
+          "category": "MUSICALS",
+          "value": 100,
+          "clue": "Before it changed direction, this musical was called \"East Side Story\"",
+          "answer": "West Side Story",
+          "isDailyDouble": false,
+          "orderNumber": 7,
+          "correctContestants": [
+            "Ian"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Dave",
+              "score": 100
+            },
+            {
+              "player": "Ian",
+              "score": 0
+            },
+            {
+              "player": "Paul",
+              "score": 400
+            }
+          ]
+        },
+        {
+          "category": "MUSICALS",
+          "value": 200,
+          "clue": "Because Fanny Brice conceived his wife, Ray Stark conceived this musical",
+          "answer": "Funny Girl",
+          "isDailyDouble": false,
+          "orderNumber": 8,
+          "correctContestants": [
+            "Ian"
+          ],
+          "incorrectContestants": [
+            "Dave"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Dave",
+              "score": -100
+            },
+            {
+              "player": "Ian",
+              "score": 200
+            },
+            {
+              "player": "Paul",
+              "score": 400
+            }
+          ]
+        },
+        {
+          "category": "MUSICALS",
+          "value": 300,
+          "clue": "It opened, appropriately, at the Majestic & marked the musical stage debut of Richard Burton",
+          "answer": "Camelot",
+          "isDailyDouble": false,
+          "orderNumber": 9,
+          "correctContestants": [
+            "Dave"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Dave",
+              "score": 200
+            },
+            {
+              "player": "Ian",
+              "score": 200
+            },
+            {
+              "player": "Paul",
+              "score": 400
+            }
+          ]
+        },
+        {
+          "category": "MUSICALS",
+          "value": 400,
+          "clue": "In \"1776\", Mrs. Jefferson sings that her \"strings are unstrung\" when Tom tucks this under his chin",
+          "answer": "his violin",
+          "isDailyDouble": false,
+          "orderNumber": 10,
+          "correctContestants": [
+            "Ian"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Dave",
+              "score": 200
+            },
+            {
+              "player": "Ian",
+              "score": 600
+            },
+            {
+              "player": "Paul",
+              "score": 400
+            }
+          ]
+        },
+        {
+          "category": "MUSICALS",
+          "value": 500,
+          "clue": "Broadway hit in which Lola sings, \"I took the zing out of the King of Siam\"",
+          "answer": "Damn Yankees!",
+          "isDailyDouble": false,
+          "orderNumber": 11,
+          "correctContestants": [
+            "Ian"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Dave",
+              "score": 200
+            },
+            {
+              "player": "Ian",
+              "score": 1100
+            },
+            {
+              "player": "Paul",
+              "score": 400
+            }
+          ]
+        },
+        {
+          "category": "\"GLAD\" TIDINGS",
+          "value": 100,
+          "clue": "Colosseum combatants of ancient Rome",
+          "answer": "the gladiators",
+          "isDailyDouble": false,
+          "orderNumber": 12,
+          "correctContestants": [
+            "Dave"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Dave",
+              "score": 300
+            },
+            {
+              "player": "Ian",
+              "score": 1100
+            },
+            {
+              "player": "Paul",
+              "score": 400
+            }
+          ]
+        },
+        {
+          "category": "\"GLAD\" TIDINGS",
+          "value": 200,
+          "clue": "1st line of Carol Burnett's theme",
+          "answer": "\"I'm so glad we had this time together\"",
+          "isDailyDouble": false,
+          "orderNumber": 13,
+          "correctContestants": [
+            "Ian"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Dave",
+              "score": 300
+            },
+            {
+              "player": "Ian",
+              "score": 1300
+            },
+            {
+              "player": "Paul",
+              "score": 400
+            }
+          ]
+        },
+        {
+          "category": "\"GLAD\" TIDINGS",
+          "value": 300,
+          "clue": "Your best \"fun\" clothing",
+          "answer": "your glad rags",
+          "isDailyDouble": false,
+          "orderNumber": 14,
+          "correctContestants": [
+            "Ian"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Dave",
+              "score": 300
+            },
+            {
+              "player": "Ian",
+              "score": 1600
+            },
+            {
+              "player": "Paul",
+              "score": 400
+            }
+          ]
+        },
+        {
+          "category": "\"GLAD\" TIDINGS",
+          "value": 400,
+          "clue": "Named for a 19th century British statesman, it's a suitcase hinged to open flat",
+          "answer": "Gladstone",
+          "isDailyDouble": false,
+          "orderNumber": 15,
+          "correctContestants": [
+            "Dave"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Dave",
+              "score": 700
+            },
+            {
+              "player": "Ian",
+              "score": 1600
+            },
+            {
+              "player": "Paul",
+              "score": 400
+            }
+          ]
+        },
+        {
+          "category": "\"GLAD\" TIDINGS",
+          "value": 500,
+          "clue": "On \"Bewitched\", she was the nosy neighbor of Darren & Samantha Stevens",
+          "answer": "Gladys Kravitz",
+          "isDailyDouble": false,
+          "orderNumber": 16,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Dave",
+            "Ian"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Dave",
+              "score": 200
+            },
+            {
+              "player": "Ian",
+              "score": 1100
+            },
+            {
+              "player": "Paul",
+              "score": 400
+            }
+          ]
+        },
+        {
+          "category": "ROMANIA",
+          "value": 300,
+          "clue": "Of Minn., Mo., or La., the U.S. state sharing same geographic latitude as Romania",
+          "answer": "Minnesota",
+          "isDailyDouble": false,
+          "orderNumber": 17,
+          "correctContestants": [
+            "Paul"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Dave",
+              "score": 200
+            },
+            {
+              "player": "Ian",
+              "score": 1100
+            },
+            {
+              "player": "Paul",
+              "score": 700
+            }
+          ]
+        },
+        {
+          "category": "MILK",
+          "value": 500,
+          "clue": "This principal sugar of milk is not found in any other natural foods",
+          "answer": "lactose",
+          "isDailyDouble": false,
+          "orderNumber": 18,
+          "correctContestants": [
+            "Paul"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Dave",
+              "score": 200
+            },
+            {
+              "player": "Ian",
+              "score": 1100
+            },
+            {
+              "player": "Paul",
+              "score": 1200
+            }
+          ]
+        },
+        {
+          "category": "ROMANIA",
+          "value": 400,
+          "clue": "The delta of this major European river is in Romania",
+          "answer": "the Danube",
+          "isDailyDouble": false,
+          "orderNumber": 19,
+          "correctContestants": [
+            "Dave"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Dave",
+              "score": 600
+            },
+            {
+              "player": "Ian",
+              "score": 1100
+            },
+            {
+              "player": "Paul",
+              "score": 1200
+            }
+          ]
+        },
+        {
+          "category": "ROMANIA",
+          "value": 500,
+          "clue": "In Hawaii, if you get a lei, you get flowers; in Romania, if you get lei, you get this",
+          "answer": "the coins or the currency of the country",
+          "isDailyDouble": false,
+          "orderNumber": 20,
+          "correctContestants": [
+            "Dave"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Dave",
+              "score": 1100
+            },
+            {
+              "player": "Ian",
+              "score": 1100
+            },
+            {
+              "player": "Paul",
+              "score": 1200
+            }
+          ]
+        },
+        {
+          "category": "THE BIBLE",
+          "value": 100,
+          "clue": "Isaac sent this hairy son, not Jacob, to go hunting for venison",
+          "answer": "Esau",
+          "isDailyDouble": false,
+          "orderNumber": 21,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Dave",
+              "score": 1100
+            },
+            {
+              "player": "Ian",
+              "score": 1100
+            },
+            {
+              "player": "Paul",
+              "score": 1200
+            }
+          ]
+        },
+        {
+          "category": "THE BIBLE",
+          "value": 200,
+          "clue": "Name of this king, who had a peaceful reign, derives from \"Shalom\", meaning \"peace\"",
+          "answer": "Solomon",
+          "isDailyDouble": false,
+          "orderNumber": 22,
+          "correctContestants": [
+            "Ian"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Dave",
+              "score": 1100
+            },
+            {
+              "player": "Ian",
+              "score": 1300
+            },
+            {
+              "player": "Paul",
+              "score": 1200
+            }
+          ]
+        },
+        {
+          "category": "THE BIBLE",
+          "value": 300,
+          "clue": "Biblical prophecy portrayed by this N.Y. sculpture:",
+          "answer": "\"They shall beat their swords into plowshares.\"",
+          "isDailyDouble": true,
+          "orderNumber": 23,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Ian"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Dave",
+              "score": 1100
+            },
+            {
+              "player": "Ian",
+              "score": 1000
+            },
+            {
+              "player": "Paul",
+              "score": 1200
+            }
+          ]
+        },
+        {
+          "category": "ICE HOCKEY",
+          "value": 100,
+          "clue": "Demonic name of New Jersey's franchise",
+          "answer": "the Devils",
+          "isDailyDouble": false,
+          "orderNumber": 24,
+          "correctContestants": [
+            "Dave"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Dave",
+              "score": 1200
+            },
+            {
+              "player": "Ian",
+              "score": 1000
+            },
+            {
+              "player": "Paul",
+              "score": 1200
+            }
+          ]
+        },
+        {
+          "category": "ICE HOCKEY",
+          "value": 200,
+          "clue": "City whose '74 & '75 NHL champs, the Flyers, were called the \"Broad Street Bullies\"",
+          "answer": "Philadelphia",
+          "isDailyDouble": false,
+          "orderNumber": 25,
+          "correctContestants": [
+            "Dave"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Dave",
+              "score": 1400
+            },
+            {
+              "player": "Ian",
+              "score": 1000
+            },
+            {
+              "player": "Paul",
+              "score": 1200
+            }
+          ]
+        },
+        {
+          "category": "ICE HOCKEY",
+          "value": 300,
+          "clue": "Edmonton struck oil when they signed him in 1978 at age 17",
+          "answer": "Wayne Gretzky",
+          "isDailyDouble": false,
+          "orderNumber": 26,
+          "correctContestants": [
+            "Ian"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Dave",
+              "score": 1400
+            },
+            {
+              "player": "Ian",
+              "score": 1300
+            },
+            {
+              "player": "Paul",
+              "score": 1200
+            }
+          ]
+        },
+        {
+          "category": "ICE HOCKEY",
+          "value": 400,
+          "clue": "All-time great goalie Jacques Plante is also remembered for popularizing this piece of equipment",
+          "answer": "the facemask",
+          "isDailyDouble": false,
+          "orderNumber": 27,
+          "correctContestants": [
+            "Dave"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Dave",
+              "score": 1800
+            },
+            {
+              "player": "Ian",
+              "score": 1300
+            },
+            {
+              "player": "Paul",
+              "score": 1200
+            }
+          ]
+        },
+        {
+          "category": "THE BIBLE",
+          "value": 400,
+          "clue": "When they were slaves, the Israelites lived in this part of the land O'Egypt",
+          "answer": "Goshen",
+          "isDailyDouble": false,
+          "orderNumber": 28,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Dave",
+              "score": 1800
+            },
+            {
+              "player": "Ian",
+              "score": 1300
+            },
+            {
+              "player": "Paul",
+              "score": 1200
+            }
+          ]
+        },
+        {
+          "category": "THE BIBLE",
+          "value": 500,
+          "clue": "Relationship of Naomi to Ruth",
+          "answer": "mother-in-law",
+          "isDailyDouble": false,
+          "orderNumber": 29,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Ian",
+            "Paul"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Dave",
+              "score": 1800
+            },
+            {
+              "player": "Ian",
+              "score": 800
+            },
+            {
+              "player": "Paul",
+              "score": 700
+            }
+          ]
+        },
+        {
+          "category": "ICE HOCKEY",
+          "value": 500,
+          "clue": "With over 3000 of these, Dave Williams holds an ignominious record",
+          "answer": "penalty minutes",
+          "isDailyDouble": false,
+          "orderNumber": 30,
+          "correctContestants": [
+            "Dave"
+          ],
+          "incorrectContestants": [
+            "Ian"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Dave",
+              "score": 2300
+            },
+            {
+              "player": "Ian",
+              "score": 300
+            },
+            {
+              "player": "Paul",
+              "score": 700
+            }
+          ]
+        }
+      ],
+      "firstBreakScores": [
+        {
+          "player": "Dave",
+          "score": 300
+        },
+        {
+          "player": "Ian",
+          "score": 1600
+        },
+        {
+          "player": "Paul",
+          "score": 400
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "Dave",
+          "score": 2300
+        },
+        {
+          "player": "Ian",
+          "score": 300
+        },
+        {
+          "player": "Paul",
+          "score": 700
+        }
+      ]
+    },
+    "doubleJeopardy": {
+      "categories": [
+        "AMERICAN REVOLUTION",
+        "HOMOPHONES",
+        "ACTORS & ROLES",
+        "NOTORIOUS",
+        "ECOLOGY",
+        "FAMOUS LASTS"
+      ],
+      "clues": [
+        {
+          "category": "ACTORS & ROLES",
+          "value": 200,
+          "clue": "This macadamia nut rancher said, \"I don't know where I stop & Gomer begins\"",
+          "answer": "Jim Nabors",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Dave",
+              "score": 2500
+            },
+            {
+              "player": "Ian",
+              "score": 300
+            },
+            {
+              "player": "Paul",
+              "score": 700
+            }
+          ]
+        },
+        {
+          "category": "ACTORS & ROLES",
+          "value": 400,
+          "clue": "Lawrence Olivier was fired from \"Queen Christina\" because he was \"too nervous and scared of\" this Swede",
+          "answer": "Greta Garbo",
+          "isDailyDouble": false,
+          "orderNumber": 2,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Dave",
+              "score": 2500
+            },
+            {
+              "player": "Ian",
+              "score": 300
+            },
+            {
+              "player": "Paul",
+              "score": 300
+            }
+          ]
+        },
+        {
+          "category": "ACTORS & ROLES",
+          "value": 2000,
+          "clue": "Peter O'Toole has received 2 Oscar nominations for playing King Henry II, 1 for each of these 2 films",
+          "answer": "The Lion in Winter & Beckett",
+          "isDailyDouble": true,
+          "orderNumber": 3,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Dave",
+              "score": 4500
+            },
+            {
+              "player": "Ian",
+              "score": 300
+            },
+            {
+              "player": "Paul",
+              "score": 300
+            }
+          ]
+        },
+        {
+          "category": "ACTORS & ROLES",
+          "value": 800,
+          "clue": "He escaped the Nazis in \"The Sound of Music\", but they caught & shot him in \"Crossings\"",
+          "answer": "Christopher Plummer",
+          "isDailyDouble": false,
+          "orderNumber": 4,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Dave",
+              "score": 4500
+            },
+            {
+              "player": "Ian",
+              "score": 1100
+            },
+            {
+              "player": "Paul",
+              "score": 300
+            }
+          ]
+        },
+        {
+          "category": "ACTORS & ROLES",
+          "value": 1000,
+          "clue": "Joan Crawford played this Somerset Maugham trollop before Hayworth, but Rita did it in 3-D",
+          "answer": "Sadie Thompson",
+          "isDailyDouble": false,
+          "orderNumber": 5,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Dave",
+              "score": 4500
+            },
+            {
+              "player": "Ian",
+              "score": 1100
+            },
+            {
+              "player": "Paul",
+              "score": 300
+            }
+          ]
+        },
+        {
+          "category": "HOMOPHONES",
+          "value": 200,
+          "clue": "Crafted, or the upstairs cleaning lady",
+          "answer": "made/maid",
+          "isDailyDouble": false,
+          "orderNumber": 6,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Dave",
+              "score": 4500
+            },
+            {
+              "player": "Ian",
+              "score": 1100
+            },
+            {
+              "player": "Paul",
+              "score": 500
+            }
+          ]
+        },
+        {
+          "category": "HOMOPHONES",
+          "value": 400,
+          "clue": "Run away from a tiny circus bug",
+          "answer": "flee/flea",
+          "isDailyDouble": false,
+          "orderNumber": 7,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Dave",
+              "score": 4500
+            },
+            {
+              "player": "Ian",
+              "score": 1100
+            },
+            {
+              "player": "Paul",
+              "score": 500
+            }
+          ]
+        },
+        {
+          "category": "HOMOPHONES",
+          "value": 600,
+          "clue": "Fuel from a bog, or the \"Little Rascal\" dog",
+          "answer": "peat/Pete",
+          "isDailyDouble": false,
+          "orderNumber": 8,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Dave",
+              "score": 4500
+            },
+            {
+              "player": "Ian",
+              "score": 1100
+            },
+            {
+              "player": "Paul",
+              "score": 1100
+            }
+          ]
+        },
+        {
+          "category": "HOMOPHONES",
+          "value": 800,
+          "clue": "Followed footprints through the forest, or a large expanse of land",
+          "answer": "tracked/tract",
+          "isDailyDouble": false,
+          "orderNumber": 9,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Dave",
+              "score": 3700
+            },
+            {
+              "player": "Ian",
+              "score": 1100
+            },
+            {
+              "player": "Paul",
+              "score": 1100
+            }
+          ]
+        },
+        {
+          "category": "HOMOPHONES",
+          "value": 1000,
+          "clue": "A serving piece that can be fancy, or a fancy name for a card in the deck",
+          "answer": "the tray/trey",
+          "isDailyDouble": false,
+          "orderNumber": 10,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Dave",
+              "score": 3700
+            },
+            {
+              "player": "Ian",
+              "score": 1100
+            },
+            {
+              "player": "Paul",
+              "score": 1100
+            }
+          ]
+        },
+        {
+          "category": "AMERICAN REVOLUTION",
+          "value": 200,
+          "clue": "\"We have 2,898 men unfit for duty because they are barefooted,\" Washington wrote from there",
+          "answer": "Valley Forge",
+          "isDailyDouble": false,
+          "orderNumber": 11,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Dave",
+              "score": 3700
+            },
+            {
+              "player": "Ian",
+              "score": 1300
+            },
+            {
+              "player": "Paul",
+              "score": 1100
+            }
+          ]
+        },
+        {
+          "category": "NOTORIOUS",
+          "value": 200,
+          "clue": "\"Cattle Kate\" Watson who traded sex for stolen steers met this \"swinging\" fate",
+          "answer": "being hanged",
+          "isDailyDouble": false,
+          "orderNumber": 12,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Dave",
+              "score": 3900
+            },
+            {
+              "player": "Ian",
+              "score": 1300
+            },
+            {
+              "player": "Paul",
+              "score": 1100
+            }
+          ]
+        },
+        {
+          "category": "AMERICAN REVOLUTION",
+          "value": 400,
+          "clue": "Having helped incite the revolution by writing \"Common Sense\", he later went back to England",
+          "answer": "Thomas Paine",
+          "isDailyDouble": false,
+          "orderNumber": 13,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Dave",
+              "score": 4300
+            },
+            {
+              "player": "Ian",
+              "score": 1300
+            },
+            {
+              "player": "Paul",
+              "score": 1100
+            }
+          ]
+        },
+        {
+          "category": "AMERICAN REVOLUTION",
+          "value": 600,
+          "clue": "Oct. '77 battle near this Upstate N.Y. spa was called the turning point of war & brought France in on our side",
+          "answer": "Battle of Saratoga",
+          "isDailyDouble": false,
+          "orderNumber": 14,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Dave",
+              "score": 4900
+            },
+            {
+              "player": "Ian",
+              "score": 1300
+            },
+            {
+              "player": "Paul",
+              "score": 1100
+            }
+          ]
+        },
+        {
+          "category": "AMERICAN REVOLUTION",
+          "value": 800,
+          "clue": "From 1770 thru the end of the revolution, Lord North held this position",
+          "answer": "Prime Minister of England",
+          "isDailyDouble": false,
+          "orderNumber": 15,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Dave",
+              "score": 4900
+            },
+            {
+              "player": "Ian",
+              "score": 1300
+            },
+            {
+              "player": "Paul",
+              "score": 1900
+            }
+          ]
+        },
+        {
+          "category": "AMERICAN REVOLUTION",
+          "value": 1800,
+          "clue": "In celebrated speech, Patrick Henry reminded George III that Caesar & Charles I \"had\" these 2 men",
+          "answer": "Brutus & Cromwell",
+          "isDailyDouble": true,
+          "orderNumber": 16,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Dave",
+              "score": 4900
+            },
+            {
+              "player": "Ian",
+              "score": 1300
+            },
+            {
+              "player": "Paul",
+              "score": 3700
+            }
+          ]
+        },
+        {
+          "category": "NOTORIOUS",
+          "value": 400,
+          "clue": "This writer spruced up old clippings & goosed McGraw-Hill with a fake autobiography of H. Hughes",
+          "answer": "Clifford Irving",
+          "isDailyDouble": false,
+          "orderNumber": 17,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Dave",
+              "score": 5300
+            },
+            {
+              "player": "Ian",
+              "score": 1300
+            },
+            {
+              "player": "Paul",
+              "score": 3700
+            }
+          ]
+        },
+        {
+          "category": "NOTORIOUS",
+          "value": 600,
+          "clue": "Marie Lafarge's French pastry had this element, atomic #33, which sent her to prison",
+          "answer": "arsenic",
+          "isDailyDouble": false,
+          "orderNumber": 18,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Dave",
+              "score": 5300
+            },
+            {
+              "player": "Ian",
+              "score": 1300
+            },
+            {
+              "player": "Paul",
+              "score": 4300
+            }
+          ]
+        },
+        {
+          "category": "NOTORIOUS",
+          "value": 800,
+          "clue": "In addition to his more historic crime, he was charged with killing policeman J.D. Tippit",
+          "answer": "Lee Harvey Oswald",
+          "isDailyDouble": false,
+          "orderNumber": 19,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Dave",
+              "score": 6100
+            },
+            {
+              "player": "Ian",
+              "score": 1300
+            },
+            {
+              "player": "Paul",
+              "score": 4300
+            }
+          ]
+        },
+        {
+          "category": "NOTORIOUS",
+          "value": 1000,
+          "clue": "This 1966 mass murderer of Chicago Nurses wore a tattoo reading \"Born to raise hell\"",
+          "answer": "(Richard) Speck",
+          "isDailyDouble": false,
+          "orderNumber": 20,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Dave",
+              "score": 7100
+            },
+            {
+              "player": "Ian",
+              "score": 1300
+            },
+            {
+              "player": "Paul",
+              "score": 4300
+            }
+          ]
+        },
+        {
+          "category": "FAMOUS LASTS",
+          "value": 200,
+          "clue": "He last hit #1 on the singles charts with \"Suspicious Minds\" in 1969",
+          "answer": "Elvis Presley",
+          "isDailyDouble": false,
+          "orderNumber": 21,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Dave",
+              "score": 7100
+            },
+            {
+              "player": "Ian",
+              "score": 1300
+            },
+            {
+              "player": "Paul",
+              "score": 4500
+            }
+          ]
+        },
+        {
+          "category": "FAMOUS LASTS",
+          "value": 400,
+          "clue": "The night before he passed away in 1566, he made his last prediction, his death",
+          "answer": "Nostradamus",
+          "isDailyDouble": false,
+          "orderNumber": 22,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Dave",
+              "score": 7100
+            },
+            {
+              "player": "Ian",
+              "score": 1300
+            },
+            {
+              "player": "Paul",
+              "score": 4900
+            }
+          ]
+        },
+        {
+          "category": "FAMOUS LASTS",
+          "value": 1000,
+          "clue": "January 1, 1971 was the last day these were seen on U.S. television",
+          "answer": "cigarette commercials",
+          "isDailyDouble": false,
+          "orderNumber": 23,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Dave",
+              "score": 7100
+            },
+            {
+              "player": "Ian",
+              "score": 2300
+            },
+            {
+              "player": "Paul",
+              "score": 4900
+            }
+          ]
+        },
+        {
+          "category": "ECOLOGY",
+          "value": 1000,
+          "clue": "Author of \"Science & Survival\" & 1980 Citizens' Party candidate for president",
+          "answer": "Barry Commoner",
+          "isDailyDouble": false,
+          "orderNumber": 24,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Dave",
+              "score": 7100
+            },
+            {
+              "player": "Ian",
+              "score": 2300
+            },
+            {
+              "player": "Paul",
+              "score": 5900
+            }
+          ]
+        },
+        {
+          "category": "FAMOUS LASTS",
+          "value": 800,
+          "clue": "Alexander VI (Borgia) was the last Pope to acknowledge having them",
+          "answer": "children",
+          "isDailyDouble": false,
+          "orderNumber": 25,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Dave",
+              "score": 7900
+            },
+            {
+              "player": "Ian",
+              "score": 2300
+            },
+            {
+              "player": "Paul",
+              "score": 5900
+            }
+          ]
+        },
+        {
+          "category": "ECOLOGY",
+          "value": 800,
+          "clue": "W. Germany's colorful ecology-minded party, they won 27 seats in the Bundestag in their 1st election",
+          "answer": "the Greens",
+          "isDailyDouble": false,
+          "orderNumber": 26,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Dave",
+              "score": 8700
+            },
+            {
+              "player": "Ian",
+              "score": 2300
+            },
+            {
+              "player": "Paul",
+              "score": 5900
+            }
+          ]
+        },
+        {
+          "category": "ECOLOGY",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Dave",
+              "score": 8700
+            },
+            {
+              "player": "Ian",
+              "score": 2300
+            },
+            {
+              "player": "Paul",
+              "score": 5900
+            }
+          ]
+        },
+        {
+          "category": "ECOLOGY",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Dave",
+              "score": 8700
+            },
+            {
+              "player": "Ian",
+              "score": 2300
+            },
+            {
+              "player": "Paul",
+              "score": 5900
+            }
+          ]
+        },
+        {
+          "category": "ECOLOGY",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Dave",
+              "score": 8700
+            },
+            {
+              "player": "Ian",
+              "score": 2300
+            },
+            {
+              "player": "Paul",
+              "score": 5900
+            }
+          ]
+        },
+        {
+          "category": "FAMOUS LASTS",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Dave",
+              "score": 8700
+            },
+            {
+              "player": "Ian",
+              "score": 2300
+            },
+            {
+              "player": "Paul",
+              "score": 5900
+            }
+          ]
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "Dave",
+          "score": 8700
+        },
+        {
+          "player": "Ian",
+          "score": 2300
+        },
+        {
+          "player": "Paul",
+          "score": 5900
+        }
+      ]
+    },
+    "finalJeopardy": {
+      "category": "BUSINESS & INDUSTRY",
+      "clue": "In 1985, this Michigan-based company was the nation's largest single exporter",
+      "answer": "General Motors",
+      "responses": [
+        {
+          "contestant": "Ian",
+          "response": "Who is Ford?",
+          "isCorrect": false,
+          "isIncorrect": true,
+          "value": 2000,
+          "finalScore": 300
+        },
+        {
+          "contestant": "Paul",
+          "response": "What is Dow Chemical?",
+          "isCorrect": false,
+          "isIncorrect": true,
+          "value": 5900,
+          "finalScore": 0
+        },
+        {
+          "contestant": "Dave",
+          "response": "What is Ford",
+          "isCorrect": false,
+          "isIncorrect": true,
+          "value": 3300,
+          "finalScore": 5400
+        }
+      ]
+    }
+  },
+  "finalScores": [
+    {
+      "player": "Dave",
+      "score": "$5,400"
+    },
+    {
+      "player": "Ian",
+      "score": "$300"
+    },
+    {
+      "player": "Paul",
+      "score": "$0"
+    }
+  ],
+  "coryatScores": [
+    {
+      "player": "Dave",
+      "score": 7300
+    },
+    {
+      "player": "Ian",
+      "score": 2600
+    },
+    {
+      "player": "Paul",
+      "score": 5100
+    }
+  ]
+}

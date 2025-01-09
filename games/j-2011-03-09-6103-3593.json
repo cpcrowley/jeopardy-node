@@ -1,0 +1,1695 @@
+{
+  "gameId": 3593,
+  "showNumber": "6103",
+  "title": "Show #6103 - Wednesday, March 9, 2011",
+  "date": "2011-03-09",
+  "comments": "",
+  "contestants": [
+    "Mike",
+    "Harley",
+    "Quinn"
+  ],
+  "rounds": {
+    "jeopardy": {
+      "categories": [
+        "COUNTRIES' SECOND-LARGEST CITIES",
+        "ALPHABET HOMOPHONES",
+        "WHO'S THE BOSS?",
+        "LET'S HAVE CHINESE",
+        "ROBERTS RULE",
+        "OF ORDER"
+      ],
+      "clues": [
+        {
+          "category": "COUNTRIES' SECOND-LARGEST CITIES",
+          "value": 200,
+          "clue": "Thessaloniki",
+          "answer": "Greece",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [
+            "Harley"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mike",
+              "score": 0
+            },
+            {
+              "player": "Harley",
+              "score": 200
+            },
+            {
+              "player": "Quinn",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "COUNTRIES' SECOND-LARGEST CITIES",
+          "value": 400,
+          "clue": "Medellin",
+          "answer": "Colombia",
+          "isDailyDouble": false,
+          "orderNumber": 2,
+          "correctContestants": [
+            "Mike"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mike",
+              "score": 400
+            },
+            {
+              "player": "Harley",
+              "score": 200
+            },
+            {
+              "player": "Quinn",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "COUNTRIES' SECOND-LARGEST CITIES",
+          "value": 600,
+          "clue": "Bergen",
+          "answer": "Norway",
+          "isDailyDouble": false,
+          "orderNumber": 3,
+          "correctContestants": [
+            "Harley"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mike",
+              "score": 400
+            },
+            {
+              "player": "Harley",
+              "score": 800
+            },
+            {
+              "player": "Quinn",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "COUNTRIES' SECOND-LARGEST CITIES",
+          "value": 800,
+          "clue": "Mandalay",
+          "answer": "Myanmar (or Burma)",
+          "isDailyDouble": false,
+          "orderNumber": 4,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Mike",
+              "score": 400
+            },
+            {
+              "player": "Harley",
+              "score": 800
+            },
+            {
+              "player": "Quinn",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "COUNTRIES' SECOND-LARGEST CITIES",
+          "value": 1000,
+          "clue": "Freeport",
+          "answer": "the Bahamas",
+          "isDailyDouble": false,
+          "orderNumber": 5,
+          "correctContestants": [
+            "Harley"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mike",
+              "score": 400
+            },
+            {
+              "player": "Harley",
+              "score": 1800
+            },
+            {
+              "player": "Quinn",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "WHO'S THE BOSS?",
+          "value": 200,
+          "clue": "...of Microsoft Corporation, 1975-2000",
+          "answer": "Bill Gates",
+          "isDailyDouble": false,
+          "orderNumber": 6,
+          "correctContestants": [
+            "Harley"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mike",
+              "score": 400
+            },
+            {
+              "player": "Harley",
+              "score": 2000
+            },
+            {
+              "player": "Quinn",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "WHO'S THE BOSS?",
+          "value": 400,
+          "clue": "...of the Federal Reserve System, 1987-2006",
+          "answer": "Alan Greenspan",
+          "isDailyDouble": false,
+          "orderNumber": 7,
+          "correctContestants": [
+            "Quinn"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mike",
+              "score": 400
+            },
+            {
+              "player": "Harley",
+              "score": 2000
+            },
+            {
+              "player": "Quinn",
+              "score": 400
+            }
+          ]
+        },
+        {
+          "category": "WHO'S THE BOSS?",
+          "value": 600,
+          "clue": "...of Motown Records, 1959-1988",
+          "answer": "Berry Gordy",
+          "isDailyDouble": false,
+          "orderNumber": 8,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Harley"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Mike",
+              "score": 400
+            },
+            {
+              "player": "Harley",
+              "score": 1400
+            },
+            {
+              "player": "Quinn",
+              "score": 400
+            }
+          ]
+        },
+        {
+          "category": "LET'S HAVE CHINESE",
+          "value": 200,
+          "clue": "It's the rhyming name of the Chinese equivalent of ravioli",
+          "answer": "wonton",
+          "isDailyDouble": false,
+          "orderNumber": 9,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Quinn"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Mike",
+              "score": 400
+            },
+            {
+              "player": "Harley",
+              "score": 1400
+            },
+            {
+              "player": "Quinn",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "LET'S HAVE CHINESE",
+          "value": 400,
+          "clue": "Stir-fried shredded meat & veggies are mixed with scrambled eggs & served in small thin pancakes for this dish",
+          "answer": "mu shu (pork)",
+          "isDailyDouble": false,
+          "orderNumber": 10,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Mike",
+              "score": 400
+            },
+            {
+              "player": "Harley",
+              "score": 1400
+            },
+            {
+              "player": "Quinn",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "OF ORDER",
+          "value": 200,
+          "clue": "Islands, from smallest in area to largest:Greenland,Cuba,Madagascar",
+          "answer": "Cuba, Madagascar, Greenland",
+          "isDailyDouble": false,
+          "orderNumber": 11,
+          "correctContestants": [
+            "Mike"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mike",
+              "score": 600
+            },
+            {
+              "player": "Harley",
+              "score": 1400
+            },
+            {
+              "player": "Quinn",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "OF ORDER",
+          "value": 400,
+          "clue": "Animals, from slowest to fastest:cheetah,donkey,peregrine falcon",
+          "answer": "donkey, cheetah, peregrine falcon",
+          "isDailyDouble": false,
+          "orderNumber": 12,
+          "correctContestants": [
+            "Harley"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mike",
+              "score": 600
+            },
+            {
+              "player": "Harley",
+              "score": 1800
+            },
+            {
+              "player": "Quinn",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "OF ORDER",
+          "value": 600,
+          "clue": "U.S. cities, from west to east:Newport News,Milwaukee,New Orleans",
+          "answer": "New Orleans, Milwaukee, Newport News",
+          "isDailyDouble": false,
+          "orderNumber": 13,
+          "correctContestants": [
+            "Mike"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mike",
+              "score": 1200
+            },
+            {
+              "player": "Harley",
+              "score": 1800
+            },
+            {
+              "player": "Quinn",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "OF ORDER",
+          "value": 800,
+          "clue": "Writers, from earliest to latest:C.S. Lewis,Sir Walter Scott,Christopher Marlowe",
+          "answer": "Christopher Marlowe, Sir Walter Scott, C.S. Lewis",
+          "isDailyDouble": true,
+          "orderNumber": 14,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Mike"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mike",
+              "score": 400
+            },
+            {
+              "player": "Harley",
+              "score": 1800
+            },
+            {
+              "player": "Quinn",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "ROBERTS RULE",
+          "value": 200,
+          "clue": "He starred in \"Chaplin\" & in 2010 co-starred with Zach Galifianakis in \"Due Date\"",
+          "answer": "Downey Jr.",
+          "isDailyDouble": false,
+          "orderNumber": 15,
+          "correctContestants": [
+            "Mike"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mike",
+              "score": 600
+            },
+            {
+              "player": "Harley",
+              "score": 1800
+            },
+            {
+              "player": "Quinn",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "ROBERTS RULE",
+          "value": 400,
+          "clue": "He was Bob Woodward to Dustin Hoffman's Carl Bernstein",
+          "answer": "Robert Redford",
+          "isDailyDouble": false,
+          "orderNumber": 16,
+          "correctContestants": [
+            "Harley"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mike",
+              "score": 600
+            },
+            {
+              "player": "Harley",
+              "score": 2200
+            },
+            {
+              "player": "Quinn",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "ROBERTS RULE",
+          "value": 600,
+          "clue": "On TV, this actor played a father who knew best & the kindly Dr. Marcus Welby",
+          "answer": "Robert Young",
+          "isDailyDouble": false,
+          "orderNumber": 17,
+          "correctContestants": [
+            "Quinn"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mike",
+              "score": 600
+            },
+            {
+              "player": "Harley",
+              "score": 2200
+            },
+            {
+              "player": "Quinn",
+              "score": 800
+            }
+          ]
+        },
+        {
+          "category": "ROBERTS RULE",
+          "value": 800,
+          "clue": "At the 2010 Teen Choice Awards, he won Movie Actor: Drama not for a \"Twilight\" film but for \"Remember Me\"",
+          "answer": "Pattinson",
+          "isDailyDouble": false,
+          "orderNumber": 18,
+          "correctContestants": [
+            "Quinn"
+          ],
+          "incorrectContestants": [
+            "Mike"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mike",
+              "score": -200
+            },
+            {
+              "player": "Harley",
+              "score": 2200
+            },
+            {
+              "player": "Quinn",
+              "score": 1600
+            }
+          ]
+        },
+        {
+          "category": "ROBERTS RULE",
+          "value": 1000,
+          "clue": "For 6 years on HBO, he played sports agent Arliss Michaels",
+          "answer": "Robert Wuhl",
+          "isDailyDouble": false,
+          "orderNumber": 19,
+          "correctContestants": [
+            "Quinn"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mike",
+              "score": -200
+            },
+            {
+              "player": "Harley",
+              "score": 2200
+            },
+            {
+              "player": "Quinn",
+              "score": 2600
+            }
+          ]
+        },
+        {
+          "category": "ALPHABET HOMOPHONES",
+          "value": 200,
+          "clue": "In Romania they say \"da\", in Japan, \"hai\", & in Panama, this",
+          "answer": "sí",
+          "isDailyDouble": false,
+          "orderNumber": 20,
+          "correctContestants": [
+            "Harley"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mike",
+              "score": -200
+            },
+            {
+              "player": "Harley",
+              "score": 2400
+            },
+            {
+              "player": "Quinn",
+              "score": 2600
+            }
+          ]
+        },
+        {
+          "category": "ALPHABET HOMOPHONES",
+          "value": 400,
+          "clue": "A bud on a tuber, or a needle opening",
+          "answer": "an eye",
+          "isDailyDouble": false,
+          "orderNumber": 21,
+          "correctContestants": [
+            "Quinn"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mike",
+              "score": -200
+            },
+            {
+              "player": "Harley",
+              "score": 2400
+            },
+            {
+              "player": "Quinn",
+              "score": 3000
+            }
+          ]
+        },
+        {
+          "category": "ALPHABET HOMOPHONES",
+          "value": 600,
+          "clue": "This 2-letter word precedes \"Pretty Woman\" in the title of a Roy Orbison No. 1 hit",
+          "answer": "Oh",
+          "isDailyDouble": false,
+          "orderNumber": 22,
+          "correctContestants": [
+            "Quinn"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mike",
+              "score": -200
+            },
+            {
+              "player": "Harley",
+              "score": 2400
+            },
+            {
+              "player": "Quinn",
+              "score": 3600
+            }
+          ]
+        },
+        {
+          "category": "ALPHABET HOMOPHONES",
+          "value": 800,
+          "clue": "This insect is mentioned in Muhammad Ali's line about his boxing style",
+          "answer": "a bee",
+          "isDailyDouble": false,
+          "orderNumber": 23,
+          "correctContestants": [
+            "Quinn"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mike",
+              "score": -200
+            },
+            {
+              "player": "Harley",
+              "score": 2400
+            },
+            {
+              "player": "Quinn",
+              "score": 4400
+            }
+          ]
+        },
+        {
+          "category": "ALPHABET HOMOPHONES",
+          "value": 1000,
+          "clue": "A wing of a building at right angles to the main structure, or a right-angled bend in a pipe",
+          "answer": "an ell",
+          "isDailyDouble": false,
+          "orderNumber": 24,
+          "correctContestants": [
+            "Quinn"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mike",
+              "score": -200
+            },
+            {
+              "player": "Harley",
+              "score": 2400
+            },
+            {
+              "player": "Quinn",
+              "score": 5400
+            }
+          ]
+        },
+        {
+          "category": "WHO'S THE BOSS?",
+          "value": 800,
+          "clue": "...of the Cuban Council of State, since February 2008",
+          "answer": "Raúl Castro",
+          "isDailyDouble": false,
+          "orderNumber": 25,
+          "correctContestants": [
+            "Mike"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mike",
+              "score": 600
+            },
+            {
+              "player": "Harley",
+              "score": 2400
+            },
+            {
+              "player": "Quinn",
+              "score": 5400
+            }
+          ]
+        },
+        {
+          "category": "WHO'S THE BOSS?",
+          "value": 1000,
+          "clue": "...of Hitler's Afrika Korps, 1941-1943",
+          "answer": "Rommel",
+          "isDailyDouble": false,
+          "orderNumber": 26,
+          "correctContestants": [
+            "Mike"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mike",
+              "score": 1600
+            },
+            {
+              "player": "Harley",
+              "score": 2400
+            },
+            {
+              "player": "Quinn",
+              "score": 5400
+            }
+          ]
+        },
+        {
+          "category": "OF ORDER",
+          "value": 1000,
+          "clue": "National leaders from north to south:Hugo Chavez,Julia Gillard,Barack Obama",
+          "answer": "Barack Obama, Hugo Chavez, Julia Gillard",
+          "isDailyDouble": false,
+          "orderNumber": 27,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Mike",
+              "score": 1600
+            },
+            {
+              "player": "Harley",
+              "score": 2400
+            },
+            {
+              "player": "Quinn",
+              "score": 5400
+            }
+          ]
+        },
+        {
+          "category": "LET'S HAVE CHINESE",
+          "value": 600,
+          "clue": "The marquee ingredient in this soup comes from a type of swallow",
+          "answer": "bird's nest soup",
+          "isDailyDouble": false,
+          "orderNumber": 28,
+          "correctContestants": [
+            "Quinn"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mike",
+              "score": 1600
+            },
+            {
+              "player": "Harley",
+              "score": 2400
+            },
+            {
+              "player": "Quinn",
+              "score": 6000
+            }
+          ]
+        },
+        {
+          "category": "LET'S HAVE CHINESE",
+          "value": 800,
+          "clue": "Chow mein has crispy noodles; the name of this boiled noodle & stir-fried meat & veggies dish means \"soft noodles\"",
+          "answer": "lo mein",
+          "isDailyDouble": false,
+          "orderNumber": 29,
+          "correctContestants": [
+            "Quinn"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mike",
+              "score": 1600
+            },
+            {
+              "player": "Harley",
+              "score": 2400
+            },
+            {
+              "player": "Quinn",
+              "score": 6800
+            }
+          ]
+        },
+        {
+          "category": "LET'S HAVE CHINESE",
+          "value": 1000,
+          "clue": "Pumping air between the fowl's flesh & skin is the first step to making this elaborate \"capital\" dish",
+          "answer": "Peking duck",
+          "isDailyDouble": false,
+          "orderNumber": 30,
+          "correctContestants": [
+            "Harley"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mike",
+              "score": 1600
+            },
+            {
+              "player": "Harley",
+              "score": 3400
+            },
+            {
+              "player": "Quinn",
+              "score": 6800
+            }
+          ]
+        }
+      ],
+      "firstBreakScores": [
+        {
+          "player": "Mike",
+          "score": 400
+        },
+        {
+          "player": "Harley",
+          "score": 1800
+        },
+        {
+          "player": "Quinn",
+          "score": 200
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "Mike",
+          "score": 1600
+        },
+        {
+          "player": "Harley",
+          "score": 3400
+        },
+        {
+          "player": "Quinn",
+          "score": 6800
+        }
+      ]
+    },
+    "doubleJeopardy": {
+      "categories": [
+        "YAD VASHEM",
+        "TEACHING",
+        "SCIENCE TERMS",
+        "WE RETITLE TV SHOWS",
+        "IN THE BOOKSTORE",
+        "DROP A LETTER"
+      ],
+      "clues": [
+        {
+          "category": "SCIENCE TERMS",
+          "value": 400,
+          "clue": "Nutation is the bobbing motion of a spinning rigid body; this toy is the classic example",
+          "answer": "a top",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mike",
+              "score": 1600
+            },
+            {
+              "player": "Harley",
+              "score": 3400
+            },
+            {
+              "player": "Quinn",
+              "score": 7200
+            }
+          ]
+        },
+        {
+          "category": "SCIENCE TERMS",
+          "value": 800,
+          "clue": "When a tree's tissues are replaced by quartz, you get this type of wood, also a synonym for \"frightened\"",
+          "answer": "petrified",
+          "isDailyDouble": false,
+          "orderNumber": 2,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mike",
+              "score": 2400
+            },
+            {
+              "player": "Harley",
+              "score": 3400
+            },
+            {
+              "player": "Quinn",
+              "score": 7200
+            }
+          ]
+        },
+        {
+          "category": "SCIENCE TERMS",
+          "value": 1200,
+          "clue": "(Sarah of the Clue Crew performs a science demonstration.) You'd expect the paper to fly up when extreme pressure is applied, but instead... the wood breaks; air couldn't flow in quickly enough between the paper, the wood & the table, so a partial this 6-letter term was formed",
+          "answer": "a vacuum",
+          "isDailyDouble": false,
+          "orderNumber": 3,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mike",
+              "score": 3600
+            },
+            {
+              "player": "Harley",
+              "score": 3400
+            },
+            {
+              "player": "Quinn",
+              "score": 7200
+            }
+          ]
+        },
+        {
+          "category": "SCIENCE TERMS",
+          "value": 1600,
+          "clue": "The Schottky effect is a type of increase in the discharge of these subatomic particles from a heated surface",
+          "answer": "electrons",
+          "isDailyDouble": false,
+          "orderNumber": 4,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Mike",
+              "score": 3600
+            },
+            {
+              "player": "Harley",
+              "score": 3400
+            },
+            {
+              "player": "Quinn",
+              "score": 7200
+            }
+          ]
+        },
+        {
+          "category": "SCIENCE TERMS",
+          "value": 2000,
+          "clue": "(Sarah of the Clue Crew shows an animation on the monitor.)  Glucose & fructose are monosaccharides; by removing a molecule of water, the two join to form this disaccharide, also known as table sugar",
+          "answer": "sucrose",
+          "isDailyDouble": false,
+          "orderNumber": 5,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mike",
+              "score": 3600
+            },
+            {
+              "player": "Harley",
+              "score": 3400
+            },
+            {
+              "player": "Quinn",
+              "score": 9200
+            }
+          ]
+        },
+        {
+          "category": "IN THE BOOKSTORE",
+          "value": 400,
+          "clue": "He explained his \"Decision Points\" in the 2010 book of that name",
+          "answer": "George W. Bush",
+          "isDailyDouble": false,
+          "orderNumber": 6,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mike",
+              "score": 3600
+            },
+            {
+              "player": "Harley",
+              "score": 3800
+            },
+            {
+              "player": "Quinn",
+              "score": 9200
+            }
+          ]
+        },
+        {
+          "category": "IN THE BOOKSTORE",
+          "value": 800,
+          "clue": "He felt his \"Brief History of Time\" left unanswered questions, so he came up with \"The Grand Design\" to answer them",
+          "answer": "Stephen Hawking",
+          "isDailyDouble": false,
+          "orderNumber": 7,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mike",
+              "score": 3600
+            },
+            {
+              "player": "Harley",
+              "score": 3800
+            },
+            {
+              "player": "Quinn",
+              "score": 10000
+            }
+          ]
+        },
+        {
+          "category": "IN THE BOOKSTORE",
+          "value": 2000,
+          "clue": "The second book in a bestselling trilogy is \"The Girl Who Played with\" this",
+          "answer": "Fire",
+          "isDailyDouble": true,
+          "orderNumber": 8,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mike",
+              "score": 3600
+            },
+            {
+              "player": "Harley",
+              "score": 3800
+            },
+            {
+              "player": "Quinn",
+              "score": 12000
+            }
+          ]
+        },
+        {
+          "category": "IN THE BOOKSTORE",
+          "value": 1600,
+          "clue": "In 2010 this political daughter took readers behind the scenes of the campaign trail in \"Dirty Sexy Politics\"",
+          "answer": "(Meghan) McCain",
+          "isDailyDouble": false,
+          "orderNumber": 9,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mike",
+              "score": 3600
+            },
+            {
+              "player": "Harley",
+              "score": 3800
+            },
+            {
+              "player": "Quinn",
+              "score": 13600
+            }
+          ]
+        },
+        {
+          "category": "IN THE BOOKSTORE",
+          "value": 2000,
+          "clue": "After revealing \"The Secret\", she gave us \"The Power\"",
+          "answer": "Rhonda Byrne",
+          "isDailyDouble": false,
+          "orderNumber": 10,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Mike",
+              "score": 3600
+            },
+            {
+              "player": "Harley",
+              "score": 3800
+            },
+            {
+              "player": "Quinn",
+              "score": 13600
+            }
+          ]
+        },
+        {
+          "category": "TEACHING",
+          "value": 400,
+          "clue": "A method of assigning letter grades based on rank among the class is called \"grading on\" this",
+          "answer": "a curve",
+          "isDailyDouble": false,
+          "orderNumber": 11,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mike",
+              "score": 3600
+            },
+            {
+              "player": "Harley",
+              "score": 4200
+            },
+            {
+              "player": "Quinn",
+              "score": 13600
+            }
+          ]
+        },
+        {
+          "category": "WE RETITLE TV SHOWS",
+          "value": 400,
+          "clue": "\"The Wacktastic Adventures of Mulder & Scully\"",
+          "answer": "The X-Files",
+          "isDailyDouble": false,
+          "orderNumber": 12,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mike",
+              "score": 4000
+            },
+            {
+              "player": "Harley",
+              "score": 4200
+            },
+            {
+              "player": "Quinn",
+              "score": 13600
+            }
+          ]
+        },
+        {
+          "category": "WE RETITLE TV SHOWS",
+          "value": 800,
+          "clue": "\"Where's the Electricity?!: The Laura Ingalls Story\"",
+          "answer": "Little House on the Prairie",
+          "isDailyDouble": false,
+          "orderNumber": 13,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mike",
+              "score": 4000
+            },
+            {
+              "player": "Harley",
+              "score": 4200
+            },
+            {
+              "player": "Quinn",
+              "score": 14400
+            }
+          ]
+        },
+        {
+          "category": "WE RETITLE TV SHOWS",
+          "value": 1200,
+          "clue": "\"Lieutenant Van Buren\"--the show should have been just about her",
+          "answer": "Law & Order",
+          "isDailyDouble": false,
+          "orderNumber": 14,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mike",
+              "score": 4000
+            },
+            {
+              "player": "Harley",
+              "score": 4200
+            },
+            {
+              "player": "Quinn",
+              "score": 15600
+            }
+          ]
+        },
+        {
+          "category": "WE RETITLE TV SHOWS",
+          "value": 1600,
+          "clue": "\"That Gabe Kaplan '70s Show\"",
+          "answer": "Welcome Back, Kotter",
+          "isDailyDouble": false,
+          "orderNumber": 15,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mike",
+              "score": 4000
+            },
+            {
+              "player": "Harley",
+              "score": 4200
+            },
+            {
+              "player": "Quinn",
+              "score": 17200
+            }
+          ]
+        },
+        {
+          "category": "WE RETITLE TV SHOWS",
+          "value": 2000,
+          "clue": "\"Drs. Weaver, Lockhart & Rasgotra, Medicine Women of Chicago\"",
+          "answer": "ER",
+          "isDailyDouble": false,
+          "orderNumber": 16,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mike",
+              "score": 6000
+            },
+            {
+              "player": "Harley",
+              "score": 4200
+            },
+            {
+              "player": "Quinn",
+              "score": 17200
+            }
+          ]
+        },
+        {
+          "category": "DROP A LETTER",
+          "value": 400,
+          "clue": "Drop a letter from the language spoken by the people of Seoul to get this sacred text of Islam",
+          "answer": "Koran/Korean",
+          "isDailyDouble": false,
+          "orderNumber": 17,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mike",
+              "score": 6400
+            },
+            {
+              "player": "Harley",
+              "score": 4200
+            },
+            {
+              "player": "Quinn",
+              "score": 17200
+            }
+          ]
+        },
+        {
+          "category": "DROP A LETTER",
+          "value": 800,
+          "clue": "...from a type of mediator to get this implanted device visible in the chest X-ray seen here",
+          "answer": "a pacemaker (from peacemaker)",
+          "isDailyDouble": false,
+          "orderNumber": 18,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mike",
+              "score": 6400
+            },
+            {
+              "player": "Harley",
+              "score": 4200
+            },
+            {
+              "player": "Quinn",
+              "score": 18000
+            }
+          ]
+        },
+        {
+          "category": "DROP A LETTER",
+          "value": 1200,
+          "clue": "...from a word for a mechanical man to get this verb that means \"to cheer on\"",
+          "answer": "root (from robot)",
+          "isDailyDouble": false,
+          "orderNumber": 19,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mike",
+              "score": 6400
+            },
+            {
+              "player": "Harley",
+              "score": 4200
+            },
+            {
+              "player": "Quinn",
+              "score": 19200
+            }
+          ]
+        },
+        {
+          "category": "DROP A LETTER",
+          "value": 2000,
+          "clue": "...from a word for a long, vehement speech to get this synonym for \"swap\"",
+          "answer": "trade (from tirade)",
+          "isDailyDouble": true,
+          "orderNumber": 20,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mike",
+              "score": 6400
+            },
+            {
+              "player": "Harley",
+              "score": 4200
+            },
+            {
+              "player": "Quinn",
+              "score": 21200
+            }
+          ]
+        },
+        {
+          "category": "DROP A LETTER",
+          "value": 2000,
+          "clue": "...from a slat on a window to get this word for a paramour",
+          "answer": "lover (from louver)",
+          "isDailyDouble": false,
+          "orderNumber": 21,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mike",
+              "score": 6400
+            },
+            {
+              "player": "Harley",
+              "score": 4200
+            },
+            {
+              "player": "Quinn",
+              "score": 23200
+            }
+          ]
+        },
+        {
+          "category": "TEACHING",
+          "value": 800,
+          "clue": "The U.S. is facing a shortage of teachers of this subject--where are the new Jaime Escalantes?",
+          "answer": "calculus",
+          "isDailyDouble": false,
+          "orderNumber": 22,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mike",
+              "score": 6400
+            },
+            {
+              "player": "Harley",
+              "score": 5000
+            },
+            {
+              "player": "Quinn",
+              "score": 23200
+            }
+          ]
+        },
+        {
+          "category": "TEACHING",
+          "value": 1200,
+          "clue": "NASET is the \"National Association of\" these \"Teachers\", who may work with the gifted as well as the disabled",
+          "answer": "Special Education",
+          "isDailyDouble": false,
+          "orderNumber": 23,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mike",
+              "score": 6400
+            },
+            {
+              "player": "Harley",
+              "score": 6200
+            },
+            {
+              "player": "Quinn",
+              "score": 23200
+            }
+          ]
+        },
+        {
+          "category": "TEACHING",
+          "value": 1600,
+          "clue": "This term for a list of items to be covered in a course is from the Greek for \"parchment label\"",
+          "answer": "syllabus",
+          "isDailyDouble": false,
+          "orderNumber": 24,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mike",
+              "score": 8000
+            },
+            {
+              "player": "Harley",
+              "score": 6200
+            },
+            {
+              "player": "Quinn",
+              "score": 23200
+            }
+          ]
+        },
+        {
+          "category": "TEACHING",
+          "value": 2000,
+          "clue": "This organization started in 1990 with 500 idealistic young people working in schools in low-income communities",
+          "answer": "Teach for America",
+          "isDailyDouble": false,
+          "orderNumber": 25,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mike",
+              "score": 10000
+            },
+            {
+              "player": "Harley",
+              "score": 6200
+            },
+            {
+              "player": "Quinn",
+              "score": 23200
+            }
+          ]
+        },
+        {
+          "category": "YAD VASHEM",
+          "value": 2000,
+          "clue": "(Alex walks through the Valley of the Communities at Yad Vashem.)  The Valley of the Communities is a labyrinth of great walls with the names of over 5,000 communities, most of which no longer exist; now the architects were inspired by this biblical prophet's vision of the Valley of the Dry Bones",
+          "answer": "Ezekiel",
+          "isDailyDouble": false,
+          "orderNumber": 26,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Mike",
+              "score": 10000
+            },
+            {
+              "player": "Harley",
+              "score": 6200
+            },
+            {
+              "player": "Quinn",
+              "score": 23200
+            }
+          ]
+        },
+        {
+          "category": "YAD VASHEM",
+          "value": 1600,
+          "clue": "(Alex walks among lush green vegetation at Yad Vashem, Israel.)  Symbolic of the renewal of life, trees line the avenue honoring those who risked their lives to help save the Jews; they are known as this noble word \"Among the Nations\"",
+          "answer": "the Righteous",
+          "isDailyDouble": false,
+          "orderNumber": 27,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mike",
+              "score": 10000
+            },
+            {
+              "player": "Harley",
+              "score": 6200
+            },
+            {
+              "player": "Quinn",
+              "score": 24800
+            }
+          ]
+        },
+        {
+          "category": "YAD VASHEM",
+          "value": 1200,
+          "clue": "(Alex walks in front of the Wall of Remembrance in Yad Vashem, Israel.)  Both the valiant uprising against the Nazis & the final deportation are depicted here in the Wall of Remembrance to this city's ghetto, which at one time held more than 400,000 people in just 1.3 square miles",
+          "answer": "Warsaw",
+          "isDailyDouble": false,
+          "orderNumber": 28,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mike",
+              "score": 10000
+            },
+            {
+              "player": "Harley",
+              "score": 7400
+            },
+            {
+              "player": "Quinn",
+              "score": 24800
+            }
+          ]
+        },
+        {
+          "category": "YAD VASHEM",
+          "value": 800,
+          "clue": "(Alex shows us a large stone in Yad Vashem, Israel.)  This stone comes from the central synagogue in Aachen, Germany, which was destroyed on November 9, 1938, in what became known as Kristallnacht, the Night of the Broken this",
+          "answer": "glass",
+          "isDailyDouble": false,
+          "orderNumber": 29,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mike",
+              "score": 10000
+            },
+            {
+              "player": "Harley",
+              "score": 7400
+            },
+            {
+              "player": "Quinn",
+              "score": 25600
+            }
+          ]
+        },
+        {
+          "category": "YAD VASHEM",
+          "value": 400,
+          "clue": "(Alex delivers the clue from Yad Vashem, Israel.)  At Yad Vashem, which is the Jewish people's living memorial to the Holocaust, the monument to Jewish resistance fighters forms this national symbol",
+          "answer": "the Star of David",
+          "isDailyDouble": false,
+          "orderNumber": 30,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Mike",
+              "score": 10000
+            },
+            {
+              "player": "Harley",
+              "score": 7800
+            },
+            {
+              "player": "Quinn",
+              "score": 25600
+            }
+          ]
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "Mike",
+          "score": 10000
+        },
+        {
+          "player": "Harley",
+          "score": 7800
+        },
+        {
+          "player": "Quinn",
+          "score": 25600
+        }
+      ]
+    },
+    "finalJeopardy": {
+      "category": "BRITISH ROYALTY",
+      "clue": "After the death in combat of the previous king, he became the last one to win the crown while on the battlefield",
+      "answer": "Henry VII",
+      "responses": [
+        {
+          "contestant": "Harley",
+          "response": "Who is Henry VI?",
+          "isCorrect": false,
+          "isIncorrect": true,
+          "value": 2201,
+          "finalScore": 5599
+        },
+        {
+          "contestant": "Mike",
+          "response": "Who was Henry V?",
+          "isCorrect": false,
+          "isIncorrect": true,
+          "value": 5601,
+          "finalScore": 4399
+        },
+        {
+          "contestant": "Quinn",
+          "response": "Who is Henry V?",
+          "isCorrect": false,
+          "isIncorrect": true,
+          "value": 5000,
+          "finalScore": 20600
+        }
+      ]
+    }
+  },
+  "finalScores": [
+    {
+      "player": "Mike",
+      "score": "$4,399"
+    },
+    {
+      "player": "Harley",
+      "score": "$5,599"
+    },
+    {
+      "player": "Quinn",
+      "score": "$20,600"
+    }
+  ],
+  "coryatScores": [
+    {
+      "player": "Mike",
+      "score": 10800
+    },
+    {
+      "player": "Harley",
+      "score": 7800
+    },
+    {
+      "player": "Quinn",
+      "score": 24400
+    }
+  ]
+}

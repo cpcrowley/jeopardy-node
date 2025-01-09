@@ -1,0 +1,1707 @@
+{
+  "gameId": 2439,
+  "showNumber": "5450",
+  "title": "Show #5450 - Friday, April 25, 2008",
+  "date": "2008-04-25",
+  "comments": "",
+  "contestants": [
+    "Lance",
+    "Steve",
+    "Ric"
+  ],
+  "rounds": {
+    "jeopardy": {
+      "categories": [
+        "U.S. COUNTIES",
+        "WOMEN IN SPORTS",
+        "YELLOW THERE!",
+        "FEMALES, WOMEN & LADIES",
+        "3-LETTER THE BETTER",
+        "SARDI'S"
+      ],
+      "clues": [
+        {
+          "category": "U.S. COUNTIES",
+          "value": 200,
+          "clue": "Pennsylvania's Berks County is a shortened form for this British county that also has a Reading",
+          "answer": "Berkshire",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [
+            "Ric"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Lance",
+              "score": 0
+            },
+            {
+              "player": "Steve",
+              "score": 0
+            },
+            {
+              "player": "Ric",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "U.S. COUNTIES",
+          "value": 400,
+          "clue": "Including such cities as Burbank & Redondo Beach, it's the USA's most populous county, with almost 10 million residents",
+          "answer": "Los Angeles County",
+          "isDailyDouble": false,
+          "orderNumber": 2,
+          "correctContestants": [
+            "Ric"
+          ],
+          "incorrectContestants": [
+            "Lance"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Lance",
+              "score": -400
+            },
+            {
+              "player": "Steve",
+              "score": 0
+            },
+            {
+              "player": "Ric",
+              "score": 600
+            }
+          ]
+        },
+        {
+          "category": "FEMALES, WOMEN & LADIES",
+          "value": 200,
+          "clue": "Though not a continuation of the series, 2001's \"Quidditch Through the Ages\" was a short book by this woman",
+          "answer": "J.K. Rowling",
+          "isDailyDouble": false,
+          "orderNumber": 3,
+          "correctContestants": [
+            "Steve"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Lance",
+              "score": -400
+            },
+            {
+              "player": "Steve",
+              "score": 200
+            },
+            {
+              "player": "Ric",
+              "score": 600
+            }
+          ]
+        },
+        {
+          "category": "FEMALES, WOMEN & LADIES",
+          "value": 400,
+          "clue": "She was the mother of Princesses Stephanie & Caroline",
+          "answer": "Princess Grace",
+          "isDailyDouble": false,
+          "orderNumber": 4,
+          "correctContestants": [
+            "Lance"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Lance",
+              "score": 0
+            },
+            {
+              "player": "Steve",
+              "score": 200
+            },
+            {
+              "player": "Ric",
+              "score": 600
+            }
+          ]
+        },
+        {
+          "category": "SARDI'S",
+          "value": 200,
+          "clue": "(Kelly of the Clue Crew reports from Sardi's in New York, NY.)  When her one-woman show made her a Broadway star in 1984, a caricature of this woman became part of the view here at Sardi's",
+          "answer": "Whoopi Goldberg",
+          "isDailyDouble": false,
+          "orderNumber": 5,
+          "correctContestants": [
+            "Lance"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Lance",
+              "score": 200
+            },
+            {
+              "player": "Steve",
+              "score": 200
+            },
+            {
+              "player": "Ric",
+              "score": 600
+            }
+          ]
+        },
+        {
+          "category": "SARDI'S",
+          "value": 400,
+          "clue": "(Jon of the Clue Crew reports from Sardi's in New York, NY.) One of the newest caricatures here at Sardi's is that of John Lloyd Young, who won a Tony for playing Frankie Valli in this musical",
+          "answer": "Jersey Boys",
+          "isDailyDouble": false,
+          "orderNumber": 6,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Lance",
+              "score": 200
+            },
+            {
+              "player": "Steve",
+              "score": 200
+            },
+            {
+              "player": "Ric",
+              "score": 600
+            }
+          ]
+        },
+        {
+          "category": "SARDI'S",
+          "value": 600,
+          "clue": "(Kelly of the Clue Crew reports from Sardi's in New York, NY.) This co-star of a popular sitcom is honored here at Sardi's; his caricature went up when he was in his first Broadway musical, \"Spamalot\"",
+          "answer": "David Hyde Pierce",
+          "isDailyDouble": false,
+          "orderNumber": 7,
+          "correctContestants": [
+            "Lance"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Lance",
+              "score": 800
+            },
+            {
+              "player": "Steve",
+              "score": 200
+            },
+            {
+              "player": "Ric",
+              "score": 600
+            }
+          ]
+        },
+        {
+          "category": "SARDI'S",
+          "value": 800,
+          "clue": "(Kelly of the Clue Crew reports from Sardi's in New York, NY.)  You can see this actor presented with his caricature at Sardi's in the film \"The King of Comedy\"; he later signed it with the name of his character, Rupert Pupkin",
+          "answer": "Robert De Niro",
+          "isDailyDouble": false,
+          "orderNumber": 8,
+          "correctContestants": [
+            "Lance"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Lance",
+              "score": 1600
+            },
+            {
+              "player": "Steve",
+              "score": 200
+            },
+            {
+              "player": "Ric",
+              "score": 600
+            }
+          ]
+        },
+        {
+          "category": "SARDI'S",
+          "value": 1000,
+          "clue": "(Jon of the Clue Crew reports from Sardi's in New York, NY.) The caricature of this director & choreographer has graced Sardi's since the '70s, when the original production of \"Chicago\" was on Broadway",
+          "answer": "Bob Fosse",
+          "isDailyDouble": false,
+          "orderNumber": 9,
+          "correctContestants": [
+            "Ric"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Lance",
+              "score": 1600
+            },
+            {
+              "player": "Steve",
+              "score": 200
+            },
+            {
+              "player": "Ric",
+              "score": 1600
+            }
+          ]
+        },
+        {
+          "category": "FEMALES, WOMEN & LADIES",
+          "value": 600,
+          "clue": "Check out this empress' 190-carat Orlov Diamond at Russia's Armory Museum",
+          "answer": "Catherine the Great",
+          "isDailyDouble": false,
+          "orderNumber": 10,
+          "correctContestants": [
+            "Steve"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Lance",
+              "score": 1600
+            },
+            {
+              "player": "Steve",
+              "score": 800
+            },
+            {
+              "player": "Ric",
+              "score": 1600
+            }
+          ]
+        },
+        {
+          "category": "U.S. COUNTIES",
+          "value": 600,
+          "clue": "This Illinois county has the largest African American population of any U.S. county, with about 1.5 million",
+          "answer": "Cook County",
+          "isDailyDouble": false,
+          "orderNumber": 11,
+          "correctContestants": [
+            "Ric"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Lance",
+              "score": 1600
+            },
+            {
+              "player": "Steve",
+              "score": 800
+            },
+            {
+              "player": "Ric",
+              "score": 2200
+            }
+          ]
+        },
+        {
+          "category": "FEMALES, WOMEN & LADIES",
+          "value": 800,
+          "clue": "This primatologist & author was murdered in 1985, probably by a vengeful poacher",
+          "answer": "Dian Fossey",
+          "isDailyDouble": false,
+          "orderNumber": 12,
+          "correctContestants": [
+            "Lance"
+          ],
+          "incorrectContestants": [
+            "Steve"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Lance",
+              "score": 2400
+            },
+            {
+              "player": "Steve",
+              "score": 0
+            },
+            {
+              "player": "Ric",
+              "score": 2200
+            }
+          ]
+        },
+        {
+          "category": "YELLOW THERE!",
+          "value": 200,
+          "clue": "Tony Orlando told us to \"tie\" one of these \"'round the ole oak tree\"",
+          "answer": "a yellow ribbon",
+          "isDailyDouble": false,
+          "orderNumber": 13,
+          "correctContestants": [
+            "Ric"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Lance",
+              "score": 2400
+            },
+            {
+              "player": "Steve",
+              "score": 0
+            },
+            {
+              "player": "Ric",
+              "score": 2400
+            }
+          ]
+        },
+        {
+          "category": "FEMALES, WOMEN & LADIES",
+          "value": 1000,
+          "clue": "By the time this 1877 title woman realizes she's been looking at life & love wrong, she catches a train, literally",
+          "answer": "Anna Karenina",
+          "isDailyDouble": false,
+          "orderNumber": 14,
+          "correctContestants": [
+            "Lance"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Lance",
+              "score": 3400
+            },
+            {
+              "player": "Steve",
+              "score": 0
+            },
+            {
+              "player": "Ric",
+              "score": 2400
+            }
+          ]
+        },
+        {
+          "category": "YELLOW THERE!",
+          "value": 400,
+          "clue": "As a human guinea pig, Jesse Lazear helped Walter Reed prove this was spread by mosquitoes",
+          "answer": "yellow fever",
+          "isDailyDouble": false,
+          "orderNumber": 15,
+          "correctContestants": [
+            "Ric"
+          ],
+          "incorrectContestants": [
+            "Lance"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Lance",
+              "score": 3000
+            },
+            {
+              "player": "Steve",
+              "score": 0
+            },
+            {
+              "player": "Ric",
+              "score": 2800
+            }
+          ]
+        },
+        {
+          "category": "YELLOW THERE!",
+          "value": 600,
+          "clue": "This \"colorful tool\" is Alabama's state bird",
+          "answer": "the yellowhammer",
+          "isDailyDouble": false,
+          "orderNumber": 16,
+          "correctContestants": [
+            "Lance"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Lance",
+              "score": 3600
+            },
+            {
+              "player": "Steve",
+              "score": 0
+            },
+            {
+              "player": "Ric",
+              "score": 2800
+            }
+          ]
+        },
+        {
+          "category": "YELLOW THERE!",
+          "value": 800,
+          "clue": "Around 4000 B.C. communities of people settled in the Yellow River Valley in what is today this country",
+          "answer": "China",
+          "isDailyDouble": false,
+          "orderNumber": 17,
+          "correctContestants": [
+            "Ric"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Lance",
+              "score": 3600
+            },
+            {
+              "player": "Steve",
+              "score": 0
+            },
+            {
+              "player": "Ric",
+              "score": 3600
+            }
+          ]
+        },
+        {
+          "category": "YELLOW THERE!",
+          "value": 1000,
+          "clue": "A sushi favorite, hamachi is this type of fish",
+          "answer": "the yellowtail",
+          "isDailyDouble": false,
+          "orderNumber": 18,
+          "correctContestants": [
+            "Ric"
+          ],
+          "incorrectContestants": [
+            "Steve"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Lance",
+              "score": 3600
+            },
+            {
+              "player": "Steve",
+              "score": -1000
+            },
+            {
+              "player": "Ric",
+              "score": 4600
+            }
+          ]
+        },
+        {
+          "category": "3-LETTER THE BETTER",
+          "value": 200,
+          "clue": "You get one of these by skin exposure to ultraviolet rays",
+          "answer": "a tan",
+          "isDailyDouble": false,
+          "orderNumber": 19,
+          "correctContestants": [
+            "Lance"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Lance",
+              "score": 3800
+            },
+            {
+              "player": "Steve",
+              "score": -1000
+            },
+            {
+              "player": "Ric",
+              "score": 4600
+            }
+          ]
+        },
+        {
+          "category": "3-LETTER THE BETTER",
+          "value": 400,
+          "clue": "To wager; wanna?",
+          "answer": "to bet",
+          "isDailyDouble": false,
+          "orderNumber": 20,
+          "correctContestants": [
+            "Steve"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Lance",
+              "score": 3800
+            },
+            {
+              "player": "Steve",
+              "score": -600
+            },
+            {
+              "player": "Ric",
+              "score": 4600
+            }
+          ]
+        },
+        {
+          "category": "3-LETTER THE BETTER",
+          "value": 600,
+          "clue": "It's a member of the armed forces captured in combat & held by the enemy",
+          "answer": "a POW",
+          "isDailyDouble": false,
+          "orderNumber": 21,
+          "correctContestants": [
+            "Ric"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Lance",
+              "score": 3800
+            },
+            {
+              "player": "Steve",
+              "score": -600
+            },
+            {
+              "player": "Ric",
+              "score": 5200
+            }
+          ]
+        },
+        {
+          "category": "3-LETTER THE BETTER",
+          "value": 800,
+          "clue": "A cushion, or a groovy bachelor apartment",
+          "answer": "a pad",
+          "isDailyDouble": false,
+          "orderNumber": 22,
+          "correctContestants": [
+            "Steve"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Lance",
+              "score": 3800
+            },
+            {
+              "player": "Steve",
+              "score": 200
+            },
+            {
+              "player": "Ric",
+              "score": 5200
+            }
+          ]
+        },
+        {
+          "category": "3-LETTER THE BETTER",
+          "value": 1000,
+          "clue": "It comes between \"game\" & \"match\" in tennis tournament play",
+          "answer": "set",
+          "isDailyDouble": false,
+          "orderNumber": 23,
+          "correctContestants": [
+            "Ric"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Lance",
+              "score": 3800
+            },
+            {
+              "player": "Steve",
+              "score": 200
+            },
+            {
+              "player": "Ric",
+              "score": 6200
+            }
+          ]
+        },
+        {
+          "category": "U.S. COUNTIES",
+          "value": 1400,
+          "clue": "Lake of the Woods County is this state's northernmost",
+          "answer": "Minnesota",
+          "isDailyDouble": true,
+          "orderNumber": 24,
+          "correctContestants": [
+            "Ric"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Lance",
+              "score": 3800
+            },
+            {
+              "player": "Steve",
+              "score": 200
+            },
+            {
+              "player": "Ric",
+              "score": 7600
+            }
+          ]
+        },
+        {
+          "category": "U.S. COUNTIES",
+          "value": 1000,
+          "clue": "Orange County, New York wasn't named for the fruit but for the ruling family of this European nation",
+          "answer": "the Netherlands",
+          "isDailyDouble": false,
+          "orderNumber": 25,
+          "correctContestants": [
+            "Steve"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Lance",
+              "score": 3800
+            },
+            {
+              "player": "Steve",
+              "score": 1200
+            },
+            {
+              "player": "Ric",
+              "score": 7600
+            }
+          ]
+        },
+        {
+          "category": "WOMEN IN SPORTS",
+          "value": 200,
+          "clue": "Like fathers, like daughters: in June 2001 it was Joe Frazier's daughter Jacqui against this boxer's daughter Laila",
+          "answer": "Muhammad Ali",
+          "isDailyDouble": false,
+          "orderNumber": 26,
+          "correctContestants": [
+            "Ric"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Lance",
+              "score": 3800
+            },
+            {
+              "player": "Steve",
+              "score": 1200
+            },
+            {
+              "player": "Ric",
+              "score": 7800
+            }
+          ]
+        },
+        {
+          "category": "WOMEN IN SPORTS",
+          "value": 400,
+          "clue": "In 1994 Conchita Martinez became the first woman from this country to win a Wimbledon singles title",
+          "answer": "Spain",
+          "isDailyDouble": false,
+          "orderNumber": 27,
+          "correctContestants": [
+            "Ric"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Lance",
+              "score": 3800
+            },
+            {
+              "player": "Steve",
+              "score": 1200
+            },
+            {
+              "player": "Ric",
+              "score": 8200
+            }
+          ]
+        },
+        {
+          "category": "WOMEN IN SPORTS",
+          "value": 600,
+          "clue": "On ESPN's list of the 50 top athletes of the 20th century, this woman is the highest-ranked female",
+          "answer": "(Babe Didrikson) Zaharias",
+          "isDailyDouble": false,
+          "orderNumber": 28,
+          "correctContestants": [
+            "Steve"
+          ],
+          "incorrectContestants": [
+            "Lance"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Lance",
+              "score": 3200
+            },
+            {
+              "player": "Steve",
+              "score": 1800
+            },
+            {
+              "player": "Ric",
+              "score": 8200
+            }
+          ]
+        },
+        {
+          "category": "WOMEN IN SPORTS",
+          "value": 800,
+          "clue": "In the 1998 Winter Olympics, she became the youngest ever to win the women's figure skating gold metal",
+          "answer": "Tara Lipinski",
+          "isDailyDouble": false,
+          "orderNumber": 29,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Lance"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Lance",
+              "score": 2400
+            },
+            {
+              "player": "Steve",
+              "score": 1800
+            },
+            {
+              "player": "Ric",
+              "score": 8200
+            }
+          ]
+        },
+        {
+          "category": "WOMEN IN SPORTS",
+          "value": 1000,
+          "clue": "Last name of golfing sisters Charlotta & Annika",
+          "answer": "Sörenstam",
+          "isDailyDouble": false,
+          "orderNumber": 30,
+          "correctContestants": [
+            "Steve"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Lance",
+              "score": 2400
+            },
+            {
+              "player": "Steve",
+              "score": 2800
+            },
+            {
+              "player": "Ric",
+              "score": 8200
+            }
+          ]
+        }
+      ],
+      "firstBreakScores": [
+        {
+          "player": "Lance",
+          "score": 3000
+        },
+        {
+          "player": "Steve",
+          "score": 0
+        },
+        {
+          "player": "Ric",
+          "score": 2800
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "Lance",
+          "score": 2400
+        },
+        {
+          "player": "Steve",
+          "score": 2800
+        },
+        {
+          "player": "Ric",
+          "score": 8200
+        }
+      ]
+    },
+    "doubleJeopardy": {
+      "categories": [
+        "MOUNTAINS",
+        "THE ROCKIES",
+        "CAT SKILLS",
+        "THE ANDYS",
+        "ATLAS",
+        "THE \"ALP\"s"
+      ],
+      "clues": [
+        {
+          "category": "MOUNTAINS",
+          "value": 400,
+          "clue": "This California mountain is the USA's 17th highest; it was No. 1 until 1959",
+          "answer": "Mount Whitney",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Lance",
+              "score": 2000
+            },
+            {
+              "player": "Steve",
+              "score": 2800
+            },
+            {
+              "player": "Ric",
+              "score": 8600
+            }
+          ]
+        },
+        {
+          "category": "MOUNTAINS",
+          "value": 800,
+          "clue": "This country's Mount Kosciusko lies in the Snowy Mountains",
+          "answer": "Australia",
+          "isDailyDouble": false,
+          "orderNumber": 2,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Lance",
+              "score": 2800
+            },
+            {
+              "player": "Steve",
+              "score": 2800
+            },
+            {
+              "player": "Ric",
+              "score": 8600
+            }
+          ]
+        },
+        {
+          "category": "MOUNTAINS",
+          "value": 1200,
+          "clue": "The Notre Dame Mountains aren't in Indiana; they lie south of the St. Lawrence River in this province",
+          "answer": "Quebec",
+          "isDailyDouble": false,
+          "orderNumber": 3,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Lance",
+              "score": 4000
+            },
+            {
+              "player": "Steve",
+              "score": 2800
+            },
+            {
+              "player": "Ric",
+              "score": 8600
+            }
+          ]
+        },
+        {
+          "category": "MOUNTAINS",
+          "value": 1600,
+          "clue": "Africa's highest peak, Mount Kilimanjaro, is in this country",
+          "answer": "Tanzania",
+          "isDailyDouble": false,
+          "orderNumber": 4,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Lance",
+              "score": 4000
+            },
+            {
+              "player": "Steve",
+              "score": 4400
+            },
+            {
+              "player": "Ric",
+              "score": 8600
+            }
+          ]
+        },
+        {
+          "category": "MOUNTAINS",
+          "value": 2000,
+          "clue": "This volcanic peak 40 miles east of Portland, Oregon last erupted in 1865",
+          "answer": "Mount Hood",
+          "isDailyDouble": false,
+          "orderNumber": 5,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Lance",
+              "score": 4000
+            },
+            {
+              "player": "Steve",
+              "score": 6400
+            },
+            {
+              "player": "Ric",
+              "score": 8600
+            }
+          ]
+        },
+        {
+          "category": "THE ROCKIES",
+          "value": 400,
+          "clue": "In 1967 he literally & figuratively set his guitar on fire at the Monterey Pop Festival",
+          "answer": "Jimi Hendrix",
+          "isDailyDouble": false,
+          "orderNumber": 6,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Lance",
+              "score": 4000
+            },
+            {
+              "player": "Steve",
+              "score": 6800
+            },
+            {
+              "player": "Ric",
+              "score": 8600
+            }
+          ]
+        },
+        {
+          "category": "THE ROCKIES",
+          "value": 800,
+          "clue": "On Dec. 10, 2007 surviving members Robert Plant, John Paul Jones & Jimmy Page of this band reunited in London",
+          "answer": "Led Zeppelin",
+          "isDailyDouble": false,
+          "orderNumber": 7,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Lance",
+              "score": 4000
+            },
+            {
+              "player": "Steve",
+              "score": 7600
+            },
+            {
+              "player": "Ric",
+              "score": 8600
+            }
+          ]
+        },
+        {
+          "category": "THE ROCKIES",
+          "value": 1200,
+          "clue": "This mockumentary hard rock band sang, \"I met her on Monday, 'twas my lucky bun day\" in their song \"Big Bottom\"",
+          "answer": "Spinal Tap",
+          "isDailyDouble": false,
+          "orderNumber": 8,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Lance",
+              "score": 5200
+            },
+            {
+              "player": "Steve",
+              "score": 7600
+            },
+            {
+              "player": "Ric",
+              "score": 8600
+            }
+          ]
+        },
+        {
+          "category": "THE ROCKIES",
+          "value": 1600,
+          "clue": "After finding Nirvana, Dave Grohl won a Grammy for \"The Pretender\" with this band",
+          "answer": "The Foo Fighters",
+          "isDailyDouble": false,
+          "orderNumber": 9,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Lance",
+              "score": 6800
+            },
+            {
+              "player": "Steve",
+              "score": 7600
+            },
+            {
+              "player": "Ric",
+              "score": 8600
+            }
+          ]
+        },
+        {
+          "category": "THE ROCKIES",
+          "value": 2000,
+          "clue": "In the film \"Some Kind of Monster\", drummer Lars Ulrich's dad tears one of this \"Enter Sandman\" band's songs to shreds",
+          "answer": "Metallica",
+          "isDailyDouble": false,
+          "orderNumber": 10,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Lance",
+              "score": 8800
+            },
+            {
+              "player": "Steve",
+              "score": 7600
+            },
+            {
+              "player": "Ric",
+              "score": 8600
+            }
+          ]
+        },
+        {
+          "category": "CAT SKILLS",
+          "value": 400,
+          "clue": "Cats have a \"nictitating membrane\", a third one of these, which is used to clear dust from the cornea",
+          "answer": "an eyelid",
+          "isDailyDouble": false,
+          "orderNumber": 11,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Lance",
+              "score": 8800
+            },
+            {
+              "player": "Steve",
+              "score": 8000
+            },
+            {
+              "player": "Ric",
+              "score": 8600
+            }
+          ]
+        },
+        {
+          "category": "CAT SKILLS",
+          "value": 800,
+          "clue": "Eating almost 3,000 kilos of meat a year, this cat is the largest land mammal with an all-meat diet",
+          "answer": "a tiger",
+          "isDailyDouble": false,
+          "orderNumber": 12,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Lance",
+              "score": 9600
+            },
+            {
+              "player": "Steve",
+              "score": 8000
+            },
+            {
+              "player": "Ric",
+              "score": 7800
+            }
+          ]
+        },
+        {
+          "category": "CAT SKILLS",
+          "value": 1200,
+          "clue": "AKA vibrissae, these cat features can register minute shifts in air currents",
+          "answer": "whiskers",
+          "isDailyDouble": false,
+          "orderNumber": 13,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Lance",
+              "score": 9600
+            },
+            {
+              "player": "Steve",
+              "score": 8000
+            },
+            {
+              "player": "Ric",
+              "score": 9000
+            }
+          ]
+        },
+        {
+          "category": "CAT SKILLS",
+          "value": 1600,
+          "clue": "Cats have more of these dorsal bones than humans; in between them are discs of pliable fibrocartilage",
+          "answer": "vertebrae",
+          "isDailyDouble": false,
+          "orderNumber": 14,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Lance",
+              "score": 11200
+            },
+            {
+              "player": "Steve",
+              "score": 8000
+            },
+            {
+              "player": "Ric",
+              "score": 9000
+            }
+          ]
+        },
+        {
+          "category": "CAT SKILLS",
+          "value": 2000,
+          "clue": "The clouded variety of this large feline of Southeast Asia is known to perch & hide in trees",
+          "answer": "a leopard",
+          "isDailyDouble": false,
+          "orderNumber": 15,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Lance",
+              "score": 11200
+            },
+            {
+              "player": "Steve",
+              "score": 10000
+            },
+            {
+              "player": "Ric",
+              "score": 9000
+            }
+          ]
+        },
+        {
+          "category": "THE ANDYS",
+          "value": 400,
+          "clue": "In 1852 cable car inventor Andrew Hallidie came to San Francisco in search of this precious substance",
+          "answer": "gold",
+          "isDailyDouble": false,
+          "orderNumber": 16,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Lance",
+              "score": 11600
+            },
+            {
+              "player": "Steve",
+              "score": 10000
+            },
+            {
+              "player": "Ric",
+              "score": 9000
+            }
+          ]
+        },
+        {
+          "category": "THE ANDYS",
+          "value": 800,
+          "clue": "Born in Raleigh, N.C. in 1808, this president was impeached in 1868",
+          "answer": "Andrew Johnson",
+          "isDailyDouble": false,
+          "orderNumber": 17,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Lance",
+              "score": 11600
+            },
+            {
+              "player": "Steve",
+              "score": 10000
+            },
+            {
+              "player": "Ric",
+              "score": 9800
+            }
+          ]
+        },
+        {
+          "category": "ATLAS",
+          "value": 400,
+          "clue": "This fire-stealer was Atlas' brother",
+          "answer": "Prometheus",
+          "isDailyDouble": false,
+          "orderNumber": 18,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Lance",
+              "score": 11600
+            },
+            {
+              "player": "Steve",
+              "score": 10400
+            },
+            {
+              "player": "Ric",
+              "score": 9800
+            }
+          ]
+        },
+        {
+          "category": "THE ANDYS",
+          "value": 2000,
+          "clue": "In April 2006 Joshua Bolten succeeded Andrew Card in this White House post",
+          "answer": "Chief of Staff",
+          "isDailyDouble": true,
+          "orderNumber": 19,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Lance",
+              "score": 11600
+            },
+            {
+              "player": "Steve",
+              "score": 8400
+            },
+            {
+              "player": "Ric",
+              "score": 9800
+            }
+          ]
+        },
+        {
+          "category": "THE ANDYS",
+          "value": 1600,
+          "clue": "In 1868 this Scot said of his $50,000 a yr., \"Beyond this never earn... spend the surplus... for benevolent purposes\"",
+          "answer": "Carnegie",
+          "isDailyDouble": false,
+          "orderNumber": 20,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Lance",
+              "score": 11600
+            },
+            {
+              "player": "Steve",
+              "score": 10000
+            },
+            {
+              "player": "Ric",
+              "score": 9800
+            }
+          ]
+        },
+        {
+          "category": "THE ANDYS",
+          "value": 2000,
+          "clue": "This metaphysical poet wrote poems praising Cromwell & imploring his own \"coy mistress\"",
+          "answer": "(Andrew) Marvell",
+          "isDailyDouble": false,
+          "orderNumber": 21,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Lance",
+              "score": 11600
+            },
+            {
+              "player": "Steve",
+              "score": 10000
+            },
+            {
+              "player": "Ric",
+              "score": 11800
+            }
+          ]
+        },
+        {
+          "category": "ATLAS",
+          "value": 800,
+          "clue": "In myth Atlas is said to be the first of 10 kings of this legendary land",
+          "answer": "Atlantis",
+          "isDailyDouble": false,
+          "orderNumber": 22,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Lance",
+              "score": 12400
+            },
+            {
+              "player": "Steve",
+              "score": 10000
+            },
+            {
+              "player": "Ric",
+              "score": 11800
+            }
+          ]
+        },
+        {
+          "category": "ATLAS",
+          "value": 1200,
+          "clue": "Saying he needed a pad for his head, this hero tricked Atlas into reassuming his job of holding the heavens",
+          "answer": "Hercules",
+          "isDailyDouble": false,
+          "orderNumber": 23,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Lance",
+              "score": 12400
+            },
+            {
+              "player": "Steve",
+              "score": 10000
+            },
+            {
+              "player": "Ric",
+              "score": 13000
+            }
+          ]
+        },
+        {
+          "category": "ATLAS",
+          "value": 3000,
+          "clue": "Atlas was part of this group in the war against the gods of Mt. Olympus",
+          "answer": "the Titans",
+          "isDailyDouble": true,
+          "orderNumber": 24,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Lance",
+              "score": 12400
+            },
+            {
+              "player": "Steve",
+              "score": 10000
+            },
+            {
+              "player": "Ric",
+              "score": 16000
+            }
+          ]
+        },
+        {
+          "category": "ATLAS",
+          "value": 2000,
+          "clue": "Atlas fathered this nymph who liked to entertain shipwrecked sailors like Odysseus",
+          "answer": "Calypso",
+          "isDailyDouble": false,
+          "orderNumber": 25,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Lance",
+              "score": 12400
+            },
+            {
+              "player": "Steve",
+              "score": 12000
+            },
+            {
+              "player": "Ric",
+              "score": 16000
+            }
+          ]
+        },
+        {
+          "category": "THE \"ALP\"s",
+          "value": 400,
+          "clue": "The upper part of the head including the hair",
+          "answer": "the scalp",
+          "isDailyDouble": false,
+          "orderNumber": 26,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Lance",
+              "score": 12800
+            },
+            {
+              "player": "Steve",
+              "score": 12000
+            },
+            {
+              "player": "Ric",
+              "score": 16000
+            }
+          ]
+        },
+        {
+          "category": "THE \"ALP\"s",
+          "value": 800,
+          "clue": "An unusual or abnormally rapid beating of the heart",
+          "answer": "a palpitation",
+          "isDailyDouble": false,
+          "orderNumber": 27,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Lance",
+              "score": 13600
+            },
+            {
+              "player": "Steve",
+              "score": 12000
+            },
+            {
+              "player": "Ric",
+              "score": 16000
+            }
+          ]
+        },
+        {
+          "category": "THE \"ALP\"s",
+          "value": 1200,
+          "clue": "He has had 19 Top 40 hits as a soloist & with his band The Tijuana Brass",
+          "answer": "Herb Alpert",
+          "isDailyDouble": false,
+          "orderNumber": 28,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Lance",
+              "score": 12400
+            },
+            {
+              "player": "Steve",
+              "score": 12000
+            },
+            {
+              "player": "Ric",
+              "score": 16000
+            }
+          ]
+        },
+        {
+          "category": "THE \"ALP\"s",
+          "value": 1600,
+          "clue": "Accountants, lawyers & other professionals, not just doctors, can be charged with this type of negligence",
+          "answer": "malpractice",
+          "isDailyDouble": false,
+          "orderNumber": 29,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Lance",
+              "score": 12400
+            },
+            {
+              "player": "Steve",
+              "score": 13600
+            },
+            {
+              "player": "Ric",
+              "score": 16000
+            }
+          ]
+        },
+        {
+          "category": "THE \"ALP\"s",
+          "value": 2000,
+          "clue": "This Honduran capital city began as a mining town in the late 16th century",
+          "answer": "Tegucigalpa",
+          "isDailyDouble": false,
+          "orderNumber": 30,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Lance",
+              "score": 12400
+            },
+            {
+              "player": "Steve",
+              "score": 13600
+            },
+            {
+              "player": "Ric",
+              "score": 18000
+            }
+          ]
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "Lance",
+          "score": 12400
+        },
+        {
+          "player": "Steve",
+          "score": 13600
+        },
+        {
+          "player": "Ric",
+          "score": 18000
+        }
+      ]
+    },
+    "finalJeopardy": {
+      "category": "PRESIDENTS",
+      "clue": "Besides James & John, more U.S. presidents have had this first name than any other",
+      "answer": "William",
+      "responses": [
+        {
+          "contestant": "Lance",
+          "response": "What is William?",
+          "isCorrect": true,
+          "isIncorrect": false,
+          "value": 11900,
+          "finalScore": 24300
+        },
+        {
+          "contestant": "Steve",
+          "response": "What is Andrew?",
+          "isCorrect": false,
+          "isIncorrect": true,
+          "value": 13598,
+          "finalScore": 2
+        },
+        {
+          "contestant": "Ric",
+          "response": "What is William?",
+          "isCorrect": true,
+          "isIncorrect": false,
+          "value": 9300,
+          "finalScore": 27300
+        }
+      ]
+    }
+  },
+  "finalScores": [
+    {
+      "player": "Lance",
+      "score": "$24,300"
+    },
+    {
+      "player": "Steve",
+      "score": "$2"
+    },
+    {
+      "player": "Ric",
+      "score": "$27,300"
+    }
+  ],
+  "coryatScores": [
+    {
+      "player": "Lance",
+      "score": 12400
+    },
+    {
+      "player": "Steve",
+      "score": 15600
+    },
+    {
+      "player": "Ric",
+      "score": 16000
+    }
+  ]
+}

@@ -1,0 +1,1694 @@
+{
+  "gameId": 2801,
+  "showNumber": "4269",
+  "title": "Show #4269 - Thursday, March 6, 2003",
+  "date": "2003-03-06",
+  "comments": "Max Levaren game 2.",
+  "contestants": [
+    "Max",
+    "Jason",
+    "Laurie"
+  ],
+  "rounds": {
+    "jeopardy": {
+      "categories": [
+        "FELINES",
+        "ROCK NICKNAMES",
+        "THE FABRICS OF YOUR LIVES",
+        "BRITISH ROYAL DADS",
+        "AROUND THE GLOBE",
+        "GETTING POSSESSIVE"
+      ],
+      "clues": [
+        {
+          "category": "AROUND THE GLOBE",
+          "value": 200,
+          "clue": "Useful in navigation because it's unaffected by magnetism, a gyrocompass points toward this location",
+          "answer": "North Pole",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Max",
+            "Jason"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Max",
+              "score": -200
+            },
+            {
+              "player": "Jason",
+              "score": -200
+            },
+            {
+              "player": "Laurie",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "GETTING POSSESSIVE",
+          "value": 200,
+          "clue": "You sign them as soon as you buy them & sign them again when paying for merchandise abroad",
+          "answer": "traveler's checks",
+          "isDailyDouble": false,
+          "orderNumber": 2,
+          "correctContestants": [
+            "Max"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Max",
+              "score": 0
+            },
+            {
+              "player": "Jason",
+              "score": -200
+            },
+            {
+              "player": "Laurie",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "GETTING POSSESSIVE",
+          "value": 400,
+          "clue": "They are painful contractions of hand muscles while utilizing your penmanship",
+          "answer": "writer's cramp",
+          "isDailyDouble": false,
+          "orderNumber": 3,
+          "correctContestants": [
+            "Laurie"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Max",
+              "score": 0
+            },
+            {
+              "player": "Jason",
+              "score": -200
+            },
+            {
+              "player": "Laurie",
+              "score": 400
+            }
+          ]
+        },
+        {
+          "category": "GETTING POSSESSIVE",
+          "value": 600,
+          "clue": "You don't hear much about this 19th c. American civil engineer, husband of a famous portrait subject",
+          "answer": "Whistler's father",
+          "isDailyDouble": true,
+          "orderNumber": 4,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Laurie"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Max",
+              "score": 0
+            },
+            {
+              "player": "Jason",
+              "score": -200
+            },
+            {
+              "player": "Laurie",
+              "score": -200
+            }
+          ]
+        },
+        {
+          "category": "GETTING POSSESSIVE",
+          "value": 800,
+          "clue": "U.S. real estate in 2000 was this, a situation of high prices & demand exceeding supply",
+          "answer": "seller's market",
+          "isDailyDouble": false,
+          "orderNumber": 5,
+          "correctContestants": [
+            "Jason"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Max",
+              "score": 0
+            },
+            {
+              "player": "Jason",
+              "score": 600
+            },
+            {
+              "player": "Laurie",
+              "score": -200
+            }
+          ]
+        },
+        {
+          "category": "ROCK NICKNAMES",
+          "value": 200,
+          "clue": "\"Piano Man\"",
+          "answer": "Billy Joel",
+          "isDailyDouble": false,
+          "orderNumber": 6,
+          "correctContestants": [
+            "Jason"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Max",
+              "score": 0
+            },
+            {
+              "player": "Jason",
+              "score": 800
+            },
+            {
+              "player": "Laurie",
+              "score": -200
+            }
+          ]
+        },
+        {
+          "category": "ROCK NICKNAMES",
+          "value": 400,
+          "clue": "\"The Cute Beatle\"",
+          "answer": "Paul McCartney",
+          "isDailyDouble": false,
+          "orderNumber": 7,
+          "correctContestants": [
+            "Jason"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Max",
+              "score": 0
+            },
+            {
+              "player": "Jason",
+              "score": 1200
+            },
+            {
+              "player": "Laurie",
+              "score": -200
+            }
+          ]
+        },
+        {
+          "category": "ROCK NICKNAMES",
+          "value": 600,
+          "clue": "\"Pearl\"",
+          "answer": "Janis Joplin",
+          "isDailyDouble": false,
+          "orderNumber": 8,
+          "correctContestants": [
+            "Jason"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Max",
+              "score": 0
+            },
+            {
+              "player": "Jason",
+              "score": 1800
+            },
+            {
+              "player": "Laurie",
+              "score": -200
+            }
+          ]
+        },
+        {
+          "category": "ROCK NICKNAMES",
+          "value": 800,
+          "clue": "\"Slowhand\"",
+          "answer": "Eric Clapton",
+          "isDailyDouble": false,
+          "orderNumber": 9,
+          "correctContestants": [
+            "Laurie"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Max",
+              "score": 0
+            },
+            {
+              "player": "Jason",
+              "score": 1800
+            },
+            {
+              "player": "Laurie",
+              "score": 600
+            }
+          ]
+        },
+        {
+          "category": "ROCK NICKNAMES",
+          "value": 1000,
+          "clue": "\"The Motor City Madman\"",
+          "answer": "Ted Nugent",
+          "isDailyDouble": false,
+          "orderNumber": 10,
+          "correctContestants": [
+            "Jason"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Max",
+              "score": 0
+            },
+            {
+              "player": "Jason",
+              "score": 2800
+            },
+            {
+              "player": "Laurie",
+              "score": 600
+            }
+          ]
+        },
+        {
+          "category": "GETTING POSSESSIVE",
+          "value": 1000,
+          "clue": "Graham Parker sang, \"I get left in the cold 'cause I will search the world for\" this deceiving stuff",
+          "answer": "fool's gold",
+          "isDailyDouble": false,
+          "orderNumber": 11,
+          "correctContestants": [
+            "Jason"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Max",
+              "score": 0
+            },
+            {
+              "player": "Jason",
+              "score": 3800
+            },
+            {
+              "player": "Laurie",
+              "score": 600
+            }
+          ]
+        },
+        {
+          "category": "AROUND THE GLOBE",
+          "value": 400,
+          "clue": "(Clue with the Clue Crew missing because of a tape problem)",
+          "answer": "-----------------------------------",
+          "isDailyDouble": false,
+          "orderNumber": 12,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Jason"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Max",
+              "score": 0
+            },
+            {
+              "player": "Jason",
+              "score": 3400
+            },
+            {
+              "player": "Laurie",
+              "score": 600
+            }
+          ]
+        },
+        {
+          "category": "FELINES",
+          "value": 200,
+          "clue": "Your average housecat can extend & sheathe most of these at will",
+          "answer": "claws",
+          "isDailyDouble": false,
+          "orderNumber": 13,
+          "correctContestants": [
+            "Max"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Max",
+              "score": 200
+            },
+            {
+              "player": "Jason",
+              "score": 3400
+            },
+            {
+              "player": "Laurie",
+              "score": 600
+            }
+          ]
+        },
+        {
+          "category": "FELINES",
+          "value": 400,
+          "clue": "Nepetalactone is the main ingredient in this pleasure-inducing mint plant",
+          "answer": "catnip",
+          "isDailyDouble": false,
+          "orderNumber": 14,
+          "correctContestants": [
+            "Laurie"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Max",
+              "score": 200
+            },
+            {
+              "player": "Jason",
+              "score": 3400
+            },
+            {
+              "player": "Laurie",
+              "score": 1000
+            }
+          ]
+        },
+        {
+          "category": "FELINES",
+          "value": 600,
+          "clue": "Special muscles control these, also known as vibrissae, to help kitty feel its way around in low light",
+          "answer": "whiskers",
+          "isDailyDouble": false,
+          "orderNumber": 15,
+          "correctContestants": [
+            "Jason"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Max",
+              "score": 200
+            },
+            {
+              "player": "Jason",
+              "score": 4000
+            },
+            {
+              "player": "Laurie",
+              "score": 1000
+            }
+          ]
+        },
+        {
+          "category": "AROUND THE GLOBE",
+          "value": 600,
+          "clue": "By percentage of overall landmass, this 109-acre country is one of the most urbanized nations in the world",
+          "answer": "Vatican City",
+          "isDailyDouble": false,
+          "orderNumber": 16,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Laurie"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Max",
+              "score": 200
+            },
+            {
+              "player": "Jason",
+              "score": 4000
+            },
+            {
+              "player": "Laurie",
+              "score": 400
+            }
+          ]
+        },
+        {
+          "category": "AROUND THE GLOBE",
+          "value": 800,
+          "clue": "These areas were given a 3-mile limit in 1789 because 3 miles was the maximum distance cannons could fire a shot",
+          "answer": "shorelines",
+          "isDailyDouble": false,
+          "orderNumber": 17,
+          "correctContestants": [
+            "Max"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Max",
+              "score": 1000
+            },
+            {
+              "player": "Jason",
+              "score": 4000
+            },
+            {
+              "player": "Laurie",
+              "score": 400
+            }
+          ]
+        },
+        {
+          "category": "AROUND THE GLOBE",
+          "value": 1000,
+          "clue": "To avoid storms, planes will often fly in this relatively peaceful atmosphere layer that's just below the mesosphere",
+          "answer": "stratosphere",
+          "isDailyDouble": false,
+          "orderNumber": 18,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Max",
+              "score": 1000
+            },
+            {
+              "player": "Jason",
+              "score": 4000
+            },
+            {
+              "player": "Laurie",
+              "score": 400
+            }
+          ]
+        },
+        {
+          "category": "BRITISH ROYAL DADS",
+          "value": 200,
+          "clue": "He fathered the current Prince of Wales",
+          "answer": "Prince Philip",
+          "isDailyDouble": false,
+          "orderNumber": 19,
+          "correctContestants": [
+            "Max"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Max",
+              "score": 1200
+            },
+            {
+              "player": "Jason",
+              "score": 4000
+            },
+            {
+              "player": "Laurie",
+              "score": 400
+            }
+          ]
+        },
+        {
+          "category": "BRITISH ROYAL DADS",
+          "value": 400,
+          "clue": "He fathered 2 queens of England by 2 different women",
+          "answer": "Henry VIII",
+          "isDailyDouble": false,
+          "orderNumber": 20,
+          "correctContestants": [
+            "Jason"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Max",
+              "score": 1200
+            },
+            {
+              "player": "Jason",
+              "score": 4400
+            },
+            {
+              "player": "Laurie",
+              "score": 400
+            }
+          ]
+        },
+        {
+          "category": "FELINES",
+          "value": 800,
+          "clue": "As this 2000 Ben Stiller movie showed, you can toilet train a cat",
+          "answer": "Meet the Parents",
+          "isDailyDouble": false,
+          "orderNumber": 21,
+          "correctContestants": [
+            "Jason"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Max",
+              "score": 1200
+            },
+            {
+              "player": "Jason",
+              "score": 5200
+            },
+            {
+              "player": "Laurie",
+              "score": 400
+            }
+          ]
+        },
+        {
+          "category": "FELINES",
+          "value": 1000,
+          "clue": "The mother of this breed is considered to be a cat named Wong Mau, imported to the U.S. from Rangoon",
+          "answer": "Burmese",
+          "isDailyDouble": false,
+          "orderNumber": 22,
+          "correctContestants": [
+            "Max"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Max",
+              "score": 2200
+            },
+            {
+              "player": "Jason",
+              "score": 5200
+            },
+            {
+              "player": "Laurie",
+              "score": 400
+            }
+          ]
+        },
+        {
+          "category": "BRITISH ROYAL DADS",
+          "value": 600,
+          "clue": "He died from typhoid fever at age 42 in 1861, but not before he fathered King Edward VII",
+          "answer": "Prince Albert",
+          "isDailyDouble": false,
+          "orderNumber": 23,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Max",
+              "score": 2200
+            },
+            {
+              "player": "Jason",
+              "score": 5200
+            },
+            {
+              "player": "Laurie",
+              "score": 400
+            }
+          ]
+        },
+        {
+          "category": "BRITISH ROYAL DADS",
+          "value": 800,
+          "clue": "Born in what's now France, he fathered William Rufus & Henry I",
+          "answer": "William the Conqueror",
+          "isDailyDouble": false,
+          "orderNumber": 24,
+          "correctContestants": [
+            "Max"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Max",
+              "score": 3000
+            },
+            {
+              "player": "Jason",
+              "score": 5200
+            },
+            {
+              "player": "Laurie",
+              "score": 400
+            }
+          ]
+        },
+        {
+          "category": "BRITISH ROYAL DADS",
+          "value": 1000,
+          "clue": "He fathered the current monarch",
+          "answer": "George VI",
+          "isDailyDouble": false,
+          "orderNumber": 25,
+          "correctContestants": [
+            "Max"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Max",
+              "score": 4000
+            },
+            {
+              "player": "Jason",
+              "score": 5200
+            },
+            {
+              "player": "Laurie",
+              "score": 400
+            }
+          ]
+        },
+        {
+          "category": "THE FABRICS OF YOUR LIVES",
+          "value": 200,
+          "clue": "The name of this sheer, fluffy silk is also used for a fluffy lemon pie",
+          "answer": "chiffon",
+          "isDailyDouble": false,
+          "orderNumber": 26,
+          "correctContestants": [
+            "Jason"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Max",
+              "score": 4000
+            },
+            {
+              "player": "Jason",
+              "score": 5400
+            },
+            {
+              "player": "Laurie",
+              "score": 400
+            }
+          ]
+        },
+        {
+          "category": "THE FABRICS OF YOUR LIVES",
+          "value": 400,
+          "clue": "Chenille, French for \"velvety cord\", literally refers to this insect that may look like a velvety cord",
+          "answer": "caterpillar",
+          "isDailyDouble": false,
+          "orderNumber": 27,
+          "correctContestants": [
+            "Jason"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Max",
+              "score": 4000
+            },
+            {
+              "player": "Jason",
+              "score": 5800
+            },
+            {
+              "player": "Laurie",
+              "score": 400
+            }
+          ]
+        },
+        {
+          "category": "THE FABRICS OF YOUR LIVES",
+          "value": 600,
+          "clue": "Sackcloth was originally made of this animal's hair; mohair still is",
+          "answer": "goat",
+          "isDailyDouble": false,
+          "orderNumber": 28,
+          "correctContestants": [
+            "Max"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Max",
+              "score": 4600
+            },
+            {
+              "player": "Jason",
+              "score": 5800
+            },
+            {
+              "player": "Laurie",
+              "score": 400
+            }
+          ]
+        },
+        {
+          "category": "THE FABRICS OF YOUR LIVES",
+          "value": 800,
+          "clue": "Kersey is a coarse, woolen cloth; this, one letter away, is an elastic knit cotton",
+          "answer": "jersey",
+          "isDailyDouble": false,
+          "orderNumber": 29,
+          "correctContestants": [
+            "Max"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Max",
+              "score": 5400
+            },
+            {
+              "player": "Jason",
+              "score": 5800
+            },
+            {
+              "player": "Laurie",
+              "score": 400
+            }
+          ]
+        },
+        {
+          "category": "THE FABRICS OF YOUR LIVES",
+          "value": 1000,
+          "clue": "The name of this smooth, closely woven cotton cloth used in bedsheets is from a Persian word",
+          "answer": "percale",
+          "isDailyDouble": false,
+          "orderNumber": 30,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Max",
+              "score": 5400
+            },
+            {
+              "player": "Jason",
+              "score": 5800
+            },
+            {
+              "player": "Laurie",
+              "score": 400
+            }
+          ]
+        }
+      ],
+      "firstBreakScores": [
+        {
+          "player": "Max",
+          "score": 200
+        },
+        {
+          "player": "Jason",
+          "score": 4000
+        },
+        {
+          "player": "Laurie",
+          "score": 1000
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "Max",
+          "score": 5400
+        },
+        {
+          "player": "Jason",
+          "score": 5800
+        },
+        {
+          "player": "Laurie",
+          "score": 400
+        }
+      ]
+    },
+    "doubleJeopardy": {
+      "categories": [
+        "THE RIVER",
+        "LETHAL WEAPON",
+        "THE PATRIOT",
+        "SIGNS",
+        "HAMLET",
+        "MEL GIBSON"
+      ],
+      "clues": [
+        {
+          "category": "MEL GIBSON",
+          "value": 400,
+          "clue": "Although many believe Gibson was born in Australia, he was actually born on January 3, 1956, in Peekskill in this state",
+          "answer": "New York",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Max",
+              "score": 5400
+            },
+            {
+              "player": "Jason",
+              "score": 6200
+            },
+            {
+              "player": "Laurie",
+              "score": 400
+            }
+          ]
+        },
+        {
+          "category": "LETHAL WEAPON",
+          "value": 400,
+          "clue": "The weapons in this board game are a rope, a lead pipe, a knife, a wrench, a candlestick & a revolver",
+          "answer": "Clue",
+          "isDailyDouble": false,
+          "orderNumber": 2,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Max",
+              "score": 5400
+            },
+            {
+              "player": "Jason",
+              "score": 6200
+            },
+            {
+              "player": "Laurie",
+              "score": 800
+            }
+          ]
+        },
+        {
+          "category": "LETHAL WEAPON",
+          "value": 800,
+          "clue": "(Clue with the Clue Crew missing because of a tape problem)",
+          "answer": "---------------------------------------",
+          "isDailyDouble": false,
+          "orderNumber": 3,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Max",
+              "score": 5400
+            },
+            {
+              "player": "Jason",
+              "score": 7000
+            },
+            {
+              "player": "Laurie",
+              "score": 800
+            }
+          ]
+        },
+        {
+          "category": "LETHAL WEAPON",
+          "value": 1200,
+          "clue": "First put into use by the Russians in 1949, this assault rifle was invented by Mikhail Kalashnikov",
+          "answer": "AK-47",
+          "isDailyDouble": false,
+          "orderNumber": 4,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Max",
+              "score": 5400
+            },
+            {
+              "player": "Jason",
+              "score": 8200
+            },
+            {
+              "player": "Laurie",
+              "score": 800
+            }
+          ]
+        },
+        {
+          "category": "LETHAL WEAPON",
+          "value": 1600,
+          "clue": "Used to entangle a cow's legs, gauchos make good use of this weapon of strong cords with weighted ends",
+          "answer": "bola",
+          "isDailyDouble": false,
+          "orderNumber": 5,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Max",
+              "score": 5400
+            },
+            {
+              "player": "Jason",
+              "score": 6600
+            },
+            {
+              "player": "Laurie",
+              "score": 800
+            }
+          ]
+        },
+        {
+          "category": "LETHAL WEAPON",
+          "value": 2000,
+          "clue": "In Washington, Ark. there's a replica of the smithy where these eponymous knives were first made in the 1830s",
+          "answer": "Bowie knives",
+          "isDailyDouble": false,
+          "orderNumber": 6,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Max",
+              "score": 7400
+            },
+            {
+              "player": "Jason",
+              "score": 6600
+            },
+            {
+              "player": "Laurie",
+              "score": 800
+            }
+          ]
+        },
+        {
+          "category": "SIGNS",
+          "value": 400,
+          "clue": "[video clue]",
+          "answer": "the peace sign",
+          "isDailyDouble": false,
+          "orderNumber": 7,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Max",
+              "score": 7400
+            },
+            {
+              "player": "Jason",
+              "score": 6600
+            },
+            {
+              "player": "Laurie",
+              "score": 1200
+            }
+          ]
+        },
+        {
+          "category": "SIGNS",
+          "value": 800,
+          "clue": "It's the sign of the Zodiac that's represented by an archer",
+          "answer": "Sagittarius",
+          "isDailyDouble": false,
+          "orderNumber": 8,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Max",
+              "score": 8200
+            },
+            {
+              "player": "Jason",
+              "score": 6600
+            },
+            {
+              "player": "Laurie",
+              "score": 1200
+            }
+          ]
+        },
+        {
+          "category": "SIGNS",
+          "value": 1200,
+          "clue": "[video clue]",
+          "answer": "paragraph symbol",
+          "isDailyDouble": false,
+          "orderNumber": 9,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Max",
+              "score": 8200
+            },
+            {
+              "player": "Jason",
+              "score": 6600
+            },
+            {
+              "player": "Laurie",
+              "score": 2400
+            }
+          ]
+        },
+        {
+          "category": "SIGNS",
+          "value": 1600,
+          "clue": "The Pennsylvania Dutch were famous for painting these signs on their barns, possibly to ward off evil",
+          "answer": "hex signs",
+          "isDailyDouble": false,
+          "orderNumber": 10,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Max",
+              "score": 9800
+            },
+            {
+              "player": "Jason",
+              "score": 6600
+            },
+            {
+              "player": "Laurie",
+              "score": 2400
+            }
+          ]
+        },
+        {
+          "category": "SIGNS",
+          "value": 2000,
+          "clue": "In math a plus or minus sign is also called this, like a certain person reached by phone",
+          "answer": "operator",
+          "isDailyDouble": false,
+          "orderNumber": 11,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Max",
+              "score": 9800
+            },
+            {
+              "player": "Jason",
+              "score": 6600
+            },
+            {
+              "player": "Laurie",
+              "score": 2400
+            }
+          ]
+        },
+        {
+          "category": "HAMLET",
+          "value": 400,
+          "clue": "This character says, \"Neither a borrower nor a lender be\" & \"To thine own self be true\"",
+          "answer": "Polonius",
+          "isDailyDouble": false,
+          "orderNumber": 12,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Max",
+              "score": 10200
+            },
+            {
+              "player": "Jason",
+              "score": 6600
+            },
+            {
+              "player": "Laurie",
+              "score": 2400
+            }
+          ]
+        },
+        {
+          "category": "HAMLET",
+          "value": 800,
+          "clue": "This girl gets mixed up with Hamlet & ends up drowned",
+          "answer": "Ophelia",
+          "isDailyDouble": false,
+          "orderNumber": 13,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Max",
+              "score": 11000
+            },
+            {
+              "player": "Jason",
+              "score": 6600
+            },
+            {
+              "player": "Laurie",
+              "score": 2400
+            }
+          ]
+        },
+        {
+          "category": "HAMLET",
+          "value": 1200,
+          "clue": "\"There are more things in Heaven and Earth\", Hamlet tells him, \"than are dreamt of in your philosophy\"",
+          "answer": "Horatio",
+          "isDailyDouble": false,
+          "orderNumber": 14,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Max",
+              "score": 11000
+            },
+            {
+              "player": "Jason",
+              "score": 6600
+            },
+            {
+              "player": "Laurie",
+              "score": 3600
+            }
+          ]
+        },
+        {
+          "category": "HAMLET",
+          "value": 1600,
+          "clue": "Hamlet tells this queen of Denmark, \"Would it were not so, you are my mother\"",
+          "answer": "Gertrude",
+          "isDailyDouble": false,
+          "orderNumber": 15,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Max",
+              "score": 11000
+            },
+            {
+              "player": "Jason",
+              "score": 8200
+            },
+            {
+              "player": "Laurie",
+              "score": 3600
+            }
+          ]
+        },
+        {
+          "category": "THE PATRIOT",
+          "value": 400,
+          "clue": "In 1758 he resigned his commission in the Virginia militia; in 1759 he married Martha Custis",
+          "answer": "George Washington",
+          "isDailyDouble": false,
+          "orderNumber": 16,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Max",
+              "score": 11000
+            },
+            {
+              "player": "Jason",
+              "score": 8600
+            },
+            {
+              "player": "Laurie",
+              "score": 3600
+            }
+          ]
+        },
+        {
+          "category": "THE PATRIOT",
+          "value": 800,
+          "clue": "In 1766 this Philadelphian spoke out against the Stamp Act in England's House of Commons",
+          "answer": "Ben Franklin",
+          "isDailyDouble": false,
+          "orderNumber": 17,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Max",
+              "score": 11800
+            },
+            {
+              "player": "Jason",
+              "score": 8600
+            },
+            {
+              "player": "Laurie",
+              "score": 3600
+            }
+          ]
+        },
+        {
+          "category": "THE PATRIOT",
+          "value": 1200,
+          "clue": "In 1784 Congress chose him as Secretary of Foreign Affairs; 5 years later he became Chief Justice of the U.S.",
+          "answer": "John Jay",
+          "isDailyDouble": false,
+          "orderNumber": 18,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Max",
+              "score": 13000
+            },
+            {
+              "player": "Jason",
+              "score": 8600
+            },
+            {
+              "player": "Laurie",
+              "score": 3600
+            }
+          ]
+        },
+        {
+          "category": "THE PATRIOT",
+          "value": 1600,
+          "clue": "From 1756 to 1764 this former brewer served as tax collector of Boston",
+          "answer": "Samuel Adams",
+          "isDailyDouble": false,
+          "orderNumber": 19,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Max",
+              "score": 13000
+            },
+            {
+              "player": "Jason",
+              "score": 10200
+            },
+            {
+              "player": "Laurie",
+              "score": 3600
+            }
+          ]
+        },
+        {
+          "category": "THE RIVER",
+          "value": 400,
+          "clue": "This tributary of the Mississippi is even longer than the Mississippi itself",
+          "answer": "Missouri River",
+          "isDailyDouble": false,
+          "orderNumber": 20,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Max",
+              "score": 13400
+            },
+            {
+              "player": "Jason",
+              "score": 10200
+            },
+            {
+              "player": "Laurie",
+              "score": 3600
+            }
+          ]
+        },
+        {
+          "category": "THE PATRIOT",
+          "value": 2000,
+          "clue": "Known as the \"Financier of the American Revolution\", he died penniless in 1806",
+          "answer": "Robert Morris",
+          "isDailyDouble": false,
+          "orderNumber": 21,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Max",
+              "score": 13400
+            },
+            {
+              "player": "Jason",
+              "score": 10200
+            },
+            {
+              "player": "Laurie",
+              "score": 3600
+            }
+          ]
+        },
+        {
+          "category": "HAMLET",
+          "value": 2000,
+          "clue": "The ghost of Hamlet's father appears to Hamlet & accuses this man of murdering him",
+          "answer": "Claudius",
+          "isDailyDouble": false,
+          "orderNumber": 22,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Max",
+              "score": 15400
+            },
+            {
+              "player": "Jason",
+              "score": 10200
+            },
+            {
+              "player": "Laurie",
+              "score": 3600
+            }
+          ]
+        },
+        {
+          "category": "THE RIVER",
+          "value": 800,
+          "clue": "It's the longest river entirely within England",
+          "answer": "Thames",
+          "isDailyDouble": false,
+          "orderNumber": 23,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Max",
+              "score": 16200
+            },
+            {
+              "player": "Jason",
+              "score": 10200
+            },
+            {
+              "player": "Laurie",
+              "score": 3600
+            }
+          ]
+        },
+        {
+          "category": "THE RIVER",
+          "value": 1200,
+          "clue": "The source of this river that flows across Cambodia & Vietnam wasn't discovered until 1994; it's in Tibet",
+          "answer": "Mekong",
+          "isDailyDouble": false,
+          "orderNumber": 24,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Max",
+              "score": 16200
+            },
+            {
+              "player": "Jason",
+              "score": 10200
+            },
+            {
+              "player": "Laurie",
+              "score": 3600
+            }
+          ]
+        },
+        {
+          "category": "THE RIVER",
+          "value": 1600,
+          "clue": "The Paraguay River originates in the highlands of Mato Grosso in this country",
+          "answer": "Brazil",
+          "isDailyDouble": false,
+          "orderNumber": 25,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Max",
+              "score": 14600
+            },
+            {
+              "player": "Jason",
+              "score": 10200
+            },
+            {
+              "player": "Laurie",
+              "score": 3600
+            }
+          ]
+        },
+        {
+          "category": "THE RIVER",
+          "value": 2000,
+          "clue": "It enters the Mediterranean Sea after separating into Rosetta & Damietta branches",
+          "answer": "Nile",
+          "isDailyDouble": true,
+          "orderNumber": 26,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Max",
+              "score": 16600
+            },
+            {
+              "player": "Jason",
+              "score": 10200
+            },
+            {
+              "player": "Laurie",
+              "score": 3600
+            }
+          ]
+        },
+        {
+          "category": "MEL GIBSON",
+          "value": 800,
+          "clue": "An ABC telecast of this animated film had a scene in which Mel, as John Smith, & Judy Kuhn sang a duet",
+          "answer": "Pocahontas",
+          "isDailyDouble": false,
+          "orderNumber": 27,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Max",
+              "score": 16600
+            },
+            {
+              "player": "Jason",
+              "score": 11000
+            },
+            {
+              "player": "Laurie",
+              "score": 3600
+            }
+          ]
+        },
+        {
+          "category": "MEL GIBSON",
+          "value": 2000,
+          "clue": "Mel made his directorial debut in this 1993 film in which he played a scarred teacher who mentors a 12-year-old boy",
+          "answer": "The Man Without a Face",
+          "isDailyDouble": false,
+          "orderNumber": 28,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Max",
+              "score": 16600
+            },
+            {
+              "player": "Jason",
+              "score": 11000
+            },
+            {
+              "player": "Laurie",
+              "score": 5600
+            }
+          ]
+        },
+        {
+          "category": "MEL GIBSON",
+          "value": 3000,
+          "clue": "In this 2000 film Mel's character Nick says, \"This is nice.  I don't understand why\" they complain about waxing",
+          "answer": "What Women Want",
+          "isDailyDouble": true,
+          "orderNumber": 29,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Max",
+              "score": 16600
+            },
+            {
+              "player": "Jason",
+              "score": 11000
+            },
+            {
+              "player": "Laurie",
+              "score": 2600
+            }
+          ]
+        },
+        {
+          "category": "MEL GIBSON",
+          "value": 1200,
+          "clue": "In this film Gibson played Lt. Col. Hal Moore, who led his men in the first major U.S. land battle of the Vietnam War",
+          "answer": "We Were Soldiers",
+          "isDailyDouble": false,
+          "orderNumber": 30,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Max",
+              "score": 16600
+            },
+            {
+              "player": "Jason",
+              "score": 11000
+            },
+            {
+              "player": "Laurie",
+              "score": 2600
+            }
+          ]
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "Max",
+          "score": 16600
+        },
+        {
+          "player": "Jason",
+          "score": 11000
+        },
+        {
+          "player": "Laurie",
+          "score": 2600
+        }
+      ]
+    },
+    "finalJeopardy": {
+      "category": "AGRICULTURE",
+      "clue": "The Norse were impressed by these in North America, but they weren't grown profitably in North America until around 1850",
+      "answer": "grapes",
+      "responses": [
+        {
+          "contestant": "Laurie",
+          "response": "What is ?",
+          "isCorrect": false,
+          "isIncorrect": true,
+          "value": 2599,
+          "finalScore": 1
+        },
+        {
+          "contestant": "Jason",
+          "response": "What are Trees?",
+          "isCorrect": false,
+          "isIncorrect": true,
+          "value": 8300,
+          "finalScore": 2700
+        },
+        {
+          "contestant": "Max",
+          "response": "What are sweet potatoes?",
+          "isCorrect": false,
+          "isIncorrect": true,
+          "value": 5500,
+          "finalScore": 11100
+        }
+      ]
+    }
+  },
+  "finalScores": [
+    {
+      "player": "Max",
+      "score": "$11,100"
+    },
+    {
+      "player": "Jason",
+      "score": "$2,700"
+    },
+    {
+      "player": "Laurie",
+      "score": "$1"
+    }
+  ],
+  "coryatScores": [
+    {
+      "player": "Max",
+      "score": 16600
+    },
+    {
+      "player": "Jason",
+      "score": 11000
+    },
+    {
+      "player": "Laurie",
+      "score": 6200
+    }
+  ]
+}

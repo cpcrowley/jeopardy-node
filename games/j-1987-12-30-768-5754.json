@@ -1,0 +1,1700 @@
+{
+  "gameId": 5754,
+  "showNumber": "768",
+  "title": "Show #768 - Wednesday, December 30, 1987",
+  "date": "1987-12-30",
+  "comments": "",
+  "contestants": [
+    "Barry",
+    "Keith",
+    "Sally"
+  ],
+  "rounds": {
+    "jeopardy": {
+      "categories": [
+        "WORLD GEOGRAPHY",
+        "ZEUS",
+        "MONEY MATH",
+        "WORD ORIGINS",
+        "CELEBRITIES",
+        "BATS"
+      ],
+      "clues": [
+        {
+          "category": "WORLD GEOGRAPHY",
+          "value": 100,
+          "clue": "The free side of Berlin",
+          "answer": "West Berlin",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [
+            "Sally"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Barry",
+              "score": 0
+            },
+            {
+              "player": "Keith",
+              "score": 0
+            },
+            {
+              "player": "Sally",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "category": "CELEBRITIES",
+          "value": 100,
+          "clue": "Leonard Maltin calls this dog, whose real name was Higgins, \"moviedom's smartest pooch since Lassie\"",
+          "answer": "Benji",
+          "isDailyDouble": false,
+          "orderNumber": 2,
+          "correctContestants": [
+            "Barry"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Barry",
+              "score": 100
+            },
+            {
+              "player": "Keith",
+              "score": 0
+            },
+            {
+              "player": "Sally",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "category": "WORLD GEOGRAPHY",
+          "value": 200,
+          "clue": "The communist half of Korea",
+          "answer": "North Korea",
+          "isDailyDouble": false,
+          "orderNumber": 3,
+          "correctContestants": [
+            "Barry"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Barry",
+              "score": 300
+            },
+            {
+              "player": "Keith",
+              "score": 0
+            },
+            {
+              "player": "Sally",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "category": "WORLD GEOGRAPHY",
+          "value": 300,
+          "clue": "Most of Jerusalem's Arabs live on this side",
+          "answer": "East Side (eastern side)",
+          "isDailyDouble": false,
+          "orderNumber": 4,
+          "correctContestants": [
+            "Keith"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Barry",
+              "score": 300
+            },
+            {
+              "player": "Keith",
+              "score": 300
+            },
+            {
+              "player": "Sally",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "category": "WORLD GEOGRAPHY",
+          "value": 400,
+          "clue": "The Yemen that was formerly the British Colony & Protectorate of Aden",
+          "answer": "South Yemen",
+          "isDailyDouble": false,
+          "orderNumber": 5,
+          "correctContestants": [
+            "Keith"
+          ],
+          "incorrectContestants": [
+            "Barry"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Barry",
+              "score": -100
+            },
+            {
+              "player": "Keith",
+              "score": 700
+            },
+            {
+              "player": "Sally",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "category": "WORLD GEOGRAPHY",
+          "value": 500,
+          "clue": "The part of Mongolia that's part of China",
+          "answer": "Inner Mongolia",
+          "isDailyDouble": false,
+          "orderNumber": 6,
+          "correctContestants": [
+            "Keith"
+          ],
+          "incorrectContestants": [
+            "Barry"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Barry",
+              "score": -600
+            },
+            {
+              "player": "Keith",
+              "score": 1200
+            },
+            {
+              "player": "Sally",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "category": "WORD ORIGINS",
+          "value": 100,
+          "clue": "Theatrical genre whose name is derived from a French valley known for its songs, Vau-de-Vire",
+          "answer": "vaudeville",
+          "isDailyDouble": false,
+          "orderNumber": 7,
+          "correctContestants": [
+            "Barry"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Barry",
+              "score": -500
+            },
+            {
+              "player": "Keith",
+              "score": 1200
+            },
+            {
+              "player": "Sally",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "category": "MONEY MATH",
+          "value": 100,
+          "clue": "If you wanted a dollar's worth of the smallest sized current U.S. coin, you'd need this many of them",
+          "answer": "10",
+          "isDailyDouble": false,
+          "orderNumber": 8,
+          "correctContestants": [
+            "Sally"
+          ],
+          "incorrectContestants": [
+            "Barry"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Barry",
+              "score": -600
+            },
+            {
+              "player": "Keith",
+              "score": 1200
+            },
+            {
+              "player": "Sally",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "WORD ORIGINS",
+          "value": 200,
+          "clue": "Cinderella probably never knew that this vehicle was named for a Hungarian village, Kocs",
+          "answer": "coach",
+          "isDailyDouble": false,
+          "orderNumber": 9,
+          "correctContestants": [
+            "Barry"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Barry",
+              "score": -400
+            },
+            {
+              "player": "Keith",
+              "score": 1200
+            },
+            {
+              "player": "Sally",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "MONEY MATH",
+          "value": 200,
+          "clue": "Value of a Kennedy coin as compared to a Susan B. Anthony",
+          "answer": "one-half, 50-cents less",
+          "isDailyDouble": false,
+          "orderNumber": 10,
+          "correctContestants": [
+            "Keith"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Barry",
+              "score": -400
+            },
+            {
+              "player": "Keith",
+              "score": 1400
+            },
+            {
+              "player": "Sally",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "WORD ORIGINS",
+          "value": 300,
+          "clue": "A masterful conductor might be called this from the Latin \"magister\" meaning master",
+          "answer": "maestro",
+          "isDailyDouble": false,
+          "orderNumber": 11,
+          "correctContestants": [
+            "Sally"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Barry",
+              "score": -400
+            },
+            {
+              "player": "Keith",
+              "score": 1400
+            },
+            {
+              "player": "Sally",
+              "score": 500
+            }
+          ]
+        },
+        {
+          "category": "WORD ORIGINS",
+          "value": 400,
+          "clue": "This consomme was named for the city of Madrid",
+          "answer": "madrilene",
+          "isDailyDouble": false,
+          "orderNumber": 12,
+          "correctContestants": [
+            "Sally"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Barry",
+              "score": -400
+            },
+            {
+              "player": "Keith",
+              "score": 1400
+            },
+            {
+              "player": "Sally",
+              "score": 900
+            }
+          ]
+        },
+        {
+          "category": "WORD ORIGINS",
+          "value": 500,
+          "clue": "The German name for these pipes means \"sea foam\", perhaps because they are white when new",
+          "answer": "meerschaum",
+          "isDailyDouble": false,
+          "orderNumber": 13,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Barry",
+              "score": -400
+            },
+            {
+              "player": "Keith",
+              "score": 1400
+            },
+            {
+              "player": "Sally",
+              "score": 900
+            }
+          ]
+        },
+        {
+          "category": "ZEUS",
+          "value": 100,
+          "clue": "In honor of Zeus, these were held by the Greeks every 4 years",
+          "answer": "Olympics",
+          "isDailyDouble": false,
+          "orderNumber": 14,
+          "correctContestants": [
+            "Barry"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Barry",
+              "score": -300
+            },
+            {
+              "player": "Keith",
+              "score": 1400
+            },
+            {
+              "player": "Sally",
+              "score": 900
+            }
+          ]
+        },
+        {
+          "category": "ZEUS",
+          "value": 200,
+          "clue": "Zeus' counterpart in Roman mythology",
+          "answer": "Jupiter",
+          "isDailyDouble": false,
+          "orderNumber": 15,
+          "correctContestants": [
+            "Sally"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Barry",
+              "score": -300
+            },
+            {
+              "player": "Keith",
+              "score": 1400
+            },
+            {
+              "player": "Sally",
+              "score": 1100
+            }
+          ]
+        },
+        {
+          "category": "ZEUS",
+          "value": 300,
+          "clue": "Hera was not only Zeus' wife but also related to him this way",
+          "answer": "his sister",
+          "isDailyDouble": false,
+          "orderNumber": 16,
+          "correctContestants": [
+            "Barry"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Barry",
+              "score": 0
+            },
+            {
+              "player": "Keith",
+              "score": 1400
+            },
+            {
+              "player": "Sally",
+              "score": 1100
+            }
+          ]
+        },
+        {
+          "category": "ZEUS",
+          "value": 400,
+          "clue": "Zeus' father Cronus was part of this group whom Zeus & his brothers overthrew",
+          "answer": "Titans",
+          "isDailyDouble": false,
+          "orderNumber": 17,
+          "correctContestants": [
+            "Keith"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Barry",
+              "score": 0
+            },
+            {
+              "player": "Keith",
+              "score": 1800
+            },
+            {
+              "player": "Sally",
+              "score": 1100
+            }
+          ]
+        },
+        {
+          "category": "ZEUS",
+          "value": 500,
+          "clue": "The 9 kids Zeus had with Mnemosyne all girls, are known collectively as these",
+          "answer": "Muses",
+          "isDailyDouble": false,
+          "orderNumber": 18,
+          "correctContestants": [
+            "Barry"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Barry",
+              "score": 500
+            },
+            {
+              "player": "Keith",
+              "score": 1800
+            },
+            {
+              "player": "Sally",
+              "score": 1100
+            }
+          ]
+        },
+        {
+          "category": "MONEY MATH",
+          "value": 300,
+          "clue": "At the bank you can buy a roll of 40 quarters for this many bucks",
+          "answer": "$10",
+          "isDailyDouble": false,
+          "orderNumber": 19,
+          "correctContestants": [
+            "Barry"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Barry",
+              "score": 800
+            },
+            {
+              "player": "Keith",
+              "score": 1800
+            },
+            {
+              "player": "Sally",
+              "score": 1100
+            }
+          ]
+        },
+        {
+          "category": "MONEY MATH",
+          "value": 500,
+          "clue": "The 3 currently minted U.S. coins whose denominations represent odd numbers of cents",
+          "answer": "nickel, quarter & penny",
+          "isDailyDouble": true,
+          "orderNumber": 20,
+          "correctContestants": [
+            "Barry"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Barry",
+              "score": 1300
+            },
+            {
+              "player": "Keith",
+              "score": 1800
+            },
+            {
+              "player": "Sally",
+              "score": 1100
+            }
+          ]
+        },
+        {
+          "category": "BATS",
+          "value": 100,
+          "clue": "Most bats spend the day in this position",
+          "answer": "hanging upside-down",
+          "isDailyDouble": false,
+          "orderNumber": 21,
+          "correctContestants": [
+            "Barry"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Barry",
+              "score": 1400
+            },
+            {
+              "player": "Keith",
+              "score": 1800
+            },
+            {
+              "player": "Sally",
+              "score": 1100
+            }
+          ]
+        },
+        {
+          "category": "BATS",
+          "value": 200,
+          "clue": "In some species, male & female bats live on different parts of a continent except when it's time to do this",
+          "answer": "mate",
+          "isDailyDouble": false,
+          "orderNumber": 22,
+          "correctContestants": [
+            "Barry"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Barry",
+              "score": 1600
+            },
+            {
+              "player": "Keith",
+              "score": 1800
+            },
+            {
+              "player": "Sally",
+              "score": 1100
+            }
+          ]
+        },
+        {
+          "category": "BATS",
+          "value": 300,
+          "clue": "Name for this fertilizer made from bat droppings",
+          "answer": "guano",
+          "isDailyDouble": false,
+          "orderNumber": 23,
+          "correctContestants": [
+            "Barry"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Barry",
+              "score": 1900
+            },
+            {
+              "player": "Keith",
+              "score": 1800
+            },
+            {
+              "player": "Sally",
+              "score": 1100
+            }
+          ]
+        },
+        {
+          "category": "BATS",
+          "value": 400,
+          "clue": "Most bats detect their prey by using echolocation which relies on this sense",
+          "answer": "hearing",
+          "isDailyDouble": false,
+          "orderNumber": 24,
+          "correctContestants": [
+            "Barry"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Barry",
+              "score": 2300
+            },
+            {
+              "player": "Keith",
+              "score": 1800
+            },
+            {
+              "player": "Sally",
+              "score": 1100
+            }
+          ]
+        },
+        {
+          "category": "BATS",
+          "value": 500,
+          "clue": "You may be glad to know that the bats known as flying foxes are vegetarians, eating mostly  this",
+          "answer": "fruit",
+          "isDailyDouble": false,
+          "orderNumber": 25,
+          "correctContestants": [
+            "Barry"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Barry",
+              "score": 2800
+            },
+            {
+              "player": "Keith",
+              "score": 1800
+            },
+            {
+              "player": "Sally",
+              "score": 1100
+            }
+          ]
+        },
+        {
+          "category": "MONEY MATH",
+          "value": 500,
+          "clue": "Difference in value between a bill with Hamilton's portrait & one with Lincoln's",
+          "answer": "$5",
+          "isDailyDouble": false,
+          "orderNumber": 26,
+          "correctContestants": [
+            "Barry"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Barry",
+              "score": 3300
+            },
+            {
+              "player": "Keith",
+              "score": 1800
+            },
+            {
+              "player": "Sally",
+              "score": 1100
+            }
+          ]
+        },
+        {
+          "category": "CELEBRITIES",
+          "value": 200,
+          "clue": "In '87 Deborah & Desiree both claimed royal lineage as daughters of this \"king\"",
+          "answer": "Elvis Presley",
+          "isDailyDouble": false,
+          "orderNumber": 27,
+          "correctContestants": [
+            "Sally"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Barry",
+              "score": 3300
+            },
+            {
+              "player": "Keith",
+              "score": 1800
+            },
+            {
+              "player": "Sally",
+              "score": 1300
+            }
+          ]
+        },
+        {
+          "category": "CELEBRITIES",
+          "value": 300,
+          "clue": "Her fitness video is \"Eat Slim/Stay Slim\" & you don't have to pay extra for the \"A\", \"E\", & 2 \"I\"s",
+          "answer": "Vanna White",
+          "isDailyDouble": false,
+          "orderNumber": 28,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Barry",
+            "Keith"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Barry",
+              "score": 3000
+            },
+            {
+              "player": "Keith",
+              "score": 1500
+            },
+            {
+              "player": "Sally",
+              "score": 1300
+            }
+          ]
+        },
+        {
+          "category": "CELEBRITIES",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Barry",
+              "score": 3000
+            },
+            {
+              "player": "Keith",
+              "score": 1500
+            },
+            {
+              "player": "Sally",
+              "score": 1300
+            }
+          ]
+        },
+        {
+          "category": "CELEBRITIES",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Barry",
+              "score": 3000
+            },
+            {
+              "player": "Keith",
+              "score": 1500
+            },
+            {
+              "player": "Sally",
+              "score": 1300
+            }
+          ]
+        }
+      ],
+      "firstBreakScores": [
+        {
+          "player": "Barry",
+          "score": -400
+        },
+        {
+          "player": "Keith",
+          "score": 1400
+        },
+        {
+          "player": "Sally",
+          "score": 900
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "Barry",
+          "score": 3000
+        },
+        {
+          "player": "Keith",
+          "score": 1500
+        },
+        {
+          "player": "Sally",
+          "score": 1300
+        }
+      ]
+    },
+    "doubleJeopardy": {
+      "categories": [
+        "\"A\" IN SHAKESPEARE",
+        "ANAGRAMS",
+        "ALABAMIANS",
+        "WESTERNS",
+        "PHYSICISTS",
+        "PRESIDENTIAL TRIVIA"
+      ],
+      "clues": [
+        {
+          "category": "\"A\" IN SHAKESPEARE",
+          "value": 200,
+          "clue": "In the play named for him, Timon takes leave of this Mediterranean city",
+          "answer": "Athens",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Barry",
+              "score": 3000
+            },
+            {
+              "player": "Keith",
+              "score": 1700
+            },
+            {
+              "player": "Sally",
+              "score": 1300
+            }
+          ]
+        },
+        {
+          "category": "\"A\" IN SHAKESPEARE",
+          "value": 400,
+          "clue": "Shakespeare wrote an extremely long poem about \"Venus and\" him",
+          "answer": "Adonis",
+          "isDailyDouble": false,
+          "orderNumber": 2,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Barry",
+              "score": 3000
+            },
+            {
+              "player": "Keith",
+              "score": 1700
+            },
+            {
+              "player": "Sally",
+              "score": 1700
+            }
+          ]
+        },
+        {
+          "category": "\"A\" IN SHAKESPEARE",
+          "value": 600,
+          "clue": "In \"Henry V\", the English army defeats the French in a battle at this site",
+          "answer": "Agincourt",
+          "isDailyDouble": false,
+          "orderNumber": 3,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Barry",
+              "score": 3600
+            },
+            {
+              "player": "Keith",
+              "score": 1700
+            },
+            {
+              "player": "Sally",
+              "score": 1700
+            }
+          ]
+        },
+        {
+          "category": "PHYSICISTS",
+          "value": 200,
+          "clue": "This letter, often describing the unknown in algebra, was used by Roentgen to name rays he discovered",
+          "answer": "X",
+          "isDailyDouble": false,
+          "orderNumber": 4,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Barry",
+              "score": 3600
+            },
+            {
+              "player": "Keith",
+              "score": 1900
+            },
+            {
+              "player": "Sally",
+              "score": 1700
+            }
+          ]
+        },
+        {
+          "category": "\"A\" IN SHAKESPEARE",
+          "value": 1100,
+          "clue": "2 of the 4 Shakespeare plays whose titles start with \"A\"",
+          "answer": "(2 of) All's Well That Ends Well, As You Like It (or A Midsummer Night's Dream & Antony & Cleopatra)",
+          "isDailyDouble": true,
+          "orderNumber": 5,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Barry",
+              "score": 3600
+            },
+            {
+              "player": "Keith",
+              "score": 3000
+            },
+            {
+              "player": "Sally",
+              "score": 1700
+            }
+          ]
+        },
+        {
+          "category": "\"A\" IN SHAKESPEARE",
+          "value": 1000,
+          "clue": "He's the merchant of Venice in \"The Merchant of Venice\"",
+          "answer": "Antonio",
+          "isDailyDouble": false,
+          "orderNumber": 6,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Barry",
+              "score": 4600
+            },
+            {
+              "player": "Keith",
+              "score": 2000
+            },
+            {
+              "player": "Sally",
+              "score": 1700
+            }
+          ]
+        },
+        {
+          "category": "PRESIDENTIAL TRIVIA",
+          "value": 600,
+          "clue": "Scandal-plagued pres., his father once told him, \"It's lucky you weren't born a gal, because you can't say no\"",
+          "answer": "(Warren G.) Harding",
+          "isDailyDouble": false,
+          "orderNumber": 7,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Barry",
+              "score": 5200
+            },
+            {
+              "player": "Keith",
+              "score": 2000
+            },
+            {
+              "player": "Sally",
+              "score": 1700
+            }
+          ]
+        },
+        {
+          "category": "PRESIDENTIAL TRIVIA",
+          "value": 200,
+          "clue": "His daughter Margaret says the \"S\" should be followed by a period, the way he wrote it",
+          "answer": "Truman",
+          "isDailyDouble": false,
+          "orderNumber": 8,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Barry",
+              "score": 5400
+            },
+            {
+              "player": "Keith",
+              "score": 2000
+            },
+            {
+              "player": "Sally",
+              "score": 1700
+            }
+          ]
+        },
+        {
+          "category": "PRESIDENTIAL TRIVIA",
+          "value": 400,
+          "clue": "After the deaths of his wife & mother, this \"Dude from N.Y.\" worked on ranches in North Dakota",
+          "answer": "Theodore Roosevelt",
+          "isDailyDouble": false,
+          "orderNumber": 9,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Barry",
+              "score": 5800
+            },
+            {
+              "player": "Keith",
+              "score": 2000
+            },
+            {
+              "player": "Sally",
+              "score": 1700
+            }
+          ]
+        },
+        {
+          "category": "PRESIDENTIAL TRIVIA",
+          "value": 800,
+          "clue": "He said, \"I must have centered the ball 500,000 times in high school & college\"",
+          "answer": "Gerald Ford",
+          "isDailyDouble": false,
+          "orderNumber": 10,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Barry",
+              "score": 6600
+            },
+            {
+              "player": "Keith",
+              "score": 2000
+            },
+            {
+              "player": "Sally",
+              "score": 1700
+            }
+          ]
+        },
+        {
+          "category": "PRESIDENTIAL TRIVIA",
+          "value": 1000,
+          "clue": "He told his balding Treasury Sec'y, George Humphrey, \"I see you part your hair the way I do\"",
+          "answer": "Eisenhower",
+          "isDailyDouble": false,
+          "orderNumber": 11,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Barry",
+              "score": 6600
+            },
+            {
+              "player": "Keith",
+              "score": 2000
+            },
+            {
+              "player": "Sally",
+              "score": 2700
+            }
+          ]
+        },
+        {
+          "category": "ALABAMIANS",
+          "value": 200,
+          "clue": "Col. William Barrett Travis of Evergreen, Alabama led the defenders at this Texas site",
+          "answer": "the Alamo",
+          "isDailyDouble": false,
+          "orderNumber": 12,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Barry",
+              "score": 6800
+            },
+            {
+              "player": "Keith",
+              "score": 2000
+            },
+            {
+              "player": "Sally",
+              "score": 2700
+            }
+          ]
+        },
+        {
+          "category": "PHYSICISTS",
+          "value": 400,
+          "clue": "Englishman generally credited with discovery of calculus & theory of gravity",
+          "answer": "Newton",
+          "isDailyDouble": false,
+          "orderNumber": 13,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Barry",
+              "score": 6800
+            },
+            {
+              "player": "Keith",
+              "score": 2400
+            },
+            {
+              "player": "Sally",
+              "score": 2700
+            }
+          ]
+        },
+        {
+          "category": "PHYSICISTS",
+          "value": 600,
+          "clue": "Ancient Greek geometer who postulated light rays & \"started\" the science of optics",
+          "answer": "Euclid",
+          "isDailyDouble": false,
+          "orderNumber": 14,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Barry",
+              "score": 7400
+            },
+            {
+              "player": "Keith",
+              "score": 2400
+            },
+            {
+              "player": "Sally",
+              "score": 2700
+            }
+          ]
+        },
+        {
+          "category": "PHYSICISTS",
+          "value": 800,
+          "clue": "Italian known for his laws of falling bodies, he also invented the thermometer",
+          "answer": "Galileo",
+          "isDailyDouble": false,
+          "orderNumber": 15,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Barry",
+              "score": 8200
+            },
+            {
+              "player": "Keith",
+              "score": 2400
+            },
+            {
+              "player": "Sally",
+              "score": 2700
+            }
+          ]
+        },
+        {
+          "category": "PHYSICISTS",
+          "value": 1000,
+          "clue": "French scientist philosopher known for \"clockwork\" universe theory, he died visiting Queen Christina",
+          "answer": "René Descartes",
+          "isDailyDouble": false,
+          "orderNumber": 16,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Barry",
+              "score": 8200
+            },
+            {
+              "player": "Keith",
+              "score": 2400
+            },
+            {
+              "player": "Sally",
+              "score": 2700
+            }
+          ]
+        },
+        {
+          "category": "WESTERNS",
+          "value": 200,
+          "clue": "Tho he played the \"Man with No Name\" in Sergio Leone westerns, his name's well known in Carmel",
+          "answer": "Clint Eastwood",
+          "isDailyDouble": false,
+          "orderNumber": 17,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Barry",
+              "score": 8200
+            },
+            {
+              "player": "Keith",
+              "score": 2600
+            },
+            {
+              "player": "Sally",
+              "score": 2700
+            }
+          ]
+        },
+        {
+          "category": "WESTERNS",
+          "value": 400,
+          "clue": "He was \"The Man Who Loved Cat Dancing\"",
+          "answer": "Burt Reynolds",
+          "isDailyDouble": false,
+          "orderNumber": 18,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Barry",
+              "score": 7800
+            },
+            {
+              "player": "Keith",
+              "score": 3000
+            },
+            {
+              "player": "Sally",
+              "score": 2700
+            }
+          ]
+        },
+        {
+          "category": "WESTERNS",
+          "value": 1000,
+          "clue": "The 1st \"Cinerama\" film that wasn't a travelogue, this epic Western had the following theme:",
+          "answer": "How the West Was Won",
+          "isDailyDouble": true,
+          "orderNumber": 19,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Barry",
+              "score": 7800
+            },
+            {
+              "player": "Keith",
+              "score": 4000
+            },
+            {
+              "player": "Sally",
+              "score": 2700
+            }
+          ]
+        },
+        {
+          "category": "WESTERNS",
+          "value": 800,
+          "clue": "One ad slogan for this comic western was \"Never give a saga an even break\"",
+          "answer": "Blazing Saddles",
+          "isDailyDouble": false,
+          "orderNumber": 20,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Barry",
+              "score": 7000
+            },
+            {
+              "player": "Keith",
+              "score": 4000
+            },
+            {
+              "player": "Sally",
+              "score": 2700
+            }
+          ]
+        },
+        {
+          "category": "WESTERNS",
+          "value": 1000,
+          "clue": "\"The Outrage\" was a western remake of this classic Japanese husband-wife-bandit tale",
+          "answer": "Rashomon",
+          "isDailyDouble": false,
+          "orderNumber": 21,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Barry",
+              "score": 7000
+            },
+            {
+              "player": "Keith",
+              "score": 4000
+            },
+            {
+              "player": "Sally",
+              "score": 2700
+            }
+          ]
+        },
+        {
+          "category": "ALABAMIANS",
+          "value": 1000,
+          "clue": "Famed Cherokee Indian scholar George Gist or Guess is better known by this name",
+          "answer": "Sequoyah",
+          "isDailyDouble": false,
+          "orderNumber": 22,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Barry",
+              "score": 7000
+            },
+            {
+              "player": "Keith",
+              "score": 5000
+            },
+            {
+              "player": "Sally",
+              "score": 2700
+            }
+          ]
+        },
+        {
+          "category": "ALABAMIANS",
+          "value": 800,
+          "clue": "George W. Carver turned down big salaries from large companies & continued working at this Alabama school",
+          "answer": "Tuskegee Institute",
+          "isDailyDouble": false,
+          "orderNumber": 23,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Barry",
+              "score": 7800
+            },
+            {
+              "player": "Keith",
+              "score": 5000
+            },
+            {
+              "player": "Sally",
+              "score": 2700
+            }
+          ]
+        },
+        {
+          "category": "ANAGRAMS",
+          "value": 200,
+          "clue": "Some recipes ask you to add this common season last",
+          "answer": "salt (from last)",
+          "isDailyDouble": false,
+          "orderNumber": 24,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Barry",
+              "score": 7800
+            },
+            {
+              "player": "Keith",
+              "score": 5200
+            },
+            {
+              "player": "Sally",
+              "score": 2700
+            }
+          ]
+        },
+        {
+          "category": "ANAGRAMS",
+          "value": 400,
+          "clue": "The pilot looks at one of these to read the controls of a plane",
+          "answer": "panel (from plane)",
+          "isDailyDouble": false,
+          "orderNumber": 25,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Barry",
+              "score": 7800
+            },
+            {
+              "player": "Keith",
+              "score": 5200
+            },
+            {
+              "player": "Sally",
+              "score": 2700
+            }
+          ]
+        },
+        {
+          "category": "ANAGRAMS",
+          "value": 600,
+          "clue": "It describes a dormant or hidden talent",
+          "answer": "latent (from talent)",
+          "isDailyDouble": false,
+          "orderNumber": 26,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Barry",
+              "score": 8400
+            },
+            {
+              "player": "Keith",
+              "score": 5200
+            },
+            {
+              "player": "Sally",
+              "score": 2700
+            }
+          ]
+        },
+        {
+          "category": "ALABAMIANS",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Barry",
+              "score": 8400
+            },
+            {
+              "player": "Keith",
+              "score": 5200
+            },
+            {
+              "player": "Sally",
+              "score": 2700
+            }
+          ]
+        },
+        {
+          "category": "ALABAMIANS",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Barry",
+              "score": 8400
+            },
+            {
+              "player": "Keith",
+              "score": 5200
+            },
+            {
+              "player": "Sally",
+              "score": 2700
+            }
+          ]
+        },
+        {
+          "category": "ANAGRAMS",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Barry",
+              "score": 8400
+            },
+            {
+              "player": "Keith",
+              "score": 5200
+            },
+            {
+              "player": "Sally",
+              "score": 2700
+            }
+          ]
+        },
+        {
+          "category": "ANAGRAMS",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Barry",
+              "score": 8400
+            },
+            {
+              "player": "Keith",
+              "score": 5200
+            },
+            {
+              "player": "Sally",
+              "score": 2700
+            }
+          ]
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "Barry",
+          "score": 8400
+        },
+        {
+          "player": "Keith",
+          "score": 5200
+        },
+        {
+          "player": "Sally",
+          "score": 2700
+        }
+      ]
+    },
+    "finalJeopardy": {
+      "category": "NATIONAL PARKS",
+      "clue": "In this national park just east of the town of Navajo, taking even a small \"wood\" chip is illegal",
+      "answer": "Petrified Forest National Park",
+      "responses": [
+        {
+          "contestant": "Sally",
+          "response": "What is the Petrified Forest?",
+          "isCorrect": true,
+          "isIncorrect": false,
+          "value": 2500,
+          "finalScore": 5200
+        },
+        {
+          "contestant": "Keith",
+          "response": "What is Petrified National Forest",
+          "isCorrect": true,
+          "isIncorrect": false,
+          "value": 5200,
+          "finalScore": 10400
+        },
+        {
+          "contestant": "Barry",
+          "response": "What is the Petrified Forest",
+          "isCorrect": true,
+          "isIncorrect": false,
+          "value": 2500,
+          "finalScore": 10900
+        }
+      ]
+    }
+  },
+  "finalScores": [
+    {
+      "player": "Barry",
+      "score": "$10,900"
+    },
+    {
+      "player": "Keith",
+      "score": "$10,400"
+    },
+    {
+      "player": "Sally",
+      "score": "$5,200"
+    }
+  ],
+  "coryatScores": [
+    {
+      "player": "Barry",
+      "score": 8300
+    },
+    {
+      "player": "Keith",
+      "score": 4500
+    },
+    {
+      "player": "Sally",
+      "score": 2700
+    }
+  ]
+}

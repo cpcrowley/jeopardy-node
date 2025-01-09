@@ -1,0 +1,1707 @@
+{
+  "gameId": 2077,
+  "showNumber": "3606",
+  "title": "Show #3606 - Monday, April 17, 2000",
+  "date": "2000-04-17",
+  "comments": "",
+  "contestants": [
+    "Jason",
+    "Erich",
+    "Chris"
+  ],
+  "rounds": {
+    "jeopardy": {
+      "categories": [
+        "'ROUND THE WORLD",
+        "HIGH SCHOOL TV",
+        "BEASTLY COMMON BONDS",
+        "FILE UNDER \"B\"",
+        "STATE OF THE UNION",
+        "A DRESS"
+      ],
+      "clues": [
+        {
+          "category": "STATE OF THE UNION",
+          "value": 100,
+          "clue": "You'll find the USA's tallest building in this state",
+          "answer": "Illinois (Sears Tower)",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [
+            "Jason"
+          ],
+          "incorrectContestants": [
+            "Erich"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jason",
+              "score": 100
+            },
+            {
+              "player": "Erich",
+              "score": -100
+            },
+            {
+              "player": "Chris",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "STATE OF THE UNION",
+          "value": 200,
+          "clue": "More breakfast cereal is produced in this state's city of Battle Creek than any other place on Earth",
+          "answer": "Michigan",
+          "isDailyDouble": false,
+          "orderNumber": 2,
+          "correctContestants": [
+            "Jason"
+          ],
+          "incorrectContestants": [
+            "Chris"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jason",
+              "score": 300
+            },
+            {
+              "player": "Erich",
+              "score": -100
+            },
+            {
+              "player": "Chris",
+              "score": -200
+            }
+          ]
+        },
+        {
+          "category": "STATE OF THE UNION",
+          "value": 300,
+          "clue": "The light bulb & the phonograph were invented in this state",
+          "answer": "New Jersey",
+          "isDailyDouble": false,
+          "orderNumber": 3,
+          "correctContestants": [
+            "Chris"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jason",
+              "score": 300
+            },
+            {
+              "player": "Erich",
+              "score": -100
+            },
+            {
+              "player": "Chris",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "category": "HIGH SCHOOL TV",
+          "value": 100,
+          "clue": "John Travolta & Gabe Kaplan starred in this series about a classroom of remedial students",
+          "answer": "Welcome Back, Kotter",
+          "isDailyDouble": false,
+          "orderNumber": 4,
+          "correctContestants": [
+            "Chris"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jason",
+              "score": 300
+            },
+            {
+              "player": "Erich",
+              "score": -100
+            },
+            {
+              "player": "Chris",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "HIGH SCHOOL TV",
+          "value": 200,
+          "clue": "Robin Givens & Howard Hesseman were featured in this series about a classroom of honors students",
+          "answer": "Head of the Class",
+          "isDailyDouble": false,
+          "orderNumber": 5,
+          "correctContestants": [
+            "Jason"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jason",
+              "score": 500
+            },
+            {
+              "player": "Erich",
+              "score": -100
+            },
+            {
+              "player": "Chris",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "STATE OF THE UNION",
+          "value": 400,
+          "clue": "This state's \"Crater of Diamonds\" near Murfreesboro is the only diamond mine in the U.S.",
+          "answer": "Arkansas",
+          "isDailyDouble": false,
+          "orderNumber": 6,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Jason",
+            "Chris"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Jason",
+              "score": 100
+            },
+            {
+              "player": "Erich",
+              "score": -100
+            },
+            {
+              "player": "Chris",
+              "score": -200
+            }
+          ]
+        },
+        {
+          "category": "STATE OF THE UNION",
+          "value": 500,
+          "clue": "This state gets fewer inches of rain each year than any other",
+          "answer": "Nevada",
+          "isDailyDouble": false,
+          "orderNumber": 7,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Jason",
+              "score": 100
+            },
+            {
+              "player": "Erich",
+              "score": -100
+            },
+            {
+              "player": "Chris",
+              "score": -200
+            }
+          ]
+        },
+        {
+          "category": "'ROUND THE WORLD",
+          "value": 100,
+          "clue": "The Sam McGuire Football Cup is awarded to a league champion in this island country",
+          "answer": "Ireland",
+          "isDailyDouble": false,
+          "orderNumber": 8,
+          "correctContestants": [
+            "Erich"
+          ],
+          "incorrectContestants": [
+            "Jason"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jason",
+              "score": 0
+            },
+            {
+              "player": "Erich",
+              "score": 0
+            },
+            {
+              "player": "Chris",
+              "score": -200
+            }
+          ]
+        },
+        {
+          "category": "'ROUND THE WORLD",
+          "value": 200,
+          "clue": "Even at 5.4 million square miles, it's the world's smallest ocean",
+          "answer": "Arctic",
+          "isDailyDouble": false,
+          "orderNumber": 9,
+          "correctContestants": [
+            "Jason"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jason",
+              "score": 200
+            },
+            {
+              "player": "Erich",
+              "score": 0
+            },
+            {
+              "player": "Chris",
+              "score": -200
+            }
+          ]
+        },
+        {
+          "category": "'ROUND THE WORLD",
+          "value": 300,
+          "clue": "A manufacturing powerhouse since the Industrial Revolution, this city is England's 2nd largest in population",
+          "answer": "Birmingham",
+          "isDailyDouble": false,
+          "orderNumber": 10,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Erich",
+            "Chris"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Jason",
+              "score": 200
+            },
+            {
+              "player": "Erich",
+              "score": -300
+            },
+            {
+              "player": "Chris",
+              "score": -500
+            }
+          ]
+        },
+        {
+          "category": "'ROUND THE WORLD",
+          "value": 400,
+          "clue": "Of Brazil, India or Australia, the one that's largest in area",
+          "answer": "Brazil",
+          "isDailyDouble": false,
+          "orderNumber": 11,
+          "correctContestants": [
+            "Jason"
+          ],
+          "incorrectContestants": [
+            "Erich"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jason",
+              "score": 600
+            },
+            {
+              "player": "Erich",
+              "score": -700
+            },
+            {
+              "player": "Chris",
+              "score": -500
+            }
+          ]
+        },
+        {
+          "category": "'ROUND THE WORLD",
+          "value": 500,
+          "clue": "You'll find the Dolomite Alps rising to nearly 11,000 feet in this European country",
+          "answer": "Italy",
+          "isDailyDouble": false,
+          "orderNumber": 12,
+          "correctContestants": [
+            "Jason"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jason",
+              "score": 1100
+            },
+            {
+              "player": "Erich",
+              "score": -700
+            },
+            {
+              "player": "Chris",
+              "score": -500
+            }
+          ]
+        },
+        {
+          "category": "FILE UNDER \"B\"",
+          "value": 100,
+          "clue": "It's a British bottom or an American tramp",
+          "answer": "Bum",
+          "isDailyDouble": false,
+          "orderNumber": 13,
+          "correctContestants": [
+            "Chris"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jason",
+              "score": 1100
+            },
+            {
+              "player": "Erich",
+              "score": -700
+            },
+            {
+              "player": "Chris",
+              "score": -400
+            }
+          ]
+        },
+        {
+          "category": "FILE UNDER \"B\"",
+          "value": 200,
+          "clue": "A chance spectator; one may be innocent",
+          "answer": "Bystander",
+          "isDailyDouble": false,
+          "orderNumber": 14,
+          "correctContestants": [
+            "Jason"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jason",
+              "score": 1300
+            },
+            {
+              "player": "Erich",
+              "score": -700
+            },
+            {
+              "player": "Chris",
+              "score": -400
+            }
+          ]
+        },
+        {
+          "category": "FILE UNDER \"B\"",
+          "value": 300,
+          "clue": "The Royal Sonesta Hotel in New Orleans has a webcam aimed at this famous street",
+          "answer": "Bourbon Street",
+          "isDailyDouble": false,
+          "orderNumber": 15,
+          "correctContestants": [
+            "Erich"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jason",
+              "score": 1300
+            },
+            {
+              "player": "Erich",
+              "score": -400
+            },
+            {
+              "player": "Chris",
+              "score": -400
+            }
+          ]
+        },
+        {
+          "category": "FILE UNDER \"B\"",
+          "value": 400,
+          "clue": "Sport seen here as it looked way back in 1932:(Winter Olympics mainstay)",
+          "answer": "Bobsledding",
+          "isDailyDouble": false,
+          "orderNumber": 16,
+          "correctContestants": [
+            "Jason"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jason",
+              "score": 1700
+            },
+            {
+              "player": "Erich",
+              "score": -400
+            },
+            {
+              "player": "Chris",
+              "score": -400
+            }
+          ]
+        },
+        {
+          "category": "FILE UNDER \"B\"",
+          "value": 500,
+          "clue": "From the Latin for \"projecting\", it's a rich silk cloth with a raised pattern in gold or silver",
+          "answer": "Brocade",
+          "isDailyDouble": false,
+          "orderNumber": 17,
+          "correctContestants": [
+            "Jason"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jason",
+              "score": 2200
+            },
+            {
+              "player": "Erich",
+              "score": -400
+            },
+            {
+              "player": "Chris",
+              "score": -400
+            }
+          ]
+        },
+        {
+          "category": "BEASTLY COMMON BONDS",
+          "value": 100,
+          "clue": "Bufflehead,eider,teal",
+          "answer": "Ducks",
+          "isDailyDouble": false,
+          "orderNumber": 18,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Jason",
+              "score": 2200
+            },
+            {
+              "player": "Erich",
+              "score": -400
+            },
+            {
+              "player": "Chris",
+              "score": -400
+            }
+          ]
+        },
+        {
+          "category": "BEASTLY COMMON BONDS",
+          "value": 200,
+          "clue": "Bushmaster,coral,hognose",
+          "answer": "Snakes",
+          "isDailyDouble": false,
+          "orderNumber": 19,
+          "correctContestants": [
+            "Jason"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jason",
+              "score": 2400
+            },
+            {
+              "player": "Erich",
+              "score": -400
+            },
+            {
+              "player": "Chris",
+              "score": -400
+            }
+          ]
+        },
+        {
+          "category": "BEASTLY COMMON BONDS",
+          "value": 300,
+          "clue": "Tucuxi,bottle-nosed,spinner",
+          "answer": "Dolphins",
+          "isDailyDouble": false,
+          "orderNumber": 20,
+          "correctContestants": [
+            "Jason"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jason",
+              "score": 2700
+            },
+            {
+              "player": "Erich",
+              "score": -400
+            },
+            {
+              "player": "Chris",
+              "score": -400
+            }
+          ]
+        },
+        {
+          "category": "BEASTLY COMMON BONDS",
+          "value": 400,
+          "clue": "White-tailed,harpy,golden",
+          "answer": "Eagles",
+          "isDailyDouble": false,
+          "orderNumber": 21,
+          "correctContestants": [
+            "Jason"
+          ],
+          "incorrectContestants": [
+            "Erich"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jason",
+              "score": 3100
+            },
+            {
+              "player": "Erich",
+              "score": -800
+            },
+            {
+              "player": "Chris",
+              "score": -400
+            }
+          ]
+        },
+        {
+          "category": "BEASTLY COMMON BONDS",
+          "value": 500,
+          "clue": "Harbor,northern fur,bearded",
+          "answer": "Seals",
+          "isDailyDouble": false,
+          "orderNumber": 22,
+          "correctContestants": [
+            "Jason"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jason",
+              "score": 3600
+            },
+            {
+              "player": "Erich",
+              "score": -800
+            },
+            {
+              "player": "Chris",
+              "score": -400
+            }
+          ]
+        },
+        {
+          "category": "A DRESS",
+          "value": 100,
+          "clue": "This diminuitive dress style seen here was introduced by Mary Quant in the 1960s:",
+          "answer": "Mini dress/skirt",
+          "isDailyDouble": false,
+          "orderNumber": 23,
+          "correctContestants": [
+            "Jason"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jason",
+              "score": 3700
+            },
+            {
+              "player": "Erich",
+              "score": -800
+            },
+            {
+              "player": "Chris",
+              "score": -400
+            }
+          ]
+        },
+        {
+          "category": "A DRESS",
+          "value": 200,
+          "clue": "Often used as a dressing robe, it's the Asian style of dress seen here:",
+          "answer": "Kimono",
+          "isDailyDouble": false,
+          "orderNumber": 24,
+          "correctContestants": [
+            "Erich"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jason",
+              "score": 3700
+            },
+            {
+              "player": "Erich",
+              "score": -600
+            },
+            {
+              "player": "Chris",
+              "score": -400
+            }
+          ]
+        },
+        {
+          "category": "A DRESS",
+          "value": 300,
+          "clue": "\"Canine\" favorite of the 1950s seen here:",
+          "answer": "Poodle skirt",
+          "isDailyDouble": false,
+          "orderNumber": 25,
+          "correctContestants": [
+            "Jason"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jason",
+              "score": 4000
+            },
+            {
+              "player": "Erich",
+              "score": -600
+            },
+            {
+              "player": "Chris",
+              "score": -400
+            }
+          ]
+        },
+        {
+          "category": "A DRESS",
+          "value": 400,
+          "clue": "Don't apologize, it's the popular Hindu style of garment seen here:",
+          "answer": "Sari",
+          "isDailyDouble": false,
+          "orderNumber": 26,
+          "correctContestants": [
+            "Jason"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jason",
+              "score": 4400
+            },
+            {
+              "player": "Erich",
+              "score": -600
+            },
+            {
+              "player": "Chris",
+              "score": -400
+            }
+          ]
+        },
+        {
+          "category": "A DRESS",
+          "value": 500,
+          "clue": "This term for the dress seen here could also apply to its Roaring '20s wearers:",
+          "answer": "Flapper",
+          "isDailyDouble": false,
+          "orderNumber": 27,
+          "correctContestants": [
+            "Erich"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jason",
+              "score": 4400
+            },
+            {
+              "player": "Erich",
+              "score": -100
+            },
+            {
+              "player": "Chris",
+              "score": -400
+            }
+          ]
+        },
+        {
+          "category": "HIGH SCHOOL TV",
+          "value": 300,
+          "clue": "You might want to hang with this title high school teacher played by Mark Curry",
+          "answer": "Mr. Cooper",
+          "isDailyDouble": false,
+          "orderNumber": 28,
+          "correctContestants": [
+            "Chris"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jason",
+              "score": 4400
+            },
+            {
+              "player": "Erich",
+              "score": -100
+            },
+            {
+              "player": "Chris",
+              "score": -100
+            }
+          ]
+        },
+        {
+          "category": "HIGH SCHOOL TV",
+          "value": 500,
+          "clue": "This series that debuted in the '70s was set in the '50s & featured students of Jefferson High",
+          "answer": "Happy Days",
+          "isDailyDouble": true,
+          "orderNumber": 29,
+          "correctContestants": [
+            "Chris"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jason",
+              "score": 4400
+            },
+            {
+              "player": "Erich",
+              "score": -100
+            },
+            {
+              "player": "Chris",
+              "score": 400
+            }
+          ]
+        },
+        {
+          "category": "HIGH SCHOOL TV",
+          "value": 500,
+          "clue": "In 1952 Wally Cox was this title science teacher",
+          "answer": "Mister Peepers",
+          "isDailyDouble": false,
+          "orderNumber": 30,
+          "correctContestants": [
+            "Jason"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jason",
+              "score": 4900
+            },
+            {
+              "player": "Erich",
+              "score": -100
+            },
+            {
+              "player": "Chris",
+              "score": 400
+            }
+          ]
+        }
+      ],
+      "firstBreakScores": [
+        {
+          "player": "Jason",
+          "score": 1300
+        },
+        {
+          "player": "Erich",
+          "score": -400
+        },
+        {
+          "player": "Chris",
+          "score": -400
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "Jason",
+          "score": 4900
+        },
+        {
+          "player": "Erich",
+          "score": -100
+        },
+        {
+          "player": "Chris",
+          "score": 400
+        }
+      ]
+    },
+    "doubleJeopardy": {
+      "categories": [
+        "POETS &  POETRY",
+        "WORD ORIGINS",
+        "FILL IN THE BIBLICAL BLANK",
+        "\"IN\" THE MOVIES",
+        "YOU DO THE MATH",
+        "ROYAL WOMEN"
+      ],
+      "clues": [
+        {
+          "category": "WORD ORIGINS",
+          "value": 200,
+          "clue": "This nickname for a potato comes from the sharp spade used to dig it up",
+          "answer": "Spud",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jason",
+              "score": 5100
+            },
+            {
+              "player": "Erich",
+              "score": -100
+            },
+            {
+              "player": "Chris",
+              "score": 400
+            }
+          ]
+        },
+        {
+          "category": "WORD ORIGINS",
+          "value": 400,
+          "clue": "Meaning \"light bringer\", it refers to Venus when appearing as the morning star, or to Satan",
+          "answer": "Lucifer",
+          "isDailyDouble": false,
+          "orderNumber": 2,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jason",
+              "score": 5100
+            },
+            {
+              "player": "Erich",
+              "score": -100
+            },
+            {
+              "player": "Chris",
+              "score": 800
+            }
+          ]
+        },
+        {
+          "category": "WORD ORIGINS",
+          "value": 600,
+          "clue": "From Latin for \"cuttlefish\", it's the brown color of the cuttlefish ink once used to make a brown dye",
+          "answer": "Sepia",
+          "isDailyDouble": false,
+          "orderNumber": 3,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jason",
+              "score": 5100
+            },
+            {
+              "player": "Erich",
+              "score": -100
+            },
+            {
+              "player": "Chris",
+              "score": 1400
+            }
+          ]
+        },
+        {
+          "category": "WORD ORIGINS",
+          "value": 800,
+          "clue": "Today it simply means a sailing race; in the Venetian dialect, it meant a gondola race",
+          "answer": "Regatta",
+          "isDailyDouble": true,
+          "orderNumber": 4,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jason",
+              "score": 5100
+            },
+            {
+              "player": "Erich",
+              "score": -100
+            },
+            {
+              "player": "Chris",
+              "score": 2200
+            }
+          ]
+        },
+        {
+          "category": "WORD ORIGINS",
+          "value": 1000,
+          "clue": "Chiefly used in Louisiana, it's Creole for a gift given a customer by a shopkeeper at the time of purchase",
+          "answer": "Lagniappe",
+          "isDailyDouble": false,
+          "orderNumber": 5,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Jason",
+              "score": 5100
+            },
+            {
+              "player": "Erich",
+              "score": -100
+            },
+            {
+              "player": "Chris",
+              "score": 2200
+            }
+          ]
+        },
+        {
+          "category": "POETS &  POETRY",
+          "value": 200,
+          "clue": "\"The Coming of Arthur\" & \"Gareth and Lynette\" are parts of his \"Idylls of the King\"",
+          "answer": "Alfred Lord Tennyson",
+          "isDailyDouble": false,
+          "orderNumber": 6,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jason",
+              "score": 5100
+            },
+            {
+              "player": "Erich",
+              "score": -100
+            },
+            {
+              "player": "Chris",
+              "score": 2400
+            }
+          ]
+        },
+        {
+          "category": "POETS &  POETRY",
+          "value": 400,
+          "clue": "This romantic poet's name gave us an adjective for the type of hero he created -- a brooding young man",
+          "answer": "Lord Byron",
+          "isDailyDouble": false,
+          "orderNumber": 7,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jason",
+              "score": 5100
+            },
+            {
+              "player": "Erich",
+              "score": 300
+            },
+            {
+              "player": "Chris",
+              "score": 2400
+            }
+          ]
+        },
+        {
+          "category": "POETS &  POETRY",
+          "value": 600,
+          "clue": "\"Resolution and Independence\" is found in this lake poet's 1807 \"Poems in Two Volumes\"",
+          "answer": "William Wordsworth",
+          "isDailyDouble": false,
+          "orderNumber": 8,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Jason",
+              "score": 5100
+            },
+            {
+              "player": "Erich",
+              "score": 300
+            },
+            {
+              "player": "Chris",
+              "score": 2400
+            }
+          ]
+        },
+        {
+          "category": "ROYAL WOMEN",
+          "value": 200,
+          "clue": "As a princess, Queen Margrethe II of Denmark studied philosophy at this Danish capital's university",
+          "answer": "Copenhagen",
+          "isDailyDouble": false,
+          "orderNumber": 9,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jason",
+              "score": 5300
+            },
+            {
+              "player": "Erich",
+              "score": 300
+            },
+            {
+              "player": "Chris",
+              "score": 2400
+            }
+          ]
+        },
+        {
+          "category": "ROYAL WOMEN",
+          "value": 400,
+          "clue": "She doesn't look amused in the portrait seen here:",
+          "answer": "Queen Victoria",
+          "isDailyDouble": false,
+          "orderNumber": 10,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jason",
+              "score": 5700
+            },
+            {
+              "player": "Erich",
+              "score": 300
+            },
+            {
+              "player": "Chris",
+              "score": 2400
+            }
+          ]
+        },
+        {
+          "category": "ROYAL WOMEN",
+          "value": 600,
+          "clue": "Queen Liliuokalani was born in 1838 in what is now this state capital",
+          "answer": "Honolulu",
+          "isDailyDouble": false,
+          "orderNumber": 11,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jason",
+              "score": 6300
+            },
+            {
+              "player": "Erich",
+              "score": 300
+            },
+            {
+              "player": "Chris",
+              "score": 2400
+            }
+          ]
+        },
+        {
+          "category": "ROYAL WOMEN",
+          "value": 800,
+          "clue": "Alix was the original name of this German-born empress of Russia",
+          "answer": "Alexandra",
+          "isDailyDouble": false,
+          "orderNumber": 12,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jason",
+              "score": 6300
+            },
+            {
+              "player": "Erich",
+              "score": 1100
+            },
+            {
+              "player": "Chris",
+              "score": 2400
+            }
+          ]
+        },
+        {
+          "category": "ROYAL WOMEN",
+          "value": 1000,
+          "clue": "Maria Cristina ruled as queen regent of this country during the childhood of her son Alfonso XIII",
+          "answer": "Spain",
+          "isDailyDouble": false,
+          "orderNumber": 13,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jason",
+              "score": 6300
+            },
+            {
+              "player": "Erich",
+              "score": 2100
+            },
+            {
+              "player": "Chris",
+              "score": 2400
+            }
+          ]
+        },
+        {
+          "category": "\"IN\" THE MOVIES",
+          "value": 200,
+          "clue": "This 1996 blockbuster showed humanity fighting for freedom from enslaving aliens on July 4",
+          "answer": "Independence Day",
+          "isDailyDouble": false,
+          "orderNumber": 14,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jason",
+              "score": 6300
+            },
+            {
+              "player": "Erich",
+              "score": 2300
+            },
+            {
+              "player": "Chris",
+              "score": 2400
+            }
+          ]
+        },
+        {
+          "category": "\"IN\" THE MOVIES",
+          "value": 400,
+          "clue": "A skyscraper burns, baby, burns in this all-star 1974 disaster flick",
+          "answer": "The Towering Inferno",
+          "isDailyDouble": false,
+          "orderNumber": 15,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jason",
+              "score": 6700
+            },
+            {
+              "player": "Erich",
+              "score": 2300
+            },
+            {
+              "player": "Chris",
+              "score": 2400
+            }
+          ]
+        },
+        {
+          "category": "\"IN\" THE MOVIES",
+          "value": 600,
+          "clue": "Miniaturized Navy test pilot Dennis Quaid is accidentally injected into Martin Short in this 1987 comedy",
+          "answer": "Innerspace",
+          "isDailyDouble": false,
+          "orderNumber": 16,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jason",
+              "score": 7300
+            },
+            {
+              "player": "Erich",
+              "score": 2300
+            },
+            {
+              "player": "Chris",
+              "score": 2400
+            }
+          ]
+        },
+        {
+          "category": "\"IN\" THE MOVIES",
+          "value": 800,
+          "clue": "Matthew Perry & Salma Hayek hurry into marriage in this 1997 romance",
+          "answer": "Fools Rush In",
+          "isDailyDouble": false,
+          "orderNumber": 17,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jason",
+              "score": 7300
+            },
+            {
+              "player": "Erich",
+              "score": 2300
+            },
+            {
+              "player": "Chris",
+              "score": 3200
+            }
+          ]
+        },
+        {
+          "category": "\"IN\" THE MOVIES",
+          "value": 1000,
+          "clue": "In this loopy film, Peter Falk involves dentist Alan Arkin in a possible CIA plot before their kids' wedding",
+          "answer": "The In-Laws",
+          "isDailyDouble": false,
+          "orderNumber": 18,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jason",
+              "score": 8300
+            },
+            {
+              "player": "Erich",
+              "score": 2300
+            },
+            {
+              "player": "Chris",
+              "score": 3200
+            }
+          ]
+        },
+        {
+          "category": "YOU DO THE MATH",
+          "value": 200,
+          "clue": "The number of loaves in a baker's dozen plus the number of months in a year",
+          "answer": "25 (13 + 12)",
+          "isDailyDouble": false,
+          "orderNumber": 19,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jason",
+              "score": 8300
+            },
+            {
+              "player": "Erich",
+              "score": 2500
+            },
+            {
+              "player": "Chris",
+              "score": 3200
+            }
+          ]
+        },
+        {
+          "category": "YOU DO THE MATH",
+          "value": 400,
+          "clue": "The traditional number of wise men of the East times the number of Ali Baba's thieves",
+          "answer": "120 (3 x 40)",
+          "isDailyDouble": false,
+          "orderNumber": 20,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jason",
+              "score": 8700
+            },
+            {
+              "player": "Erich",
+              "score": 2500
+            },
+            {
+              "player": "Chris",
+              "score": 3200
+            }
+          ]
+        },
+        {
+          "category": "YOU DO THE MATH",
+          "value": 600,
+          "clue": "Number of \"Days of Christmas\" in the carol divided by its number of French hens",
+          "answer": "4 (12/3)",
+          "isDailyDouble": false,
+          "orderNumber": 21,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jason",
+              "score": 9300
+            },
+            {
+              "player": "Erich",
+              "score": 2500
+            },
+            {
+              "player": "Chris",
+              "score": 3200
+            }
+          ]
+        },
+        {
+          "category": "YOU DO THE MATH",
+          "value": 800,
+          "clue": "The original title number of Disney dalmatians minus the number of Snow White's dwarfs",
+          "answer": "94  (101 - 7)",
+          "isDailyDouble": false,
+          "orderNumber": 22,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jason",
+              "score": 10100
+            },
+            {
+              "player": "Erich",
+              "score": 2500
+            },
+            {
+              "player": "Chris",
+              "score": 3200
+            }
+          ]
+        },
+        {
+          "category": "YOU DO THE MATH",
+          "value": 1000,
+          "clue": "The number of pounds in a ton multiplied by the number of feet in a yard",
+          "answer": "6000 (2000 x 3)",
+          "isDailyDouble": false,
+          "orderNumber": 23,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jason",
+              "score": 10100
+            },
+            {
+              "player": "Erich",
+              "score": 2500
+            },
+            {
+              "player": "Chris",
+              "score": 4200
+            }
+          ]
+        },
+        {
+          "category": "POETS &  POETRY",
+          "value": 1000,
+          "clue": "The leaves of grass at this poet's grave surround a tomb of his own design in Harleigh Cemetery",
+          "answer": "Walt Whitman",
+          "isDailyDouble": true,
+          "orderNumber": 24,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jason",
+              "score": 10100
+            },
+            {
+              "player": "Erich",
+              "score": 2500
+            },
+            {
+              "player": "Chris",
+              "score": 5200
+            }
+          ]
+        },
+        {
+          "category": "POETS &  POETRY",
+          "value": 1000,
+          "clue": "Last name of poet Wystan Hugh, who wrote, \"A poet's hope: to be, like some valley cheese, local, but prized elsewhere\"",
+          "answer": "W.H. Auden",
+          "isDailyDouble": false,
+          "orderNumber": 25,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Jason",
+              "score": 9100
+            },
+            {
+              "player": "Erich",
+              "score": 2500
+            },
+            {
+              "player": "Chris",
+              "score": 5200
+            }
+          ]
+        },
+        {
+          "category": "FILL IN THE BIBLICAL BLANK",
+          "value": 200,
+          "clue": "Isaiah 53:7 -- \"He is brought as a lamb to the ____\"",
+          "answer": "Slaughter",
+          "isDailyDouble": false,
+          "orderNumber": 26,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jason",
+              "score": 9100
+            },
+            {
+              "player": "Erich",
+              "score": 2700
+            },
+            {
+              "player": "Chris",
+              "score": 5200
+            }
+          ]
+        },
+        {
+          "category": "FILL IN THE BIBLICAL BLANK",
+          "value": 1000,
+          "clue": "1 Corinthians 15:26 -- \"The last enemy that shall be destroyed is ____\"",
+          "answer": "Death",
+          "isDailyDouble": false,
+          "orderNumber": 27,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Jason",
+              "score": 9100
+            },
+            {
+              "player": "Erich",
+              "score": 2700
+            },
+            {
+              "player": "Chris",
+              "score": 5200
+            }
+          ]
+        },
+        {
+          "category": "FILL IN THE BIBLICAL BLANK",
+          "value": 800,
+          "clue": "Mark 2:9 -- \"Arise, and take up thy bed, and ____\"",
+          "answer": "Walk",
+          "isDailyDouble": false,
+          "orderNumber": 28,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Jason",
+              "score": 9100
+            },
+            {
+              "player": "Erich",
+              "score": 2700
+            },
+            {
+              "player": "Chris",
+              "score": 5200
+            }
+          ]
+        },
+        {
+          "category": "FILL IN THE BIBLICAL BLANK",
+          "value": 600,
+          "clue": "Genesis 4:15 -- \"And the Lord set a mark upon ____\"",
+          "answer": "Cain",
+          "isDailyDouble": false,
+          "orderNumber": 29,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Jason",
+              "score": 9700
+            },
+            {
+              "player": "Erich",
+              "score": 2700
+            },
+            {
+              "player": "Chris",
+              "score": 5200
+            }
+          ]
+        },
+        {
+          "category": "FILL IN THE BIBLICAL BLANK",
+          "value": 400,
+          "clue": "1 John 4:8 -- \"He that loveth not knoweth not God; for God is ____\"",
+          "answer": "Love",
+          "isDailyDouble": false,
+          "orderNumber": 30,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Jason",
+              "score": 9700
+            },
+            {
+              "player": "Erich",
+              "score": 2700
+            },
+            {
+              "player": "Chris",
+              "score": 5200
+            }
+          ]
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "Jason",
+          "score": 9700
+        },
+        {
+          "player": "Erich",
+          "score": 2700
+        },
+        {
+          "player": "Chris",
+          "score": 5200
+        }
+      ]
+    },
+    "finalJeopardy": {
+      "category": "BRAND NAME PEOPLE",
+      "clue": "Immigrating to the U.S. at age 17, he cooked at the Plaza in New York & catered Pres. Wilson's wedding reception in 1915",
+      "answer": "Chef Boyardee (real name Ettore Boiardi)",
+      "responses": [
+        {
+          "contestant": "Erich",
+          "response": "Who was Chef Boyaredi",
+          "isCorrect": true,
+          "isIncorrect": false,
+          "value": 2599,
+          "finalScore": 5299
+        },
+        {
+          "contestant": "Chris",
+          "response": "Who is Delmonico?",
+          "isCorrect": false,
+          "isIncorrect": true,
+          "value": 5200,
+          "finalScore": 0
+        },
+        {
+          "contestant": "Jason",
+          "response": "Who is Stouffer?",
+          "isCorrect": false,
+          "isIncorrect": true,
+          "value": 701,
+          "finalScore": 8999
+        }
+      ]
+    }
+  },
+  "finalScores": [
+    {
+      "player": "Jason",
+      "score": "$8,999"
+    },
+    {
+      "player": "Erich",
+      "score": "$5,299"
+    },
+    {
+      "player": "Chris",
+      "score": "$0"
+    }
+  ],
+  "coryatScores": [
+    {
+      "player": "Jason",
+      "score": 9700
+    },
+    {
+      "player": "Erich",
+      "score": 2700
+    },
+    {
+      "player": "Chris",
+      "score": 4900
+    }
+  ]
+}

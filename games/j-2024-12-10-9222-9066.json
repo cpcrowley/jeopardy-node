@@ -1,0 +1,1691 @@
+{
+  "gameId": 9066,
+  "showNumber": "9222",
+  "title": "Show #9222 - Tuesday, December 10, 2024",
+  "date": "2024-12-10",
+  "comments": "",
+  "contestants": [
+    "Bill",
+    "Sara",
+    "Dan"
+  ],
+  "rounds": {
+    "jeopardy": {
+      "categories": [
+        "LIFE IMITATES POP CULTURE",
+        "WHO WANTS HISTORY?",
+        "GALLERIES",
+        "A MEAT & POTATOES CATEGORY",
+        "GRAB BAG",
+        "KING ARTHUR'S VERY PUNNY KNIGHTS"
+      ],
+      "clues": [
+        {
+          "category": "KING ARTHUR'S VERY PUNNY KNIGHTS",
+          "value": 800,
+          "clue": "This knight had rhythm! Though sadly more to do with 24-hour time periods than with music",
+          "answer": "Sir Cadian",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [
+            "Dan"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bill",
+              "score": 0
+            },
+            {
+              "player": "Sara",
+              "score": 0
+            },
+            {
+              "player": "Dan",
+              "score": 800
+            }
+          ]
+        },
+        {
+          "category": "WHO WANTS HISTORY?",
+          "value": 1000,
+          "clue": "Last name of Gonzalo, who as governor of Peru took up arms against Spain after his half-brother Francisco's death",
+          "answer": "Pizarro",
+          "isDailyDouble": true,
+          "orderNumber": 2,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Dan"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bill",
+              "score": 0
+            },
+            {
+              "player": "Sara",
+              "score": 0
+            },
+            {
+              "player": "Dan",
+              "score": -200
+            }
+          ]
+        },
+        {
+          "category": "A MEAT & POTATOES CATEGORY",
+          "value": 800,
+          "clue": "A bit larger than T-bone is this sharable steak cut with meat from both the top loin & the tenderloin",
+          "answer": "a porterhouse",
+          "isDailyDouble": false,
+          "orderNumber": 3,
+          "correctContestants": [
+            "Bill"
+          ],
+          "incorrectContestants": [
+            "Dan"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bill",
+              "score": 800
+            },
+            {
+              "player": "Sara",
+              "score": 0
+            },
+            {
+              "player": "Dan",
+              "score": -1000
+            }
+          ]
+        },
+        {
+          "category": "A MEAT & POTATOES CATEGORY",
+          "value": 200,
+          "clue": "Anyone can enjoy this beef cut taken from between the neck & shoulder blade, perhaps Messrs. Yeager, Grassley & D",
+          "answer": "chuck",
+          "isDailyDouble": false,
+          "orderNumber": 4,
+          "correctContestants": [
+            "Sara"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bill",
+              "score": 800
+            },
+            {
+              "player": "Sara",
+              "score": 200
+            },
+            {
+              "player": "Dan",
+              "score": -1000
+            }
+          ]
+        },
+        {
+          "category": "GALLERIES",
+          "value": 800,
+          "clue": "Originally designed by Vasarai for Cosimo I de' Medici, it officially opened its doors to the public in 1769",
+          "answer": "the Uffizi Gallery",
+          "isDailyDouble": false,
+          "orderNumber": 5,
+          "correctContestants": [
+            "Sara"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bill",
+              "score": 800
+            },
+            {
+              "player": "Sara",
+              "score": 1000
+            },
+            {
+              "player": "Dan",
+              "score": -1000
+            }
+          ]
+        },
+        {
+          "category": "LIFE IMITATES POP CULTURE",
+          "value": 200,
+          "clue": "This show correctly predicts the future: a 2000 episode shows a grown-up Lisa as U.S. president; her predecessor: Donald Trump",
+          "answer": "The Simpsons",
+          "isDailyDouble": false,
+          "orderNumber": 6,
+          "correctContestants": [
+            "Sara"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bill",
+              "score": 800
+            },
+            {
+              "player": "Sara",
+              "score": 1200
+            },
+            {
+              "player": "Dan",
+              "score": -1000
+            }
+          ]
+        },
+        {
+          "category": "GRAB BAG",
+          "value": 1000,
+          "clue": "As a lab-grown crystal, miassite can act as one of these, meaning it has no electrical resistance once cooled",
+          "answer": "a superconductor",
+          "isDailyDouble": false,
+          "orderNumber": 7,
+          "correctContestants": [
+            "Bill"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bill",
+              "score": 1800
+            },
+            {
+              "player": "Sara",
+              "score": 1200
+            },
+            {
+              "player": "Dan",
+              "score": -1000
+            }
+          ]
+        },
+        {
+          "category": "A MEAT & POTATOES CATEGORY",
+          "value": 400,
+          "clue": "Sometimes fried in bacon fat--healthy as can be!--this \"colorful\" potato dish is pressed into flat cakes in a pan",
+          "answer": "hash browns",
+          "isDailyDouble": false,
+          "orderNumber": 8,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Bill",
+              "score": 1800
+            },
+            {
+              "player": "Sara",
+              "score": 1200
+            },
+            {
+              "player": "Dan",
+              "score": -1000
+            }
+          ]
+        },
+        {
+          "category": "A MEAT & POTATOES CATEGORY",
+          "value": 600,
+          "clue": "Omaha Steaks' private reserve of this boneless cut from the small end of the tenderloin costs $540 (for 12 10 Oz. ones)",
+          "answer": "filet mignon",
+          "isDailyDouble": false,
+          "orderNumber": 9,
+          "correctContestants": [
+            "Bill"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bill",
+              "score": 2400
+            },
+            {
+              "player": "Sara",
+              "score": 1200
+            },
+            {
+              "player": "Dan",
+              "score": -1000
+            }
+          ]
+        },
+        {
+          "category": "A MEAT & POTATOES CATEGORY",
+          "value": 1000,
+          "clue": "O Canada! This type of potato with buttery yellow flesh is great for mashing",
+          "answer": "Yukon Gold",
+          "isDailyDouble": false,
+          "orderNumber": 10,
+          "correctContestants": [
+            "Sara"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bill",
+              "score": 2400
+            },
+            {
+              "player": "Sara",
+              "score": 2200
+            },
+            {
+              "player": "Dan",
+              "score": -1000
+            }
+          ]
+        },
+        {
+          "category": "WHO WANTS HISTORY?",
+          "value": 1000,
+          "clue": "The black death hit this \"colorful\" Mongol group in 1346 & '47, & it was downhill from there",
+          "answer": "the Golden Horde",
+          "isDailyDouble": false,
+          "orderNumber": 11,
+          "correctContestants": [
+            "Sara"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bill",
+              "score": 2400
+            },
+            {
+              "player": "Sara",
+              "score": 3200
+            },
+            {
+              "player": "Dan",
+              "score": -1000
+            }
+          ]
+        },
+        {
+          "category": "GRAB BAG",
+          "value": 600,
+          "clue": "The New Testament says, \"Now abideth\" this trio of virtues, with the last one being the greatest",
+          "answer": "faith, hope & charity",
+          "isDailyDouble": false,
+          "orderNumber": 12,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Bill",
+              "score": 2400
+            },
+            {
+              "player": "Sara",
+              "score": 3200
+            },
+            {
+              "player": "Dan",
+              "score": -1000
+            }
+          ]
+        },
+        {
+          "category": "WHO WANTS HISTORY?",
+          "value": 600,
+          "clue": "On May 31 & June 1, 1921 a white mob in this city pillaged & burned a prosperous business district known as Black Wall Street",
+          "answer": "Tulsa, Oklahoma",
+          "isDailyDouble": false,
+          "orderNumber": 13,
+          "correctContestants": [
+            "Dan"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bill",
+              "score": 2400
+            },
+            {
+              "player": "Sara",
+              "score": 3200
+            },
+            {
+              "player": "Dan",
+              "score": -400
+            }
+          ]
+        },
+        {
+          "category": "LIFE IMITATES POP CULTURE",
+          "value": 800,
+          "clue": "Playing Achilles in the movie \"Troy\", this actor managed to injure his, yep, you guessed it, Achilles tendon",
+          "answer": "Brad Pitt",
+          "isDailyDouble": false,
+          "orderNumber": 14,
+          "correctContestants": [
+            "Dan"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bill",
+              "score": 2400
+            },
+            {
+              "player": "Sara",
+              "score": 3200
+            },
+            {
+              "player": "Dan",
+              "score": 400
+            }
+          ]
+        },
+        {
+          "category": "LIFE IMITATES POP CULTURE",
+          "value": 1000,
+          "clue": "(Lisa Ann Walter presents the clue.)  Talk about life imitating art: after nannying identical twins played by Lindsay Lohan in this 1998 film, I had real-life identical twins & they even share the characters' birthday",
+          "answer": "The Parent Trap",
+          "isDailyDouble": false,
+          "orderNumber": 15,
+          "correctContestants": [
+            "Bill"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bill",
+              "score": 3400
+            },
+            {
+              "player": "Sara",
+              "score": 3200
+            },
+            {
+              "player": "Dan",
+              "score": 400
+            }
+          ]
+        },
+        {
+          "category": "GRAB BAG",
+          "value": 800,
+          "clue": "In this novel, Major Major Major is made a major by an \"I.B.M. machine with a sense of humor almost as keen as his father's\"",
+          "answer": "Catch-22",
+          "isDailyDouble": false,
+          "orderNumber": 16,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Dan"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Bill",
+              "score": 3400
+            },
+            {
+              "player": "Sara",
+              "score": 3200
+            },
+            {
+              "player": "Dan",
+              "score": -400
+            }
+          ]
+        },
+        {
+          "category": "LIFE IMITATES POP CULTURE",
+          "value": 600,
+          "clue": "It wasn't called fake news yet when this 1997 film had a spin doctor creating a war to distract from a presidential sex scandal",
+          "answer": "Wag the Dog",
+          "isDailyDouble": false,
+          "orderNumber": 17,
+          "correctContestants": [
+            "Dan"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bill",
+              "score": 3400
+            },
+            {
+              "player": "Sara",
+              "score": 3200
+            },
+            {
+              "player": "Dan",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "KING ARTHUR'S VERY PUNNY KNIGHTS",
+          "value": 600,
+          "clue": "For a boundary dispute with a rival king, King Arthur called on this knight equipped to settle the issue",
+          "answer": "Sir Veyor",
+          "isDailyDouble": false,
+          "orderNumber": 18,
+          "correctContestants": [
+            "Dan"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bill",
+              "score": 3400
+            },
+            {
+              "player": "Sara",
+              "score": 3200
+            },
+            {
+              "player": "Dan",
+              "score": 800
+            }
+          ]
+        },
+        {
+          "category": "KING ARTHUR'S VERY PUNNY KNIGHTS",
+          "value": 1000,
+          "clue": "He always took the kind of route named for him--6 hours of twists & turns for what should be a 2-hour ride back to Camelot",
+          "answer": "Sir Pentine (Sir Cuitous)",
+          "isDailyDouble": false,
+          "orderNumber": 19,
+          "correctContestants": [
+            "Sara"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bill",
+              "score": 3400
+            },
+            {
+              "player": "Sara",
+              "score": 4200
+            },
+            {
+              "player": "Dan",
+              "score": 800
+            }
+          ]
+        },
+        {
+          "category": "GALLERIES",
+          "value": 1000,
+          "clue": "Making a splash in American art, he had 3 solo shows at the Sidney Janis Gallery between 1952 & 1955, the first featuring \"Blue Poles\"",
+          "answer": "Jackson Pollock",
+          "isDailyDouble": false,
+          "orderNumber": 20,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Bill",
+              "score": 3400
+            },
+            {
+              "player": "Sara",
+              "score": 4200
+            },
+            {
+              "player": "Dan",
+              "score": 800
+            }
+          ]
+        },
+        {
+          "category": "WHO WANTS HISTORY?",
+          "value": 400,
+          "clue": "It preceded \"of the Rights of Man and of the Citizen\" in the title of a document adopted in August 1789",
+          "answer": "Declaration",
+          "isDailyDouble": false,
+          "orderNumber": 21,
+          "correctContestants": [
+            "Sara"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bill",
+              "score": 3400
+            },
+            {
+              "player": "Sara",
+              "score": 4600
+            },
+            {
+              "player": "Dan",
+              "score": 800
+            }
+          ]
+        },
+        {
+          "category": "GALLERIES",
+          "value": 600,
+          "clue": "From 1897 to 1932 what's now called this \"Britain\" was known as the National Gallery of British Art",
+          "answer": "the Tate Britain",
+          "isDailyDouble": false,
+          "orderNumber": 22,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Bill",
+              "score": 3400
+            },
+            {
+              "player": "Sara",
+              "score": 4600
+            },
+            {
+              "player": "Dan",
+              "score": 800
+            }
+          ]
+        },
+        {
+          "category": "WHO WANTS HISTORY?",
+          "value": 200,
+          "clue": "Thorkell the Tall led an invasion of England by these folks from Scandinavia in 1009",
+          "answer": "Vikings",
+          "isDailyDouble": false,
+          "orderNumber": 23,
+          "correctContestants": [
+            "Sara"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bill",
+              "score": 3400
+            },
+            {
+              "player": "Sara",
+              "score": 4800
+            },
+            {
+              "player": "Dan",
+              "score": 800
+            }
+          ]
+        },
+        {
+          "category": "GRAB BAG",
+          "value": 400,
+          "clue": "No bull--Aldebaran is the brightest star in this zodiac constellation",
+          "answer": "Taurus",
+          "isDailyDouble": false,
+          "orderNumber": 24,
+          "correctContestants": [
+            "Bill"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bill",
+              "score": 3800
+            },
+            {
+              "player": "Sara",
+              "score": 4800
+            },
+            {
+              "player": "Dan",
+              "score": 800
+            }
+          ]
+        },
+        {
+          "category": "KING ARTHUR'S VERY PUNNY KNIGHTS",
+          "value": 400,
+          "clue": "He told everyone of his skills for when Britain became even more anarchic, like finding food & shelter & making fires in the wild",
+          "answer": "Sir Vivalist",
+          "isDailyDouble": false,
+          "orderNumber": 25,
+          "correctContestants": [
+            "Dan"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bill",
+              "score": 3800
+            },
+            {
+              "player": "Sara",
+              "score": 4800
+            },
+            {
+              "player": "Dan",
+              "score": 1200
+            }
+          ]
+        },
+        {
+          "category": "LIFE IMITATES POP CULTURE",
+          "value": 400,
+          "clue": "NASA's countdown before a rocket launch can be traced to a 1929 silent German film called \"Frau im Mond\", \"Woman in\" this",
+          "answer": "the Moon",
+          "isDailyDouble": false,
+          "orderNumber": 26,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Bill",
+              "score": 3800
+            },
+            {
+              "player": "Sara",
+              "score": 4800
+            },
+            {
+              "player": "Dan",
+              "score": 1200
+            }
+          ]
+        },
+        {
+          "category": "KING ARTHUR'S VERY PUNNY KNIGHTS",
+          "value": 200,
+          "clue": "This knight was so plump his belly was equal to pi times his diameter",
+          "answer": "Sir Cumference",
+          "isDailyDouble": false,
+          "orderNumber": 27,
+          "correctContestants": [
+            "Dan"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bill",
+              "score": 3800
+            },
+            {
+              "player": "Sara",
+              "score": 4800
+            },
+            {
+              "player": "Dan",
+              "score": 1400
+            }
+          ]
+        },
+        {
+          "category": "GRAB BAG",
+          "value": 200,
+          "clue": "What chalupa would be complete without some Jalapeño Noir, which was, sadly, a limited-time wine offering from this chain",
+          "answer": "Taco Bell",
+          "isDailyDouble": false,
+          "orderNumber": 28,
+          "correctContestants": [
+            "Bill"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bill",
+              "score": 4000
+            },
+            {
+              "player": "Sara",
+              "score": 4800
+            },
+            {
+              "player": "Dan",
+              "score": 1400
+            }
+          ]
+        },
+        {
+          "category": "GALLERIES",
+          "value": 200,
+          "clue": "The Freer Gallery of this U.S. institution houses one of the most prominent U.S. collections of Asian art",
+          "answer": "the Smithsonian",
+          "isDailyDouble": false,
+          "orderNumber": 29,
+          "correctContestants": [
+            "Dan"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bill",
+              "score": 4000
+            },
+            {
+              "player": "Sara",
+              "score": 4800
+            },
+            {
+              "player": "Dan",
+              "score": 1600
+            }
+          ]
+        },
+        {
+          "category": "GALLERIES",
+          "value": 400,
+          "clue": "In 1992 Damien Hirst got jaws open at the Saatchi Gallery when he displayed a preserved tiger species of this",
+          "answer": "a (tiger) shark",
+          "isDailyDouble": false,
+          "orderNumber": 30,
+          "correctContestants": [
+            "Dan"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bill",
+              "score": 4000
+            },
+            {
+              "player": "Sara",
+              "score": 4800
+            },
+            {
+              "player": "Dan",
+              "score": 2000
+            }
+          ]
+        }
+      ],
+      "firstBreakScores": [
+        {
+          "player": "Bill",
+          "score": 3400
+        },
+        {
+          "player": "Sara",
+          "score": 3200
+        },
+        {
+          "player": "Dan",
+          "score": 400
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "Bill",
+          "score": 4000
+        },
+        {
+          "player": "Sara",
+          "score": 4800
+        },
+        {
+          "player": "Dan",
+          "score": 2000
+        }
+      ]
+    },
+    "doubleJeopardy": {
+      "categories": [
+        "ISLANDS",
+        "WOMEN WRITERS",
+        "A \"W\" FOR SCIENCE",
+        "ADJECTIVES",
+        "BROADWAY MUSICALS",
+        "HOW'S YOUR LEGALESE?"
+      ],
+      "clues": [
+        {
+          "category": "HOW'S YOUR LEGALESE?",
+          "value": 1600,
+          "clue": "This Latin-named brief is advice offered to the court from an entity that's not a party to the case but has a friendly interest",
+          "answer": "amicus",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bill",
+              "score": 4000
+            },
+            {
+              "player": "Sara",
+              "score": 4800
+            },
+            {
+              "player": "Dan",
+              "score": 3600
+            }
+          ]
+        },
+        {
+          "category": "HOW'S YOUR LEGALESE?",
+          "value": 2000,
+          "clue": "Part of the discovery process, they're written questions from one party in a lawsuit to the other, & reply is mandatory",
+          "answer": "interrogatories",
+          "isDailyDouble": false,
+          "orderNumber": 2,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bill",
+              "score": 4000
+            },
+            {
+              "player": "Sara",
+              "score": 4800
+            },
+            {
+              "player": "Dan",
+              "score": 5600
+            }
+          ]
+        },
+        {
+          "category": "HOW'S YOUR LEGALESE?",
+          "value": 1200,
+          "clue": "1983's Illinois v. Gates modified a 1969 precedent on what constitutes this, reasonable grounds for police action",
+          "answer": "probable cause",
+          "isDailyDouble": false,
+          "orderNumber": 3,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bill",
+              "score": 5200
+            },
+            {
+              "player": "Sara",
+              "score": 4800
+            },
+            {
+              "player": "Dan",
+              "score": 5600
+            }
+          ]
+        },
+        {
+          "category": "WOMEN WRITERS",
+          "value": 1600,
+          "clue": "Known for her \"Magical Thinking\", she wrote a short novel called \"Democracy\" & co-wrote the 1976 film \"A Star Is Born\"",
+          "answer": "Joan Didion",
+          "isDailyDouble": false,
+          "orderNumber": 4,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Bill",
+              "score": 5200
+            },
+            {
+              "player": "Sara",
+              "score": 4800
+            },
+            {
+              "player": "Dan",
+              "score": 5600
+            }
+          ]
+        },
+        {
+          "category": "WOMEN WRITERS",
+          "value": 2000,
+          "clue": "Known for writing about old New York, she had some of her shorter work published in the 1924 collection \"Old New York\"",
+          "answer": "Edith Wharton",
+          "isDailyDouble": false,
+          "orderNumber": 5,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bill",
+              "score": 5200
+            },
+            {
+              "player": "Sara",
+              "score": 6800
+            },
+            {
+              "player": "Dan",
+              "score": 5600
+            }
+          ]
+        },
+        {
+          "category": "A \"W\" FOR SCIENCE",
+          "value": 2000,
+          "clue": "Take the word from which tungsten gets its symbol, W & add \"ite\" to get this principal ore of tungsten",
+          "answer": "wolframite",
+          "isDailyDouble": false,
+          "orderNumber": 6,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bill",
+              "score": 7200
+            },
+            {
+              "player": "Sara",
+              "score": 6800
+            },
+            {
+              "player": "Dan",
+              "score": 5600
+            }
+          ]
+        },
+        {
+          "category": "WOMEN WRITERS",
+          "value": 1200,
+          "clue": "\"Gathering Blue\" is the second book in her \"Giver\" quartet",
+          "answer": "Lois Lowry",
+          "isDailyDouble": false,
+          "orderNumber": 7,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bill",
+              "score": 7200
+            },
+            {
+              "player": "Sara",
+              "score": 8000
+            },
+            {
+              "player": "Dan",
+              "score": 5600
+            }
+          ]
+        },
+        {
+          "category": "ADJECTIVES",
+          "value": 2000,
+          "clue": "From a Latin word meaning to boil or bubble, it describes someone bubbly & enthusiastic",
+          "answer": "effervescent (ebullient)",
+          "isDailyDouble": false,
+          "orderNumber": 8,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bill",
+              "score": 9200
+            },
+            {
+              "player": "Sara",
+              "score": 8000
+            },
+            {
+              "player": "Dan",
+              "score": 5600
+            }
+          ]
+        },
+        {
+          "category": "ISLANDS",
+          "value": 1600,
+          "clue": "Curaçao, in the Caribbean is part of these \"Lesser\" islands",
+          "answer": "the Lesser Antilles",
+          "isDailyDouble": false,
+          "orderNumber": 9,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bill",
+              "score": 9200
+            },
+            {
+              "player": "Sara",
+              "score": 8000
+            },
+            {
+              "player": "Dan",
+              "score": 7200
+            }
+          ]
+        },
+        {
+          "category": "A \"W\" FOR SCIENCE",
+          "value": 1600,
+          "clue": "Neutrophils, the most common type of these cells, release a net-like structure to trap & kill pathogens",
+          "answer": "white blood cells",
+          "isDailyDouble": false,
+          "orderNumber": 10,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bill",
+              "score": 10800
+            },
+            {
+              "player": "Sara",
+              "score": 8000
+            },
+            {
+              "player": "Dan",
+              "score": 5600
+            }
+          ]
+        },
+        {
+          "category": "ISLANDS",
+          "value": 1200,
+          "clue": "Christchurch & Dunedin are the 2 largest cities on this island",
+          "answer": "the South Island of New Zealand",
+          "isDailyDouble": false,
+          "orderNumber": 11,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bill",
+              "score": 9600
+            },
+            {
+              "player": "Sara",
+              "score": 8000
+            },
+            {
+              "player": "Dan",
+              "score": 6800
+            }
+          ]
+        },
+        {
+          "category": "ADJECTIVES",
+          "value": 1600,
+          "clue": "From French for \"green\", it can mean green in color or inexperienced",
+          "answer": "verdant",
+          "isDailyDouble": false,
+          "orderNumber": 12,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Bill",
+              "score": 9600
+            },
+            {
+              "player": "Sara",
+              "score": 6400
+            },
+            {
+              "player": "Dan",
+              "score": 6800
+            }
+          ]
+        },
+        {
+          "category": "ADJECTIVES",
+          "value": 3000,
+          "clue": "Related to the word \"diamond\", it means unyielding or inflexible, perhaps in your opinion",
+          "answer": "adamant",
+          "isDailyDouble": true,
+          "orderNumber": 13,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bill",
+              "score": 9600
+            },
+            {
+              "player": "Sara",
+              "score": 6400
+            },
+            {
+              "player": "Dan",
+              "score": 3800
+            }
+          ]
+        },
+        {
+          "category": "HOW'S YOUR LEGALESE?",
+          "value": 800,
+          "clue": "A real 4-letter word in some courtrooms, it's a temporary pause in a judicial proceeding until another issue is resolved",
+          "answer": "a stay",
+          "isDailyDouble": false,
+          "orderNumber": 14,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bill",
+              "score": 9600
+            },
+            {
+              "player": "Sara",
+              "score": 6400
+            },
+            {
+              "player": "Dan",
+              "score": 4600
+            }
+          ]
+        },
+        {
+          "category": "HOW'S YOUR LEGALESE?",
+          "value": 400,
+          "clue": "Prison terms for multiple sentences are often this type, meaning they run at the same time rather than consecutively",
+          "answer": "concurrent",
+          "isDailyDouble": false,
+          "orderNumber": 15,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bill",
+              "score": 9600
+            },
+            {
+              "player": "Sara",
+              "score": 6400
+            },
+            {
+              "player": "Dan",
+              "score": 5000
+            }
+          ]
+        },
+        {
+          "category": "A \"W\" FOR SCIENCE",
+          "value": 2000,
+          "clue": "It's the distance between 2 crests of sound or light that are next to each other",
+          "answer": "wavelengths",
+          "isDailyDouble": true,
+          "orderNumber": 16,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bill",
+              "score": 9600
+            },
+            {
+              "player": "Sara",
+              "score": 6400
+            },
+            {
+              "player": "Dan",
+              "score": 7000
+            }
+          ]
+        },
+        {
+          "category": "ADJECTIVES",
+          "value": 800,
+          "clue": "Latin for soul gives us this adjective that can describe lively people as well as cartoon characters",
+          "answer": "animated",
+          "isDailyDouble": false,
+          "orderNumber": 17,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bill",
+              "score": 10400
+            },
+            {
+              "player": "Sara",
+              "score": 6400
+            },
+            {
+              "player": "Dan",
+              "score": 7000
+            }
+          ]
+        },
+        {
+          "category": "BROADWAY MUSICALS",
+          "value": 1600,
+          "clue": "Inspired by a Seurat painting, this Stephen Sondheim-James Lapine show won the 1985 Pulitzer Prize in Drama",
+          "answer": "Sunday in the Park with George",
+          "isDailyDouble": false,
+          "orderNumber": 18,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Bill",
+              "score": 8800
+            },
+            {
+              "player": "Sara",
+              "score": 6400
+            },
+            {
+              "player": "Dan",
+              "score": 7000
+            }
+          ]
+        },
+        {
+          "category": "BROADWAY MUSICALS",
+          "value": 2000,
+          "clue": "One of Charlemagne's sons is the title character in this musical that first opened in 1972",
+          "answer": "Pippin",
+          "isDailyDouble": false,
+          "orderNumber": 19,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bill",
+              "score": 8800
+            },
+            {
+              "player": "Sara",
+              "score": 8400
+            },
+            {
+              "player": "Dan",
+              "score": 7000
+            }
+          ]
+        },
+        {
+          "category": "A \"W\" FOR SCIENCE",
+          "value": 800,
+          "clue": "It's used to describe a lunar phase where the Moon's apparent shape is gettin' thick",
+          "answer": "waxing",
+          "isDailyDouble": false,
+          "orderNumber": 20,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bill",
+              "score": 8800
+            },
+            {
+              "player": "Sara",
+              "score": 8400
+            },
+            {
+              "player": "Dan",
+              "score": 7800
+            }
+          ]
+        },
+        {
+          "category": "ISLANDS",
+          "value": 800,
+          "clue": "Palma is the capital of this largest of the Balearic islands",
+          "answer": "Mallorca",
+          "isDailyDouble": false,
+          "orderNumber": 21,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Bill",
+              "score": 8000
+            },
+            {
+              "player": "Sara",
+              "score": 8400
+            },
+            {
+              "player": "Dan",
+              "score": 7800
+            }
+          ]
+        },
+        {
+          "category": "A \"W\" FOR SCIENCE",
+          "value": 400,
+          "clue": "Get a big W & name this unit of power equal to one joule of work performed per second",
+          "answer": "a watt",
+          "isDailyDouble": false,
+          "orderNumber": 22,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bill",
+              "score": 8000
+            },
+            {
+              "player": "Sara",
+              "score": 8400
+            },
+            {
+              "player": "Dan",
+              "score": 8200
+            }
+          ]
+        },
+        {
+          "category": "ISLANDS",
+          "value": 400,
+          "clue": "Both a city & county, Honolulu covers this entire island",
+          "answer": "Oahu",
+          "isDailyDouble": false,
+          "orderNumber": 23,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bill",
+              "score": 8400
+            },
+            {
+              "player": "Sara",
+              "score": 8400
+            },
+            {
+              "player": "Dan",
+              "score": 7800
+            }
+          ]
+        },
+        {
+          "category": "ISLANDS",
+          "value": 2000,
+          "clue": "These two neighboring islands are Indonesia's most populous",
+          "answer": "Sumatra & Java",
+          "isDailyDouble": false,
+          "orderNumber": 24,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bill",
+              "score": 10400
+            },
+            {
+              "player": "Sara",
+              "score": 8400
+            },
+            {
+              "player": "Dan",
+              "score": 5800
+            }
+          ]
+        },
+        {
+          "category": "BROADWAY MUSICALS",
+          "value": 1200,
+          "clue": "Mr. Mushnik gets gobbled up by a plant in his own store in this musical",
+          "answer": "Little Shop of Horrors",
+          "isDailyDouble": false,
+          "orderNumber": 25,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bill",
+              "score": 10400
+            },
+            {
+              "player": "Sara",
+              "score": 8400
+            },
+            {
+              "player": "Dan",
+              "score": 7000
+            }
+          ]
+        },
+        {
+          "category": "ADJECTIVES",
+          "value": 400,
+          "clue": "The original \"Wizard of Oz\" novel featured this adjective that's not in the film title",
+          "answer": "wonderful",
+          "isDailyDouble": false,
+          "orderNumber": 26,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bill",
+              "score": 10800
+            },
+            {
+              "player": "Sara",
+              "score": 8400
+            },
+            {
+              "player": "Dan",
+              "score": 7000
+            }
+          ]
+        },
+        {
+          "category": "BROADWAY MUSICALS",
+          "value": 800,
+          "clue": "The settings for this musical are a prison in Seville & in the imagination of Cervantes",
+          "answer": "Man of La Mancha",
+          "isDailyDouble": false,
+          "orderNumber": 27,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bill",
+              "score": 11600
+            },
+            {
+              "player": "Sara",
+              "score": 8400
+            },
+            {
+              "player": "Dan",
+              "score": 7000
+            }
+          ]
+        },
+        {
+          "category": "WOMEN WRITERS",
+          "value": 800,
+          "clue": "In a book by Kate DiCamillo, young Opal goes to the local supermarket & comes home with this dog",
+          "answer": "Winn-Dixie",
+          "isDailyDouble": false,
+          "orderNumber": 28,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bill",
+              "score": 11600
+            },
+            {
+              "player": "Sara",
+              "score": 8400
+            },
+            {
+              "player": "Dan",
+              "score": 7800
+            }
+          ]
+        },
+        {
+          "category": "BROADWAY MUSICALS",
+          "value": 400,
+          "clue": "This revival starring Eddie Redmayne as the Emcee & Gayle Rankin as Sally Bowles was a hot ticket in 2024",
+          "answer": "Cabaret",
+          "isDailyDouble": false,
+          "orderNumber": 29,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bill",
+              "score": 12000
+            },
+            {
+              "player": "Sara",
+              "score": 8400
+            },
+            {
+              "player": "Dan",
+              "score": 7800
+            }
+          ]
+        },
+        {
+          "category": "WOMEN WRITERS",
+          "value": 400,
+          "clue": "Her books include 1936's \"Murder in Mesopotamia\" & 1923's \"Murder on the Links\"",
+          "answer": "Agatha Christie",
+          "isDailyDouble": false,
+          "orderNumber": 30,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bill",
+              "score": 12000
+            },
+            {
+              "player": "Sara",
+              "score": 8800
+            },
+            {
+              "player": "Dan",
+              "score": 7800
+            }
+          ]
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "Bill",
+          "score": 12000
+        },
+        {
+          "player": "Sara",
+          "score": 8800
+        },
+        {
+          "player": "Dan",
+          "score": 7800
+        }
+      ]
+    },
+    "finalJeopardy": {
+      "category": "PRESIDENTIAL CANDIDATES",
+      "clue": "The running mates of this candidate included John Kern, Arthur Sewall & Adlai Stevenson I",
+      "answer": "William Jennings Bryan",
+      "responses": [
+        {
+          "contestant": "Dan",
+          "response": "Who is Richard Nixon",
+          "isCorrect": false,
+          "isIncorrect": true,
+          "value": 7799,
+          "finalScore": 1
+        },
+        {
+          "contestant": "Sara",
+          "response": "Who is Teddy Roosevelt?",
+          "isCorrect": false,
+          "isIncorrect": true,
+          "value": 3198,
+          "finalScore": 5602
+        },
+        {
+          "contestant": "Bill",
+          "response": "Who is Cleveland [heart drawing with \"J+J\" inside]",
+          "isCorrect": false,
+          "isIncorrect": true,
+          "value": 6000,
+          "finalScore": 6000
+        }
+      ]
+    }
+  },
+  "finalScores": [
+    {
+      "player": "Bill",
+      "score": "$6,000"
+    },
+    {
+      "player": "Sara",
+      "score": "$5,602"
+    },
+    {
+      "player": "Dan",
+      "score": "$1"
+    }
+  ],
+  "coryatScores": [
+    {
+      "player": "Bill",
+      "score": 12000
+    },
+    {
+      "player": "Sara",
+      "score": 8800
+    },
+    {
+      "player": "Dan",
+      "score": 11000
+    }
+  ]
+}

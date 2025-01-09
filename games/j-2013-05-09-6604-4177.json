@@ -1,0 +1,1695 @@
+{
+  "gameId": 4177,
+  "showNumber": "6604",
+  "title": "Show #6604 - Thursday, May 9, 2013",
+  "date": "2013-05-09",
+  "comments": "2013 College Championship quarterfinal game 4.",
+  "contestants": [
+    "Cindy",
+    "Bill",
+    "Jack"
+  ],
+  "rounds": {
+    "jeopardy": {
+      "categories": [
+        "IT'S MAY",
+        "ENDS IN \"X\"",
+        "FAST FOOD, FAST",
+        "WHATEVER",
+        "CLASSIC NOVELS",
+        "SOCCER, THE BEAUTIFUL GAME"
+      ],
+      "clues": [
+        {
+          "category": "CLASSIC NOVELS",
+          "value": 200,
+          "clue": "It's the adventure tale in which you'll find Jim Hawkins & Long John Silver",
+          "answer": "Treasure Island",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [
+            "Jack"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Cindy",
+              "score": 0
+            },
+            {
+              "player": "Bill",
+              "score": 0
+            },
+            {
+              "player": "Jack",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "CLASSIC NOVELS",
+          "value": 400,
+          "clue": "In an Oscar Wilde novel, this character said he'd give his soul if only his portrait would age & he could remain young",
+          "answer": "Dorian Gray",
+          "isDailyDouble": false,
+          "orderNumber": 2,
+          "correctContestants": [
+            "Bill"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Cindy",
+              "score": 0
+            },
+            {
+              "player": "Bill",
+              "score": 400
+            },
+            {
+              "player": "Jack",
+              "score": 200
+            }
+          ]
+        },
+        {
+          "category": "ENDS IN \"X\"",
+          "value": 800,
+          "clue": "It's the only New York City borough that's not separated from Upstate New York by water",
+          "answer": "the Bronx",
+          "isDailyDouble": false,
+          "orderNumber": 3,
+          "correctContestants": [
+            "Jack"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Cindy",
+              "score": 0
+            },
+            {
+              "player": "Bill",
+              "score": 400
+            },
+            {
+              "player": "Jack",
+              "score": 1000
+            }
+          ]
+        },
+        {
+          "category": "ENDS IN \"X\"",
+          "value": 600,
+          "clue": "It's the nostalgic item seen here",
+          "answer": "jukebox",
+          "isDailyDouble": false,
+          "orderNumber": 4,
+          "correctContestants": [
+            "Bill"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Cindy",
+              "score": 0
+            },
+            {
+              "player": "Bill",
+              "score": 1000
+            },
+            {
+              "player": "Jack",
+              "score": 1000
+            }
+          ]
+        },
+        {
+          "category": "CLASSIC NOVELS",
+          "value": 800,
+          "clue": "The first section of this Willa Cather novel is called \"The Shimerdas\"",
+          "answer": "My Ántonia",
+          "isDailyDouble": false,
+          "orderNumber": 5,
+          "correctContestants": [
+            "Cindy"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Cindy",
+              "score": 800
+            },
+            {
+              "player": "Bill",
+              "score": 1000
+            },
+            {
+              "player": "Jack",
+              "score": 1000
+            }
+          ]
+        },
+        {
+          "category": "CLASSIC NOVELS",
+          "value": 1000,
+          "clue": "In this novel, banned in the U.S. until 1933, Molly Bloom & Stephen Dedalus represent Penelope & Telemachus",
+          "answer": "Ulysses",
+          "isDailyDouble": true,
+          "orderNumber": 6,
+          "correctContestants": [
+            "Cindy"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Cindy",
+              "score": 1800
+            },
+            {
+              "player": "Bill",
+              "score": 1000
+            },
+            {
+              "player": "Jack",
+              "score": 1000
+            }
+          ]
+        },
+        {
+          "category": "CLASSIC NOVELS",
+          "value": 600,
+          "clue": "This tale of the Jazz Age is narrated by Nick Carraway",
+          "answer": "The Great Gatsby",
+          "isDailyDouble": false,
+          "orderNumber": 7,
+          "correctContestants": [
+            "Cindy"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Cindy",
+              "score": 2400
+            },
+            {
+              "player": "Bill",
+              "score": 1000
+            },
+            {
+              "player": "Jack",
+              "score": 1000
+            }
+          ]
+        },
+        {
+          "category": "SOCCER, THE BEAUTIFUL GAME",
+          "value": 200,
+          "clue": "Soccer is also called this type of \"football\", hence the short form \"soccer\"",
+          "answer": "association",
+          "isDailyDouble": false,
+          "orderNumber": 8,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Cindy",
+              "score": 2400
+            },
+            {
+              "player": "Bill",
+              "score": 1000
+            },
+            {
+              "player": "Jack",
+              "score": 1000
+            }
+          ]
+        },
+        {
+          "category": "SOCCER, THE BEAUTIFUL GAME",
+          "value": 400,
+          "clue": "If a player gets closer to the opposing goal than both the ball & the second-last defender, this can be called",
+          "answer": "offside",
+          "isDailyDouble": false,
+          "orderNumber": 9,
+          "correctContestants": [
+            "Jack"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Cindy",
+              "score": 2400
+            },
+            {
+              "player": "Bill",
+              "score": 1000
+            },
+            {
+              "player": "Jack",
+              "score": 1400
+            }
+          ]
+        },
+        {
+          "category": "SOCCER, THE BEAUTIFUL GAME",
+          "value": 600,
+          "clue": "The 10 players other than the goalie are said to play here; in baseball, only 3 do",
+          "answer": "outfield",
+          "isDailyDouble": false,
+          "orderNumber": 10,
+          "correctContestants": [
+            "Jack"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Cindy",
+              "score": 2400
+            },
+            {
+              "player": "Bill",
+              "score": 1000
+            },
+            {
+              "player": "Jack",
+              "score": 2000
+            }
+          ]
+        },
+        {
+          "category": "SOCCER, THE BEAUTIFUL GAME",
+          "value": 800,
+          "clue": "(Kelly of the Clue Crew presents the clue on a soccer field.) Also called a one-two, this play can start with a pass or a throw-in; then the player breaks past the defender into open space for a quick return pass",
+          "answer": "give and go",
+          "isDailyDouble": false,
+          "orderNumber": 11,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Cindy",
+              "score": 2400
+            },
+            {
+              "player": "Bill",
+              "score": 1000
+            },
+            {
+              "player": "Jack",
+              "score": 2000
+            }
+          ]
+        },
+        {
+          "category": "SOCCER, THE BEAUTIFUL GAME",
+          "value": 1000,
+          "clue": "The international soccer body known by these 4 letters has more members than the U.N.!",
+          "answer": "FIFA",
+          "isDailyDouble": false,
+          "orderNumber": 12,
+          "correctContestants": [
+            "Bill"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Cindy",
+              "score": 2400
+            },
+            {
+              "player": "Bill",
+              "score": 2000
+            },
+            {
+              "player": "Jack",
+              "score": 2000
+            }
+          ]
+        },
+        {
+          "category": "IT'S MAY",
+          "value": 800,
+          "clue": "On May 14, 1796 Dr. Edward Jenner gave an 8-year-old boy an inoculation against this deadly disease",
+          "answer": "smallpox",
+          "isDailyDouble": false,
+          "orderNumber": 13,
+          "correctContestants": [
+            "Cindy"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Cindy",
+              "score": 3200
+            },
+            {
+              "player": "Bill",
+              "score": 2000
+            },
+            {
+              "player": "Jack",
+              "score": 2000
+            }
+          ]
+        },
+        {
+          "category": "IT'S MAY",
+          "value": 200,
+          "clue": "In May 1937 35 of the 97 aboard this German airship were killed after it exploded",
+          "answer": "the Hindenburg",
+          "isDailyDouble": false,
+          "orderNumber": 14,
+          "correctContestants": [
+            "Bill"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Cindy",
+              "score": 3200
+            },
+            {
+              "player": "Bill",
+              "score": 2200
+            },
+            {
+              "player": "Jack",
+              "score": 2000
+            }
+          ]
+        },
+        {
+          "category": "ENDS IN \"X\"",
+          "value": 1000,
+          "clue": "From words meaning \"beyond belief\", it's a seemingly contradictory statement",
+          "answer": "paradox",
+          "isDailyDouble": false,
+          "orderNumber": 15,
+          "correctContestants": [
+            "Cindy"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Cindy",
+              "score": 4200
+            },
+            {
+              "player": "Bill",
+              "score": 2200
+            },
+            {
+              "player": "Jack",
+              "score": 2000
+            }
+          ]
+        },
+        {
+          "category": "ENDS IN \"X\"",
+          "value": 200,
+          "clue": "It's what the \"-ly\" is in softly & calmly",
+          "answer": "suffix",
+          "isDailyDouble": false,
+          "orderNumber": 16,
+          "correctContestants": [
+            "Bill"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Cindy",
+              "score": 4200
+            },
+            {
+              "player": "Bill",
+              "score": 2400
+            },
+            {
+              "player": "Jack",
+              "score": 2000
+            }
+          ]
+        },
+        {
+          "category": "IT'S MAY",
+          "value": 600,
+          "clue": "On the night of May 24, 1856 5 members of this man's family killed 5 Kansans to promote abolitionism",
+          "answer": "(John) Brown",
+          "isDailyDouble": false,
+          "orderNumber": 17,
+          "correctContestants": [
+            "Jack"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Cindy",
+              "score": 4200
+            },
+            {
+              "player": "Bill",
+              "score": 2400
+            },
+            {
+              "player": "Jack",
+              "score": 2600
+            }
+          ]
+        },
+        {
+          "category": "IT'S MAY",
+          "value": 1000,
+          "clue": "This Vermont patriot led the May 1775 capture of Fort Ticonderoga from the British",
+          "answer": "Ethan Allen",
+          "isDailyDouble": false,
+          "orderNumber": 18,
+          "correctContestants": [
+            "Jack"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Cindy",
+              "score": 4200
+            },
+            {
+              "player": "Bill",
+              "score": 2400
+            },
+            {
+              "player": "Jack",
+              "score": 3600
+            }
+          ]
+        },
+        {
+          "category": "IT'S MAY",
+          "value": 400,
+          "clue": "This opera premiered on May 1, 1786 & audiences thought it was a \"marriage\" made in heaven",
+          "answer": "The Marriage of Figaro",
+          "isDailyDouble": false,
+          "orderNumber": 19,
+          "correctContestants": [
+            "Cindy"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Cindy",
+              "score": 4600
+            },
+            {
+              "player": "Bill",
+              "score": 2400
+            },
+            {
+              "player": "Jack",
+              "score": 3600
+            }
+          ]
+        },
+        {
+          "category": "ENDS IN \"X\"",
+          "value": 400,
+          "clue": "When a doctor taps your knee with a little hammer, he's testing one of these",
+          "answer": "reflex",
+          "isDailyDouble": false,
+          "orderNumber": 20,
+          "correctContestants": [
+            "Cindy"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Cindy",
+              "score": 5000
+            },
+            {
+              "player": "Bill",
+              "score": 2400
+            },
+            {
+              "player": "Jack",
+              "score": 3600
+            }
+          ]
+        },
+        {
+          "category": "FAST FOOD, FAST",
+          "value": 200,
+          "clue": "The crunchy Taco Supreme",
+          "answer": "Taco Bell",
+          "isDailyDouble": false,
+          "orderNumber": 21,
+          "correctContestants": [
+            "Cindy"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Cindy",
+              "score": 5200
+            },
+            {
+              "player": "Bill",
+              "score": 2400
+            },
+            {
+              "player": "Jack",
+              "score": 3600
+            }
+          ]
+        },
+        {
+          "category": "FAST FOOD, FAST",
+          "value": 400,
+          "clue": "Tacos del Carbon",
+          "answer": "Del Taco",
+          "isDailyDouble": false,
+          "orderNumber": 22,
+          "correctContestants": [
+            "Jack"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Cindy",
+              "score": 5200
+            },
+            {
+              "player": "Bill",
+              "score": 2400
+            },
+            {
+              "player": "Jack",
+              "score": 4000
+            }
+          ]
+        },
+        {
+          "category": "FAST FOOD, FAST",
+          "value": 600,
+          "clue": "Dave's hot & juicy half pound double",
+          "answer": "Wendy's",
+          "isDailyDouble": false,
+          "orderNumber": 23,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Jack"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Cindy",
+              "score": 5200
+            },
+            {
+              "player": "Bill",
+              "score": 2400
+            },
+            {
+              "player": "Jack",
+              "score": 3400
+            }
+          ]
+        },
+        {
+          "category": "WHATEVER",
+          "value": 200,
+          "clue": "In 2013 this longtime senator from Massachusetts became U.S. Secretary of State",
+          "answer": "John Kerry",
+          "isDailyDouble": false,
+          "orderNumber": 24,
+          "correctContestants": [
+            "Cindy"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Cindy",
+              "score": 5400
+            },
+            {
+              "player": "Bill",
+              "score": 2400
+            },
+            {
+              "player": "Jack",
+              "score": 3400
+            }
+          ]
+        },
+        {
+          "category": "WHATEVER",
+          "value": 400,
+          "clue": "This is how he looked in high school; today he's a talented actor & director as well",
+          "answer": "Ben Affleck",
+          "isDailyDouble": false,
+          "orderNumber": 25,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Cindy",
+              "score": 5400
+            },
+            {
+              "player": "Bill",
+              "score": 2400
+            },
+            {
+              "player": "Jack",
+              "score": 3400
+            }
+          ]
+        },
+        {
+          "category": "WHATEVER",
+          "value": 600,
+          "clue": "In 2011 a group of 28 people set a Guinness world record by cramming into one of these \"mini\" cars",
+          "answer": "Mini Cooper",
+          "isDailyDouble": false,
+          "orderNumber": 26,
+          "correctContestants": [
+            "Bill"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Cindy",
+              "score": 5400
+            },
+            {
+              "player": "Bill",
+              "score": 3000
+            },
+            {
+              "player": "Jack",
+              "score": 3400
+            }
+          ]
+        },
+        {
+          "category": "WHATEVER",
+          "value": 800,
+          "clue": "(Sarah of the Clue Crew does a demonstration.)  The hot water in the bottle rises & floats in the cold; the same principle applies with an underwater volcano, except the hot water changes to this 5-letter emission, which causes an explosion",
+          "answer": "steam",
+          "isDailyDouble": false,
+          "orderNumber": 27,
+          "correctContestants": [
+            "Jack"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Cindy",
+              "score": 5400
+            },
+            {
+              "player": "Bill",
+              "score": 3000
+            },
+            {
+              "player": "Jack",
+              "score": 4200
+            }
+          ]
+        },
+        {
+          "category": "WHATEVER",
+          "value": 1000,
+          "clue": "In \"A Psalm of Life\", Longfellow wrote of leaving \"behind us\" these \"on the sands of time\"",
+          "answer": "footprints",
+          "isDailyDouble": false,
+          "orderNumber": 28,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Cindy"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Cindy",
+              "score": 4400
+            },
+            {
+              "player": "Bill",
+              "score": 3000
+            },
+            {
+              "player": "Jack",
+              "score": 4200
+            }
+          ]
+        },
+        {
+          "category": "FAST FOOD, FAST",
+          "value": 800,
+          "clue": "The Junkyard Dog, Bacon Wrapped Street Dog & the Kraut Dog",
+          "answer": "Wienerschnitzel",
+          "isDailyDouble": false,
+          "orderNumber": 29,
+          "correctContestants": [
+            "Jack"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Cindy",
+              "score": 4400
+            },
+            {
+              "player": "Bill",
+              "score": 3000
+            },
+            {
+              "player": "Jack",
+              "score": 5000
+            }
+          ]
+        },
+        {
+          "category": "FAST FOOD, FAST",
+          "value": 1000,
+          "clue": "Was the Big Fish, now the premium Alaskan fish sandwich",
+          "answer": "Burger King",
+          "isDailyDouble": false,
+          "orderNumber": 30,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Jack"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Cindy",
+              "score": 4400
+            },
+            {
+              "player": "Bill",
+              "score": 3000
+            },
+            {
+              "player": "Jack",
+              "score": 4000
+            }
+          ]
+        }
+      ],
+      "firstBreakScores": [
+        {
+          "player": "Cindy",
+          "score": 4200
+        },
+        {
+          "player": "Bill",
+          "score": 2200
+        },
+        {
+          "player": "Jack",
+          "score": 2000
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "Cindy",
+          "score": 4400
+        },
+        {
+          "player": "Bill",
+          "score": 3000
+        },
+        {
+          "player": "Jack",
+          "score": 4000
+        }
+      ]
+    },
+    "doubleJeopardy": {
+      "categories": [
+        "YOU'RE CRAZY, ME DRIVING?",
+        "TV SHOWS BY CHARACTERS",
+        "WE HAVE A NEW STATE CAPITAL",
+        "RHYME THIS!",
+        "COMPOSERS & THEIR MUSIC",
+        "THE ABEL PRIZE"
+      ],
+      "clues": [
+        {
+          "category": "COMPOSERS & THEIR MUSIC",
+          "value": 1600,
+          "clue": "Bach wrote a mean passacaglia, like his C minor one for this instrument he also played expertly",
+          "answer": "organ",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Jack"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Cindy",
+              "score": 4400
+            },
+            {
+              "player": "Bill",
+              "score": 1400
+            },
+            {
+              "player": "Jack",
+              "score": 2400
+            }
+          ]
+        },
+        {
+          "category": "COMPOSERS & THEIR MUSIC",
+          "value": 1200,
+          "clue": "Even when poor, this 19th century opera composer made sure to dress exquisitely",
+          "answer": "Richard Wagner",
+          "isDailyDouble": false,
+          "orderNumber": 2,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Cindy",
+              "score": 4400
+            },
+            {
+              "player": "Bill",
+              "score": 200
+            },
+            {
+              "player": "Jack",
+              "score": 2400
+            }
+          ]
+        },
+        {
+          "category": "COMPOSERS & THEIR MUSIC",
+          "value": 1000,
+          "clue": "May 2013 marks the 100th anniversary of the premiere of this Stravinsky work & the accompanying riot",
+          "answer": "Rite of Spring",
+          "isDailyDouble": true,
+          "orderNumber": 3,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Cindy",
+              "score": 4400
+            },
+            {
+              "player": "Bill",
+              "score": 1200
+            },
+            {
+              "player": "Jack",
+              "score": 2400
+            }
+          ]
+        },
+        {
+          "category": "WE HAVE A NEW STATE CAPITAL",
+          "value": 1600,
+          "clue": "Replacing New Castle",
+          "answer": "Dover",
+          "isDailyDouble": false,
+          "orderNumber": 4,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Cindy",
+              "score": 4400
+            },
+            {
+              "player": "Bill",
+              "score": 1200
+            },
+            {
+              "player": "Jack",
+              "score": 2400
+            }
+          ]
+        },
+        {
+          "category": "WE HAVE A NEW STATE CAPITAL",
+          "value": 2000,
+          "clue": "Replacing Wheeling",
+          "answer": "Charleston",
+          "isDailyDouble": true,
+          "orderNumber": 5,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Cindy",
+              "score": 4400
+            },
+            {
+              "player": "Bill",
+              "score": -800
+            },
+            {
+              "player": "Jack",
+              "score": 2400
+            }
+          ]
+        },
+        {
+          "category": "WE HAVE A NEW STATE CAPITAL",
+          "value": 2000,
+          "clue": "Replacing Portland, in 1832",
+          "answer": "Augusta",
+          "isDailyDouble": false,
+          "orderNumber": 6,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Cindy",
+              "score": 4400
+            },
+            {
+              "player": "Bill",
+              "score": 1200
+            },
+            {
+              "player": "Jack",
+              "score": 2400
+            }
+          ]
+        },
+        {
+          "category": "WE HAVE A NEW STATE CAPITAL",
+          "value": 800,
+          "clue": "Replacing Williamsburg",
+          "answer": "Richmond",
+          "isDailyDouble": false,
+          "orderNumber": 7,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Cindy",
+              "score": 3600
+            },
+            {
+              "player": "Bill",
+              "score": 2000
+            },
+            {
+              "player": "Jack",
+              "score": 2400
+            }
+          ]
+        },
+        {
+          "category": "WE HAVE A NEW STATE CAPITAL",
+          "value": 400,
+          "clue": "Replacing Tuscaloosa",
+          "answer": "Montgomery",
+          "isDailyDouble": false,
+          "orderNumber": 8,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Cindy",
+              "score": 3600
+            },
+            {
+              "player": "Bill",
+              "score": 2400
+            },
+            {
+              "player": "Jack",
+              "score": 2400
+            }
+          ]
+        },
+        {
+          "category": "COMPOSERS & THEIR MUSIC",
+          "value": 800,
+          "clue": "Power failure?  Illuminate your house with this Beethoven sonata in C sharp minor",
+          "answer": "Moonlight Sonata",
+          "isDailyDouble": false,
+          "orderNumber": 9,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Cindy",
+              "score": 4400
+            },
+            {
+              "player": "Bill",
+              "score": 2400
+            },
+            {
+              "player": "Jack",
+              "score": 2400
+            }
+          ]
+        },
+        {
+          "category": "COMPOSERS & THEIR MUSIC",
+          "value": 400,
+          "clue": "This \"phantom\" musical theatre composer holds the title Baron of Sydmonton",
+          "answer": "Andrew Lloyd Webber",
+          "isDailyDouble": false,
+          "orderNumber": 10,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Cindy",
+              "score": 4800
+            },
+            {
+              "player": "Bill",
+              "score": 2400
+            },
+            {
+              "player": "Jack",
+              "score": 2400
+            }
+          ]
+        },
+        {
+          "category": "TV SHOWS BY CHARACTERS",
+          "value": 400,
+          "clue": "Kenny McCormick &Eric Cartman",
+          "answer": "South Park",
+          "isDailyDouble": false,
+          "orderNumber": 11,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Cindy",
+              "score": 5200
+            },
+            {
+              "player": "Bill",
+              "score": 2400
+            },
+            {
+              "player": "Jack",
+              "score": 2400
+            }
+          ]
+        },
+        {
+          "category": "TV SHOWS BY CHARACTERS",
+          "value": 800,
+          "clue": "Marshall Eriksen &the suited-up Barney Stinson",
+          "answer": "How I Met Your Mother",
+          "isDailyDouble": false,
+          "orderNumber": 12,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Cindy",
+              "score": 5200
+            },
+            {
+              "player": "Bill",
+              "score": 3200
+            },
+            {
+              "player": "Jack",
+              "score": 2400
+            }
+          ]
+        },
+        {
+          "category": "THE ABEL PRIZE",
+          "value": 400,
+          "clue": "The Abel Prize, the \"Nobel Prize of Mathematics\", is presented annually in this city by the king of Norway",
+          "answer": "Oslo",
+          "isDailyDouble": false,
+          "orderNumber": 13,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Cindy",
+              "score": 5200
+            },
+            {
+              "player": "Bill",
+              "score": 3600
+            },
+            {
+              "player": "Jack",
+              "score": 2400
+            }
+          ]
+        },
+        {
+          "category": "THE ABEL PRIZE",
+          "value": 800,
+          "clue": "The 2009 prize went to Mikhail Gromov for his \" revolutionary contributions to\" this math branch pioneered by Euclid",
+          "answer": "geometry",
+          "isDailyDouble": false,
+          "orderNumber": 14,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Cindy",
+              "score": 5200
+            },
+            {
+              "player": "Bill",
+              "score": 3600
+            },
+            {
+              "player": "Jack",
+              "score": 3200
+            }
+          ]
+        },
+        {
+          "category": "THE ABEL PRIZE",
+          "value": 1200,
+          "clue": "2011 laureate John Milnor won in part for \"pioneering discoveries in\" this, from Arabic for \"reunion of broken parts\"",
+          "answer": "algebra",
+          "isDailyDouble": false,
+          "orderNumber": 15,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Cindy",
+              "score": 5200
+            },
+            {
+              "player": "Bill",
+              "score": 4800
+            },
+            {
+              "player": "Jack",
+              "score": 3200
+            }
+          ]
+        },
+        {
+          "category": "THE ABEL PRIZE",
+          "value": 1600,
+          "clue": "Peter Lax won in 2005 for his \"contributions to the theory and application of partial differential\" these",
+          "answer": "equations",
+          "isDailyDouble": false,
+          "orderNumber": 16,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Cindy",
+              "score": 5200
+            },
+            {
+              "player": "Bill",
+              "score": 4800
+            },
+            {
+              "player": "Jack",
+              "score": 4800
+            }
+          ]
+        },
+        {
+          "category": "THE ABEL PRIZE",
+          "value": 2000,
+          "clue": "The first prize, in 2003, went to Jean-Pierre Serre, whose work helped Andrew Wiles prove this man's famous \"last theorem\"",
+          "answer": "Fermat",
+          "isDailyDouble": false,
+          "orderNumber": 17,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Cindy",
+              "score": 7200
+            },
+            {
+              "player": "Bill",
+              "score": 4800
+            },
+            {
+              "player": "Jack",
+              "score": 4800
+            }
+          ]
+        },
+        {
+          "category": "TV SHOWS BY CHARACTERS",
+          "value": 1200,
+          "clue": "Emily Thorne &Victoria Grayson, queen of the Hamptons",
+          "answer": "Revenge",
+          "isDailyDouble": false,
+          "orderNumber": 18,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Cindy",
+              "score": 8400
+            },
+            {
+              "player": "Bill",
+              "score": 4800
+            },
+            {
+              "player": "Jack",
+              "score": 4800
+            }
+          ]
+        },
+        {
+          "category": "TV SHOWS BY CHARACTERS",
+          "value": 1600,
+          "clue": "Dean Pelton &student Jeff Winger",
+          "answer": "Community",
+          "isDailyDouble": false,
+          "orderNumber": 19,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Cindy",
+              "score": 10000
+            },
+            {
+              "player": "Bill",
+              "score": 4800
+            },
+            {
+              "player": "Jack",
+              "score": 4800
+            }
+          ]
+        },
+        {
+          "category": "TV SHOWS BY CHARACTERS",
+          "value": 2000,
+          "clue": "NYPD detectives Olivia Benson &John Munch",
+          "answer": "Law & Order: SVU",
+          "isDailyDouble": false,
+          "orderNumber": 20,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Cindy",
+              "score": 12000
+            },
+            {
+              "player": "Bill",
+              "score": 4800
+            },
+            {
+              "player": "Jack",
+              "score": 4800
+            }
+          ]
+        },
+        {
+          "category": "YOU'RE CRAZY, ME DRIVING?",
+          "value": 400,
+          "clue": "I'm prone to this alliterative anger caused by all the bleepity-bleeps who can't drive",
+          "answer": "road rage",
+          "isDailyDouble": false,
+          "orderNumber": 21,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Cindy",
+              "score": 12000
+            },
+            {
+              "player": "Bill",
+              "score": 5200
+            },
+            {
+              "player": "Jack",
+              "score": 4800
+            }
+          ]
+        },
+        {
+          "category": "YOU'RE CRAZY, ME DRIVING?",
+          "value": 800,
+          "clue": "You don't want me turning this indicator on for fun",
+          "answer": "high beams",
+          "isDailyDouble": false,
+          "orderNumber": 22,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Cindy",
+              "score": 12800
+            },
+            {
+              "player": "Bill",
+              "score": 5200
+            },
+            {
+              "player": "Jack",
+              "score": 4800
+            }
+          ]
+        },
+        {
+          "category": "YOU'RE CRAZY, ME DRIVING?",
+          "value": 1200,
+          "clue": "The car's a manual, & the way my left foot always falls asleep, I can't use this shifting pedal",
+          "answer": "clutch",
+          "isDailyDouble": false,
+          "orderNumber": 23,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Cindy",
+              "score": 12800
+            },
+            {
+              "player": "Bill",
+              "score": 5200
+            },
+            {
+              "player": "Jack",
+              "score": 6000
+            }
+          ]
+        },
+        {
+          "category": "YOU'RE CRAZY, ME DRIVING?",
+          "value": 1600,
+          "clue": "I always wait too long to fill up & spend another $20 replacing this part that gets clogged with gunk from the bottom of the tank",
+          "answer": "fuel filter",
+          "isDailyDouble": false,
+          "orderNumber": 24,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Cindy",
+              "score": 12800
+            },
+            {
+              "player": "Bill",
+              "score": 5200
+            },
+            {
+              "player": "Jack",
+              "score": 4400
+            }
+          ]
+        },
+        {
+          "category": "RHYME THIS!",
+          "value": 400,
+          "clue": "Sound made by the Southeast Asian Cobra",
+          "answer": "hiss",
+          "isDailyDouble": false,
+          "orderNumber": 25,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Cindy",
+              "score": 12800
+            },
+            {
+              "player": "Bill",
+              "score": 5600
+            },
+            {
+              "player": "Jack",
+              "score": 4400
+            }
+          ]
+        },
+        {
+          "category": "RHYME THIS!",
+          "value": 800,
+          "clue": "Slang meaning to speak of someone critically",
+          "answer": "diss",
+          "isDailyDouble": false,
+          "orderNumber": 26,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Cindy",
+              "score": 13600
+            },
+            {
+              "player": "Bill",
+              "score": 5600
+            },
+            {
+              "player": "Jack",
+              "score": 4400
+            }
+          ]
+        },
+        {
+          "category": "RHYME THIS!",
+          "value": 1200,
+          "clue": "This adjective means negligent in performance or attention",
+          "answer": "remiss",
+          "isDailyDouble": false,
+          "orderNumber": 27,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Cindy",
+              "score": 13600
+            },
+            {
+              "player": "Bill",
+              "score": 6800
+            },
+            {
+              "player": "Jack",
+              "score": 4400
+            }
+          ]
+        },
+        {
+          "category": "RHYME THIS!",
+          "value": 1600,
+          "clue": "Hebrew rite performed on the 8th day of a male child's life",
+          "answer": "bris",
+          "isDailyDouble": false,
+          "orderNumber": 28,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Cindy",
+              "score": 15200
+            },
+            {
+              "player": "Bill",
+              "score": 6800
+            },
+            {
+              "player": "Jack",
+              "score": 4400
+            }
+          ]
+        },
+        {
+          "category": "RHYME THIS!",
+          "value": 2000,
+          "clue": "Style of steak pounded & braised in tomatoes & onions",
+          "answer": "Swiss steak",
+          "isDailyDouble": false,
+          "orderNumber": 29,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Cindy",
+              "score": 15200
+            },
+            {
+              "player": "Bill",
+              "score": 6800
+            },
+            {
+              "player": "Jack",
+              "score": 4400
+            }
+          ]
+        },
+        {
+          "category": "YOU'RE CRAZY, ME DRIVING?",
+          "value": 2000,
+          "clue": "Can't we just get one of these?  In 2012 Nevada issued Google the first license for one",
+          "answer": "self-driving car",
+          "isDailyDouble": false,
+          "orderNumber": 30,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Cindy",
+              "score": 15200
+            },
+            {
+              "player": "Bill",
+              "score": 8800
+            },
+            {
+              "player": "Jack",
+              "score": 4400
+            }
+          ]
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "Cindy",
+          "score": 15200
+        },
+        {
+          "player": "Bill",
+          "score": 8800
+        },
+        {
+          "player": "Jack",
+          "score": 4400
+        }
+      ]
+    },
+    "finalJeopardy": {
+      "category": "THE CONTINENTS",
+      "clue": "It’s the continent that’s home to the most U.N. member countries, including a new one added in 2011",
+      "answer": "Africa",
+      "responses": [
+        {
+          "contestant": "Jack",
+          "response": "What is Africa?",
+          "isCorrect": true,
+          "isIncorrect": false,
+          "value": 4000,
+          "finalScore": 8400
+        },
+        {
+          "contestant": "Bill",
+          "response": "What is Europe?",
+          "isCorrect": false,
+          "isIncorrect": true,
+          "value": 8799,
+          "finalScore": 1
+        },
+        {
+          "contestant": "Cindy",
+          "response": "What is Europe?",
+          "isCorrect": false,
+          "isIncorrect": true,
+          "value": 2500,
+          "finalScore": 12700
+        }
+      ]
+    }
+  },
+  "finalScores": [
+    {
+      "player": "Cindy",
+      "score": "$12,700"
+    },
+    {
+      "player": "Bill",
+      "score": "$1"
+    },
+    {
+      "player": "Jack",
+      "score": "$8,400"
+    }
+  ],
+  "coryatScores": [
+    {
+      "player": "Cindy",
+      "score": 15200
+    },
+    {
+      "player": "Bill",
+      "score": 11800
+    },
+    {
+      "player": "Jack",
+      "score": 4400
+    }
+  ]
+}

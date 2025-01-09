@@ -1,0 +1,1682 @@
+{
+  "gameId": 4233,
+  "showNumber": "261",
+  "title": "Show #261 - Monday, September 9, 1985",
+  "date": "1985-09-09",
+  "comments": "First game of Season 2.\nFirst episode where set background changes from blue to red in Double Jeopardy!\nReturning champions were placed at the far right lectern.\nThe new \"buzz-in\" (after Alex finishes reading the clue) rule was introduced.",
+  "contestants": [
+    "Steve",
+    "Susan",
+    "Alan"
+  ],
+  "rounds": {
+    "jeopardy": {
+      "categories": [
+        "PRESIDENTIAL TRIVIA",
+        "DOGS IN LITERATURE",
+        "FOREIGN CUISINE",
+        "PROVERBS",
+        "CARTOONS",
+        "ALPHABETICALLY FIRST"
+      ],
+      "clues": [
+        {
+          "category": "PRESIDENTIAL TRIVIA",
+          "value": 100,
+          "clue": "At various times, he & all 5 of his brothers were nicknamed \"Ike\"",
+          "answer": "Dwight Eisenhower",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [
+            "Susan"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve",
+              "score": 0
+            },
+            {
+              "player": "Susan",
+              "score": 100
+            },
+            {
+              "player": "Alan",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "PRESIDENTIAL TRIVIA",
+          "value": 200,
+          "clue": "Springtime ritual started by Pres. Hayes on the White House lawn",
+          "answer": "the Easter Egg Roll",
+          "isDailyDouble": false,
+          "orderNumber": 2,
+          "correctContestants": [
+            "Susan"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve",
+              "score": 0
+            },
+            {
+              "player": "Susan",
+              "score": 300
+            },
+            {
+              "player": "Alan",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "PRESIDENTIAL TRIVIA",
+          "value": 300,
+          "clue": "For the presidential portraits, Gilbert Stuart stuffed his sunken cheeks with cotton",
+          "answer": "George Washington",
+          "isDailyDouble": false,
+          "orderNumber": 3,
+          "correctContestants": [
+            "Steve"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve",
+              "score": 300
+            },
+            {
+              "player": "Susan",
+              "score": 300
+            },
+            {
+              "player": "Alan",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "PRESIDENTIAL TRIVIA",
+          "value": 500,
+          "clue": "President who preferred Chopin's waltzes to this, his musical \"trademark\":",
+          "answer": "Harry S. Truman",
+          "isDailyDouble": true,
+          "orderNumber": 4,
+          "correctContestants": [
+            "Steve"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve",
+              "score": 800
+            },
+            {
+              "player": "Susan",
+              "score": 300
+            },
+            {
+              "player": "Alan",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "PRESIDENTIAL TRIVIA",
+          "value": 500,
+          "clue": "In 1908, 5 years before getting the job, he wrote a book titled \"The President of the United States\"",
+          "answer": "Woodrow Wilson",
+          "isDailyDouble": false,
+          "orderNumber": 5,
+          "correctContestants": [
+            "Steve"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve",
+              "score": 1300
+            },
+            {
+              "player": "Susan",
+              "score": 300
+            },
+            {
+              "player": "Alan",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "CARTOONS",
+          "value": 100,
+          "clue": "The appropriately named Pepe Le Pew is this animal",
+          "answer": "a skunk",
+          "isDailyDouble": false,
+          "orderNumber": 6,
+          "correctContestants": [
+            "Susan"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve",
+              "score": 1300
+            },
+            {
+              "player": "Susan",
+              "score": 400
+            },
+            {
+              "player": "Alan",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "FOREIGN CUISINE",
+          "value": 100,
+          "clue": "No matter how you slice it, it's \"brot\" in Germany",
+          "answer": "bread",
+          "isDailyDouble": false,
+          "orderNumber": 7,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Steve",
+            "Susan"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Steve",
+              "score": 1200
+            },
+            {
+              "player": "Susan",
+              "score": 300
+            },
+            {
+              "player": "Alan",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "FOREIGN CUISINE",
+          "value": 200,
+          "clue": "From the Latin meaning \"to serve\", it's the soup that starts an Italian meal",
+          "answer": "minestrone",
+          "isDailyDouble": false,
+          "orderNumber": 8,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Steve",
+              "score": 1200
+            },
+            {
+              "player": "Susan",
+              "score": 300
+            },
+            {
+              "player": "Alan",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "FOREIGN CUISINE",
+          "value": 300,
+          "clue": "Cookie from northern France made of sugar, egg white, & almonds, it got its name from Italian for macaroni",
+          "answer": "a macaroon",
+          "isDailyDouble": false,
+          "orderNumber": 9,
+          "correctContestants": [
+            "Alan"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve",
+              "score": 1200
+            },
+            {
+              "player": "Susan",
+              "score": 300
+            },
+            {
+              "player": "Alan",
+              "score": 300
+            }
+          ]
+        },
+        {
+          "category": "CARTOONS",
+          "value": 200,
+          "clue": "This super hero was originally called \"Super Mouse\"",
+          "answer": "Mighty Mouse",
+          "isDailyDouble": false,
+          "orderNumber": 10,
+          "correctContestants": [
+            "Steve"
+          ],
+          "incorrectContestants": [
+            "Susan"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve",
+              "score": 1400
+            },
+            {
+              "player": "Susan",
+              "score": 100
+            },
+            {
+              "player": "Alan",
+              "score": 300
+            }
+          ]
+        },
+        {
+          "category": "CARTOONS",
+          "value": 300,
+          "clue": "Name of George of the Jungle's pet ape",
+          "answer": "Ape",
+          "isDailyDouble": false,
+          "orderNumber": 11,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Steve",
+              "score": 1400
+            },
+            {
+              "player": "Susan",
+              "score": 100
+            },
+            {
+              "player": "Alan",
+              "score": 300
+            }
+          ]
+        },
+        {
+          "category": "CARTOONS",
+          "value": 400,
+          "clue": "Though he never married, Paramount's Popeye had this many \"nephews\" who all looked just like him",
+          "answer": "4",
+          "isDailyDouble": false,
+          "orderNumber": 12,
+          "correctContestants": [
+            "Steve"
+          ],
+          "incorrectContestants": [
+            "Alan"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve",
+              "score": 1800
+            },
+            {
+              "player": "Susan",
+              "score": 100
+            },
+            {
+              "player": "Alan",
+              "score": -100
+            }
+          ]
+        },
+        {
+          "category": "CARTOONS",
+          "value": 500,
+          "clue": "Helen Kane sued Max Fleischer, claiming this character's name & voice were copied from her",
+          "answer": "Betty Boop",
+          "isDailyDouble": false,
+          "orderNumber": 13,
+          "correctContestants": [
+            "Susan"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve",
+              "score": 1800
+            },
+            {
+              "player": "Susan",
+              "score": 600
+            },
+            {
+              "player": "Alan",
+              "score": -100
+            }
+          ]
+        },
+        {
+          "category": "FOREIGN CUISINE",
+          "value": 400,
+          "clue": "The distinctive starchy ingredient in Chinese dishes with \"mein\" in the name",
+          "answer": "noodles",
+          "isDailyDouble": false,
+          "orderNumber": 14,
+          "correctContestants": [
+            "Alan"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve",
+              "score": 1800
+            },
+            {
+              "player": "Susan",
+              "score": 600
+            },
+            {
+              "player": "Alan",
+              "score": 300
+            }
+          ]
+        },
+        {
+          "category": "DOGS IN LITERATURE",
+          "value": 100,
+          "clue": "Sherlock Holmes novel about a devilish dog",
+          "answer": "The Hound of the Baskervilles",
+          "isDailyDouble": false,
+          "orderNumber": 15,
+          "correctContestants": [
+            "Steve"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve",
+              "score": 1900
+            },
+            {
+              "player": "Susan",
+              "score": 600
+            },
+            {
+              "player": "Alan",
+              "score": 300
+            }
+          ]
+        },
+        {
+          "category": "DOGS IN LITERATURE",
+          "value": 200,
+          "clue": "He knocked over the screen concealing the Wizard of Oz",
+          "answer": "Toto",
+          "isDailyDouble": false,
+          "orderNumber": 16,
+          "correctContestants": [
+            "Susan"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve",
+              "score": 1900
+            },
+            {
+              "player": "Susan",
+              "score": 800
+            },
+            {
+              "player": "Alan",
+              "score": 300
+            }
+          ]
+        },
+        {
+          "category": "FOREIGN CUISINE",
+          "value": 500,
+          "clue": "Tropical fruit called \"the fruit of India\", it's the main ingredient in a popular chutney",
+          "answer": "mango",
+          "isDailyDouble": false,
+          "orderNumber": 17,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Steve",
+              "score": 1900
+            },
+            {
+              "player": "Susan",
+              "score": 800
+            },
+            {
+              "player": "Alan",
+              "score": 300
+            }
+          ]
+        },
+        {
+          "category": "ALPHABETICALLY FIRST",
+          "value": 500,
+          "clue": "Alphabetically the 1st signer of the Declaration of Independence, he's also 1st alphabetically of presidents",
+          "answer": "John Adams",
+          "isDailyDouble": false,
+          "orderNumber": 18,
+          "correctContestants": [
+            "Alan"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve",
+              "score": 1900
+            },
+            {
+              "player": "Susan",
+              "score": 800
+            },
+            {
+              "player": "Alan",
+              "score": 800
+            }
+          ]
+        },
+        {
+          "category": "ALPHABETICALLY FIRST",
+          "value": 100,
+          "clue": "Alphabetically 1st of the days of the week, it's usually last of the work week",
+          "answer": "Friday",
+          "isDailyDouble": false,
+          "orderNumber": 19,
+          "correctContestants": [
+            "Alan"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve",
+              "score": 1900
+            },
+            {
+              "player": "Susan",
+              "score": 800
+            },
+            {
+              "player": "Alan",
+              "score": 900
+            }
+          ]
+        },
+        {
+          "category": "DOGS IN LITERATURE",
+          "value": 300,
+          "clue": "In this book, Nick Charles' Asta is a schnauzer, but in films was played by a wire-haired terrier",
+          "answer": "The Thin Man",
+          "isDailyDouble": false,
+          "orderNumber": 20,
+          "correctContestants": [
+            "Alan"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve",
+              "score": 1900
+            },
+            {
+              "player": "Susan",
+              "score": 800
+            },
+            {
+              "player": "Alan",
+              "score": 1200
+            }
+          ]
+        },
+        {
+          "category": "DOGS IN LITERATURE",
+          "value": 400,
+          "clue": "Garryowen is the \"bloody mangy mongrel\" in the \"Cylops\" episode of this James Joyce novel",
+          "answer": "Ulysses",
+          "isDailyDouble": false,
+          "orderNumber": 21,
+          "correctContestants": [
+            "Susan"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve",
+              "score": 1900
+            },
+            {
+              "player": "Susan",
+              "score": 1200
+            },
+            {
+              "player": "Alan",
+              "score": 1200
+            }
+          ]
+        },
+        {
+          "category": "ALPHABETICALLY FIRST",
+          "value": 400,
+          "clue": "Alphabetically 1st of the planets, it can be seen without a telescope",
+          "answer": "Earth",
+          "isDailyDouble": false,
+          "orderNumber": 22,
+          "correctContestants": [
+            "Alan"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve",
+              "score": 1900
+            },
+            {
+              "player": "Susan",
+              "score": 1200
+            },
+            {
+              "player": "Alan",
+              "score": 1600
+            }
+          ]
+        },
+        {
+          "category": "PROVERBS",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve",
+              "score": 1900
+            },
+            {
+              "player": "Susan",
+              "score": 1200
+            },
+            {
+              "player": "Alan",
+              "score": 1600
+            }
+          ]
+        },
+        {
+          "category": "PROVERBS",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve",
+              "score": 1900
+            },
+            {
+              "player": "Susan",
+              "score": 1200
+            },
+            {
+              "player": "Alan",
+              "score": 1600
+            }
+          ]
+        },
+        {
+          "category": "ALPHABETICALLY FIRST",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve",
+              "score": 1900
+            },
+            {
+              "player": "Susan",
+              "score": 1200
+            },
+            {
+              "player": "Alan",
+              "score": 1600
+            }
+          ]
+        },
+        {
+          "category": "PROVERBS",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve",
+              "score": 1900
+            },
+            {
+              "player": "Susan",
+              "score": 1200
+            },
+            {
+              "player": "Alan",
+              "score": 1600
+            }
+          ]
+        },
+        {
+          "category": "ALPHABETICALLY FIRST",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve",
+              "score": 1900
+            },
+            {
+              "player": "Susan",
+              "score": 1200
+            },
+            {
+              "player": "Alan",
+              "score": 1600
+            }
+          ]
+        },
+        {
+          "category": "PROVERBS",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve",
+              "score": 1900
+            },
+            {
+              "player": "Susan",
+              "score": 1200
+            },
+            {
+              "player": "Alan",
+              "score": 1600
+            }
+          ]
+        },
+        {
+          "category": "DOGS IN LITERATURE",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve",
+              "score": 1900
+            },
+            {
+              "player": "Susan",
+              "score": 1200
+            },
+            {
+              "player": "Alan",
+              "score": 1600
+            }
+          ]
+        },
+        {
+          "category": "PROVERBS",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve",
+              "score": 1900
+            },
+            {
+              "player": "Susan",
+              "score": 1200
+            },
+            {
+              "player": "Alan",
+              "score": 1600
+            }
+          ]
+        }
+      ],
+      "firstBreakScores": [
+        {
+          "player": "Steve",
+          "score": 1200
+        },
+        {
+          "player": "Susan",
+          "score": 300
+        },
+        {
+          "player": "Alan",
+          "score": 0
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "Steve",
+          "score": 1900
+        },
+        {
+          "player": "Susan",
+          "score": 1200
+        },
+        {
+          "player": "Alan",
+          "score": 1600
+        }
+      ]
+    },
+    "doubleJeopardy": {
+      "categories": [
+        "FASHION DESIGNERS",
+        "THE RENAISSANCE",
+        "4-LETTER WORDS",
+        "LAW",
+        "NEW ENGLAND",
+        "GHOSTS"
+      ],
+      "clues": [
+        {
+          "category": "NEW ENGLAND",
+          "value": 600,
+          "clue": "The first & last of 6 New England-born presidents both had this first name",
+          "answer": "John",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve",
+              "score": 1900
+            },
+            {
+              "player": "Susan",
+              "score": 1800
+            },
+            {
+              "player": "Alan",
+              "score": 1600
+            }
+          ]
+        },
+        {
+          "category": "NEW ENGLAND",
+          "value": 800,
+          "clue": "In '64, it became the 1st in the nation to have a state lottery",
+          "answer": "New Hampshire",
+          "isDailyDouble": false,
+          "orderNumber": 2,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Steve",
+              "score": 1900
+            },
+            {
+              "player": "Susan",
+              "score": 1000
+            },
+            {
+              "player": "Alan",
+              "score": 1600
+            }
+          ]
+        },
+        {
+          "category": "NEW ENGLAND",
+          "value": 1000,
+          "clue": "Sikorsky built 1st one-rotor helicopter in this state which still makes most helicopters",
+          "answer": "Connecticut",
+          "isDailyDouble": false,
+          "orderNumber": 3,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve",
+              "score": 900
+            },
+            {
+              "player": "Susan",
+              "score": 2000
+            },
+            {
+              "player": "Alan",
+              "score": 1600
+            }
+          ]
+        },
+        {
+          "category": "NEW ENGLAND",
+          "value": 400,
+          "clue": "Shortest state motto, \"Hope!\", appropriately belongs to this New England state",
+          "answer": "Rhode Island",
+          "isDailyDouble": false,
+          "orderNumber": 4,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve",
+              "score": 900
+            },
+            {
+              "player": "Susan",
+              "score": 2400
+            },
+            {
+              "player": "Alan",
+              "score": 1600
+            }
+          ]
+        },
+        {
+          "category": "NEW ENGLAND",
+          "value": 200,
+          "clue": "This New England state is about the same size as the other 5 combined",
+          "answer": "Maine",
+          "isDailyDouble": false,
+          "orderNumber": 5,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve",
+              "score": 900
+            },
+            {
+              "player": "Susan",
+              "score": 2600
+            },
+            {
+              "player": "Alan",
+              "score": 1600
+            }
+          ]
+        },
+        {
+          "category": "LAW",
+          "value": 600,
+          "clue": "Court session when a prisoner hears charges against him & enters plea",
+          "answer": "an arraignment",
+          "isDailyDouble": false,
+          "orderNumber": 6,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve",
+              "score": 900
+            },
+            {
+              "player": "Susan",
+              "score": 3200
+            },
+            {
+              "player": "Alan",
+              "score": 1600
+            }
+          ]
+        },
+        {
+          "category": "LAW",
+          "value": 1200,
+          "clue": "The Supreme Court said electrocuting someone again after the chair failed once wasn't this",
+          "answer": "cruel & unusual punishment",
+          "isDailyDouble": true,
+          "orderNumber": 7,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve",
+              "score": 900
+            },
+            {
+              "player": "Susan",
+              "score": 4400
+            },
+            {
+              "player": "Alan",
+              "score": 1600
+            }
+          ]
+        },
+        {
+          "category": "LAW",
+          "value": 1000,
+          "clue": "Specific purpose stated in 2nd Amendment for right to bear arms",
+          "answer": "for the furnishment of the militia (or maintaining a militia)",
+          "isDailyDouble": false,
+          "orderNumber": 8,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve",
+              "score": 1900
+            },
+            {
+              "player": "Susan",
+              "score": 4400
+            },
+            {
+              "player": "Alan",
+              "score": 1600
+            }
+          ]
+        },
+        {
+          "category": "GHOSTS",
+          "value": 200,
+          "clue": "In the U.S., it's traditionally the best night of the year to see ghosts",
+          "answer": "Halloween",
+          "isDailyDouble": false,
+          "orderNumber": 9,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve",
+              "score": 1900
+            },
+            {
+              "player": "Susan",
+              "score": 4600
+            },
+            {
+              "player": "Alan",
+              "score": 1600
+            }
+          ]
+        },
+        {
+          "category": "LAW",
+          "value": 400,
+          "clue": "For only time in U.S. history, he had Congress suspend habeas corpus during the Civil War",
+          "answer": "Lincoln",
+          "isDailyDouble": false,
+          "orderNumber": 10,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve",
+              "score": 1900
+            },
+            {
+              "player": "Susan",
+              "score": 4600
+            },
+            {
+              "player": "Alan",
+              "score": 2000
+            }
+          ]
+        },
+        {
+          "category": "GHOSTS",
+          "value": 400,
+          "clue": "He, not the president, is said to haunt Ford's Theater in Washington, D.C.",
+          "answer": "John Wilkes Booth",
+          "isDailyDouble": false,
+          "orderNumber": 11,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve",
+              "score": 1900
+            },
+            {
+              "player": "Susan",
+              "score": 4600
+            },
+            {
+              "player": "Alan",
+              "score": 2400
+            }
+          ]
+        },
+        {
+          "category": "GHOSTS",
+          "value": 600,
+          "clue": "At Windsor Castle, this Tudor queen supposedly haunts the Queen's library",
+          "answer": "Elizabeth I",
+          "isDailyDouble": false,
+          "orderNumber": 12,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve",
+              "score": 1900
+            },
+            {
+              "player": "Susan",
+              "score": 5200
+            },
+            {
+              "player": "Alan",
+              "score": 2400
+            }
+          ]
+        },
+        {
+          "category": "LAW",
+          "value": 200,
+          "clue": "Use of reasonable force to protect oneself is called this",
+          "answer": "self-defense",
+          "isDailyDouble": false,
+          "orderNumber": 13,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve",
+              "score": 1900
+            },
+            {
+              "player": "Susan",
+              "score": 5400
+            },
+            {
+              "player": "Alan",
+              "score": 2400
+            }
+          ]
+        },
+        {
+          "category": "4-LETTER WORDS",
+          "value": 1600,
+          "clue": "1st four-letter word in the Lord's Prayer",
+          "answer": "name",
+          "isDailyDouble": true,
+          "orderNumber": 14,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve",
+              "score": 1900
+            },
+            {
+              "player": "Susan",
+              "score": 7000
+            },
+            {
+              "player": "Alan",
+              "score": 2400
+            }
+          ]
+        },
+        {
+          "category": "FASHION DESIGNERS",
+          "value": 600,
+          "clue": "Austrian princess who created the look of the simple wrap jersey dress of the '70s",
+          "answer": "Diane von Furstenburg",
+          "isDailyDouble": false,
+          "orderNumber": 15,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve",
+              "score": 1900
+            },
+            {
+              "player": "Susan",
+              "score": 7600
+            },
+            {
+              "player": "Alan",
+              "score": 1800
+            }
+          ]
+        },
+        {
+          "category": "FASHION DESIGNERS",
+          "value": 800,
+          "clue": "American designer Willi Smith's ready-to-wear label",
+          "answer": "Williwear",
+          "isDailyDouble": false,
+          "orderNumber": 16,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve",
+              "score": 1900
+            },
+            {
+              "player": "Susan",
+              "score": 8400
+            },
+            {
+              "player": "Alan",
+              "score": 1800
+            }
+          ]
+        },
+        {
+          "category": "FASHION DESIGNERS",
+          "value": 1000,
+          "clue": "Although over 80, she's still consulting editor of Vogue magazine",
+          "answer": "Diana Vreeland",
+          "isDailyDouble": false,
+          "orderNumber": 17,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve",
+              "score": 1900
+            },
+            {
+              "player": "Susan",
+              "score": 9400
+            },
+            {
+              "player": "Alan",
+              "score": 1800
+            }
+          ]
+        },
+        {
+          "category": "FASHION DESIGNERS",
+          "value": 400,
+          "clue": "This American costumer revealed the mysteries of Cher's navel wkly. on \"The Sonny & Cher Show\"",
+          "answer": "Bob Mackie",
+          "isDailyDouble": false,
+          "orderNumber": 18,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve",
+              "score": 1900
+            },
+            {
+              "player": "Susan",
+              "score": 9800
+            },
+            {
+              "player": "Alan",
+              "score": 1800
+            }
+          ]
+        },
+        {
+          "category": "FASHION DESIGNERS",
+          "value": 200,
+          "clue": "His \"signature\" is an elegantly scripted YSL",
+          "answer": "Yves Saint Laurent",
+          "isDailyDouble": false,
+          "orderNumber": 19,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve",
+              "score": 1900
+            },
+            {
+              "player": "Susan",
+              "score": 10000
+            },
+            {
+              "player": "Alan",
+              "score": 1800
+            }
+          ]
+        },
+        {
+          "category": "4-LETTER WORDS",
+          "value": 800,
+          "clue": "The 9th letter in the Greek alphabet, it's come to mean \"a small amount\"",
+          "answer": "iota",
+          "isDailyDouble": false,
+          "orderNumber": 20,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve",
+              "score": 1900
+            },
+            {
+              "player": "Susan",
+              "score": 10800
+            },
+            {
+              "player": "Alan",
+              "score": 1800
+            }
+          ]
+        },
+        {
+          "category": "4-LETTER WORDS",
+          "value": 1000,
+          "clue": "Spelled forward it's how you feel, backwards it spells disaster",
+          "answer": "mood",
+          "isDailyDouble": false,
+          "orderNumber": 21,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve",
+              "score": 1900
+            },
+            {
+              "player": "Susan",
+              "score": 11800
+            },
+            {
+              "player": "Alan",
+              "score": 1800
+            }
+          ]
+        },
+        {
+          "category": "4-LETTER WORDS",
+          "value": 400,
+          "clue": "You try to do it to a putt or an enemy boat",
+          "answer": "sink",
+          "isDailyDouble": false,
+          "orderNumber": 22,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve",
+              "score": 1900
+            },
+            {
+              "player": "Susan",
+              "score": 12200
+            },
+            {
+              "player": "Alan",
+              "score": 1800
+            }
+          ]
+        },
+        {
+          "category": "4-LETTER WORDS",
+          "value": 200,
+          "clue": "A Marine Corps camp, or appropriate footwear for one",
+          "answer": "boot",
+          "isDailyDouble": false,
+          "orderNumber": 23,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve",
+              "score": 1900
+            },
+            {
+              "player": "Susan",
+              "score": 12400
+            },
+            {
+              "player": "Alan",
+              "score": 1800
+            }
+          ]
+        },
+        {
+          "category": "GHOSTS",
+          "value": 800,
+          "clue": "Shakespearean monarch visited by 11 ghosts of his victims before the Battle of Bosworth Field",
+          "answer": "Richard III",
+          "isDailyDouble": false,
+          "orderNumber": 24,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve",
+              "score": 1900
+            },
+            {
+              "player": "Susan",
+              "score": 12400
+            },
+            {
+              "player": "Alan",
+              "score": 2600
+            }
+          ]
+        },
+        {
+          "category": "GHOSTS",
+          "value": 1000,
+          "clue": "A hideous Arabian ghost who steals corpses, it's come to mean any grave robber",
+          "answer": "a ghoul",
+          "isDailyDouble": false,
+          "orderNumber": 25,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve",
+              "score": 2900
+            },
+            {
+              "player": "Susan",
+              "score": 12400
+            },
+            {
+              "player": "Alan",
+              "score": 2600
+            }
+          ]
+        },
+        {
+          "category": "THE RENAISSANCE",
+          "value": 200,
+          "clue": "The term \"renaissance\" is from a French word meaning this",
+          "answer": "rebirth",
+          "isDailyDouble": false,
+          "orderNumber": 26,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve",
+              "score": 3100
+            },
+            {
+              "player": "Susan",
+              "score": 12400
+            },
+            {
+              "player": "Alan",
+              "score": 2600
+            }
+          ]
+        },
+        {
+          "category": "THE RENAISSANCE",
+          "value": 400,
+          "clue": "A 1490 census of Rome showed 15% of the female population registered in this \"profession\"",
+          "answer": "prostitutes",
+          "isDailyDouble": false,
+          "orderNumber": 27,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve",
+              "score": 3100
+            },
+            {
+              "player": "Susan",
+              "score": 12800
+            },
+            {
+              "player": "Alan",
+              "score": 2600
+            }
+          ]
+        },
+        {
+          "category": "THE RENAISSANCE",
+          "value": 600,
+          "clue": "Some say he based the ruthless ruler in \"The Prince\" on Cesare Borgia",
+          "answer": "Machiavelli",
+          "isDailyDouble": false,
+          "orderNumber": 28,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve",
+              "score": 3100
+            },
+            {
+              "player": "Susan",
+              "score": 12800
+            },
+            {
+              "player": "Alan",
+              "score": 3200
+            }
+          ]
+        },
+        {
+          "category": "THE RENAISSANCE",
+          "value": 1000,
+          "clue": "His brilliant 16th century translation of the Bible into German became the basis for modern German",
+          "answer": "Martin Luther",
+          "isDailyDouble": false,
+          "orderNumber": 29,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Steve",
+              "score": 3100
+            },
+            {
+              "player": "Susan",
+              "score": 12800
+            },
+            {
+              "player": "Alan",
+              "score": 2200
+            }
+          ]
+        },
+        {
+          "category": "THE RENAISSANCE",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Steve",
+              "score": 3100
+            },
+            {
+              "player": "Susan",
+              "score": 12800
+            },
+            {
+              "player": "Alan",
+              "score": 2200
+            }
+          ]
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "Steve",
+          "score": 3100
+        },
+        {
+          "player": "Susan",
+          "score": 12800
+        },
+        {
+          "player": "Alan",
+          "score": 2200
+        }
+      ]
+    },
+    "finalJeopardy": {
+      "category": "WOMEN IN SPORTS",
+      "clue": "Among the women prominent in this sport are Rachel McLish, Lori Bowen, & Cory Everson",
+      "answer": "bodybuilding",
+      "responses": [
+        {
+          "contestant": "Alan",
+          "response": "What is Skiing",
+          "isCorrect": false,
+          "isIncorrect": true,
+          "value": 2199,
+          "finalScore": 1
+        },
+        {
+          "contestant": "Steve",
+          "response": "What is Bowling?",
+          "isCorrect": false,
+          "isIncorrect": true,
+          "value": 2200,
+          "finalScore": 900
+        },
+        {
+          "contestant": "Susan",
+          "response": "What is Bodybuilding?",
+          "isCorrect": true,
+          "isIncorrect": false,
+          "value": 5200,
+          "finalScore": 18000
+        }
+      ]
+    }
+  },
+  "finalScores": [
+    {
+      "player": "Steve",
+      "score": "$900"
+    },
+    {
+      "player": "Susan",
+      "score": "$18,000"
+    },
+    {
+      "player": "Alan",
+      "score": "$1"
+    }
+  ],
+  "coryatScores": [
+    {
+      "player": "Steve",
+      "score": 3000
+    },
+    {
+      "player": "Susan",
+      "score": 11400
+    },
+    {
+      "player": "Alan",
+      "score": 2200
+    }
+  ]
+}

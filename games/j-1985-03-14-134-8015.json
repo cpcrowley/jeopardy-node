@@ -1,0 +1,1692 @@
+{
+  "gameId": 8015,
+  "showNumber": "134",
+  "title": "Show #134 - Thursday, March 14, 1985",
+  "date": "1985-03-14",
+  "comments": "Paula Tupper game 3.",
+  "contestants": [
+    "Paula",
+    "Marty",
+    "Linden"
+  ],
+  "rounds": {
+    "jeopardy": {
+      "categories": [
+        "\"STARTS\"",
+        "ANIMALS",
+        "GOLDEN OLDIES",
+        "GEOGRAPHY",
+        "MOVIE TRIVIA",
+        "\"STOPS\""
+      ],
+      "clues": [
+        {
+          "category": "MOVIE TRIVIA",
+          "value": 100,
+          "clue": "Level of sport played by the Bad News Bears in films",
+          "answer": "Little League (baseball)",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [
+            "Paula"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Paula",
+              "score": 100
+            },
+            {
+              "player": "Marty",
+              "score": 0
+            },
+            {
+              "player": "Linden",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "MOVIE TRIVIA",
+          "value": 200,
+          "clue": "French actress who played Lili, Fanny & Gigi",
+          "answer": "Leslie Caron",
+          "isDailyDouble": false,
+          "orderNumber": 2,
+          "correctContestants": [
+            "Marty"
+          ],
+          "incorrectContestants": [
+            "Linden"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Paula",
+              "score": 100
+            },
+            {
+              "player": "Marty",
+              "score": 200
+            },
+            {
+              "player": "Linden",
+              "score": -200
+            }
+          ]
+        },
+        {
+          "category": "MOVIE TRIVIA",
+          "value": 300,
+          "clue": "He's famous for singing \"Hello, Dolly!\" in \"Hello, Dolly!\"",
+          "answer": "Louis Armstrong",
+          "isDailyDouble": false,
+          "orderNumber": 3,
+          "correctContestants": [
+            "Marty"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Paula",
+              "score": 100
+            },
+            {
+              "player": "Marty",
+              "score": 500
+            },
+            {
+              "player": "Linden",
+              "score": -200
+            }
+          ]
+        },
+        {
+          "category": "MOVIE TRIVIA",
+          "value": 400,
+          "clue": "She starred in \"Comes a Horseman\" & \"The Electric Horseman\"",
+          "answer": "Jane Fonda",
+          "isDailyDouble": false,
+          "orderNumber": 4,
+          "correctContestants": [
+            "Paula"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Paula",
+              "score": 500
+            },
+            {
+              "player": "Marty",
+              "score": 500
+            },
+            {
+              "player": "Linden",
+              "score": -200
+            }
+          ]
+        },
+        {
+          "category": "MOVIE TRIVIA",
+          "value": 500,
+          "clue": "'43 film where Bogart met Bacall",
+          "answer": "To Have and Have Not",
+          "isDailyDouble": false,
+          "orderNumber": 5,
+          "correctContestants": [
+            "Marty"
+          ],
+          "incorrectContestants": [
+            "Paula"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Paula",
+              "score": 0
+            },
+            {
+              "player": "Marty",
+              "score": 1000
+            },
+            {
+              "player": "Linden",
+              "score": -200
+            }
+          ]
+        },
+        {
+          "category": "GEOGRAPHY",
+          "value": 100,
+          "clue": "Asian country with Seoul",
+          "answer": "Korea",
+          "isDailyDouble": false,
+          "orderNumber": 6,
+          "correctContestants": [
+            "Linden"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Paula",
+              "score": 0
+            },
+            {
+              "player": "Marty",
+              "score": 1000
+            },
+            {
+              "player": "Linden",
+              "score": -100
+            }
+          ]
+        },
+        {
+          "category": "GOLDEN OLDIES",
+          "value": 100,
+          "clue": "It's how Brian Hyland sealed his letter in '62",
+          "answer": "\"Sealed With A Kiss\"",
+          "isDailyDouble": false,
+          "orderNumber": 7,
+          "correctContestants": [
+            "Paula"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Paula",
+              "score": 100
+            },
+            {
+              "player": "Marty",
+              "score": 1000
+            },
+            {
+              "player": "Linden",
+              "score": -100
+            }
+          ]
+        },
+        {
+          "category": "GOLDEN OLDIES",
+          "value": 200,
+          "clue": "Song that starts \"Get down to that kitchen & rattle those pots & pans\"",
+          "answer": "\"Shake, Rattle & Roll\"",
+          "isDailyDouble": false,
+          "orderNumber": 8,
+          "correctContestants": [
+            "Linden"
+          ],
+          "incorrectContestants": [
+            "Marty"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Paula",
+              "score": 100
+            },
+            {
+              "player": "Marty",
+              "score": 800
+            },
+            {
+              "player": "Linden",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "category": "GOLDEN OLDIES",
+          "value": 300,
+          "clue": "According to Everly Bros., \"When I want you in the night...all I have to do\" is this",
+          "answer": "dream",
+          "isDailyDouble": false,
+          "orderNumber": 9,
+          "correctContestants": [
+            "Paula"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Paula",
+              "score": 400
+            },
+            {
+              "player": "Marty",
+              "score": 800
+            },
+            {
+              "player": "Linden",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "category": "GOLDEN OLDIES",
+          "value": 400,
+          "clue": "It's why Danny & the Juniors \"don't care what people say\"",
+          "answer": "\"Rock And Roll Is Here To Stay\"",
+          "isDailyDouble": false,
+          "orderNumber": 10,
+          "correctContestants": [
+            "Linden"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Paula",
+              "score": 400
+            },
+            {
+              "player": "Marty",
+              "score": 800
+            },
+            {
+              "player": "Linden",
+              "score": 500
+            }
+          ]
+        },
+        {
+          "category": "GOLDEN OLDIES",
+          "value": 500,
+          "clue": "'59 Fleetwoods hit that begins \"dahm dahm da-ahm doo dahm oo-doo-be-doo\"",
+          "answer": "\"Come Softly To Me\"",
+          "isDailyDouble": false,
+          "orderNumber": 11,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Marty"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Paula",
+              "score": 400
+            },
+            {
+              "player": "Marty",
+              "score": 300
+            },
+            {
+              "player": "Linden",
+              "score": 500
+            }
+          ]
+        },
+        {
+          "category": "ANIMALS",
+          "value": 100,
+          "clue": "Tallyho, it's \"Vulpes fulva\" or Fred Sanford",
+          "answer": "a red fox",
+          "isDailyDouble": false,
+          "orderNumber": 12,
+          "correctContestants": [
+            "Paula"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Paula",
+              "score": 500
+            },
+            {
+              "player": "Marty",
+              "score": 300
+            },
+            {
+              "player": "Linden",
+              "score": 500
+            }
+          ]
+        },
+        {
+          "category": "\"STARTS\"",
+          "value": 100,
+          "clue": "Indy cars & track stars all begin here",
+          "answer": "start(ing) line",
+          "isDailyDouble": false,
+          "orderNumber": 13,
+          "correctContestants": [
+            "Marty"
+          ],
+          "incorrectContestants": [
+            "Linden"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Paula",
+              "score": 500
+            },
+            {
+              "player": "Marty",
+              "score": 400
+            },
+            {
+              "player": "Linden",
+              "score": 400
+            }
+          ]
+        },
+        {
+          "category": "GEOGRAPHY",
+          "value": 200,
+          "clue": "Country with the most land within the Arctic circle",
+          "answer": "Russia",
+          "isDailyDouble": false,
+          "orderNumber": 14,
+          "correctContestants": [
+            "Marty"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Paula",
+              "score": 500
+            },
+            {
+              "player": "Marty",
+              "score": 600
+            },
+            {
+              "player": "Linden",
+              "score": 400
+            }
+          ]
+        },
+        {
+          "category": "GEOGRAPHY",
+          "value": 300,
+          "clue": "Some of the seas that surround this area are the Wendell, Ross, Amundsen & Davis",
+          "answer": "Antarctica",
+          "isDailyDouble": false,
+          "orderNumber": 15,
+          "correctContestants": [
+            "Paula"
+          ],
+          "incorrectContestants": [
+            "Linden"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Paula",
+              "score": 800
+            },
+            {
+              "player": "Marty",
+              "score": 600
+            },
+            {
+              "player": "Linden",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "category": "ANIMALS",
+          "value": 200,
+          "clue": "The sloth bear is also known by this sticky name of his favorite food",
+          "answer": "a honey bear",
+          "isDailyDouble": false,
+          "orderNumber": 16,
+          "correctContestants": [
+            "Marty"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Paula",
+              "score": 800
+            },
+            {
+              "player": "Marty",
+              "score": 800
+            },
+            {
+              "player": "Linden",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "category": "GEOGRAPHY",
+          "value": 400,
+          "clue": "Smallest of the central American countries, it's the only one without a Caribbean coastline",
+          "answer": "El Salvador",
+          "isDailyDouble": false,
+          "orderNumber": 17,
+          "correctContestants": [
+            "Marty"
+          ],
+          "incorrectContestants": [
+            "Paula"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Paula",
+              "score": 400
+            },
+            {
+              "player": "Marty",
+              "score": 1200
+            },
+            {
+              "player": "Linden",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "category": "GEOGRAPHY",
+          "value": 500,
+          "clue": "Cape Horn, southernmost part of South America, lies at tip of Horn Island in this country",
+          "answer": "Chile",
+          "isDailyDouble": false,
+          "orderNumber": 18,
+          "correctContestants": [
+            "Marty"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Paula",
+              "score": 400
+            },
+            {
+              "player": "Marty",
+              "score": 1700
+            },
+            {
+              "player": "Linden",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "category": "\"STOPS\"",
+          "value": 100,
+          "clue": "Marilyn Monroe movie which sounds like a public transportation sign",
+          "answer": "Bus Stop",
+          "isDailyDouble": false,
+          "orderNumber": 19,
+          "correctContestants": [
+            "Paula"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Paula",
+              "score": 500
+            },
+            {
+              "player": "Marty",
+              "score": 1700
+            },
+            {
+              "player": "Linden",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "category": "\"STOPS\"",
+          "value": 200,
+          "clue": "Bumper to bumper traffic movement",
+          "answer": "stop-and-go",
+          "isDailyDouble": false,
+          "orderNumber": 20,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Paula",
+            "Linden"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Paula",
+              "score": 300
+            },
+            {
+              "player": "Marty",
+              "score": 1700
+            },
+            {
+              "player": "Linden",
+              "score": -100
+            }
+          ]
+        },
+        {
+          "category": "\"STOPS\"",
+          "value": 300,
+          "clue": "Jimmy Durante uttered it to halt the show",
+          "answer": "\"Stop the music!\"",
+          "isDailyDouble": false,
+          "orderNumber": 21,
+          "correctContestants": [
+            "Paula"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Paula",
+              "score": 600
+            },
+            {
+              "player": "Marty",
+              "score": 1700
+            },
+            {
+              "player": "Linden",
+              "score": -100
+            }
+          ]
+        },
+        {
+          "category": "\"STOPS\"",
+          "value": 400,
+          "clue": "Position Billy Barty frequently plays on celebrity baseball teams",
+          "answer": "shortstop",
+          "isDailyDouble": false,
+          "orderNumber": 22,
+          "correctContestants": [
+            "Paula"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Paula",
+              "score": 1000
+            },
+            {
+              "player": "Marty",
+              "score": 1700
+            },
+            {
+              "player": "Linden",
+              "score": -100
+            }
+          ]
+        },
+        {
+          "category": "\"STOPS\"",
+          "value": 500,
+          "clue": "A \"Supreme\" effort in 1965:\"Baby baby, I'm aware of where you go / Each time you leave my door\"",
+          "answer": "\"Stop! In The Name Of Love\"",
+          "isDailyDouble": true,
+          "orderNumber": 23,
+          "correctContestants": [
+            "Paula"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Paula",
+              "score": 1500
+            },
+            {
+              "player": "Marty",
+              "score": 1700
+            },
+            {
+              "player": "Linden",
+              "score": -100
+            }
+          ]
+        },
+        {
+          "category": "\"STARTS\"",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Paula",
+              "score": 1500
+            },
+            {
+              "player": "Marty",
+              "score": 1700
+            },
+            {
+              "player": "Linden",
+              "score": -100
+            }
+          ]
+        },
+        {
+          "category": "\"STARTS\"",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Paula",
+              "score": 1500
+            },
+            {
+              "player": "Marty",
+              "score": 1700
+            },
+            {
+              "player": "Linden",
+              "score": -100
+            }
+          ]
+        },
+        {
+          "category": "ANIMALS",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Paula",
+              "score": 1500
+            },
+            {
+              "player": "Marty",
+              "score": 1700
+            },
+            {
+              "player": "Linden",
+              "score": -100
+            }
+          ]
+        },
+        {
+          "category": "\"STARTS\"",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Paula",
+              "score": 1500
+            },
+            {
+              "player": "Marty",
+              "score": 1700
+            },
+            {
+              "player": "Linden",
+              "score": -100
+            }
+          ]
+        },
+        {
+          "category": "ANIMALS",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Paula",
+              "score": 1500
+            },
+            {
+              "player": "Marty",
+              "score": 1700
+            },
+            {
+              "player": "Linden",
+              "score": -100
+            }
+          ]
+        },
+        {
+          "category": "\"STARTS\"",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Paula",
+              "score": 1500
+            },
+            {
+              "player": "Marty",
+              "score": 1700
+            },
+            {
+              "player": "Linden",
+              "score": -100
+            }
+          ]
+        },
+        {
+          "category": "ANIMALS",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Paula",
+              "score": 1500
+            },
+            {
+              "player": "Marty",
+              "score": 1700
+            },
+            {
+              "player": "Linden",
+              "score": -100
+            }
+          ]
+        }
+      ],
+      "firstBreakScores": [
+        {
+          "player": "Paula",
+          "score": 500
+        },
+        {
+          "player": "Marty",
+          "score": 300
+        },
+        {
+          "player": "Linden",
+          "score": 500
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "Paula",
+          "score": 1500
+        },
+        {
+          "player": "Marty",
+          "score": 1700
+        },
+        {
+          "player": "Linden",
+          "score": -100
+        }
+      ]
+    },
+    "doubleJeopardy": {
+      "categories": [
+        "WORLD WAR II",
+        "WORD ORIGINS",
+        "THE BRAIN",
+        "AUTOMOBILES",
+        "AUTHORS",
+        "MYTHOLOGY"
+      ],
+      "clues": [
+        {
+          "category": "MYTHOLOGY",
+          "value": 200,
+          "clue": "King of Thebes who unwittingly killed his father and married his mother",
+          "answer": "Oedipus",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Paula",
+              "score": 1500
+            },
+            {
+              "player": "Marty",
+              "score": 1700
+            },
+            {
+              "player": "Linden",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "category": "MYTHOLOGY",
+          "value": 400,
+          "clue": "2nd mightiest Greek warrior after Achilles & 2nd best selling   cleanser in USA",
+          "answer": "Ajax",
+          "isDailyDouble": false,
+          "orderNumber": 2,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Paula",
+              "score": 1900
+            },
+            {
+              "player": "Marty",
+              "score": 1700
+            },
+            {
+              "player": "Linden",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "category": "MYTHOLOGY",
+          "value": 600,
+          "clue": "Hygeia was the Greek goddess of this",
+          "answer": "cleanliness",
+          "isDailyDouble": false,
+          "orderNumber": 3,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Paula",
+              "score": 1900
+            },
+            {
+              "player": "Marty",
+              "score": 1700
+            },
+            {
+              "player": "Linden",
+              "score": 700
+            }
+          ]
+        },
+        {
+          "category": "AUTOMOBILES",
+          "value": 200,
+          "clue": "After owning it less than 2 weeks, this actor was killed in a '55 Porsche 550 Spider",
+          "answer": "James Dean",
+          "isDailyDouble": false,
+          "orderNumber": 4,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Paula",
+              "score": 1900
+            },
+            {
+              "player": "Marty",
+              "score": 1700
+            },
+            {
+              "player": "Linden",
+              "score": 900
+            }
+          ]
+        },
+        {
+          "category": "AUTOMOBILES",
+          "value": 400,
+          "clue": "For more air, the Mercury Turnpike cruiser had the unique ability among sedans to lower this",
+          "answer": "the back window",
+          "isDailyDouble": false,
+          "orderNumber": 5,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Marty"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Paula",
+              "score": 1500
+            },
+            {
+              "player": "Marty",
+              "score": 1300
+            },
+            {
+              "player": "Linden",
+              "score": 900
+            }
+          ]
+        },
+        {
+          "category": "WORLD WAR II",
+          "value": 200,
+          "clue": "Calendar date \"which will live in infamy\"",
+          "answer": "December 7, 1941",
+          "isDailyDouble": false,
+          "orderNumber": 6,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Paula",
+              "score": 1500
+            },
+            {
+              "player": "Marty",
+              "score": 1500
+            },
+            {
+              "player": "Linden",
+              "score": 900
+            }
+          ]
+        },
+        {
+          "category": "WORLD WAR II",
+          "value": 400,
+          "clue": "Country to which the term \"arsenal of democracy\" referred",
+          "answer": "the United States",
+          "isDailyDouble": false,
+          "orderNumber": 7,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Paula",
+              "score": 1500
+            },
+            {
+              "player": "Marty",
+              "score": 1500
+            },
+            {
+              "player": "Linden",
+              "score": 1300
+            }
+          ]
+        },
+        {
+          "category": "WORD ORIGINS",
+          "value": 200,
+          "clue": "Subject of a song in \"Oklahoma!\", this type of carriage was 1st made in a county in England",
+          "answer": "a surrey",
+          "isDailyDouble": false,
+          "orderNumber": 8,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Paula",
+              "score": 1500
+            },
+            {
+              "player": "Marty",
+              "score": 1500
+            },
+            {
+              "player": "Linden",
+              "score": 1500
+            }
+          ]
+        },
+        {
+          "category": "WORD ORIGINS",
+          "value": 400,
+          "clue": "From the French for \"Croatian\", it's a synonym for necktie",
+          "answer": "a cravat",
+          "isDailyDouble": false,
+          "orderNumber": 9,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Paula",
+              "score": 1100
+            },
+            {
+              "player": "Marty",
+              "score": 1900
+            },
+            {
+              "player": "Linden",
+              "score": 1500
+            }
+          ]
+        },
+        {
+          "category": "WORLD WAR II",
+          "value": 600,
+          "clue": "Country not invited to  '38 Munich conference which decided its fate",
+          "answer": "Czechoslovakia",
+          "isDailyDouble": false,
+          "orderNumber": 10,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Paula",
+              "score": 1100
+            },
+            {
+              "player": "Marty",
+              "score": 1300
+            },
+            {
+              "player": "Linden",
+              "score": 1500
+            }
+          ]
+        },
+        {
+          "category": "WORLD WAR II",
+          "value": 800,
+          "clue": "Under Hitler, Joseph Goebbels was Minister of this",
+          "answer": "propaganda",
+          "isDailyDouble": false,
+          "orderNumber": 11,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Paula",
+              "score": 1900
+            },
+            {
+              "player": "Marty",
+              "score": 1300
+            },
+            {
+              "player": "Linden",
+              "score": 1500
+            }
+          ]
+        },
+        {
+          "category": "AUTHORS",
+          "value": 200,
+          "clue": "His last published novel before his death was \"You Only Live Twice\"",
+          "answer": "Ian Fleming",
+          "isDailyDouble": false,
+          "orderNumber": 12,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Paula",
+              "score": 2100
+            },
+            {
+              "player": "Marty",
+              "score": 1300
+            },
+            {
+              "player": "Linden",
+              "score": 1500
+            }
+          ]
+        },
+        {
+          "category": "AUTHORS",
+          "value": 400,
+          "clue": "This Missouri native wrote, \"Never let schooling interfere with your education\"",
+          "answer": "Samuel Clemens (Mark Twain)",
+          "isDailyDouble": false,
+          "orderNumber": 13,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Paula",
+              "score": 2500
+            },
+            {
+              "player": "Marty",
+              "score": 1300
+            },
+            {
+              "player": "Linden",
+              "score": 1500
+            }
+          ]
+        },
+        {
+          "category": "AUTHORS",
+          "value": 600,
+          "clue": "6'9\" M.D. who wrote \"The Andromeda Strain\" & \"The Terminal Man\"",
+          "answer": "(Michael) Crichton",
+          "isDailyDouble": false,
+          "orderNumber": 14,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Paula",
+              "score": 3100
+            },
+            {
+              "player": "Marty",
+              "score": 1300
+            },
+            {
+              "player": "Linden",
+              "score": 900
+            }
+          ]
+        },
+        {
+          "category": "AUTHORS",
+          "value": 800,
+          "clue": "In 1919, he won a Pulitzer Prize for \"The Magnificent Ambersons\"",
+          "answer": "Booth Tarkington",
+          "isDailyDouble": false,
+          "orderNumber": 15,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Paula",
+              "score": 2300
+            },
+            {
+              "player": "Marty",
+              "score": 1300
+            },
+            {
+              "player": "Linden",
+              "score": 900
+            }
+          ]
+        },
+        {
+          "category": "AUTHORS",
+          "value": 1000,
+          "clue": "Jewish author Franz Werfel \"composed\" this story of a modern saint from Lourdes",
+          "answer": "The Song of Bernadette",
+          "isDailyDouble": false,
+          "orderNumber": 16,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Paula",
+              "score": 3300
+            },
+            {
+              "player": "Marty",
+              "score": 300
+            },
+            {
+              "player": "Linden",
+              "score": 900
+            }
+          ]
+        },
+        {
+          "category": "MYTHOLOGY",
+          "value": 800,
+          "clue": "Roman Bacchanalia was festival dedicated to the god of this",
+          "answer": "the god of wine",
+          "isDailyDouble": false,
+          "orderNumber": 17,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Paula",
+              "score": 4100
+            },
+            {
+              "player": "Marty",
+              "score": 300
+            },
+            {
+              "player": "Linden",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "category": "MYTHOLOGY",
+          "value": 1000,
+          "clue": "Synonymous with doomsayer, this daughter of Priam, king of Troy, predicted the city's fall",
+          "answer": "Cassandra",
+          "isDailyDouble": false,
+          "orderNumber": 18,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Paula",
+              "score": 5100
+            },
+            {
+              "player": "Marty",
+              "score": 300
+            },
+            {
+              "player": "Linden",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "category": "WORD ORIGINS",
+          "value": 600,
+          "clue": "The earl who led the Light Brigade was said to have worn this button-front sweater",
+          "answer": "cardigan",
+          "isDailyDouble": false,
+          "orderNumber": 19,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Paula",
+              "score": 5100
+            },
+            {
+              "player": "Marty",
+              "score": 900
+            },
+            {
+              "player": "Linden",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "category": "WORLD WAR II",
+          "value": 1000,
+          "clue": "Turning point in N. Africa came when Rommel's army was defeated at this Egyptian town",
+          "answer": "El Alamein",
+          "isDailyDouble": false,
+          "orderNumber": 20,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Paula",
+              "score": 5100
+            },
+            {
+              "player": "Marty",
+              "score": 1900
+            },
+            {
+              "player": "Linden",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "category": "WORD ORIGINS",
+          "value": 800,
+          "clue": "From account of 7 martyred brothers in book of Maccabees, it means ghastly or gruesome",
+          "answer": "macabre",
+          "isDailyDouble": false,
+          "orderNumber": 21,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Paula",
+              "score": 5100
+            },
+            {
+              "player": "Marty",
+              "score": 2700
+            },
+            {
+              "player": "Linden",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "category": "WORD ORIGINS",
+          "value": 2000,
+          "clue": "To refuse to patronize, from name of English land agent in Ireland who wouldn't lower rents",
+          "answer": "a boycott",
+          "isDailyDouble": true,
+          "orderNumber": 22,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Paula",
+              "score": 5100
+            },
+            {
+              "player": "Marty",
+              "score": 4700
+            },
+            {
+              "player": "Linden",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "category": "THE BRAIN",
+          "value": 200,
+          "clue": "This family of animals has brains which most resemble humans'",
+          "answer": "apes",
+          "isDailyDouble": false,
+          "orderNumber": 23,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Paula",
+              "score": 5100
+            },
+            {
+              "player": "Marty",
+              "score": 4700
+            },
+            {
+              "player": "Linden",
+              "score": 100
+            }
+          ]
+        },
+        {
+          "category": "THE BRAIN",
+          "value": 400,
+          "clue": "Side of the brain which is the center for music and emotion",
+          "answer": "the right side",
+          "isDailyDouble": false,
+          "orderNumber": 24,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Paula",
+              "score": 5100
+            },
+            {
+              "player": "Marty",
+              "score": 5100
+            },
+            {
+              "player": "Linden",
+              "score": -300
+            }
+          ]
+        },
+        {
+          "category": "THE BRAIN",
+          "value": 600,
+          "clue": "The brain stem links downward to this in humans, but not in spineless jellyfish",
+          "answer": "the spinal cord",
+          "isDailyDouble": false,
+          "orderNumber": 25,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Paula",
+              "score": 5100
+            },
+            {
+              "player": "Marty",
+              "score": 5700
+            },
+            {
+              "player": "Linden",
+              "score": -300
+            }
+          ]
+        },
+        {
+          "category": "AUTOMOBILES",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Paula",
+              "score": 5100
+            },
+            {
+              "player": "Marty",
+              "score": 5700
+            },
+            {
+              "player": "Linden",
+              "score": -300
+            }
+          ]
+        },
+        {
+          "category": "THE BRAIN",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Paula",
+              "score": 5100
+            },
+            {
+              "player": "Marty",
+              "score": 5700
+            },
+            {
+              "player": "Linden",
+              "score": -300
+            }
+          ]
+        },
+        {
+          "category": "AUTOMOBILES",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Paula",
+              "score": 5100
+            },
+            {
+              "player": "Marty",
+              "score": 5700
+            },
+            {
+              "player": "Linden",
+              "score": -300
+            }
+          ]
+        },
+        {
+          "category": "THE BRAIN",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Paula",
+              "score": 5100
+            },
+            {
+              "player": "Marty",
+              "score": 5700
+            },
+            {
+              "player": "Linden",
+              "score": -300
+            }
+          ]
+        },
+        {
+          "category": "AUTOMOBILES",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Paula",
+              "score": 5100
+            },
+            {
+              "player": "Marty",
+              "score": 5700
+            },
+            {
+              "player": "Linden",
+              "score": -300
+            }
+          ]
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "Paula",
+          "score": 5100
+        },
+        {
+          "player": "Marty",
+          "score": 5700
+        },
+        {
+          "player": "Linden",
+          "score": -300
+        }
+      ]
+    },
+    "finalJeopardy": {
+      "category": "HIGHER EDUCATION",
+      "clue": "Besides JFK, 1 of 4 presidents who was a Harvard graduate",
+      "answer": "(1 of) John Adams, John Quincy Adams, Theodore Roosevelt, or Franklin Roosevelt",
+      "responses": [
+        {
+          "contestant": "Paula",
+          "response": "Who is F. Roosevelt",
+          "isCorrect": true,
+          "isIncorrect": false,
+          "value": 5099,
+          "finalScore": 10199
+        },
+        {
+          "contestant": "Marty",
+          "response": "Who is F.D. Roosevelt?",
+          "isCorrect": true,
+          "isIncorrect": false,
+          "value": 2500,
+          "finalScore": 8200
+        }
+      ]
+    }
+  },
+  "finalScores": [
+    {
+      "player": "Paula",
+      "score": "$10,199"
+    },
+    {
+      "player": "Marty",
+      "score": "$8,200"
+    },
+    {
+      "player": "Linden",
+      "score": "-$300"
+    }
+  ],
+  "coryatScores": [
+    {
+      "player": "Paula",
+      "score": 5100
+    },
+    {
+      "player": "Marty",
+      "score": 4700
+    },
+    {
+      "player": "Linden",
+      "score": -300
+    }
+  ]
+}

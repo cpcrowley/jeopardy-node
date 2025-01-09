@@ -1,0 +1,1691 @@
+{
+  "gameId": 6322,
+  "showNumber": "633",
+  "title": "Show #633 - Wednesday, May 13, 1987",
+  "date": "1987-05-13",
+  "comments": "1987 Senior Tournament quarterfinal game 3.",
+  "contestants": [
+    "Bill",
+    "Madeline",
+    "Joe"
+  ],
+  "rounds": {
+    "jeopardy": {
+      "categories": [
+        "SEA LIFE",
+        "GEOGRAPHICAL SONGS",
+        "THE FUNNIES",
+        "SPORTS",
+        "AMY VANDERBILT SAYS",
+        "ACTORS & ROLES"
+      ],
+      "clues": [
+        {
+          "category": "SPORTS",
+          "value": 100,
+          "clue": "In 1930, Don Bradman didn't find many sticky wickets as he scored 974 runs in this sport",
+          "answer": "cricket",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [
+            "Bill"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bill",
+              "score": 100
+            },
+            {
+              "player": "Madeline",
+              "score": 0
+            },
+            {
+              "player": "Joe",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "SPORTS",
+          "value": 200,
+          "clue": "In this sport, a pro team usually suits up 20 men per game, including 2 goalies",
+          "answer": "ice hockey",
+          "isDailyDouble": false,
+          "orderNumber": 2,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Bill",
+              "score": 100
+            },
+            {
+              "player": "Madeline",
+              "score": 0
+            },
+            {
+              "player": "Joe",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "category": "SPORTS",
+          "value": 300,
+          "clue": "In the autumn of 1909, the collegiate death toll in this sport was 33",
+          "answer": "football",
+          "isDailyDouble": false,
+          "orderNumber": 3,
+          "correctContestants": [
+            "Joe"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bill",
+              "score": 100
+            },
+            {
+              "player": "Madeline",
+              "score": 0
+            },
+            {
+              "player": "Joe",
+              "score": 300
+            }
+          ]
+        },
+        {
+          "category": "THE FUNNIES",
+          "value": 100,
+          "clue": "Comic strip character who's given his name to a multilayered sandwich",
+          "answer": "Dagwood",
+          "isDailyDouble": false,
+          "orderNumber": 4,
+          "correctContestants": [
+            "Joe"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bill",
+              "score": 100
+            },
+            {
+              "player": "Madeline",
+              "score": 0
+            },
+            {
+              "player": "Joe",
+              "score": 400
+            }
+          ]
+        },
+        {
+          "category": "THE FUNNIES",
+          "value": 200,
+          "clue": "Broom Hilda's buddy Gaylord is this type of creature",
+          "answer": "vulture",
+          "isDailyDouble": false,
+          "orderNumber": 5,
+          "correctContestants": [
+            "Joe"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bill",
+              "score": 100
+            },
+            {
+              "player": "Madeline",
+              "score": 0
+            },
+            {
+              "player": "Joe",
+              "score": 600
+            }
+          ]
+        },
+        {
+          "category": "THE FUNNIES",
+          "value": 300,
+          "clue": "Inseparable pair; when she said \"Leapin' lizards\", he frequently replied \"arf\"",
+          "answer": "Sandy & Orphan Annie",
+          "isDailyDouble": false,
+          "orderNumber": 6,
+          "correctContestants": [
+            "Joe"
+          ],
+          "incorrectContestants": [
+            "Bill"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bill",
+              "score": -200
+            },
+            {
+              "player": "Madeline",
+              "score": 0
+            },
+            {
+              "player": "Joe",
+              "score": 900
+            }
+          ]
+        },
+        {
+          "category": "THE FUNNIES",
+          "value": 400,
+          "clue": "5-year old \"enfant terrible\" who turned 35 in 1986",
+          "answer": "Dennis the Menace",
+          "isDailyDouble": false,
+          "orderNumber": 7,
+          "correctContestants": [
+            "Madeline"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bill",
+              "score": -200
+            },
+            {
+              "player": "Madeline",
+              "score": 400
+            },
+            {
+              "player": "Joe",
+              "score": 900
+            }
+          ]
+        },
+        {
+          "category": "ACTORS & ROLES",
+          "value": 100,
+          "clue": "This comedian made \"Easy Money\" in 1983 & went \"Back to School\" in 1986",
+          "answer": "Rodney Dangerfield",
+          "isDailyDouble": false,
+          "orderNumber": 8,
+          "correctContestants": [
+            "Bill"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bill",
+              "score": -100
+            },
+            {
+              "player": "Madeline",
+              "score": 400
+            },
+            {
+              "player": "Joe",
+              "score": 900
+            }
+          ]
+        },
+        {
+          "category": "ACTORS & ROLES",
+          "value": 200,
+          "clue": "Of Dick, Jane, or William Powell, the 1 who was in \"The Thin Man\"",
+          "answer": "William Powell",
+          "isDailyDouble": false,
+          "orderNumber": 9,
+          "correctContestants": [
+            "Joe"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bill",
+              "score": -100
+            },
+            {
+              "player": "Madeline",
+              "score": 400
+            },
+            {
+              "player": "Joe",
+              "score": 1100
+            }
+          ]
+        },
+        {
+          "category": "THE FUNNIES",
+          "value": 500,
+          "clue": "In \"The Funnies\" by White & Abel, she's described as \"The child-woman created by Ernie Bushmiller\"",
+          "answer": "Nancy",
+          "isDailyDouble": false,
+          "orderNumber": 10,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Bill",
+              "score": -100
+            },
+            {
+              "player": "Madeline",
+              "score": 400
+            },
+            {
+              "player": "Joe",
+              "score": 1100
+            }
+          ]
+        },
+        {
+          "category": "GEOGRAPHICAL SONGS",
+          "value": 100,
+          "clue": "\"I'll go home & get my panties, you go home & get your scanties\" & we'll \"shuffle off to\" here",
+          "answer": "Buffalo",
+          "isDailyDouble": false,
+          "orderNumber": 11,
+          "correctContestants": [
+            "Bill"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bill",
+              "score": 0
+            },
+            {
+              "player": "Madeline",
+              "score": 400
+            },
+            {
+              "player": "Joe",
+              "score": 1100
+            }
+          ]
+        },
+        {
+          "category": "GEOGRAPHICAL SONGS",
+          "value": 200,
+          "clue": "\"My heart beat like a hammer, my arms wound around you tight, & stars fell on\" this state",
+          "answer": "Alabama",
+          "isDailyDouble": false,
+          "orderNumber": 12,
+          "correctContestants": [
+            "Joe"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bill",
+              "score": 0
+            },
+            {
+              "player": "Madeline",
+              "score": 400
+            },
+            {
+              "player": "Joe",
+              "score": 1300
+            }
+          ]
+        },
+        {
+          "category": "GEOGRAPHICAL SONGS",
+          "value": 300,
+          "clue": "\"When it's springtime\" here, \"I am coming back to you, little sweetheart of the mountains\"",
+          "answer": "Rockies",
+          "isDailyDouble": false,
+          "orderNumber": 13,
+          "correctContestants": [
+            "Bill"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bill",
+              "score": 300
+            },
+            {
+              "player": "Madeline",
+              "score": 400
+            },
+            {
+              "player": "Joe",
+              "score": 1300
+            }
+          ]
+        },
+        {
+          "category": "GEOGRAPHICAL SONGS",
+          "value": 400,
+          "clue": "Patti Page lost her \"little darlin' the night they were playin' \" this",
+          "answer": "\"Tennessee Waltz\"",
+          "isDailyDouble": false,
+          "orderNumber": 14,
+          "correctContestants": [
+            "Bill"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bill",
+              "score": 700
+            },
+            {
+              "player": "Madeline",
+              "score": 400
+            },
+            {
+              "player": "Joe",
+              "score": 1300
+            }
+          ]
+        },
+        {
+          "category": "GEOGRAPHICAL SONGS",
+          "value": 500,
+          "clue": "This song about night in a N. England state begins \"pennies in a stream, falling leaves, a sycamore...\"",
+          "answer": "\"Moonlight in Vermont\"",
+          "isDailyDouble": false,
+          "orderNumber": 15,
+          "correctContestants": [
+            "Joe"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bill",
+              "score": 700
+            },
+            {
+              "player": "Madeline",
+              "score": 400
+            },
+            {
+              "player": "Joe",
+              "score": 1800
+            }
+          ]
+        },
+        {
+          "category": "SEA LIFE",
+          "value": 100,
+          "clue": "A sea otter eats & sleeps while floating in this position",
+          "answer": "on his back",
+          "isDailyDouble": false,
+          "orderNumber": 16,
+          "correctContestants": [
+            "Joe"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bill",
+              "score": 700
+            },
+            {
+              "player": "Madeline",
+              "score": 400
+            },
+            {
+              "player": "Joe",
+              "score": 1900
+            }
+          ]
+        },
+        {
+          "category": "SEA LIFE",
+          "value": 200,
+          "clue": "A hawksbill, loggerhead or leatherback",
+          "answer": "sea turtles",
+          "isDailyDouble": false,
+          "orderNumber": 17,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Bill",
+              "score": 700
+            },
+            {
+              "player": "Madeline",
+              "score": 400
+            },
+            {
+              "player": "Joe",
+              "score": 1900
+            }
+          ]
+        },
+        {
+          "category": "SEA LIFE",
+          "value": 300,
+          "clue": "Among fish, while a manta is a ray, a moray is one of these",
+          "answer": "eel",
+          "isDailyDouble": false,
+          "orderNumber": 18,
+          "correctContestants": [
+            "Joe"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bill",
+              "score": 700
+            },
+            {
+              "player": "Madeline",
+              "score": 400
+            },
+            {
+              "player": "Joe",
+              "score": 2200
+            }
+          ]
+        },
+        {
+          "category": "SEA LIFE",
+          "value": 400,
+          "clue": "A sea star doesn't refer to Lloyd Bridges, but to this creature",
+          "answer": "starfish",
+          "isDailyDouble": false,
+          "orderNumber": 19,
+          "correctContestants": [
+            "Joe"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bill",
+              "score": 700
+            },
+            {
+              "player": "Madeline",
+              "score": 400
+            },
+            {
+              "player": "Joe",
+              "score": 2600
+            }
+          ]
+        },
+        {
+          "category": "SEA LIFE",
+          "value": 500,
+          "clue": "Its varieties include mushroom, horny, brain & staghorn",
+          "answer": "coral",
+          "isDailyDouble": false,
+          "orderNumber": 20,
+          "correctContestants": [
+            "Bill"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bill",
+              "score": 1200
+            },
+            {
+              "player": "Madeline",
+              "score": 400
+            },
+            {
+              "player": "Joe",
+              "score": 2600
+            }
+          ]
+        },
+        {
+          "category": "SPORTS",
+          "value": 400,
+          "clue": "In pro basketball, this happens to a player after 2 technical fouls",
+          "answer": "ejected from the game",
+          "isDailyDouble": false,
+          "orderNumber": 21,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Bill"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Bill",
+              "score": 800
+            },
+            {
+              "player": "Madeline",
+              "score": 400
+            },
+            {
+              "player": "Joe",
+              "score": 2600
+            }
+          ]
+        },
+        {
+          "category": "SPORTS",
+          "value": 500,
+          "clue": "Of Joe Louis, Muhammad Ali, or George Foreman, heavyweight champ with highest career KO percentage",
+          "answer": "(George) Foreman",
+          "isDailyDouble": false,
+          "orderNumber": 22,
+          "correctContestants": [
+            "Madeline"
+          ],
+          "incorrectContestants": [
+            "Joe"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bill",
+              "score": 800
+            },
+            {
+              "player": "Madeline",
+              "score": 900
+            },
+            {
+              "player": "Joe",
+              "score": 2100
+            }
+          ]
+        },
+        {
+          "category": "ACTORS & ROLES",
+          "value": 300,
+          "clue": "She married Charles Laughton in real life & was \"The Bride of Frankenstein\" on screen",
+          "answer": "Elsa Lanchester",
+          "isDailyDouble": false,
+          "orderNumber": 23,
+          "correctContestants": [
+            "Joe"
+          ],
+          "incorrectContestants": [
+            "Bill"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bill",
+              "score": 500
+            },
+            {
+              "player": "Madeline",
+              "score": 900
+            },
+            {
+              "player": "Joe",
+              "score": 2400
+            }
+          ]
+        },
+        {
+          "category": "ACTORS & ROLES",
+          "value": 1000,
+          "clue": "2 recent films from Disney Studios in which Bette Midler played distraught wives named Barbara",
+          "answer": "Ruthless People & Down and Out in Beverly Hills",
+          "isDailyDouble": true,
+          "orderNumber": 24,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Joe"
+          ],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bill",
+              "score": 500
+            },
+            {
+              "player": "Madeline",
+              "score": 900
+            },
+            {
+              "player": "Joe",
+              "score": 1400
+            }
+          ]
+        },
+        {
+          "category": "ACTORS & ROLES",
+          "value": 500,
+          "clue": "\"Pink Panther\" regular played by Burt Kwouk",
+          "answer": "Cato",
+          "isDailyDouble": false,
+          "orderNumber": 25,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Bill",
+              "score": 500
+            },
+            {
+              "player": "Madeline",
+              "score": 900
+            },
+            {
+              "player": "Joe",
+              "score": 1400
+            }
+          ]
+        },
+        {
+          "category": "AMY VANDERBILT SAYS",
+          "value": 100,
+          "clue": "When you're finished eating, where you should place the napkin in relation to your plate",
+          "answer": "at the left",
+          "isDailyDouble": false,
+          "orderNumber": 26,
+          "correctContestants": [
+            "Joe"
+          ],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bill",
+              "score": 500
+            },
+            {
+              "player": "Madeline",
+              "score": 900
+            },
+            {
+              "player": "Joe",
+              "score": 1500
+            }
+          ]
+        },
+        {
+          "category": "AMY VANDERBILT SAYS",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bill",
+              "score": 500
+            },
+            {
+              "player": "Madeline",
+              "score": 900
+            },
+            {
+              "player": "Joe",
+              "score": 1500
+            }
+          ]
+        },
+        {
+          "category": "AMY VANDERBILT SAYS",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bill",
+              "score": 500
+            },
+            {
+              "player": "Madeline",
+              "score": 900
+            },
+            {
+              "player": "Joe",
+              "score": 1500
+            }
+          ]
+        },
+        {
+          "category": "AMY VANDERBILT SAYS",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bill",
+              "score": 500
+            },
+            {
+              "player": "Madeline",
+              "score": 900
+            },
+            {
+              "player": "Joe",
+              "score": 1500
+            }
+          ]
+        },
+        {
+          "category": "AMY VANDERBILT SAYS",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bill",
+              "score": 500
+            },
+            {
+              "player": "Madeline",
+              "score": 900
+            },
+            {
+              "player": "Joe",
+              "score": 1500
+            }
+          ]
+        }
+      ],
+      "firstBreakScores": [
+        {
+          "player": "Bill",
+          "score": 0
+        },
+        {
+          "player": "Madeline",
+          "score": 400
+        },
+        {
+          "player": "Joe",
+          "score": 1300
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "Bill",
+          "score": 500
+        },
+        {
+          "player": "Madeline",
+          "score": 900
+        },
+        {
+          "player": "Joe",
+          "score": 1500
+        }
+      ]
+    },
+    "doubleJeopardy": {
+      "categories": [
+        "MATHEMATICS",
+        "RADIO DRAMA",
+        "HISTORY",
+        "CORPORATE AMERICA",
+        "AFRICA",
+        "POTPOURRI"
+      ],
+      "clues": [
+        {
+          "category": "POTPOURRI",
+          "value": 200,
+          "clue": "Minimum number of handles on a loving cup",
+          "answer": "2",
+          "isDailyDouble": false,
+          "orderNumber": 1,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bill",
+              "score": 500
+            },
+            {
+              "player": "Madeline",
+              "score": 900
+            },
+            {
+              "player": "Joe",
+              "score": 1700
+            }
+          ]
+        },
+        {
+          "category": "RADIO DRAMA",
+          "value": 200,
+          "clue": "Its scripts were dramatized stories from the files in the LAPD; the names were changed, of course",
+          "answer": "Dragnet",
+          "isDailyDouble": false,
+          "orderNumber": 2,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bill",
+              "score": 700
+            },
+            {
+              "player": "Madeline",
+              "score": 900
+            },
+            {
+              "player": "Joe",
+              "score": 1700
+            }
+          ]
+        },
+        {
+          "category": "RADIO DRAMA",
+          "value": 400,
+          "clue": "Brace Beemer was an announcer on this show before he donned the mask as its star",
+          "answer": "The Lone Ranger",
+          "isDailyDouble": false,
+          "orderNumber": 3,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bill",
+              "score": 700
+            },
+            {
+              "player": "Madeline",
+              "score": 900
+            },
+            {
+              "player": "Joe",
+              "score": 2100
+            }
+          ]
+        },
+        {
+          "category": "RADIO DRAMA",
+          "value": 600,
+          "clue": "The actors who played Paul, Cliff, & Nicky in \"One Man's Family\", played Jack, Doc, & Reggie on this show",
+          "answer": "I Love a Mystery",
+          "isDailyDouble": false,
+          "orderNumber": 4,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bill",
+              "score": 100
+            },
+            {
+              "player": "Madeline",
+              "score": 900
+            },
+            {
+              "player": "Joe",
+              "score": 2700
+            }
+          ]
+        },
+        {
+          "category": "RADIO DRAMA",
+          "value": 800,
+          "clue": "With his theme \"Someday I'll Find You\", this character was the \"Tracer of Lost Persons\"",
+          "answer": "Mr. Keen",
+          "isDailyDouble": false,
+          "orderNumber": 5,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bill",
+              "score": 900
+            },
+            {
+              "player": "Madeline",
+              "score": 900
+            },
+            {
+              "player": "Joe",
+              "score": 2700
+            }
+          ]
+        },
+        {
+          "category": "RADIO DRAMA",
+          "value": 1000,
+          "clue": "Virginia Payne played this soap's title character for its entire 27 year run",
+          "answer": "Ma Perkins",
+          "isDailyDouble": false,
+          "orderNumber": 6,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bill",
+              "score": 900
+            },
+            {
+              "player": "Madeline",
+              "score": 900
+            },
+            {
+              "player": "Joe",
+              "score": 3700
+            }
+          ]
+        },
+        {
+          "category": "MATHEMATICS",
+          "value": 200,
+          "clue": "With one you can draw a circle; without one you might travel in a circle",
+          "answer": "compass",
+          "isDailyDouble": false,
+          "orderNumber": 7,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bill",
+              "score": 1100
+            },
+            {
+              "player": "Madeline",
+              "score": 900
+            },
+            {
+              "player": "Joe",
+              "score": 3700
+            }
+          ]
+        },
+        {
+          "category": "POTPOURRI",
+          "value": 400,
+          "clue": "The L.A. Times reports this symbol has been removed from most Vegas slots due to its sour image",
+          "answer": "lemon",
+          "isDailyDouble": false,
+          "orderNumber": 8,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bill",
+              "score": 1500
+            },
+            {
+              "player": "Madeline",
+              "score": 900
+            },
+            {
+              "player": "Joe",
+              "score": 3700
+            }
+          ]
+        },
+        {
+          "category": "POTPOURRI",
+          "value": 600,
+          "clue": "Common item taken on vacations that has an iris, diaphragm & speed control",
+          "answer": "camera",
+          "isDailyDouble": false,
+          "orderNumber": 9,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bill",
+              "score": 1500
+            },
+            {
+              "player": "Madeline",
+              "score": 1500
+            },
+            {
+              "player": "Joe",
+              "score": 3700
+            }
+          ]
+        },
+        {
+          "category": "HISTORY",
+          "value": 200,
+          "clue": "Royal couple who decreed the expulsion of Jews from Spain in 1492",
+          "answer": "Ferdinand & Isabella",
+          "isDailyDouble": false,
+          "orderNumber": 10,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bill",
+              "score": 1500
+            },
+            {
+              "player": "Madeline",
+              "score": 1500
+            },
+            {
+              "player": "Joe",
+              "score": 3900
+            }
+          ]
+        },
+        {
+          "category": "HISTORY",
+          "value": 400,
+          "clue": "During his expedition begun in 1838, Lt. Charles Wilkes proved this was a continent",
+          "answer": "Antarctica",
+          "isDailyDouble": false,
+          "orderNumber": 11,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bill",
+              "score": 1500
+            },
+            {
+              "player": "Madeline",
+              "score": 1500
+            },
+            {
+              "player": "Joe",
+              "score": 4300
+            }
+          ]
+        },
+        {
+          "category": "MATHEMATICS",
+          "value": 400,
+          "clue": "Next in the sequence 1,5,9,13,...",
+          "answer": "17",
+          "isDailyDouble": false,
+          "orderNumber": 12,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bill",
+              "score": 1900
+            },
+            {
+              "player": "Madeline",
+              "score": 1500
+            },
+            {
+              "player": "Joe",
+              "score": 4300
+            }
+          ]
+        },
+        {
+          "category": "POTPOURRI",
+          "value": 800,
+          "clue": "Albuquerque police learned German & Dutch to work with these European-trained operatives",
+          "answer": "dogs",
+          "isDailyDouble": false,
+          "orderNumber": 13,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bill",
+              "score": 2700
+            },
+            {
+              "player": "Madeline",
+              "score": 1500
+            },
+            {
+              "player": "Joe",
+              "score": 4300
+            }
+          ]
+        },
+        {
+          "category": "POTPOURRI",
+          "value": 1000,
+          "clue": "Option on ballot offered to Nevada's voters, it \"won\" the state treasurer primary in 1986",
+          "answer": "none of the above",
+          "isDailyDouble": false,
+          "orderNumber": 14,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bill",
+              "score": 2700
+            },
+            {
+              "player": "Madeline",
+              "score": 1500
+            },
+            {
+              "player": "Joe",
+              "score": 5300
+            }
+          ]
+        },
+        {
+          "category": "MATHEMATICS",
+          "value": 600,
+          "clue": "Banks compute this by the formula: principal x rate x time",
+          "answer": "interest",
+          "isDailyDouble": false,
+          "orderNumber": 15,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bill",
+              "score": 2700
+            },
+            {
+              "player": "Madeline",
+              "score": 2100
+            },
+            {
+              "player": "Joe",
+              "score": 5300
+            }
+          ]
+        },
+        {
+          "category": "HISTORY",
+          "value": 750,
+          "clue": "2 North American wars in which a \"Battle of Wilderness\" was fought, 1 in 1755 & 1 in 1864",
+          "answer": "Civil War & French & Indian War",
+          "isDailyDouble": true,
+          "orderNumber": 16,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bill",
+              "score": 2700
+            },
+            {
+              "player": "Madeline",
+              "score": 2850
+            },
+            {
+              "player": "Joe",
+              "score": 5300
+            }
+          ]
+        },
+        {
+          "category": "HISTORY",
+          "value": 800,
+          "clue": "Technically a Bohemian duke, this murdered 10th century saint is the subject of a Christmas carol",
+          "answer": "King Wenceslas",
+          "isDailyDouble": false,
+          "orderNumber": 17,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bill",
+              "score": 3500
+            },
+            {
+              "player": "Madeline",
+              "score": 2850
+            },
+            {
+              "player": "Joe",
+              "score": 5300
+            }
+          ]
+        },
+        {
+          "category": "HISTORY",
+          "value": 1000,
+          "clue": "The century in which England last had any queen named Elizabeth prior to Elizabeth II",
+          "answer": "20th century",
+          "isDailyDouble": false,
+          "orderNumber": 18,
+          "correctContestants": [],
+          "incorrectContestants": [
+            "Joe"
+          ],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Bill",
+              "score": 3500
+            },
+            {
+              "player": "Madeline",
+              "score": 1850
+            },
+            {
+              "player": "Joe",
+              "score": 4300
+            }
+          ]
+        },
+        {
+          "category": "CORPORATE AMERICA",
+          "value": 200,
+          "clue": "For Expo '86, this company built a McBarge, its 1st floating restaurant",
+          "answer": "McDonald's",
+          "isDailyDouble": false,
+          "orderNumber": 19,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bill",
+              "score": 3700
+            },
+            {
+              "player": "Madeline",
+              "score": 1850
+            },
+            {
+              "player": "Joe",
+              "score": 4300
+            }
+          ]
+        },
+        {
+          "category": "CORPORATE AMERICA",
+          "value": 400,
+          "clue": "In 1904, it was founded by Amadeo Peter Giannini as the Bank of Italy, but became this in 1930",
+          "answer": "Bank of America",
+          "isDailyDouble": false,
+          "orderNumber": 20,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bill",
+              "score": 3700
+            },
+            {
+              "player": "Madeline",
+              "score": 1850
+            },
+            {
+              "player": "Joe",
+              "score": 4700
+            }
+          ]
+        },
+        {
+          "category": "MATHEMATICS",
+          "value": 800,
+          "clue": "In 300 B.C., students who skipped his class in Alexanderia missed the \"Elements\" of geometry",
+          "answer": "Euclid",
+          "isDailyDouble": false,
+          "orderNumber": 21,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bill",
+              "score": 3700
+            },
+            {
+              "player": "Madeline",
+              "score": 1850
+            },
+            {
+              "player": "Joe",
+              "score": 5500
+            }
+          ]
+        },
+        {
+          "category": "MATHEMATICS",
+          "value": 1000,
+          "clue": "Analytic geometry combines geometry with this branch of arithmetic",
+          "answer": "algebra",
+          "isDailyDouble": false,
+          "orderNumber": 22,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bill",
+              "score": 3700
+            },
+            {
+              "player": "Madeline",
+              "score": 1850
+            },
+            {
+              "player": "Joe",
+              "score": 6500
+            }
+          ]
+        },
+        {
+          "category": "CORPORATE AMERICA",
+          "value": 600,
+          "clue": "A 3M scientist who sang in his church choir 1st used this lightly glued paper product to mark place in hymnal",
+          "answer": "Post-It",
+          "isDailyDouble": false,
+          "orderNumber": 23,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bill",
+              "score": 4300
+            },
+            {
+              "player": "Madeline",
+              "score": 1850
+            },
+            {
+              "player": "Joe",
+              "score": 6500
+            }
+          ]
+        },
+        {
+          "category": "CORPORATE AMERICA",
+          "value": 800,
+          "clue": "Waldenbooks, which recently bought Brentano's, is owned by this #2 U.S. retailer",
+          "answer": "Kmart",
+          "isDailyDouble": false,
+          "orderNumber": 24,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": true,
+          "runningScores": [
+            {
+              "player": "Bill",
+              "score": 4300
+            },
+            {
+              "player": "Madeline",
+              "score": 1850
+            },
+            {
+              "player": "Joe",
+              "score": 6500
+            }
+          ]
+        },
+        {
+          "category": "CORPORATE AMERICA",
+          "value": 1000,
+          "clue": "In 1895, he led bankers who lent U.S. Treasury $31 million so it didn't need to stop currency redemption",
+          "answer": "(J.P.) Morgan",
+          "isDailyDouble": false,
+          "orderNumber": 25,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bill",
+              "score": 4300
+            },
+            {
+              "player": "Madeline",
+              "score": 2850
+            },
+            {
+              "player": "Joe",
+              "score": 6500
+            }
+          ]
+        },
+        {
+          "category": "AFRICA",
+          "value": 200,
+          "clue": "Namib or Kalahari, for example",
+          "answer": "desert",
+          "isDailyDouble": false,
+          "orderNumber": 26,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bill",
+              "score": 4300
+            },
+            {
+              "player": "Madeline",
+              "score": 3050
+            },
+            {
+              "player": "Joe",
+              "score": 6500
+            }
+          ]
+        },
+        {
+          "category": "AFRICA",
+          "value": 400,
+          "clue": "The highest point in Tanzania; heck it's the highest point in all of Africa",
+          "answer": "Mt. Kilimanjaro",
+          "isDailyDouble": false,
+          "orderNumber": 27,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bill",
+              "score": 4300
+            },
+            {
+              "player": "Madeline",
+              "score": 3050
+            },
+            {
+              "player": "Joe",
+              "score": 6900
+            }
+          ]
+        },
+        {
+          "category": "AFRICA",
+          "value": 1000,
+          "clue": "African explorer referred to in title of the following:[Zeppo, talk-singing] \"He went into the jungle / Where all the monkeys THROW nuts\" [Groucho] \"If I stay here I'll GO nuts\" [Party guests] \"Hooray hooray hooray!\"",
+          "answer": "Captain Spaulding",
+          "isDailyDouble": true,
+          "orderNumber": 28,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bill",
+              "score": 4300
+            },
+            {
+              "player": "Madeline",
+              "score": 3050
+            },
+            {
+              "player": "Joe",
+              "score": 7900
+            }
+          ]
+        },
+        {
+          "category": "AFRICA",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bill",
+              "score": 4300
+            },
+            {
+              "player": "Madeline",
+              "score": 3050
+            },
+            {
+              "player": "Joe",
+              "score": 7900
+            }
+          ]
+        },
+        {
+          "category": "AFRICA",
+          "value": "",
+          "clue": "",
+          "answer": "",
+          "isDailyDouble": false,
+          "orderNumber": null,
+          "correctContestants": [],
+          "incorrectContestants": [],
+          "wasTripleStumper": false,
+          "runningScores": [
+            {
+              "player": "Bill",
+              "score": 4300
+            },
+            {
+              "player": "Madeline",
+              "score": 3050
+            },
+            {
+              "player": "Joe",
+              "score": 7900
+            }
+          ]
+        }
+      ],
+      "endOfRoundScores": [
+        {
+          "player": "Bill",
+          "score": 4300
+        },
+        {
+          "player": "Madeline",
+          "score": 3050
+        },
+        {
+          "player": "Joe",
+          "score": 7900
+        }
+      ]
+    },
+    "finalJeopardy": {
+      "category": "BUSINESS & INDUSTRY",
+      "clue": "The book \"Sold American!\" deals with this industry",
+      "answer": "tobacco industry",
+      "responses": [
+        {
+          "contestant": "Madeline",
+          "response": "What is the tobacco business?",
+          "isCorrect": true,
+          "isIncorrect": false,
+          "value": 1000,
+          "finalScore": 4050
+        },
+        {
+          "contestant": "Bill",
+          "response": "What is the tobacco industry?",
+          "isCorrect": true,
+          "isIncorrect": false,
+          "value": 2000,
+          "finalScore": 6300
+        },
+        {
+          "contestant": "Joe",
+          "response": "What is the tobacco industry",
+          "isCorrect": true,
+          "isIncorrect": false,
+          "value": 800,
+          "finalScore": 8700
+        }
+      ]
+    }
+  },
+  "finalScores": [
+    {
+      "player": "Bill",
+      "score": "$6,300"
+    },
+    {
+      "player": "Madeline",
+      "score": "$4,050"
+    },
+    {
+      "player": "Joe",
+      "score": "$8,700"
+    }
+  ],
+  "coryatScores": [
+    {
+      "player": "Bill",
+      "score": 4300
+    },
+    {
+      "player": "Madeline",
+      "score": 2900
+    },
+    {
+      "player": "Joe",
+      "score": 8500
+    }
+  ]
+}
