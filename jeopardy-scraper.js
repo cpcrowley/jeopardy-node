@@ -252,7 +252,7 @@ async function scrapeJeopardyGame(gameId) {
     const basename = `j-${formattedDate}-${showNumber}-${gameId}`;
     fs.writeFileSync(
       `games/${basename}.json`,
-      JSON.stringify(gameData, null, 2)
+      JSON.stringify(gameData, null, 0)
     );
     fs.writeFileSync(`html/${basename}.html`, html);
     console.log(`Game html saved to ${`<html,games>/${basename}.<html,json>`}`);
