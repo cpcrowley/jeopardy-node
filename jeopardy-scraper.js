@@ -1,6 +1,22 @@
 const axios = require("axios");
 const cheerio = require("cheerio");
 const fs = require("fs");
+const path = require("path");
+
+//------------------------------------------------------------------------------
+// Check if a game has already been downloaded by looking for files ending with
+// the gameId in the games directory
+//------------------------------------------------------------------------------
+function gameAlreadyExists(gameId) {
+  const gamesDir = path.join(__dirname, "games");
+  const suffix = `-${gameId}.json`;
+  try {
+    const files = fs.readdirSync(gamesDir);
+    return files.some((file) => file.endsWith(suffix));
+  } catch (error) {
+    return false;
+  }
+}
 
 //------------------------------------------------------------------------------
 //------------------------------------------------------------------------------
@@ -127,7 +143,7 @@ function modifyGame(gameData) {
               runningScores[contestant] += clue.value;
             }
           });
-          clue.correctContestants.shift(); // Remove first item
+          // clue.correctContestants.shift(); // Remove first item
         }
         if (clue.incorrectContestants && clue.incorrectContestants.length > 0) {
           // Subtract points for incorrect answers
@@ -140,7 +156,7 @@ function modifyGame(gameData) {
             }
           });
           // Remove first item and "Triple Stumper"
-          clue.incorrectContestants.shift();
+          // clue.incorrectContestants.shift();
           clue.incorrectContestants = clue.incorrectContestants.filter(
             (contestant) => contestant !== "Triple Stumper"
           );
@@ -187,12 +203,22 @@ function modifyGame(gameData) {
 function parseGameDate(dateString) {
   // Input format: "Monday, September 9, 2024"
   const date = new Date(dateString);
+  if (isNaN(date.getTime())) {
+    console.error(`Invalid date string: "${dateString}"`);
+    return "unknown-date";
+  }
   return date.toISOString().split("T")[0]; // Returns YYYY-MM-DD
 }
 
 //------------------------------------------------------------------------------
 //------------------------------------------------------------------------------
 async function scrapeJeopardyGame(gameId) {
+  // Skip if game already exists
+  if (gameAlreadyExists(gameId)) {
+    console.log(`Game ${gameId} already exists, skipping...`);
+    return null;
+  }
+
   try {
     // Add a user agent to avoid being blocked
     const headers = {
@@ -439,6 +465,12 @@ async function scrapeGames(gameIds) {
   for (const gameId of gameIds) {
     try {
       const gameData = await scrapeJeopardyGame(gameId);
+
+      // Skip delay and don't add to results if game was already downloaded
+      if (gameData === null) {
+        continue;
+      }
+
       results.push(gameData);
 
       // Add a random delay between 4-10 seconds between requests
@@ -463,30 +495,17 @@ async function scrapeGames(gameIds) {
 // Array of game IDs to scrape 1 to 9086
 //------------------------------------------------------------------------------
 const ranges = [
-  [9001, 9086], // 0xxx
-  [8501, 9000], // 1xxx
-  [8001, 8500], // 2xxx
-  [7501, 8000], // 3xxx
-  [7001, 7500], // 4xxx
-  [6501, 7000], // 5xxx
-  [6001, 6500], // 6xxx
-  [5501, 6000], // 7xxx
-  [5001, 5500], // 8xxx
-  [4501, 5000], // 9xxx
-  [4001, 4500], // 10xxx
-  [3501, 4000], // 11xxx
-  [3001, 3500], // 12xxx
-  [2501, 3000], // 13xxx
-  [2001, 2500], // 14xxx
-  [1501, 2000], // 15xxx
-  [1001, 1500], // 16xxx
-  [501, 1000], // 17xxx
-  [1, 500], // 18xxx
+  [9001, 9252], // 0 -- as of 2026-01-07
+  [8001, 9000], // 1
+  [6001, 8000], // 2
+  [4001, 6000], // 3
+  [2001, 4000], // 4
+  [1, 2000],  // 5
 ];
 
 //------------------------------------------------------------------------------
 //------------------------------------------------------------------------------
-let iRanges = 0;
+let iRanges = 2;
 
 const firstGameId = ranges[iRanges][0];
 const lastGameId = ranges[iRanges][1];

@@ -8,95 +8,8 @@ let lockoutCount = 0;
 
 let gamesSheet = "";
 
-let jeopardyClueCount = 0;
-let doubleJeopardyClueCount = 0;
-
-let jeopardyDidNotFinishCount = 0;
-let doubleJeopardyDidNotFinishCount = 0;
-
-let firstBreakScores = [];
-let jeopardyScores = [];
-let doubleJeopardyScores = [];
-let coryatScores = [];
-
-let jeopardyClues = [];
-let doubleJeopardyClues = [];
-
-let jeopardyCategories = [];
-let doubleJeopardyCategories = [];
-
-let finalJeopardyResponses = [];
-
 let currentSeason = 1;
 let games = {};
-
-//------------------------------------------------------------------------------
-//------------------------------------------------------------------------------
-function checkIfValuesExist(gameData) {
-  if (gameData.rounds?.doubleJeopardy?.firstBreakScores) {
-    firstBreakScores = gameData.rounds.jeopardy.firstBreakScores;
-  }
-
-  if (gameData.rounds?.doubleJeopardy?.endOfRoundScores) {
-    jeopardyScores = gameData.rounds.jeopardy.endOfRoundScores;
-  }
-
-  if (gameData.rounds?.doubleJeopardy?.endOfRoundScores) {
-    doubleJeopardyScores = gameData.rounds.doubleJeopardy.endOfRoundScores;
-  }
-
-  if (gameData.coryatScores) {
-    coryatScores = gameData.coryatScores;
-  }
-
-  if (gameData.rounds?.jeopardy?.clues) {
-    jeopardyClues = gameData.rounds.jeopardy.clues;
-  }
-
-  if (gameData.rounds?.doubleJeopardy?.clues) {
-    doubleJeopardyClues = gameData.rounds.doubleJeopardy.clues;
-  }
-
-  if (gameData.rounds?.jeopardy?.categories) {
-    jeopardyCategories = gameData.rounds.jeopardy.categories;
-  }
-
-  if (gameData.rounds?.doubleJeopardy?.categories) {
-    doubleJeopardyCategories = gameData.rounds.doubleJeopardy.categories;
-  }
-
-  if (gameData.rounds?.finalJeopardy?.responses) {
-    finalJeopardyResponses = gameData.rounds.finalJeopardy.responses;
-  }
-}
-
-//------------------------------------------------------------------------------
-//------------------------------------------------------------------------------
-function analyzeFinalJeopardy() {
-  if (doubleJeopardyScores.length !== 3) return;
-
-  // Get the numeric scores
-  const numericScores = doubleJeopardyScores.map((s) => s.score);
-  let isLockout = false;
-
-  // Check if any score is more than double both other scores
-  for (let i = 0; i < 3; i++) {
-    const score = numericScores[i];
-    const otherScores = numericScores.filter((_, idx) => idx !== i);
-
-    if (otherScores.every((otherScore) => score > otherScore * 2)) {
-      isLockout = true;
-      break; // Only count each game once
-    }
-  }
-
-  if (isLockout) {
-    ++lockoutCount;
-    return;
-  }
-
-  // Figure out the betting strategy
-}
 
 //------------------------------------------------------------------------------
 //------------------------------------------------------------------------------
@@ -105,8 +18,6 @@ function classifyOneGame(gameData) {
   gamesSheet += `"${gameData.title}","${gameData.comments}"\n`;
 
   classifyGame(gameData);
-  checkIfValuesExist(gameData);
-  analyzeFinalJeopardy();
 }
 
 //------------------------------------------------------------------------------
@@ -185,6 +96,13 @@ function classifyGame(gameData) {
 function classifyGames() {
   try {
     const gamesDir = path.join(__dirname, "games");
+    const gameDataDir = path.join(__dirname, "gameData");
+
+    // Create gameData directory if it doesn't exist
+    if (!fs.existsSync(gameDataDir)) {
+      fs.mkdirSync(gameDataDir);
+    }
+
     const files = fs
       .readdirSync(gamesDir)
       .filter((file) => file.endsWith(".json"));
