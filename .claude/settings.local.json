@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(node classify-games.js:*)",
+      "Bash(node jeopardy-scraper.js:*)",
+      "Bash(for year in 2019 2020 2021 2022 2023 2024)",
+      "Bash(do echo -n \"$year HTML: \")"
+    ]
+  }
+}
