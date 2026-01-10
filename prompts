@@ -1,0 +1,13 @@
+to avoid scraping the j-archive site again, let's do 2, that is, re-scrape from the HTML files in html/. that is why i kept the html files.
+can you write a script that will re-scrape from the html/ files instead of j-archive site?
+
+I ran rescrape-from-html.js, then classify-games.js, then analyze-seasons.js.
+This fixed the 0.0 double jeopardy score issue.
+For seasons 14-36 the double jeopardy scores were all around 25.
+But for season 37 is is lower (15.8), for season 38 is is very low (0.3), for season 39 and 40 it is 0.0.
+Then for season 41 it is back up to 19.
+I assume the problem is some format change in those seasons.
+Can you figure out what is going wrong here?
+
+please move the three node js scripts into a scripts/ directory.
+
