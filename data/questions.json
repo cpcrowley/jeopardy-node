@@ -1,0 +1,74 @@
+{
+  "questions": [
+    {
+      "question": "sample",
+      "shortQuestion": "sample",
+      "answer": "sample",
+      "tags": [],
+      "createdAt": ""
+    },
+    {
+      "question": "Average number of correct answers for winner vs 2nd vs 3rd place",
+      "shortQuestion": "Correct answers by placment",
+      "answer": "POSITION\tAVG. CORRECT\tTOTAL CORRECT\tGAMES ANALYZED\n1st Place (Winner)\t18.6\t139,761\t7,531\n2nd Place\t13.7\t103,352\t7,531\n3rd Place\t11.6\t87,252\t7,531",
+      "tags": [],
+      "createdAt": ""
+    },
+    {
+      "question": "How often does 2nd place bet just enough to beat 1st (101-110% of difference)?",
+      "shortQuestion": "Second place bets just enough",
+      "answer": "Bet just enough (diff+1 to 110%)\t663\t8.9%\nBet more than enough (>110%)\t3,917\t52.7%\nBet less than needed\t2,857\t38.4%",
+      "tags": [],
+      "createdAt": ""
+    },
+    {
+      "question": "How often does 2nd place bet at least 90% of their total?",
+      "shortQuestion": "Second place bets",
+      "answer": "Bet 90%+\t3,290\t43.8%\nBet 75-90%\t703\t9.3%\nBet 50-75%\t1,141\t15.2%\nBet under 50%\t2,385\t31.7%",
+      "tags": [],
+      "createdAt": ""
+    },
+    {
+      "question": "How often does 1st place bet enough to beat both opponents if they bet everything?",
+      "shortQuestion": "First place covers",
+      "answer": "Bet enough to cover\t6,685\t88.8%\nDid not bet enough\t846\t11.2%",
+      "tags": [],
+      "createdAt": ""
+    },
+    {
+      "question": "How often does 1st/2nd/3rd place after Double Jeopardy win the game?",
+      "shortQuestion": "Position win rate (after Double J)",
+      "answer": "Seasons 1-42 | 7,531 games analyzed\nPOSITION\tWINS\tPERCENTAGE\n1st Place\t5,670\t75.3%\n2nd Place\t1,460\t19.4%\n3rd Place\t401\t5.3%",
+      "tags": [],
+      "createdAt": ""
+    },
+    {
+      "question": "How often does 1st/2nd/3rd place after the Jeopardy round win the game?",
+      "shortQuestion": "Position win rate (after J)",
+      "answer": "Seasons 1-42 | 7,530 games analyzed\nPOSITION\tWINS\tPERCENTAGE\n1st Place\t4,239\t56.3%\n2nd Place\t2,126\t28.2%\n3rd Place\t1,165\t15.5%",
+      "tags": [],
+      "createdAt": ""
+    },
+    {
+      "question": "What is the average bet for a daily double in terms of percentage of the money they have? So they bet everything, the percentage is 100. If they bet half their money and percentage will be 50.",
+      "shortQuestion": "",
+      "answer": "",
+      "tags": [],
+      "createdAt": ""
+    },
+    {
+      "question": "What percentage of leaders after Double Jeopardy win the game?",
+      "shortQuestion": "DJ leader win rate",
+      "answer": "",
+      "tags": [],
+      "createdAt": "2026-01-19T17:27:18.983Z"
+    },
+    {
+      "question": "What is the average bet for a daily double in terms of percentage of the money they have? So they bet everything, the percentage is 100. If they bet half their money and percentage will be 50.",
+      "shortQuestion": "",
+      "answer": "",
+      "tags": [],
+      "createdAt": "2026-01-19T19:04:39.395Z"
+    }
+  ]
+}

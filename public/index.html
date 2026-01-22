@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Jeopardy Game Statistics</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="container">
+    <header>
+      <h1>Jeopardy Game Statistics</h1>
+      <button id="helpBtn" class="help-btn" title="Show help">?</button>
+    </header>
+
+    <!-- Tab Navigation -->
+    <div class="tabs">
+      <button class="tab-btn active" data-tab="predefined" title="Select from pre-built analysis queries">Predefined Queries</button>
+      <button class="tab-btn" data-tab="ask" title="Ask a custom question using AI">Ask Question</button>
+    </div>
+
+    <!-- Tab 1: Predefined Queries -->
+    <div id="predefined-tab" class="tab-content active">
+      <div class="controls">
+        <div class="control-group">
+          <label for="queryType">Question:</label>
+          <select id="queryType" title="Select a predefined analysis query">
+            <option value="">Loading...</option>
+          </select>
+        </div>
+
+        <div class="control-group">
+          <label>Season Range:</label>
+          <div class="season-range">
+            <input type="number" id="startSeason" min="1" max="99" value="1" title="Start season (inclusive)">
+            <span>to</span>
+            <input type="number" id="endSeason" min="1" max="99" value="42" title="End season (inclusive)">
+          </div>
+        </div>
+
+        <button id="analyzeBtn" class="analyze-btn" title="Run the selected analysis">Analyze</button>
+      </div>
+
+      <div id="queryDescription" class="query-description"></div>
+    </div>
+
+    <!-- Tab 2: Ask Question -->
+    <div id="ask-tab" class="tab-content hidden">
+      <div class="ask-controls">
+        <div class="control-group">
+          <label for="savedQuestions">Saved Questions:</label>
+          <select id="savedQuestions" title="Select a previously saved question">
+            <option value="">-- New Question --</option>
+          </select>
+        </div>
+
+        <div class="control-group full-width">
+          <label for="questionText">Your Question:</label>
+          <textarea id="questionText" rows="3" placeholder="Ask a question about the Jeopardy data, e.g., 'What percentage of leaders after Double Jeopardy win the game?'" title="Enter your question about Jeopardy game statistics"></textarea>
+        </div>
+
+        <div class="control-group">
+          <label for="questionSummary">Summary (optional):</label>
+          <input type="text" id="questionSummary" placeholder="~5 word summary" maxlength="50" title="Brief summary for dropdown display">
+        </div>
+
+        <div class="control-group">
+          <label>Season Range:</label>
+          <div class="season-range">
+            <input type="number" id="askStartSeason" min="1" max="99" value="1" title="Start season (inclusive)">
+            <span>to</span>
+            <input type="number" id="askEndSeason" min="1" max="99" value="42" title="End season (inclusive)">
+          </div>
+        </div>
+
+        <div class="control-group checkbox-group">
+          <label>
+            <input type="checkbox" id="saveQuestion" checked title="Save this question for future use">
+            Save question
+          </label>
+        </div>
+
+        <button id="askBtn" class="analyze-btn" title="Generate and run analysis using AI">Ask</button>
+      </div>
+
+      <div id="askDescription" class="query-description">
+        Enter a question about Jeopardy game statistics. Claude will generate analysis code and run it against the game data.
+      </div>
+    </div>
+
+    <div id="loading" class="loading hidden">
+      <div class="spinner"></div>
+      <span>Analyzing games...</span>
+    </div>
+
+    <div id="results" class="results hidden">
+      <h2 id="resultsTitle"></h2>
+      <p id="resultsMeta" class="meta"></p>
+      <table id="resultsTable">
+        <thead></thead>
+        <tbody></tbody>
+      </table>
+      <div id="apiCost" class="api-cost hidden" title="Cost of the Claude API call for this query"></div>
+    </div>
+
+    <div id="error" class="error hidden"></div>
+  </div>
+
+  <!-- Help Modal -->
+  <div id="helpModal" class="modal hidden">
+    <div class="modal-content">
+      <button class="modal-close" id="closeHelp">&times;</button>
+      <h2>How to Use</h2>
+
+      <h3>Predefined Queries Tab</h3>
+      <ol>
+        <li><strong>Select a question</strong> from the dropdown menu</li>
+        <li><strong>Choose a season range</strong> to analyze (e.g., seasons 35-42 for recent games)</li>
+        <li>Click <strong>Analyze</strong> to run the query</li>
+      </ol>
+
+      <h3>Ask Question Tab</h3>
+      <ol>
+        <li><strong>Enter a natural language question</strong> about Jeopardy statistics</li>
+        <li><strong>Add an optional summary</strong> (~5 words) for easy reference</li>
+        <li><strong>Choose a season range</strong> to analyze</li>
+        <li>Click <strong>Ask</strong> - Claude AI will generate and execute analysis code</li>
+      </ol>
+      <p>Your questions are saved automatically for future use.</p>
+
+      <h3>Available Predefined Questions</h3>
+      <div id="helpQueries"></div>
+
+      <h3>About the Data</h3>
+      <p>This app analyzes historical Jeopardy! game data scraped from j-archive.com.
+         Each game includes scores at the end of each round, Final Jeopardy wagers,
+         and which contestants answered each clue correctly.</p>
+    </div>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>

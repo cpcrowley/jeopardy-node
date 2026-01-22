@@ -2,15 +2,20 @@
   "name": "jeopardy",
   "version": "1.0.0",
   "description": "fetch and analyze jeopardy games",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@anthropic-ai/sdk": "^0.39.0",
     "axios": "^1.7.9",
     "cheerio": "^1.0.0",
+    "dotenv": "^17.2.3",
+    "express": "^4.22.1",
     "jsdom": "^25.0.1"
   }
 }
